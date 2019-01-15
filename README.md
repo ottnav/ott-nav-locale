@@ -1,0 +1,1 @@
+# ott-nav-locale
