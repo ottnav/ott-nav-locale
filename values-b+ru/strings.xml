@@ -1,0 +1,464 @@
+<resources>
+    <string name="press_back_once_more_to_exit">Нажмите ещё раз для выхода</string>
+
+    <!-- search screen -->
+    <string name="search_bar">Искать по каналам или передачам</string>
+    <string name="search_bar_clue">попробуйте название фильма, сериала, передачи, имена актеров</string>
+
+    <!-- menu -->
+    <string name="menu_search">Поиск по видео</string>
+    <string name="menu_live">Прямой эфир</string>
+    <string name="menu_archive">Архив передач</string>
+    <string name="menu_vod">Видео библиотека</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_qs_provider">Сменить провайдера</string>
+    <string name="menu_error_require_provider_title">Требуется OTT провайдер</string>
+    <string name="menu_error_require_provider_text">Данный раздел доступен только при настроенном OTT провайдере. Воспользуйтесь другими разделами, или настройте провайдера.</string>
+    <string name="menu_error_require_provider_button">Настроить провайдера</string>
+    <string name="menu_error_require_status_title">Данные индексируются</string>
+    <string name="menu_error_require_status_text">Данные для данного раздела пока недоступны. Подождите немного, или воспользуйтесь другими разделами. Это может занять до пары минут.</string>
+    <string name="menu_error_require_live_but_no_playlist_title">Плейлист с каналами не смог загрузиться</string>
+    <string name="menu_error_require_live_but_no_playlist_text">Настроенный провайдер или плейлист недоступен. Просьба проверить настройки провайдера и если они в порядке, спишитесь с вашим IPTV провайдером.</string>
+    <string name="menu_error_provider_no_archive_title">Архив не поддерживается</string>
+    <string name="menu_error_provider_no_archive_text">Выбранный провайдер не поддерживает архивы. Доступнен только прямой эфир. Смените провайдера в настройках или перейдите в раздел прямого эфира.</string>
+    <string name="menu_error_provider_no_archive_button">Перейти к прямому эфиру</string>
+
+    <!-- browse -->
+    <string name="browse_description_series_number">серия</string>
+    <string name="browse_note_about_category_no_filters_yet">Автоматические фильтры для этой категории появятся при следующей переиндексации</string>
+    <string name="browse_note_about_category_quick_jump">В списках, отсортировнных по алфавиту (таких, как список передач, категорий и тд) доступно меню быстрой навигации при нажатии на стрелку вправо</string>
+    <string name="browse_description_header_live">Каналы в эфире</string>
+    <string name="browse_description_header_archive">Выбор архива</string>
+    <string name="browse_description_header_program">Программа канала</string>
+
+    <!-- categories -->
+    <string name="category_movies">Все фильмы</string>
+    <string name="category_tv_series">Все сериалы</string>
+    <string name="category_tv_shows">Все телепередачи</string>
+    <string name="category_fav_channels">Любимые каналы</string>
+    <string name="category_by_categories">Фильтр по категориям</string>
+    <string name="category_by_years">Фильтр по дате производства</string>
+    <string name="category_by_age">Фильтр по возрастному рейтингу</string>
+    <string name="category_by_country">Фильтр по стране производства</string>
+    <string name="category_by_unsorted">Все подряд</string>
+    <string name="category_by_favorite">Любимые</string>
+    <string name="category_desc_movies">автоматический фильтр со всех каналов</string>
+    <string name="category_desc_tv_series">автоматический фильтр со всех каналов</string>
+    <string name="category_desc_exact_tv_series">телесериал</string>
+    <string name="category_desc_tv_shows">автоматический фильтр со всех каналов</string>
+    <string name="category_desc_exact_tv_shows">телепрограмма</string>
+    <string name="category_desc_tv_channel">телеканал</string>
+    <string name="category_desc_fav_channels">пополняется автоматически</string>
+    <string name="category_desc_from_fav">только контент из любимых каналов</string>
+
+    <!-- player screen -->
+    <string name="in_1_minute">через 1 минуту</string>
+    <string name="in_n_minutes">через 10 минут</string>
+    <string name="player_episode_details_season">сезон</string>
+    <string name="player_episode_details_series">серия</string>
+    <string name="player_warn_turn_off">Will turn off</string>
+    <string name="player_press_to_cancel">Нажмите OK для отмены</string>
+    <string name="player_touch_to_cancel">Нажмите на экран для отмены</string>
+    <string name="player_state_no_media">Поток не выбран</string>
+    <string name="player_state_no_media_ended">Поток не выбран (завершен)</string>
+    <string name="player_state_buffering">Буферизация</string>
+
+    <!-- errors -->
+    <string name="error_this_video_requires_external_player">Этому видео для приятного проигрывания требуется внешний плейер</string>
+    <string name="error_stream_not_reachable_no_connect">Поток недоступен (нет связи). Свяжитесь с вашим провайдером</string>
+    <string name="error_stream_not_reachable_no_resource">Поток недоступен. Свяжитесь с вашим провайдером</string>
+    <string name="error_stream_not_reachable_forbidden">В доступе отказано (неверный ключ?). Свяжитесь с вашим провайдером</string>
+    <string name="error_archive_not_supported">Ваш провайдер не поддерживает архивы</string>
+    <string name="error_archive_not_supported_this_channel">Ваш провайдер не предлагает архив для этого канала</string>
+    <string name="error_search_nothing_found">Ничего не соответствует критериям</string>
+    <string name="error_search_too_much_found">Слишком много результатов, показаны первые</string>
+    <string name="error_require_file_permission_grant_and_try_again">Требуется доступ к хранилищу. Выдайте доступ и повторите операцию</string>
+
+    <string name="info_teleguide_loaded">Программа передач (EPG) загружена: записей</string>
+    <string name="info_channels_count_updated">Провайдер добавил новые каналы</string>
+
+    <!-- player menu -->
+    <string name="player_menu_select_channel_title">Другой канал</string>
+    <string name="player_menu_select_archive_title">Другое видео</string>
+    <string name="player_menu_set_pause_on_title">Поставить паузу</string>
+    <string name="player_menu_set_pause_off_title">Продолжить просмотр</string>
+    <string name="player_menu_set_pause_on_details">проигрывается</string>
+    <string name="player_menu_set_pause_off_details">на паузе</string>
+    <string name="player_menu_show_timetable_title">Телепрограмма</string>
+    <string name="player_menu_playback_parameters_title">Параметры</string>
+    <string name="player_menu_playback_parameters_speed">Скорость проигрывания</string>
+    <string name="player_menu_aspect_ratio_title">Размер картинки</string>
+    <string name="player_menu_aspect_ratio_fit_details">поместить в экран</string>
+    <string name="player_menu_aspect_ratio_fill_details">заполнить по ширине</string>
+    <string name="player_menu_aspect_ratio_zoom_details">увеличить до экрана</string>
+    <string name="player_menu_aspect_ratio_zoom_in_details">увеличить за экран (обрезать часть)</string>
+    <string name="player_menu_favorite_on_title">Пометить</string>
+    <string name="player_menu_favorite_off_title">Снять отметку</string>
+    <string name="player_menu_favorite_on_details">Добавить в любимые</string>
+    <string name="player_menu_favorite_off_details">Убрать из любимых</string>
+    <string name="player_menu_timeshift">Таймшифт</string>
+    <string name="player_menu_timeshift_on_details">Начать сначала</string>
+    <string name="player_menu_timeshift_off_details">В прямой эфир</string>
+    <string name="player_menu_pip_title">Картинка-в-картинке</string>
+    <string name="player_menu_pip_on_details">Выйти из режима картинка-в-картинке</string>
+    <string name="player_menu_pip_off_details">Поместить канал в режим PiP</string>
+    <string name="player_menu_pip_swap_details">Поменять текущий канал и идущий в PiP</string>
+    <string name="player_menu_last_channel">Предыдущий канал</string>
+    <string name="player_menu_play_param_sel_audio_track">Выбор звуковой дорожки</string>
+    <string name="player_menu_play_param_sel_audio_track_desc">Выбор другого языка или качества</string>
+
+    <string name="settings_player_pip_size">Размер картинки-в-картинке</string>
+    <string name="settings_player_pip_position">Позиция картинки-в-картинке</string>
+    <string name="settings_player_pip_codec">Выбор кодеков для картинки-в-картинке</string>
+    <string name="settings_player_pip_position_tl">слева сверху</string>
+    <string name="settings_player_pip_position_tr">справа сверху</string>
+    <string name="settings_player_pip_position_bl">слева снизу</string>
+    <string name="settings_player_pip_position_br">справа снизу</string>
+    <string name="settings_channel_sort_mode">Сортировать каналы по</string>
+    <string name="settings_channel_sort_mode_freq">частоте (вначале любимые, затем наиболее частые)</string>
+    <string name="settings_channel_sort_mode_prov">порядку из плейлиста провайдера</string>
+    <string name="settings_channel_sort_mode_name">названию (вначале любимые, затем по названию)</string>
+    <string name="settings_run_at_boot">Запускать приложение при загрузке устройства</string>
+
+    <string name="hint_title">Совет</string>
+    <string name="hint_long_tap">При долгом нажатии на элемент списка можно получить дополнительное описание (если доступно).</string>
+    <string name="hint_fav_sorting">Приложение сортирует каналы по частоте использования. Каналы, добавленные в любимые пользователем всегда будут выше в списке. Можно отключить автоматическую сортировку, настроив использовать порядок провайдера, но тогда не будет доступна категория любимых.</string>
+    <string name="hint_video_codecs">Если источник проигрывается плохо, можете попробовать увеличить размер буфера в настройках, переключить на другой режим обработки потока (хардварный или софтварный), или же вообще настроить использование внешнего плейера для проигрывания.</string>
+    <string name="hint_auto_turn_off">Вы можете настроить автовыключения трансляции в настройках через некоторое время неактивности (полезно при поминутной оплате). Активностью считается управление плейером при просмотре (например, запуск меню, перемотка, пауза и тд)</string>
+
+    <!-- provider -->
+    <string name="settings_provider_select_type">Выберите поставщика OTT/IPTV услуг</string>
+    <string name="settings_provider_select_type_intro1">ВАЖНО: Вам требуется OTT/IPTV провайдер для использования приложения.</string>
+    <string name="settings_provider_select_type_intro2">Приложение работает только с приложенными пользователем плейлистами.</string>
+    <string name="settings_provider_select_type_intro3">Выберите поставщика OTT/IPTV услуг</string>
+    <string name="settings_provider_select_key">Ключ авторизации провайдера.</string>
+    <string name="settings_provider_select_url">URL адрес плейлиста провайдера.</string>
+    <string name="settings_provider_select_apply">Применить</string>
+    <string name="settings_provider_select_return">Вернуться</string>
+    <string name="settings_provider_select_prompt_public_playlist_key">Публичный ключ для плейлиста</string>
+    <string name="settings_provider_select_prompt_stalker_login_pass">Stalker логин и пароль</string>
+    <string name="settings_provider_select_prompt_lp">Ваш логин и пароль</string>
+
+    <string name="settings_provider_select_status1">Идет загрузка данных провайдера.</string>
+    <string name="settings_provider_select_status2">Пожалуйста, подождите и не переключайтесь.</string>
+    <string name="settings_provider_select_status3">Это может занять 2–3 минуты.</string>
+    <string name="settings_provider_select_status_error">Ошибка настройки. Не получилось подгрузить данные</string>
+    <string name="settings_provider_select_status_success">Настройка успешно применена</string>
+
+    <string name="settings_provider_select_action_playlist">валидируется плейлист</string>
+    <string name="settings_provider_select_action_live">грузятся каналы прямого эфира</string>
+    <string name="settings_provider_select_action_archive">грузятся архивные каналы</string>
+    <string name="settings_provider_select_error_playlist">плейлист неверен или не содержит поддерживаемые каналы. Проверьте пользователя/ключ/пароль/ссылку.</string>
+    <string name="settings_provider_select_error_live">не содержит поддерживаемые каналы</string>
+    <string name="settings_provider_select_error_archive">не содержит поддержиываемые архивные каналы</string>
+
+    <string name="settings_dummy_mode">Упрощенный режим (большинство возможностей спрятано)</string>
+    <string name="auto_turn_off_since_hdmi_off">HDMI отключен: автовыключение видео</string>
+
+    <string name="archive_auto_seek_title">Перемотать на последнюю запомненную позицию этого видео?</string>
+    <string name="archive_auto_seek_no">Нет, смотреть сначала</string>
+    <string name="archive_auto_seek_yes">Да, перемотать на</string>
+    <string name="future_show_sheet_title">Что будем делать с передачей из будущего?</string>
+    <string name="future_show_sheet_add_wl_title">Напомнить мне преключить на канал</string>
+    <string name="future_show_sheet_add_wl_desc">Во время просмотра другого видео получить запрос о переключении</string>
+    <string name="future_show_sheet_add_wl_push_desc">Получить пуш нотификацию когда видео будет онлайн</string>
+    <string name="future_show_sheet_search_title">Поиск в архивах</string>
+    <string name="future_show_sheet_search_desc">Проверить доступность в архивах</string>
+    <string name="future_show_sheet_search_none">Данное видео не найдено в архивах вашего провайдера</string>
+    <string name="notify_live_sheet_title">Видео, помеченное для просмотра позже сейчас в эфире</string>
+    <string name="notify_live_sheet_text">Переключиться на просмотр</string>
+    <string name="vod_root_title_provider">Медиатека от</string>
+    <string name="feature_requires_premium">Эта возможность требует премиум</string>
+    <string name="feature_requires_restart">Требуется перезапуск приложения</string>
+    <string name="no_teleguide">Нет EPG телепрограммы</string>
+    <string name="vod_root_title_playlist">Свой плейлист</string>
+    <string name="play_switch_codec">Сменить кодек</string>
+    <string name="play_switch_codec_details">Загрузить поток другим декодировщиком</string>
+    <string name="play_switch_codec_hard">Использовать хардварные кодеки</string>
+    <string name="play_switch_codec_ffmpeg">Использовать софтварные ffmpeg</string>
+    <string name="play_switch_codec_vlc">Использовать софтварные VLC</string>
+    <string name="play_switch_codec_ext">Открыть во внешнем плейере</string>
+    <string name="disk_is_full">Хранилище забито. Освободите немного места.</string>
+    <string name="channel_more_hide">Скрыть</string>
+    <string name="channel_more_hide_desc">Убрать из списка</string>
+    <string name="change_applies_in_few_min">Изменения применятся за пару минут</string>
+    <string name="hud_short_volume">Громкость</string>
+    <string name="hud_short_bright">Яркость</string>
+
+    <string name="settings_provider">Провайдер</string>
+    <string name="settings_live">Прямой эфир</string>
+    <string name="settings_media_library">Медиатека</string>
+    <string name="settings_media_library_dnla">Сканировать источники UPnP/DNLA в локальной сети</string>
+    <string name="settings_media_library_prov_vod">Сканировать библиотеку провайдера, если она присутствует</string>
+
+    <!-- Archive -->
+    <string name="settings_archive">Архив</string>
+    <string name="settings_archive_min_duration">Минимальная длина видео для архива</string>
+    <string name="settings_archive_max_duration">Максимальная длина видео для архива</string>
+    <string name="settings_archive_duration_name_u">Не ограничено</string>
+    <string name="settings_archive_duration_name_10m">10 минут</string>
+    <string name="settings_archive_duration_name_20m">20 минут</string>
+    <string name="settings_archive_duration_name_30m">30 минут</string>
+    <string name="settings_archive_duration_name_40m">40 минут</string>
+    <string name="settings_archive_duration_name_50m">50 минут</string>
+    <string name="settings_archive_duration_name_1h">1 час</string>
+    <string name="settings_archive_duration_name_2h">2 часа</string>
+    <string name="settings_archive_duration_name_3h">3 часа</string>
+
+    <!-- Player -->
+    <string name="settings_player">Проигрыватель</string>
+    <string name="settings_player_hide_ui">Прятать интерфейс управления видео через</string>
+    <string name="sec1">1 секунду</string>
+    <string name="sec2">2 секунды</string>
+    <string name="sec3">3 секунды</string>
+    <string name="sec4">4 секунды</string>
+    <string name="sec5">5 секунд</string>
+    <string name="sec6">6 секунд</string>
+    <string name="sec7">7 секунд</string>
+    <string name="sec8">8 секунд</string>
+    <string name="sec9">9 секунд</string>
+    <string name="sec10">10 секунд</string>
+    <string name="settings_player_resize_mode">Режим растягивания картинки</string>
+    <string name="settings_player_resize_mode_fit">Поместить в экран</string>
+    <string name="settings_player_resize_mode_fill">Растянуть на ширину экрана</string>
+    <string name="settings_player_resize_mode_zoom">Увеличить до экрана</string>
+    <string name="settings_player_resize_mode_zoom_in">Увеличить за экран</string>
+    <string name="settings_player_auto_stop_live">Автовыключение трансляции через</string>
+    <string-array name="settings_player_auto_stop_live_names">
+        <item>отключено</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>5 часов</item>
+        <item>6 часов</item>
+        <item>10 часов</item>
+    </string-array>
+
+    <!-- Extended -->
+    <string name="settings_extended">Расширенные настройки</string>
+    <string name="settings_extended_hide_adult">Прятать категории для взрослых</string>
+    <string name="settings_extended_auto_start_last_channel">Автоматически запускать последний просмотренный канал</string>
+    <string name="settings_extended_user_epg_source">Дополнительный источник EPG данных (в формате xml.gz)</string>
+    <string name="settings_schedule_epg_custom_only">Использовать только приложенные пользователем источники EPG</string>
+    <string name="settings_schedule_epg_reload">Перезагрузить EPG телегид…</string>
+    <string name="settings_schedule_epg_clear">Очистить всю загруженную программу…</string>
+    <string name="settings_schedule_epg_clear_note">удаляет все закешированные EPG данные чтобы обновление работало с чистого листа</string>
+
+    <string name="settings_status">Статус</string>
+    <string name="settings_visual">Внешний вид</string>
+
+    <string name="settings_live_quick_channel_switch_delay">Задержка перед быстрым переключением канала</string>
+    <string-array name="settings_live_quick_channel_switch_delay_names">
+        <item>переключать моментально</item>
+        <item>дать секунду на продолжение выбора</item>
+        <item>нормальная (2 секунды на выбор)</item>
+        <item>медленная (5 секунд на выбор)</item>
+    </string-array>
+
+    <string name="settings_player_buffer_size">Размер буфера проигрывания</string>
+    <string-array name="settings_player_buffer_size_names">
+        <item>без буфера (использует минимум памяти)</item>
+        <item>стандартный</item>
+        <item>увеличенный</item>
+        <item>большой (слабый интернет, слабый поток)</item>
+        <item>огромный (большой расход памяти для плохих условий)</item>
+    </string-array>
+
+    <string name="settings_show_clock_in_player_always">Показывать текущее время при просмотре видео</string>
+
+    <string name="settings_font_style">Размер текста</string>
+    <string-array name="settings_font_style_names">
+        <item>мелкий</item>
+        <item>нормальный</item>
+        <item>крупный</item>
+        <item>огромный</item>
+        <item>гигантский (может прятать некоторые возможности)</item>
+    </string-array>
+
+    <string name="settings_palette_style">Цветовая схема (палитра)</string>
+
+    <string name="settings_ui_screen_margins">Границы экрана</string>
+    <string name="settings_ui_language">Язык (если не установлен - системный)</string>
+
+    <string name="settings_disable_provider_categories">Не соблюдать категории провайдера для каналов</string>
+
+    <string name="settings_ui_touch_swipes">Отключить управление громкостью/яркостью пальцем</string>
+    <string name="settings_ui_play_vol_seek">Использовать кнопки перемотки для смены громкости</string>
+
+    <string name="settings_ui_only_manual_favorites">Показывать только избранные вручную каналы в любимых</string>
+
+    <string name="settings_devices_no_hdmi">Не следить за сменой состояния HDMI</string>
+
+    <string name="settings_codec">Настройки кодеков</string>
+    <string name="settings_codec_hard">Всегда использовать хардварные кодеки</string>
+    <string name="settings_codec_soft_ijk">Всегда использовать софтварные кодеки ffmpeg</string>
+    <string name="settings_codec_soft_vlc">Всегда использовать софтварные кодеки VLC</string>
+    <string name="settings_codec_external">Всегда использовать внешний плейер</string>
+
+    <string name="settings_epg">EPG телепрограмма</string>
+
+    <string name="settings_live_extra_m3u_source_1">Дополнительный m3u плейлист-источник #1</string>
+    <string name="settings_live_extra_m3u_source_2">Дополнительный m3u плейлист-источник #2</string>
+
+    <string name="settings_external_player">Внешний плейер</string>
+
+    <!-- Premium -->
+    <string name="settings_premium">Премиум</string>
+    <string name="settings_premium_source_purchase">Премиум приобретен</string>
+    <string name="settings_premium_source_subscription">Подписка на премиум оформлена</string>
+    <string name="settings_premium_source_unknown">Премиум не включен</string>
+    <string name="settings_premium_what_included">Посмотреть список возможностей премиума…</string>
+    <string name="settings_premium_what_included_1">Режим картинка-в-картинке при просмотре прямого эфира</string>
+    <string name="settings_premium_what_included_2">Возможность вернуться на предыдущий канал</string>
+    <string name="settings_premium_what_included_3">Автоматическая подстройка частоты кадров</string>
+    <string name="settings_premium_what_included_4">Управление скоростью проигрывания архивов</string>
+    <string name="settings_premium_what_included_7">Быстрое переключение между несколькими настроенными провайдерами</string>
+
+    <string name="settings_premium_toggles">Настройки премиума</string>
+    <string name="settings_premium_toggles_try_afr">Автоматически менять частоту кадров для совпадения с видео</string>
+    <string name="settings_premium_toggles_try_afr_toast">Текущий дисплей поддерживает частоту кадров</string>
+    <string name="settings_premium_toggles_provider_qs">Показывать быструю смену провайдера в меню</string>
+
+    <string name="settings_premium_toggle_btn_title">Включить премиум возможности</string>
+    <string name="settings_premium_toggle_btn_sub_add">Подписаться</string>
+    <string name="settings_premium_toggle_btn_sub_add_desc">Включить премиум, подписавшись на небольшой регулярный платёж</string>
+    <string name="settings_premium_toggle_btn_buy_add">Приобрести</string>
+    <string name="settings_premium_toggle_btn_buy_add_desc">Включить премиум единым платежём</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads">Купить отключение рекламы (также включено во все премиум пакеты)</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads_desc">Отключить рекламу навсегда единым платежём</string>
+    <string name="settings_vod_extra_source1">Дополнительный m3u источник #1</string>
+    <string name="settings_vod_extra_source2">Дополнительный m3u источник #2</string>
+    <string name="settings_vod_extra_source3">Дополнительный m3u источник #3</string>
+
+    <!-- 1.4.1 -->
+    <string name="setting_list_view_title">Как должны показываться списки</string>
+    <string name="setting_list_view1">простым списком</string>
+    <string name="setting_list_view2">таблица (2 колонки) с описанием</string>
+    <string name="setting_list_view3">таблица (3 колонки)</string>
+    <string name="setting_list_view4">таблица (4 колонки)</string>
+    <string name="cfg_play_deny_buffer">Не показывать статус буферизации</string>
+    <string name="copied_clipboard">Скопировано в буфер</string>
+    <string name="cfg_play_action_none">игнорировать</string>
+    <string name="cfg_play_action_menu">открыть меню</string>
+    <string name="cfg_play_action_another">открыть выбор другого потока</string>
+    <string name="cfg_play_action_timetable">открыть программу передач</string>
+    <string name="cfg_play_action_prev">переключить на предыдущий канал</string>
+    <string name="cfg_play_action_next">переключить на следующий канал</string>
+    <string name="cfg_play_action_params">открыть параметры воспроизведения</string>
+    <string name="cfg_play_action_last">переключить на последний просмотренный канал</string>
+    <string name="cfg_play_action_title">Настроить пульт</string>
+    <string name="cfg_play_action_btn_archive_as_live">Использовать эти же кнопки для просмотра архивов (отключит перемотку кнопками влево и вправо)</string>
+    <string name="cfg_trans_wind">Использовать прозрачный интерфейс</string>
+    <string name="cfg_list_poster_time">Показывать постер в течении (секунды, если доступно)</string>
+
+    <!-- 1.4.2 -->
+    <string name="do_not_show">не показывать</string>
+    <string name="android_not_genuine">Покупки могут не работать на вашем устройстве.</string>
+    <string name="btn_clear_cache">Очистить кеш (перечитается на следующем запуске)</string>
+    <string name="menu_error_require_status_archive_text">Архивные данные пока недоступны. Если они долго не появляются, обычно означает, что телепрограмма (EPG) недоступна. В этом случае вы можете запланировать загрузку EPG в настройках или найти и настроить более подходящие источники EPG.</string>
+    <string name="cfg_bad_epg_match">Поддерживать поломанную связку EPG (может быть нужен для некоторых криво настроенных провайдеров)</string>
+    <string name="spread_title">Нравится приложение? Расскажите о нём!</string>
+    <string name="spread_btn_rate">Поставить рейтинг в пять звёзд</string>
+    <string name="spread_btn_share">Поделиться приложением с другом</string>
+    <string name="spread_share_title">Посмотри на приложение</string>
+    <string name="settings_premium_what_included_9">Переключение каналов вводя номер канала</string>
+    <string name="settings_channel_sort_mode_numb">номеру (номер канала, может быть изменён)</string>
+    <string name="ch_opt_change_number">Сменить номер</string>
+    <string name="ch_opt_change_number_desc">Используется для быстрого переключения</string>
+    <string name="prov_btn_help">Помощь</string>
+    <string name="prov_help_telegram">Зайти в чат в Телеграм</string>
+    <string name="prov_help_email">Отправить email разработчику</string>
+    <string name="settings_premium_what_included_5">Отсутствие рекламы</string>
+    <string name="provider_templates">Часто используемые шаблоны провайдера</string>
+    <string name="btn_change">Сменить</string>
+    <string name="btn_file">Файл</string>
+    <string name="invalid_domain">Вероятно, домен неверен. Проверьте вашу настройку</string>
+    <string name="example">Пример</string>
+    <string name="provider_astra">Типичный middleware сервер (Astra)</string>
+    <string name="provider_generic">Типичный провайдер или плейлист</string>
+    <string name="watched">Просмотрено:</string>
+    <string name="cfg_no_inst_vod_wstate">Не считать видео просмотренным как только оно запущено</string>
+    <string name="btn_search">Поиск</string>
+    <string name="hint_vod_cache">Медиа библиотека кеширует данные на несколько дней. Если вы хотите, чтобы ваши данные появились быстрее, очистите кеш в настройках и перезапустите приложение.</string>
+    <string name="provider_xc">Типичный middleware сервер (XtreamCodes)</string>
+    <string name="premium_fea_6">Отправить поток на беспроводной дисплей</string>
+    <string name="wifi_display">Беспроводной дисплей</string>
+    <string name="wifi_display_desc">Играть поток на другом устройстве</string>
+
+    <!-- 1.4.3 -->
+    <string name="cfg_play_action_fav">открыть выбор любимых каналов</string>
+    <string name="cfg_play_action_pp">поставить паузу или продожить просмотр</string>
+    <string name="cfg_play_action_btn_red">Действие для красной кнопки</string>
+    <string name="cfg_play_action_btn_green">Действие для зелёной кнопки</string>
+    <string name="cfg_play_action_btn_yellow">Действие для жёлтой кнопки</string>
+    <string name="cfg_play_action_btn_blue">Действие для синей кнопки</string>
+    <string name="map_channel_to_epg">Привязать канал к EPG</string>
+    <string name="map_channel_to_epg_desc">Выбрать имя из TV программы</string>
+    <string name="map_channel_to_epg_after">Изменения применятся на следующем обновлении телегида EPG.</string>
+    <string name="cfg_epg_1_provider">Этот источник будет считаться главным (если настроен)</string>
+    <string name="cfg_play_action_vol_d">уменьшить громкость</string>
+    <string name="cfg_play_action_vol_u">повысить громкость</string>
+    <string name="cfg_ext_player_auto">Системный плейер по умолчанию</string>
+    <string name="cfg_ext_player_chooser">Выбирать вручную каждый раз</string>
+    <string name="btn_install">Установаить</string>
+    <string name="btn_close">Закрыть</string>
+    <string name="prem_sub_add_3m">Подписаться (ежеквартальная оплата)</string>
+    <string name="prem_sub_add_1y">Подписаться (ежегодная оплата)</string>
+    <string name="cfg_section_cache">Настройки кеширования</string>
+    <string name="cfg_cache_dur_no">Не кешировать</string>
+    <string name="cfg_duration_8h">8 часов</string>
+    <string name="cfg_duration_1d">1 день</string>
+    <string name="cfg_duration_2d">2 дня</string>
+    <string name="cfg_duration_3d">3 дня</string>
+    <string name="cfg_duration_1w">1 неделя</string>
+    <string name="cfg_duration_2w">2 недели</string>
+    <string name="cfg_duration_1m">1 месяц</string>
+    <string name="cfg_cache_archive">Кешировать архивы на</string>
+    <string name="cfg_cache_vod">Кешировать данным медиа библиотеки на</string>
+    <string name="premium_fea_pvsearch">Голосовой поиск при просмотре. Поиск канала по имени или содержимому архива.</string>
+    <string name="cfg_play_action_vsearch">голосовой поиск</string>
+    <string name="settings_premium_source_enabled">Премиум включен</string>
+    <string name="cfg_play_action_mute">включить/выключить звук</string>
+    <string name="cfg_play_action_unbind">не обрабатывать (оставить системное поведение)</string>
+    <string name="settings_codec_auto">кодек по умолчанию для провайдера</string>
+    <string name="cfg_ign_last_codec">не запоминать последний использованный кодек для канала</string>
+    <string name="btn_schedule_epg">запланировать загрузку EPG</string>
+    <string name="err_archive_is_shorter">Архив данного канала доступен на меньшее время у вашего провайдера</string>
+    <string name="cfg_no_seek">Эмулировать перемотку переоткрытием потока с новой точки каждый раз</string>
+    <string name="cfg_section_backup">Сохранение и загрузка</string>
+    <string name="btn_backup_info">Сохранение хранится по ключу. Запиши его как только сохранение завершено. Нет гарантий, как долго сохранение будет доступно для загрузки.</string>
+    <string name="btn_backup_data">Сохранить текущую конфигурацию</string>
+    <string name="btn_backup_load">Загрузить предварительно сохранённую конфигурацию</string>
+    <string name="err_need_newer_android">Эта возможность требует более новой версии Android</string>
+    <string name="cfg_play_action_sys_pip">Войти в системный режим PiP</string>
+    <string name="cfg_video_cutout">Прятать верхние и нижние линии видео (в пикселях)</string>
+    <string name="cfg_video_retry">Сколько раз пытаться перезагружать видео в случае ошибки</string>
+    <string name="cfg_play_action_2live">Переключить на прямой эфир текущего канала</string>
+    <string name="player_menu_2live">В прямой эфир</string>
+    <string name="settings_provider_select_key_if_any">Ключ авторизации провайдера (если есть).</string>
+
+    <!-- 1.4.4 -->
+    <string name="prov_help_email_describe">Опишите вашу проблему или рекомендацию</string>
+    <string name="cfg_ch_all_top">Показывать категорию со всеми каналами сверху</string>
+    <string name="cfg_pl_offs_swipe">Перенести тач панель настройки громкости и яркости от края экрана</string>
+    <string name="btn_seek">Перемотать</string>
+    <string name="cfg_play_action_mseek">Запустить экран перемотки видео</string>
+    <string name="menu_exit">Выход</string>
+    <string name="hint_try_premium_sub_free">Вы можете бесплатно один раз попробовать подписку на несколько дней, решая, нужна ли она вам, или нет. Просмотрите детали пакета подписки.</string>
+
+    <!-- 1.4.5 -->
+    <string name="premium_fea_pre_vid">Показывать предпросмотр выбранного видео в описании</string>
+    <string name="vp_audio_shift">Сдвиг звука</string>
+    <string name="vp_audio_shift_desc">Синхронизация звука с видео</string>
+    <string name="cfg_next_n_desc">Сколько следующих телепередач показывать в описании канала</string>
+    <string name="cfg_codec_details_title">Дополнительные настройки кодеков</string>
+    <string name="cfg_codec_vlc_q">качество VLC кодека</string>
+    <string name="profile_speed_q">выбирать скорость</string>
+    <string name="profile_middle_q">предпочитать качество скорости</string>
+    <string name="profile_high_q">максимальное качество</string>
+    <string name="channel_move_cat">Сменить категорию</string>
+    <string name="channel_move_cat_desc">Перенести в другую группу</string>
+    <string name="channel_move_new_cat">Создать новую категорию</string>
+    <string name="premium_revert_all_edits">Восстановить конфигурацию каналов к изначальному состоянию</string>
+    <string name="premium_fea_edit_list">Позволяет редактировать категории, прятать каналы и тд</string>
+</resources>

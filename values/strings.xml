@@ -1,0 +1,466 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="press_back_once_more_to_exit">Press once more to exit</string>
+
+    <!-- search screen -->
+    <string name="search_bar">Search by channels or programs</string>
+    <string name="search_bar_clue">try movie, tv-series, tv-show name, or actor names</string>
+
+    <!-- menu -->
+    <string name="menu_search">Video search</string>
+    <string name="menu_live">Live stream</string>
+    <string name="menu_archive">Shows archive</string>
+    <string name="menu_vod">Video library</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_qs_provider">Switch provider</string>
+    <string name="menu_error_require_provider_title">OTT provider is required</string>
+    <string name="menu_error_require_provider_text">This district is available only when OTT provider is configured. Either select another option, or configure a provider.</string>
+    <string name="menu_error_require_provider_button">Configure provider</string>
+    <string name="menu_error_require_status_title">Data is being indexed</string>
+    <string name="menu_error_require_status_text">Information for this section is not available yet. The process can take up to several minutes. Select another section or wait a bit.</string>
+    <string name="menu_error_require_live_but_no_playlist_title">Playlist with channels failed to load</string>
+    <string name="menu_error_require_live_but_no_playlist_text">The configured provider or playlist cannot be reached. Please re-check the provider settings and if they seems OK, contact your IPTV provider.</string>
+    <string name="menu_error_provider_no_archive_title">Archives not supported</string>
+    <string name="menu_error_provider_no_archive_text">Selected provider does not support archives. Only Live streams are available. Navigate to settings to change a provider or go to live stream.</string>
+    <string name="menu_error_provider_no_archive_button">Go to live stream</string>
+
+    <!-- browse -->
+    <string name="browse_description_series_number">episode</string>
+    <string name="browse_note_about_category_no_filters_yet">This category automatic filters will appear after next reindex</string>
+    <string name="browse_note_about_category_quick_jump">Lists sorted alphabetically (like tv-shows, categories, etc) provides quick navigation menu by pressing right arrow</string>
+    <string name="browse_description_header_live">Live channels</string>
+    <string name="browse_description_header_archive">Archive browsing</string>
+    <string name="browse_description_header_program">Channel timetable</string>
+
+    <!-- categories -->
+    <string name="category_movies">All movies</string>
+    <string name="category_tv_series">All TV-series</string>
+    <string name="category_tv_shows">All TV-shows</string>
+    <string name="category_fav_channels">Favorite channels</string>
+    <string name="category_by_categories">Filter by categories</string>
+    <string name="category_by_years">Filter by production date</string>
+    <string name="category_by_age">Filter by age rating</string>
+    <string name="category_by_country">Filter by origin country</string>
+    <string name="category_by_unsorted">Everything</string>
+    <string name="category_by_favorite">Favorite</string>
+    <string name="category_desc_movies">automatic filter from all channels</string>
+    <string name="category_desc_tv_series">automatic filter from all channels</string>
+    <string name="category_desc_exact_tv_series">tv-series</string>
+    <string name="category_desc_tv_shows">automatic filter from all channels</string>
+    <string name="category_desc_exact_tv_shows">TV-show</string>
+    <string name="category_desc_tv_channel">TV channel</string>
+    <string name="category_desc_fav_channels">updated automatically</string>
+    <string name="category_desc_from_fav">only content from favorite channels</string>
+
+    <!-- player screen -->
+    <string name="in_1_minute">in 1 minute</string>
+    <string name="in_n_minutes">in 10 minutes</string>
+    <string name="player_episode_details_season">season</string>
+    <string name="player_episode_details_series">episode</string>
+    <string name="player_warn_turn_off">Will turn off</string>
+    <string name="player_press_to_cancel">Press OK to cancel</string>
+    <string name="player_touch_to_cancel">Touch screen to cancel</string>
+    <string name="player_state_no_media">Stream not selected</string>
+    <string name="player_state_no_media_ended">Stream not selected (ended)</string>
+    <string name="player_state_buffering">Buffering</string>
+
+    <!-- errors -->
+    <string name="error_this_video_requires_external_player">This video requires external player for best experience</string>
+    <string name="error_stream_not_reachable_no_connect">Stream not reachable (cannot connect). Contact your provider</string>
+    <string name="error_stream_not_reachable_no_resource">Stream not reachable. Contact your provider</string>
+    <string name="error_stream_not_reachable_forbidden">Access denied (incorrect key?). Contact your provider</string>
+    <string name="error_archive_not_supported">Your provider does not support archives</string>
+    <string name="error_archive_not_supported_this_channel">Your provider does not provide archives for this channel</string>
+    <string name="error_search_nothing_found">Nothing matched your search query</string>
+    <string name="error_search_too_much_found">Too much results, search truncated</string>
+    <string name="error_require_file_permission_grant_and_try_again">Storage access is required. Provide an access and retry the operation</string>
+
+    <string name="info_teleguide_loaded">Teleguide (EPG) loaded: records</string>
+    <string name="info_channels_count_updated">Provider has added new channels</string>
+
+    <!-- player menu -->
+    <string name="player_menu_select_channel_title">Another channel</string>
+    <string name="player_menu_select_archive_title">Another video</string>
+    <string name="player_menu_set_pause_on_title">Pause playback</string>
+    <string name="player_menu_set_pause_off_title">Resume playback</string>
+    <string name="player_menu_set_pause_on_details">playing</string>
+    <string name="player_menu_set_pause_off_details">paused</string>
+    <string name="player_menu_show_timetable_title">Timetable</string>
+    <string name="player_menu_playback_parameters_title">Parameters</string>
+    <string name="player_menu_playback_parameters_speed">Playback speed</string>
+    <string name="player_menu_aspect_ratio_title">Aspect ratio</string>
+    <string name="player_menu_aspect_ratio_fit_details">fit to screen</string>
+    <string name="player_menu_aspect_ratio_fill_details">fill to width</string>
+    <string name="player_menu_aspect_ratio_zoom_details">zoom to screen</string>
+    <string name="player_menu_aspect_ratio_zoom_in_details">zoom off screen (crop a part)</string>
+    <string name="player_menu_favorite_on_title">Star</string>
+    <string name="player_menu_favorite_off_title">Unstar</string>
+    <string name="player_menu_favorite_on_details">Add to favorites</string>
+    <string name="player_menu_favorite_off_details">Remove from favorites</string>
+    <string name="player_menu_timeshift">Timeshift</string>
+    <string name="player_menu_timeshift_on_details">Restart video</string>
+    <string name="player_menu_timeshift_off_details">Back to live</string>
+    <string name="player_menu_pip_title">Picture-in-picture</string>
+    <string name="player_menu_pip_on_details">Exit picture-in-picture mode</string>
+    <string name="player_menu_pip_off_details">Add current channel to PiP mode</string>
+    <string name="player_menu_pip_swap_details">Swap main channel and PiP one</string>
+    <string name="player_menu_last_channel">Last channel</string>
+    <string name="player_menu_play_param_sel_audio_track">Select audio track</string>
+    <string name="player_menu_play_param_sel_audio_track_desc">Choose another language or quality</string>
+
+    <string name="settings_player_pip_size">Picture-in-Picture size</string>
+    <string name="settings_player_pip_position">Picture-in-Picture position</string>
+    <string name="settings_player_pip_codec">Picture-in-Picture codecs selection</string>
+    <string name="settings_player_pip_position_tl">top left</string>
+    <string name="settings_player_pip_position_tr">top right</string>
+    <string name="settings_player_pip_position_bl">bottom left</string>
+    <string name="settings_player_pip_position_br">bottom right</string>
+    <string name="settings_channel_sort_mode">Sort channels by</string>
+    <string name="settings_channel_sort_mode_freq">frequency (favorites first, then most frequent channels)</string>
+    <string name="settings_channel_sort_mode_prov">order from provider playlist</string>
+    <string name="settings_channel_sort_mode_name">name (favorites first, then alphabetically)</string>
+    <string name="settings_run_at_boot">Start application on device boot</string>
+
+    <string name="hint_title">Hint</string>
+    <string name="hint_long_tap">You can long tap list item to get extended description (if applicable).</string>
+    <string name="hint_fav_sorting">Application sorts channels by watch frequency. Channels you marked as favorite will always be in the top. You may disable automatic sorting by enabling using a provider channel order, however favorites filter will not be available.</string>
+    <string name="hint_video_codecs">If source is playing badly, you can try increasing buffer size in settings, switch to another stream decoder (hardware or software), or if anything fails, configure to use an external player for a playback.</string>
+    <string name="hint_auto_turn_off">You can configure automatic stream switching off after some idle time (useful when billed per-minute). Idle means no player actions used (for example: menu, seeking, pause, etc).</string>
+    <string name="hint_help_translate" tools:ignore="MissingTranslation">If you see translation errors, drop an email to developer with screenshot and your suggestions.</string>
+
+    <!-- provider -->
+    <string name="settings_provider_select_type">Select OTT/IPTV services provider</string>
+    <string name="settings_provider_select_type_intro1">NOTE: You need an OTT/IPTV provider in order to use this application.</string>
+    <string name="settings_provider_select_type_intro2">Application works with user-provided playlists only.</string>
+    <string name="settings_provider_select_type_intro3">Currently selected provider:</string>
+    <string name="settings_provider_select_key">Provider authorization key.</string>
+    <string name="settings_provider_select_url">Provider playlist URL address.</string>
+    <string name="settings_provider_select_apply">Apply</string>
+    <string name="settings_provider_select_return">Return</string>
+    <string name="settings_provider_select_prompt_public_playlist_key">Public key of the playlist</string>
+    <string name="settings_provider_select_prompt_stalker_login_pass">Stalker login and password</string>
+    <string name="settings_provider_select_prompt_lp">Your login and password</string>
+
+    <string name="settings_provider_select_status1">Provider data is loading.</string>
+    <string name="settings_provider_select_status2">Please be patient and stay on screen.</string>
+    <string name="settings_provider_select_status3">This may take 2–3 minutes.</string>
+    <string name="settings_provider_select_status_error">Configuration error. Failed to load data</string>
+    <string name="settings_provider_select_status_success">Setting applied successfully</string>
+
+    <string name="settings_provider_select_action_playlist">validating playlist</string>
+    <string name="settings_provider_select_action_live">loading live channels</string>
+    <string name="settings_provider_select_action_archive">loading archive channels</string>
+    <string name="settings_provider_select_error_playlist">playlist seems invalid or contains no supported channels</string>
+    <string name="settings_provider_select_error_live">contains no supported live channels. Check username/key/password/url.</string>
+    <string name="settings_provider_select_error_archive">contains no supported archive channels</string>
+
+    <string name="settings_dummy_mode">Simplified mode (most options hidden)</string>
+    <string name="auto_turn_off_since_hdmi_off">HDMI unplugged: auto-turning off video</string>
+
+    <string name="archive_auto_seek_title">Seek to the last remembered position of this video?</string>
+    <string name="archive_auto_seek_no">No, watch from the beginning</string>
+    <string name="archive_auto_seek_yes">Yes, seek to</string>
+    <string name="future_show_sheet_title">What to do with future show?</string>
+    <string name="future_show_sheet_add_wl_title">Remind me to switch to the channel</string>
+    <string name="future_show_sheet_add_wl_desc">If watching another video, you will get asked whatever to switch to</string>
+    <string name="future_show_sheet_add_wl_push_desc">Get a push notification when the video will come online</string>
+    <string name="future_show_sheet_search_title">Search in archives</string>
+    <string name="future_show_sheet_search_desc">Check for availability in archives</string>
+    <string name="future_show_sheet_search_none">This video was not found in your provider archives</string>
+    <string name="notify_live_sheet_title">A video you marked to watch later is now online</string>
+    <string name="notify_live_sheet_text">Switch to view the video</string>
+    <string name="vod_root_title_provider">Media library of</string>
+    <string name="feature_requires_premium">This feature requires premium</string>
+    <string name="feature_requires_restart">App restart is required</string>
+    <string name="no_teleguide">No EPG teleguide</string>
+    <string name="vod_root_title_playlist">Custom playlist</string>
+    <string name="play_switch_codec">Switch codec</string>
+    <string name="play_switch_codec_details">Load stream via different decoder</string>
+    <string name="play_switch_codec_hard">Use hardware codecs</string>
+    <string name="play_switch_codec_ffmpeg">Use software ffmpeg</string>
+    <string name="play_switch_codec_vlc">Use software VLC</string>
+    <string name="play_switch_codec_ext">Open in external player</string>
+    <string name="disk_is_full">Storage is full. Clean up some space.</string>
+    <string name="channel_more_hide">Hide</string>
+    <string name="channel_more_hide_desc">Remove from the list</string>
+    <string name="change_applies_in_few_min">Change will apply in a few minutes</string>
+    <string name="hud_short_volume">Volume</string>
+    <string name="hud_short_bright">Brightness</string>
+
+    <string name="settings_provider">Provider</string>
+    <string name="settings_live">Live broadcast</string>
+    <string name="settings_media_library">Media library</string>
+    <string name="settings_media_library_dnla">Scan UPnP/DNLA sources in local network</string>
+    <string name="settings_media_library_prov_vod">Scan provider media library if exists</string>
+
+    <!-- Archive -->
+    <string name="settings_archive">Archive</string>
+    <string name="settings_archive_min_duration">Minimal video length to show in archives</string>
+    <string name="settings_archive_max_duration">Maximal video length to show in archives</string>
+    <string name="settings_archive_duration_name_u">Unlimited</string>
+    <string name="settings_archive_duration_name_10m">10 minutes</string>
+    <string name="settings_archive_duration_name_20m">20 minutes</string>
+    <string name="settings_archive_duration_name_30m">30 minutes</string>
+    <string name="settings_archive_duration_name_40m">40 minutes</string>
+    <string name="settings_archive_duration_name_50m">50 minutes</string>
+    <string name="settings_archive_duration_name_1h">1 hour</string>
+    <string name="settings_archive_duration_name_2h">2 hours</string>
+    <string name="settings_archive_duration_name_3h">3 hours</string>
+
+    <!-- Player -->
+    <string name="settings_player">Player</string>
+    <string name="settings_player_hide_ui">Hide UI overlay in playback in</string>
+    <string name="sec1">1 second</string>
+    <string name="sec2">2 seconds</string>
+    <string name="sec3">3 seconds</string>
+    <string name="sec4">4 seconds</string>
+    <string name="sec5">5 seconds</string>
+    <string name="sec6">6 seconds</string>
+    <string name="sec7">7 seconds</string>
+    <string name="sec8">8 seconds</string>
+    <string name="sec9">9 seconds</string>
+    <string name="sec10">10 seconds</string>
+    <string name="settings_player_resize_mode">Video scale mode</string>
+    <string name="settings_player_resize_mode_fit">Fit to screen</string>
+    <string name="settings_player_resize_mode_fill">Expand to screen width</string>
+    <string name="settings_player_resize_mode_zoom">Zoom to screen</string>
+    <string name="settings_player_resize_mode_zoom_in">Zoom out of a screen</string>
+    <string name="settings_player_auto_stop_live">Auto turn off broadcast in</string>
+    <string-array name="settings_player_auto_stop_live_names">
+        <item>disabled</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+        <item>4 hours</item>
+        <item>5 hours</item>
+        <item>6 hours</item>
+        <item>10 hours</item>
+    </string-array>
+
+    <!-- Extended -->
+    <string name="settings_extended">Extended settings</string>
+    <string name="settings_extended_hide_adult">Hide adult categories</string>
+    <string name="settings_extended_auto_start_last_channel">Automatically start last played channel</string>
+    <string name="settings_extended_user_epg_source">Additional EPG data source (xml.gz format)</string>
+    <string name="settings_schedule_epg_custom_only">Only use specified user-provided EPG sources</string>
+    <string name="settings_schedule_epg_reload">Reload EPG teleguide…</string>
+    <string name="settings_schedule_epg_clear">Clear all loaded EPG data…</string>
+    <string name="settings_schedule_epg_clear_note">removes all cached EPG data so that next reload will be done from scratch</string>
+
+    <string name="settings_status">Status</string>
+    <string name="settings_visual">Visual style</string>
+
+    <string name="settings_live_quick_channel_switch_delay">Delay before quick-switching channels</string>
+    <string-array name="settings_live_quick_channel_switch_delay_names">
+        <item>switch instantly</item>
+        <item>allow to continue channel selection for one second</item>
+        <item>normal (2 seconds for further selection)</item>
+        <item>slow (5 seconds for further selection)</item>
+    </string-array>
+
+    <string name="settings_player_buffer_size">Broadcast buffer size</string>
+    <string-array name="settings_player_buffer_size_names">
+        <item>no buffer (minimal memory footprint)</item>
+        <item>standard</item>
+        <item>increased</item>
+        <item>large (poor internet, poor stream)</item>
+        <item>huge (high memory usage for very bad condition)</item>
+    </string-array>
+
+    <string name="settings_show_clock_in_player_always">Show current time while watching video</string>
+
+    <string name="settings_font_style">Text size</string>
+    <string-array name="settings_font_style_names">
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+        <item>Huge</item>
+        <item>Giant (may hide some options)</item>
+    </string-array>
+
+    <string name="settings_palette_style">Color palette scheme</string>
+
+    <string name="settings_ui_screen_margins">Screen margins</string>
+    <string name="settings_ui_language">Language (if not set, uses default)</string>
+
+    <string name="settings_disable_provider_categories">Do not obey provider categories for channels</string>
+
+    <string name="settings_ui_touch_swipes">Disable touch volume/brightness control</string>
+    <string name="settings_ui_play_vol_seek">Use rewind buttons to change volume</string>
+
+    <string name="settings_ui_only_manual_favorites">Show manually marked favorite channels only as favorites</string>
+
+    <string name="settings_devices_no_hdmi">Do not monitor HDMI state changes</string>
+
+    <string name="settings_codec">Codecs settings</string>
+    <string name="settings_codec_hard">Always use hardware codecs</string>
+    <string name="settings_codec_soft_ijk">Always use software ffmpeg codecs</string>
+    <string name="settings_codec_soft_vlc">Always use software VLC codecs</string>
+    <string name="settings_codec_external">Always use external player</string>
+
+    <string name="settings_epg">EPG teleguide</string>
+
+    <string name="settings_live_extra_m3u_source_1">Extra m3u source playlist #1</string>
+    <string name="settings_live_extra_m3u_source_2">Extra m3u source playlist #2</string>
+
+    <string name="settings_external_player">External player</string>
+
+    <!-- Premium -->
+    <string name="settings_premium">Premium</string>
+    <string name="settings_premium_source_purchase">Premium purchased</string>
+    <string name="settings_premium_source_subscription">Premium subscribed</string>
+    <string name="settings_premium_source_unknown">Premium not enabled</string>
+    <string name="settings_premium_what_included">Learn more about premium features…</string>
+    <string name="settings_premium_what_included_1">Picture-in-picture mode while watching live stream</string>
+    <string name="settings_premium_what_included_2">Option to return to last played channel</string>
+    <string name="settings_premium_what_included_3">Automatic frame rate switching to match video</string>
+    <string name="settings_premium_what_included_4">Controlling playback speed for archives</string>
+    <string name="settings_premium_what_included_7">Quick switch between several configured providers</string>
+
+    <string name="settings_premium_toggles">Premium settings</string>
+    <string name="settings_premium_toggles_try_afr">Auto-switch frame rate to match video</string>
+    <string name="settings_premium_toggles_try_afr_toast">Current display supported refresh rates</string>
+    <string name="settings_premium_toggles_provider_qs">Show provider quick switch in menu</string>
+
+    <string name="settings_premium_toggle_btn_title">Enable premium features</string>
+    <string name="settings_premium_toggle_btn_sub_add">Subscribe</string>
+    <string name="settings_premium_toggle_btn_sub_add_desc">Enable premium by subscribing to small recurrent payments</string>
+    <string name="settings_premium_toggle_btn_buy_add">Purchase</string>
+    <string name="settings_premium_toggle_btn_buy_add_desc">Enable premium by a single payment</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads">Buy no ads pack (also included in all Premium packs)</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads_desc">Disable ads forever by a single payment</string>
+    <string name="settings_vod_extra_source1">Extra m3u source #1</string>
+    <string name="settings_vod_extra_source2">Extra m3u source #2</string>
+    <string name="settings_vod_extra_source3">Extra m3u source #3</string>
+
+    <!-- 1.4.1 -->
+    <string name="setting_list_view_title">How lists should be displayed</string>
+    <string name="setting_list_view1">simple list</string>
+    <string name="setting_list_view2">table (2 columns) with description</string>
+    <string name="setting_list_view3">table (3 columns)</string>
+    <string name="setting_list_view4">table (4 columns)</string>
+    <string name="cfg_play_deny_buffer">Do not show buffering status</string>
+    <string name="copied_clipboard">Copied to clipboard</string>
+    <string name="cfg_play_action_none">ignore</string>
+    <string name="cfg_play_action_menu">open menu</string>
+    <string name="cfg_play_action_another">open another stream selection</string>
+    <string name="cfg_play_action_timetable">open timetable</string>
+    <string name="cfg_play_action_prev">switch to previous channel</string>
+    <string name="cfg_play_action_next">switch to next channel</string>
+    <string name="cfg_play_action_params">open playback parameters</string>
+    <string name="cfg_play_action_last">switch to last played channel</string>
+    <string name="cfg_play_action_title">Setup remote controller</string>
+    <string name="cfg_play_action_btn_archive_as_live">Use same setup while watching archives (will disable seeking using left and right buttons)</string>
+    <string name="cfg_trans_wind">Use transparent interface</string>
+    <string name="cfg_list_poster_time">Show poster duration (seconds, if available)</string>
+
+    <!-- 1.4.2 -->
+    <string name="do_not_show">do not show</string>
+    <string name="android_not_genuine">Purchases might not work on your device.</string>
+    <string name="btn_clear_cache">Clear cache (will reload on next launch)</string>
+    <string name="menu_error_require_status_archive_text">Archive data is not available yet. If this is delayed for a long time it usually means that no TV-program data (EPG) is available. In this case you can schedule EPG reload in settings or search for a better EPG sources and configure them.</string>
+    <string name="cfg_bad_epg_match">Support broken EPG mapping (might be required for some incorrectly configured providers)</string>
+    <string name="spread_title">Like the app? Spread the word!</string>
+    <string name="spread_btn_rate">Rate app with five stars</string>
+    <string name="spread_btn_share">Share app link with a friend</string>
+    <string name="spread_share_title">Take a look at the app</string>
+    <string name="settings_premium_what_included_9">Channel switching by entering channel number</string>
+    <string name="settings_channel_sort_mode_numb">number (by channel number, can be changed)</string>
+    <string name="ch_opt_change_number">Change number</string>
+    <string name="ch_opt_change_number_desc">Used for quick switching</string>
+    <string name="prov_btn_help">Help</string>
+    <string name="prov_help_telegram">Join chat in Telegram</string>
+    <string name="prov_help_email">Send email to developer</string>
+    <string name="settings_premium_what_included_5">No ads</string>
+    <string name="provider_templates">Commonly used provider templates</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_file">File</string>
+    <string name="invalid_domain">Domain is probably invalid. Check your input</string>
+    <string name="example">Example</string>
+    <string name="provider_astra">Generic middleware (Astra)</string>
+    <string name="provider_generic">Generic provider or playlist</string>
+    <string name="watched">Watched:</string>
+    <string name="cfg_no_inst_vod_wstate">Do not consider video as watched as soon as launching it</string>
+    <string name="btn_search">Search</string>
+    <string name="hint_vod_cache">Media library caches data for several days. If you need new data to appear faster, clear cache from settings and restart the app.</string>
+    <string name="provider_xc">Generic middleware (XtreamCodes)</string>
+    <string name="premium_fea_6">Send stream to a wireless display</string>
+    <string name="wifi_display">Wireless display</string>
+    <string name="wifi_display_desc">Play stream on another device</string>
+
+    <!-- 1.4.3 -->
+    <string name="cfg_play_action_fav">open favorite channel selection</string>
+    <string name="cfg_play_action_pp">pause or resume play</string>
+    <string name="cfg_play_action_btn_red">Action for Red button</string>
+    <string name="cfg_play_action_btn_green">Action for Green button</string>
+    <string name="cfg_play_action_btn_yellow">Action for Yellow button</string>
+    <string name="cfg_play_action_btn_blue">Action for Blue button</string>
+    <string name="map_channel_to_epg">Map channel to EPG</string>
+    <string name="map_channel_to_epg_desc">Select name from TV program</string>
+    <string name="map_channel_to_epg_after">Changes will be applied on next EPG teleguide reload.</string>
+    <string name="cfg_epg_1_provider">This source will be considered as main (if configured)</string>
+    <string name="cfg_play_action_vol_d">decrease volume</string>
+    <string name="cfg_play_action_vol_u">increase volume</string>
+    <string name="cfg_ext_player_auto">System default player</string>
+    <string name="cfg_ext_player_chooser">Choose manually every time</string>
+    <string name="btn_install">Install</string>
+    <string name="btn_close">Close</string>
+    <string name="prem_sub_add_3m">Subscribe (billed each 3 months)</string>
+    <string name="prem_sub_add_1y">Subscribe (billed each year)</string>
+    <string name="cfg_section_cache">Cache settings</string>
+    <string name="cfg_cache_dur_no">Do not cache</string>
+    <string name="cfg_duration_8h">8 hours</string>
+    <string name="cfg_duration_1d">1 day</string>
+    <string name="cfg_duration_2d">2 days</string>
+    <string name="cfg_duration_3d">3 days</string>
+    <string name="cfg_duration_1w">1 week</string>
+    <string name="cfg_duration_2w">2 weeks</string>
+    <string name="cfg_duration_1m">1 month</string>
+    <string name="cfg_cache_archive">Cache archive data for</string>
+    <string name="cfg_cache_vod">Cache media library data for</string>
+    <string name="premium_fea_pvsearch">Voice search while watching. Search for channel by name, or archive contents.</string>
+    <string name="cfg_play_action_vsearch">voice search</string>
+    <string name="settings_premium_source_enabled">Premium enabled</string>
+    <string name="cfg_play_action_mute">mute sound</string>
+    <string name="cfg_play_action_unbind">do not process (keep system behavior)</string>
+    <string name="settings_codec_auto">default codec for provider</string>
+    <string name="cfg_ign_last_codec">do not remember last codec used to play a channel</string>
+    <string name="btn_schedule_epg">schedule EPG reload</string>
+    <string name="err_archive_is_shorter">Archive for this channel has shorter lifetime on your provider</string>
+    <string name="cfg_no_seek">Emulate seek by reopening stream from new position every time</string>
+    <string name="cfg_section_backup">Backup and restore</string>
+    <string name="btn_backup_info">Backup is storied by a key. Write it down as soon as the backup is complete. There is no guarantee how long the backup will be available.</string>
+    <string name="btn_backup_data">Backup current configuration</string>
+    <string name="btn_backup_load">Load a previously made configuration backup</string>
+    <string name="err_need_newer_android">Newer Android version is required for this feature</string>
+    <string name="cfg_play_action_sys_pip">Enter system PiP mode</string>
+    <string name="cfg_video_cutout">Hide top and bottom lines of video (in pixels)</string>
+    <string name="cfg_video_retry">Times to retry loading the video when error occurred</string>
+    <string name="cfg_play_action_2live">Switch to live broadcast of the current channel</string>
+    <string name="player_menu_2live">Switch to live</string>
+    <string name="settings_provider_select_key_if_any">Provider authorization key (if any).</string>
+
+    <!-- 1.4.4 -->
+    <string name="prov_help_email_describe">Describe your problem or suggestion</string>
+    <string name="cfg_ch_all_top">Show category with all channels in the top</string>
+    <string name="cfg_pl_offs_swipe">Move volume and brightness touch panel from edge of the screen</string>
+    <string name="btn_seek">Seek</string>
+    <string name="cfg_play_action_mseek">Starts video seeking view</string>
+    <string name="menu_exit">Exit</string>
+    <string name="hint_try_premium_sub_free">You can try a subscription once for free for several days while deciding whatever to use it, or not. Check details of subscription packages.</string>
+
+    <!-- 1.4.5 -->
+    <string name="premium_fea_pre_vid">Show selected video preview in description</string>
+    <string name="vp_audio_shift">Audio shift</string>
+    <string name="vp_audio_shift_desc">Sync audio with video</string>
+    <string name="cfg_next_n_desc">How many next tv-shows to display in channel description</string>
+    <string name="cfg_codec_details_title">Setup codecs preferences</string>
+    <string name="cfg_codec_vlc_q">VLC codec quality</string>
+    <string name="profile_speed_q">prefer speed</string>
+    <string name="profile_middle_q">prefer quality over speed</string>
+    <string name="profile_high_q">only quality matters</string>
+    <string name="channel_move_cat">Change category</string>
+    <string name="channel_move_cat_desc">Move to another group</string>
+    <string name="channel_move_new_cat">Create new category</string>
+    <string name="premium_revert_all_edits">Restore channels configuration to initial state</string>
+    <string name="premium_fea_edit_list">Allows editing of categories, hiding channels, etc</string>
+
+</resources>
