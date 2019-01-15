@@ -6,27 +6,25 @@ English and Russian translations supported by developer, all the rest generated 
 
 If you wish to improve translation or add a new one - create a pull request
 
-## Current languages
+## Current languages (listed by folders)
 
----
-values: English
-values-b+ar: العربية
-values-b+bn: বাঙালি
-values-b+de: Deutsch
-values-b+es: Español
-values-b+fa: فارسی
-values-b+fr: Français
-values-b+hi: हिंदी
-values-b+it: Italiano
-values-b+iw: עברית
-values-b+ja: 日本語
-values-b+ko: 한국어
-values-b+lt: Lietuviškai
-values-b+ms: Melayu
-values-b+pa: ਪੰਜਾਬੀ
-values-b+pl: Polski
-values-b+pt: Português
-values-b+ru: Русский
-values-b+tr: Türk
-values-b+zh: 中国
----
++ values: English
++ values-b+ar: العربية
++ values-b+bn: বাঙালি
++ values-b+de: Deutsch
++ values-b+es: Español
++ values-b+fa: فارسی
++ values-b+fr: Français
++ values-b+hi: हिंदी
++ values-b+it: Italiano
++ values-b+iw: עברית
++ values-b+ja: 日本語
++ values-b+ko: 한국어
++ values-b+lt: Lietuviškai
++ values-b+ms: Melayu
++ values-b+pa: ਪੰਜਾਬੀ
++ values-b+pl: Polski
++ values-b+pt: Português
++ values-b+ru: Русский
++ values-b+tr: Türk
++ values-b+zh: 中国
