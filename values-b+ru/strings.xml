@@ -25,8 +25,6 @@
 
     <!-- browse -->
     <string name="browse_description_series_number">серия</string>
-    <string name="browse_note_about_category_no_filters_yet">Автоматические фильтры для этой категории появятся при следующей переиндексации</string>
-    <string name="browse_note_about_category_quick_jump">В списках, отсортировнных по алфавиту (таких, как список передач, категорий и тд) доступно меню быстрой навигации при нажатии на стрелку вправо</string>
     <string name="browse_description_header_live">Каналы в эфире</string>
     <string name="browse_description_header_archive">Выбор архива</string>
     <string name="browse_description_header_program">Программа канала</string>
@@ -48,7 +46,6 @@
     <string name="category_desc_tv_shows">автоматический фильтр со всех каналов</string>
     <string name="category_desc_exact_tv_shows">телепрограмма</string>
     <string name="category_desc_tv_channel">телеканал</string>
-    <string name="category_desc_fav_channels">пополняется автоматически</string>
     <string name="category_desc_from_fav">только контент из любимых каналов</string>
 
     <!-- player screen -->
@@ -147,10 +144,8 @@
 
     <string name="settings_provider_select_action_playlist">валидируется плейлист</string>
     <string name="settings_provider_select_action_live">грузятся каналы прямого эфира</string>
-    <string name="settings_provider_select_action_archive">грузятся архивные каналы</string>
     <string name="settings_provider_select_error_playlist">плейлист неверен или не содержит поддерживаемые каналы. Проверьте пользователя/ключ/пароль/ссылку.</string>
     <string name="settings_provider_select_error_live">не содержит поддерживаемые каналы</string>
-    <string name="settings_provider_select_error_archive">не содержит поддержиываемые архивные каналы</string>
 
     <string name="settings_dummy_mode">Упрощенный режим (большинство возможностей спрятано)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI отключен: автовыключение видео</string>
@@ -367,7 +362,6 @@
     <string name="ch_opt_change_number_desc">Используется для быстрого переключения</string>
     <string name="prov_btn_help">Помощь</string>
     <string name="prov_help_telegram">Зайти в чат в Телеграм</string>
-    <string name="prov_help_email">Отправить email разработчику</string>
     <string name="settings_premium_what_included_5">Отсутствие рекламы</string>
     <string name="provider_templates">Часто используемые шаблоны провайдера</string>
     <string name="btn_change">Сменить</string>
@@ -413,7 +407,6 @@
     <string name="cfg_duration_1w">1 неделя</string>
     <string name="cfg_duration_2w">2 недели</string>
     <string name="cfg_duration_1m">1 месяц</string>
-    <string name="cfg_cache_archive">Кешировать архивы на</string>
     <string name="cfg_cache_vod">Кешировать данным медиа библиотеки на</string>
     <string name="premium_fea_pvsearch">Голосовой поиск при просмотре. Поиск канала по имени или содержимому архива.</string>
     <string name="cfg_play_action_vsearch">голосовой поиск</string>
@@ -438,7 +431,6 @@
     <string name="settings_provider_select_key_if_any">Ключ авторизации провайдера (если есть).</string>
 
     <!-- 1.4.4 -->
-    <string name="prov_help_email_describe">Опишите вашу проблему или рекомендацию</string>
     <string name="cfg_ch_all_top">Показывать категорию со всеми каналами сверху</string>
     <string name="cfg_pl_offs_swipe">Перенести тач панель настройки громкости и яркости от края экрана</string>
     <string name="btn_seek">Перемотать</string>
@@ -461,4 +453,36 @@
     <string name="channel_move_new_cat">Создать новую категорию</string>
     <string name="premium_revert_all_edits">Восстановить конфигурацию каналов к изначальному состоянию</string>
     <string name="premium_fea_edit_list">Позволяет редактировать категории, прятать каналы и тд</string>
+    <string name="prov_help_bug">Описать проблему или ошибку</string>
+    <string name="prov_help_tpl">Описать проблему шаблона провайдера</string>
+    <string name="prov_help_feature">Предложить новую функциональность</string>
+    <string name="prov_help_premium">Описать проблему с платежами или премиумом</string>
+    <string name="prov_help_contact_via_chat">связаться с разработчиком в чате</string>
+    <string name="prov_help_contact_via_email">связаться с разработчиком через email</string>
+    <string name="prov_help_provide_more_info">Напишите ваше сообщение разработчику</string>
+    <string name="hint_help_locale">Вы можете помочь с переводом онлайн</string>
+    <string name="cfg_allow_dup_ch">Оставлять дупликаты каналов</string>
+    <string name="cfg_time_imp">Использовать имперский формат времени (am/pm)</string>
+    <string name="hud_short_seeking">Перемотка</string>
+    <string name="cfg_player_clock_tr">верхний правый угол</string>
+    <string name="cfg_player_clock_br">нижний правый угол</string>
+    <string name="cfg_player_clock_bl">нижний левый угол</string>
+    <string name="cfg_player_clock_tl">верхний левый угол</string>
+    <string name="cat_vr_continue">Продолжить просмотр</string>
+    <string name="cat_vr_continue_free">Просмотрено в течении пары часов</string>
+    <string name="cat_vr_continue_prem">Недавно просмотренное видео, доступное сейчас</string>
+    <string name="premium_fea_continue">Показывает все недавно просмотренные видео, которые сейчас доступны в фильтре Продолжить</string>
+    <string name="menu_swap_pip_sound">Переключить звук между основным экраном и PiP</string>
+    <string name="premium_fea_pre_vod">Показывать предпросмотр выбранного элемента медиатеки в описании</string>
+    <string name="premium_fea_pre_vid_wp">Разрешить предпросмотр видео при проигрывании другого видео</string>
+    <string name="hint_click_icon">Нажатие на иконку канала или группы открывает контекстное меню (если доступно).</string>
+    <string name="hint_right_menu">Нажатие вправо открывает контекстное меню выбранного канала или группы (если доступно).</string>
+    <string name="hint_right_jump">Нажатие вправо в большинстве списков, отсортированных по алфавиту открывает окно быстрого перехода.</string>
+    <string name="category_recent_channels">Недавние</string>
+    <string name="category_all_channels">Все каналы</string>
+    <string name="cfg_no_categories">Использовать простой список каналов (без категорий)</string>
+    <string name="cfg_section_desc">Описание элемента</string>
+    <string name="cfg_section_lists">Настройки списков</string>
+    <string name="cfg_section_sys">Системные настройки</string>
+
 </resources>

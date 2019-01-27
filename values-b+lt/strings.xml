@@ -25,8 +25,6 @@
 
     <!-- browse -->
     <string name="browse_description_series_number">serija</string>
-    <string name="browse_note_about_category_no_filters_yet">Automatiniai filtrai šiai kategorijai atsiras po sekančio indeksavimo.</string>
-    <string name="browse_note_about_category_quick_jump">Sąrašuose išrikiuotose pagal abėcėlę (kanalų sąrašas, kategorijos ir t.t.)galimas greito valdymo meniu, spaudžiant rodyklę dešinėn.</string>
     <string name="browse_description_header_live">Kanalai tiesiogiai</string>
     <string name="browse_description_header_archive">Archyvas</string>
     <string name="browse_description_header_program">Kanalų programa</string>
@@ -48,7 +46,6 @@
     <string name="category_desc_tv_shows">automatinis filtras pagal visas laidas</string>
     <string name="category_desc_exact_tv_shows">laida</string>
     <string name="category_desc_tv_channel">kanalas</string>
-    <string name="category_desc_fav_channels">automatinis atsinaujinimas</string>
     <string name="category_desc_from_fav">turinys tik iš mėgstamų kanalų</string>
 
     <!-- player screen -->
@@ -147,10 +144,8 @@
 
     <string name="settings_provider_select_action_playlist">tikrinamas grojaraštis</string>
     <string name="settings_provider_select_action_live">gaunami tiesioginio žiūrėjimo kanalai</string>
-    <string name="settings_provider_select_action_archive">gaunami archyvo kanalai</string>
     <string name="settings_provider_select_error_playlist">grojaraštis su klaidomis arba nepalaikomas formatas. Patikrinkite vartotojo vardą/slaptažodį/raktą/nuorodą.</string>
     <string name="settings_provider_select_error_live">grojaraštis nepalaiko tiesioginių kanalų</string>
-    <string name="settings_provider_select_error_archive">grojaraštis nepalaiko archyvinių kanalų</string>
 
     <string name="settings_dummy_mode">Supaprastint nustatymai (didelė dalis galimybių paslėpta)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI atjungtas: automatis išjungimas</string>
@@ -367,7 +362,6 @@
     <string name="ch_opt_change_number_desc">Naudojama greitam perjungimui</string>
     <string name="prov_btn_help">Pagalba</string>
     <string name="prov_help_telegram">Užeiti į pokalbį Telegram</string>
-    <string name="prov_help_email">Išsiųsti laišką kūrėjui</string>
     <string name="settings_premium_what_included_5">Be reklamos</string>
     <string name="provider_templates">Dažnai naudojami tiekėjų šablonai</string>
     <string name="btn_change">Pakeisti</string>
@@ -413,7 +407,6 @@
     <string name="cfg_duration_1w">1 savaite</string>
     <string name="cfg_duration_2w">2 savaites</string>
     <string name="cfg_duration_1m">1 mėnesį</string>
-    <string name="cfg_cache_archive">Saugoti archyvo duomenis atmintyje</string>
     <string name="cfg_cache_vod">Saugoti mediatekos duomenis atmintyje</string>
     <string name="premium_fea_pvsearch">Paiška balsu transliacijos metu. Paieška pagal kanalo pavadinimą arba archyvo turinį.</string>
     <string name="cfg_play_action_vsearch">paieška balsu</string>
@@ -436,4 +429,57 @@
     <string name="cfg_play_action_2live">Perjungti į tiesioginę transliaciją</string>
     <string name="player_menu_2live">Į tiesioginę transliaciją</string>
     <string name="settings_provider_select_key_if_any">Tiekėjo autorizacijos raktas (jei yra).</string>
+
+    <string name="cfg_ch_all_top">Rodyti kategoriją su visais viršutiniais kanalais</string>
+    <string name="cfg_pl_offs_swipe">Perkelkite garsumo ir ryškumo jutiklinį ekraną iš ekrano krašto</string>
+    <string name="btn_seek">Ieškoti</string>
+    <string name="cfg_play_action_mseek">Pradeda vaizdo ieškos vaizdą</string>
+    <string name="menu_exit">Išeiti</string>
+    <string name="hint_try_premium_sub_free">Jūs galite išbandyti prenumeratą vieną kartą nemokamai kelias dienas, nuspręsdami, ar jį naudoti, ar ne. Patikrinkite prenumeratos paketų informaciją.</string>
+
+    <string name="premium_fea_pre_vid">Rodyti aprašytą vaizdo įrašo peržiūrą</string>
+    <string name="vp_audio_shift">Garso perjungimas</string>
+    <string name="vp_audio_shift_desc">Sinchronizuokite garsą su vaizdo įrašu</string>
+    <string name="cfg_next_n_desc">Kiek sekančių televizorių rodoma kanalo apraše</string>
+    <string name="cfg_codec_details_title">Nustatymų kodekų nustatymai</string>
+    <string name="cfg_codec_vlc_q">VLC kodekų kokybė</string>
+    <string name="profile_speed_q">nori greičiau</string>
+    <string name="profile_middle_q">pirmenybė teikiama kokybei greičiau</string>
+    <string name="profile_high_q">tik kokybės klausimai</string>
+    <string name="channel_move_cat">Keisti kategoriją</string>
+    <string name="channel_move_cat_desc">Perkelti į kitą grupę</string>
+    <string name="channel_move_new_cat">Sukurti naują kategoriją</string>
+    <string name="premium_revert_all_edits">Atkurti kanalų konfigūraciją į pradinę būseną</string>
+    <string name="premium_fea_edit_list">Leidžia redaguoti kategorijas, slėpti kanalus ir pan</string>
+    <string name="prov_help_bug">Pranešti apie problemą ar klaidą</string>
+    <string name="prov_help_tpl">Ataskaitų teikėjo šablono problema</string>
+    <string name="prov_help_feature">Pasiūlyti naują funkciją</string>
+    <string name="prov_help_premium">Pranešti apie mokėjimų ar priemokos problemą</string>
+    <string name="prov_help_contact_via_chat">susisiekite su kūrėju per pokalbį</string>
+    <string name="prov_help_contact_via_email">susisiekite su kūrėju elektroniniu paštu</string>
+    <string name="prov_help_provide_more_info">Parašykite savo žinutę kūrėjui</string>
+    <string name="hint_help_locale">Galite padėti pagerinti vertimą internete</string>
+    <string name="cfg_allow_dup_ch">Laikykite pasikartojančius kanalus</string>
+    <string name="cfg_time_imp">Naudokite imperijos laiko formatą (am / pm)</string>
+    <string name="hud_short_seeking">Ieškau</string>
+    <string name="cfg_player_clock_tr">viršutiniame dešiniajame kampe</string>
+    <string name="cfg_player_clock_br">apatiniame dešiniajame kampe</string>
+    <string name="cfg_player_clock_bl">apatiniame kairiajame kampe</string>
+    <string name="cfg_player_clock_tl">viršutiniame kairiajame kampe</string>
+    <string name="cat_vr_continue">Toliau žiūrėkite</string>
+    <string name="cat_vr_continue_free">Peržiūrėta per kelias valandas</string>
+    <string name="cat_vr_continue_prem">Neseniai peržiūrėti vaizdo įrašai, kurie dabar yra prieinami</string>
+    <string name="premium_fea_continue">Rodo visus neseniai peržiūrėtus vaizdo įrašus, kurie šiuo metu prieinami „Tęsti filtrą“</string>
+    <string name="menu_swap_pip_sound">Pakeiskite garsą tarp pagrindinio ekrano ir „PiP“</string>
+    <string name="premium_fea_pre_vod">Parodykite pasirinktą medijos bibliotekos peržiūrą aprašyme</string>
+    <string name="premium_fea_pre_vid_wp">Leisti rodyti vaizdo peržiūrą, kai grojate kitą vaizdo įrašą</string>
+    <string name="hint_click_icon">Paspaudus kanalo ar grupės piktogramą atidaromas kontekstinis meniu (jei yra).</string>
+    <string name="hint_right_menu">Paspaudus dešinįjį mygtuką atidaromas pasirinkto kanalo ar grupės kontekstinis meniu (jei yra).</string>
+    <string name="hint_right_jump">Paspaudus dešinįjį klavišą daugelyje abėcėlės tvarka surūšiuotų sąrašų, atsidaro greitas peršokimo vaizdas.</string>
+    <string name="category_recent_channels">Naujausi</string>
+    <string name="category_all_channels">Visi kanalai</string>
+    <string name="cfg_no_categories">Naudoti paprasto kanalų sąrašą (be kategorijų)</string>
+    <string name="cfg_section_desc">Prekės Aprašymas</string>
+    <string name="cfg_section_lists">Sąrašų nustatymai</string>
+    <string name="cfg_section_sys">Sistemos nustatymai</string>
 </resources>

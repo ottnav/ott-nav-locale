@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="press_back_once_more_to_exit">Press once more to exit</string>
 
     <!-- search screen -->
@@ -25,8 +25,6 @@
 
     <!-- browse -->
     <string name="browse_description_series_number">episode</string>
-    <string name="browse_note_about_category_no_filters_yet">This category automatic filters will appear after next reindex</string>
-    <string name="browse_note_about_category_quick_jump">Lists sorted alphabetically (like tv-shows, categories, etc) provides quick navigation menu by pressing right arrow</string>
     <string name="browse_description_header_live">Live channels</string>
     <string name="browse_description_header_archive">Archive browsing</string>
     <string name="browse_description_header_program">Channel timetable</string>
@@ -48,7 +46,6 @@
     <string name="category_desc_tv_shows">automatic filter from all channels</string>
     <string name="category_desc_exact_tv_shows">TV-show</string>
     <string name="category_desc_tv_channel">TV channel</string>
-    <string name="category_desc_fav_channels">updated automatically</string>
     <string name="category_desc_from_fav">only content from favorite channels</string>
 
     <!-- player screen -->
@@ -125,7 +122,6 @@
     <string name="hint_fav_sorting">Application sorts channels by watch frequency. Channels you marked as favorite will always be in the top. You may disable automatic sorting by enabling using a provider channel order, however favorites filter will not be available.</string>
     <string name="hint_video_codecs">If source is playing badly, you can try increasing buffer size in settings, switch to another stream decoder (hardware or software), or if anything fails, configure to use an external player for a playback.</string>
     <string name="hint_auto_turn_off">You can configure automatic stream switching off after some idle time (useful when billed per-minute). Idle means no player actions used (for example: menu, seeking, pause, etc).</string>
-    <string name="hint_help_translate" tools:ignore="MissingTranslation">If you see translation errors, drop an email to developer with screenshot and your suggestions.</string>
 
     <!-- provider -->
     <string name="settings_provider_select_type">Select OTT/IPTV services provider</string>
@@ -148,10 +144,8 @@
 
     <string name="settings_provider_select_action_playlist">validating playlist</string>
     <string name="settings_provider_select_action_live">loading live channels</string>
-    <string name="settings_provider_select_action_archive">loading archive channels</string>
     <string name="settings_provider_select_error_playlist">playlist seems invalid or contains no supported channels</string>
     <string name="settings_provider_select_error_live">contains no supported live channels. Check username/key/password/url.</string>
-    <string name="settings_provider_select_error_archive">contains no supported archive channels</string>
 
     <string name="settings_dummy_mode">Simplified mode (most options hidden)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI unplugged: auto-turning off video</string>
@@ -368,7 +362,6 @@
     <string name="ch_opt_change_number_desc">Used for quick switching</string>
     <string name="prov_btn_help">Help</string>
     <string name="prov_help_telegram">Join chat in Telegram</string>
-    <string name="prov_help_email">Send email to developer</string>
     <string name="settings_premium_what_included_5">No ads</string>
     <string name="provider_templates">Commonly used provider templates</string>
     <string name="btn_change">Change</string>
@@ -414,7 +407,6 @@
     <string name="cfg_duration_1w">1 week</string>
     <string name="cfg_duration_2w">2 weeks</string>
     <string name="cfg_duration_1m">1 month</string>
-    <string name="cfg_cache_archive">Cache archive data for</string>
     <string name="cfg_cache_vod">Cache media library data for</string>
     <string name="premium_fea_pvsearch">Voice search while watching. Search for channel by name, or archive contents.</string>
     <string name="cfg_play_action_vsearch">voice search</string>
@@ -439,7 +431,6 @@
     <string name="settings_provider_select_key_if_any">Provider authorization key (if any).</string>
 
     <!-- 1.4.4 -->
-    <string name="prov_help_email_describe">Describe your problem or suggestion</string>
     <string name="cfg_ch_all_top">Show category with all channels in the top</string>
     <string name="cfg_pl_offs_swipe">Move volume and brightness touch panel from edge of the screen</string>
     <string name="btn_seek">Seek</string>
@@ -462,5 +453,35 @@
     <string name="channel_move_new_cat">Create new category</string>
     <string name="premium_revert_all_edits">Restore channels configuration to initial state</string>
     <string name="premium_fea_edit_list">Allows editing of categories, hiding channels, etc</string>
-
+    <string name="prov_help_bug">Report a problem or bug</string>
+    <string name="prov_help_tpl">Report provider template issue</string>
+    <string name="prov_help_feature">Suggest a new feature</string>
+    <string name="prov_help_premium">Report problem with payments or premium</string>
+    <string name="prov_help_contact_via_chat">contact developer via chat</string>
+    <string name="prov_help_contact_via_email">contact developer via email</string>
+    <string name="prov_help_provide_more_info">Write your message to developer</string>
+    <string name="hint_help_locale">You can help improving the translation online</string>
+    <string name="cfg_allow_dup_ch">Keep duplicate channels</string>
+    <string name="cfg_time_imp">Use imperial time format (am/pm)</string>
+    <string name="hud_short_seeking">Seeking</string>
+    <string name="cfg_player_clock_tr">top right corner</string>
+    <string name="cfg_player_clock_br">bottom right corner</string>
+    <string name="cfg_player_clock_bl">bottom left corner</string>
+    <string name="cfg_player_clock_tl">top left corner</string>
+    <string name="cat_vr_continue">Continue watching</string>
+    <string name="cat_vr_continue_free">Viewed within few hours</string>
+    <string name="cat_vr_continue_prem">Recently viewed videos, that are available now</string>
+    <string name="premium_fea_continue">Shows all recently viewed videos, that are currently available in Continue filter</string>
+    <string name="menu_swap_pip_sound">Swap sound between main screen and PiP</string>
+    <string name="premium_fea_pre_vod">Show selected media library preview in description</string>
+    <string name="premium_fea_pre_vid_wp">Allow video preview to be shown while playing another video</string>
+    <string name="hint_click_icon">Clicking the icon of a channel or group opens a context menu (if available).</string>
+    <string name="hint_right_menu">Pressing right button opens a context menu of selected channel or group (if available).</string>
+    <string name="hint_right_jump">Pressing right button in most alphabetically sorted lists opens a quick jump view.</string>
+    <string name="category_recent_channels">Recent</string>
+    <string name="category_all_channels">All channels</string>
+    <string name="cfg_no_categories">Use plain channels list (with no categories)</string>
+    <string name="cfg_section_desc">Item description</string>
+    <string name="cfg_section_lists">Lists settings</string>
+    <string name="cfg_section_sys">System settings</string>
 </resources>
