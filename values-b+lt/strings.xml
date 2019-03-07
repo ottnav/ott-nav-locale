@@ -26,7 +26,6 @@
     <!-- browse -->
     <string name="browse_description_series_number">serija</string>
     <string name="browse_description_header_live">Kanalai tiesiogiai</string>
-    <string name="browse_description_header_archive">Archyvas</string>
     <string name="browse_description_header_program">Kanalų programa</string>
 
     <!-- categories -->
@@ -147,7 +146,6 @@
     <string name="settings_provider_select_error_playlist">grojaraštis su klaidomis arba nepalaikomas formatas. Patikrinkite vartotojo vardą/slaptažodį/raktą/nuorodą.</string>
     <string name="settings_provider_select_error_live">grojaraštis nepalaiko tiesioginių kanalų</string>
 
-    <string name="settings_dummy_mode">Supaprastint nustatymai (didelė dalis galimybių paslėpta)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI atjungtas: automatis išjungimas</string>
 
     <string name="archive_auto_seek_title">Persukti į paskutinę išsaugotą vietą šiame video?</string>
@@ -239,7 +237,6 @@
     <string name="settings_schedule_epg_clear">Išvalyti visą EPG programą…</string>
     <string name="settings_schedule_epg_clear_note">išvalys visą EPG duomenų talpyklą, kad atnaujinimas vyktų nuo pradžių</string>
 
-    <string name="settings_status">Statusas</string>
     <string name="settings_visual">Išorinis vaizdas</string>
 
     <string name="settings_live_quick_channel_switch_delay">Užlaikymas prieš greitą kanalų perjungimą</string>
@@ -467,7 +464,6 @@
     <string name="cfg_player_clock_bl">apatiniame kairiajame kampe</string>
     <string name="cfg_player_clock_tl">viršutiniame kairiajame kampe</string>
     <string name="cat_vr_continue">Toliau žiūrėkite</string>
-    <string name="cat_vr_continue_free">Peržiūrėta per kelias valandas</string>
     <string name="cat_vr_continue_prem">Neseniai peržiūrėti vaizdo įrašai, kurie dabar yra prieinami</string>
     <string name="premium_fea_continue">Rodo visus neseniai peržiūrėtus vaizdo įrašus, kurie šiuo metu prieinami „Tęsti filtrą“</string>
     <string name="menu_swap_pip_sound">Pakeiskite garsą tarp pagrindinio ekrano ir „PiP“</string>
@@ -482,4 +478,26 @@
     <string name="cfg_section_desc">Prekės Aprašymas</string>
     <string name="cfg_section_lists">Sąrašų nustatymai</string>
     <string name="cfg_section_sys">Sistemos nustatymai</string>
+
+    <string name="cfg_switch_dummy_on">Perjungti į supaprastintų nustatymų režimą</string>
+    <string name="cfg_switch_dummy_off">Perjungti į išplėstinių nustatymų režimą</string>
+    <string name="cfg_no_recent">Nerodyti kategorijos su naujausiais kanalais</string>
+    <string name="cfg_no_hints">Nerodyti patarimų</string>
+    <string name="pla_track_sel_sub">Pakeiskite subtitrus</string>
+    <string name="pla_track_sel_sub_desc">Pakeiskite subtitrų šaltinį</string>
+    <string name="setting_list_view_auto">lentelė (didelės piktogramos, tinka ekranui)</string>
+    <string name="child_mode_unlock_cfg">Įveskite vaikų kodą norėdami atrakinti nustatymus</string>
+    <string name="cfg_child_mode">Vaiko režimas</string>
+    <string name="cfg_child_mode_toggle">Perjungti į vaikų režimą</string>
+    <string name="cfg_child_mode_number">Kodas, jei norite išeiti iš vaikų režimo (4 skaitmenys)</string>
+    <string name="provider_generic2">Bendras grojaraštis (alternatyvus)</string>
+    <string name="cfg_play_deny_status">Nerodyti srauto būsenos</string>
+    <string name="cfg_player_hud">„Head-up“ sąsajos stilius</string>
+    <string name="cfg_player_hud_1">Viršus ir apačia</string>
+    <string name="cfg_player_hud_2">Sujungta apačioje</string>
+    <string name="cfg_player_hud_3">Sujungta viršuje</string>
+    <string name="never">niekada</string>
+    <string name="cfg_player_hide_menu">Meniu paspaudimo laikas (sekundėmis)</string>
+    <string name="choose_auto">Pasirinkite automatiškai</string>
+    <string name="cfg_stream_tech">Srautų technologija (jei yra)</string>
 </resources>

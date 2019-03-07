@@ -4,7 +4,7 @@
     <string name="search_bar">Kanallara veya programlara göre ara</string>
     <string name="search_bar_clue">filmi, televizyon dizisini, televizyon şovunu veya oyuncu isimlerini deneyin</string>
 
-    
+
     <string name="menu_search">Video arama</string>
     <string name="menu_live">Canlı yayın</string>
     <string name="menu_archive">Arşivi gösterir</string>
@@ -22,13 +22,12 @@
     <string name="menu_error_provider_no_archive_text">Seçilen sağlayıcı arşivleri desteklemiyor. Sadece Canlı akışlar mevcuttur. Bir sağlayıcıyı değiştirmek veya canlı akışa gitmek için ayarlara gidin.</string>
     <string name="menu_error_provider_no_archive_button">Canlı yayına git</string>
 
-    
+
     <string name="browse_description_series_number">bölüm</string>
     <string name="browse_description_header_live">Canlı kanallar</string>
-    <string name="browse_description_header_archive">Arşiv taraması</string>
     <string name="browse_description_header_program">Kanal tarifesi</string>
 
-    
+
     <string name="category_movies">Tüm filmler</string>
     <string name="category_tv_series">Tüm TV dizileri</string>
     <string name="category_tv_shows">Tüm TV şovları</string>
@@ -47,7 +46,7 @@
     <string name="category_desc_tv_channel">TV kanalı</string>
     <string name="category_desc_from_fav">sadece favori kanallardan içerik</string>
 
-    
+
     <string name="in_1_minute">1 dakika içinde</string>
     <string name="in_n_minutes">10 dakika içerisinde</string>
     <string name="player_episode_details_season">sezon</string>
@@ -59,7 +58,7 @@
     <string name="player_state_no_media_ended">Akış seçilmedi (sona erdi)</string>
     <string name="player_state_buffering">tamponlama</string>
 
-    
+
     <string name="error_this_video_requires_external_player">Bu video en iyi deneyim için harici oynatıcı gerektirir</string>
     <string name="error_stream_not_reachable_no_connect">Akış ulaşılamıyor (bağlanamıyor). Sağlayıcınıza başvurun</string>
     <string name="error_stream_not_reachable_no_resource">Akış ulaşılamıyor. Sağlayıcınıza başvurun</string>
@@ -73,7 +72,7 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) yüklendi: kayıtlar</string>
     <string name="info_channels_count_updated">Sağlayıcı yeni kanal ekledi</string>
 
-    
+
     <string name="player_menu_select_channel_title">Başka bir kanal</string>
     <string name="player_menu_select_archive_title">Başka bir video</string>
     <string name="player_menu_set_pause_on_title">Oynatmayı duraklat</string>
@@ -145,7 +144,6 @@
     <string name="settings_provider_select_error_playlist">oynatma listesi geçersiz görünüyor veya desteklenen kanal içermiyor</string>
     <string name="settings_provider_select_error_live">desteklenen canlı kanal içermiyor. Kullanıcı adı / anahtar / şifre / URL\'yi kontrol edin.</string>
 
-    <string name="settings_dummy_mode">Basitleştirilmiş mod (çoğu seçenek gizli)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI takılı değil: videoyu otomatik kapatma</string>
 
     <string name="archive_auto_seek_title">Bu videonun en son hatırlanan konumunu mı arıyorsunuz?</string>
@@ -184,7 +182,7 @@
     <string name="settings_media_library_dnla">Yerel ağdaki UPnP / DNLA kaynaklarını tara</string>
     <string name="settings_media_library_prov_vod">Varsa sağlayıcı medya kütüphanesini tara</string>
 
-    
+
     <string name="settings_archive">Arşiv</string>
     <string name="settings_archive_min_duration">Arşivlerde gösterilecek minimum video uzunluğu</string>
     <string name="settings_archive_max_duration">Arşivlerde gösterilecek maksimum video uzunluğu</string>
@@ -198,7 +196,7 @@
     <string name="settings_archive_duration_name_2h">2 saat</string>
     <string name="settings_archive_duration_name_3h">3 saat</string>
 
-    
+
     <string name="settings_player">oyuncu</string>
     <string name="settings_player_hide_ui">Oynatmada UI yer paylaşımını gizle</string>
     <string name="sec1">1 saniye</string>
@@ -227,7 +225,7 @@
         <item>10 saat</item>
     </string-array>
 
-    
+
     <string name="settings_extended">Genişletilmiş ayarlar</string>
     <string name="settings_extended_hide_adult">Yetişkin kategorilerini gizle</string>
     <string name="settings_extended_auto_start_last_channel">Son oynatılan kanalı otomatik olarak başlat</string>
@@ -237,7 +235,6 @@
     <string name="settings_schedule_epg_clear">Yüklenen tüm EPG verilerini temizle…</string>
     <string name="settings_schedule_epg_clear_note">tüm önbelleğe alınmış EPG verilerini kaldırır, böylece bir sonraki yeniden yükleme sıfırdan yapılacaktır</string>
 
-    <string name="settings_status">durum</string>
     <string name="settings_visual">Görsel stil</string>
 
     <string name="settings_live_quick_channel_switch_delay">Hızlı anahtarlama kanallarından önce gecikme</string>
@@ -295,7 +292,7 @@
 
     <string name="settings_external_player">Harici oynatıcı (varsayılan olarak hepsini deneyin)</string>
 
-    
+
     <string name="settings_premium">Ödül</string>
     <string name="settings_premium_source_purchase">Premium satın alındı</string>
     <string name="settings_premium_source_subscription">Premium abone</string>
@@ -462,7 +459,6 @@
     <string name="cfg_player_clock_bl">sol alt köşe</string>
     <string name="cfg_player_clock_tl">sol üst köşe</string>
     <string name="cat_vr_continue">İzlemeye devam et</string>
-    <string name="cat_vr_continue_free">Birkaç saat içinde izlendi</string>
     <string name="cat_vr_continue_prem">Şu anda kullanılabilen, son görüntülenen videolar</string>
     <string name="premium_fea_continue">Devam etmekte olan filtrede bulunan ve son zamanlarda görüntülenen videoların tümünü gösterir.</string>
     <string name="menu_swap_pip_sound">Ana ekran ve PiP arasında sesi değiştirme</string>
@@ -477,4 +473,26 @@
     <string name="cfg_section_desc">Ürün Açıklaması</string>
     <string name="cfg_section_lists">Ayarları listeler</string>
     <string name="cfg_section_sys">Sistem ayarları</string>
+
+    <string name="cfg_switch_dummy_on">Basitleştirilmiş ayarlar moduna geçin</string>
+    <string name="cfg_switch_dummy_off">Gelişmiş ayarlar moduna geç</string>
+    <string name="cfg_no_recent">Son kanallarla kategoriyi gösterme</string>
+    <string name="cfg_no_hints">İpuçlarını gösterme</string>
+    <string name="pla_track_sel_sub">Altyazıları değiştir</string>
+    <string name="pla_track_sel_sub_desc">Altyazı kaynağını değiştir</string>
+    <string name="setting_list_view_auto">masa (büyük simgeler, ekrana sığacak şekilde)</string>
+    <string name="child_mode_unlock_cfg">Ayarların kilidini açmak için alt kodu girin</string>
+    <string name="cfg_child_mode">Çocuk Modu</string>
+    <string name="cfg_child_mode_toggle">Çocuk moduna geç</string>
+    <string name="cfg_child_mode_number">Bir çocuk modundan çıkmak için kod (4 hane)</string>
+    <string name="provider_generic2">Genel çalma listesi (alternatif)</string>
+    <string name="cfg_play_deny_status">Akış durumunu gösterme</string>
+    <string name="cfg_player_hud">Heads-up arayüzü tarzı</string>
+    <string name="cfg_player_hud_1">Üst ve alt</string>
+    <string name="cfg_player_hud_2">Alt kombine</string>
+    <string name="cfg_player_hud_3">Üstte kombine</string>
+    <string name="never">asla</string>
+    <string name="cfg_player_hide_menu">Menüyü gizlemek için zaman aşımı (saniye olarak)</string>
+    <string name="choose_auto">Otomatik seç</string>
+    <string name="cfg_stream_tech">Akış teknolojisi (varsa)</string>
 </resources>

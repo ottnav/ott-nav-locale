@@ -25,7 +25,6 @@
 
     <string name="browse_description_series_number">Folge</string>
     <string name="browse_description_header_live">Livestream</string>
-    <string name="browse_description_header_archive">Durchsuchen des Archivs</string>
     <string name="browse_description_header_program">Programmführer</string>
 
 
@@ -145,7 +144,6 @@
     <string name="settings_provider_select_error_playlist">Wiedergabeliste scheint ungültig zu sein oder enthält keine unterstützten Kanäle</string>
     <string name="settings_provider_select_error_live">enthält keine unterstützten Livekanäle. Überprüfen Sie Benutzername / Schlüssel / Passwort / URL.</string>
 
-    <string name="settings_dummy_mode">Vereinfachter Modus (die meisten Optionen sind ausgeblendet)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI getrennt: Video automatisch ausschalten</string>
 
     <string name="archive_auto_seek_title">Suchen Sie die letzte gespeicherte Position dieses Videos?</string>
@@ -237,7 +235,6 @@
     <string name="settings_schedule_epg_clear">Alle geladenen EPG-Daten entfernen …</string>
     <string name="settings_schedule_epg_clear_note">Entfernt alle zwischengespeicherten EPG-Daten, so dass das nächste Neuladen von Grund auf erfolgt</string>
 
-    <string name="settings_status">Status</string>
     <string name="settings_visual">Visuellen Stil</string>
 
     <string name="settings_live_quick_channel_switch_delay">Verzögerung für die Schnellwahlleiste ( Bildschirmrand )</string>
@@ -462,7 +459,6 @@
     <string name="cfg_player_clock_bl">untere linke Ecke</string>
     <string name="cfg_player_clock_tl">obere linke Ecke</string>
     <string name="cat_vr_continue">Weiter schauen</string>
-    <string name="cat_vr_continue_free">Gesehen innerhalb weniger Stunden</string>
     <string name="cat_vr_continue_prem">Kürzlich angesehene Videos, die jetzt verfügbar sind</string>
     <string name="premium_fea_continue">Zeigt alle zuletzt angezeigten Videos an, die aktuell im Filter "Weiter" verfügbar sind</string>
     <string name="menu_swap_pip_sound">Tauschen Sie den Ton zwischen Hauptbildschirm und PiP aus</string>
@@ -477,4 +473,26 @@
     <string name="cfg_section_desc">Artikelbeschreibung</string>
     <string name="cfg_section_lists">Listet die Einstellungen auf</string>
     <string name="cfg_section_sys">Systemeinstellungen</string>
+
+    <string name="cfg_switch_dummy_on">Wechseln Sie in den Modus für vereinfachte Einstellungen</string>
+    <string name="cfg_switch_dummy_off">Wechseln Sie in den erweiterten Einstellungsmodus</string>
+    <string name="cfg_no_recent">Kategorie mit den letzten Kanälen nicht anzeigen</string>
+    <string name="cfg_no_hints">Keine Hinweise anzeigen</string>
+    <string name="pla_track_sel_sub">Untertitel wechseln</string>
+    <string name="pla_track_sel_sub_desc">Untertitelquelle ändern</string>
+    <string name="setting_list_view_auto">Tabelle (große Symbole, Bildschirmanpassung)</string>
+    <string name="child_mode_unlock_cfg">Geben Sie den untergeordneten Code ein, um die Einstellungen zu entsperren</string>
+    <string name="cfg_child_mode">Kindermode</string>
+    <string name="cfg_child_mode_toggle">Wechseln Sie in einen Kindmodus</string>
+    <string name="cfg_child_mode_number">Code zum Verlassen eines Kindermodus (4 Ziffern)</string>
+    <string name="provider_generic2">Generische Wiedergabeliste (Alternative)</string>
+    <string name="cfg_play_deny_status">Stream-Status nicht anzeigen</string>
+    <string name="cfg_player_hud">Stil der Heads-Up-Schnittstelle</string>
+    <string name="cfg_player_hud_1">Oben und unten</string>
+    <string name="cfg_player_hud_2">Unten kombiniert</string>
+    <string name="cfg_player_hud_3">In der Spitze kombiniert</string>
+    <string name="never">noch nie</string>
+    <string name="cfg_player_hide_menu">Timeout zum Ausblenden des Menüs (in Sekunden)</string>
+    <string name="choose_auto">Wählen Sie automatisch</string>
+    <string name="cfg_stream_tech">Stream-Technologie (falls verfügbar)</string>
 </resources>

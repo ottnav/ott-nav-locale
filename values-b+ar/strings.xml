@@ -4,7 +4,7 @@
     <string name="search_bar">البحث عن طريق القنوات أو البرامج</string>
     <string name="search_bar_clue">جرب الفيلم أو المسلسل التلفزيوني أو اسم العرض التلفزيوني أو أسماء الممثل</string>
 
-    
+
     <string name="menu_search">بحث فيديو</string>
     <string name="menu_live">البث المباشر</string>
     <string name="menu_archive">يظهر أرشيف</string>
@@ -22,13 +22,12 @@
     <string name="menu_error_provider_no_archive_text">مزود المختار لا يدعم المحفوظات. تتوفر البث المباشر فقط. انتقل إلى الإعدادات لتغيير موفر أو انتقل إلى بث مباشر.</string>
     <string name="menu_error_provider_no_archive_button">الذهاب إلى البث المباشر</string>
 
-    
+
     <string name="browse_description_series_number">حلقة</string>
     <string name="browse_description_header_live">قنوات حية</string>
-    <string name="browse_description_header_archive">تصفح الأرشيف</string>
     <string name="browse_description_header_program">جدول القناة</string>
 
-    
+
     <string name="category_movies">جميع الأفلام</string>
     <string name="category_tv_series">جميع المسلسلات التلفزيونية</string>
     <string name="category_tv_shows">جميع البرامج التلفزيونية</string>
@@ -47,7 +46,7 @@
     <string name="category_desc_tv_channel">قناة تلفزيونية</string>
     <string name="category_desc_from_fav">المحتوى فقط من القنوات المفضلة</string>
 
-    
+
     <string name="in_1_minute">في 1 دقيقة</string>
     <string name="in_n_minutes">في 10 دقائق</string>
     <string name="player_episode_details_season">الموسم</string>
@@ -59,7 +58,7 @@
     <string name="player_state_no_media_ended">الدفق غير محدد (منتهي)</string>
     <string name="player_state_buffering">التخزين المؤقت</string>
 
-    
+
     <string name="error_this_video_requires_external_player">يتطلب هذا الفيديو مشغلًا خارجيًا للحصول على أفضل تجربة</string>
     <string name="error_stream_not_reachable_no_connect">لا يمكن الوصول إلى البث (لا يمكن الاتصال). اتصل بمزودك</string>
     <string name="error_stream_not_reachable_no_resource">تيار لا يمكن الوصول إليه. اتصل بمزودك</string>
@@ -73,7 +72,7 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) المحملة: السجلات</string>
     <string name="info_channels_count_updated">موفر أضاف قنوات جديدة</string>
 
-    
+
     <string name="player_menu_select_channel_title">قناة أخرى</string>
     <string name="player_menu_select_archive_title">فيديو آخر</string>
     <string name="player_menu_set_pause_on_title">إيقاف مؤقت للتشغيل</string>
@@ -122,7 +121,7 @@
     <string name="hint_video_codecs">إذا كان مصدر التشغيل سيئًا ، فيمكنك محاولة زيادة حجم المخزن المؤقت في الإعدادات ، أو التبديل إلى وحدة فك ترميز دفق أخرى (أجهزة أو برامج) ، أو إذا فشل أي شيء ، فقم بتكوينه لاستخدام مشغل خارجي للتشغيل.</string>
     <string name="hint_auto_turn_off">يمكنك تهيئة إيقاف البث التلقائي بعد بعض الوقت الخامل (مفيد عند إعداد الفواتير لكل دقيقة). الخمول يعني عدم استخدام إجراءات لاعب (على سبيل المثال: القائمة ، البحث ، الإيقاف المؤقت ، إلخ).</string>
 
-    
+
     <string name="settings_provider_select_type">حدد مزود خدمات OTT / IPTV</string>
     <string name="settings_provider_select_type_intro1">ملاحظة: أنت بحاجة إلى مزود OTT / IPTV من أجل استخدام هذا التطبيق.</string>
     <string name="settings_provider_select_type_intro2">يعمل التطبيق مع قوائم التشغيل التي يوفرها المستخدم فقط.</string>
@@ -146,7 +145,6 @@
     <string name="settings_provider_select_error_playlist">قائمة التشغيل تبدو غير صالحة أو لا تحتوي على قنوات مدعومة</string>
     <string name="settings_provider_select_error_live">لا يحتوي على قنوات حية مدعومة. تحقق من اسم المستخدم / مفتاح / كلمة المرور / رابط.</string>
 
-    <string name="settings_dummy_mode">الوضع المبسط (معظم الخيارات مخفية)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI موصول: إيقاف تشغيل الفيديو تلقائيًا</string>
 
     <string name="archive_auto_seek_title">اطلب من آخر وضع تم تذكره لهذا الفيديو؟</string>
@@ -185,7 +183,7 @@
     <string name="settings_media_library_dnla">مسح مصادر UPnP / DNLA في الشبكة المحلية</string>
     <string name="settings_media_library_prov_vod">مسح مكتبة وسائط موفر إذا كان موجودًا</string>
 
-    
+
     <string name="settings_archive">أرشيف</string>
     <string name="settings_archive_min_duration">الحد الأدنى لطول الفيديو في الأرشيف</string>
     <string name="settings_archive_max_duration">أقصى طول للفيديو ليظهر في الأرشيفات</string>
@@ -199,7 +197,7 @@
     <string name="settings_archive_duration_name_2h">ساعاتين</string>
     <string name="settings_archive_duration_name_3h">3 ساعات</string>
 
-    
+
     <string name="settings_player">لاعب</string>
     <string name="settings_player_hide_ui">إخفاء تراكب واجهة المستخدم في التشغيل في</string>
     <string name="sec1">1 ثانية</string>
@@ -228,7 +226,7 @@
         <item>10 ساعات</item>
     </string-array>
 
-    
+
     <string name="settings_extended">الإعدادات الموسعة</string>
     <string name="settings_extended_hide_adult">إخفاء فئات البالغين</string>
     <string name="settings_extended_auto_start_last_channel">بدء آخر قناة تم تشغيلها تلقائيًا</string>
@@ -238,7 +236,6 @@
     <string name="settings_schedule_epg_clear">مسح كافة بيانات EPG المحملة …</string>
     <string name="settings_schedule_epg_clear_note">يزيل جميع بيانات EPG المخزنة مؤقتًا حتى يتم إعادة التحميل التالي من البداية</string>
 
-    <string name="settings_status">الحالة</string>
     <string name="settings_visual">موضة ملفتة للنظر</string>
 
     <string name="settings_live_quick_channel_switch_delay">التأخير قبل التبديل السريع بين القنوات</string>
@@ -296,7 +293,7 @@
 
     <string name="settings_external_player">مشغِّل خارجي (جرب كل شيء بشكل افتراضي)</string>
 
-    
+
     <string name="settings_premium">علاوة</string>
     <string name="settings_premium_source_purchase">قسط شراؤها</string>
     <string name="settings_premium_source_subscription">اشتراك بريميوم</string>
@@ -306,7 +303,7 @@
     <string name="settings_premium_what_included_2">خيار للعودة إلى آخر قناة تم تشغيلها</string>
     <string name="settings_premium_what_included_3">تبديل معدل الإطار التلقائي لمطابقة الفيديو</string>
     <string name="settings_premium_what_included_4">السيطرة على سرعة التشغيل للمحفوظات</string>
-    
+
     <string name="settings_premium_what_included_7">التبديل السريع بين عدة مزودي تهيئة</string>
 
     <string name="settings_premium_toggles">إعدادات قسط</string>
@@ -464,7 +461,6 @@
     <string name="cfg_player_clock_bl">أسفل الزاوية اليسرى</string>
     <string name="cfg_player_clock_tl">الزاوية اليسرى في الاعلى</string>
     <string name="cat_vr_continue">مواصلة المشاهدة</string>
-    <string name="cat_vr_continue_free">شوهدت في غضون ساعات قليلة</string>
     <string name="cat_vr_continue_prem">مقاطع الفيديو التي تم عرضها مؤخرًا ، وهي متاحة الآن</string>
     <string name="premium_fea_continue">يعرض جميع مقاطع الفيديو التي تم عرضها مؤخرًا والمتوفرة حاليًا في فلتر متابعة</string>
     <string name="menu_swap_pip_sound">تبديل الصوت بين الشاشة الرئيسية و PiP</string>
@@ -479,4 +475,26 @@
     <string name="cfg_section_desc">وصف السلعة</string>
     <string name="cfg_section_lists">إعدادات القوائم</string>
     <string name="cfg_section_sys">اعدادات النظام</string>
+
+    <string name="cfg_switch_dummy_on">قم بالتبديل إلى وضع الإعدادات المبسط</string>
+    <string name="cfg_switch_dummy_off">قم بالتبديل إلى وضع الإعدادات المتقدمة</string>
+    <string name="cfg_no_recent">لا تعرض الفئة مع القنوات الحديثة</string>
+    <string name="cfg_no_hints">لا تظهر تلميحات</string>
+    <string name="pla_track_sel_sub">تبديل الترجمة</string>
+    <string name="pla_track_sel_sub_desc">تغيير مصدر الترجمة</string>
+    <string name="setting_list_view_auto">الجدول (أيقونات كبيرة ، تناسب الشاشة)</string>
+    <string name="child_mode_unlock_cfg">أدخل رمز الطفل لفتح الإعدادات</string>
+    <string name="cfg_child_mode">حالة الطفل</string>
+    <string name="cfg_child_mode_toggle">التبديل إلى وضع الطفل</string>
+    <string name="cfg_child_mode_number">رمز للخروج من الوضع الفرعي (4 أرقام)</string>
+    <string name="provider_generic2">قائمة تشغيل عامة (بديل)</string>
+    <string name="cfg_play_deny_status">لا تعرض حالة البث</string>
+    <string name="cfg_player_hud">نمط واجهة المواجهة الفردية</string>
+    <string name="cfg_player_hud_1">فوق وتحت</string>
+    <string name="cfg_player_hud_2">مجتمعة في القاع</string>
+    <string name="cfg_player_hud_3">مجتمعة في الأعلى</string>
+    <string name="never">أبدا</string>
+    <string name="cfg_player_hide_menu">مهلة لإخفاء القائمة (بالثواني)</string>
+    <string name="choose_auto">اختر تلقائيا</string>
+    <string name="cfg_stream_tech">تقنية دفق (إن وجدت)</string>
 </resources>

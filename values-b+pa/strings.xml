@@ -4,7 +4,7 @@
     <string name="search_bar">ਚੈਨਲਾਂ ਜਾਂ ਪ੍ਰੋਗਰਾਮਾਂ ਦੁਆਰਾ ਖੋਜ ਕਰੋ</string>
     <string name="search_bar_clue">ਫਿਲਮ, ਟੀਵੀ-ਲੜੀ, ਟੀਵੀ-ਸ਼ੋਅ ਨਾਂ, ਜਾਂ ਅਦਾਕਾਰ ਦੇ ਨਾਮ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
 
-    
+
     <string name="menu_search">ਵੀਡੀਓ ਖੋਜ</string>
     <string name="menu_live">ਸਿੱਧਾ ਪ੍ਰਸਾਰਣ</string>
     <string name="menu_archive">ਆਰਕਾਈਵ ਦਿਖਾਉਂਦਾ ਹੈ</string>
@@ -22,13 +22,12 @@
     <string name="menu_error_provider_no_archive_text">ਚੁਣਿਆ ਪ੍ਰਦਾਤਾ ਪੁਰਾਲੇਖਾਂ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ ਕੇਵਲ ਲਾਈਵ ਸਟ੍ਰੀਮ ਉਪਲਬਧ ਹਨ. ਕਿਸੇ ਪ੍ਰਦਾਤਾ ਨੂੰ ਬਦਲਣ ਲਈ ਜਾਂ ਲਾਈਵ ਸਟ੍ਰੀਮ \'ਤੇ ਜਾਣ ਲਈ ਸੈਟਿੰਗਾਂ ਤੇ ਜਾਓ</string>
     <string name="menu_error_provider_no_archive_button">ਲਾਈਵ ਸਟ੍ਰੀਮ ਤੇ ਜਾਓ</string>
 
-    
+
     <string name="browse_description_series_number">ਪ੍ਰਸੰਗ</string>
     <string name="browse_description_header_live">ਲਾਈਵ ਚੈਨਲਾਂ</string>
-    <string name="browse_description_header_archive">ਆਰਕਾਈਵ ਬ੍ਰਾਊਜ਼ਿੰਗ</string>
     <string name="browse_description_header_program">ਚੈਨਲ ਸਮਾਂ ਸਾਰਣੀ</string>
 
-    
+
     <string name="category_movies">ਸਭ ਫਿਲਮਾਂ</string>
     <string name="category_tv_series">ਸਾਰੇ ਟੀਵੀ-ਸੀਰੀਜ਼</string>
     <string name="category_tv_shows">ਸਾਰੇ ਟੀਵੀ ਸ਼ੋਅ</string>
@@ -47,7 +46,7 @@
     <string name="category_desc_tv_channel">ਟੀਵੀ ਚੈਨਲ</string>
     <string name="category_desc_from_fav">ਸਿਰਫ ਮਨਪਸੰਦ ਚੈਨਲਾਂ ਦੀ ਸਮੱਗਰੀ</string>
 
-    
+
     <string name="in_1_minute">1 ਮਿੰਟ ਵਿੱਚ</string>
     <string name="in_n_minutes">10 ਮਿੰਟ ਵਿੱਚ</string>
     <string name="player_episode_details_season">ਸੀਜ਼ਨ</string>
@@ -59,7 +58,7 @@
     <string name="player_state_no_media_ended">ਸਟ੍ਰੀਮ ਨੂੰ ਚੁਣਿਆ ਨਹੀਂ ਗਿਆ (ਸਮਾਪਤ)</string>
     <string name="player_state_buffering">ਬਫਰਿੰਗ</string>
 
-    
+
     <string name="error_this_video_requires_external_player">ਇਸ ਵੀਡੀਓ ਲਈ ਬਿਹਤਰੀਨ ਅਨੁਭਵ ਲਈ ਬਾਹਰੀ ਪਲੇਅਰ ਦੀ ਲੋੜ ਹੈ</string>
     <string name="error_stream_not_reachable_no_connect">ਸਟ੍ਰੀਮ ਪਹੁੰਚਣਯੋਗ ਨਹੀਂ ਹੈ (ਕਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦੇ) ਆਪਣੇ ਪ੍ਰਦਾਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</string>
     <string name="error_stream_not_reachable_no_resource">ਸਟ੍ਰੀਮ ਪਹੁੰਚਣਯੋਗ ਨਹੀਂ ਹੈ ਆਪਣੇ ਪ੍ਰਦਾਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</string>
@@ -73,7 +72,7 @@
     <string name="info_teleguide_loaded">ਟੈਲੇਗਲਾਈਡ (ਈਪੀਜੀ) ਲੋਡ: ਰਿਕਾਰਡ</string>
     <string name="info_channels_count_updated">ਪ੍ਰਦਾਤਾ ਨੇ ਨਵੇਂ ਚੈਨਲਾਂ ਨੂੰ ਜੋੜਿਆ ਹੈ</string>
 
-    
+
     <string name="player_menu_select_channel_title">ਇਕ ਹੋਰ ਚੈਨਲ</string>
     <string name="player_menu_select_archive_title">ਹੋਰ ਵੀਡੀਓ</string>
     <string name="player_menu_set_pause_on_title">ਪਲੇਬੈਕ ਰੋਕੋ</string>
@@ -145,7 +144,6 @@
     <string name="settings_provider_select_error_playlist">ਪਲੇਲਿਸਟ ਅਯੋਗ ਜਾਪਦੀ ਹੈ ਜਾਂ ਕੋਈ ਸਮਰਥਿਤ ਚੈਨਲ ਨਹੀਂ ਹੁੰਦੇ ਹਨ</string>
     <string name="settings_provider_select_error_live">ਵਿੱਚ ਕੋਈ ਸਮਰਥਿਤ ਲਾਈਵ ਚੈਨਲਾਂ ਨਹੀਂ ਹਨ ਉਪਭੋਗਤਾ ਨਾਮ / ਕੁੰਜੀ / ਪਾਸਵਰਡ / url ਨੂੰ ਚੈਕ ਕਰੋ.</string>
 
-    <string name="settings_dummy_mode">ਸਧਾਰਨ ਮੋਡ (ਬਹੁਤ ਸਾਰੇ ਵਿਕਲਪ ਲੁਕਾਏ ਗਏ ਹਨ)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI ਅਨਪਲੱਗਡ: ਆਟੋ-ਮੋਡਿੰਗ ਵੀਡੀਓ</string>
 
     <string name="archive_auto_seek_title">ਇਸ ਵੀਡੀਓ ਦੀ ਆਖਰੀ ਯਾਦ ਥਾਂ ਤੇ ਜਾਓ?</string>
@@ -184,7 +182,7 @@
     <string name="settings_media_library_dnla">ਸਥਾਨਕ ਨੈਟਵਰਕ ਵਿੱਚ UPnP / DNLA ਸਰੋਤਾਂ ਨੂੰ ਸਕੈਨ ਕਰੋ</string>
     <string name="settings_media_library_prov_vod">ਸਕੈਨ ਪ੍ਰਦਾਤਾ ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ ਜੇ ਮੌਜੂਦ ਹੋਵੇ</string>
 
-    
+
     <string name="settings_archive">ਆਰਕਾਈਵ</string>
     <string name="settings_archive_min_duration">ਪੁਰਾਲੇਖਾਂ ਵਿੱਚ ਦਿਖਾਉਣ ਲਈ ਘੱਟੋ ਘੱਟ ਵੀਡੀਓ ਦੀ ਲੰਬਾਈ</string>
     <string name="settings_archive_max_duration">ਪੁਰਾਲੇਖ ਵਿਚ ਦਿਖਾਉਣ ਲਈ ਅਧਿਕਤਮ ਵੀਡੀਓ ਦੀ ਲੰਬਾਈ</string>
@@ -198,7 +196,7 @@
     <string name="settings_archive_duration_name_2h">2 ਘੰਟੇ</string>
     <string name="settings_archive_duration_name_3h">3 ਘੰਟੇ</string>
 
-    
+
     <string name="settings_player">ਪਲੇਅਰ</string>
     <string name="settings_player_hide_ui">ਪਲੇਅਬੈਕ ਵਿੱਚ UI ਓਵਰਲੇ ਓਹਲੇ ਕਰੋ</string>
     <string name="sec1">1 ਸਕਿੰਟ</string>
@@ -227,7 +225,7 @@
         <item>10 ਘੰਟੇ</item>
     </string-array>
 
-    
+
     <string name="settings_extended">ਵਿਸਤ੍ਰਿਤ ਸੈਟਿੰਗ</string>
     <string name="settings_extended_hide_adult">ਬਾਲਗ ਸ਼੍ਰੇਣੀਆਂ ਨੂੰ ਓਹਲੇ ਕਰੋ</string>
     <string name="settings_extended_auto_start_last_channel">ਆਟੋਮੈਟਿਕ ਹੀ ਆਖਰੀ ਚਲਾਏ ਗਏ ਚੈਨਲ ਨੂੰ ਸ਼ੁਰੂ ਕਰੋ</string>
@@ -237,7 +235,6 @@
     <string name="settings_schedule_epg_clear">ਸਾਰਾ ਲੋਡ ਕੀਤਾ EPG ਡਾਟਾ ਸਾਫ਼ ਕਰੋ ...</string>
     <string name="settings_schedule_epg_clear_note">ਸਭ ਕੈਸ਼ਡ ਈਪੀਜੀ ਡਾਟੇ ਨੂੰ ਹਟਾਉਂਦਾ ਹੈ ਤਾਂ ਜੋ ਅਗਲੀ ਵਾਰ ਮੁੜ ਲੋਡ ਕੀਤੀ ਜਾ ਸਕੇ</string>
 
-    <string name="settings_status">ਸਥਿਤੀ</string>
     <string name="settings_visual">ਵਿਜ਼ੂਅਲ ਸਟਾਈਲ</string>
 
     <string name="settings_live_quick_channel_switch_delay">ਤੇਜ਼-ਬਦਲਣ ਵਾਲੇ ਚੈਨਲਾਂ ਤੋਂ ਪਹਿਲਾਂ ਦੇਰੀ</string>
@@ -295,7 +292,7 @@
 
     <string name="settings_external_player">ਬਾਹਰੀ ਪਲੇਅਰ (ਡਿਫਾਲਟ ਦੁਆਰਾ ਸਾਰੇ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ)</string>
 
-    
+
     <string name="settings_premium">ਪ੍ਰੀਮੀਅਮ</string>
     <string name="settings_premium_source_purchase">ਪ੍ਰੀਮੀਅਮ ਖਰੀਦਿਆ</string>
     <string name="settings_premium_source_subscription">ਪ੍ਰੀਮੀਅਮ ਦੀ ਗਾਹਕੀ</string>
@@ -323,7 +320,7 @@
     <string name="settings_vod_extra_source2">ਵਾਧੂ m3u 2 ਸਰੋਤ</string>
     <string name="settings_vod_extra_source3">ਵਾਧੂ m3u 3 ਸਰੋਤ</string>
 
-    
+
     <string name="setting_list_view_title">ਕਿਵੇਂ ਸੂਚੀਆਂ ਪ੍ਰਦਰਸ਼ਿਤ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ</string>
     <string name="setting_list_view1">ਸਧਾਰਨ ਸੂਚੀ</string>
     <string name="setting_list_view2">ਵੇਰਵੇ ਦੇ ਨਾਲ ਟੇਬਲ (2 ਕਾਲਮ)</string>
@@ -463,7 +460,6 @@
     <string name="cfg_player_clock_bl">ਥੱਲੇ ਖੱਬੇ ਕੋਨੇ</string>
     <string name="cfg_player_clock_tl">ਚੋਟੀ ਦੇ ਖੱਬੇ ਕੋਨੇ</string>
     <string name="cat_vr_continue">ਦੇਖਣਾ ਜਾਰੀ ਰੱਖੋ</string>
-    <string name="cat_vr_continue_free">ਕੁਝ ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਅੰਦਰ ਦੇਖਿਆ ਗਿਆ</string>
     <string name="cat_vr_continue_prem">ਹਾਲ ਹੀ ਵਿੱਚ ਦੇਖੇ ਗਏ ਵੀਡੀਓਜ਼, ਜੋ ਹੁਣ ਉਪਲਬਧ ਹਨ</string>
     <string name="premium_fea_continue">ਹਾਲ ਹੀ ਵਿੱਚ ਦੇਖੇ ਗਏ ਸਾਰੇ ਵੀਡੀਓਜ਼ ਦਿਖਾਉਂਦਾ ਹੈ, ਜੋ ਵਰਤਮਾਨ ਵਿੱਚ ਫਿਲਟਰ ਜਾਰੀ ਰੱਖੋ ਵਿੱਚ ਉਪਲਬਧ ਹਨ</string>
     <string name="menu_swap_pip_sound">ਮੁੱਖ ਸਕ੍ਰੀਨ ਅਤੇ ਪਿਪ ਦੇ ਵਿਚਕਾਰ ਆਵਾਜ਼ ਸਵੈਪ ਕਰੋ</string>
@@ -478,4 +474,26 @@
     <string name="cfg_section_desc">ਆਈਟਮ ਵਰਣਨ</string>
     <string name="cfg_section_lists">ਸੈਟਿੰਗਾਂ ਦੀ ਸੂਚੀ ਹੈ</string>
     <string name="cfg_section_sys">ਸਿਸਟਮ ਸੈਟਿੰਗਜ਼</string>
+
+    <string name="cfg_switch_dummy_on">ਸਧਾਰਨ ਸੈਟਿੰਗ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
+    <string name="cfg_switch_dummy_off">ਉੱਨਤ ਸੈਟਿੰਗ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
+    <string name="cfg_no_recent">ਹਾਲ ਦੇ ਚੈਨਲਸ ਦੇ ਨਾਲ ਸ਼੍ਰੇਣੀ ਨਾ ਦਿਖਾਓ</string>
+    <string name="cfg_no_hints">ਸੰਕੇਤ ਨਾ ਦਿਖਾਓ</string>
+    <string name="pla_track_sel_sub">ਉਪਸਿਰਲੇਖ ਬਦਲੋ</string>
+    <string name="pla_track_sel_sub_desc">ਉਪਸਿਰਲੇਖ ਸਰੋਤ ਬਦਲੋ</string>
+    <string name="setting_list_view_auto">ਸਾਰਣੀ (ਵੱਡੇ ਆਈਕਾਨ, ਸਕਰੀਨ ਫਿੱਟ)</string>
+    <string name="child_mode_unlock_cfg">ਸੈਟਿੰਗਜ਼ ਨੂੰ ਅਨਲੌਕ ਕਰਨ ਲਈ ਬੱਚੇ ਦਾ ਕੋਡ ਦਰਜ ਕਰੋ</string>
+    <string name="cfg_child_mode">ਬਾਲ ਮੋਡ</string>
+    <string name="cfg_child_mode_toggle">ਇੱਕ ਬਾਲ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
+    <string name="cfg_child_mode_number">ਚਾਈਲਡ ਮੋਡ ਤੋਂ ਬਾਹਰ ਜਾਣ ਲਈ ਕੋਡ (4 ਅੰਕ)</string>
+    <string name="provider_generic2">ਸਧਾਰਨ ਪਲੇਲਿਸਟ (ਵਿਕਲਪਿਕ)</string>
+    <string name="cfg_play_deny_status">ਸਟ੍ਰੀਮ ਸਥਿਤੀ ਨਾ ਦਿਖਾਓ</string>
+    <string name="cfg_player_hud">ਸਿਰ-ਅੱਪ ਇੰਟਰਫੇਸ ਦੀ ਸ਼ੈਲੀ</string>
+    <string name="cfg_player_hud_1">ਉੱਪਰ ਅਤੇ ਹੇਠਾਂ</string>
+    <string name="cfg_player_hud_2">ਤਲ ਵਿੱਚ ਸੰਯੁਕਤ</string>
+    <string name="cfg_player_hud_3">ਚੋਟੀ ਦੇ ਵਿੱਚ ਸੰਯੁਕਤ</string>
+    <string name="never">ਕਦੇ ਨਹੀਂ</string>
+    <string name="cfg_player_hide_menu">ਮੇਨੂ ਲੁਕਾਉਣ ਲਈ ਟਾਈਮਆਉਟ (ਸਕਿੰਟਾਂ ਵਿੱਚ)</string>
+    <string name="choose_auto">ਆਪਣੇ ਆਪ ਹੀ ਚੁਣੋ</string>
+    <string name="cfg_stream_tech">ਸਟ੍ਰੀਮ ਤਕਨਾਲੋਜੀ (ਜੇ ਉਪਲੱਬਧ ਹੋਵੇ)</string>
 </resources>

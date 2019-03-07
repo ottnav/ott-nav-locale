@@ -4,7 +4,7 @@
     <string name="search_bar">按渠道或计划搜索</string>
     <string name="search_bar_clue">尝试电影，电视剧，电视节目名称或演员姓名</string>
 
-    
+
     <string name="menu_search">视频搜索</string>
     <string name="menu_live">现场直播</string>
     <string name="menu_archive">显示存档</string>
@@ -22,13 +22,12 @@
     <string name="menu_error_provider_no_archive_text">所选提供商不支持存档。只有实时流可用。导航到设置以更改提供者或转到实时流。</string>
     <string name="menu_error_provider_no_archive_button">转到直播</string>
 
-    
+
     <string name="browse_description_series_number">插曲</string>
     <string name="browse_description_header_live">直播频道</string>
-    <string name="browse_description_header_archive">档案浏览</string>
     <string name="browse_description_header_program">频道时间表</string>
 
-    
+
     <string name="category_movies">所有电影</string>
     <string name="category_tv_series">所有电视剧</string>
     <string name="category_tv_shows">所有电视节目</string>
@@ -47,7 +46,7 @@
     <string name="category_desc_tv_channel">电视频道</string>
     <string name="category_desc_from_fav">仅限喜爱频道的内容</string>
 
-    
+
     <string name="in_1_minute">在1分钟</string>
     <string name="in_n_minutes">在10分钟内</string>
     <string name="player_episode_details_season">季节</string>
@@ -59,7 +58,7 @@
     <string name="player_state_no_media_ended">流未选中（已结束）</string>
     <string name="player_state_buffering">缓冲</string>
 
-    
+
     <string name="error_this_video_requires_external_player">此视频需要外部播放器以获得最佳体验</string>
     <string name="error_stream_not_reachable_no_connect">流无法访问（无法连接）。联系您的提供商</string>
     <string name="error_stream_not_reachable_no_resource">流无法访问。联系您的提供商</string>
@@ -73,7 +72,7 @@
     <string name="info_teleguide_loaded">加载Teleguide（EPG）：记录</string>
     <string name="info_channels_count_updated">提供商已添加新渠道</string>
 
-    
+
     <string name="player_menu_select_channel_title">另一个渠道</string>
     <string name="player_menu_select_archive_title">另一个视频</string>
     <string name="player_menu_set_pause_on_title">暂停播放</string>
@@ -145,7 +144,6 @@
     <string name="settings_provider_select_error_playlist">播放列表似乎无效或不包含任何支持的频道</string>
     <string name="settings_provider_select_error_live">不包含支持的直播频道。检查用户名/密钥/密码/网址。</string>
 
-    <string name="settings_dummy_mode">简化模式（大多数选项隐藏）</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI已拔下：自动关闭视频</string>
 
     <string name="archive_auto_seek_title">寻求这个视频最后记住的位置？</string>
@@ -184,7 +182,7 @@
     <string name="settings_media_library_dnla">扫描本地网络中的UPnP / DNLA源</string>
     <string name="settings_media_library_prov_vod">扫描提供者媒体库（如果存在）</string>
 
-    
+
     <string name="settings_archive">档案</string>
     <string name="settings_archive_min_duration">存档中显示的最小视频长度</string>
     <string name="settings_archive_max_duration">存档中显示的最大视频长度</string>
@@ -198,7 +196,7 @@
     <string name="settings_archive_duration_name_2h">2小时</string>
     <string name="settings_archive_duration_name_3h">3小时</string>
 
-    
+
     <string name="settings_player">播放机</string>
     <string name="settings_player_hide_ui">在播放时隐藏UI叠加层</string>
     <string name="sec1">1秒</string>
@@ -227,7 +225,7 @@
         <item>10个小时</item>
     </string-array>
 
-    
+
     <string name="settings_extended">扩展设置</string>
     <string name="settings_extended_hide_adult">隐藏成人类别</string>
     <string name="settings_extended_auto_start_last_channel">自动启动上次播放的频道</string>
@@ -237,7 +235,6 @@
     <string name="settings_schedule_epg_clear">清除所有加载的EPG数据......</string>
     <string name="settings_schedule_epg_clear_note">删除所有缓存的EPG数据，以便下次重新加载将从头开始</string>
 
-    <string name="settings_status">状态</string>
     <string name="settings_visual">视觉风格</string>
 
     <string name="settings_live_quick_channel_switch_delay">在快速切换频道之前延迟</string>
@@ -295,7 +292,7 @@
 
     <string name="settings_external_player">外部播放器（默认情况下全部尝试）</string>
 
-    
+
     <string name="settings_premium">额外费用</string>
     <string name="settings_premium_source_purchase">购买高级版</string>
     <string name="settings_premium_source_subscription">高级订阅</string>
@@ -323,7 +320,7 @@
     <string name="settings_vod_extra_source2">额外的m3u来源2</string>
     <string name="settings_vod_extra_source3">额外的m3u来源3</string>
 
-    
+
     <string name="setting_list_view_title">应如何显示列表</string>
     <string name="setting_list_view1">简单清单</string>
     <string name="setting_list_view2">表（2列）及其说明</string>
@@ -464,7 +461,6 @@
     <string name="cfg_player_clock_bl">左下角</string>
     <string name="cfg_player_clock_tl">左上角</string>
     <string name="cat_vr_continue">继续看</string>
-    <string name="cat_vr_continue_free">在几个小时内观看</string>
     <string name="cat_vr_continue_prem">最近观看的视频，现已上市</string>
     <string name="premium_fea_continue">显示“继续”过滤器中当前可用的所有最近观看过的视频</string>
     <string name="menu_swap_pip_sound">在主屏幕和PiP之间切换声音</string>
@@ -479,4 +475,26 @@
     <string name="cfg_section_desc">商品描述</string>
     <string name="cfg_section_lists">列出设置</string>
     <string name="cfg_section_sys">系统设置</string>
+
+    <string name="cfg_switch_dummy_on">切换到简化设置模式</string>
+    <string name="cfg_switch_dummy_off">切换到高级设置模式</string>
+    <string name="cfg_no_recent">不要显示最近频道的类别</string>
+    <string name="cfg_no_hints">不要显示提示</string>
+    <string name="pla_track_sel_sub">切换字幕</string>
+    <string name="pla_track_sel_sub_desc">更改字幕来源</string>
+    <string name="setting_list_view_auto">桌子（大图标，适合屏幕）</string>
+    <string name="child_mode_unlock_cfg">输入子代码以解锁设置</string>
+    <string name="cfg_child_mode">儿童模式</string>
+    <string name="cfg_child_mode_toggle">切换到子模式</string>
+    <string name="cfg_child_mode_number">退出子模式的代码（4位数）</string>
+    <string name="provider_generic2">通用播放列表（替代）</string>
+    <string name="cfg_play_deny_status">不显示流状态</string>
+    <string name="cfg_player_hud">单挑界面的风格</string>
+    <string name="cfg_player_hud_1">顶部和底部</string>
+    <string name="cfg_player_hud_2">结合在底部</string>
+    <string name="cfg_player_hud_3">结合在一起</string>
+    <string name="never">决不</string>
+    <string name="cfg_player_hide_menu">超时隐藏菜单（以秒为单位）</string>
+    <string name="choose_auto">自动选择</string>
+    <string name="cfg_stream_tech">流技术（如果有）</string>
 </resources>

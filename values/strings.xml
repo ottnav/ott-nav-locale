@@ -26,7 +26,6 @@
     <!-- browse -->
     <string name="browse_description_series_number">episode</string>
     <string name="browse_description_header_live">Live channels</string>
-    <string name="browse_description_header_archive">Archive browsing</string>
     <string name="browse_description_header_program">Channel timetable</string>
 
     <!-- categories -->
@@ -147,7 +146,6 @@
     <string name="settings_provider_select_error_playlist">playlist seems invalid or contains no supported channels</string>
     <string name="settings_provider_select_error_live">contains no supported live channels. Check username/key/password/url.</string>
 
-    <string name="settings_dummy_mode">Simplified mode (most options hidden)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI unplugged: auto-turning off video</string>
 
     <string name="archive_auto_seek_title">Seek to the last remembered position of this video?</string>
@@ -239,7 +237,6 @@
     <string name="settings_schedule_epg_clear">Clear all loaded EPG data…</string>
     <string name="settings_schedule_epg_clear_note">removes all cached EPG data so that next reload will be done from scratch</string>
 
-    <string name="settings_status">Status</string>
     <string name="settings_visual">Visual style</string>
 
     <string name="settings_live_quick_channel_switch_delay">Delay before quick-switching channels</string>
@@ -469,7 +466,6 @@
     <string name="cfg_player_clock_bl">bottom left corner</string>
     <string name="cfg_player_clock_tl">top left corner</string>
     <string name="cat_vr_continue">Continue watching</string>
-    <string name="cat_vr_continue_free">Viewed within few hours</string>
     <string name="cat_vr_continue_prem">Recently viewed videos, that are available now</string>
     <string name="premium_fea_continue">Shows all recently viewed videos, that are currently available in Continue filter</string>
     <string name="menu_swap_pip_sound">Swap sound between main screen and PiP</string>
@@ -484,4 +480,27 @@
     <string name="cfg_section_desc">Item description</string>
     <string name="cfg_section_lists">Lists settings</string>
     <string name="cfg_section_sys">System settings</string>
+
+    <!-- 1.4.6 -->
+    <string name="cfg_switch_dummy_on">Switch to simplified settings mode</string>
+    <string name="cfg_switch_dummy_off">Switch to advanced settings mode</string>
+    <string name="cfg_no_recent">Do not show category with recent channels</string>
+    <string name="cfg_no_hints">Do not show hints</string>
+    <string name="pla_track_sel_sub">Switch subtitles</string>
+    <string name="pla_track_sel_sub_desc">Change subtitles source</string>
+    <string name="setting_list_view_auto">table (large icons, fit the screen)</string>
+    <string name="child_mode_unlock_cfg">Enter child code to unlock settings</string>
+    <string name="cfg_child_mode">Child mode</string>
+    <string name="cfg_child_mode_toggle">Switch to a child mode</string>
+    <string name="cfg_child_mode_number">Code to exit a child mode (4 digits)</string>
+    <string name="provider_generic2">Generic playlist (alternative)</string>
+    <string name="cfg_play_deny_status">Do not show stream status</string>
+    <string name="cfg_player_hud">Style of heads-up interface</string>
+    <string name="cfg_player_hud_1">Top and bottom</string>
+    <string name="cfg_player_hud_2">Combined in bottom</string>
+    <string name="cfg_player_hud_3">Combined in top</string>
+    <string name="never">never</string>
+    <string name="cfg_player_hide_menu">Timeout to hide menu (in seconds)</string>
+    <string name="choose_auto">Choose automatically</string>
+    <string name="cfg_stream_tech">Stream technology (if available)</string>
 </resources>

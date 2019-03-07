@@ -4,7 +4,7 @@
     <string name="search_bar">Pesquise por canais ou programas</string>
     <string name="search_bar_clue">tente nomes de filmes, séries de TV, nomes de programas de TV ou nomes de atores</string>
 
-    
+
     <string name="menu_search">Pesquisa de vídeos</string>
     <string name="menu_live">Transmissão ao vivo</string>
     <string name="menu_archive">Mostra arquivo</string>
@@ -22,13 +22,12 @@
     <string name="menu_error_provider_no_archive_text">O provedor selecionado não suporta arquivos. Apenas transmissões ao vivo estão disponíveis. Navegue até as configurações para alterar um provedor ou ir para a transmissão ao vivo.</string>
     <string name="menu_error_provider_no_archive_button">Ir para transmissão ao vivo</string>
 
-    
+
     <string name="browse_description_series_number">episódio</string>
     <string name="browse_description_header_live">Canais ao vivo</string>
-    <string name="browse_description_header_archive">Navegação de arquivamento</string>
     <string name="browse_description_header_program">Horário do canal</string>
 
-    
+
     <string name="category_movies">Todos os filmes</string>
     <string name="category_tv_series">Todas as séries de TV</string>
     <string name="category_tv_shows">Todos os programas de TV</string>
@@ -47,7 +46,7 @@
     <string name="category_desc_tv_channel">canal de televisão</string>
     <string name="category_desc_from_fav">apenas conteúdo dos canais favoritos</string>
 
-    
+
     <string name="in_1_minute">em 1 minuto</string>
     <string name="in_n_minutes">em 10 minutos</string>
     <string name="player_episode_details_season">estação</string>
@@ -59,7 +58,7 @@
     <string name="player_state_no_media_ended">Fluxo não selecionado (terminado)</string>
     <string name="player_state_buffering">Carregando</string>
 
-    
+
     <string name="error_this_video_requires_external_player">Este vídeo requer player externo para melhor experiência</string>
     <string name="error_stream_not_reachable_no_connect">Fluxo não alcançável (não pode se conectar). Entre em contato com seu provedor</string>
     <string name="error_stream_not_reachable_no_resource">Fluxo não alcançável. Entre em contato com seu provedor</string>
@@ -73,7 +72,7 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) carregado: registros</string>
     <string name="info_channels_count_updated">Provedor adicionou novos canais</string>
 
-    
+
     <string name="player_menu_select_channel_title">Outro canal</string>
     <string name="player_menu_select_archive_title">Outro vídeo</string>
     <string name="player_menu_set_pause_on_title">Pausar a reprodução</string>
@@ -145,7 +144,6 @@
     <string name="settings_provider_select_error_playlist">lista de reprodução parece inválida ou não contém canais suportados</string>
     <string name="settings_provider_select_error_live">não contém canais ao vivo suportados. Verifique o nome de usuário / chave / senha / url.</string>
 
-    <string name="settings_dummy_mode">Modo simplificado (a maioria das opções ocultas)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI desconectado: desligando automaticamente o vídeo</string>
 
     <string name="archive_auto_seek_title">Buscar a última posição lembrada deste vídeo?</string>
@@ -184,7 +182,7 @@
     <string name="settings_media_library_dnla">Varredura de fontes UPnP / DNLA na rede local</string>
     <string name="settings_media_library_prov_vod">Biblioteca de mídia do provedor de digitalização, se existir</string>
 
-    
+
     <string name="settings_archive">Arquivo</string>
     <string name="settings_archive_min_duration">Comprimento mínimo de vídeo para mostrar nos arquivos</string>
     <string name="settings_archive_max_duration">Duração máxima do vídeo para mostrar nos arquivos</string>
@@ -198,7 +196,7 @@
     <string name="settings_archive_duration_name_2h">2 horas</string>
     <string name="settings_archive_duration_name_3h">3 horas</string>
 
-    
+
     <string name="settings_player">Jogador</string>
     <string name="settings_player_hide_ui">Ocultar sobreposição da interface do usuário na reprodução em</string>
     <string name="sec1">1 segundo</string>
@@ -227,7 +225,7 @@
         <item>10 horas</item>
     </string-array>
 
-    
+
     <string name="settings_extended">Configurações estendidas</string>
     <string name="settings_extended_hide_adult">Ocultar categorias de adultos</string>
     <string name="settings_extended_auto_start_last_channel">Iniciar automaticamente o último canal reproduzido</string>
@@ -237,7 +235,6 @@
     <string name="settings_schedule_epg_clear">Limpar todos os dados de EPG carregados …</string>
     <string name="settings_schedule_epg_clear_note">remove todos os dados do EPG em cache para que o próximo recarregamento seja feito do zero</string>
 
-    <string name="settings_status">Status</string>
     <string name="settings_visual">Estilo visual</string>
 
     <string name="settings_live_quick_channel_switch_delay">Atraso antes de mudar rapidamente de canal</string>
@@ -295,7 +292,7 @@
 
     <string name="settings_external_player">Jogador externo (tente tudo por padrão)</string>
 
-    
+
     <string name="settings_premium">Prêmio</string>
     <string name="settings_premium_source_purchase">Premium comprado</string>
     <string name="settings_premium_source_subscription">Premium subscrito</string>
@@ -462,7 +459,6 @@
     <string name="cfg_player_clock_bl">Canto inferior esquerdo</string>
     <string name="cfg_player_clock_tl">canto superior esquerdo</string>
     <string name="cat_vr_continue">Continue assistindo</string>
-    <string name="cat_vr_continue_free">Visto dentro de poucas horas</string>
     <string name="cat_vr_continue_prem">Vídeos vistos recentemente, que estão disponíveis agora</string>
     <string name="premium_fea_continue">Mostra todos os vídeos visualizados recentemente, que estão atualmente disponíveis no filtro Continuar</string>
     <string name="menu_swap_pip_sound">Trocar o som entre a tela principal e o PiP</string>
@@ -477,4 +473,26 @@
     <string name="cfg_section_desc">Descrição do item</string>
     <string name="cfg_section_lists">Configurações de listas</string>
     <string name="cfg_section_sys">Configurações de sistema</string>
+
+    <string name="cfg_switch_dummy_on">Mudar para o modo de configurações simplificado</string>
+    <string name="cfg_switch_dummy_off">Mudar para o modo de configurações avançadas</string>
+    <string name="cfg_no_recent">Não mostrar categoria com canais recentes</string>
+    <string name="cfg_no_hints">Não mostrar dicas</string>
+    <string name="pla_track_sel_sub">Mudar legendas</string>
+    <string name="pla_track_sel_sub_desc">Alterar a origem das legendas</string>
+    <string name="setting_list_view_auto">mesa (ícones grandes, ajuste a tela)</string>
+    <string name="child_mode_unlock_cfg">Digite o código filho para desbloquear as configurações</string>
+    <string name="cfg_child_mode">Modo infantil</string>
+    <string name="cfg_child_mode_toggle">Mudar para um modo infantil</string>
+    <string name="cfg_child_mode_number">Código para sair de um modo filho (4 dígitos)</string>
+    <string name="provider_generic2">Lista de reprodução genérica (alternativa)</string>
+    <string name="cfg_play_deny_status">Não mostrar o status do fluxo</string>
+    <string name="cfg_player_hud">Estilo da interface heads-up</string>
+    <string name="cfg_player_hud_1">Cabeçalho e rodapé</string>
+    <string name="cfg_player_hud_2">Combinado na parte inferior</string>
+    <string name="cfg_player_hud_3">Combinado no topo</string>
+    <string name="never">Nunca</string>
+    <string name="cfg_player_hide_menu">Tempo limite para ocultar o menu (em segundos)</string>
+    <string name="choose_auto">Escolher automaticamente</string>
+    <string name="cfg_stream_tech">Tecnologia de fluxo (se disponível)</string>
 </resources>

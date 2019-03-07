@@ -4,7 +4,7 @@
     <string name="search_bar">جستجو بر اساس کانال ها یا برنامه ها</string>
     <string name="search_bar_clue">سعی کنید فیلم، سریال تلویزیونی، نام تلویزیون تلویزیونی یا نامزدهای بازیگر</string>
 
-    
+
     <string name="menu_search">جستجو ویدیو</string>
     <string name="menu_live">پخش زنده</string>
     <string name="menu_archive">آرشیو نشان می دهد</string>
@@ -22,13 +22,12 @@
     <string name="menu_error_provider_no_archive_text">ارائه دهنده انتخاب شده بایگانی را پشتیبانی نمی کند. فقط جریانهای زنده در دسترس هستند به تنظیمات بروید تا یک ارائه دهنده تغییر دهید یا به جریان مستقیم بروید.</string>
     <string name="menu_error_provider_no_archive_button">به جریان زندگی بروید</string>
 
-    
+
     <string name="browse_description_series_number">قسمت</string>
     <string name="browse_description_header_live">کانال های زنده</string>
-    <string name="browse_description_header_archive">مرور بایگانی</string>
     <string name="browse_description_header_program">جدول زمانی کانال</string>
 
-    
+
     <string name="category_movies">همه فیلم ها</string>
     <string name="category_tv_series">تمام سریالهای تلویزیونی</string>
     <string name="category_tv_shows">تمام نمایشهای تلویزیونی</string>
@@ -47,7 +46,7 @@
     <string name="category_desc_tv_channel">کانال تلویزیون</string>
     <string name="category_desc_from_fav">فقط محتوا از کانال های مورد علاقه</string>
 
-    
+
     <string name="in_1_minute">در 1 دقیقه</string>
     <string name="in_n_minutes">در 10 دقیقه</string>
     <string name="player_episode_details_season">فصل</string>
@@ -59,7 +58,7 @@
     <string name="player_state_no_media_ended">جریان انتخاب نشده (پایان یافته)</string>
     <string name="player_state_buffering">بافر</string>
 
-    
+
     <string name="error_this_video_requires_external_player">این ویدئو برای بهترین تجربه نیاز به پخش خارجی دارد</string>
     <string name="error_stream_not_reachable_no_connect">جریان قابل دسترسی نیست (نمی تواند وصل شود) با ارائه دهنده خود تماس بگیرید</string>
     <string name="error_stream_not_reachable_no_resource">جریان قابل دسترسی نیست با ارائه دهنده خود تماس بگیرید</string>
@@ -73,7 +72,7 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) بارگیری شده است: سوابق</string>
     <string name="info_channels_count_updated">ارائه دهنده کانال های جدیدی اضافه کرده است</string>
 
-    
+
     <string name="player_menu_select_channel_title">کانال دیگر</string>
     <string name="player_menu_select_archive_title">ویدیوی دیگر</string>
     <string name="player_menu_set_pause_on_title">پخش را متوقف کنید</string>
@@ -145,7 +144,6 @@
     <string name="settings_provider_select_error_playlist">لیست پخش نامعتبر است یا شامل هیچ کانال پشتیبانی نیست</string>
     <string name="settings_provider_select_error_live">شامل هیچ کانال زنده پشتیبانی نمی شود نام کاربری / کلید / رمز عبور / URL را بررسی کنید.</string>
 
-    <string name="settings_dummy_mode">حالت ساده (اکثر گزینه های پنهان)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI unplugged: خودکار روشن کردن ویدئو</string>
 
     <string name="archive_auto_seek_title">به آخرین موقعیت به یاد ماندنی این ویدیو بپردازید؟</string>
@@ -184,7 +182,7 @@
     <string name="settings_media_library_dnla">منابع UPnP / DNLA را در شبکه محلی اسکن کنید</string>
     <string name="settings_media_library_prov_vod">کتابخانه رسانه ای ارائه دهنده اسکن در صورت وجود دارد</string>
 
-    
+
     <string name="settings_archive">بایگانی</string>
     <string name="settings_archive_min_duration">طول ویدیو حداقل برای نشان دادن در آرشیو</string>
     <string name="settings_archive_max_duration">حداکثر طول ویدیو برای نشان دادن در آرشیو</string>
@@ -198,7 +196,7 @@
     <string name="settings_archive_duration_name_2h">2 ساعت</string>
     <string name="settings_archive_duration_name_3h">3 ساعت</string>
 
-    
+
     <string name="settings_player">بازیکن</string>
     <string name="settings_player_hide_ui">مخفی کردن پوشش UI در پخش در</string>
     <string name="sec1">1 ثانیه</string>
@@ -227,7 +225,7 @@
         <item>10 ساعت</item>
     </string-array>
 
-    
+
     <string name="settings_extended">تنظیمات تمدید شده</string>
     <string name="settings_extended_hide_adult">پنهان کردن دسته های بزرگسال</string>
     <string name="settings_extended_auto_start_last_channel">آخرین کانال پخش شده را به طور خودکار شروع کنید</string>
@@ -237,7 +235,6 @@
     <string name="settings_schedule_epg_clear">پاک کردن داده های EPG لود شده ...</string>
     <string name="settings_schedule_epg_clear_note">تمام داده های EPG ذخیره شده را حذف می کند تا بارگذاری بعدی از ابتدا انجام شود</string>
 
-    <string name="settings_status">وضعیت</string>
     <string name="settings_visual">سبک بصری</string>
 
     <string name="settings_live_quick_channel_switch_delay">تأخیر قبل از کانالهای سریع تعویض</string>
@@ -295,7 +292,7 @@
 
     <string name="settings_external_player">پخش خارجی (سعی کنید همه به طور پیش فرض)</string>
 
-    
+
     <string name="settings_premium">حق بیمه</string>
     <string name="settings_premium_source_purchase">حق بیمه خریداری شد</string>
     <string name="settings_premium_source_subscription">حق بیمه مشترک شده است</string>
@@ -323,7 +320,7 @@
     <string name="settings_vod_extra_source2">منبع اضافی 2 m3u</string>
     <string name="settings_vod_extra_source3">منبع اضافی 3 m3u</string>
 
-    
+
     <string name="setting_list_view_title">چگونه لیست ها باید نمایش داده شوند</string>
     <string name="setting_list_view1">لیست ساده</string>
     <string name="setting_list_view2">جدول (2 ستون) با توضیحات</string>
@@ -344,7 +341,7 @@
     <string name="cfg_trans_wind">از رابط شفاف استفاده کنید</string>
     <string name="cfg_list_poster_time">نمایش طول اثر پوستر (ثانیه، در صورت موجود بودن)</string>
 
-    
+
     <string name="do_not_show">نشان نده</string>
     <string name="android_not_genuine">خرید ممکن است بر روی دستگاه شما کار نکند.</string>
     <string name="btn_clear_cache">پاک کردن حافظه پنهان (در بارگیری بعدی بارگیری مجدد)</string>
@@ -464,7 +461,6 @@
     <string name="cfg_player_clock_bl">گوشه پایین سمت چپ</string>
     <string name="cfg_player_clock_tl">گوشه بالا سمت چپ</string>
     <string name="cat_vr_continue">ادامه تماشا کنید</string>
-    <string name="cat_vr_continue_free">در عرض چند ساعت مشاهده شده است</string>
     <string name="cat_vr_continue_prem">فیلم های اخیرا مشاهده شده که اکنون در دسترس هستند</string>
     <string name="premium_fea_continue">همه فیلم های اخیر دیده شده را نشان می دهد، که در حال حاضر در Continue filter در دسترس هستند</string>
     <string name="menu_swap_pip_sound">مبادله صدا بین صفحه اصلی و PiP</string>
@@ -479,4 +475,26 @@
     <string name="cfg_section_desc">توضیحات مورد</string>
     <string name="cfg_section_lists">فهرست تنظیمات</string>
     <string name="cfg_section_sys">تنظیمات سیستم</string>
+
+    <string name="cfg_switch_dummy_on">به حالت تنظیمات ساده تغییر دهید</string>
+    <string name="cfg_switch_dummy_off">به حالت تنظیمات پیشرفته بروید</string>
+    <string name="cfg_no_recent">دسته بندی را با کانال های اخیر نشان نمی دهد</string>
+    <string name="cfg_no_hints">نکات را نشان ندهید</string>
+    <string name="pla_track_sel_sub">تعویض زیرنویسها</string>
+    <string name="pla_track_sel_sub_desc">تغییر زیرنویس منبع</string>
+    <string name="setting_list_view_auto">جدول (آیکون های بزرگ، متناسب با صفحه نمایش)</string>
+    <string name="child_mode_unlock_cfg">کد کودک را برای باز کردن تنظیمات وارد کنید</string>
+    <string name="cfg_child_mode">حالت کودک</string>
+    <string name="cfg_child_mode_toggle">به حالت کودک بچرخ</string>
+    <string name="cfg_child_mode_number">کد برای خروج از حالت کودک (4 رقم)</string>
+    <string name="provider_generic2">لیست پخش عمومی (جایگزین)</string>
+    <string name="cfg_play_deny_status">وضعیت جریان را نشان ندهید</string>
+    <string name="cfg_player_hud">سبک رابط سرپایی</string>
+    <string name="cfg_player_hud_1">بالا و پایین</string>
+    <string name="cfg_player_hud_2">در پایین ترکیب شده است</string>
+    <string name="cfg_player_hud_3">ترکیب بالا</string>
+    <string name="never">هرگز</string>
+    <string name="cfg_player_hide_menu">زمان برای مخفی کردن منو (در ثانیه)</string>
+    <string name="choose_auto">به صورت خودکار انتخاب کنید</string>
+    <string name="cfg_stream_tech">تکنولوژی جریان (در صورت وجود)</string>
 </resources>

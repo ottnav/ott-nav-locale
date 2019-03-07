@@ -26,7 +26,6 @@
     <!-- browse -->
     <string name="browse_description_series_number">серия</string>
     <string name="browse_description_header_live">Каналы в эфире</string>
-    <string name="browse_description_header_archive">Выбор архива</string>
     <string name="browse_description_header_program">Программа канала</string>
 
     <!-- categories -->
@@ -147,7 +146,6 @@
     <string name="settings_provider_select_error_playlist">плейлист неверен или не содержит поддерживаемые каналы. Проверьте пользователя/ключ/пароль/ссылку.</string>
     <string name="settings_provider_select_error_live">не содержит поддерживаемые каналы</string>
 
-    <string name="settings_dummy_mode">Упрощенный режим (большинство возможностей спрятано)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI отключен: автовыключение видео</string>
 
     <string name="archive_auto_seek_title">Перемотать на последнюю запомненную позицию этого видео?</string>
@@ -239,7 +237,6 @@
     <string name="settings_schedule_epg_clear">Очистить всю загруженную программу…</string>
     <string name="settings_schedule_epg_clear_note">удаляет все закешированные EPG данные чтобы обновление работало с чистого листа</string>
 
-    <string name="settings_status">Статус</string>
     <string name="settings_visual">Внешний вид</string>
 
     <string name="settings_live_quick_channel_switch_delay">Задержка перед быстрым переключением канала</string>
@@ -461,7 +458,7 @@
     <string name="prov_help_contact_via_email">связаться с разработчиком через email</string>
     <string name="prov_help_provide_more_info">Напишите ваше сообщение разработчику</string>
     <string name="hint_help_locale">Вы можете помочь с переводом онлайн</string>
-    <string name="cfg_allow_dup_ch">Оставлять дупликаты каналов</string>
+    <string name="cfg_allow_dup_ch">Оставлять дубликаты каналов</string>
     <string name="cfg_time_imp">Использовать имперский формат времени (am/pm)</string>
     <string name="hud_short_seeking">Перемотка</string>
     <string name="cfg_player_clock_tr">верхний правый угол</string>
@@ -469,7 +466,6 @@
     <string name="cfg_player_clock_bl">нижний левый угол</string>
     <string name="cfg_player_clock_tl">верхний левый угол</string>
     <string name="cat_vr_continue">Продолжить просмотр</string>
-    <string name="cat_vr_continue_free">Просмотрено в течении пары часов</string>
     <string name="cat_vr_continue_prem">Недавно просмотренное видео, доступное сейчас</string>
     <string name="premium_fea_continue">Показывает все недавно просмотренные видео, которые сейчас доступны в фильтре Продолжить</string>
     <string name="menu_swap_pip_sound">Переключить звук между основным экраном и PiP</string>
@@ -485,4 +481,26 @@
     <string name="cfg_section_lists">Настройки списков</string>
     <string name="cfg_section_sys">Системные настройки</string>
 
+    <!-- 1.4.6 -->
+    <string name="cfg_switch_dummy_on">Переключить на упрощенный режим настроек</string>
+    <string name="cfg_switch_dummy_off">Переключить на продвинутый режим настроек</string>
+    <string name="cfg_no_recent">Не показывать категорию с недавними каналами</string>
+    <string name="cfg_no_hints">Не показывать подсказки</string>
+    <string name="pla_track_sel_sub">Переключить субтитры</string>
+    <string name="pla_track_sel_sub_desc">Сменить источник субтитров</string>
+    <string name="setting_list_view_auto">таблица (большие иконки, заполнить экран)</string>
+    <string name="child_mode_unlock_cfg">Введите детский код для доступа к настройкам</string>
+    <string name="cfg_child_mode">Детский режим</string>
+    <string name="cfg_child_mode_toggle">Перейти в детский режим</string>
+    <string name="cfg_child_mode_number">Код для выхода из детского режима (4 цифры)</string>
+    <string name="provider_generic2">Типичный плейлист (альтернативный)</string>
+    <string name="cfg_play_deny_status">Не показывать статус потока</string>
+    <string name="cfg_player_hud">Стиль наэкранного интерфейса</string>
+    <string name="cfg_player_hud_1">Сверху и снизу</string>
+    <string name="cfg_player_hud_2">Объединенный внизу</string>
+    <string name="cfg_player_hud_3">Объединенный сверху</string>
+    <string name="never">никогда</string>
+    <string name="cfg_player_hide_menu">Таймаут до скрывания меню (в секундах)</string>
+    <string name="choose_auto">Выбирать автоматически</string>
+    <string name="cfg_stream_tech">Технология потока (если доступно)</string>
 </resources>

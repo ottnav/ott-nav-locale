@@ -4,7 +4,7 @@
     <string name="search_bar">채널 또는 프로그램으로 검색</string>
     <string name="search_bar_clue">영화, TV 시리즈, TV 쇼 이름 또는 배우 이름 시도</string>
 
-    
+
     <string name="menu_search">비디오 검색</string>
     <string name="menu_live">실시간 스트리밍</string>
     <string name="menu_archive">보관 파일 표시</string>
@@ -22,13 +22,12 @@
     <string name="menu_error_provider_no_archive_text">선택한 제공 업체가 보관 파일을 지원하지 않습니다. 라이브 스트림 만 사용할 수 있습니다. 설정을 탐색하여 제공 업체를 변경하거나 실시간 스트리밍으로 이동하십시오.</string>
     <string name="menu_error_provider_no_archive_button">실시간 스트리밍으로 이동</string>
 
-    
+
     <string name="browse_description_series_number">삽화</string>
     <string name="browse_description_header_live">라이브 채널</string>
-    <string name="browse_description_header_archive">보관함 탐색</string>
     <string name="browse_description_header_program">채널 시간표</string>
 
-    
+
     <string name="category_movies">모든 영화</string>
     <string name="category_tv_series">모든 TV 시리즈</string>
     <string name="category_tv_shows">모든 TV 쇼</string>
@@ -47,7 +46,7 @@
     <string name="category_desc_tv_channel">텔레비전 채널</string>
     <string name="category_desc_from_fav">좋아하는 채널의 콘텐츠 만</string>
 
-    
+
     <string name="in_1_minute">1 분 안에</string>
     <string name="in_n_minutes">10 분 후에</string>
     <string name="player_episode_details_season">시즌</string>
@@ -59,7 +58,7 @@
     <string name="player_state_no_media_ended">스트림을 선택하지 않았습니다 (종료 됨).</string>
     <string name="player_state_buffering">버퍼링</string>
 
-    
+
     <string name="error_this_video_requires_external_player">이 비디오는 최상의 경험을 위해 외부 플레이어가 필요합니다.</string>
     <string name="error_stream_not_reachable_no_connect">스트림에 연결할 수 없습니다 (연결할 수 없음). 공급자에게 문의하십시오.</string>
     <string name="error_stream_not_reachable_no_resource">스트림에 연결할 수 없습니다. 공급자에게 문의하십시오.</string>
@@ -73,7 +72,7 @@
     <string name="info_teleguide_loaded">Teleguide (EPG)로드 됨 : 레코드</string>
     <string name="info_channels_count_updated">제공자가 새 채널을 추가했습니다.</string>
 
-    
+
     <string name="player_menu_select_channel_title">다른 채널</string>
     <string name="player_menu_select_archive_title">다른 동영상</string>
     <string name="player_menu_set_pause_on_title">재생 일시 중지</string>
@@ -145,7 +144,6 @@
     <string name="settings_provider_select_error_playlist">재생 목록이 잘못되었거나 지원되는 채널이 없습니다.</string>
     <string name="settings_provider_select_error_live">지원되는 라이브 채널이 없습니다. 사용자 이름 / 키 / 비밀번호 / URL을 확인하십시오.</string>
 
-    <string name="settings_dummy_mode">간체 모드 (숨겨진 대부분의 옵션)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI 플러그가 뽑힘 : 비디오 자동 끄기</string>
 
     <string name="archive_auto_seek_title">이 비디오의 마지막 기억 위치를 찾으십니까?</string>
@@ -184,7 +182,7 @@
     <string name="settings_media_library_dnla">로컬 네트워크에서 UPnP / DNLA 소스 검색</string>
     <string name="settings_media_library_prov_vod">스캔 공급자 미디어 라이브러리가있는 경우</string>
 
-    
+
     <string name="settings_archive">아카이브</string>
     <string name="settings_archive_min_duration">아카이브에 표시 할 최소 비디오 길이</string>
     <string name="settings_archive_max_duration">아카이브에 표시 할 최대 비디오 길이</string>
@@ -198,7 +196,7 @@
     <string name="settings_archive_duration_name_2h">2 시간</string>
     <string name="settings_archive_duration_name_3h">3 시간</string>
 
-    
+
     <string name="settings_player">플레이어</string>
     <string name="settings_player_hide_ui">재생시 UI 오버레이 숨기기</string>
     <string name="sec1">1 초</string>
@@ -227,7 +225,7 @@
         <item>10 시간</item>
     </string-array>
 
-    
+
     <string name="settings_extended">확장 설정</string>
     <string name="settings_extended_hide_adult">성인 카테고리 숨기기</string>
     <string name="settings_extended_auto_start_last_channel">마지막으로 재생 한 채널을 자동으로 시작합니다.</string>
@@ -237,7 +235,6 @@
     <string name="settings_schedule_epg_clear">로드 된 EPG 데이터 모두 지우기 ...</string>
     <string name="settings_schedule_epg_clear_note">캐시 된 EPG 데이터를 모두 제거하여 다음 재로드가 처음부터 완료되도록합니다.</string>
 
-    <string name="settings_status">지위</string>
     <string name="settings_visual">비주얼 스타일</string>
 
     <string name="settings_live_quick_channel_switch_delay">빠른 스위칭 채널 이전의 지연</string>
@@ -295,7 +292,7 @@
 
     <string name="settings_external_player">외부 플레이어 (기본적으로 모두 시도)</string>
 
-    
+
     <string name="settings_premium">프리미엄</string>
     <string name="settings_premium_source_purchase">프리미엄 구입</string>
     <string name="settings_premium_source_subscription">프리미엄 가입</string>
@@ -323,7 +320,7 @@
     <string name="settings_vod_extra_source2">추가 m3u 2 소스</string>
     <string name="settings_vod_extra_source3">추가 m3u 3 소스</string>
 
-    
+
     <string name="setting_list_view_title">목록을 표시하는 방법</string>
     <string name="setting_list_view1">단순한 목록</string>
     <string name="setting_list_view2">설명이있는 표 (2 열)</string>
@@ -464,7 +461,6 @@
     <string name="cfg_player_clock_bl">왼쪽 하단 구석</string>
     <string name="cfg_player_clock_tl">왼쪽 상단 구석</string>
     <string name="cat_vr_continue">계속 지켜봐라.</string>
-    <string name="cat_vr_continue_free">몇 시간 내에 보았습니다.</string>
     <string name="cat_vr_continue_prem">최근에 본 동영상 (현재 사용 가능)</string>
     <string name="premium_fea_continue">최근에 본 모든 동영상을 표시합니다. 현재 계속 필터에서 사용할 수 있습니다.</string>
     <string name="menu_swap_pip_sound">메인 화면과 픽처 인 픽처 사이의 사운드 스왑</string>
@@ -479,4 +475,26 @@
     <string name="cfg_section_desc">항목 설명</string>
     <string name="cfg_section_lists">목록 설정</string>
     <string name="cfg_section_sys">환경 설정</string>
+
+    <string name="cfg_switch_dummy_on">간단한 설정 모드로 전환</string>
+    <string name="cfg_switch_dummy_off">고급 설정 모드로 전환</string>
+    <string name="cfg_no_recent">최근 채널 카테고리 표시 안함</string>
+    <string name="cfg_no_hints">힌트를 표시하지 않음</string>
+    <string name="pla_track_sel_sub">자막 전환</string>
+    <string name="pla_track_sel_sub_desc">자막 원본 변경</string>
+    <string name="setting_list_view_auto">테이블 (큰 아이콘, 화면에 맞게)</string>
+    <string name="child_mode_unlock_cfg">설정 잠금을 해제하는 하위 코드 입력</string>
+    <string name="cfg_child_mode">어린이 모드</string>
+    <string name="cfg_child_mode_toggle">하위 모드로 전환</string>
+    <string name="cfg_child_mode_number">하위 모드 종료 코드 (4 자리)</string>
+    <string name="provider_generic2">일반 재생 목록 (대안)</string>
+    <string name="cfg_play_deny_status">스트림 상태 표시 안함</string>
+    <string name="cfg_player_hud">헤드 업 스타일의 스타일</string>
+    <string name="cfg_player_hud_1">상단 및 하단</string>
+    <string name="cfg_player_hud_2">바닥에 결합</string>
+    <string name="cfg_player_hud_3">결합 된 상단</string>
+    <string name="never">못</string>
+    <string name="cfg_player_hide_menu">메뉴 숨기기 제한 시간 (초)</string>
+    <string name="choose_auto">자동 선택</string>
+    <string name="cfg_stream_tech">스트림 기술 (사용 가능한 경우)</string>
 </resources>

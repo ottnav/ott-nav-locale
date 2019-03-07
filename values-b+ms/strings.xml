@@ -4,7 +4,7 @@
     <string name="search_bar">Cari melalui saluran atau program</string>
     <string name="search_bar_clue">cuba filem, siri tv, nama tayangan tv, atau nama pelakon</string>
 
-    
+
     <string name="menu_search">Carian video</string>
     <string name="menu_live">Siaran langsung</string>
     <string name="menu_archive">Menunjukkan arkib</string>
@@ -22,13 +22,12 @@
     <string name="menu_error_provider_no_archive_text">Pembekal terpilih tidak menyokong arkib. Hanya aliran Live sahaja. Navigasi ke tetapan untuk menukar pembekal atau pergi ke strim langsung.</string>
     <string name="menu_error_provider_no_archive_button">Pergi ke strim langsung</string>
 
-    
+
     <string name="browse_description_series_number">episod</string>
     <string name="browse_description_header_live">Saluran langsung</string>
-    <string name="browse_description_header_archive">Melayari arsip</string>
     <string name="browse_description_header_program">Jadual jadual</string>
 
-    
+
     <string name="category_movies">Semua filem</string>
     <string name="category_tv_series">Semua siri TV</string>
     <string name="category_tv_shows">Semua rancangan TV</string>
@@ -47,7 +46,7 @@
     <string name="category_desc_tv_channel">saluran TV</string>
     <string name="category_desc_from_fav">hanya kandungan dari saluran kegemaran</string>
 
-    
+
     <string name="in_1_minute">dalam 1 minit</string>
     <string name="in_n_minutes">dalam masa 10 minit</string>
     <string name="player_episode_details_season">musim</string>
@@ -59,7 +58,7 @@
     <string name="player_state_no_media_ended">Stream tidak dipilih (berakhir)</string>
     <string name="player_state_buffering">Buffering</string>
 
-    
+
     <string name="error_this_video_requires_external_player">Video ini memerlukan pemain luaran untuk pengalaman terbaik</string>
     <string name="error_stream_not_reachable_no_connect">Aliran tidak dapat dicapai (tidak dapat disambungkan). Hubungi pembekal anda</string>
     <string name="error_stream_not_reachable_no_resource">Aliran tidak dapat dicapai. Hubungi pembekal anda</string>
@@ -73,7 +72,7 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) dimuatkan: rekod</string>
     <string name="info_channels_count_updated">Pembekal telah menambah saluran baru</string>
 
-    
+
     <string name="player_menu_select_channel_title">Saluran yang lain</string>
     <string name="player_menu_select_archive_title">Satu lagi video</string>
     <string name="player_menu_set_pause_on_title">Jeda main balik</string>
@@ -145,7 +144,6 @@
     <string name="settings_provider_select_error_playlist">senarai main yang tidak sah atau tidak mengandungi saluran yang disokong</string>
     <string name="settings_provider_select_error_live">tidak mengandungi saluran live yang disokong. Semak nama pengguna / kunci / kata laluan / url.</string>
 
-    <string name="settings_dummy_mode">Mod mudah (kebanyakan pilihan tersembunyi)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI dicabut: video auto-matikan</string>
 
     <string name="archive_auto_seek_title">Dapatkan kedudukan teringat terakhir video ini?</string>
@@ -184,7 +182,7 @@
     <string name="settings_media_library_dnla">Imbas sumber UPnP / DNLA dalam rangkaian tempatan</string>
     <string name="settings_media_library_prov_vod">Imbas perpustakaan media penyedia jika wujud</string>
 
-    
+
     <string name="settings_archive">Arkib</string>
     <string name="settings_archive_min_duration">Panjang video minimum untuk dipaparkan dalam arkib</string>
     <string name="settings_archive_max_duration">Panjang video maksimum untuk dipaparkan dalam arkib</string>
@@ -198,7 +196,7 @@
     <string name="settings_archive_duration_name_2h">2 jam</string>
     <string name="settings_archive_duration_name_3h">3 jam</string>
 
-    
+
     <string name="settings_player">Pemain</string>
     <string name="settings_player_hide_ui">Sembunyikan lapisan UI dalam main semula</string>
     <string name="sec1">1 saat</string>
@@ -227,7 +225,7 @@
         <item>10 jam</item>
     </string-array>
 
-    
+
     <string name="settings_extended">Tetapan lanjutan</string>
     <string name="settings_extended_hide_adult">Sembunyikan kategori dewasa</string>
     <string name="settings_extended_auto_start_last_channel">Secara automatik memulakan saluran dimainkan yang terakhir</string>
@@ -237,7 +235,6 @@
     <string name="settings_schedule_epg_clear">Kosongkan semua data EPG yang dimuat ...</string>
     <string name="settings_schedule_epg_clear_note">membuang semua data EPG cache supaya tambah nilai seterusnya akan dilakukan dari awal</string>
 
-    <string name="settings_status">Status</string>
     <string name="settings_visual">Gaya visual</string>
 
     <string name="settings_live_quick_channel_switch_delay">Kelewatan sebelum saluran pantas</string>
@@ -295,7 +292,7 @@
 
     <string name="settings_external_player">Pemain luaran (cuba semua secara lalai)</string>
 
-    
+
     <string name="settings_premium">Premium</string>
     <string name="settings_premium_source_purchase">Premium dibeli</string>
     <string name="settings_premium_source_subscription">Premium dilanggan</string>
@@ -323,7 +320,7 @@
     <string name="settings_vod_extra_source2">Sumber m3u 2 tambahan</string>
     <string name="settings_vod_extra_source3">Sumber m3u 3 tambahan</string>
 
-    
+
     <string name="setting_list_view_title">Bagaimana senarai harus dipaparkan</string>
     <string name="setting_list_view1">senarai ringkas</string>
     <string name="setting_list_view2">jadual (2 tiang) dengan keterangan</string>
@@ -464,7 +461,6 @@
     <string name="cfg_player_clock_bl">sudut kiri bawah</string>
     <string name="cfg_player_clock_tl">sudut kiri atas</string>
     <string name="cat_vr_continue">Teruskan menonton</string>
-    <string name="cat_vr_continue_free">Dilihat dalam masa beberapa jam</string>
     <string name="cat_vr_continue_prem">Video yang dilihat baru-baru ini, yang tersedia sekarang</string>
     <string name="premium_fea_continue">Menunjukkan semua video yang dilihat baru-baru ini, yang kini tersedia dalam penapis Teruskan</string>
     <string name="menu_swap_pip_sound">Tukar bunyi antara skrin utama dan PiP</string>
@@ -479,4 +475,26 @@
     <string name="cfg_section_desc">Penerangan item</string>
     <string name="cfg_section_lists">Senarai tetapan</string>
     <string name="cfg_section_sys">Tetapan sistem</string>
+
+    <string name="cfg_switch_dummy_on">Tukar ke mod tetapan mudah</string>
+    <string name="cfg_switch_dummy_off">Beralih ke mod tetapan lanjutan</string>
+    <string name="cfg_no_recent">Jangan tunjukkan kategori dengan saluran terkini</string>
+    <string name="cfg_no_hints">Jangan tunjukkan petunjuk</string>
+    <string name="pla_track_sel_sub">Tukar sarikata</string>
+    <string name="pla_track_sel_sub_desc">Tukar sumber sarikata</string>
+    <string name="setting_list_view_auto">jadual (ikon besar, muat skrin)</string>
+    <string name="child_mode_unlock_cfg">Masukkan kod kanak-kanak untuk membuka kunci tetapan</string>
+    <string name="cfg_child_mode">Mod kanak-kanak</string>
+    <string name="cfg_child_mode_toggle">Beralih ke mod anak</string>
+    <string name="cfg_child_mode_number">Kod untuk keluar mod kanak-kanak (4 digit)</string>
+    <string name="provider_generic2">Senarai main umum (alternatif)</string>
+    <string name="cfg_play_deny_status">Jangan tunjukkan status aliran</string>
+    <string name="cfg_player_hud">Gaya antara muka kepala</string>
+    <string name="cfg_player_hud_1">Atas dan bawah</string>
+    <string name="cfg_player_hud_2">Digabungkan di bahagian bawah</string>
+    <string name="cfg_player_hud_3">Digabungkan di atas</string>
+    <string name="never">tidak pernah</string>
+    <string name="cfg_player_hide_menu">Waktu untuk menyembunyikan menu (dalam saat)</string>
+    <string name="choose_auto">Pilih secara automatik</string>
+    <string name="cfg_stream_tech">Teknologi aliran (jika ada)</string>
 </resources>

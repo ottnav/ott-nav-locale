@@ -4,7 +4,7 @@
     <string name="search_bar">チャネルまたはプログラムで検索</string>
     <string name="search_bar_clue">試写映画、テレビシリーズ、テレビ番組名、または俳優名</string>
 
-    
+
     <string name="menu_search">ビデオ検索</string>
     <string name="menu_live">ライブストリーム</string>
     <string name="menu_archive">アーカイブを表示</string>
@@ -22,13 +22,12 @@
     <string name="menu_error_provider_no_archive_text">選択したプロバイダはアーカイブをサポートしていません。ライブストリームのみ利用可能です。設定を参照してプロバイダを変更するか、ライブストリームに移動します。</string>
     <string name="menu_error_provider_no_archive_button">ライブストリームに移動</string>
 
-    
+
     <string name="browse_description_series_number">エピソード</string>
     <string name="browse_description_header_live">ライブチャンネル</string>
-    <string name="browse_description_header_archive">アーカイブ閲覧</string>
     <string name="browse_description_header_program">チャンネル時刻表</string>
 
-    
+
     <string name="category_movies">すべての映画</string>
     <string name="category_tv_series">すべてのTVシリーズ</string>
     <string name="category_tv_shows">すべてのテレビ番組</string>
@@ -47,7 +46,7 @@
     <string name="category_desc_tv_channel">テレビチャンネル</string>
     <string name="category_desc_from_fav">お気に入りのチャンネルのコンテンツのみ</string>
 
-    
+
     <string name="in_1_minute">1分で</string>
     <string name="in_n_minutes">10分で</string>
     <string name="player_episode_details_season">シーズン</string>
@@ -59,7 +58,7 @@
     <string name="player_state_no_media_ended">ストリームが選択されていない（終了しました）</string>
     <string name="player_state_buffering">バッファリング</string>
 
-    
+
     <string name="error_this_video_requires_external_player">このビデオは、最高の経験のために外部プレーヤーが必要です</string>
     <string name="error_stream_not_reachable_no_connect">ストリームに到達できません（接続できません）。プロバイダに連絡する</string>
     <string name="error_stream_not_reachable_no_resource">ストリームに到達できません。プロバイダに連絡する</string>
@@ -73,7 +72,7 @@
     <string name="info_teleguide_loaded">テレガイド（EPG）が読み込まれました：レコード</string>
     <string name="info_channels_count_updated">プロバイダが新しいチャンネルを追加しました</string>
 
-    
+
     <string name="player_menu_select_channel_title">別のチャンネル</string>
     <string name="player_menu_select_archive_title">もう一つのビデオ</string>
     <string name="player_menu_set_pause_on_title">再生を一時停止する</string>
@@ -145,7 +144,6 @@
     <string name="settings_provider_select_error_playlist">プレイリストが無効か、サポートされているチャンネルが含まれていないようです</string>
     <string name="settings_provider_select_error_live">サポートされているライブチャンネルはありません。ユーザー名/キー/パスワード/ URLを確認してください。</string>
 
-    <string name="settings_dummy_mode">簡略化されたモード（ほとんどのオプションは隠されています）</string>
     <string name="auto_turn_off_since_hdmi_off">HDMIのプラグが抜かれている：ビデオを自動的にオフにする</string>
 
     <string name="archive_auto_seek_title">このビデオの最後に記憶された位置に移動しますか？</string>
@@ -184,7 +182,7 @@
     <string name="settings_media_library_dnla">ローカルネットワーク内のUPnP / DNLAソースをスキャンする</string>
     <string name="settings_media_library_prov_vod">スキャンプロバイダメディアライブラリが存在する場合</string>
 
-    
+
     <string name="settings_archive">アーカイブ</string>
     <string name="settings_archive_min_duration">アーカイブに表示する最小のビデオ長</string>
     <string name="settings_archive_max_duration">アーカイブに表示する動画の最大長</string>
@@ -198,7 +196,7 @@
     <string name="settings_archive_duration_name_2h">2時間</string>
     <string name="settings_archive_duration_name_3h">3時間</string>
 
-    
+
     <string name="settings_player">プレーヤー</string>
     <string name="settings_player_hide_ui">再生時のUIオーバーレイを非表示にする</string>
     <string name="sec1">1秒</string>
@@ -227,7 +225,7 @@
         <item>10時間</item>
     </string-array>
 
-    
+
     <string name="settings_extended">拡張設定</string>
     <string name="settings_extended_hide_adult">大人のカテゴリを隠す</string>
     <string name="settings_extended_auto_start_last_channel">最後に再生したチャンネルを自動的に開始する</string>
@@ -237,7 +235,6 @@
     <string name="settings_schedule_epg_clear">ロードされたすべてのEPGデータをクリア...</string>
     <string name="settings_schedule_epg_clear_note">キャッシュされたすべてのEPGデータを削除して、次のリロードがゼロから実行されるようにします</string>
 
-    <string name="settings_status">状態</string>
     <string name="settings_visual">ビジュアルスタイル</string>
 
     <string name="settings_live_quick_channel_switch_delay">クイックスイッチングチャネルの前の遅延</string>
@@ -295,7 +292,7 @@
 
     <string name="settings_external_player">外部プレーヤー（デフォルトですべて試してください）</string>
 
-    
+
     <string name="settings_premium">プレミアム</string>
     <string name="settings_premium_source_purchase">プレミアム購入</string>
     <string name="settings_premium_source_subscription">プレミアム契約</string>
@@ -323,7 +320,7 @@
     <string name="settings_vod_extra_source2">追加のm3u2ソース</string>
     <string name="settings_vod_extra_source3">追加のm3u3ソース</string>
 
-    
+
     <string name="setting_list_view_title">リストの表示方法</string>
     <string name="setting_list_view1">単純なリスト</string>
     <string name="setting_list_view2">説明付きの表（2列）</string>
@@ -464,7 +461,6 @@
     <string name="cfg_player_clock_bl">左下隅</string>
     <string name="cfg_player_clock_tl">左上隅</string>
     <string name="cat_vr_continue">見続ける</string>
-    <string name="cat_vr_continue_free">数時間以内に見た</string>
     <string name="cat_vr_continue_prem">最近視聴したビデオ</string>
     <string name="premium_fea_continue">[続行]フィルタで現在利用可能な、最近見たすべてのビデオを表示します</string>
     <string name="menu_swap_pip_sound">メイン画面とPiPの間でサウンドを交換する</string>
@@ -479,4 +475,26 @@
     <string name="cfg_section_desc">アイテム説明</string>
     <string name="cfg_section_lists">設定を一覧表示する</string>
     <string name="cfg_section_sys">システム設定</string>
+
+    <string name="cfg_switch_dummy_on">簡易設定モードに切り替える</string>
+    <string name="cfg_switch_dummy_off">詳細設定モードに切り替える</string>
+    <string name="cfg_no_recent">最近のチャンネルでカテゴリを表示しない</string>
+    <string name="cfg_no_hints">ヒントを表示しない</string>
+    <string name="pla_track_sel_sub">字幕を切り替える</string>
+    <string name="pla_track_sel_sub_desc">字幕ソースを変更する</string>
+    <string name="setting_list_view_auto">テーブル（大きなアイコン、画面にフィット）</string>
+    <string name="child_mode_unlock_cfg">設定をロック解除するための子コードを入力してください</string>
+    <string name="cfg_child_mode">子モード</string>
+    <string name="cfg_child_mode_toggle">子モードに切り替える</string>
+    <string name="cfg_child_mode_number">子モードを終了するコード（4桁）</string>
+    <string name="provider_generic2">汎用プレイリスト（代替）</string>
+    <string name="cfg_play_deny_status">ストリームステータスを表示しない</string>
+    <string name="cfg_player_hud">ヘッドアップインターフェースのスタイル</string>
+    <string name="cfg_player_hud_1">上下</string>
+    <string name="cfg_player_hud_2">下に合わせて</string>
+    <string name="cfg_player_hud_3">上に組み合わせる</string>
+    <string name="never">決して</string>
+    <string name="cfg_player_hide_menu">メニューを非表示にするためのタイムアウト（秒）</string>
+    <string name="choose_auto">自動的に選択</string>
+    <string name="cfg_stream_tech">ストリームテクノロジ（利用可能な場合）</string>
 </resources>

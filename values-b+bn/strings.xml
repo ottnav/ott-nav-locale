@@ -4,7 +4,7 @@
     <string name="search_bar">চ্যানেল বা প্রোগ্রাম দ্বারা অনুসন্ধান করুন</string>
     <string name="search_bar_clue">সিনেমা, টিভি সিরিজ, টিভি শো নাম, বা অভিনেতা নাম চেষ্টা করুন</string>
 
-    
+
     <string name="menu_search">ভিডিও অনুসন্ধান</string>
     <string name="menu_live">সরাসরি সম্প্রচার</string>
     <string name="menu_archive">সংরক্ষণাগার দেখায়</string>
@@ -22,13 +22,12 @@
     <string name="menu_error_provider_no_archive_text">নির্বাচিত প্রদানকারী সংরক্ষণাগার সমর্থন করে না। শুধুমাত্র লাইভ স্ট্রিম উপলব্ধ। একটি প্রদানকারী পরিবর্তন বা লাইভ স্ট্রিম যেতে সেটিংস নেভিগেট করুন।</string>
     <string name="menu_error_provider_no_archive_button">লাইভ স্ট্রিম যান</string>
 
-    
+
     <string name="browse_description_series_number">উপাখ্যান</string>
     <string name="browse_description_header_live">লাইভ চ্যানেল</string>
-    <string name="browse_description_header_archive">আর্কাইভ ব্রাউজিং</string>
     <string name="browse_description_header_program">চ্যানেল সময়সূচি</string>
 
-    
+
     <string name="category_movies">সব সিনেমা</string>
     <string name="category_tv_series">সমস্ত টিভি সিরিজ</string>
     <string name="category_tv_shows">সব টিভি শো</string>
@@ -47,7 +46,7 @@
     <string name="category_desc_tv_channel">টিভি চ্যানেল</string>
     <string name="category_desc_from_fav">প্রিয় চ্যানেল থেকে শুধুমাত্র কন্টেন্ট</string>
 
-    
+
     <string name="in_1_minute">1 মিনিটের মধ্যে</string>
     <string name="in_n_minutes">10 মিনিটের মধ্যে</string>
     <string name="player_episode_details_season">ঋতু</string>
@@ -59,7 +58,7 @@
     <string name="player_state_no_media_ended">প্রবাহ নির্বাচিত না (শেষ)</string>
     <string name="player_state_buffering">বাফারিং</string>
 
-    
+
     <string name="error_this_video_requires_external_player">এই ভিডিওটি সেরা অভিজ্ঞতার জন্য বহিরাগত প্লেয়ার প্রয়োজন</string>
     <string name="error_stream_not_reachable_no_connect">প্রবাহ পৌঁছানোর যোগ্য নয় (সংযোগ করতে পারে না)। আপনার প্রদানকারীর সাথে যোগাযোগ করুন</string>
     <string name="error_stream_not_reachable_no_resource">প্রবাহ পৌঁছানোর যোগ্য নয়। আপনার প্রদানকারীর সাথে যোগাযোগ করুন</string>
@@ -73,7 +72,7 @@
     <string name="info_teleguide_loaded">Teleguide (ইপিজি) লোড: রেকর্ড</string>
     <string name="info_channels_count_updated">সরবরাহকারী নতুন চ্যানেল যোগ করা হয়েছে</string>
 
-    
+
     <string name="player_menu_select_channel_title">আরেকটি চ্যানেল</string>
     <string name="player_menu_select_archive_title">আরেকটি ভিডিও</string>
     <string name="player_menu_set_pause_on_title">প্লেব্যাক বিরতি</string>
@@ -145,7 +144,6 @@
     <string name="settings_provider_select_error_playlist">প্লেলিস্ট অবৈধ বলে মনে হয় না বা কোন সমর্থিত চ্যানেল নেই</string>
     <string name="settings_provider_select_error_live">কোন সমর্থিত লাইভ চ্যানেল রয়েছে। ব্যবহারকারীর নাম / কী / পাসওয়ার্ড / ইউআরএল চেক করুন।</string>
 
-    <string name="settings_dummy_mode">সরলীকৃত মোড (সর্বাধিক অপশন লুকানো)</string>
     <string name="auto_turn_off_since_hdmi_off">এইচডিএমআই আনপ্ল্যাগ: ভিডিও বন্ধ স্বয়ংক্রিয় বন্ধ</string>
 
     <string name="archive_auto_seek_title">এই ভিডিওটির শেষ স্মরণীয় অবস্থান সন্ধান করুন?</string>
@@ -184,7 +182,7 @@
     <string name="settings_media_library_dnla">স্থানীয় নেটওয়ার্কের ইউপিএনপি / ডিএনএলএ সূত্র স্ক্যান করুন</string>
     <string name="settings_media_library_prov_vod">স্ক্যান প্রদানকারী মিডিয়া লাইব্রেরি বিদ্যমান যদি</string>
 
-    
+
     <string name="settings_archive">সংরক্ষাণাগার</string>
     <string name="settings_archive_min_duration">আর্কাইভ প্রদর্শন মিনিমল ভিডিও দৈর্ঘ্য</string>
     <string name="settings_archive_max_duration">সর্বোচ্চ ভিডিও দৈর্ঘ্য সংরক্ষণাগার প্রদর্শন</string>
@@ -198,7 +196,7 @@
     <string name="settings_archive_duration_name_2h">২ ঘন্টা</string>
     <string name="settings_archive_duration_name_3h">3 ঘন্টা</string>
 
-    
+
     <string name="settings_player">খেলোয়াড়</string>
     <string name="settings_player_hide_ui">প্লেব্যাক ইউআই ওভারলে লুকান</string>
     <string name="sec1">1 সেকেন্ড</string>
@@ -227,7 +225,7 @@
         <item>10 ঘণ্টা</item>
     </string-array>
 
-    
+
     <string name="settings_extended">এক্সটেন্ডেড সেটিংস</string>
     <string name="settings_extended_hide_adult">প্রাপ্তবয়স্কদের বিভাগ লুকান</string>
     <string name="settings_extended_auto_start_last_channel">স্বয়ংক্রিয়ভাবে শেষ খেলা চ্যানেল শুরু</string>
@@ -237,7 +235,6 @@
     <string name="settings_schedule_epg_clear">সব লোড ইপিজি তথ্য সাফ করুন ...</string>
     <string name="settings_schedule_epg_clear_note">সমস্ত ক্যাশেড ইপিজি ডাটা মুছে ফেলে যাতে পরবর্তী লোড শুরু হয়ে যায়</string>
 
-    <string name="settings_status">অবস্থা</string>
     <string name="settings_visual">ভিজ্যুয়াল শৈলী</string>
 
     <string name="settings_live_quick_channel_switch_delay">দ্রুত সুইচিং চ্যানেলের আগে বিলম্ব</string>
@@ -295,7 +292,7 @@
 
     <string name="settings_external_player">বাহ্যিক প্লেয়ার (ডিফল্টরূপে সব চেষ্টা)</string>
 
-    
+
     <string name="settings_premium">প্রিমিয়াম</string>
     <string name="settings_premium_source_purchase">প্রিমিয়াম ক্রয়</string>
     <string name="settings_premium_source_subscription">প্রিমিয়াম সাবস্ক্রাইব</string>
@@ -323,7 +320,7 @@
     <string name="settings_vod_extra_source2">অতিরিক্ত m3u 2 উৎস</string>
     <string name="settings_vod_extra_source3">অতিরিক্ত m3u 3 উৎস</string>
 
-    
+
     <string name="setting_list_view_title">কিভাবে তালিকা প্রদর্শিত হবে</string>
     <string name="setting_list_view1">সহজ তালিকা</string>
     <string name="setting_list_view2">বিবরণ সঙ্গে টেবিল (2 কলাম)</string>
@@ -344,7 +341,7 @@
     <string name="cfg_trans_wind">স্বচ্ছ ইন্টারফেস ব্যবহার করুন</string>
     <string name="cfg_list_poster_time">পোস্টার সময়কাল দেখান (সেকেন্ড, উপলব্ধ হলে)</string>
 
-    
+
     <string name="do_not_show">দেখিও না</string>
     <string name="android_not_genuine">ক্রয় আপনার ডিভাইসে কাজ নাও হতে পারে।</string>
     <string name="btn_clear_cache">সাফ ক্যাশে (পরবর্তী লঞ্চে পুনরায় লোড হবে)</string>
@@ -464,7 +461,6 @@
     <string name="cfg_player_clock_bl">নীচে বাম কোণার</string>
     <string name="cfg_player_clock_tl">উপরের বাঁদিকের কোণায়</string>
     <string name="cat_vr_continue">পর্যবেক্ষক অবিরত</string>
-    <string name="cat_vr_continue_free">কয়েক ঘন্টার মধ্যে দেখা</string>
     <string name="cat_vr_continue_prem">সম্প্রতি দেখা ভিডিও, যে এখন পাওয়া যায়</string>
     <string name="premium_fea_continue">সমস্ত সম্প্রতি দেখা ভিডিও দেখায়, যা বর্তমানে ফিল্টার চালিয়ে যায়</string>
     <string name="menu_swap_pip_sound">প্রধান পর্দা এবং PiP মধ্যে শব্দ Swap</string>
@@ -479,4 +475,26 @@
     <string name="cfg_section_desc">বস্তুর বর্ণনা</string>
     <string name="cfg_section_lists">তালিকা তালিকা</string>
     <string name="cfg_section_sys">পদ্ধতি নির্ধারণ</string>
+
+    <string name="cfg_switch_dummy_on">সরলীকৃত সেটিংস মোডে স্যুইচ করুন</string>
+    <string name="cfg_switch_dummy_off">উন্নত সেটিংস মোডে স্যুইচ করুন</string>
+    <string name="cfg_no_recent">সাম্প্রতিক চ্যানেলের সাথে বিভাগ দেখাবেন না</string>
+    <string name="cfg_no_hints">নির্দেশনা প্রদর্শন করবেন না</string>
+    <string name="pla_track_sel_sub">সাবটাইটেল স্যুইচ করুন</string>
+    <string name="pla_track_sel_sub_desc">সাবটাইটেল উৎস পরিবর্তন করুন</string>
+    <string name="setting_list_view_auto">টেবিল (বড় আইকন, পর্দা মাপসই)</string>
+    <string name="child_mode_unlock_cfg">সেটিং আনলক করতে সন্তানের কোড লিখুন</string>
+    <string name="cfg_child_mode">শিশু মোড</string>
+    <string name="cfg_child_mode_toggle">একটি শিশু মোডে স্যুইচ করুন</string>
+    <string name="cfg_child_mode_number">একটি শিশু মোড প্রস্থান করার কোড (4 সংখ্যা)</string>
+    <string name="provider_generic2">জেনেরিক প্লেলিস্ট (বিকল্প)</string>
+    <string name="cfg_play_deny_status">প্রবাহ অবস্থা প্রদর্শন করবেন না</string>
+    <string name="cfg_player_hud">হেড আপ ইন্টারফেস স্টাইল</string>
+    <string name="cfg_player_hud_1">উপর এবং নীচ</string>
+    <string name="cfg_player_hud_2">নীচে সংযুক্ত</string>
+    <string name="cfg_player_hud_3">শীর্ষ সংযুক্ত</string>
+    <string name="never">না</string>
+    <string name="cfg_player_hide_menu">মেনু লুকানোর সময়সীমা (সেকেন্ডে)</string>
+    <string name="choose_auto">স্বয়ংক্রিয়ভাবে চয়ন করুন</string>
+    <string name="cfg_stream_tech">স্ট্রিম প্রযুক্তি (যদি উপলব্ধ)</string>
 </resources>

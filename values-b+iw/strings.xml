@@ -4,7 +4,7 @@
     <string name="search_bar">חפש לפי ערוצים או תוכניות</string>
     <string name="search_bar_clue">נסה סרט, סדרת טלוויזיה, שם תוכנית טלוויזיה או שמות שחקנים</string>
 
-    
+
     <string name="menu_search">חיפוש וידאו</string>
     <string name="menu_live">שידור חי</string>
     <string name="menu_archive">מציג ארכיון</string>
@@ -22,13 +22,12 @@
     <string name="menu_error_provider_no_archive_text">ספק נבחר אינו תומך בארכיונים. רק שידורים חיים זמינים. נווט אל הגדרות כדי לשנות ספק או לעבור לזרם חי.</string>
     <string name="menu_error_provider_no_archive_button">עבור אל שידור חי</string>
 
-    
+
     <string name="browse_description_series_number">פרק</string>
     <string name="browse_description_header_live">ערוצים חיים</string>
-    <string name="browse_description_header_archive">ארכיון גלישה</string>
     <string name="browse_description_header_program">לוח הזמנים של הערוץ</string>
 
-    
+
     <string name="category_movies">כל הסרטים</string>
     <string name="category_tv_series">כל סדרות הטלוויזיה</string>
     <string name="category_tv_shows">כל תוכניות טלוויזיה</string>
@@ -47,7 +46,7 @@
     <string name="category_desc_tv_channel">ערוץ טלוויזיה</string>
     <string name="category_desc_from_fav">רק תוכן מערוצים מועדפים</string>
 
-    
+
     <string name="in_1_minute">ב 1 דקה</string>
     <string name="in_n_minutes">בתוך 10 דקות</string>
     <string name="player_episode_details_season">עונה</string>
@@ -59,7 +58,7 @@
     <string name="player_state_no_media_ended">הזרם לא נבחר (הסתיים)</string>
     <string name="player_state_buffering">אגירה</string>
 
-    
+
     <string name="error_this_video_requires_external_player">סרטון זה דורש נגן חיצוני לחוויה הטובה ביותר</string>
     <string name="error_stream_not_reachable_no_connect">הזרם אינו נגיש (לא ניתן להתחבר). פנה לספק שלך</string>
     <string name="error_stream_not_reachable_no_resource">הזרם אינו נגיש. פנה לספק שלך</string>
@@ -73,7 +72,7 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) טעון: רשומות</string>
     <string name="info_channels_count_updated">הספק הוסיף ערוצים חדשים</string>
 
-    
+
     <string name="player_menu_select_channel_title">ערוץ נוסף</string>
     <string name="player_menu_select_archive_title">סרטון נוסף</string>
     <string name="player_menu_set_pause_on_title">השהה את ההשמעה</string>
@@ -145,7 +144,6 @@
     <string name="settings_provider_select_error_playlist">פלייליסט נראה לא חוקי או שאינו מכיל ערוצים נתמכים</string>
     <string name="settings_provider_select_error_live">לא מכיל ערוצים חיים נתמכים. בדוק שם משתמש / מפתח / סיסמה / כתובת אתר.</string>
 
-    <string name="settings_dummy_mode">מצב פשוט (רוב האפשרויות מוסתר)</string>
     <string name="auto_turn_off_since_hdmi_off">HDMI מנותק: כיבוי אוטומטי של וידאו</string>
 
     <string name="archive_auto_seek_title">מחפש את המיקום האחרון שנזכר בסרטון זה?</string>
@@ -184,7 +182,7 @@
     <string name="settings_media_library_dnla">סריקת מקורות UPnP / DNLA ברשת המקומית</string>
     <string name="settings_media_library_prov_vod">ספריית המדיה של ספק הסריקה אם קיימת</string>
 
-    
+
     <string name="settings_archive">ארכיון</string>
     <string name="settings_archive_min_duration">אורך וידאו מינימלי להצגה בארכיונים</string>
     <string name="settings_archive_max_duration">אורך הסרטון המרבי להצגה בארכיונים</string>
@@ -198,7 +196,7 @@
     <string name="settings_archive_duration_name_2h">2 שעות</string>
     <string name="settings_archive_duration_name_3h">3 שעות</string>
 
-    
+
     <string name="settings_player">שחקן</string>
     <string name="settings_player_hide_ui">הסתר שכבת ממשק משתמש בהפעלה</string>
     <string name="sec1">1 שנייה</string>
@@ -227,7 +225,7 @@
         <item>10 שעות</item>
     </string-array>
 
-    
+
     <string name="settings_extended">הגדרות מורחבות</string>
     <string name="settings_extended_hide_adult">הסתר קטגוריות של מבוגרים</string>
     <string name="settings_extended_auto_start_last_channel">הפעל את ערוץ ההפעלה האחרון באופן אוטומטי</string>
@@ -237,7 +235,6 @@
     <string name="settings_schedule_epg_clear">נקה את כל נתוני ה- EPG שנטענו …</string>
     <string name="settings_schedule_epg_clear_note">מסיר את כל הנתונים במטמון EPG כך לטעון מחדש ייעשה מאפס</string>
 
-    <string name="settings_status">סטָטוּס</string>
     <string name="settings_visual">סגנון חזותי</string>
 
     <string name="settings_live_quick_channel_switch_delay">עיכוב לפני ערוצי מיתוג מהירים</string>
@@ -295,7 +292,7 @@
 
     <string name="settings_external_player">נגן חיצוני (נסה הכל כברירת מחדל)</string>
 
-    
+
     <string name="settings_premium">פּרֶמיָה</string>
     <string name="settings_premium_source_purchase">פרימיום רכשה</string>
     <string name="settings_premium_source_subscription">מנוי מנוי</string>
@@ -445,12 +442,12 @@
     <string name="channel_move_cat_desc">עבור לקבוצה אחרת</string>
     <string name="channel_move_new_cat">צור קטגוריה חדשה</string>
     <string name="premium_revert_all_edits">שחזור תצורת ערוצים למצב ההתחלתי</string>
-    <string name="premium_fea_edit_list">מאפשר עריכה של קטגוריות, הסתרת ערוצים וכו '</string>
+    <string name="premium_fea_edit_list">מאפשר עריכה של קטגוריות, הסתרת ערוצים וכו \'</string>
     <string name="prov_help_bug">דווח על בעיה או על באג</string>
     <string name="prov_help_tpl">דווח על בעיה בתבנית ספק</string>
     <string name="prov_help_feature">הצע תכונה חדשה</string>
     <string name="prov_help_premium">דווח על בעיה עם תשלומים או פרמיה</string>
-    <string name="prov_help_contact_via_chat">פנה למפתח באמצעות צ'אט</string>
+    <string name="prov_help_contact_via_chat">פנה למפתח באמצעות צ\'אט</string>
     <string name="prov_help_contact_via_email">פנה למפתח באמצעות דוא"ל</string>
     <string name="prov_help_provide_more_info">כתוב את ההודעה שלך למפתח</string>
     <string name="hint_help_locale">תוכל לסייע בשיפור התרגום המקוון</string>
@@ -462,7 +459,6 @@
     <string name="cfg_player_clock_bl">פינה שמאלית תחתונה</string>
     <string name="cfg_player_clock_tl">פינה שמאלית עליונה</string>
     <string name="cat_vr_continue">המשך לצפות</string>
-    <string name="cat_vr_continue_free">צפו בתוך מספר שעות</string>
     <string name="cat_vr_continue_prem">סרטונים שנצפו לאחרונה, הזמינים כעת</string>
     <string name="premium_fea_continue">מציג את כל הסרטונים שנצפו לאחרונה, הזמינים כעת במסנן המשך</string>
     <string name="menu_swap_pip_sound">החלפת קול בין המסך הראשי ו- PiP</string>
@@ -477,4 +473,26 @@
     <string name="cfg_section_desc">תיאור פריט</string>
     <string name="cfg_section_lists">מפרט הגדרות</string>
     <string name="cfg_section_sys">הגדרות מערכת</string>
+
+    <string name="cfg_switch_dummy_on">עבור למצב הגדרות פשוטות</string>
+    <string name="cfg_switch_dummy_off">עבור למצב הגדרות מתקדמות</string>
+    <string name="cfg_no_recent">אל תציג קטגוריה עם ערוצים אחרונים</string>
+    <string name="cfg_no_hints">אל תציג רמזים</string>
+    <string name="pla_track_sel_sub">החלף כתוביות</string>
+    <string name="pla_track_sel_sub_desc">שינוי מקור הכתוביות</string>
+    <string name="setting_list_view_auto">טבלה (סמלים גדולים, להתאים את המסך)</string>
+    <string name="child_mode_unlock_cfg">הזן קוד צאצא כדי לבטל את הנעילה של ההגדרות</string>
+    <string name="cfg_child_mode">מצב רוח של ילד</string>
+    <string name="cfg_child_mode_toggle">עבור למצב ילד</string>
+    <string name="cfg_child_mode_number">קוד יציאה ממצב צאצא (4 ספרות)</string>
+    <string name="provider_generic2">רשימת השמעה כללית (חלופית)</string>
+    <string name="cfg_play_deny_status">אל תציג את סטטוס הזרם</string>
+    <string name="cfg_player_hud">סגנון של ממשק ראש</string>
+    <string name="cfg_player_hud_1">עליון ותחתון</string>
+    <string name="cfg_player_hud_2">משולב בתחתית</string>
+    <string name="cfg_player_hud_3">משולב למעלה</string>
+    <string name="never">לעולם לא</string>
+    <string name="cfg_player_hide_menu">פסק זמן להסתרת התפריט (בשניות)</string>
+    <string name="choose_auto">בחר באופן אוטומטי</string>
+    <string name="cfg_stream_tech">טכנולוגיית זרם (אם זמינה)</string>
 </resources>
