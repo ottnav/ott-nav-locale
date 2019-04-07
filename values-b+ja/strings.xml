@@ -10,7 +10,6 @@
     <string name="menu_archive">アーカイブを表示</string>
     <string name="menu_vod">ビデオライブラリ</string>
     <string name="menu_settings">設定</string>
-    <string name="menu_qs_provider">スイッチプロバイダ</string>
     <string name="menu_error_require_provider_title">OTTプロバイダが必要です</string>
     <string name="menu_error_require_provider_text">この地区は、OTTプロバイダが設定されている場合にのみ使用できます。別のオプションを選択するか、プロバイダーを構成します。</string>
     <string name="menu_error_require_provider_button">プロバイダの設定</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">ストリームに到達できません（接続できません）。プロバイダに連絡する</string>
     <string name="error_stream_not_reachable_no_resource">ストリームに到達できません。プロバイダに連絡する</string>
     <string name="error_stream_not_reachable_forbidden">アクセスが拒否されました（不正なキー？）。プロバイダに連絡する</string>
-    <string name="error_archive_not_supported">あなたのプロバイダはアーカイブをサポートしていません</string>
     <string name="error_archive_not_supported_this_channel">プロバイダはこのチャンネルにアーカイブを提供していません</string>
     <string name="error_search_nothing_found">あなたの検索クエリと一致するものはありません</string>
     <string name="error_search_too_much_found">検索結果が多すぎると、検索が切り捨てられます</string>
@@ -121,21 +119,14 @@
     <string name="hint_video_codecs">ソースがひどく再生されている場合は、設定でバッファサイズを増やしたり、別のストリームデコーダ（ハードウェアまたはソフトウェア）に切り替えたり、何かが失敗した場合は再生用に外部プレーヤーを使用するように設定できます。</string>
     <string name="hint_auto_turn_off">何らかのアイドル時間の後に自動ストリームスイッチをオフに設定することができます（1分あたりの課金に便利です）。アイドルとは、プレイヤーの行動が使用されていないことを意味します（例えば、メニュー、シーク、一時停止など）。</string>
 
-    <string name="settings_provider_select_type">OTT / IPTVサービスプロバイダの選択</string>
     <string name="settings_provider_select_type_intro1">注：このアプリケーションを使用するには、OTT / IPTVプロバイダーが必要です。</string>
     <string name="settings_provider_select_type_intro2">アプリケーションはユーザー提供のプレイリストでのみ動作します。</string>
-    <string name="settings_provider_select_type_intro3">現在選択されているプロバイダ：</string>
-    <string name="settings_provider_select_key">プロバイダの認証キー。</string>
-    <string name="settings_provider_select_url">プロバイダプレイリストのURLアドレス。</string>
     <string name="settings_provider_select_apply">適用</string>
     <string name="settings_provider_select_return">戻る</string>
     <string name="settings_provider_select_prompt_public_playlist_key">プレイリストの公開鍵</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">ストーカーのログインとパスワード</string>
     <string name="settings_provider_select_prompt_lp">あなたのログインとパスワード</string>
 
-    <string name="settings_provider_select_status1">プロバイダのデータが読み込まれています。</string>
-    <string name="settings_provider_select_status2">気をつけて画面にとどまってください。</string>
-    <string name="settings_provider_select_status3">これには2〜3分かかります。</string>
     <string name="settings_provider_select_status_error">構成エラー。データの読み込みに失敗しました</string>
     <string name="settings_provider_select_status_success">設定が正常に適用された</string>
 
@@ -166,7 +157,6 @@
     <string name="play_switch_codec">スイッチコーデック</string>
     <string name="play_switch_codec_details">異なるデコーダを介してストリームをロードする</string>
     <string name="play_switch_codec_hard">ハードウェアコーデックを使用する</string>
-    <string name="play_switch_codec_ffmpeg">ソフトウェアを使用してffmpeg</string>
     <string name="play_switch_codec_vlc">ソフトウェアVLCを使用する</string>
     <string name="play_switch_codec_ext">外部プレーヤーで開く</string>
     <string name="disk_is_full">ストレージがいっぱいです。いくつかのスペースをクリーンアップします。</string>
@@ -281,14 +271,10 @@
 
     <string name="settings_codec">コーデック設定</string>
     <string name="settings_codec_hard">常にハードウェアコーデックを使用する</string>
-    <string name="settings_codec_soft_ijk">常にソフトウェアffmpegコーデックを使用する</string>
     <string name="settings_codec_soft_vlc">常にソフトウェアVLCコーデックを使用する</string>
     <string name="settings_codec_external">常に外部プレーヤーを使用する</string>
 
     <string name="settings_epg">EPGテレガイド</string>
-
-    <string name="settings_live_extra_m3u_source_1">追加m3u1ソースプレイリスト</string>
-    <string name="settings_live_extra_m3u_source_2">追加m3u1ソースプレイリスト</string>
 
     <string name="settings_external_player">外部プレーヤー（デフォルトですべて試してください）</string>
 
@@ -302,12 +288,10 @@
     <string name="settings_premium_what_included_2">最後に再生したチャンネルに戻るオプション</string>
     <string name="settings_premium_what_included_3">ビデオと一致する自動フレームレート切り替え</string>
     <string name="settings_premium_what_included_4">アーカイブの再生速度の制御</string>
-    <string name="settings_premium_what_included_7">設定された複数のプロバイダ間のクイックスイッチ</string>
 
     <string name="settings_premium_toggles">プレミアム設定</string>
     <string name="settings_premium_toggles_try_afr">ビデオと一致する自動切り替えフレームレート</string>
     <string name="settings_premium_toggles_try_afr_toast">現在サポートされているリフレッシュレート</string>
-    <string name="settings_premium_toggles_provider_qs">プロバイダのクイックスイッチをメニューに表示する</string>
 
     <string name="settings_premium_toggle_btn_title">プレミア機能を有効にする</string>
     <string name="settings_premium_toggle_btn_sub_add">申し込む</string>
@@ -453,7 +437,6 @@
     <string name="prov_help_contact_via_email">メールで開発者に連絡する</string>
     <string name="prov_help_provide_more_info">開発者へのメッセージを書いてください</string>
     <string name="hint_help_locale">あなたはオンラインで翻訳を改善するのを手伝うことができます</string>
-    <string name="cfg_allow_dup_ch">重複したチャンネルを保存</string>
     <string name="cfg_time_imp">インペリアルタイムフォーマットを使用</string>
     <string name="hud_short_seeking">ほしい</string>
     <string name="cfg_player_clock_tr">右上隅</string>
@@ -497,4 +480,33 @@
     <string name="cfg_player_hide_menu">メニューを非表示にするためのタイムアウト（秒）</string>
     <string name="choose_auto">自動的に選択</string>
     <string name="cfg_stream_tech">ストリームテクノロジ（利用可能な場合）</string>
+
+    <string name="btn_schedule_provider_vod_load">プロバイダメディアライブラリをリロードする（提供されている場合）</string>
+    <string name="cfg_show_ch_numbers">チャンネル番号を表示</string>
+    <string name="always">常に</string>
+    <string name="cfg_play_action_sinfo">現在のテレビ番組に関する現在の情報を表示する</string>
+    <string name="menu_tv_guide">テレビガイド</string>
+    <string name="cfg_stream_q">ストリーム品質を表示</string>
+    <string name="ext_player_copy_clipboard">リンクをクリップボードのみにコピーする</string>
+    <string name="premium_fea_mult_prov">複数のプロバイダを同時に使用することを許可します</string>
+    <string name="btn_add_provider">プロバイダを追加</string>
+    <string name="btn_provider_edit">編集する</string>
+    <string name="btn_provider_delete">削除する</string>
+    <string name="provider_playlist">プレイリスト</string>
+    <string name="provider_playlist_file">ファイルからのプレイリスト</string>
+    <string name="premium_fea_tv_guide">スプレッドシートとしてテレビ番組を見る</string>
+    <string name="provider_field_name">名</string>
+    <string name="provider_field_url">URLアドレス</string>
+    <string name="provider_field_login">ログイン</string>
+    <string name="provider_field_pass">パスワード</string>
+    <string name="provider_field_token">アクセストークン</string>
+    <string name="provider_field_server">サーバ</string>
+    <string name="provider_field_active">アクティブ</string>
+    <string name="cfg_prov_categories_merge">さまざまなプロバイダのカテゴリ</string>
+    <string name="cfg_prov_categories_merge_prepend">プロバイダ名の前にカテゴリを追加</string>
+    <string name="cfg_prov_categories_merge_mix">名前が一致する場合はカテゴリを結合</string>
+    <string name="cfg_prov_categories_merge_append">プロバイダ名をカテゴリ名に追加</string>
+    <string name="cfg_codec_exo_q">ハードウェアコーデック品質</string>
+    <string name="cfg_codec_exo_max">ベストマッチ</string>
+    <string name="cfg_codec_exo_compat">互換モード</string>
 </resources>

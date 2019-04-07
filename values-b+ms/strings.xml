@@ -10,7 +10,6 @@
     <string name="menu_archive">Menunjukkan arkib</string>
     <string name="menu_vod">Pustaka video</string>
     <string name="menu_settings">Tetapan</string>
-    <string name="menu_qs_provider">Tukar pembekal</string>
     <string name="menu_error_require_provider_title">Pembekal OTT diperlukan</string>
     <string name="menu_error_require_provider_text">Daerah ini hanya tersedia apabila pembekal OTT dikonfigurasikan. Sama ada pilih pilihan lain, atau konfigurasi pembekal.</string>
     <string name="menu_error_require_provider_button">Konfigurasikan pembekal</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">Aliran tidak dapat dicapai (tidak dapat disambungkan). Hubungi pembekal anda</string>
     <string name="error_stream_not_reachable_no_resource">Aliran tidak dapat dicapai. Hubungi pembekal anda</string>
     <string name="error_stream_not_reachable_forbidden">Akses ditolak (kekunci salah?). Hubungi pembekal anda</string>
-    <string name="error_archive_not_supported">Pembekal anda tidak menyokong arkib</string>
     <string name="error_archive_not_supported_this_channel">Pembekal anda tidak menyediakan arkib untuk saluran ini</string>
     <string name="error_search_nothing_found">Tiada yang sesuai dengan permintaan carian anda</string>
     <string name="error_search_too_much_found">Terlalu banyak hasil, carian terpotong</string>
@@ -121,21 +119,14 @@
     <string name="hint_video_codecs">Jika sumber bermain buruk, anda boleh cuba meningkatkan ukuran penampan dalam tetapan, beralih ke penyahkod aliran (perkakasan atau perisian) yang lain, atau jika ada yang gagal, konfigurasikan untuk menggunakan pemain luaran untuk main balik.</string>
     <string name="hint_auto_turn_off">Anda boleh mengkonfigurasi aliran automatik yang bertukar selepas beberapa masa terbiar (berguna apabila dibilkan setiap minit). Idle bermaksud tiada tindakan pemain yang digunakan (contohnya: menu, mencari, jeda, dll).</string>
 
-    <string name="settings_provider_select_type">Pilih pembekal perkhidmatan OTT / IPTV</string>
     <string name="settings_provider_select_type_intro1">NOTA: Anda memerlukan pembekal OTT / IPTV untuk menggunakan aplikasi ini.</string>
     <string name="settings_provider_select_type_intro2">Permohonan berfungsi dengan senarai main yang disediakan oleh pengguna sahaja.</string>
-    <string name="settings_provider_select_type_intro3">Pembekal yang dipilih saat ini:</string>
-    <string name="settings_provider_select_key">Kunci kuasa pembekal.</string>
-    <string name="settings_provider_select_url">Alamat URL senarai main pembekal.</string>
     <string name="settings_provider_select_apply">Memohon</string>
     <string name="settings_provider_select_return">Kembali</string>
     <string name="settings_provider_select_prompt_public_playlist_key">Kunci umum senarai main</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">Log masuk Stalker dan kata laluan</string>
     <string name="settings_provider_select_prompt_lp">Log masuk dan kata laluan anda</string>
 
-    <string name="settings_provider_select_status1">Data pembekal sedang dimuatkan.</string>
-    <string name="settings_provider_select_status2">Sila bersabar dan teruskan di skrin.</string>
-    <string name="settings_provider_select_status3">Ini mungkin mengambil masa 2-3 minit.</string>
     <string name="settings_provider_select_status_error">Kesilapan konfigurasi. Gagal memuatkan data</string>
     <string name="settings_provider_select_status_success">Menetapkan diterapkan dengan jayanya</string>
 
@@ -166,7 +157,6 @@
     <string name="play_switch_codec">Tukar codec</string>
     <string name="play_switch_codec_details">Muat aliran melalui penyahkodan yang berbeza</string>
     <string name="play_switch_codec_hard">Gunakan codec perkakasan</string>
-    <string name="play_switch_codec_ffmpeg">Gunakan perisian ffmpeg</string>
     <string name="play_switch_codec_vlc">Gunakan perisian VLC</string>
     <string name="play_switch_codec_ext">Terbuka dalam pemain luaran</string>
     <string name="disk_is_full">Penyimpanan penuh. Membersihkan ruang.</string>
@@ -281,14 +271,10 @@
 
     <string name="settings_codec">Tetapan codec</string>
     <string name="settings_codec_hard">Sentiasa gunakan codec perkakasan</string>
-    <string name="settings_codec_soft_ijk">Sentiasa gunakan codec ffmpeg perisian</string>
     <string name="settings_codec_soft_vlc">Sentiasa gunakan codec VLC perisian</string>
     <string name="settings_codec_external">Sentiasa gunakan pemain luaran</string>
 
     <string name="settings_epg">Teleguide EPG</string>
-
-    <string name="settings_live_extra_m3u_source_1">Senarai main m3u 1 tambahan</string>
-    <string name="settings_live_extra_m3u_source_2">Senarai main m3u 2 tambahan</string>
 
     <string name="settings_external_player">Pemain luaran (cuba semua secara lalai)</string>
 
@@ -302,12 +288,10 @@
     <string name="settings_premium_what_included_2">Pilihan untuk kembali ke saluran terakhir yang dimainkan</string>
     <string name="settings_premium_what_included_3">Menukar kadar bingkai automatik untuk memadankan video</string>
     <string name="settings_premium_what_included_4">Mengawal kelajuan main balik untuk arkib</string>
-    <string name="settings_premium_what_included_7">Tukar cepat antara beberapa pembekal yang dikonfigurasikan</string>
 
     <string name="settings_premium_toggles">Tetapan premium</string>
     <string name="settings_premium_toggles_try_afr">Kadar bingkai suis automatik untuk memadankan video</string>
     <string name="settings_premium_toggles_try_afr_toast">Paparan semasa menyokong kadar penyegaran</string>
-    <string name="settings_premium_toggles_provider_qs">Tunjukkan penyemak imbas pantas dalam menu</string>
 
     <string name="settings_premium_toggle_btn_title">Dayakan ciri premium</string>
     <string name="settings_premium_toggle_btn_sub_add">Langgan</string>
@@ -453,7 +437,6 @@
     <string name="prov_help_contact_via_email">hubungi pemaju melalui e-mel</string>
     <string name="prov_help_provide_more_info">Tulis mesej anda kepada pemaju</string>
     <string name="hint_help_locale">Anda boleh membantu meningkatkan terjemahan dalam talian</string>
-    <string name="cfg_allow_dup_ch">Simpan saluran pendua</string>
     <string name="cfg_time_imp">Gunakan format waktu imperial (am / pm)</string>
     <string name="hud_short_seeking">Mencari</string>
     <string name="cfg_player_clock_tr">sudut kanan atas</string>
@@ -497,4 +480,33 @@
     <string name="cfg_player_hide_menu">Waktu untuk menyembunyikan menu (dalam saat)</string>
     <string name="choose_auto">Pilih secara automatik</string>
     <string name="cfg_stream_tech">Teknologi aliran (jika ada)</string>
+
+    <string name="btn_schedule_provider_vod_load">Pustaka media pembekal semula (jika disediakan)</string>
+    <string name="cfg_show_ch_numbers">Tunjukkan nombor saluran</string>
+    <string name="always">sentiasa</string>
+    <string name="cfg_play_action_sinfo">lihat maklumat semasa tentang program tv semasa</string>
+    <string name="menu_tv_guide">panduan TV</string>
+    <string name="cfg_stream_q">Tunjukkan kualiti strim</string>
+    <string name="ext_player_copy_clipboard">Salin pautan ke papan klip sahaja</string>
+    <string name="premium_fea_mult_prov">Membenarkan beberapa pembekal digunakan pada masa yang sama</string>
+    <string name="btn_add_provider">Tambah pembekal</string>
+    <string name="btn_provider_edit">Edit</string>
+    <string name="btn_provider_delete">Padam</string>
+    <string name="provider_playlist">Senarai main</string>
+    <string name="provider_playlist_file">Senarai main dari fail</string>
+    <string name="premium_fea_tv_guide">Lihat program TV sebagai hamparan</string>
+    <string name="provider_field_name">Nama</string>
+    <string name="provider_field_url">Alamat URL</string>
+    <string name="provider_field_login">Log masuk</string>
+    <string name="provider_field_pass">Kata laluan</string>
+    <string name="provider_field_token">Token akses</string>
+    <string name="provider_field_server">Pelayan</string>
+    <string name="provider_field_active">Aktif</string>
+    <string name="cfg_prov_categories_merge">Kategori dari pembekal yang berbeza</string>
+    <string name="cfg_prov_categories_merge_prepend">Sediakan kategori dengan nama penyedia</string>
+    <string name="cfg_prov_categories_merge_mix">Gabungkan kategori jika nama cocok</string>
+    <string name="cfg_prov_categories_merge_append">Tambahkan nama penyedia kepada nama kategori</string>
+    <string name="cfg_codec_exo_q">Kualiti codec perkakasan</string>
+    <string name="cfg_codec_exo_max">Perlawanan terbaik</string>
+    <string name="cfg_codec_exo_compat">mod keserasian</string>
 </resources>

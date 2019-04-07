@@ -10,7 +10,6 @@
     <string name="menu_archive">显示存档</string>
     <string name="menu_vod">视频库</string>
     <string name="menu_settings">设置</string>
-    <string name="menu_qs_provider">交换提供商</string>
     <string name="menu_error_require_provider_title">OTT提供商是必需的</string>
     <string name="menu_error_require_provider_text">仅当配置OTT提供程序时，此区域才可用。选择其他选项，或配置提供程序。</string>
     <string name="menu_error_require_provider_button">配置提供商</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">流无法访问（无法连接）。联系您的提供商</string>
     <string name="error_stream_not_reachable_no_resource">流无法访问。联系您的提供商</string>
     <string name="error_stream_not_reachable_forbidden">访问被拒绝（错误的密钥？）。联系您的提供商</string>
-    <string name="error_archive_not_supported">您的提供商不支持存档</string>
     <string name="error_archive_not_supported_this_channel">您的提供商不提供此渠道的存档</string>
     <string name="error_search_nothing_found">没有任何内容符合您的搜索查询</string>
     <string name="error_search_too_much_found">结果太多，搜索被截断</string>
@@ -121,21 +119,14 @@
     <string name="hint_video_codecs">如果源播放效果不佳，您可以尝试在设置中增加缓冲区大小，切换到另一个流解码器（硬件或软件），或者如果出现任何故障，请配置为使用外部播放器进行播放。</string>
     <string name="hint_auto_turn_off">您可以在一些空闲时间后配置自动流关闭（在每分钟计费时很有用）。空闲意味着没有使用任何玩家动作（例如：菜单，搜索，暂停等）。</string>
 
-    <string name="settings_provider_select_type">选择OTT / IPTV服务提供商</string>
     <string name="settings_provider_select_type_intro1">注意：您需要OTT / IPTV提供商才能使用此应用程序。</string>
     <string name="settings_provider_select_type_intro2">应用程序仅适用于用户提供的播放列表。</string>
-    <string name="settings_provider_select_type_intro3">目前选择提供者：</string>
-    <string name="settings_provider_select_key">提供商授权密钥。</string>
-    <string name="settings_provider_select_url">提供者播放列表URL地址。</string>
     <string name="settings_provider_select_apply">应用</string>
     <string name="settings_provider_select_return">返回</string>
     <string name="settings_provider_select_prompt_public_playlist_key">播放列表的公钥</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">追踪者登录和密码</string>
     <string name="settings_provider_select_prompt_lp">您的登录名和密码</string>
 
-    <string name="settings_provider_select_status1">提供商数据正在加载。</string>
-    <string name="settings_provider_select_status2">请耐心等待并留在屏幕上。</string>
-    <string name="settings_provider_select_status3">这可能需要2-3分钟。</string>
     <string name="settings_provider_select_status_error">配置错误。无法加载数据</string>
     <string name="settings_provider_select_status_success">设置已成功应用</string>
 
@@ -166,7 +157,6 @@
     <string name="play_switch_codec">切换编解码器</string>
     <string name="play_switch_codec_details">通过不同的解码器加载流</string>
     <string name="play_switch_codec_hard">使用硬件编解码器</string>
-    <string name="play_switch_codec_ffmpeg">使用软件ffmpeg</string>
     <string name="play_switch_codec_vlc">使用软件VLC</string>
     <string name="play_switch_codec_ext">在外部播放器中打开</string>
     <string name="disk_is_full">存储已满。清理一些空间。</string>
@@ -281,14 +271,10 @@
 
     <string name="settings_codec">编解码器设置</string>
     <string name="settings_codec_hard">始终使用硬件编解码器</string>
-    <string name="settings_codec_soft_ijk">始终使用软件ffmpeg编解码器</string>
     <string name="settings_codec_soft_vlc">始终使用软件VLC编解码器</string>
     <string name="settings_codec_external">始终使用外部播放器</string>
 
     <string name="settings_epg">EPG远程指南</string>
-
-    <string name="settings_live_extra_m3u_source_1">额外的m3u源播放列表1</string>
-    <string name="settings_live_extra_m3u_source_2">额外的m3u源播放列表2</string>
 
     <string name="settings_external_player">外部播放器（默认情况下全部尝试）</string>
 
@@ -302,12 +288,10 @@
     <string name="settings_premium_what_included_2">选择返回上次播放的频道</string>
     <string name="settings_premium_what_included_3">自动帧速率切换以匹配视频</string>
     <string name="settings_premium_what_included_4">控制档案的播放速度</string>
-    <string name="settings_premium_what_included_7">几个配置的提供商之间快速切换</string>
 
     <string name="settings_premium_toggles">高级设置</string>
     <string name="settings_premium_toggles_try_afr">自动切换帧速率以匹配视频</string>
     <string name="settings_premium_toggles_try_afr_toast">当前显示支持刷新率</string>
-    <string name="settings_premium_toggles_provider_qs">在菜单中显示提供商快速切换</string>
 
     <string name="settings_premium_toggle_btn_title">启用高级功能</string>
     <string name="settings_premium_toggle_btn_sub_add">订阅</string>
@@ -453,7 +437,6 @@
     <string name="prov_help_contact_via_email">通过电子邮件联系开发</string>
     <string name="prov_help_provide_more_info">写信给开发者</string>
     <string name="hint_help_locale">您可以帮助改善在线翻译</string>
-    <string name="cfg_allow_dup_ch">保留重复的频道</string>
     <string name="cfg_time_imp">使用英制时间格式（上午/下午）</string>
     <string name="hud_short_seeking">求</string>
     <string name="cfg_player_clock_tr">右上角</string>
@@ -497,4 +480,33 @@
     <string name="cfg_player_hide_menu">超时隐藏菜单（以秒为单位）</string>
     <string name="choose_auto">自动选择</string>
     <string name="cfg_stream_tech">流技术（如果有）</string>
+
+    <string name="btn_schedule_provider_vod_load">重新加载提供者媒体库（如果提供）</string>
+    <string name="cfg_show_ch_numbers">显示频道号码</string>
+    <string name="always">总是</string>
+    <string name="cfg_play_action_sinfo">查看当前电视节目的当前信息</string>
+    <string name="menu_tv_guide">节目表</string>
+    <string name="cfg_stream_q">显示流质量</string>
+    <string name="ext_player_copy_clipboard">仅将链接复制到剪贴板</string>
+    <string name="premium_fea_mult_prov">允许同时使用多个提供程序</string>
+    <string name="btn_add_provider">添加提供商</string>
+    <string name="btn_provider_edit">编辑</string>
+    <string name="btn_provider_delete">删除</string>
+    <string name="provider_playlist">播放列表</string>
+    <string name="provider_playlist_file">来自文件的播放列表</string>
+    <string name="premium_fea_tv_guide">将电视节目视为电子表格</string>
+    <string name="provider_field_name">名称</string>
+    <string name="provider_field_url">网址</string>
+    <string name="provider_field_login">登录</string>
+    <string name="provider_field_pass">密码</string>
+    <string name="provider_field_token">访问令牌</string>
+    <string name="provider_field_server">服务器</string>
+    <string name="provider_field_active">活性</string>
+    <string name="cfg_prov_categories_merge">来自不同提供商的类别</string>
+    <string name="cfg_prov_categories_merge_prepend">使用提供程序名称添加类别</string>
+    <string name="cfg_prov_categories_merge_mix">如果名称匹配，则合并类别</string>
+    <string name="cfg_prov_categories_merge_append">将提供者名称附加到类别名称</string>
+    <string name="cfg_codec_exo_q">硬件编解码器质量</string>
+    <string name="cfg_codec_exo_max">最佳匹配</string>
+    <string name="cfg_codec_exo_compat">兼容模式</string>
 </resources>

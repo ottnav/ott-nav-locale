@@ -10,7 +10,6 @@
     <string name="menu_archive">Affiche les archives</string>
     <string name="menu_vod">Vidéothèque</string>
     <string name="menu_settings">Paramètres</string>
-    <string name="menu_qs_provider">Changer de fournisseur</string>
     <string name="menu_error_require_provider_title">Le fournisseur OTT est requis</string>
     <string name="menu_error_require_provider_text">Ce district est disponible uniquement lorsque le fournisseur OTT est configuré. Sélectionnez une autre option ou configurez un fournisseur.</string>
     <string name="menu_error_require_provider_button">Configurer le fournisseur</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">Stream non accessible (impossible de se connecter). Contactez votre fournisseur</string>
     <string name="error_stream_not_reachable_no_resource">Stream non accessible. Contactez votre fournisseur</string>
     <string name="error_stream_not_reachable_forbidden">Accès refusé (clé incorrecte?). Contactez votre fournisseur</string>
-    <string name="error_archive_not_supported">Votre fournisseur ne prend pas en charge les archives</string>
     <string name="error_archive_not_supported_this_channel">Votre fournisseur ne fournit pas d\'archives pour ce canal</string>
     <string name="error_search_nothing_found">Rien ne correspond à votre requête de recherche</string>
     <string name="error_search_too_much_found">Trop de résultats, recherche tronquée</string>
@@ -121,21 +119,14 @@
     <string name="hint_video_codecs">Si la source joue mal, vous pouvez essayer d\'augmenter la taille du tampon dans les paramètres, passer à un autre décodeur de flux (matériel ou logiciel) ou, en cas de défaillance, utiliser un lecteur externe pour la lecture.</string>
     <string name="hint_auto_turn_off">Vous pouvez configurer la désactivation automatique des flux après un certain temps d\'inactivité (utile lorsque facturé à la minute). Idle signifie qu\'aucune action de joueur n\'est utilisée (par exemple: menu, recherche, pause, etc.).</string>
 
-    <string name="settings_provider_select_type">Sélectionner un fournisseur de services OTT / IPTV</string>
     <string name="settings_provider_select_type_intro1">REMARQUE: Vous devez disposer d\'un fournisseur OTT / IPTV pour utiliser cette application.</string>
     <string name="settings_provider_select_type_intro2">L\'application fonctionne uniquement avec les listes de lecture fournies par l\'utilisateur.</string>
-    <string name="settings_provider_select_type_intro3">Fournisseur actuellement sélectionné:</string>
-    <string name="settings_provider_select_key">Clé d\'autorisation du fournisseur.</string>
-    <string name="settings_provider_select_url">Adresse URL de la liste de lecture du fournisseur.</string>
     <string name="settings_provider_select_apply">Appliquer</string>
     <string name="settings_provider_select_return">Revenir</string>
     <string name="settings_provider_select_prompt_public_playlist_key">Clé publique de la playlist</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">Identifiant et mot de passe Stalker</string>
     <string name="settings_provider_select_prompt_lp">Votre identifiant et mot de passe</string>
 
-    <string name="settings_provider_select_status1">Les données du fournisseur sont en cours de chargement.</string>
-    <string name="settings_provider_select_status2">S\'il vous plaît soyez patient et restez à l\'écran.</string>
-    <string name="settings_provider_select_status3">Cela peut prendre 2 à 3 minutes.</string>
     <string name="settings_provider_select_status_error">Erreur de configuration. Échec du chargement des données</string>
     <string name="settings_provider_select_status_success">Paramètre appliqué avec succès</string>
 
@@ -166,7 +157,6 @@
     <string name="play_switch_codec">Switch codec</string>
     <string name="play_switch_codec_details">Charger un flux via un autre décodeur</string>
     <string name="play_switch_codec_hard">Utiliser des codecs matériels</string>
-    <string name="play_switch_codec_ffmpeg">Utilisez le logiciel ffmpeg</string>
     <string name="play_switch_codec_vlc">Utiliser le logiciel VLC</string>
     <string name="play_switch_codec_ext">Ouvrir dans un lecteur externe</string>
     <string name="disk_is_full">Le stockage est plein. Nettoyer un peu d\'espace.</string>
@@ -281,14 +271,10 @@
 
     <string name="settings_codec">Paramètres de codecs</string>
     <string name="settings_codec_hard">Toujours utiliser des codecs matériels</string>
-    <string name="settings_codec_soft_ijk">Toujours utiliser les codecs logiciels ffmpeg</string>
     <string name="settings_codec_soft_vlc">Toujours utiliser les codecs VLC logiciels</string>
     <string name="settings_codec_external">Toujours utiliser un lecteur externe</string>
 
     <string name="settings_epg">Téléguide EPG</string>
-
-    <string name="settings_live_extra_m3u_source_1">Liste de lecture supplémentaire #1</string>
-    <string name="settings_live_extra_m3u_source_2">Liste de lecture supplémentaire #2</string>
 
     <string name="settings_external_player">Lecteur externe (essayez tous par défaut)</string>
 
@@ -302,12 +288,10 @@
     <string name="settings_premium_what_included_2">Possibilité de revenir au dernier canal joué</string>
     <string name="settings_premium_what_included_3">Changement automatique de la fréquence d\'images en fonction de la vidéo</string>
     <string name="settings_premium_what_included_4">Contrôle de la vitesse de lecture pour les archives</string>
-    <string name="settings_premium_what_included_7">Changement rapide entre plusieurs fournisseurs configurés</string>
 
     <string name="settings_premium_toggles">Paramètres Premium</string>
     <string name="settings_premium_toggles_try_afr">Taux de trame automatique pour correspondre à la vidéo</string>
     <string name="settings_premium_toggles_try_afr_toast">Affichage actuel pris en charge les taux de rafraîchissement</string>
-    <string name="settings_premium_toggles_provider_qs">Afficher le changement rapide de fournisseur dans le menu</string>
 
     <string name="settings_premium_toggle_btn_title">Activer les fonctionnalités premium</string>
     <string name="settings_premium_toggle_btn_sub_add">Souscrire</string>
@@ -451,7 +435,6 @@
     <string name="prov_help_contact_via_email">contacter le développeur par e-mail</string>
     <string name="prov_help_provide_more_info">Ecrivez votre message au développeur</string>
     <string name="hint_help_locale">Vous pouvez aider à améliorer la traduction en ligne</string>
-    <string name="cfg_allow_dup_ch">Garder les canaux en double</string>
     <string name="cfg_time_imp">Utilisez le format de l\'heure impériale (am / pm)</string>
     <string name="hud_short_seeking">À la recherche</string>
     <string name="cfg_player_clock_tr">le coin supérieur droit</string>
@@ -495,4 +478,33 @@
     <string name="cfg_player_hide_menu">Délai d\'attente pour masquer le menu (en secondes)</string>
     <string name="choose_auto">Choisissez automatiquement</string>
     <string name="cfg_stream_tech">Technologie de flux (si disponible)</string>
+
+    <string name="btn_schedule_provider_vod_load">Recharger la médiathèque du fournisseur (si fourni)</string>
+    <string name="cfg_show_ch_numbers">Afficher les numéros de chaîne</string>
+    <string name="always">toujours</string>
+    <string name="cfg_play_action_sinfo">voir les informations actuelles sur le programme de télévision en cours</string>
+    <string name="menu_tv_guide">guide télévisé</string>
+    <string name="cfg_stream_q">Afficher la qualité du flux</string>
+    <string name="ext_player_copy_clipboard">Copier le lien dans le presse-papier uniquement</string>
+    <string name="premium_fea_mult_prov">Permet à plusieurs fournisseurs d\'être utilisés en même temps</string>
+    <string name="btn_add_provider">Ajouter un fournisseur</string>
+    <string name="btn_provider_edit">modifier</string>
+    <string name="btn_provider_delete">Effacer</string>
+    <string name="provider_playlist">Playlist</string>
+    <string name="provider_playlist_file">Playlist du fichier</string>
+    <string name="premium_fea_tv_guide">Voir le programme télévisé sous forme de feuille de calcul</string>
+    <string name="provider_field_name">prénom</string>
+    <string name="provider_field_url">Adresse URL</string>
+    <string name="provider_field_login">S\'identifier</string>
+    <string name="provider_field_pass">Mot de passe</string>
+    <string name="provider_field_token">Jeton d\'accès</string>
+    <string name="provider_field_server">Serveur</string>
+    <string name="provider_field_active">actif</string>
+    <string name="cfg_prov_categories_merge">Catégories de différents fournisseurs</string>
+    <string name="cfg_prov_categories_merge_prepend">Ajouter la catégorie avec le nom du fournisseur</string>
+    <string name="cfg_prov_categories_merge_mix">Fusionner les catégories si le nom correspond</string>
+    <string name="cfg_prov_categories_merge_append">Ajouter le nom du fournisseur au nom de la catégorie</string>
+    <string name="cfg_codec_exo_q">Qualité du codec matériel</string>
+    <string name="cfg_codec_exo_max">meilleure correspondance</string>
+    <string name="cfg_codec_exo_compat">le mode de compatibilité</string>
 </resources>

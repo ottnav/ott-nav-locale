@@ -11,7 +11,6 @@
     <string name="menu_archive">Laidų archyvas</string>
     <string name="menu_vod">Video galerija</string>
     <string name="menu_settings">Nustatymai</string>
-    <string name="menu_qs_provider">Pakeisti tiekėją</string>
     <string name="menu_error_require_provider_title">Reikalaujama OTT tiekėjo</string>
     <string name="menu_error_require_provider_text">Ši skiltis prieinama tik nustačius OTT tiekėją. Naudokite kitas skiltis arba nustatykite tiekėją.</string>
     <string name="menu_error_require_provider_button">Nustatyti tiekėją</string>
@@ -64,7 +63,6 @@
     <string name="error_stream_not_reachable_no_connect">Srautas nepasiekiamas (nėra ryšio). Susisiekite su savo tiekėju</string>
     <string name="error_stream_not_reachable_no_resource">Srautas nepasiekiamas. Susisiekite su savo tiekėju</string>
     <string name="error_stream_not_reachable_forbidden">Prieiga uždrausta(neteisingas raktas?). Susisiekite su savo tiekėju</string>
-    <string name="error_archive_not_supported">Jūsų tiekėjas nepalaiko archyvo</string>
     <string name="error_archive_not_supported_this_channel">Jūsų tiekėjas nepalaiko archyvo šiam kanalui</string>
     <string name="error_search_nothing_found">Pagal paiškos kriterijus nieko nerasta</string>
     <string name="error_search_too_much_found">Labai daug rezultatų, rodomi tik pirmieji</string>
@@ -123,21 +121,14 @@
     <string name="hint_auto_turn_off">Jūs galite nustatyti automatinį transliacijos išjungimą, esant kuriam laikui neaktyvumo(naudinga mokant už transliaciją pagal laiką). Aktyvumas skaičiuojamas naudojantis grotuvu, paleidimas, sustabdymas, prasukimas ir panašiai.</string>
 
     <!-- provider -->
-    <string name="settings_provider_select_type">Išsirinkite OTT/IPTV paslaugų tiekėją</string>
     <string name="settings_provider_select_type_intro1">SVARBU: norint naudotis programa, būtinas OTT/IPTV paslaugų tiekėjas.</string>
     <string name="settings_provider_select_type_intro2">Programa veikia tik su pridėtais vartotojo grojaraščiais.</string>
-    <string name="settings_provider_select_type_intro3">Išsirinkite OTT/IPTV paslaugų tiekėją</string>
-    <string name="settings_provider_select_key">Tiekėjo autorizacijos raktas.</string>
-    <string name="settings_provider_select_url">Tiekėjo grojaraščio URL nuoroda.</string>
     <string name="settings_provider_select_apply">Taikyti</string>
     <string name="settings_provider_select_return">Grįžti</string>
     <string name="settings_provider_select_prompt_public_playlist_key">Viešas grojaraščio raktas</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">Stalker prisijungimo vardas ir slaptažodis</string>
     <string name="settings_provider_select_prompt_lp">Jūsų prisijungimo vardas ir slaptažodis</string>
 
-    <string name="settings_provider_select_status1">Parsiunčiami tiekėjo duomenys.</string>
-    <string name="settings_provider_select_status2">Prašome palaukti, nepersijunkite.</string>
-    <string name="settings_provider_select_status3">Tai gali trukti 2-3 minutes.</string>
     <string name="settings_provider_select_status_error">Nustatymų klaida. Nepavyko parsisiųsti duomenų.</string>
     <string name="settings_provider_select_status_success">Nustatymai priimti sėkmingai.</string>
 
@@ -168,7 +159,6 @@
     <string name="play_switch_codec">Pakeisti kodeką</string>
     <string name="play_switch_codec_details">Paleisti srautą kitu dekoderiu</string>
     <string name="play_switch_codec_hard">Naudoti aparatūrinius (HW) kodekus</string>
-    <string name="play_switch_codec_ffmpeg">Naudoti programinius (SW) kodekus</string>
     <string name="play_switch_codec_vlc">Naudoti programinius (SW) VLC kodekus</string>
     <string name="play_switch_codec_ext">Atidaryti išoriniame grotuve</string>
     <string name="disk_is_full">Saugykloje trūksta vietos. Atlaisvinkite šiek tiek vietos.</string>
@@ -283,14 +273,10 @@
 
     <string name="settings_codec">Kodekų nustatymai</string>
     <string name="settings_codec_hard">Visada naudoti aparatūrinius kodekus</string>
-    <string name="settings_codec_soft_ijk">Visada naudoti programinius kodekus ffmpeg</string>
     <string name="settings_codec_soft_vlc">Visada naudoti programinius kodekus VLC</string>
     <string name="settings_codec_external">Visada naudoti išorinį grotuvą</string>
 
     <string name="settings_epg">EPG programa</string>
-
-    <string name="settings_live_extra_m3u_source_1">Papildomas m3u grojaraštis. Šaltinis #1</string>
-    <string name="settings_live_extra_m3u_source_2">Papildomas m3u grojaraštis. Šaltinis #2</string>
 
     <string name="settings_external_player">Išorinis grotuvas</string>
 
@@ -304,12 +290,10 @@
     <string name="settings_premium_what_included_2">Galimybė grįžti į prieš tai žiūrėtą kanalą</string>
     <string name="settings_premium_what_included_3">Automatiškai priderinamas ekrano skleistinės dažnis. Sukuria sklandesnį vaizdo atkūrimą.</string>
     <string name="settings_premium_what_included_4">Archyvo atkūrimo greičio valdymas</string>
-    <string name="settings_premium_what_included_7">Greitas perjungimas tarp keletos atskirų tiekėjų nustatymų.</string>
 
     <string name="settings_premium_toggles">Premium nustatymai</string>
     <string name="settings_premium_toggles_try_afr">Automatiškai keisti kadrų dažnį, kad geriausiai atitiktų video įrašo kadrų dažnį</string>
     <string name="settings_premium_toggles_try_afr_toast">Einamas ekranas palaiko kadrų dažnį</string>
-    <string name="settings_premium_toggles_provider_qs">Rodyti galimybę greitai perjungti nustatymus tarp keletos atskirų tiekėjų</string>
 
     <string name="settings_premium_toggle_btn_title">Įjungti Premium galimybes</string>
     <string name="settings_premium_toggle_btn_sub_add">Prenumeruoti</string>
@@ -456,7 +440,6 @@
     <string name="prov_help_contact_via_email">susisiekite su kūrėju elektroniniu paštu</string>
     <string name="prov_help_provide_more_info">Parašykite savo žinutę kūrėjui</string>
     <string name="hint_help_locale">Galite padėti pagerinti vertimą internete</string>
-    <string name="cfg_allow_dup_ch">Laikykite pasikartojančius kanalus</string>
     <string name="cfg_time_imp">Naudokite imperijos laiko formatą (am / pm)</string>
     <string name="hud_short_seeking">Ieškau</string>
     <string name="cfg_player_clock_tr">viršutiniame dešiniajame kampe</string>
@@ -500,4 +483,33 @@
     <string name="cfg_player_hide_menu">Meniu paspaudimo laikas (sekundėmis)</string>
     <string name="choose_auto">Pasirinkite automatiškai</string>
     <string name="cfg_stream_tech">Srautų technologija (jei yra)</string>
+
+    <string name="btn_schedule_provider_vod_load">Perkrauti paslaugų teikėjo medijos biblioteką (jei numatyta)</string>
+    <string name="cfg_show_ch_numbers">Rodyti kanalų numerius</string>
+    <string name="always">visada</string>
+    <string name="cfg_play_action_sinfo">peržiūrėti dabartinę informaciją apie dabartinę televizijos programą</string>
+    <string name="menu_tv_guide">TV gidas</string>
+    <string name="cfg_stream_q">Rodyti srauto kokybę</string>
+    <string name="ext_player_copy_clipboard">Kopijuoti nuorodą tik į iškarpinę</string>
+    <string name="premium_fea_mult_prov">Leidžia vienu metu naudoti kelis paslaugų teikėjus</string>
+    <string name="btn_add_provider">Pridėti teikėją</string>
+    <string name="btn_provider_edit">Redaguoti</string>
+    <string name="btn_provider_delete">Ištrinti</string>
+    <string name="provider_playlist">Grojaraštis</string>
+    <string name="provider_playlist_file">Grojaraštis iš failo</string>
+    <string name="premium_fea_tv_guide">Peržiūrėkite TV programą kaip skaičiuoklę</string>
+    <string name="provider_field_name">vardas</string>
+    <string name="provider_field_url">URL adresas</string>
+    <string name="provider_field_login">Prisijungti</string>
+    <string name="provider_field_pass">Slaptažodis</string>
+    <string name="provider_field_token">Prieigos raktas</string>
+    <string name="provider_field_server">Serveris</string>
+    <string name="provider_field_active">Aktyvus</string>
+    <string name="cfg_prov_categories_merge">Įvairių teikėjų kategorijos</string>
+    <string name="cfg_prov_categories_merge_prepend">Preparuoti kategoriją su paslaugų teikėjo pavadinimu</string>
+    <string name="cfg_prov_categories_merge_mix">Sujungti kategorijas, jei atitinka pavadinimą</string>
+    <string name="cfg_prov_categories_merge_append">Pridėkite paslaugų teikėjo pavadinimą į kategorijos pavadinimą</string>
+    <string name="cfg_codec_exo_q">Aparatūros kodekų kokybė</string>
+    <string name="cfg_codec_exo_max">Geriausias atitikimas</string>
+    <string name="cfg_codec_exo_compat">suderinamumo režimu</string>
 </resources>

@@ -10,7 +10,6 @@
     <string name="menu_archive">সংরক্ষণাগার দেখায়</string>
     <string name="menu_vod">ভিডিও লাইব্রেরি</string>
     <string name="menu_settings">সেটিংস</string>
-    <string name="menu_qs_provider">সুইচ প্রদানকারী</string>
     <string name="menu_error_require_provider_title">OTT প্রদানকারীর প্রয়োজন হয়</string>
     <string name="menu_error_require_provider_text">এই জেলাটি শুধুমাত্র তখনই পাওয়া যায় যখন OTT প্রদানকারী কনফিগার করা হয়। হয় অন্য বিকল্প নির্বাচন করুন, অথবা একটি প্রদানকারী কনফিগার করুন।</string>
     <string name="menu_error_require_provider_button">প্রদানকারী কনফিগার করুন</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">প্রবাহ পৌঁছানোর যোগ্য নয় (সংযোগ করতে পারে না)। আপনার প্রদানকারীর সাথে যোগাযোগ করুন</string>
     <string name="error_stream_not_reachable_no_resource">প্রবাহ পৌঁছানোর যোগ্য নয়। আপনার প্রদানকারীর সাথে যোগাযোগ করুন</string>
     <string name="error_stream_not_reachable_forbidden">প্রবেশ অস্বীকার (ভুল কী?)। আপনার প্রদানকারীর সাথে যোগাযোগ করুন</string>
-    <string name="error_archive_not_supported">আপনার প্রদানকারী আর্কাইভ সমর্থন করে না</string>
     <string name="error_archive_not_supported_this_channel">আপনার প্রদানকারী এই চ্যানেলের জন্য সংরক্ষণাগার প্রদান করে না</string>
     <string name="error_search_nothing_found">কিছুই আপনার অনুসন্ধান প্রশ্নের সাথে মিলেছে</string>
     <string name="error_search_too_much_found">অনেক ফলাফল, অনুসন্ধান ছিন্ন</string>
@@ -121,21 +119,14 @@
     <string name="hint_video_codecs">উৎসটি খারাপভাবে চলছে, তবে আপনি সেটিংসে বাফারের আকার বাড়ানোর চেষ্টা করতে পারেন, অন্য স্ট্রীম ডিকোডার (হার্ডওয়্যার বা সফটওয়্যার) তে স্যুইচ করতে পারেন, বা কিছু ব্যর্থ হলে প্লেব্যাকের জন্য বাহ্যিক প্লেয়ার ব্যবহার করতে কনফিগার করুন।</string>
     <string name="hint_auto_turn_off">আপনি কিছু নিষ্ক্রিয় সময়ের পরে স্বয়ংক্রিয় স্ট্রিম স্যুইচিং বন্ধ করতে পারেন (প্রতি মিনিটে বিল করার সময় দরকারী)। নিষ্ক্রিয় মানে কোন প্লেয়ার ক্রিয়া ব্যবহার করা হয়নি (উদাহরণস্বরূপ: মেনু, অনুসন্ধান, বিরতি, ইত্যাদি)।</string>
 
-    <string name="settings_provider_select_type">ওটিটি / আইপিটিভি সেবা সরবরাহকারী নির্বাচন করুন</string>
     <string name="settings_provider_select_type_intro1">দ্রষ্টব্য: এই অ্যাপ্লিকেশনটি ব্যবহার করার জন্য আপনাকে একটি ওটিটি / আইপিটিভি সরবরাহকারীর প্রয়োজন।</string>
     <string name="settings_provider_select_type_intro2">অ্যাপ্লিকেশন শুধুমাত্র ব্যবহারকারী দ্বারা প্রদত্ত প্লেলিস্ট সঙ্গে কাজ করে।</string>
-    <string name="settings_provider_select_type_intro3">বর্তমানে নির্বাচিত প্রদানকারী:</string>
-    <string name="settings_provider_select_key">সরবরাহকারী অনুমোদন কী।</string>
-    <string name="settings_provider_select_url">সরবরাহকারী প্লেলিস্ট URL ঠিকানা।</string>
     <string name="settings_provider_select_apply">প্রয়োগ করা</string>
     <string name="settings_provider_select_return">প্রত্যাবর্তন</string>
     <string name="settings_provider_select_prompt_public_playlist_key">প্লেলিস্ট পাবলিক কী</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">Stalker লগইন এবং পাসওয়ার্ড</string>
     <string name="settings_provider_select_prompt_lp">আপনার লগইন এবং পাসওয়ার্ড</string>
 
-    <string name="settings_provider_select_status1">সরবরাহকারী তথ্য লোড হচ্ছে।</string>
-    <string name="settings_provider_select_status2">ধৈর্য ধরুন এবং পর্দায় থাকুন।</string>
-    <string name="settings_provider_select_status3">এটি 2-3 মিনিট সময় নিতে পারে।</string>
     <string name="settings_provider_select_status_error">কনফিগারেশন ত্রুটি। তথ্য লোড করতে ব্যর্থ</string>
     <string name="settings_provider_select_status_success">সেটিং সফলভাবে প্রয়োগ করা হয়েছে</string>
 
@@ -166,7 +157,6 @@
     <string name="play_switch_codec">কোডেক স্যুইচ করুন</string>
     <string name="play_switch_codec_details">বিভিন্ন ডিকরার মাধ্যমে স্ট্রিম লোড করুন</string>
     <string name="play_switch_codec_hard">হার্ডওয়্যার কোডেক ব্যবহার করুন</string>
-    <string name="play_switch_codec_ffmpeg">সফটওয়্যার ffmpeg ব্যবহার করুন</string>
     <string name="play_switch_codec_vlc">সফটওয়্যার ভিএলসি ব্যবহার করুন</string>
     <string name="play_switch_codec_ext">বাইরের প্লেয়ার খুলুন</string>
     <string name="disk_is_full">সংরক্ষণাগার পুর্ন. কিছু স্থান পরিষ্কার করুন।</string>
@@ -281,14 +271,10 @@
 
     <string name="settings_codec">কোডেক সেটিংস</string>
     <string name="settings_codec_hard">সর্বদা হার্ডওয়্যার কোডেক ব্যবহার করুন</string>
-    <string name="settings_codec_soft_ijk">সর্বদা সফটওয়্যার ffmpeg কোডেকস ব্যবহার করুন</string>
     <string name="settings_codec_soft_vlc">সর্বদা সফটওয়্যার ভিএলসি কোডেক ব্যবহার করুন</string>
     <string name="settings_codec_external">সর্বদা বাইরের প্লেয়ার ব্যবহার করুন</string>
 
     <string name="settings_epg">ইপিজি টেলিগ্রাফ</string>
-
-    <string name="settings_live_extra_m3u_source_1">অতিরিক্ত m3u 1 উৎস প্লেলিস্ট</string>
-    <string name="settings_live_extra_m3u_source_2">অতিরিক্ত m3u 2 উৎস প্লেলিস্ট</string>
 
     <string name="settings_external_player">বাহ্যিক প্লেয়ার (ডিফল্টরূপে সব চেষ্টা)</string>
 
@@ -302,12 +288,10 @@
     <string name="settings_premium_what_included_2">সর্বশেষ খেলে চ্যানেল ফিরে বিকল্প</string>
     <string name="settings_premium_what_included_3">স্বয়ংক্রিয় ফ্রেম রেট সুইচিং ভিডিও মেলে</string>
     <string name="settings_premium_what_included_4">আর্কাইভ জন্য প্লেব্যাক গতি নিয়ন্ত্রণ</string>
-    <string name="settings_premium_what_included_7">বিভিন্ন কনফিগার করা প্রদানকারীর মধ্যে দ্রুত সুইচ</string>
 
     <string name="settings_premium_toggles">প্রিমিয়াম সেটিংস</string>
     <string name="settings_premium_toggles_try_afr">ভিডিও মিলে অটো-সুইচ ফ্রেম রেট</string>
     <string name="settings_premium_toggles_try_afr_toast">বর্তমান প্রদর্শন সমর্থিত রিফ্রেশ হার</string>
-    <string name="settings_premium_toggles_provider_qs">মেনু মধ্যে প্রদানকারী দ্রুত সুইচ দেখান</string>
 
     <string name="settings_premium_toggle_btn_title">প্রিমিয়াম বৈশিষ্ট্য সক্রিয় করুন</string>
     <string name="settings_premium_toggle_btn_sub_add">সাবস্ক্রাইব</string>
@@ -453,7 +437,6 @@
     <string name="prov_help_contact_via_email">ইমেইল মাধ্যমে ডেভেলপার যোগাযোগ করুন</string>
     <string name="prov_help_provide_more_info">বিকাশকারী আপনার বার্তা লিখুন</string>
     <string name="hint_help_locale">আপনি অনলাইন অনুবাদের উন্নতি করতে সাহায্য করতে পারেন</string>
-    <string name="cfg_allow_dup_ch">নকল চ্যানেল রাখুন</string>
     <string name="cfg_time_imp">সাম্রাজ্য সময় বিন্যাস ব্যবহার করুন (am / pm)</string>
     <string name="hud_short_seeking">সচেষ্ট</string>
     <string name="cfg_player_clock_tr">উপরের ডান কোণে</string>
@@ -497,4 +480,33 @@
     <string name="cfg_player_hide_menu">মেনু লুকানোর সময়সীমা (সেকেন্ডে)</string>
     <string name="choose_auto">স্বয়ংক্রিয়ভাবে চয়ন করুন</string>
     <string name="cfg_stream_tech">স্ট্রিম প্রযুক্তি (যদি উপলব্ধ)</string>
+
+    <string name="btn_schedule_provider_vod_load">রিলোড প্রদানকারী মিডিয়া লাইব্রেরি (যদি প্রদান করা হয়)</string>
+    <string name="cfg_show_ch_numbers">চ্যানেল সংখ্যা প্রদর্শন করুন</string>
+    <string name="always">সর্বদা</string>
+    <string name="cfg_play_action_sinfo">বর্তমান টিভি প্রোগ্রাম সম্পর্কে বর্তমান তথ্য দেখুন</string>
+    <string name="menu_tv_guide">টিভি নির্দেশিকা</string>
+    <string name="cfg_stream_q">স্ট্রিম মানের দেখান</string>
+    <string name="ext_player_copy_clipboard">শুধুমাত্র ক্লিপবোর্ডে লিঙ্ক অনুলিপি করুন</string>
+    <string name="premium_fea_mult_prov">বিভিন্ন প্রদানকারীর একই সময়ে ব্যবহার করার অনুমতি দেয়</string>
+    <string name="btn_add_provider">প্রদানকারী যোগ করুন</string>
+    <string name="btn_provider_edit">সম্পাদন করা</string>
+    <string name="btn_provider_delete">মুছে ফেলা</string>
+    <string name="provider_playlist">প্লেলিস্ট</string>
+    <string name="provider_playlist_file">ফাইল থেকে প্লেলিস্ট</string>
+    <string name="premium_fea_tv_guide">একটি স্প্রেডশীট হিসাবে টিভি প্রোগ্রাম দেখুন</string>
+    <string name="provider_field_name">নাম</string>
+    <string name="provider_field_url">ইউআরএল ঠিকানা</string>
+    <string name="provider_field_login">লগইন</string>
+    <string name="provider_field_pass">পাসওয়ার্ড</string>
+    <string name="provider_field_token">অ্যাক্সেস টোকেন</string>
+    <string name="provider_field_server">সার্ভার</string>
+    <string name="provider_field_active">সক্রিয়</string>
+    <string name="cfg_prov_categories_merge">বিভিন্ন প্রদানকারীর থেকে বিভাগ</string>
+    <string name="cfg_prov_categories_merge_prepend">প্রদানকারী নাম সঙ্গে বিভাগ প্রস্তুত</string>
+    <string name="cfg_prov_categories_merge_mix">নাম মিললে বিভাগ মার্জ করুন</string>
+    <string name="cfg_prov_categories_merge_append">বিভাগের নাম প্রদানকারী নাম যোগ করুন</string>
+    <string name="cfg_codec_exo_q">হার্ডওয়্যার কোডেক মানের</string>
+    <string name="cfg_codec_exo_max">সেরা ম্যাচ</string>
+    <string name="cfg_codec_exo_compat">সামঞ্জস্য মোড</string>
 </resources>

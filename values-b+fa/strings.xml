@@ -10,7 +10,6 @@
     <string name="menu_archive">آرشیو نشان می دهد</string>
     <string name="menu_vod">کتابخانه ویدیویی</string>
     <string name="menu_settings">تنظیمات</string>
-    <string name="menu_qs_provider">ارائه کننده سوئیچ</string>
     <string name="menu_error_require_provider_title">ارائه دهنده OTT مورد نیاز است</string>
     <string name="menu_error_require_provider_text">این ناحیه تنها در زمانی که پیکربندی OTT پیکربندی شده است، در دسترس است. هر گزینه دیگری را انتخاب کنید یا یک ارائه دهنده را پیکربندی کنید.</string>
     <string name="menu_error_require_provider_button">پیکربندی ارائه دهنده</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">جریان قابل دسترسی نیست (نمی تواند وصل شود) با ارائه دهنده خود تماس بگیرید</string>
     <string name="error_stream_not_reachable_no_resource">جریان قابل دسترسی نیست با ارائه دهنده خود تماس بگیرید</string>
     <string name="error_stream_not_reachable_forbidden">دسترسی ممنوع (کلید نادرست؟) با ارائه دهنده خود تماس بگیرید</string>
-    <string name="error_archive_not_supported">ارائه دهنده شما بایگانی را پشتیبانی نمی کند</string>
     <string name="error_archive_not_supported_this_channel">ارائه دهنده شما آرشیو را برای این کانال ارائه نمی کند</string>
     <string name="error_search_nothing_found">هیچ چیزی با جستجوی جستجوی شما مطابقت ندارد</string>
     <string name="error_search_too_much_found">نتایج بسیار زیاد، جستجوی کوتاه است</string>
@@ -121,21 +119,14 @@
     <string name="hint_video_codecs">اگر منبع بد بازی می کند، می توانید سایز بافر در تنظیمات را افزایش دهید، به رمزگشای دیگری (سخت افزار یا نرم افزار) بروید یا اگر هر چیزی نتواند، پیکربندی کنید که از پخش کننده خارجی برای پخش استفاده کنید.</string>
     <string name="hint_auto_turn_off">شما می توانید پس از یک زمان بیکار خاموش کردن جریان خودکار را غیرفعال کنید (مفید هنگامی که هر دقیقه در صورتحساب). بیدار به این معنی عملکردهای پخش کننده (به عنوان مثال: منو، جستجو، مکث و غیره) است.</string>
 
-    <string name="settings_provider_select_type">ارائه دهنده سرویس OTT / IPTV را انتخاب کنید</string>
     <string name="settings_provider_select_type_intro1">توجه: برای استفاده از این نرم افزار شما نیاز به یک ارائه دهنده OTT / IPTV دارید.</string>
     <string name="settings_provider_select_type_intro2">برنامه تنها با لیست پخش ارائه شده توسط کاربر کار می کند</string>
-    <string name="settings_provider_select_type_intro3">ارائه دهنده منتخب فعلی:</string>
-    <string name="settings_provider_select_key">کلید تأیید ارائه دهنده</string>
-    <string name="settings_provider_select_url">URL آدرس پخش کننده ارائه دهنده</string>
     <string name="settings_provider_select_apply">درخواست دادن</string>
     <string name="settings_provider_select_return">برگشت</string>
     <string name="settings_provider_select_prompt_public_playlist_key">کلید عمومی لیست پخش</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">ورود و رمز عبور استاکر</string>
     <string name="settings_provider_select_prompt_lp">نام کاربری و رمز عبور شما</string>
 
-    <string name="settings_provider_select_status1">داده های ارائه دهنده در حال بارگیری است</string>
-    <string name="settings_provider_select_status2">لطفا صبور باشید و روی صفحه نمایش بمانید.</string>
-    <string name="settings_provider_select_status3">این ممکن است 2-3 دقیقه طول بکشد.</string>
     <string name="settings_provider_select_status_error">خطای پیکربندی داده بارگیری نشد</string>
     <string name="settings_provider_select_status_success">تنظیم با موفقیت انجام شد</string>
 
@@ -166,7 +157,6 @@
     <string name="play_switch_codec">کدک را عوض کنید</string>
     <string name="play_switch_codec_details">جریان بار را از طریق رمزگشای مختلف</string>
     <string name="play_switch_codec_hard">استفاده از کدک های سخت افزاری</string>
-    <string name="play_switch_codec_ffmpeg">از ffmpeg نرم افزار استفاده کنید</string>
     <string name="play_switch_codec_vlc">از VLC نرم افزار استفاده کنید</string>
     <string name="play_switch_codec_ext">باز در بازیکن خارجی</string>
     <string name="disk_is_full">ذخیره سازی کامل است پاک کردن برخی از فضا.</string>
@@ -281,14 +271,10 @@
 
     <string name="settings_codec">تنظیمات کدک ها</string>
     <string name="settings_codec_hard">همیشه از کدک های سخت افزاری استفاده کنید</string>
-    <string name="settings_codec_soft_ijk">همیشه از کدک های ffmpeg نرم افزار استفاده کنید</string>
     <string name="settings_codec_soft_vlc">همیشه از کدک های VLC نرم افزار استفاده کنید</string>
     <string name="settings_codec_external">همیشه از پخش کننده خارجی استفاده کنید</string>
 
     <string name="settings_epg">EPG teleguide</string>
-
-    <string name="settings_live_extra_m3u_source_1">لیست پخش اضافی 1 m3u</string>
-    <string name="settings_live_extra_m3u_source_2">لیست پخش اضافی 2 m3u</string>
 
     <string name="settings_external_player">پخش خارجی (سعی کنید همه به طور پیش فرض)</string>
 
@@ -302,12 +288,10 @@
     <string name="settings_premium_what_included_2">گزینه ای برای بازگشت به آخرین کانال پخش شده</string>
     <string name="settings_premium_what_included_3">تغییر فریم نرخ خودکار برای مطابقت با ویدئو</string>
     <string name="settings_premium_what_included_4">کنترل سرعت پخش برای آرشیوها</string>
-    <string name="settings_premium_what_included_7">سوئیچ سریع بین ارائه دهندگان پیکربندی شده</string>
 
     <string name="settings_premium_toggles">تنظیمات حق بیمه</string>
     <string name="settings_premium_toggles_try_afr">تغییر نرخ فریم اتوماتیک برای مطابقت با ویدئو</string>
     <string name="settings_premium_toggles_try_afr_toast">صفحه نمایش کنونی پشتیبانی می کند نرخ بازشو</string>
-    <string name="settings_premium_toggles_provider_qs">نمایش دهنده سریع سوئیچ در منو</string>
 
     <string name="settings_premium_toggle_btn_title">ویژگی های حق بیمه را فعال کنید</string>
     <string name="settings_premium_toggle_btn_sub_add">اشتراک در</string>
@@ -453,7 +437,6 @@
     <string name="prov_help_contact_via_email">از طریق ایمیل با توسعه دهنده تماس بگیرید</string>
     <string name="prov_help_provide_more_info">پیام خود را به برنامه نویس بنویسید</string>
     <string name="hint_help_locale">شما می توانید به بهبود ترجمه آنلاین کمک کنید</string>
-    <string name="cfg_allow_dup_ch">کانال های تکراری را نگه دارید</string>
     <string name="cfg_time_imp">فرمت زمان امپراتوری (AM / PM) را استفاده کنید</string>
     <string name="hud_short_seeking">به دنبال</string>
     <string name="cfg_player_clock_tr">گوشه بالا سمت راست</string>
@@ -497,4 +480,33 @@
     <string name="cfg_player_hide_menu">زمان برای مخفی کردن منو (در ثانیه)</string>
     <string name="choose_auto">به صورت خودکار انتخاب کنید</string>
     <string name="cfg_stream_tech">تکنولوژی جریان (در صورت وجود)</string>
+
+    <string name="btn_schedule_provider_vod_load">کتابخانه رسانه ارائه دهنده مجدد (در صورت ارائه)</string>
+    <string name="cfg_show_ch_numbers">نمایش شماره کانال</string>
+    <string name="always">همیشه</string>
+    <string name="cfg_play_action_sinfo">اطلاعات فعلی در مورد برنامه تلویزیونی فعلی را مشاهده کنید</string>
+    <string name="menu_tv_guide">راهنمای تلویزیون</string>
+    <string name="cfg_stream_q">نمایش کیفیت جریان</string>
+    <string name="ext_player_copy_clipboard">فقط کپی لینک به کلیپ بورد</string>
+    <string name="premium_fea_mult_prov">به چندین ارائه دهنده اجازه می دهد تا همزمان استفاده شود</string>
+    <string name="btn_add_provider">افزودن ارائه دهنده</string>
+    <string name="btn_provider_edit">ویرایش کنید</string>
+    <string name="btn_provider_delete">حذف</string>
+    <string name="provider_playlist">لیست پخش</string>
+    <string name="provider_playlist_file">لیست پخش از فایل</string>
+    <string name="premium_fea_tv_guide">برنامه تلویزیون را به عنوان یک صفحه گسترده مشاهده کنید</string>
+    <string name="provider_field_name">نام</string>
+    <string name="provider_field_url">نشانی اینترنتی</string>
+    <string name="provider_field_login">ورود</string>
+    <string name="provider_field_pass">کلمه عبور</string>
+    <string name="provider_field_token">نشانه دسترسی</string>
+    <string name="provider_field_server">سرور</string>
+    <string name="provider_field_active">فعال</string>
+    <string name="cfg_prov_categories_merge">دسته بندی ها از ارائه دهندگان مختلف</string>
+    <string name="cfg_prov_categories_merge_prepend">لیست را با نام ارائه دهنده اضافه کنید</string>
+    <string name="cfg_prov_categories_merge_mix">دسته بندی را با هم ترکیب کنید</string>
+    <string name="cfg_prov_categories_merge_append">افزودن نام ارائه دهنده به نام رده</string>
+    <string name="cfg_codec_exo_q">کیفیت کدک سخت افزاری</string>
+    <string name="cfg_codec_exo_max">بهترین مسابقه</string>
+    <string name="cfg_codec_exo_compat">حالت سازگاری</string>
 </resources>

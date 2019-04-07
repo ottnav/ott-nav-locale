@@ -10,7 +10,6 @@
     <string name="menu_archive">ਆਰਕਾਈਵ ਦਿਖਾਉਂਦਾ ਹੈ</string>
     <string name="menu_vod">ਵੀਡੀਓ ਲਾਇਬ੍ਰੇਰੀ</string>
     <string name="menu_settings">ਸੈਟਿੰਗਾਂ</string>
-    <string name="menu_qs_provider">ਸਵਿਚ ਪ੍ਰਦਾਤਾ</string>
     <string name="menu_error_require_provider_title">ਓ ਟੀ ਟੀ ਪ੍ਰਦਾਤਾ ਦੀ ਲੋੜ ਹੈ</string>
     <string name="menu_error_require_provider_text">ਇਹ ਜ਼ਿਲ੍ਹਾ ਸਿਰਫ ਉਦੋਂ ਉਪਲਬਧ ਹੁੰਦਾ ਹੈ ਜਦੋਂ OTT ਪ੍ਰਦਾਤਾ ਨੂੰ ਕੌਂਫਿਗਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ. ਜਾਂ ਤਾਂ ਇਕ ਹੋਰ ਵਿਕਲਪ ਦਾ ਚੋਣ ਕਰੋ, ਜਾਂ ਪ੍ਰਦਾਤਾ ਦੀ ਸੰਰਚਨਾ ਕਰੋ.</string>
     <string name="menu_error_require_provider_button">ਪ੍ਰਦਾਤਾ ਨੂੰ ਕੌਂਫਿਗਰ ਕਰੋ</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">ਸਟ੍ਰੀਮ ਪਹੁੰਚਣਯੋਗ ਨਹੀਂ ਹੈ (ਕਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦੇ) ਆਪਣੇ ਪ੍ਰਦਾਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</string>
     <string name="error_stream_not_reachable_no_resource">ਸਟ੍ਰੀਮ ਪਹੁੰਚਣਯੋਗ ਨਹੀਂ ਹੈ ਆਪਣੇ ਪ੍ਰਦਾਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</string>
     <string name="error_stream_not_reachable_forbidden">ਪਹੁੰਚ ਪਾਬੰਦੀ (ਗਲਤ ਕੁੰਜੀ?). ਆਪਣੇ ਪ੍ਰਦਾਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</string>
-    <string name="error_archive_not_supported">ਤੁਹਾਡਾ ਪ੍ਰਦਾਤਾ ਪੁਰਾਲੇਖਾਂ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ</string>
     <string name="error_archive_not_supported_this_channel">ਤੁਹਾਡਾ ਪ੍ਰਦਾਤਾ ਇਸ ਚੈਨਲ ਲਈ ਪੁਰਾਲੇਖ ਮੁਹੱਈਆ ਨਹੀਂ ਕਰਦਾ</string>
     <string name="error_search_nothing_found">ਤੁਹਾਡੀ ਖੋਜ ਪੁੱਛ-ਗਿੱਛ ਨਾਲ ਕੁਝ ਵੀ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ</string>
     <string name="error_search_too_much_found">ਬਹੁਤ ਜ਼ਿਆਦਾ ਨਤੀਜੇ, ਖੋਜ ਵੱਢੇ ਗਏ</string>
@@ -121,21 +119,14 @@
     <string name="hint_video_codecs">ਜੇ ਸਰੋਤ ਬੁਰੀ ਤਰ੍ਹਾਂ ਖੇਡ ਰਿਹਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬਫਰ ਦੇ ਸਾਈਜ਼ ਨੂੰ ਵਧਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ, ਕਿਸੇ ਹੋਰ ਸਟ੍ਰੀਮ ਡੀਕੋਡਰ (ਹਾਰਡਵੇਅਰ ਜਾਂ ਸੌਫਟਵੇਅਰ) ਤੇ ਸਵਿੱਚ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਜੇ ਕੁਝ ਵੀ ਅਸਫਲ ਹੋ ਜਾਂਦਾ ਹੈ, ਤਾਂ ਪਲੇਬੈਕ ਲਈ ਇੱਕ ਬਾਹਰੀ ਪਲੇਅਰ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਕਨਫਿਗਰ ਕਰੋ.</string>
     <string name="hint_auto_turn_off">ਤੁਸੀਂ ਕੁਝ ਵਿਹਲੇ ਸਮੇਂ ਤੋਂ ਬਾਅਦ ਆਟੋਮੈਟਿਕ ਸਟ੍ਰੀਮ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ (ਲਾਭਦਾਇਕ ਜਦੋਂ ਪ੍ਰਤੀ ਮਿੰਟ ਬਿਲ). ਵਿਹਲਾ ਹੋਣ ਦਾ ਮਤਲਬ ਹੈ ਕਿ ਕੋਈ ਵੀ ਖਿਡਾਰੀ ਕਾਰਵਾਈ ਨਹੀਂ ਕਰਦਾ (ਉਦਾਹਰਨ ਲਈ: ਮੀਨੂ, ਭਾਲ, ਰੋਕੋ, ਆਦਿ)</string>
 
-    <string name="settings_provider_select_type">ਓ.ਟੀ.ਟੀ. / ਆਈ ਪੀ ਟੀਵੀ ਪ੍ਰਦਾਤਾ ਚੁਣੋ</string>
     <string name="settings_provider_select_type_intro1">ਨੋਟ: ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਇੱਕ OTT / IPTV ਪ੍ਰਦਾਤਾ ਦੀ ਲੋੜ ਹੈ.</string>
     <string name="settings_provider_select_type_intro2">ਐਪਲੀਕੇਸ਼ਨ ਸਿਰਫ਼ ਉਪਭੋਗਤਾ ਦੁਆਰਾ ਪ੍ਰਦਾਨ ਕੀਤੀ ਪਲੇਲਿਸਟਸ ਨਾਲ ਹੀ ਕੰਮ ਕਰਦਾ ਹੈ.</string>
-    <string name="settings_provider_select_type_intro3">ਵਰਤਮਾਨ ਵਿੱਚ ਚੁਣੇ ਪ੍ਰਦਾਤਾ:</string>
-    <string name="settings_provider_select_key">ਪ੍ਰਦਾਤਾ ਦੀ ਪ੍ਰਮਾਣਿਕਤਾ ਕੁੰਜੀ</string>
-    <string name="settings_provider_select_url">ਪ੍ਰਦਾਤਾ ਪਲੇਲਿਸਟ URL ਪਤੇ</string>
     <string name="settings_provider_select_apply">ਲਾਗੂ ਕਰੋ</string>
     <string name="settings_provider_select_return">ਵਾਪਸੀ</string>
     <string name="settings_provider_select_prompt_public_playlist_key">ਪਲੇਲਿਸਟ ਦੀ ਪਬਲਿਕ ਕੁੰਜੀ</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">ਸਟਾਲਕਰ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ</string>
     <string name="settings_provider_select_prompt_lp">ਤੁਹਾਡਾ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ</string>
 
-    <string name="settings_provider_select_status1">ਪ੍ਰਦਾਤਾ ਡੇਟਾ ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ.</string>
-    <string name="settings_provider_select_status2">ਕਿਰਪਾ ਕਰਕੇ ਸਬਰ ਕਰੋ ਅਤੇ ਸਕ੍ਰੀਨ ਤੇ ਰਹੋ.</string>
-    <string name="settings_provider_select_status3">ਇਸ ਨੂੰ 2-3 ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ</string>
     <string name="settings_provider_select_status_error">ਸੰਰਚਨਾ ਗਲਤੀ. ਡਾਟਾ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
     <string name="settings_provider_select_status_success">ਸੈੱਟ ਕਰਨਾ ਸਫਲਤਾਪੂਰਵਕ ਲਾਗੂ ਕੀਤਾ ਗਿਆ</string>
 
@@ -166,7 +157,6 @@
     <string name="play_switch_codec">ਕੋਡਿਕ ਸਵਿੱਚ ਕਰੋ</string>
     <string name="play_switch_codec_details">ਵੱਖਰੇ ਡੀਕੋਡਰ ਦੁਆਰਾ ਸਟਰੀਮ ਲੋਡ ਕਰੋ</string>
     <string name="play_switch_codec_hard">ਹਾਰਡਵੇਅਰ ਕੋਡੈਕਸ ਵਰਤੋ</string>
-    <string name="play_switch_codec_ffmpeg">ਸਾਫਟਵੇਅਰ ffmpeg ਵਰਤੋਂ</string>
     <string name="play_switch_codec_vlc">ਸਾਫਟਵੇਅਰ ਵੀਐੱਲ ਸੀ ਵਰਤੋਂ</string>
     <string name="play_switch_codec_ext">ਬਾਹਰੀ ਪਲੇਅਰ ਵਿਚ ਖੋਲ੍ਹੋ</string>
     <string name="disk_is_full">ਸਟੋਰੇਜ ਪੂਰੀ ਹੈ ਕੁਝ ਥਾਂ ਸਾਫ ਕਰੋ.</string>
@@ -281,14 +271,10 @@
 
     <string name="settings_codec">ਕੋਡੈਕਸ ਸੈਟਿੰਗ</string>
     <string name="settings_codec_hard">ਹਮੇਸ਼ਾਂ ਹਾਰਡਵੇਅਰ ਕੋਡੈਕਸ ਵਰਤੋ</string>
-    <string name="settings_codec_soft_ijk">ਹਮੇਸ਼ਾ ਸਾਫਟਵੇਅਰ ffmpeg codecs ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="settings_codec_soft_vlc">ਹਮੇਸ਼ਾ ਸਾਫਟਵੇਅਰ ਵੀਐਲਸੀ ਕੋਡੈਕਸ ਵਰਤੋ</string>
     <string name="settings_codec_external">ਹਮੇਸ਼ਾਂ ਬਾਹਰੀ ਪਲੇਅਰ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
 
     <string name="settings_epg">ਈਪੀਜੀ ਟੈਲੀਗੁਇਡ</string>
-
-    <string name="settings_live_extra_m3u_source_1">ਵਾਧੂ m3u 1 ਸਰੋਤ ਪਲੇਲਿਸਟ</string>
-    <string name="settings_live_extra_m3u_source_2">ਵਾਧੂ m3u 2 ਸਰੋਤ ਪਲੇਲਿਸਟ</string>
 
     <string name="settings_external_player">ਬਾਹਰੀ ਪਲੇਅਰ (ਡਿਫਾਲਟ ਦੁਆਰਾ ਸਾਰੇ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ)</string>
 
@@ -302,12 +288,10 @@
     <string name="settings_premium_what_included_2">ਅਖੀਰ ਖੇਡੇ ਗਏ ਚੈਨਲ ਤੇ ਵਾਪਸ ਜਾਣ ਦਾ ਵਿਕਲਪ</string>
     <string name="settings_premium_what_included_3">ਵੀਡੀਓ ਨੂੰ ਮੇਲ ਕਰਨ ਲਈ ਆਟੋਮੈਟਿਕ ਫ੍ਰੇਮ ਰੇਟ ਸਵਿਚ ਕਰਨਾ</string>
     <string name="settings_premium_what_included_4">ਆਰਕਾਈਵਜ਼ ਲਈ ਪਲੇਬੈਕ ਸਪੀਡ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨਾ</string>
-    <string name="settings_premium_what_included_7">ਕਈ ਸੰਰਚਿਤ ਪ੍ਰਦਾਤਾਵਾਂ ਵਿਚਕਾਰ ਤੇਜ਼ ਸਵਿੱਚਾਂ</string>
 
     <string name="settings_premium_toggles">ਪ੍ਰੀਮੀਅਮ ਸੈਟਿੰਗਜ਼</string>
     <string name="settings_premium_toggles_try_afr">ਵੀਡੀਓ ਨੂੰ ਮੇਲ ਕਰਨ ਲਈ ਆਟੋ-ਸਵਿਚ ਫ੍ਰੇਮ ਰੇਟ</string>
     <string name="settings_premium_toggles_try_afr_toast">ਮੌਜੂਦਾ ਡਿਸਪਲੇਅ ਸਮਰਪਿਤ ਤਾਜ਼ਾ ਦਰ</string>
-    <string name="settings_premium_toggles_provider_qs">ਪ੍ਰਦਾਤਾ ਤੇਜ਼ ਮੀਨੂ ਵਿੱਚ ਤੇਜ਼ ਸਵਿੱਚ ਦਿਖਾਓ</string>
 
     <string name="settings_premium_toggle_btn_title">ਪ੍ਰੀਮੀਅਮ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
     <string name="settings_premium_toggle_btn_sub_add">ਮੈਂਬਰ ਬਣੋ</string>
@@ -452,7 +436,6 @@
     <string name="prov_help_contact_via_email">ਈ ਮੇਲ ਰਾਹੀਂ ਸੰਪਰਕ ਡਿਵੈਲਪਰ</string>
     <string name="prov_help_provide_more_info">ਆਪਣਾ ਸੁਨੇਹਾ ਡਿਵੈਲਪਰ ਨੂੰ ਲਿੱਖੋ</string>
     <string name="hint_help_locale">ਤੁਸੀਂ ਆਨਲਾਈਨ ਅਨੁਵਾਦ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿਚ ਸਹਾਇਤਾ ਕਰ ਸਕਦੇ ਹੋ</string>
-    <string name="cfg_allow_dup_ch">ਡੁਪਲੀਕੇਟ ਚੈਨਲਾਂ ਨੂੰ ਰੱਖੋ</string>
     <string name="cfg_time_imp">ਸਾਮਰਾਜ ਦੇ ਸਮੇਂ ਦਾ ਫਾਰਮੈਟ ਵਰਤੋ (ਸਵੇਰੇ / ਸ਼ਾਮ)</string>
     <string name="hud_short_seeking">ਭਾਲ</string>
     <string name="cfg_player_clock_tr">ਚੋਟੀ ਦੇ ਸੱਜੇ ਕੋਨੇ</string>
@@ -496,4 +479,33 @@
     <string name="cfg_player_hide_menu">ਮੇਨੂ ਲੁਕਾਉਣ ਲਈ ਟਾਈਮਆਉਟ (ਸਕਿੰਟਾਂ ਵਿੱਚ)</string>
     <string name="choose_auto">ਆਪਣੇ ਆਪ ਹੀ ਚੁਣੋ</string>
     <string name="cfg_stream_tech">ਸਟ੍ਰੀਮ ਤਕਨਾਲੋਜੀ (ਜੇ ਉਪਲੱਬਧ ਹੋਵੇ)</string>
+
+    <string name="btn_schedule_provider_vod_load">ਪ੍ਰਦਾਤਾ ਮਾਧਿਅਮ ਲਾਇਬ੍ਰੇਰੀ ਮੁੜ ਲੋਡ ਕਰੋ (ਜੇ ਪ੍ਰਦਾਨ ਕੀਤੀ ਜਾਂਦੀ ਹੈ)</string>
+    <string name="cfg_show_ch_numbers">ਚੈਨਲ ਨੰਬਰ ਦਿਖਾਓ</string>
+    <string name="always">ਹਮੇਸ਼ਾ</string>
+    <string name="cfg_play_action_sinfo">ਮੌਜੂਦਾ ਟੀਵੀ ਪ੍ਰੋਗਰਾਮ ਬਾਰੇ ਮੌਜੂਦਾ ਜਾਣਕਾਰੀ ਵੇਖੋ</string>
+    <string name="menu_tv_guide">ਟੀਵੀ ਗਾਈਡ</string>
+    <string name="cfg_stream_q">ਸਟ੍ਰੀਮ ਕੁਆਲਿਟੀ ਦਿਖਾਓ</string>
+    <string name="ext_player_copy_clipboard">ਸਿਰਫ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ</string>
+    <string name="premium_fea_mult_prov">ਕਈ ਪ੍ਰਦਾਤਾਵਾਂ ਨੂੰ ਇੱਕੋ ਸਮੇਂ ਵਰਤਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ</string>
+    <string name="btn_add_provider">ਪ੍ਰਦਾਤਾ ਜੋੜੋ</string>
+    <string name="btn_provider_edit">ਸੰਪਾਦਿਤ ਕਰੋ</string>
+    <string name="btn_provider_delete">ਮਿਟਾਓ</string>
+    <string name="provider_playlist">ਪਲੇਲਿਸਟ</string>
+    <string name="provider_playlist_file">ਫਾਈਲ ਤੋਂ ਪਲੇਲਿਸਟ</string>
+    <string name="premium_fea_tv_guide">ਇੱਕ ਸਪ੍ਰੈਡਸ਼ੀਟ ਦੇ ਤੌਰ ਤੇ TV ਪ੍ਰੋਗਰਾਮ ਦੇਖੋ</string>
+    <string name="provider_field_name">ਨਾਮ</string>
+    <string name="provider_field_url">URL ਐਡਰੈੱਸ</string>
+    <string name="provider_field_login">ਲਾਗਿਨ</string>
+    <string name="provider_field_pass">ਪਾਸਵਰਡ</string>
+    <string name="provider_field_token">ਪਹੁੰਚ ਟੋਕਨ</string>
+    <string name="provider_field_server">ਸਰਵਰ</string>
+    <string name="provider_field_active">ਕਿਰਿਆਸ਼ੀਲ</string>
+    <string name="cfg_prov_categories_merge">ਵੱਖਰੇ ਪ੍ਰਦਾਤਾਵਾਂ ਤੋਂ ਵਰਗ</string>
+    <string name="cfg_prov_categories_merge_prepend">ਪ੍ਰਦਾਤਾ ਨਾਮ ਨਾਲ ਸ਼੍ਰੇਣੀ ਪ੍ਰੀਡ ਕਰੋ</string>
+    <string name="cfg_prov_categories_merge_mix">ਜੇ ਨਾਮ ਮੇਲ ਖਾਂਦੇ ਹੋਣ ਤਾਂ ਸ਼੍ਰੇਣੀਆਂ ਨੂੰ ਮਿਲਾਓ</string>
+    <string name="cfg_prov_categories_merge_append">ਸ਼੍ਰੇਣੀ ਨਾਮ ਨੂੰ ਪ੍ਰਦਾਤਾ ਨਾਮ ਜੋੜੋ</string>
+    <string name="cfg_codec_exo_q">ਹਾਰਡਵੇਅਰ ਕੋਡਕ ਗੁਣਵੱਤਾ</string>
+    <string name="cfg_codec_exo_max">ਵਧੀਆ ਮੈਚ</string>
+    <string name="cfg_codec_exo_compat">ਅਨੁਕੂਲਤਾ ਮੋਡ</string>
 </resources>

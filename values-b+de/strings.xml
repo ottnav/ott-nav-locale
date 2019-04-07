@@ -10,7 +10,6 @@
     <string name="menu_archive">Archiv</string>
     <string name="menu_vod">Videothek</string>
     <string name="menu_settings">Einstellungen</string>
-    <string name="menu_qs_provider">Anbieter wechseln</string>
     <string name="menu_error_require_provider_title">IPTV-Anbieter erforderlich</string>
     <string name="menu_error_require_provider_text">Dieser Bereich ist nur verfügbar, wenn der IPTV-Anbieter eingestellt ist. Wählen Sie entweder eine andere Option oder stellen Sie einen Anbieter ein.</string>
     <string name="menu_error_require_provider_button">Anbieter einstellen</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">Stream nicht erreichbar (keine Verbindung möglich). Kontaktieren Sie Ihren Anbieter</string>
     <string name="error_stream_not_reachable_no_resource">Stream nicht erreichbar. Kontaktieren Sie Ihren Anbieter</string>
     <string name="error_stream_not_reachable_forbidden">Zugriff verweigert (falscher Schlüssel?). Kontaktieren Sie Ihren Anbieter</string>
-    <string name="error_archive_not_supported">Ihr Anbieter unterstützt keine Archive</string>
     <string name="error_archive_not_supported_this_channel">Ihr Anbieter stellt keine Archive für diesen Kanal zur Verfügung</string>
     <string name="error_search_nothing_found">Nichts entspricht Ihrer Suchanfrage</string>
     <string name="error_search_too_much_found">Zu viele Ergebnisse, Suche abgebrochen</string>
@@ -121,21 +119,14 @@
     <string name="hint_video_codecs">Wenn die Quelle schlecht wiedergegeben wird, können Sie versuchen, die Puffergröße in den Einstellungen zu erhöhen, zu einem anderen Stream-Decoder (Hardware oder Software) wechseln oder einen externen Player für die Wiedergabe verwenden.</string>
     <string name="hint_auto_turn_off">Sie können die automatische Stromabschaltung nach einer gewissen Leerlaufzeit konfigurieren (nützlich, wenn Tarif pro Minute abgerechnet wird). Leerlaufzeit bedeutet, dass keine Playerfunkionen verwendet wurden (z.B. Menü, Suchen, Pause usw.).</string>
 
-    <string name="settings_provider_select_type">Wählen Sie IPTV-Anbieter aus</string>
     <string name="settings_provider_select_type_intro1">HINWEIS: Sie benötigen einen IPTV-Anbieter, um diese Anwendung zu verwenden.</string>
     <string name="settings_provider_select_type_intro2">Die Anwendung funktioniert nur mit vom Benutzer bereitgestellten Playlisten.</string>
-    <string name="settings_provider_select_type_intro3">IPTV-Anbieter auswählen</string>
-    <string name="settings_provider_select_key">Anbieterautorisierungsschlüssel</string>
-    <string name="settings_provider_select_url">URL-Adresse der Anbieter-Playliste</string>
     <string name="settings_provider_select_apply">Anwenden</string>
     <string name="settings_provider_select_return">Zurück</string>
     <string name="settings_provider_select_prompt_public_playlist_key">Öffentlicher Schlüssel der Wiedergabeliste</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">Stalker Login und Passwort</string>
     <string name="settings_provider_select_prompt_lp">Ihr Login und Passwort</string>
 
-    <string name="settings_provider_select_status1">Anbieterdaten werden geladen.</string>
-    <string name="settings_provider_select_status2">Bitte haben Sie etwas Geduld und schalten Sie nicht um</string>
-    <string name="settings_provider_select_status3">Dies kann 2–3 Minuten dauern.</string>
     <string name="settings_provider_select_status_error">Konfigurationsfehler. Fehler beim Laden der Daten</string>
     <string name="settings_provider_select_status_success">Die Einstellung wurde erfolgreich angewendet</string>
 
@@ -166,7 +157,6 @@
     <string name="play_switch_codec">Codec wechseln</string>
     <string name="play_switch_codec_details">Laden Sie den Stream über einen anderen Decoder</string>
     <string name="play_switch_codec_hard">Hardware-Codecs verwenden</string>
-    <string name="play_switch_codec_ffmpeg">Software ffmpeg verwenden</string>
     <string name="play_switch_codec_vlc">Software VLC verwenden</string>
     <string name="play_switch_codec_ext">Im externen Player öffnen</string>
     <string name="disk_is_full">Speicher ist voll. Bitte freimachen.</string>
@@ -281,14 +271,10 @@
 
     <string name="settings_codec">Codecseinstellungen</string>
     <string name="settings_codec_hard">Verwenden Sie immer Hardware-Codecs</string>
-    <string name="settings_codec_soft_ijk">Verwenden Sie immer Software-ffmpeg-Codecs</string>
     <string name="settings_codec_soft_vlc">Verwenden Sie immer Software-VLC-Codecs</string>
     <string name="settings_codec_external">Verwenden Sie immer einen externen Player</string>
 
     <string name="settings_epg">EPG-Programmführer</string>
-
-    <string name="settings_live_extra_m3u_source_1">Zusätzliche M3u-Playliste #1</string>
-    <string name="settings_live_extra_m3u_source_2">Zusätzliche M3u-Playliste #2</string>
 
     <string name="settings_external_player">Externer Player festlegen</string>
 
@@ -302,12 +288,10 @@
     <string name="settings_premium_what_included_2">Option, um zum zuletzt abgespielten Kanal zurückzukehren</string>
     <string name="settings_premium_what_included_3">Automatische Anpassung der Bildwiederholrate </string>
     <string name="settings_premium_what_included_4">Wiedergabegeschwindigkeit für Archive steuern</string>
-    <string name="settings_premium_what_included_7">Schneller Wechsel zwischen mehreren voreingestellten Anbietern</string>
 
     <string name="settings_premium_toggles">Premium-Einstellungen</string>
     <string name="settings_premium_toggles_try_afr">Automatische Anpassung der Bildwiederholrate</string>
     <string name="settings_premium_toggles_try_afr_toast">Aktuelle Anzeige unterstützt Bildwiederholrate</string>
-    <string name="settings_premium_toggles_provider_qs">Anbieterwechsel-Icon im Menü anzeigen</string>
 
     <string name="settings_premium_toggle_btn_title">Aktivieren Sie Premium-Funktionen</string>
     <string name="settings_premium_toggle_btn_sub_add">Abonnieren</string>
@@ -451,7 +435,6 @@
     <string name="prov_help_contact_via_email">Kontaktieren Sie den Entwickler per E-Mail</string>
     <string name="prov_help_provide_more_info">Schreiben Sie Ihre Nachricht an den Entwickler</string>
     <string name="hint_help_locale">Sie können dazu beitragen, die Übersetzung online zu verbessern</string>
-    <string name="cfg_allow_dup_ch">Behalten Sie doppelte Kanäle bei</string>
     <string name="cfg_time_imp">Imperiales Zeitformat verwenden (am / pm)</string>
     <string name="hud_short_seeking">Ich suche</string>
     <string name="cfg_player_clock_tr">obere rechte Ecke</string>
@@ -495,4 +478,33 @@
     <string name="cfg_player_hide_menu">Timeout zum Ausblenden des Menüs (in Sekunden)</string>
     <string name="choose_auto">Wählen Sie automatisch</string>
     <string name="cfg_stream_tech">Stream-Technologie (falls verfügbar)</string>
+
+    <string name="btn_schedule_provider_vod_load">Provider-Medienbibliothek neu laden (falls vorhanden)</string>
+    <string name="cfg_show_ch_numbers">Kanalnummern anzeigen</string>
+    <string name="always">immer</string>
+    <string name="cfg_play_action_sinfo">Aktuelle Informationen zum aktuellen TV-Programm anzeigen</string>
+    <string name="menu_tv_guide">Fernsehprogramm</string>
+    <string name="cfg_stream_q">Streamqualität anzeigen</string>
+    <string name="ext_player_copy_clipboard">Link nur in die Zwischenablage kopieren</string>
+    <string name="premium_fea_mult_prov">Ermöglicht die gleichzeitige Verwendung mehrerer Anbieter</string>
+    <string name="btn_add_provider">Anbieter hinzufügen</string>
+    <string name="btn_provider_edit">Bearbeiten</string>
+    <string name="btn_provider_delete">Löschen</string>
+    <string name="provider_playlist">Wiedergabeliste</string>
+    <string name="provider_playlist_file">Wiedergabeliste aus Datei</string>
+    <string name="premium_fea_tv_guide">Fernsehprogramm als Tabelle anzeigen</string>
+    <string name="provider_field_name">Name</string>
+    <string name="provider_field_url">URL-Adresse</string>
+    <string name="provider_field_login">Anmeldung</string>
+    <string name="provider_field_pass">Passwort</string>
+    <string name="provider_field_token">Zugangstoken</string>
+    <string name="provider_field_server">Server</string>
+    <string name="provider_field_active">Aktiv</string>
+    <string name="cfg_prov_categories_merge">Kategorien von verschiedenen Anbietern</string>
+    <string name="cfg_prov_categories_merge_prepend">Kategorie mit Anbieternamen voranstellen</string>
+    <string name="cfg_prov_categories_merge_mix">Kategorien zusammenführen, wenn der Name übereinstimmt</string>
+    <string name="cfg_prov_categories_merge_append">Anhängen des Anbieternamens an den Kategorienamen</string>
+    <string name="cfg_codec_exo_q">Hardware-Codec-Qualität</string>
+    <string name="cfg_codec_exo_max">bester Treffer</string>
+    <string name="cfg_codec_exo_compat">Kompatibilitätsmodus</string>
 </resources>

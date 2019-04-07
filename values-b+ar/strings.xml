@@ -10,7 +10,6 @@
     <string name="menu_archive">يظهر أرشيف</string>
     <string name="menu_vod">مكتبة الفيديو</string>
     <string name="menu_settings">إعدادات</string>
-    <string name="menu_qs_provider">مزود التبديل</string>
     <string name="menu_error_require_provider_title">مطلوب مزود OTT</string>
     <string name="menu_error_require_provider_text">هذا الحي متاح فقط عندما يتم تكوين مزود OTT. إما تحديد خيار آخر ، أو تكوين مزود.</string>
     <string name="menu_error_require_provider_button">تكوين الموفر</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">لا يمكن الوصول إلى البث (لا يمكن الاتصال). اتصل بمزودك</string>
     <string name="error_stream_not_reachable_no_resource">تيار لا يمكن الوصول إليه. اتصل بمزودك</string>
     <string name="error_stream_not_reachable_forbidden">رفض الوصول (مفتاح غير صحيح؟). اتصل بمزودك</string>
-    <string name="error_archive_not_supported">لا يدعم مزودك المحفوظات</string>
     <string name="error_archive_not_supported_this_channel">لا يوفر مزودك محفوظات لهذه القناة</string>
     <string name="error_search_nothing_found">لا شيء يضاهي استعلام البحث الخاص بك</string>
     <string name="error_search_too_much_found">نتائج أكثر من اللازم ، بحث مبتور</string>
@@ -122,21 +120,14 @@
     <string name="hint_auto_turn_off">يمكنك تهيئة إيقاف البث التلقائي بعد بعض الوقت الخامل (مفيد عند إعداد الفواتير لكل دقيقة). الخمول يعني عدم استخدام إجراءات لاعب (على سبيل المثال: القائمة ، البحث ، الإيقاف المؤقت ، إلخ).</string>
 
 
-    <string name="settings_provider_select_type">حدد مزود خدمات OTT / IPTV</string>
     <string name="settings_provider_select_type_intro1">ملاحظة: أنت بحاجة إلى مزود OTT / IPTV من أجل استخدام هذا التطبيق.</string>
     <string name="settings_provider_select_type_intro2">يعمل التطبيق مع قوائم التشغيل التي يوفرها المستخدم فقط.</string>
-    <string name="settings_provider_select_type_intro3">موفر مختار حاليًا:</string>
-    <string name="settings_provider_select_key">مفتاح تفويض الموفر.</string>
-    <string name="settings_provider_select_url">عنوان URL لقائمة التشغيل لموفر الخدمة.</string>
     <string name="settings_provider_select_apply">تطبيق</string>
     <string name="settings_provider_select_return">إرجاع</string>
     <string name="settings_provider_select_prompt_public_playlist_key">المفتاح العام لقائمة التشغيل</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">ستوكر تسجيل الدخول وكلمة المرور</string>
     <string name="settings_provider_select_prompt_lp">تسجيل الدخول وكلمة المرور الخاصة بك</string>
 
-    <string name="settings_provider_select_status1">يتم تحميل بيانات الموفر.</string>
-    <string name="settings_provider_select_status2">يرجى التحلي بالصبر والبقاء على الشاشة.</string>
-    <string name="settings_provider_select_status3">هذا قد يستغرق 2–3 دقائق.</string>
     <string name="settings_provider_select_status_error">خطأ في تكوين. فشل تحميل البيانات</string>
     <string name="settings_provider_select_status_success">تم تطبيق الإعداد بنجاح</string>
 
@@ -167,7 +158,6 @@
     <string name="play_switch_codec">تبديل برنامج الترميز</string>
     <string name="play_switch_codec_details">تحميل دفق عبر فك مختلف</string>
     <string name="play_switch_codec_hard">استخدم برامج ترميز</string>
-    <string name="play_switch_codec_ffmpeg">استخدم برنامج ffmpeg</string>
     <string name="play_switch_codec_vlc">استخدام برنامج VLC</string>
     <string name="play_switch_codec_ext">فتح في لاعب خارجي</string>
     <string name="disk_is_full">الذاكرة ملأى. تنظيف بعض الفضاء.</string>
@@ -282,14 +272,10 @@
 
     <string name="settings_codec">إعدادات الترميز</string>
     <string name="settings_codec_hard">استخدم دومًا برامج ترميز</string>
-    <string name="settings_codec_soft_ijk">دائما استخدام برامج ترميز ffmpeg</string>
     <string name="settings_codec_soft_vlc">استخدم دومًا برامج ترميز VLC</string>
     <string name="settings_codec_external">دائما استخدام لاعب خارجي</string>
 
     <string name="settings_epg">EPG teleguide</string>
-
-    <string name="settings_live_extra_m3u_source_1">قائمة تشغيل مصدر m3u إضافية #1</string>
-    <string name="settings_live_extra_m3u_source_2">قائمة تشغيل مصدر m3u إضافية #2</string>
 
     <string name="settings_external_player">مشغِّل خارجي (جرب كل شيء بشكل افتراضي)</string>
 
@@ -304,12 +290,9 @@
     <string name="settings_premium_what_included_3">تبديل معدل الإطار التلقائي لمطابقة الفيديو</string>
     <string name="settings_premium_what_included_4">السيطرة على سرعة التشغيل للمحفوظات</string>
 
-    <string name="settings_premium_what_included_7">التبديل السريع بين عدة مزودي تهيئة</string>
-
     <string name="settings_premium_toggles">إعدادات قسط</string>
     <string name="settings_premium_toggles_try_afr">معدل الإطار التلقائي للتبديل لمطابقة الفيديو</string>
     <string name="settings_premium_toggles_try_afr_toast">يدعم العرض الحالي معدلات التحديث</string>
-    <string name="settings_premium_toggles_provider_qs">إظهار مزود التبديل السريع في القائمة</string>
 
     <string name="settings_premium_toggle_btn_title">تمكين ميزات متميزة</string>
     <string name="settings_premium_toggle_btn_sub_add">الاشتراك</string>
@@ -453,7 +436,6 @@
     <string name="prov_help_contact_via_email">الاتصال المطور عبر البريد الإلكتروني</string>
     <string name="prov_help_provide_more_info">اكتب رسالتك إلى المطور</string>
     <string name="hint_help_locale">يمكنك المساعدة في تحسين الترجمة عبر الإنترنت</string>
-    <string name="cfg_allow_dup_ch">حافظ على القنوات المكررة</string>
     <string name="cfg_time_imp">استخدام تنسيق الوقت الإمبراطوري (am / pm)</string>
     <string name="hud_short_seeking">بحث</string>
     <string name="cfg_player_clock_tr">الزاوية العليا اليمنى</string>
@@ -497,4 +479,33 @@
     <string name="cfg_player_hide_menu">مهلة لإخفاء القائمة (بالثواني)</string>
     <string name="choose_auto">اختر تلقائيا</string>
     <string name="cfg_stream_tech">تقنية دفق (إن وجدت)</string>
+
+    <string name="btn_schedule_provider_vod_load">إعادة تحميل مكتبة وسائط الموفر (إن توفرت)</string>
+    <string name="cfg_show_ch_numbers">عرض أرقام القنوات</string>
+    <string name="always">دائما</string>
+    <string name="cfg_play_action_sinfo">عرض المعلومات الحالية حول برنامج التلفزيون الحالي</string>
+    <string name="menu_tv_guide">دليل التلفاز</string>
+    <string name="cfg_stream_q">عرض جودة الدفق</string>
+    <string name="ext_player_copy_clipboard">نسخ الرابط إلى الحافظة فقط</string>
+    <string name="premium_fea_mult_prov">يسمح لعدة مزودي لاستخدامها في نفس الوقت</string>
+    <string name="btn_add_provider">إضافة مزود</string>
+    <string name="btn_provider_edit">تصحيح</string>
+    <string name="btn_provider_delete">حذف</string>
+    <string name="provider_playlist">قائمة التشغيل</string>
+    <string name="provider_playlist_file">قائمة التشغيل من الملف</string>
+    <string name="premium_fea_tv_guide">عرض برنامج تلفزيوني كجدول بيانات</string>
+    <string name="provider_field_name">اسم</string>
+    <string name="provider_field_url">عنوان URL</string>
+    <string name="provider_field_login">تسجيل الدخول</string>
+    <string name="provider_field_pass">كلمه السر</string>
+    <string name="provider_field_token">رمز وصول</string>
+    <string name="provider_field_server">الخادم</string>
+    <string name="provider_field_active">نشيط</string>
+    <string name="cfg_prov_categories_merge">فئات من مختلف مقدمي الخدمات</string>
+    <string name="cfg_prov_categories_merge_prepend">Prepend الفئة مع اسم مزود</string>
+    <string name="cfg_prov_categories_merge_mix">دمج الفئات إذا تطابق الاسم</string>
+    <string name="cfg_prov_categories_merge_append">إلحاق اسم الموفر باسم الفئة</string>
+    <string name="cfg_codec_exo_q">جودة الترميز الأجهزة</string>
+    <string name="cfg_codec_exo_max">افضل مباراة</string>
+    <string name="cfg_codec_exo_compat">وضع التوافق</string>
 </resources>

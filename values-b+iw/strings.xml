@@ -10,7 +10,6 @@
     <string name="menu_archive">מציג ארכיון</string>
     <string name="menu_vod">ספריית וידאו</string>
     <string name="menu_settings">הגדרות</string>
-    <string name="menu_qs_provider">החלף ספק</string>
     <string name="menu_error_require_provider_title">OTT ספק נדרש</string>
     <string name="menu_error_require_provider_text">אזור זה זמין רק כאשר ספק OTT מוגדר. בחר אפשרות אחרת או הגדר ספק.</string>
     <string name="menu_error_require_provider_button">הגדר ספק</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">הזרם אינו נגיש (לא ניתן להתחבר). פנה לספק שלך</string>
     <string name="error_stream_not_reachable_no_resource">הזרם אינו נגיש. פנה לספק שלך</string>
     <string name="error_stream_not_reachable_forbidden">הגישה נדחתה (מפתח שגוי?). פנה לספק שלך</string>
-    <string name="error_archive_not_supported">ספקך אינו תומך בארכיונים</string>
     <string name="error_archive_not_supported_this_channel">הספק שלך אינו מספק ארכיונים לערוץ זה</string>
     <string name="error_search_nothing_found">שום דבר לא התאים לשאילתת החיפוש שלך</string>
     <string name="error_search_too_much_found">תוצאות רבות מדי, החיפוש קטוע</string>
@@ -121,21 +119,14 @@
     <string name="hint_video_codecs">אם המקור פועל בצורה גרועה, באפשרותך לנסות להגדיל את גודל המאגר בהגדרות, לעבור למפענח זרם אחר (חומרה או תוכנה), או אם משהו נכשל, הגדר להשתמש בנגן חיצוני להפעלה.</string>
     <string name="hint_auto_turn_off">אתה יכול להגדיר זרם אוטומטי כיבוי לאחר זמן סרק (שימושי כאשר מחויב לדקה). לא פעיל פירושו לא פעולות השחקן המשמש (למשל: תפריט, חיפוש, הפסקה, וכו \').</string>
 
-    <string name="settings_provider_select_type">בחר ספק שירותי OTT / IPTV</string>
     <string name="settings_provider_select_type_intro1">הערה: תזדקק לספק OTT / IPTV כדי להשתמש ביישום זה.</string>
     <string name="settings_provider_select_type_intro2">היישום פועל עם פלייליסטים שסופקו על ידי המשתמש בלבד.</string>
-    <string name="settings_provider_select_type_intro3">ספק שנבחר כעת:</string>
-    <string name="settings_provider_select_key">מפתח אישור ספק.</string>
-    <string name="settings_provider_select_url">כתובת אתר של רשימת פלייליסטים של ספק.</string>
     <string name="settings_provider_select_apply">להגיש מועמדות</string>
     <string name="settings_provider_select_return">לַחֲזוֹר</string>
     <string name="settings_provider_select_prompt_public_playlist_key">המפתח הציבורי של הפלייליסט</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">Stalker כניסה וסיסמה</string>
     <string name="settings_provider_select_prompt_lp">שם המשתמש והסיסמה שלך</string>
 
-    <string name="settings_provider_select_status1">נתוני הספק נטענים.</string>
-    <string name="settings_provider_select_status2">אנא המתן בסבלנות והישאר על המסך.</string>
-    <string name="settings_provider_select_status3">זה עשוי לקחת 2–3 דקות.</string>
     <string name="settings_provider_select_status_error">שגיאת תצורה. טעינת הנתונים נכשלה</string>
     <string name="settings_provider_select_status_success">ההגדרה הוחלה בהצלחה</string>
 
@@ -166,7 +157,6 @@
     <string name="play_switch_codec">החלף את ה- Codec</string>
     <string name="play_switch_codec_details">זרם לטעון באמצעות מפענח אחר</string>
     <string name="play_switch_codec_hard">השתמש רכיבי codec חומרה</string>
-    <string name="play_switch_codec_ffmpeg">השתמש בתוכנה ffmpeg</string>
     <string name="play_switch_codec_vlc">השתמש בתוכנה VLC</string>
     <string name="play_switch_codec_ext">פתח את הנגן החיצוני</string>
     <string name="disk_is_full">האחסון מלא. לנקות קצת מקום.</string>
@@ -281,14 +271,10 @@
 
     <string name="settings_codec">הגדרות רכיבי Codec</string>
     <string name="settings_codec_hard">השתמש תמיד ב- Codec חומרה</string>
-    <string name="settings_codec_soft_ijk">תמיד להשתמש בתוכנות ffmpeg רכיבי codec</string>
     <string name="settings_codec_soft_vlc">תמיד להשתמש בתוכנות VLC רכיבי codec</string>
     <string name="settings_codec_external">השתמש תמיד בנגן חיצוני</string>
 
     <string name="settings_epg">EPG Teleguide</string>
-
-    <string name="settings_live_extra_m3u_source_1">עוד רשימת השמעה מקור m3u #1</string>
-    <string name="settings_live_extra_m3u_source_2">עוד רשימת השמעה מקור m3u #2</string>
 
     <string name="settings_external_player">נגן חיצוני (נסה הכל כברירת מחדל)</string>
 
@@ -302,12 +288,10 @@
     <string name="settings_premium_what_included_2">אפשרות לחזור לערוץ האחרון שהושמע</string>
     <string name="settings_premium_what_included_3">שינוי קצב מסגרת אוטומטי כדי להתאים את הווידאו</string>
     <string name="settings_premium_what_included_4">שליטה מהירות השמעה עבור הארכיונים</string>
-    <string name="settings_premium_what_included_7">מעבר מהיר בין מספר ספקי מוגדרים</string>
 
     <string name="settings_premium_toggles">הגדרות פרימיום</string>
     <string name="settings_premium_toggles_try_afr">Auto-switch מסגרת הדולר כדי להתאים וידאו</string>
     <string name="settings_premium_toggles_try_afr_toast">הצג הנוכחי נתמך שיעורי רענון</string>
-    <string name="settings_premium_toggles_provider_qs">הצג את המתג המהיר של הספק בתפריט</string>
 
     <string name="settings_premium_toggle_btn_title">הפעל תכונות פרימיום</string>
     <string name="settings_premium_toggle_btn_sub_add">הירשם</string>
@@ -451,7 +435,6 @@
     <string name="prov_help_contact_via_email">פנה למפתח באמצעות דוא"ל</string>
     <string name="prov_help_provide_more_info">כתוב את ההודעה שלך למפתח</string>
     <string name="hint_help_locale">תוכל לסייע בשיפור התרגום המקוון</string>
-    <string name="cfg_allow_dup_ch">שמור על ערוצים כפולים</string>
     <string name="cfg_time_imp">השתמש בפורמט הזמן הקיסרי (am / pm)</string>
     <string name="hud_short_seeking">מחפש</string>
     <string name="cfg_player_clock_tr">בפינה הימנית העליונה</string>
@@ -495,4 +478,33 @@
     <string name="cfg_player_hide_menu">פסק זמן להסתרת התפריט (בשניות)</string>
     <string name="choose_auto">בחר באופן אוטומטי</string>
     <string name="cfg_stream_tech">טכנולוגיית זרם (אם זמינה)</string>
+
+    <string name="btn_schedule_provider_vod_load">טען מחדש את ספריית המדיה של הספק (אם סופקה)</string>
+    <string name="cfg_show_ch_numbers">הצג מספרי ערוצים</string>
+    <string name="always">תמיד</string>
+    <string name="cfg_play_action_sinfo">להציג מידע שוטף על תוכנית טלוויזיה הנוכחי</string>
+    <string name="menu_tv_guide">מדריך שידורי טלוויזיה</string>
+    <string name="cfg_stream_q">הצג איכות זרם</string>
+    <string name="ext_player_copy_clipboard">העתק קישור ללוח בלבד</string>
+    <string name="premium_fea_mult_prov">מאפשר שימוש במספר ספקים בו-זמנית</string>
+    <string name="btn_add_provider">הוסף ספק</string>
+    <string name="btn_provider_edit">ערוך</string>
+    <string name="btn_provider_delete">מחק</string>
+    <string name="provider_playlist">פלייליסט</string>
+    <string name="provider_playlist_file">רשימת השמעה מקובץ</string>
+    <string name="premium_fea_tv_guide">הצג תוכנית טלוויזיה כגיליון אלקטרוני</string>
+    <string name="provider_field_name">שם</string>
+    <string name="provider_field_url">כתובת אתר</string>
+    <string name="provider_field_login">התחברות</string>
+    <string name="provider_field_pass">סיסמה</string>
+    <string name="provider_field_token">אסימון גישה</string>
+    <string name="provider_field_server">שרת</string>
+    <string name="provider_field_active">פעיל</string>
+    <string name="cfg_prov_categories_merge">קטגוריות של ספקים שונים</string>
+    <string name="cfg_prov_categories_merge_prepend">הוסף קטגוריה עם שם ספק</string>
+    <string name="cfg_prov_categories_merge_mix">מזג את הקטגוריות אם השם תואם</string>
+    <string name="cfg_prov_categories_merge_append">הוסף שם ספק לשם קטגוריה</string>
+    <string name="cfg_codec_exo_q">חומרה איכות codec</string>
+    <string name="cfg_codec_exo_max">ההתאמה הטובה ביותר</string>
+    <string name="cfg_codec_exo_compat">מצב תאימות</string>
 </resources>

@@ -11,7 +11,6 @@
     <string name="menu_archive">Архив передач</string>
     <string name="menu_vod">Видео библиотека</string>
     <string name="menu_settings">Настройки</string>
-    <string name="menu_qs_provider">Сменить провайдера</string>
     <string name="menu_error_require_provider_title">Требуется OTT провайдер</string>
     <string name="menu_error_require_provider_text">Данный раздел доступен только при настроенном OTT провайдере. Воспользуйтесь другими разделами, или настройте провайдера.</string>
     <string name="menu_error_require_provider_button">Настроить провайдера</string>
@@ -64,7 +63,6 @@
     <string name="error_stream_not_reachable_no_connect">Поток недоступен (нет связи). Свяжитесь с вашим провайдером</string>
     <string name="error_stream_not_reachable_no_resource">Поток недоступен. Свяжитесь с вашим провайдером</string>
     <string name="error_stream_not_reachable_forbidden">В доступе отказано (неверный ключ?). Свяжитесь с вашим провайдером</string>
-    <string name="error_archive_not_supported">Ваш провайдер не поддерживает архивы</string>
     <string name="error_archive_not_supported_this_channel">Ваш провайдер не предлагает архив для этого канала</string>
     <string name="error_search_nothing_found">Ничего не соответствует критериям</string>
     <string name="error_search_too_much_found">Слишком много результатов, показаны первые</string>
@@ -123,21 +121,14 @@
     <string name="hint_auto_turn_off">Вы можете настроить автовыключения трансляции в настройках через некоторое время неактивности (полезно при поминутной оплате). Активностью считается управление плейером при просмотре (например, запуск меню, перемотка, пауза и тд)</string>
 
     <!-- provider -->
-    <string name="settings_provider_select_type">Выберите поставщика OTT/IPTV услуг</string>
     <string name="settings_provider_select_type_intro1">ВАЖНО: Вам требуется OTT/IPTV провайдер для использования приложения.</string>
     <string name="settings_provider_select_type_intro2">Приложение работает только с приложенными пользователем плейлистами.</string>
-    <string name="settings_provider_select_type_intro3">Выберите поставщика OTT/IPTV услуг</string>
-    <string name="settings_provider_select_key">Ключ авторизации провайдера.</string>
-    <string name="settings_provider_select_url">URL адрес плейлиста провайдера.</string>
     <string name="settings_provider_select_apply">Применить</string>
     <string name="settings_provider_select_return">Вернуться</string>
     <string name="settings_provider_select_prompt_public_playlist_key">Публичный ключ для плейлиста</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">Stalker логин и пароль</string>
     <string name="settings_provider_select_prompt_lp">Ваш логин и пароль</string>
 
-    <string name="settings_provider_select_status1">Идет загрузка данных провайдера.</string>
-    <string name="settings_provider_select_status2">Пожалуйста, подождите и не переключайтесь.</string>
-    <string name="settings_provider_select_status3">Это может занять 2–3 минуты.</string>
     <string name="settings_provider_select_status_error">Ошибка настройки. Не получилось подгрузить данные</string>
     <string name="settings_provider_select_status_success">Настройка успешно применена</string>
 
@@ -168,7 +159,6 @@
     <string name="play_switch_codec">Сменить кодек</string>
     <string name="play_switch_codec_details">Загрузить поток другим декодировщиком</string>
     <string name="play_switch_codec_hard">Использовать хардварные кодеки</string>
-    <string name="play_switch_codec_ffmpeg">Использовать софтварные ffmpeg</string>
     <string name="play_switch_codec_vlc">Использовать софтварные VLC</string>
     <string name="play_switch_codec_ext">Открыть во внешнем плейере</string>
     <string name="disk_is_full">Хранилище забито. Освободите немного места.</string>
@@ -283,14 +273,10 @@
 
     <string name="settings_codec">Настройки кодеков</string>
     <string name="settings_codec_hard">Всегда использовать хардварные кодеки</string>
-    <string name="settings_codec_soft_ijk">Всегда использовать софтварные кодеки ffmpeg</string>
     <string name="settings_codec_soft_vlc">Всегда использовать софтварные кодеки VLC</string>
     <string name="settings_codec_external">Всегда использовать внешний плейер</string>
 
     <string name="settings_epg">EPG телепрограмма</string>
-
-    <string name="settings_live_extra_m3u_source_1">Дополнительный m3u плейлист-источник #1</string>
-    <string name="settings_live_extra_m3u_source_2">Дополнительный m3u плейлист-источник #2</string>
 
     <string name="settings_external_player">Внешний плейер</string>
 
@@ -304,12 +290,10 @@
     <string name="settings_premium_what_included_2">Возможность вернуться на предыдущий канал</string>
     <string name="settings_premium_what_included_3">Автоматическая подстройка частоты кадров</string>
     <string name="settings_premium_what_included_4">Управление скоростью проигрывания архивов</string>
-    <string name="settings_premium_what_included_7">Быстрое переключение между несколькими настроенными провайдерами</string>
 
     <string name="settings_premium_toggles">Настройки премиума</string>
     <string name="settings_premium_toggles_try_afr">Автоматически менять частоту кадров для совпадения с видео</string>
     <string name="settings_premium_toggles_try_afr_toast">Текущий дисплей поддерживает частоту кадров</string>
-    <string name="settings_premium_toggles_provider_qs">Показывать быструю смену провайдера в меню</string>
 
     <string name="settings_premium_toggle_btn_title">Включить премиум возможности</string>
     <string name="settings_premium_toggle_btn_sub_add">Подписаться</string>
@@ -341,7 +325,7 @@
     <string name="cfg_play_action_title">Настроить пульт</string>
     <string name="cfg_play_action_btn_archive_as_live">Использовать эти же кнопки для просмотра архивов (отключит перемотку кнопками влево и вправо)</string>
     <string name="cfg_trans_wind">Использовать прозрачный интерфейс</string>
-    <string name="cfg_list_poster_time">Показывать постер в течении (секунды, если доступно)</string>
+    <string name="cfg_list_poster_time">Показывать постер в течение (секунды, если доступно)</string>
 
     <!-- 1.4.2 -->
     <string name="do_not_show">не показывать</string>
@@ -404,7 +388,7 @@
     <string name="cfg_duration_1w">1 неделя</string>
     <string name="cfg_duration_2w">2 недели</string>
     <string name="cfg_duration_1m">1 месяц</string>
-    <string name="cfg_cache_vod">Кешировать данным медиа библиотеки на</string>
+    <string name="cfg_cache_vod">Кешировать данные медиа библиотеки на</string>
     <string name="premium_fea_pvsearch">Голосовой поиск при просмотре. Поиск канала по имени или содержимому архива.</string>
     <string name="cfg_play_action_vsearch">голосовой поиск</string>
     <string name="settings_premium_source_enabled">Премиум включен</string>
@@ -458,7 +442,6 @@
     <string name="prov_help_contact_via_email">связаться с разработчиком через email</string>
     <string name="prov_help_provide_more_info">Напишите ваше сообщение разработчику</string>
     <string name="hint_help_locale">Вы можете помочь с переводом онлайн</string>
-    <string name="cfg_allow_dup_ch">Оставлять дубликаты каналов</string>
     <string name="cfg_time_imp">Использовать имперский формат времени (am/pm)</string>
     <string name="hud_short_seeking">Перемотка</string>
     <string name="cfg_player_clock_tr">верхний правый угол</string>
@@ -503,4 +486,34 @@
     <string name="cfg_player_hide_menu">Таймаут до скрывания меню (в секундах)</string>
     <string name="choose_auto">Выбирать автоматически</string>
     <string name="cfg_stream_tech">Технология потока (если доступно)</string>
+
+    <!-- 1.4.7 -->
+    <string name="btn_schedule_provider_vod_load">Перезагрузить медиатеку провайдера (если предоставлена)</string>
+    <string name="cfg_show_ch_numbers">Показывать номера каналов</string>
+    <string name="always">всегда</string>
+    <string name="cfg_play_action_sinfo">посмотреть информацию о текущей передаче</string>
+    <string name="menu_tv_guide">Телегид</string>
+    <string name="cfg_stream_q">Показывать качество потока</string>
+    <string name="ext_player_copy_clipboard">Только копировать ссылку в буфер обмена</string>
+    <string name="premium_fea_mult_prov">Позволяет использовать несколько провайдеров одновременно</string>
+    <string name="btn_add_provider">Добавить провайдера</string>
+    <string name="btn_provider_edit">Изменить</string>
+    <string name="btn_provider_delete">Удалить</string>
+    <string name="provider_playlist">Плейлист</string>
+    <string name="provider_playlist_file">Файл плейлиста</string>
+    <string name="premium_fea_tv_guide">Просмотр телепрограммы в виде таблицы</string>
+    <string name="provider_field_name">Название</string>
+    <string name="provider_field_url">URL адрес</string>
+    <string name="provider_field_login">Логин</string>
+    <string name="provider_field_pass">Пароль</string>
+    <string name="provider_field_token">Ключ доступа</string>
+    <string name="provider_field_server">Сервер</string>
+    <string name="provider_field_active">Активен</string>
+    <string name="cfg_prov_categories_merge">Категории от разных провайдеров</string>
+    <string name="cfg_prov_categories_merge_prepend">Писать название провайдера до названия категории</string>
+    <string name="cfg_prov_categories_merge_mix">Склеивать категории при совпадении названий</string>
+    <string name="cfg_prov_categories_merge_append">Писать название провайдера после названия категории</string>
+    <string name="cfg_codec_exo_q">Качество хардварных кодеков</string>
+    <string name="cfg_codec_exo_max">лучшее совпадение</string>
+    <string name="cfg_codec_exo_compat">режим совместимости</string>
 </resources>

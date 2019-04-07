@@ -10,7 +10,6 @@
     <string name="menu_archive">Arşivi gösterir</string>
     <string name="menu_vod">Video kütüphanesi</string>
     <string name="menu_settings">Ayarlar</string>
-    <string name="menu_qs_provider">Sağlayıcı sağlayın</string>
     <string name="menu_error_require_provider_title">OTT sağlayıcısı gerekli</string>
     <string name="menu_error_require_provider_text">Bu bölge sadece OTT sağlayıcısı yapılandırıldığında kullanılabilir. Ya başka bir seçenek seçin veya bir sağlayıcı yapılandırın.</string>
     <string name="menu_error_require_provider_button">Sağlayıcıyı yapılandır</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">Akış ulaşılamıyor (bağlanamıyor). Sağlayıcınıza başvurun</string>
     <string name="error_stream_not_reachable_no_resource">Akış ulaşılamıyor. Sağlayıcınıza başvurun</string>
     <string name="error_stream_not_reachable_forbidden">Erişim reddedildi (yanlış anahtar?). Sağlayıcınıza başvurun</string>
-    <string name="error_archive_not_supported">Sağlayıcınız arşivleri desteklemiyor</string>
     <string name="error_archive_not_supported_this_channel">Sağlayıcınız bu kanal için arşiv sağlamıyor</string>
     <string name="error_search_nothing_found">Arama sorgunuzla hiçbir şey eşleşmedi</string>
     <string name="error_search_too_much_found">Çok fazla sonuç var, arama kesildi</string>
@@ -121,21 +119,14 @@
     <string name="hint_video_codecs">Kaynak kötü çalışıyorsa, ayarlarda arabellek boyutunu artırmayı deneyebilir, başka bir akış kod çözücüsüne (donanım veya yazılım) geçebilir veya herhangi bir şey başarısız olursa, oynatma için harici bir oynatıcı kullanacak şekilde yapılandırabilirsiniz.</string>
     <string name="hint_auto_turn_off">Boşta kalma süresinden sonra otomatik akış geçişini yapılandırabilirsiniz (dakika başına faturalandığında kullanışlıdır). Boşta, herhangi bir oyuncu eylemi kullanılmadığı anlamına gelir (örneğin: menü, arama, duraklatma, vb.).</string>
 
-    <string name="settings_provider_select_type">OTT / IPTV servis sağlayıcısı seç</string>
     <string name="settings_provider_select_type_intro1">NOT: Bu uygulamayı kullanmak için bir OTT / IPTV sağlayıcısına ihtiyacınız var.</string>
     <string name="settings_provider_select_type_intro2">Uygulama sadece kullanıcı tarafından sağlanan çalma listeleriyle çalışır.</string>
-    <string name="settings_provider_select_type_intro3">Şu anda seçili sağlayıcı:</string>
-    <string name="settings_provider_select_key">Sağlayıcı yetkilendirme anahtarı.</string>
-    <string name="settings_provider_select_url">Sağlayıcı oynatma listesi URL adresi.</string>
     <string name="settings_provider_select_apply">Uygulamak</string>
     <string name="settings_provider_select_return">Dönüş</string>
     <string name="settings_provider_select_prompt_public_playlist_key">Oynatma listesinin genel anahtarı</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">Stalker giriş ve şifre</string>
     <string name="settings_provider_select_prompt_lp">Giriş ve şifreniz</string>
 
-    <string name="settings_provider_select_status1">Sağlayıcı verileri yükleniyor.</string>
-    <string name="settings_provider_select_status2">Lütfen sabırlı olun ve ekranda kalın.</string>
-    <string name="settings_provider_select_status3">Bu 2–3 dakika sürebilir.</string>
     <string name="settings_provider_select_status_error">Yapılandırma hatası. Veri yüklenemedi</string>
     <string name="settings_provider_select_status_success">Ayar başarıyla uygulandı</string>
 
@@ -166,7 +157,6 @@
     <string name="play_switch_codec">Codec\'i değiştir</string>
     <string name="play_switch_codec_details">Farklı kod çözücü ile akış yükleyin</string>
     <string name="play_switch_codec_hard">Donanım kodeklerini kullan</string>
-    <string name="play_switch_codec_ffmpeg">Ffmpeg yazılımı kullan</string>
     <string name="play_switch_codec_vlc">Yazılım VLC kullan</string>
     <string name="play_switch_codec_ext">Harici oynatıcıda aç</string>
     <string name="disk_is_full">Depolama dolu. Biraz yer temizle.</string>
@@ -281,14 +271,10 @@
 
     <string name="settings_codec">Codec ayarları</string>
     <string name="settings_codec_hard">Her zaman donanım kodeklerini kullanın</string>
-    <string name="settings_codec_soft_ijk">Her zaman yazılım ffmpeg codec\'lerini kullanın</string>
     <string name="settings_codec_soft_vlc">Her zaman yazılım VLC codec\'lerini kullanın</string>
     <string name="settings_codec_external">Her zaman harici oynatıcı kullan</string>
 
     <string name="settings_epg">EPG teleguide</string>
-
-    <string name="settings_live_extra_m3u_source_1">Ekstra m3u kaynağı çalma listesi #1</string>
-    <string name="settings_live_extra_m3u_source_2">Ekstra m3u kaynağı çalma listesi #2</string>
 
     <string name="settings_external_player">Harici oynatıcı (varsayılan olarak hepsini deneyin)</string>
 
@@ -302,12 +288,10 @@
     <string name="settings_premium_what_included_2">Son oynatılan kanala dönme seçeneği</string>
     <string name="settings_premium_what_included_3">Videoya göre otomatik kare hızı değişimi</string>
     <string name="settings_premium_what_included_4">Arşivler için oynatma hızını kontrol etme</string>
-    <string name="settings_premium_what_included_7">Birkaç yapılandırılmış sağlayıcı arasında hızlı geçiş</string>
 
     <string name="settings_premium_toggles">Premium ayarlar</string>
     <string name="settings_premium_toggles_try_afr">Videoyla eşleştirmek için kare geçiş hızını otomatik olarak değiştir</string>
     <string name="settings_premium_toggles_try_afr_toast">Mevcut ekran destekli yenileme oranları</string>
-    <string name="settings_premium_toggles_provider_qs">Menüde sağlayıcı hızlı anahtarını göster</string>
 
     <string name="settings_premium_toggle_btn_title">Premium özellikleri etkinleştir</string>
     <string name="settings_premium_toggle_btn_sub_add">Abone ol</string>
@@ -451,7 +435,6 @@
     <string name="prov_help_contact_via_email">e-posta yoluyla geliştiriciyle iletişim kurun</string>
     <string name="prov_help_provide_more_info">Mesajınızı geliştiriciye yazın</string>
     <string name="hint_help_locale">Çevrimiçi çeviriyi geliştirmeye yardımcı olabilirsiniz</string>
-    <string name="cfg_allow_dup_ch">Çift kanalları koru</string>
     <string name="cfg_time_imp">Emperyal zaman biçimini kullan (am / pm)</string>
     <string name="hud_short_seeking">Aradığınız</string>
     <string name="cfg_player_clock_tr">sağ üst köşe</string>
@@ -495,4 +478,33 @@
     <string name="cfg_player_hide_menu">Menüyü gizlemek için zaman aşımı (saniye olarak)</string>
     <string name="choose_auto">Otomatik seç</string>
     <string name="cfg_stream_tech">Akış teknolojisi (varsa)</string>
+
+    <string name="btn_schedule_provider_vod_load">Sağlayıcı medya kitaplığını yeniden yükle (varsa)</string>
+    <string name="cfg_show_ch_numbers">Kanal numaralarını göster</string>
+    <string name="always">her zaman</string>
+    <string name="cfg_play_action_sinfo">TV programı hakkındaki güncel bilgileri görüntüleyin</string>
+    <string name="menu_tv_guide">TV Rehberi</string>
+    <string name="cfg_stream_q">Akış kalitesini göster</string>
+    <string name="ext_player_copy_clipboard">Bağlantıyı yalnızca panoya kopyala</string>
+    <string name="premium_fea_mult_prov">Birkaç sağlayıcının aynı anda kullanılmasına izin verir</string>
+    <string name="btn_add_provider">Sağlayıcı ekle</string>
+    <string name="btn_provider_edit">Düzenle</string>
+    <string name="btn_provider_delete">silmek</string>
+    <string name="provider_playlist">Oynatma Listesi</string>
+    <string name="provider_playlist_file">Dosyadan çalma listesi</string>
+    <string name="premium_fea_tv_guide">TV programını elektronik tablo olarak görüntüleme</string>
+    <string name="provider_field_name">isim</string>
+    <string name="provider_field_url">URL adresi</string>
+    <string name="provider_field_login">Oturum aç</string>
+    <string name="provider_field_pass">Parola</string>
+    <string name="provider_field_token">Erişim belirteci</string>
+    <string name="provider_field_server">Sunucu</string>
+    <string name="provider_field_active">Aktif</string>
+    <string name="cfg_prov_categories_merge">Farklı sağlayıcılardan gelen kategoriler</string>
+    <string name="cfg_prov_categories_merge_prepend">Sağlayıcı adına sahip birincil kategori</string>
+    <string name="cfg_prov_categories_merge_mix">Ad eşleşirse kategorileri birleştir</string>
+    <string name="cfg_prov_categories_merge_append">Sağlayıcı adını kategori adına ekle</string>
+    <string name="cfg_codec_exo_q">Donanım codec kalitesi</string>
+    <string name="cfg_codec_exo_max">en iyi eşleşme</string>
+    <string name="cfg_codec_exo_compat">uyumluluk modu</string>
 </resources>

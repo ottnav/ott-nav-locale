@@ -10,7 +10,6 @@
     <string name="menu_archive">보관 파일 표시</string>
     <string name="menu_vod">비디오 라이브러리</string>
     <string name="menu_settings">설정</string>
-    <string name="menu_qs_provider">스위치 공급자</string>
     <string name="menu_error_require_provider_title">OTT 제공자가 필요합니다.</string>
     <string name="menu_error_require_provider_text">이 지구는 OTT 제공자가 구성된 경우에만 사용할 수 있습니다. 다른 옵션을 선택하거나 공급자를 구성하십시오.</string>
     <string name="menu_error_require_provider_button">공급자 구성</string>
@@ -63,7 +62,6 @@
     <string name="error_stream_not_reachable_no_connect">스트림에 연결할 수 없습니다 (연결할 수 없음). 공급자에게 문의하십시오.</string>
     <string name="error_stream_not_reachable_no_resource">스트림에 연결할 수 없습니다. 공급자에게 문의하십시오.</string>
     <string name="error_stream_not_reachable_forbidden">액세스가 거부되었습니다 (잘못된 키?). 공급자에게 문의하십시오.</string>
-    <string name="error_archive_not_supported">제공 업체가 보관 파일을 지원하지 않습니다.</string>
     <string name="error_archive_not_supported_this_channel">제공 업체가이 채널에 보관 파일을 제공하지 않습니다.</string>
     <string name="error_search_nothing_found">검색어와 일치하는 내용이 없습니다.</string>
     <string name="error_search_too_much_found">검색 결과가 너무 많으면 검색이 잘리지 않습니다.</string>
@@ -121,21 +119,14 @@
     <string name="hint_video_codecs">소스가 잘못 재생되는 경우 설정에서 버퍼 크기를 늘리거나 다른 스트림 디코더 (하드웨어 또는 소프트웨어)로 전환하거나 실패 할 경우 재생을 위해 외부 플레이어를 사용하도록 구성 할 수 있습니다.</string>
     <string name="hint_auto_turn_off">유휴 시간이 지난 후 자동 스트림 전환을 구성 할 수 있습니다 (분당 요금 청구시 유용함). 유휴 상태는 플레이어 동작이 사용되지 않음을 의미합니다 (예 : 메뉴, 찾기, 일시 중지 등).</string>
 
-    <string name="settings_provider_select_type">OTT / IPTV 서비스 제공 업체 선택</string>
     <string name="settings_provider_select_type_intro1">참고 :이 응용 프로그램을 사용하려면 OTT / IPTV 공급자가 필요합니다.</string>
     <string name="settings_provider_select_type_intro2">응용 프로그램은 사용자가 제공 한 재생 목록에서만 작동합니다.</string>
-    <string name="settings_provider_select_type_intro3">현재 선택된 공급자 :</string>
-    <string name="settings_provider_select_key">제공자 인증 키.</string>
-    <string name="settings_provider_select_url">제공자 재생 목록 URL 주소.</string>
     <string name="settings_provider_select_apply">대다</string>
     <string name="settings_provider_select_return">반환</string>
     <string name="settings_provider_select_prompt_public_playlist_key">재생 목록의 공개 키</string>
     <string name="settings_provider_select_prompt_stalker_login_pass">스토커 로그인과 암호</string>
     <string name="settings_provider_select_prompt_lp">로그인 및 비밀번호</string>
 
-    <string name="settings_provider_select_status1">공급자 데이터가로드되고 있습니다.</string>
-    <string name="settings_provider_select_status2">인내심을 갖고 화면에 머물러주십시오.</string>
-    <string name="settings_provider_select_status3">2-3 분 정도 걸릴 수 있습니다.</string>
     <string name="settings_provider_select_status_error">구성 오류. 데이터를로드하지 못했습니다.</string>
     <string name="settings_provider_select_status_success">설정이 성공적으로 적용되었습니다.</string>
 
@@ -166,7 +157,6 @@
     <string name="play_switch_codec">스위치 코덱</string>
     <string name="play_switch_codec_details">다른 디코더를 통해 스트림로드</string>
     <string name="play_switch_codec_hard">하드웨어 코덱 사용</string>
-    <string name="play_switch_codec_ffmpeg">소프트웨어 ffmpeg 사용</string>
     <string name="play_switch_codec_vlc">VLC 소프트웨어 사용</string>
     <string name="play_switch_codec_ext">외부 플레이어에서 열기</string>
     <string name="disk_is_full">저장소가 꽉 찼습니다. 약간의 공간을 정리하십시오.</string>
@@ -281,14 +271,10 @@
 
     <string name="settings_codec">코덱 설정</string>
     <string name="settings_codec_hard">항상 하드웨어 코덱 사용</string>
-    <string name="settings_codec_soft_ijk">항상 소프트웨어 ffmpeg 코덱을 사용하십시오</string>
     <string name="settings_codec_soft_vlc">항상 소프트웨어 VLC 코덱 사용</string>
     <string name="settings_codec_external">항상 외부 플레이어 사용</string>
 
     <string name="settings_epg">EPG 텔레 가이드</string>
-
-    <string name="settings_live_extra_m3u_source_1">추가 m3u 1 소스 재생 목록</string>
-    <string name="settings_live_extra_m3u_source_2">추가 m3u 2 소스 재생 목록</string>
 
     <string name="settings_external_player">외부 플레이어 (기본적으로 모두 시도)</string>
 
@@ -302,12 +288,10 @@
     <string name="settings_premium_what_included_2">마지막으로 재생 된 채널로 돌아갈 수있는 옵션</string>
     <string name="settings_premium_what_included_3">비디오와 일치하는 자동 프레임 속도 전환</string>
     <string name="settings_premium_what_included_4">아카이브의 재생 속도 제어</string>
-    <string name="settings_premium_what_included_7">구성된 여러 공급자 간의 빠른 전환</string>
 
     <string name="settings_premium_toggles">프리미엄 설정</string>
     <string name="settings_premium_toggles_try_afr">비디오와 일치하는 자동 전환 프레임 속도</string>
     <string name="settings_premium_toggles_try_afr_toast">현재 디스플레이에서 지원되는 재생 빈도</string>
-    <string name="settings_premium_toggles_provider_qs">메뉴에 제공 업체 빠른 스위치 표시</string>
 
     <string name="settings_premium_toggle_btn_title">프리미엄 기능 사용</string>
     <string name="settings_premium_toggle_btn_sub_add">구독하기</string>
@@ -453,7 +437,6 @@
     <string name="prov_help_contact_via_email">전자 메일을 통해 개발자에게 문의하십시오.</string>
     <string name="prov_help_provide_more_info">개발자에게 메시지 쓰기</string>
     <string name="hint_help_locale">온라인 번역 개선에 도움을 줄 수 있습니다.</string>
-    <string name="cfg_allow_dup_ch">중복 채널 유지</string>
     <string name="cfg_time_imp">제국 시간 형식 사용 (am / pm)</string>
     <string name="hud_short_seeking">찾는</string>
     <string name="cfg_player_clock_tr">오른쪽 상단</string>
@@ -497,4 +480,33 @@
     <string name="cfg_player_hide_menu">메뉴 숨기기 제한 시간 (초)</string>
     <string name="choose_auto">자동 선택</string>
     <string name="cfg_stream_tech">스트림 기술 (사용 가능한 경우)</string>
+
+    <string name="btn_schedule_provider_vod_load">다시로드 공급자 미디어 라이브러리 (제공되는 경우)</string>
+    <string name="cfg_show_ch_numbers">채널 번호 표시</string>
+    <string name="always">항상</string>
+    <string name="cfg_play_action_sinfo">현재 TV 프로그램에 대한 현재 정보보기</string>
+    <string name="menu_tv_guide">TV 가이드</string>
+    <string name="cfg_stream_q">스트림 품질 표시</string>
+    <string name="ext_player_copy_clipboard">클립 보드로만 링크 복사</string>
+    <string name="premium_fea_mult_prov">여러 공급자를 동시에 사용할 수 있습니다.</string>
+    <string name="btn_add_provider">공급자 추가</string>
+    <string name="btn_provider_edit">편집하다</string>
+    <string name="btn_provider_delete">지우다</string>
+    <string name="provider_playlist">재생 목록</string>
+    <string name="provider_playlist_file">파일에서 재생 목록</string>
+    <string name="premium_fea_tv_guide">TV 프로그램을 스프레드 시트로보기</string>
+    <string name="provider_field_name">이름</string>
+    <string name="provider_field_url">URL 주소</string>
+    <string name="provider_field_login">로그인</string>
+    <string name="provider_field_pass">암호</string>
+    <string name="provider_field_token">액세스 토큰</string>
+    <string name="provider_field_server">섬기는 사람</string>
+    <string name="provider_field_active">유효한</string>
+    <string name="cfg_prov_categories_merge">다른 공급자의 카테고리</string>
+    <string name="cfg_prov_categories_merge_prepend">공급자 이름을 카테고리 앞에 추가하십시오.</string>
+    <string name="cfg_prov_categories_merge_mix">이름이 일치하면 카테고리 병합</string>
+    <string name="cfg_prov_categories_merge_append">카테고리 명에 프로 바이더 명을 추가한다</string>
+    <string name="cfg_codec_exo_q">하드웨어 코덱 품질</string>
+    <string name="cfg_codec_exo_max">최고의 경기</string>
+    <string name="cfg_codec_exo_compat">호환 모드</string>
 </resources>
