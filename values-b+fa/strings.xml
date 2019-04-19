@@ -85,8 +85,6 @@
     <string name="player_menu_aspect_ratio_fill_details">به عرض پر کنید</string>
     <string name="player_menu_aspect_ratio_zoom_details">زوم به صفحه نمایش</string>
     <string name="player_menu_aspect_ratio_zoom_in_details">زوم کردن صفحه نمایش (قسمت زراعی)</string>
-    <string name="player_menu_favorite_on_title">ستاره</string>
-    <string name="player_menu_favorite_off_title">باز کردن</string>
     <string name="player_menu_favorite_on_details">اضافه کردن به علاقه مندی ها</string>
     <string name="player_menu_favorite_off_details">از علاقه مندی ها حذف شود</string>
     <string name="player_menu_timeshift">تغییر زمان</string>
@@ -123,9 +121,6 @@
     <string name="settings_provider_select_type_intro2">برنامه تنها با لیست پخش ارائه شده توسط کاربر کار می کند</string>
     <string name="settings_provider_select_apply">درخواست دادن</string>
     <string name="settings_provider_select_return">برگشت</string>
-    <string name="settings_provider_select_prompt_public_playlist_key">کلید عمومی لیست پخش</string>
-    <string name="settings_provider_select_prompt_stalker_login_pass">ورود و رمز عبور استاکر</string>
-    <string name="settings_provider_select_prompt_lp">نام کاربری و رمز عبور شما</string>
 
     <string name="settings_provider_select_status_error">خطای پیکربندی داده بارگیری نشد</string>
     <string name="settings_provider_select_status_success">تنظیم با موفقیت انجام شد</string>
@@ -140,12 +135,8 @@
     <string name="archive_auto_seek_title">به آخرین موقعیت به یاد ماندنی این ویدیو بپردازید؟</string>
     <string name="archive_auto_seek_no">نه، از ابتدا تماشا کنید</string>
     <string name="archive_auto_seek_yes">بله، دنبالش هستم</string>
-    <string name="future_show_sheet_title">چه کاری با نمایش آینده انجام دهید؟</string>
     <string name="future_show_sheet_add_wl_title">به من یادآوری کنم که به کانال برگردم</string>
-    <string name="future_show_sheet_add_wl_desc">اگر یک ویدیو دیگر تماشا کنید، از هر چیزی که باید تغییر کنید خواسته شود</string>
-    <string name="future_show_sheet_add_wl_push_desc">هنگامی که ویدیو به صورت آنلاین می آید، اطلاع رسانی فشار دهید</string>
     <string name="future_show_sheet_search_title">جستجو در بایگانی</string>
-    <string name="future_show_sheet_search_desc">برای دسترسی به آرشیوها را بررسی کنید</string>
     <string name="future_show_sheet_search_none">این ویدیو در آرشیو ارائه دهندگان شما یافت نشد</string>
     <string name="notify_live_sheet_title">ویدیویی که بعدا تماشا شده است، اکنون آنلاین است</string>
     <string name="notify_live_sheet_text">برای مشاهده ویدیو تماشا کنید</string>
@@ -160,7 +151,6 @@
     <string name="play_switch_codec_vlc">از VLC نرم افزار استفاده کنید</string>
     <string name="play_switch_codec_ext">باز در بازیکن خارجی</string>
     <string name="disk_is_full">ذخیره سازی کامل است پاک کردن برخی از فضا.</string>
-    <string name="channel_more_hide">پنهان شدن</string>
     <string name="channel_more_hide_desc">حذف از لیست</string>
     <string name="change_applies_in_few_min">تغییر در چند دقیقه اعمال خواهد شد</string>
     <string name="hud_short_volume">جلد</string>
@@ -338,22 +328,18 @@
     <string name="settings_premium_what_included_9">تعویض کانال با وارد کردن شماره کانال</string>
     <string name="settings_channel_sort_mode_numb">شماره (با شماره کانال، می تواند تغییر کند)</string>
     <string name="ch_opt_change_number">شماره را تغییر دهید</string>
-    <string name="ch_opt_change_number_desc">برای تغییر سریع استفاده می شود</string>
     <string name="prov_btn_help">کمک</string>
     <string name="prov_help_telegram">به چت در Telegram بپیوندید</string>
     <string name="settings_premium_what_included_5">بدون تبلیغات</string>
-    <string name="provider_templates">قالب های ارائه شده معمولا استفاده می شود</string>
     <string name="btn_change">تغییر دادن</string>
     <string name="btn_file">فایل</string>
     <string name="invalid_domain">دامنه احتمالا نامعتبر است ورودی خود را بررسی کنید</string>
     <string name="example">مثال</string>
-    <string name="provider_astra">میان افزار عمومی (Astra)</string>
     <string name="provider_generic">ارائه دهنده عمومی یا لیست پخش</string>
     <string name="watched">تماشا کرد:</string>
     <string name="cfg_no_inst_vod_wstate">به محض راه اندازی، ویدیو را تماشا نکنید</string>
     <string name="btn_search">جستجو کردن</string>
     <string name="hint_vod_cache">کتابخانه رسانه چندین روزه را ذخیره می کند. اگر به داده های جدید نیاز دارید تا سریعا ظاهر شوند، حافظه پنهان را از تنظیمات پاک کنید و برنامه را مجددا راه اندازی کنید.</string>
-    <string name="provider_xc">نرم افزار middleware (XtreamCodes)</string>
     <string name="premium_fea_6">ارسال جریان به صفحه نمایش بی سیم</string>
     <string name="wifi_display">صفحه نمایش بی سیم</string>
     <string name="wifi_display_desc">پخش یک دستگاه دیگر را پخش کنید</string>
@@ -408,7 +394,6 @@
     <string name="player_menu_2live">تغییر به زندگی</string>
     <string name="settings_provider_select_key_if_any">کلید مجوز ارائه دهنده (در صورت وجود).</string>
 
-    <string name="cfg_ch_all_top">نمایش دسته با تمام کانال ها در بالا</string>
     <string name="cfg_pl_offs_swipe">لبه صفحه لمسی حجم و روشنایی را از لبه صفحه حرکت دهید</string>
     <string name="btn_seek">جستجو کن</string>
     <string name="cfg_play_action_mseek">نمایش جستجوی ویدیو را آغاز می کند</string>
@@ -425,9 +410,7 @@
     <string name="profile_middle_q">ترجیح می دهد کیفیت بیش از سرعت</string>
     <string name="profile_high_q">فقط کیفیت مهم است</string>
     <string name="channel_move_cat">تغییر رده</string>
-    <string name="channel_move_cat_desc">به یک گروه دیگر بروید</string>
     <string name="channel_move_new_cat">ایجاد دسته جدید</string>
-    <string name="premium_revert_all_edits">بازگرداندن پیکربندی کانال به حالت اولیه</string>
     <string name="premium_fea_edit_list">به ویرایش دسته ها، پنهان کردن کانال ها و غیره اجازه می دهد</string>
     <string name="prov_help_bug">گزارش مشکل یا اشکال</string>
     <string name="prov_help_tpl">گزارش مشکل ارائه دهنده قالب</string>
@@ -509,4 +492,30 @@
     <string name="cfg_codec_exo_q">کیفیت کدک سخت افزاری</string>
     <string name="cfg_codec_exo_max">بهترین مسابقه</string>
     <string name="cfg_codec_exo_compat">حالت سازگاری</string>
+
+    <string name="suggest_better_prov_tpl">به نظر می رسد یک قالب بهتر برای ارائه دهنده شما وجود دارد</string>
+    <string name="place_pl_to_downloads">هیچ لیست پخش معتبری در بارگیری یافت نشد</string>
+    <string name="only_1_active">حق بیمه مورد نیاز برای ارائه چندین ارائه دهنده فعال در همان زمان</string>
+    <string name="menu_qs_provider">ارائه کننده سوئیچ</string>
+    <string name="menu_qs_provider_cfg">سوئیچ سریع میان ارائه دهندگان فعال را نشان دهید</string>
+    <string name="menu_qs_provider_all">همه ارائه دهندگان فعال</string>
+    <string name="menu_tv_guide_cfg">نمایش دکمه راهنمای تلویزیون</string>
+    <string name="cfg_video_preview_sound">فعال کردن صدا در پیش نمایش ویدیو در توضیحات</string>
+    <string name="btn_schedule_upnp_vod_load">کتابخانه رسانه UPnP را بارگیری کنید</string>
+    <string name="provider_generic_middleware">عمومی سرور middleware</string>
+    <string name="provider_generic_list">فهرست ارائه دهندگان</string>
+    <string name="provider_generic_list_desc">الگوهای مشترک در این نزدیکی (زبان و منطقه)</string>
+    <string name="yes">بله</string>
+    <string name="no">نه</string>
+    <string name="cfg_zoom_shrink">کوچک شدن</string>
+    <string name="cfg_channel_manager">مدیریت کانالها</string>
+    <string name="cfg_channel_manager_categories">دسته بندی ها</string>
+    <string name="cfg_channel_manager_channels">کانال ها</string>
+    <string name="ch_manage_show">نمایش در لیست</string>
+    <string name="ch_manage_child_on">در حالت کودک فعال شود</string>
+    <string name="ch_manage_child_off">غیر فعال کردن در حالت کودک</string>
+    <string name="ch_manage_status_favorite">مورد علاقه</string>
+    <string name="ch_manage_status_hidden">پنهان</string>
+    <string name="ch_manage_status_child">کودک</string>
+    <string name="show_future_search_in_other">جستجو در برنامه های خارجی</string>
 </resources>

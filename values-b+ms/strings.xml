@@ -85,8 +85,6 @@
     <string name="player_menu_aspect_ratio_fill_details">isi lebar</string>
     <string name="player_menu_aspect_ratio_zoom_details">zum ke skrin</string>
     <string name="player_menu_aspect_ratio_zoom_in_details">zoom keluar skrin (tanaman sebahagian)</string>
-    <string name="player_menu_favorite_on_title">Bintang</string>
-    <string name="player_menu_favorite_off_title">Unstar</string>
     <string name="player_menu_favorite_on_details">Tambah ke kegemaran</string>
     <string name="player_menu_favorite_off_details">Alih keluar dari kegemaran</string>
     <string name="player_menu_timeshift">Peralihan masa</string>
@@ -123,9 +121,6 @@
     <string name="settings_provider_select_type_intro2">Permohonan berfungsi dengan senarai main yang disediakan oleh pengguna sahaja.</string>
     <string name="settings_provider_select_apply">Memohon</string>
     <string name="settings_provider_select_return">Kembali</string>
-    <string name="settings_provider_select_prompt_public_playlist_key">Kunci umum senarai main</string>
-    <string name="settings_provider_select_prompt_stalker_login_pass">Log masuk Stalker dan kata laluan</string>
-    <string name="settings_provider_select_prompt_lp">Log masuk dan kata laluan anda</string>
 
     <string name="settings_provider_select_status_error">Kesilapan konfigurasi. Gagal memuatkan data</string>
     <string name="settings_provider_select_status_success">Menetapkan diterapkan dengan jayanya</string>
@@ -140,12 +135,8 @@
     <string name="archive_auto_seek_title">Dapatkan kedudukan teringat terakhir video ini?</string>
     <string name="archive_auto_seek_no">Tidak, menonton dari awal</string>
     <string name="archive_auto_seek_yes">Ya, cari</string>
-    <string name="future_show_sheet_title">Apa yang perlu dilakukan dengan pertunjukan masa depan?</string>
     <string name="future_show_sheet_add_wl_title">Ingatkan saya untuk beralih ke saluran</string>
-    <string name="future_show_sheet_add_wl_desc">Jika menonton video lain, anda akan dapat bertanya apa sahaja untuk beralih kepada</string>
-    <string name="future_show_sheet_add_wl_push_desc">Dapatkan pemberitahuan push apabila video itu akan datang dalam talian</string>
     <string name="future_show_sheet_search_title">Cari dalam arkib</string>
-    <string name="future_show_sheet_search_desc">Semak ketersediaan arkib</string>
     <string name="future_show_sheet_search_none">Video ini tidak dijumpai di arkib penyedia anda</string>
     <string name="notify_live_sheet_title">Video yang anda tandakan untuk menonton kemudian kini dalam talian</string>
     <string name="notify_live_sheet_text">Tukar untuk melihat video</string>
@@ -160,7 +151,6 @@
     <string name="play_switch_codec_vlc">Gunakan perisian VLC</string>
     <string name="play_switch_codec_ext">Terbuka dalam pemain luaran</string>
     <string name="disk_is_full">Penyimpanan penuh. Membersihkan ruang.</string>
-    <string name="channel_more_hide">Sembunyikan</string>
     <string name="channel_more_hide_desc">Keluarkan dari senarai</string>
     <string name="change_applies_in_few_min">Perubahan akan berlaku dalam beberapa minit</string>
     <string name="hud_short_volume">Jumlah dagangan</string>
@@ -338,22 +328,18 @@
     <string name="settings_premium_what_included_9">Bertukar saluran dengan memasukkan nombor saluran</string>
     <string name="settings_channel_sort_mode_numb">nombor (dengan nombor saluran, boleh diubah)</string>
     <string name="ch_opt_change_number">Tukar nombor</string>
-    <string name="ch_opt_change_number_desc">Digunakan untuk menukar cepat</string>
     <string name="prov_btn_help">Bantuan</string>
     <string name="prov_help_telegram">Sertai chat di Telegram</string>
     <string name="settings_premium_what_included_5">Tiada iklan</string>
-    <string name="provider_templates">Templat pembekal yang biasa digunakan</string>
     <string name="btn_change">Ubah</string>
     <string name="btn_file">Fail</string>
     <string name="invalid_domain">Domain mungkin tidak sah. Semak input anda</string>
     <string name="example">Contoh</string>
-    <string name="provider_astra">Generik pertengahan (Astra)</string>
     <string name="provider_generic">Pembekal atau senarai main generik</string>
     <string name="watched">Menonton:</string>
     <string name="cfg_no_inst_vod_wstate">Jangan pertimbangkan video yang ditonton sebaik sahaja melancarkannya</string>
     <string name="btn_search">Carian</string>
     <string name="hint_vod_cache">Perpustakaan media cache data selama beberapa hari. Jika anda memerlukan data baru untuk dipaparkan dengan lebih pantas, cache bersih dari tetapan dan mulakan semula aplikasi.</string>
-    <string name="provider_xc">Generik pertengahan (XtreamCodes)</string>
     <string name="premium_fea_6">Hantar strim ke paparan tanpa wayar</string>
     <string name="wifi_display">Paparan tanpa wayar</string>
     <string name="wifi_display_desc">Main strim pada peranti lain</string>
@@ -408,7 +394,6 @@
     <string name="player_menu_2live">Tukar hidup</string>
     <string name="settings_provider_select_key_if_any">Kunci kuasa pembekal (jika ada).</string>
 
-    <string name="cfg_ch_all_top">Tunjukkan kategori dengan semua saluran di bahagian atas</string>
     <string name="cfg_pl_offs_swipe">Pindahkan kelantangan dan panel sentuh kecerahan dari tepi skrin</string>
     <string name="btn_seek">Cari</string>
     <string name="cfg_play_action_mseek">Mulakan pandangan mencari video</string>
@@ -425,9 +410,7 @@
     <string name="profile_middle_q">lebih suka kualiti lebih laju</string>
     <string name="profile_high_q">hanya perkara yang berkualiti</string>
     <string name="channel_move_cat">Tukar kategori</string>
-    <string name="channel_move_cat_desc">Beralih ke kumpulan lain</string>
     <string name="channel_move_new_cat">Buat kategori baru</string>
-    <string name="premium_revert_all_edits">Pulihkan konfigurasi saluran ke keadaan awal</string>
     <string name="premium_fea_edit_list">Membolehkan pengeditan kategori, menyembunyikan saluran, dan lain-lain</string>
     <string name="prov_help_bug">Laporkan masalah atau pepijat</string>
     <string name="prov_help_tpl">Isu templat pembekal laporan</string>
@@ -509,4 +492,30 @@
     <string name="cfg_codec_exo_q">Kualiti codec perkakasan</string>
     <string name="cfg_codec_exo_max">Perlawanan terbaik</string>
     <string name="cfg_codec_exo_compat">mod keserasian</string>
+
+    <string name="suggest_better_prov_tpl">Sepertinya terdapat template yang lebih baik untuk pembekal anda</string>
+    <string name="place_pl_to_downloads">Tiada senarai main yang sah yang terdapat dalam muat turun</string>
+    <string name="only_1_active">Premium diperlukan untuk mempunyai beberapa penyedia aktif pada masa yang sama</string>
+    <string name="menu_qs_provider">Tukar pembekal</string>
+    <string name="menu_qs_provider_cfg">Tunjukkan suis cepat antara pembekal aktif</string>
+    <string name="menu_qs_provider_all">Semua pembekal aktif</string>
+    <string name="menu_tv_guide_cfg">Tunjukkan butang Panduan TV</string>
+    <string name="cfg_video_preview_sound">Dayakan bunyi dalam pratonton video dalam keterangan</string>
+    <string name="btn_schedule_upnp_vod_load">Muat semula pustaka media UPnP</string>
+    <string name="provider_generic_middleware">Pelayan middleware Generik</string>
+    <string name="provider_generic_list">Senarai pembekal</string>
+    <string name="provider_generic_list_desc">Templat biasa berdekatan (bahasa dan wilayah)</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="cfg_zoom_shrink">mengecut</string>
+    <string name="cfg_channel_manager">Urus saluran</string>
+    <string name="cfg_channel_manager_categories">Kategori</string>
+    <string name="cfg_channel_manager_channels">Saluran</string>
+    <string name="ch_manage_show">Tunjukkan dalam senarai</string>
+    <string name="ch_manage_child_on">Dayakan dalam mod kanak-kanak</string>
+    <string name="ch_manage_child_off">Lumpuhkan dalam mod kanak-kanak</string>
+    <string name="ch_manage_status_favorite">kegemaran</string>
+    <string name="ch_manage_status_hidden">tersembunyi</string>
+    <string name="ch_manage_status_child">kanak-kanak</string>
+    <string name="show_future_search_in_other">Cari dalam aplikasi luaran</string>
 </resources>

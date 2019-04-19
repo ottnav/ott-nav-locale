@@ -85,8 +85,6 @@
     <string name="player_menu_aspect_ratio_fill_details">genişliğe kadar doldur</string>
     <string name="player_menu_aspect_ratio_zoom_details">ekrana yakınlaştır</string>
     <string name="player_menu_aspect_ratio_zoom_in_details">ekrandan uzaklaştırma (bir parça kırp)</string>
-    <string name="player_menu_favorite_on_title">Star</string>
-    <string name="player_menu_favorite_off_title">Yıldızı kaldır</string>
     <string name="player_menu_favorite_on_details">Favorilere ekle</string>
     <string name="player_menu_favorite_off_details">Favorilerden çıkar</string>
     <string name="player_menu_timeshift">Vardiya</string>
@@ -123,9 +121,6 @@
     <string name="settings_provider_select_type_intro2">Uygulama sadece kullanıcı tarafından sağlanan çalma listeleriyle çalışır.</string>
     <string name="settings_provider_select_apply">Uygulamak</string>
     <string name="settings_provider_select_return">Dönüş</string>
-    <string name="settings_provider_select_prompt_public_playlist_key">Oynatma listesinin genel anahtarı</string>
-    <string name="settings_provider_select_prompt_stalker_login_pass">Stalker giriş ve şifre</string>
-    <string name="settings_provider_select_prompt_lp">Giriş ve şifreniz</string>
 
     <string name="settings_provider_select_status_error">Yapılandırma hatası. Veri yüklenemedi</string>
     <string name="settings_provider_select_status_success">Ayar başarıyla uygulandı</string>
@@ -140,12 +135,8 @@
     <string name="archive_auto_seek_title">Bu videonun en son hatırlanan konumunu mı arıyorsunuz?</string>
     <string name="archive_auto_seek_no">Hayır, başlangıçtan izle</string>
     <string name="archive_auto_seek_yes">Evet, aramak</string>
-    <string name="future_show_sheet_title">Gelecek şov ile ne yapmalı?</string>
     <string name="future_show_sheet_add_wl_title">Kanala geçiş yapmamı hatırlat</string>
-    <string name="future_show_sheet_add_wl_desc">Başka bir video izliyorsanız, ne yapacağınız sorulur.</string>
-    <string name="future_show_sheet_add_wl_push_desc">Video çevrimiçi olduğunda bir push bildirimi alın</string>
     <string name="future_show_sheet_search_title">Arşivlerde ara</string>
-    <string name="future_show_sheet_search_desc">Arşivlerde kullanılabilirliği kontrol et</string>
     <string name="future_show_sheet_search_none">Bu video sağlayıcı arşivlerinde bulunamadı</string>
     <string name="notify_live_sheet_title">Daha sonra izlemek üzere işaretlediğiniz bir video artık çevrimiçi</string>
     <string name="notify_live_sheet_text">Videoyu görüntülemek için geçiş yap</string>
@@ -160,7 +151,6 @@
     <string name="play_switch_codec_vlc">Yazılım VLC kullan</string>
     <string name="play_switch_codec_ext">Harici oynatıcıda aç</string>
     <string name="disk_is_full">Depolama dolu. Biraz yer temizle.</string>
-    <string name="channel_more_hide">Saklamak</string>
     <string name="channel_more_hide_desc">Listeden kaldır</string>
     <string name="change_applies_in_few_min">Değişiklik birkaç dakika içinde uygulanacaktır</string>
     <string name="hud_short_volume">hacim</string>
@@ -336,22 +326,18 @@
     <string name="settings_premium_what_included_9">Kanal numarası girerek kanal değiştirme</string>
     <string name="settings_channel_sort_mode_numb">sayı (kanal numarasına göre değiştirilebilir)</string>
     <string name="ch_opt_change_number">Numara değiştirmek</string>
-    <string name="ch_opt_change_number_desc">Hızlı geçiş için kullanılır</string>
     <string name="prov_btn_help">yardım et</string>
     <string name="prov_help_telegram">Telegram\'a katıl</string>
     <string name="settings_premium_what_included_5">Reklamsız</string>
-    <string name="provider_templates">Yaygın olarak kullanılan sağlayıcı şablonları</string>
     <string name="btn_change">Değişiklik</string>
     <string name="btn_file">Dosya</string>
     <string name="invalid_domain">Alan muhtemelen geçersizdir. Girişinizi kontrol edin</string>
     <string name="example">Örnek</string>
-    <string name="provider_astra">Genel ara katman yazılımı (Astra)</string>
     <string name="provider_generic">Genel sağlayıcı veya oynatma listesi</string>
     <string name="watched">İzlenen:</string>
     <string name="cfg_no_inst_vod_wstate">Videoyu başlattığı anda izlendiği gibi düşünmeyin.</string>
     <string name="btn_search">Arama</string>
     <string name="hint_vod_cache">Medya kütüphanesi birkaç gün boyunca verileri önbelleğe alır. Daha hızlı görünecek yeni verilere ihtiyacınız varsa, ayarlardan önbelleği temizleyin ve uygulamayı yeniden başlatın.</string>
-    <string name="provider_xc">Genel ara katman yazılımı (XtreamCodes)</string>
     <string name="premium_fea_6">Kablosuz bir ekrana yayın gönder</string>
     <string name="wifi_display">Kablosuz Ekran</string>
     <string name="wifi_display_desc">Başka bir cihazda akışı oynat</string>
@@ -406,7 +392,6 @@
     <string name="player_menu_2live">Yaşamaya geç</string>
     <string name="settings_provider_select_key_if_any">Sağlayıcı yetkilendirme anahtarı (varsa).</string>
 
-    <string name="cfg_ch_all_top">En üstte tüm kanallarla kategoriyi göster</string>
     <string name="cfg_pl_offs_swipe">Ses ve parlaklık dokunmatik panelini ekranın kenarından hareket ettirin</string>
     <string name="btn_seek">Aramak</string>
     <string name="cfg_play_action_mseek">Video arama görünümünü başlatır</string>
@@ -423,9 +408,7 @@
     <string name="profile_middle_q">hızdan yüksek kaliteyi tercih et</string>
     <string name="profile_high_q">sadece kalite önemli</string>
     <string name="channel_move_cat">Kategoriyi değiştir</string>
-    <string name="channel_move_cat_desc">Başka bir gruba taşı</string>
     <string name="channel_move_new_cat">Yeni kategori oluştur</string>
-    <string name="premium_revert_all_edits">Kanal yapılandırmasını başlangıç durumuna geri yükle</string>
     <string name="premium_fea_edit_list">Kategori düzenleme, kanalları gizleme vb.</string>
     <string name="prov_help_bug">Bir sorun veya hatayı bildirin</string>
     <string name="prov_help_tpl">Sağlayıcı şablonu sorununu bildir</string>
@@ -507,4 +490,30 @@
     <string name="cfg_codec_exo_q">Donanım codec kalitesi</string>
     <string name="cfg_codec_exo_max">en iyi eşleşme</string>
     <string name="cfg_codec_exo_compat">uyumluluk modu</string>
+
+    <string name="suggest_better_prov_tpl">Sağlayıcınız için daha iyi bir şablon var gibi görünüyor</string>
+    <string name="place_pl_to_downloads">İndirilen dosyalarda geçerli bir oynatma listesi bulunamadı</string>
+    <string name="only_1_active">Aynı anda birkaç aktif sağlayıcıya sahip olmak için gerekli prim</string>
+    <string name="menu_qs_provider">Geçiş sağlayıcı</string>
+    <string name="menu_qs_provider_cfg">Aktif sağlayıcılar arasında hızlı geçişi göster</string>
+    <string name="menu_qs_provider_all">Tüm aktif sağlayıcılar</string>
+    <string name="menu_tv_guide_cfg">TV Rehberi düğmesini göster</string>
+    <string name="cfg_video_preview_sound">Video önizlemesinde sesi etkinleştir tanımında</string>
+    <string name="btn_schedule_upnp_vod_load">UPnP medya kütüphanesini yeniden yükleyin</string>
+    <string name="provider_generic_middleware">Genel katman sunucusu</string>
+    <string name="provider_generic_list">Tedarikçi listesi</string>
+    <string name="provider_generic_list_desc">Yakındaki genel şablonlar (dil ve bölge)</string>
+    <string name="yes">Evet</string>
+    <string name="no">Yok hayır</string>
+    <string name="cfg_zoom_shrink">küçültmek</string>
+    <string name="cfg_channel_manager">Kanalları yönet</string>
+    <string name="cfg_channel_manager_categories">Kategoriler</string>
+    <string name="cfg_channel_manager_channels">Kanallar</string>
+    <string name="ch_manage_show">Listede göster</string>
+    <string name="ch_manage_child_on">Çocuk modunda etkinleştir</string>
+    <string name="ch_manage_child_off">Çocuk modunda devre dışı bırak</string>
+    <string name="ch_manage_status_favorite">favori</string>
+    <string name="ch_manage_status_hidden">gizli</string>
+    <string name="ch_manage_status_child">çocuk</string>
+    <string name="show_future_search_in_other">Harici uygulamalarda ara</string>
 </resources>

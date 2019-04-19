@@ -85,8 +85,6 @@
     <string name="player_menu_aspect_ratio_fill_details">幅まで塗りつぶす</string>
     <string name="player_menu_aspect_ratio_zoom_details">画面にズーム</string>
     <string name="player_menu_aspect_ratio_zoom_in_details">画面をズームアウトする（一部を切り取る）</string>
-    <string name="player_menu_favorite_on_title">星</string>
-    <string name="player_menu_favorite_off_title">アンスター</string>
     <string name="player_menu_favorite_on_details">お気に入りに追加</string>
     <string name="player_menu_favorite_off_details">お気に入りから削除</string>
     <string name="player_menu_timeshift">タイムシフト</string>
@@ -123,9 +121,6 @@
     <string name="settings_provider_select_type_intro2">アプリケーションはユーザー提供のプレイリストでのみ動作します。</string>
     <string name="settings_provider_select_apply">適用</string>
     <string name="settings_provider_select_return">戻る</string>
-    <string name="settings_provider_select_prompt_public_playlist_key">プレイリストの公開鍵</string>
-    <string name="settings_provider_select_prompt_stalker_login_pass">ストーカーのログインとパスワード</string>
-    <string name="settings_provider_select_prompt_lp">あなたのログインとパスワード</string>
 
     <string name="settings_provider_select_status_error">構成エラー。データの読み込みに失敗しました</string>
     <string name="settings_provider_select_status_success">設定が正常に適用された</string>
@@ -140,12 +135,8 @@
     <string name="archive_auto_seek_title">このビデオの最後に記憶された位置に移動しますか？</string>
     <string name="archive_auto_seek_no">いいえ、最初から見てください</string>
     <string name="archive_auto_seek_yes">はい、求める</string>
-    <string name="future_show_sheet_title">将来のショーとは何か？</string>
     <string name="future_show_sheet_add_wl_title">チャンネルに切り替えるように通知する</string>
-    <string name="future_show_sheet_add_wl_desc">別の動画を見ている場合は、何に切り替えるか尋ねられます</string>
-    <string name="future_show_sheet_add_wl_push_desc">ビデオがオンラインになるとプッシュ通知を受ける</string>
     <string name="future_show_sheet_search_title">アーカイブで検索</string>
-    <string name="future_show_sheet_search_desc">アーカイブの可用性をチェックする</string>
     <string name="future_show_sheet_search_none">この動画はプロバイダのアーカイブに見つかりませんでした</string>
     <string name="notify_live_sheet_title">後で見るためにマークした動画がオンラインになりました</string>
     <string name="notify_live_sheet_text">ビデオを見るに切り替える</string>
@@ -160,7 +151,6 @@
     <string name="play_switch_codec_vlc">ソフトウェアVLCを使用する</string>
     <string name="play_switch_codec_ext">外部プレーヤーで開く</string>
     <string name="disk_is_full">ストレージがいっぱいです。いくつかのスペースをクリーンアップします。</string>
-    <string name="channel_more_hide">隠す</string>
     <string name="channel_more_hide_desc">リストから削除する</string>
     <string name="change_applies_in_few_min">変更は数分で適用されます</string>
     <string name="hud_short_volume">ボリューム</string>
@@ -338,22 +328,18 @@
     <string name="settings_premium_what_included_9">チャンネル番号を入力してチャンネルを切り替える</string>
     <string name="settings_channel_sort_mode_numb">番号（チャンネル番号別、変更可能）</string>
     <string name="ch_opt_change_number">番号を変更する</string>
-    <string name="ch_opt_change_number_desc">迅速な切り替えに使用</string>
     <string name="prov_btn_help">助けて</string>
     <string name="prov_help_telegram">テレグラムでチャットに参加する</string>
     <string name="settings_premium_what_included_5">広告なし</string>
-    <string name="provider_templates">よく使用されるプロバイダテンプレート</string>
     <string name="btn_change">変化する</string>
     <string name="btn_file">ファイル</string>
     <string name="invalid_domain">ドメインはおそらく無効です。入力を確認する</string>
     <string name="example">例</string>
-    <string name="provider_astra">汎用ミドルウェア（Astra）</string>
     <string name="provider_generic">一般的なプロバイダまたはプレイリスト</string>
     <string name="watched">見た：</string>
     <string name="cfg_no_inst_vod_wstate">ビデオを起動したら直ちに監視されていると見なさないでください</string>
     <string name="btn_search">サーチ</string>
     <string name="hint_vod_cache">メディアライブラリは数日間データをキャッシュします。新しいデータをもっと速く表示する必要がある場合は、設定からキャッシュをクリアしてアプリを再起動します。</string>
-    <string name="provider_xc">汎用ミドルウェア（XtreamCodes）</string>
     <string name="premium_fea_6">ストリームをワイヤレスディスプレイに送信する</string>
     <string name="wifi_display">ワイヤレスディスプレイ</string>
     <string name="wifi_display_desc">別のデバイスでストリームを再生する</string>
@@ -408,7 +394,6 @@
     <string name="player_menu_2live">ライブに切り替える</string>
     <string name="settings_provider_select_key_if_any">プロバイダ認証キー（ある場合）。</string>
 
-    <string name="cfg_ch_all_top">すべてのチャンネルを一番上にしてカテゴリを表示</string>
     <string name="cfg_pl_offs_swipe">画面の端から音量と明るさのタッチパネルを動かす</string>
     <string name="btn_seek">シーク</string>
     <string name="cfg_play_action_mseek">ビデオシークビューを開始します</string>
@@ -425,9 +410,7 @@
     <string name="profile_middle_q">スピードよりも品質を好む</string>
     <string name="profile_high_q">品質問題だけ</string>
     <string name="channel_move_cat">カテゴリを変更</string>
-    <string name="channel_move_cat_desc">他のグループに移動する</string>
     <string name="channel_move_new_cat">新しいカテゴリを作成</string>
-    <string name="premium_revert_all_edits">チャネル設定を初期状態に復元</string>
     <string name="premium_fea_edit_list">カテゴリの編集、チャンネルの非表示などを許可します</string>
     <string name="prov_help_bug">問題やバグを報告する</string>
     <string name="prov_help_tpl">レポートプロバイダーテンプレートの問題</string>
@@ -509,4 +492,30 @@
     <string name="cfg_codec_exo_q">ハードウェアコーデック品質</string>
     <string name="cfg_codec_exo_max">ベストマッチ</string>
     <string name="cfg_codec_exo_compat">互換モード</string>
+
+    <string name="suggest_better_prov_tpl">あなたのプロバイダのためのより良いテンプレートがあるようです</string>
+    <string name="place_pl_to_downloads">ダウンロードに有効な再生リストが見つかりません</string>
+    <string name="only_1_active">同時に複数のアクティブプロバイダーを持つにはプレミアムが必要です</string>
+    <string name="menu_qs_provider">スイッチプロバイダー</string>
+    <string name="menu_qs_provider_cfg">アクティブなプロバイダ間のクイックスイッチを表示</string>
+    <string name="menu_qs_provider_all">すべてのアクティブプロバイダー</string>
+    <string name="menu_tv_guide_cfg">テレビガイドを表示ボタン</string>
+    <string name="cfg_video_preview_sound">ビデオプレビューでサウンドを有効にする説明の</string>
+    <string name="btn_schedule_upnp_vod_load">UPnPメディアライブラリをリロードする</string>
+    <string name="provider_generic_middleware">汎用ミドルウェアサーバー</string>
+    <string name="provider_generic_list">プロバイダリスト</string>
+    <string name="provider_generic_list_desc">近くにある共通のテンプレート（言語と地域）</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="cfg_zoom_shrink">シュリンク</string>
+    <string name="cfg_channel_manager">チャンネルを管理する</string>
+    <string name="cfg_channel_manager_categories">カテゴリー</string>
+    <string name="cfg_channel_manager_channels">チャンネル</string>
+    <string name="ch_manage_show">リストに表示する</string>
+    <string name="ch_manage_child_on">子モードで有効にする</string>
+    <string name="ch_manage_child_off">子モードで無効にする</string>
+    <string name="ch_manage_status_favorite">好きな</string>
+    <string name="ch_manage_status_hidden">隠された</string>
+    <string name="ch_manage_status_child">子</string>
+    <string name="show_future_search_in_other">外部アプリを検索する</string>
 </resources>

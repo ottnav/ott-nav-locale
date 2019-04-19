@@ -86,8 +86,6 @@
     <string name="player_menu_aspect_ratio_fill_details">išplėsti pagal ilgį</string>
     <string name="player_menu_aspect_ratio_zoom_details">padidinti pagal ekraną</string>
     <string name="player_menu_aspect_ratio_zoom_in_details">padidinti pagal ekraną (apkarpyti)</string>
-    <string name="player_menu_favorite_on_title">Pažymėti</string>
-    <string name="player_menu_favorite_off_title">Nuimti žymėjimą</string>
     <string name="player_menu_favorite_on_details">Pridėti prie mėgstamų</string>
     <string name="player_menu_favorite_off_details">Pašalinti iš mėgstamų</string>
     <string name="player_menu_timeshift">Timeshift</string>
@@ -125,9 +123,6 @@
     <string name="settings_provider_select_type_intro2">Programa veikia tik su pridėtais vartotojo grojaraščiais.</string>
     <string name="settings_provider_select_apply">Taikyti</string>
     <string name="settings_provider_select_return">Grįžti</string>
-    <string name="settings_provider_select_prompt_public_playlist_key">Viešas grojaraščio raktas</string>
-    <string name="settings_provider_select_prompt_stalker_login_pass">Stalker prisijungimo vardas ir slaptažodis</string>
-    <string name="settings_provider_select_prompt_lp">Jūsų prisijungimo vardas ir slaptažodis</string>
 
     <string name="settings_provider_select_status_error">Nustatymų klaida. Nepavyko parsisiųsti duomenų.</string>
     <string name="settings_provider_select_status_success">Nustatymai priimti sėkmingai.</string>
@@ -142,12 +137,8 @@
     <string name="archive_auto_seek_title">Persukti į paskutinę išsaugotą vietą šiame video?</string>
     <string name="archive_auto_seek_no">Ne, žiūrėti iš pradžių</string>
     <string name="archive_auto_seek_yes">Taip, persukti į</string>
-    <string name="future_show_sheet_title">Kaip Jūms pranešti apie būsimas transliacijas?</string>
     <string name="future_show_sheet_add_wl_title">Priminti man, kad perjungti kanalą</string>
-    <string name="future_show_sheet_add_wl_desc">Žiūrint kitą transliaciją, gauti pasiūlymą perjungti kanalą</string>
-    <string name="future_show_sheet_add_wl_push_desc">Gauti Push pranešimą, kai prasidės tiesioginė trasliacija</string>
     <string name="future_show_sheet_search_title">Paieška archyve</string>
-    <string name="future_show_sheet_search_desc">Patikrinti pasiekiamumą archyve</string>
     <string name="future_show_sheet_search_none">Nurodytas video nerastas tiekėjo archyve</string>
     <string name="notify_live_sheet_title">Transliacija, pažymėta būsimam žiūrėjimui, dabar rodoma tiesiogiai</string>
     <string name="notify_live_sheet_text">Perjungti tiesioginiam žiūrėjimui</string>
@@ -162,7 +153,6 @@
     <string name="play_switch_codec_vlc">Naudoti programinius (SW) VLC kodekus</string>
     <string name="play_switch_codec_ext">Atidaryti išoriniame grotuve</string>
     <string name="disk_is_full">Saugykloje trūksta vietos. Atlaisvinkite šiek tiek vietos.</string>
-    <string name="channel_more_hide">Paslėpti</string>
     <string name="channel_more_hide_desc">Pašalinti iš sąrašo</string>
     <string name="change_applies_in_few_min">Pakeitimai bus pritaikyti per keleta minučių</string>
     <string name="hud_short_volume">Garsumas</string>
@@ -340,22 +330,18 @@
     <string name="settings_premium_what_included_9">Perjungimas kanalų įvedant kanalo numerį</string>
     <string name="settings_channel_sort_mode_numb">pagal numerį (kanalo numeris gali būti pakeistas)</string>
     <string name="ch_opt_change_number">Pakeisti numerį</string>
-    <string name="ch_opt_change_number_desc">Naudojama greitam perjungimui</string>
     <string name="prov_btn_help">Pagalba</string>
     <string name="prov_help_telegram">Užeiti į pokalbį Telegram</string>
     <string name="settings_premium_what_included_5">Be reklamos</string>
-    <string name="provider_templates">Dažnai naudojami tiekėjų šablonai</string>
     <string name="btn_change">Pakeisti</string>
     <string name="btn_file">failas</string>
     <string name="invalid_domain">Tikėtina, kad  domenas neteisingas. Patikrinkite savo nustatymus.</string>
     <string name="example">Pavyzdys</string>
-    <string name="provider_astra">Bendras middleware serveris (Astra)</string>
     <string name="provider_generic">Bendras tiekėjas arba grojaraštis</string>
     <string name="watched">Peržiūrėta:</string>
     <string name="cfg_no_inst_vod_wstate">Nežymėti video peržiūrėtu jį tik paleidus</string>
     <string name="btn_search">Paieška</string>
     <string name="hint_vod_cache">Media galerija saugo duomenis keletui dienų. Jei norite, kad duomenys būtų rodomi reičiau, išvalykite talpyklą ir paleiskite programą iš naujo.</string>
-    <string name="provider_xc">Bendras middleware serveris (XtreamCodes)</string>
     <string name="premium_fea_6">Perduoti srautą belaidžiu projektavimu</string>
     <string name="wifi_display">Belaidis projektavimas</string>
     <string name="wifi_display_desc">Leisti srautą kitame įrenginyje</string>
@@ -411,7 +397,6 @@
     <string name="player_menu_2live">Į tiesioginę transliaciją</string>
     <string name="settings_provider_select_key_if_any">Tiekėjo autorizacijos raktas (jei yra).</string>
 
-    <string name="cfg_ch_all_top">Rodyti kategoriją su visais viršutiniais kanalais</string>
     <string name="cfg_pl_offs_swipe">Perkelkite garsumo ir ryškumo jutiklinį ekraną iš ekrano krašto</string>
     <string name="btn_seek">Ieškoti</string>
     <string name="cfg_play_action_mseek">Pradeda vaizdo ieškos vaizdą</string>
@@ -428,9 +413,7 @@
     <string name="profile_middle_q">pirmenybė teikiama kokybei greičiau</string>
     <string name="profile_high_q">tik kokybės klausimai</string>
     <string name="channel_move_cat">Keisti kategoriją</string>
-    <string name="channel_move_cat_desc">Perkelti į kitą grupę</string>
     <string name="channel_move_new_cat">Sukurti naują kategoriją</string>
-    <string name="premium_revert_all_edits">Atkurti kanalų konfigūraciją į pradinę būseną</string>
     <string name="premium_fea_edit_list">Leidžia redaguoti kategorijas, slėpti kanalus ir pan</string>
     <string name="prov_help_bug">Pranešti apie problemą ar klaidą</string>
     <string name="prov_help_tpl">Ataskaitų teikėjo šablono problema</string>
@@ -512,4 +495,30 @@
     <string name="cfg_codec_exo_q">Aparatūros kodekų kokybė</string>
     <string name="cfg_codec_exo_max">Geriausias atitikimas</string>
     <string name="cfg_codec_exo_compat">suderinamumo režimu</string>
+
+    <string name="suggest_better_prov_tpl">Atrodo, kad jūsų paslaugų teikėjui yra geresnis šablonas</string>
+    <string name="place_pl_to_downloads">Atsiuntimuose nerasta tinkamo grojaraščio</string>
+    <string name="only_1_active">Norint turėti kelis aktyvius paslaugų teikėjus tuo pačiu metu, reikia papildomos įmokos</string>
+    <string name="menu_qs_provider">Perjungti paslaugų teikėją</string>
+    <string name="menu_qs_provider_cfg">Rodyti greitą perjungimą tarp aktyvių paslaugų teikėjų</string>
+    <string name="menu_qs_provider_all">Visi aktyvūs paslaugų teikėjai</string>
+    <string name="menu_tv_guide_cfg">Rodyti mygtuką „TV Guide“</string>
+    <string name="cfg_video_preview_sound">Leisti garsą vaizdo peržiūroje aprašyme</string>
+    <string name="btn_schedule_upnp_vod_load">Perkrauti UPnP medijos biblioteką</string>
+    <string name="provider_generic_middleware">Bendrasis tarpinės programinės įrangos serveris</string>
+    <string name="provider_generic_list">Teikėjų sąrašas</string>
+    <string name="provider_generic_list_desc">Netoliese esantys bendri šablonai (kalba ir regionas)</string>
+    <string name="yes">Taip</string>
+    <string name="no">Ne</string>
+    <string name="cfg_zoom_shrink">susitraukti</string>
+    <string name="cfg_channel_manager">Valdykite kanalus</string>
+    <string name="cfg_channel_manager_categories">Kategorijos</string>
+    <string name="cfg_channel_manager_channels">Kanalai</string>
+    <string name="ch_manage_show">Rodyti sąraše</string>
+    <string name="ch_manage_child_on">Įjunkite vaikų režimą</string>
+    <string name="ch_manage_child_off">Išjungti vaikų režimu</string>
+    <string name="ch_manage_status_favorite">mėgstamiausia</string>
+    <string name="ch_manage_status_hidden">paslėpta</string>
+    <string name="ch_manage_status_child">vaikas</string>
+    <string name="show_future_search_in_other">Ieškoti išorinėse programose</string>
 </resources>

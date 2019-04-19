@@ -85,8 +85,6 @@
     <string name="player_menu_aspect_ratio_fill_details">למלא רוחב</string>
     <string name="player_menu_aspect_ratio_zoom_details">זום למסך</string>
     <string name="player_menu_aspect_ratio_zoom_in_details">זום את המסך (לחתוך חלק)</string>
-    <string name="player_menu_favorite_on_title">כוכב</string>
-    <string name="player_menu_favorite_off_title">בטל סימון בכוכב</string>
     <string name="player_menu_favorite_on_details">הוסף למועדפים</string>
     <string name="player_menu_favorite_off_details">הסר מהמועדפים</string>
     <string name="player_menu_timeshift">שינוי הזמן</string>
@@ -123,9 +121,6 @@
     <string name="settings_provider_select_type_intro2">היישום פועל עם פלייליסטים שסופקו על ידי המשתמש בלבד.</string>
     <string name="settings_provider_select_apply">להגיש מועמדות</string>
     <string name="settings_provider_select_return">לַחֲזוֹר</string>
-    <string name="settings_provider_select_prompt_public_playlist_key">המפתח הציבורי של הפלייליסט</string>
-    <string name="settings_provider_select_prompt_stalker_login_pass">Stalker כניסה וסיסמה</string>
-    <string name="settings_provider_select_prompt_lp">שם המשתמש והסיסמה שלך</string>
 
     <string name="settings_provider_select_status_error">שגיאת תצורה. טעינת הנתונים נכשלה</string>
     <string name="settings_provider_select_status_success">ההגדרה הוחלה בהצלחה</string>
@@ -140,12 +135,8 @@
     <string name="archive_auto_seek_title">מחפש את המיקום האחרון שנזכר בסרטון זה?</string>
     <string name="archive_auto_seek_no">לא, תראה מההתחלה</string>
     <string name="archive_auto_seek_yes">כן, חפשו</string>
-    <string name="future_show_sheet_title">מה לעשות עם הצג בעתיד?</string>
     <string name="future_show_sheet_add_wl_title">הזכר לי לעבור לערוץ</string>
-    <string name="future_show_sheet_add_wl_desc">אם אתה צופה בסרטון אחר, תקבל שאל מה לעבור</string>
-    <string name="future_show_sheet_add_wl_push_desc">קבל הודעת דחיפה כאשר הסרטון יגיע לאינטרנט</string>
     <string name="future_show_sheet_search_title">חיפוש בארכיונים</string>
-    <string name="future_show_sheet_search_desc">בדוק את זמינותם בארכיונים</string>
     <string name="future_show_sheet_search_none">הסרטון הזה לא נמצא בארכיון הספקים שלך</string>
     <string name="notify_live_sheet_title">סרטון שסימנת כדי לצפות בו מאוחר יותר נמצא כעת במצב מקוון</string>
     <string name="notify_live_sheet_text">עבור להצגת הווידאו</string>
@@ -160,7 +151,6 @@
     <string name="play_switch_codec_vlc">השתמש בתוכנה VLC</string>
     <string name="play_switch_codec_ext">פתח את הנגן החיצוני</string>
     <string name="disk_is_full">האחסון מלא. לנקות קצת מקום.</string>
-    <string name="channel_more_hide">להתחבא</string>
     <string name="channel_more_hide_desc">הסר מהרשימה</string>
     <string name="change_applies_in_few_min">השינוי יחול בעוד מספר דקות</string>
     <string name="hud_short_volume">כרך</string>
@@ -336,22 +326,18 @@
     <string name="settings_premium_what_included_9">החלפת ערוצים על ידי הזנת מספר ערוץ</string>
     <string name="settings_channel_sort_mode_numb">מספר (לפי מספר ערוץ, ניתן לשנות)</string>
     <string name="ch_opt_change_number">שנה מספר</string>
-    <string name="ch_opt_change_number_desc">משמש עבור מיתוג מהיר</string>
     <string name="prov_btn_help">עזרה</string>
     <string name="prov_help_telegram">הצטרף לצ\'אט ב- Telegram</string>
     <string name="settings_premium_what_included_5">ללא פרסומות</string>
-    <string name="provider_templates">תבניות שימוש נפוץ</string>
     <string name="btn_change">שינוי</string>
     <string name="btn_file">קובץ</string>
     <string name="invalid_domain">הדומיין הוא כנראה לא חוקי. בדוק את הקלט</string>
     <string name="example">דוגמא</string>
-    <string name="provider_astra">תווכה גנריות (Astra)</string>
     <string name="provider_generic">ספק כללי או רשימת השמעה</string>
     <string name="watched">נצפה:</string>
     <string name="cfg_no_inst_vod_wstate">אל תשקול את הסרטון כפי שנצפה ברגע שתפעיל אותו</string>
     <string name="btn_search">לחפש</string>
     <string name="hint_vod_cache">ספריית המדיה שומרת את נתוני המטמון במשך מספר ימים. אם אתה צריך נתונים חדשים כדי להופיע מהר יותר, מטמון ברור מההגדרות מחדש את היישום.</string>
-    <string name="provider_xc">תווכה גנרי (XtreamCodes)</string>
     <string name="premium_fea_6">שלח זרם לתצוגה אלחוטית</string>
     <string name="wifi_display">תצוגה אלחוטית</string>
     <string name="wifi_display_desc">הפעל זרם במכשיר אחר</string>
@@ -406,7 +392,6 @@
     <string name="player_menu_2live">עבור לגור</string>
     <string name="settings_provider_select_key_if_any">מפתח אישור ספק (אם קיים).</string>
 
-    <string name="cfg_ch_all_top">הצג קטגוריה עם כל הערוצים בחלק העליון</string>
     <string name="cfg_pl_offs_swipe">הזז את לוח המגע של עוצמת הקול והבהירות מקצה המסך</string>
     <string name="btn_seek">חפשו</string>
     <string name="cfg_play_action_mseek">הפעלת תצוגת חיפוש וידאו</string>
@@ -423,9 +408,7 @@
     <string name="profile_middle_q">מעדיפים איכות על מהירות</string>
     <string name="profile_high_q">רק ענייני איכות</string>
     <string name="channel_move_cat">שנה קטגוריה</string>
-    <string name="channel_move_cat_desc">עבור לקבוצה אחרת</string>
     <string name="channel_move_new_cat">צור קטגוריה חדשה</string>
-    <string name="premium_revert_all_edits">שחזור תצורת ערוצים למצב ההתחלתי</string>
     <string name="premium_fea_edit_list">מאפשר עריכה של קטגוריות, הסתרת ערוצים וכו \'</string>
     <string name="prov_help_bug">דווח על בעיה או על באג</string>
     <string name="prov_help_tpl">דווח על בעיה בתבנית ספק</string>
@@ -507,4 +490,30 @@
     <string name="cfg_codec_exo_q">חומרה איכות codec</string>
     <string name="cfg_codec_exo_max">ההתאמה הטובה ביותר</string>
     <string name="cfg_codec_exo_compat">מצב תאימות</string>
+
+    <string name="suggest_better_prov_tpl">נראה כי יש תבנית טובה יותר עבור ספק שלך</string>
+    <string name="place_pl_to_downloads">לא נמצא פלייליסט חוקי בהורדות</string>
+    <string name="only_1_active">Premium נדרש מספר ספקים פעילים באותו זמן</string>
+    <string name="menu_qs_provider">החלף ספק</string>
+    <string name="menu_qs_provider_cfg">הצג מעבר מהיר בין ספקים פעילים</string>
+    <string name="menu_qs_provider_all">כל הספקים הפעילים</string>
+    <string name="menu_tv_guide_cfg">הצג לחצן מדריך טלוויזיה</string>
+    <string name="cfg_video_preview_sound">הפעל צליל בתצוגה המקדימה של הסרטון בתיאור</string>
+    <string name="btn_schedule_upnp_vod_load">טען מחדש את ספריית המדיה UPnP</string>
+    <string name="provider_generic_middleware">שרת תווכה גנרי</string>
+    <string name="provider_generic_list">רשימת ספקים</string>
+    <string name="provider_generic_list_desc">תבניות נפוצות בקרבת מקום (שפה ואזור)</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="cfg_zoom_shrink">לצמק</string>
+    <string name="cfg_channel_manager">נהל ערוצים</string>
+    <string name="cfg_channel_manager_categories">קטגוריות</string>
+    <string name="cfg_channel_manager_channels">ערוצים</string>
+    <string name="ch_manage_show">הצג ברשימה</string>
+    <string name="ch_manage_child_on">הפעל במצב ילד</string>
+    <string name="ch_manage_child_off">השבת במצב ילד</string>
+    <string name="ch_manage_status_favorite">אהוב</string>
+    <string name="ch_manage_status_hidden">מוסתר</string>
+    <string name="ch_manage_status_child">ילד</string>
+    <string name="show_future_search_in_other">חפש ביישומים חיצוניים</string>
 </resources>

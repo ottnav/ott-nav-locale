@@ -85,8 +85,6 @@
     <string name="player_menu_aspect_ratio_fill_details">wypełnij do szerokości</string>
     <string name="player_menu_aspect_ratio_zoom_details">powiększ do ekranu</string>
     <string name="player_menu_aspect_ratio_zoom_in_details">pomniejszyć ekran (przyciąć część)</string>
-    <string name="player_menu_favorite_on_title">Gwiazda</string>
-    <string name="player_menu_favorite_off_title">Unstar</string>
     <string name="player_menu_favorite_on_details">Dodaj do ulubionych</string>
     <string name="player_menu_favorite_off_details">Usuń z ulubionych</string>
     <string name="player_menu_timeshift">Timeshift</string>
@@ -123,9 +121,6 @@
     <string name="settings_provider_select_type_intro2">Aplikacja działa tylko z listami dostarczonymi przez użytkownika.</string>
     <string name="settings_provider_select_apply">Zastosować</string>
     <string name="settings_provider_select_return">Powrót</string>
-    <string name="settings_provider_select_prompt_public_playlist_key">Klucz publiczny listy odtwarzania</string>
-    <string name="settings_provider_select_prompt_stalker_login_pass">Logowanie użytkownika i hasło Stalker</string>
-    <string name="settings_provider_select_prompt_lp">Twój login i hasło</string>
 
     <string name="settings_provider_select_status_error">Błąd konfiguracji. Nie udało się wczytać danych</string>
     <string name="settings_provider_select_status_success">Ustawienie zostało pomyślnie zastosowane</string>
@@ -140,12 +135,8 @@
     <string name="archive_auto_seek_title">Poszukaj ostatniej zapamiętanej pozycji tego filmu wideo?</string>
     <string name="archive_auto_seek_no">Nie, uważaj od początku</string>
     <string name="archive_auto_seek_yes">Tak, staraj się</string>
-    <string name="future_show_sheet_title">Co zrobić z przyszłym programem?</string>
     <string name="future_show_sheet_add_wl_title">Przypomnij mi, aby przejść do kanału</string>
-    <string name="future_show_sheet_add_wl_desc">Jeśli obejrzysz inny film, otrzymasz pytanie, na które chcesz się przełączyć</string>
-    <string name="future_show_sheet_add_wl_push_desc">Uzyskaj powiadomienie push, gdy wideo wejdzie w tryb online</string>
     <string name="future_show_sheet_search_title">Wyszukaj w archiwach</string>
-    <string name="future_show_sheet_search_desc">Sprawdź dostępność w archiwach</string>
     <string name="future_show_sheet_search_none">Ten film nie został znaleziony w archiwach dostawcy</string>
     <string name="notify_live_sheet_title">Film oznaczony do obejrzenia później jest już dostępny online</string>
     <string name="notify_live_sheet_text">Przełącz, aby wyświetlić wideo</string>
@@ -160,7 +151,6 @@
     <string name="play_switch_codec_vlc">Użyj oprogramowania VLC</string>
     <string name="play_switch_codec_ext">Otwórz w odtwarzaczu zewnętrznym</string>
     <string name="disk_is_full">Magazyn jest pełny. Oczyść trochę miejsca.</string>
-    <string name="channel_more_hide">Ukryć</string>
     <string name="channel_more_hide_desc">Usuń z listy</string>
     <string name="change_applies_in_few_min">Zmiana będzie obowiązywać w ciągu kilku minut</string>
     <string name="hud_short_volume">Tom</string>
@@ -336,22 +326,18 @@
     <string name="settings_premium_what_included_9">Przełączanie kanałów poprzez wprowadzanie numeru kanału</string>
     <string name="settings_channel_sort_mode_numb">numer (według numeru kanału, można zmienić)</string>
     <string name="ch_opt_change_number">Zmienić numer</string>
-    <string name="ch_opt_change_number_desc">Służy do szybkiego przełączania</string>
     <string name="prov_btn_help">Wsparcie</string>
     <string name="prov_help_telegram">Dołącz do czatu w Telegramie</string>
     <string name="settings_premium_what_included_5">Bez reklam</string>
-    <string name="provider_templates">Powszechnie używane szablony dostawców</string>
     <string name="btn_change">Zmiana</string>
     <string name="btn_file">Plik</string>
     <string name="invalid_domain">Domena jest prawdopodobnie nieprawidłowa. Sprawdź swoje dane wejściowe</string>
     <string name="example">Przykład</string>
-    <string name="provider_astra">Ogólne oprogramowanie pośredniczące (Astra)</string>
     <string name="provider_generic">Ogólny dostawca lub lista odtwarzania</string>
     <string name="watched">Oglądał:</string>
     <string name="cfg_no_inst_vod_wstate">Nie oglądaj wideo oglądanego zaraz po jego uruchomieniu</string>
     <string name="btn_search">Szukaj</string>
     <string name="hint_vod_cache">Biblioteka multimediów buforuje dane przez kilka dni. Jeśli chcesz, aby nowe dane pojawiały się szybciej, wyczyść pamięć podręczną z ustawień i uruchom ponownie aplikację.</string>
-    <string name="provider_xc">Ogólne oprogramowanie pośrednie (XtreamCodes)</string>
     <string name="premium_fea_6">Wyślij strumień do wyświetlacza bezprzewodowego</string>
     <string name="wifi_display">Bezprzewodowy wyświetlacz</string>
     <string name="wifi_display_desc">Odtwórz transmisję na innym urządzeniu</string>
@@ -406,7 +392,6 @@
     <string name="player_menu_2live">Przełącz na żywo</string>
     <string name="settings_provider_select_key_if_any">Klucz autoryzacji dostawcy (jeśli istnieje).</string>
 
-    <string name="cfg_ch_all_top">Pokaż kategorię ze wszystkimi kanałami na górze</string>
     <string name="cfg_pl_offs_swipe">Przesuń panel dotykowy głośności i jasności od krawędzi ekranu</string>
     <string name="btn_seek">Szukać</string>
     <string name="cfg_play_action_mseek">Uruchamia widok wyszukiwania wideo</string>
@@ -423,9 +408,7 @@
     <string name="profile_middle_q">preferuj jakość ponad szybkość</string>
     <string name="profile_high_q">liczy się tylko jakość</string>
     <string name="channel_move_cat">Zmień kategorię</string>
-    <string name="channel_move_cat_desc">Przejdź do innej grupy</string>
     <string name="channel_move_new_cat">Utwórz nową kategorię</string>
-    <string name="premium_revert_all_edits">Przywróć konfigurację kanałów do stanu początkowego</string>
     <string name="premium_fea_edit_list">Umożliwia edycję kategorii, ukrywanie kanałów itp</string>
     <string name="prov_help_bug">Zgłoś problem lub błąd</string>
     <string name="prov_help_tpl">Problem z szablonem dostawcy raportów</string>
@@ -507,4 +490,30 @@
     <string name="cfg_codec_exo_q">Sprzętowa jakość kodeków</string>
     <string name="cfg_codec_exo_max">najlepsze dopasowanie</string>
     <string name="cfg_codec_exo_compat">tryb zgodności</string>
+
+    <string name="suggest_better_prov_tpl">Wydaje się, że jest lepszy szablon dla twojego operatora</string>
+    <string name="place_pl_to_downloads">Nie znaleziono prawidłowej listy odtwarzania w plikach do pobrania</string>
+    <string name="only_1_active">Premium wymagane, aby mieć kilku aktywnych dostawców w tym samym czasie</string>
+    <string name="menu_qs_provider">Przełącz dostawcę</string>
+    <string name="menu_qs_provider_cfg">Pokaż szybkie przełączanie między aktywnymi dostawcami</string>
+    <string name="menu_qs_provider_all">Wszyscy aktywni dostawcy</string>
+    <string name="menu_tv_guide_cfg">Pokaż przycisk Przewodnika TV</string>
+    <string name="cfg_video_preview_sound">Włącz dźwięk w podglądzie wideo w opisie</string>
+    <string name="btn_schedule_upnp_vod_load">Odśwież bibliotekę multimediów UPnP</string>
+    <string name="provider_generic_middleware">Ogólny serwer oprogramowania pośredniego</string>
+    <string name="provider_generic_list">Lista dostawców</string>
+    <string name="provider_generic_list_desc">W pobliżu wspólne szablony (język i region)</string>
+    <string name="yes">tak</string>
+    <string name="no">Nie</string>
+    <string name="cfg_zoom_shrink">kurczyć się</string>
+    <string name="cfg_channel_manager">Zarządzaj kanałami</string>
+    <string name="cfg_channel_manager_categories">Kategorie</string>
+    <string name="cfg_channel_manager_channels">Kanały</string>
+    <string name="ch_manage_show">Pokaż na liście</string>
+    <string name="ch_manage_child_on">Włącz w trybie podrzędnym</string>
+    <string name="ch_manage_child_off">Wyłącz w trybie podrzędnym</string>
+    <string name="ch_manage_status_favorite">ulubiony</string>
+    <string name="ch_manage_status_hidden">ukryty</string>
+    <string name="ch_manage_status_child">dziecko</string>
+    <string name="show_future_search_in_other">Szukaj w aplikacjach zewnętrznych</string>
 </resources>

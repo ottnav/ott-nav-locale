@@ -85,8 +85,6 @@
     <string name="player_menu_aspect_ratio_fill_details">填充宽度</string>
     <string name="player_menu_aspect_ratio_zoom_details">缩放到屏幕</string>
     <string name="player_menu_aspect_ratio_zoom_in_details">缩小屏幕（裁剪部分）</string>
-    <string name="player_menu_favorite_on_title">星</string>
-    <string name="player_menu_favorite_off_title">取消星号标记</string>
     <string name="player_menu_favorite_on_details">添加到收藏夹</string>
     <string name="player_menu_favorite_off_details">从收藏夹中删除</string>
     <string name="player_menu_timeshift">时移</string>
@@ -123,9 +121,6 @@
     <string name="settings_provider_select_type_intro2">应用程序仅适用于用户提供的播放列表。</string>
     <string name="settings_provider_select_apply">应用</string>
     <string name="settings_provider_select_return">返回</string>
-    <string name="settings_provider_select_prompt_public_playlist_key">播放列表的公钥</string>
-    <string name="settings_provider_select_prompt_stalker_login_pass">追踪者登录和密码</string>
-    <string name="settings_provider_select_prompt_lp">您的登录名和密码</string>
 
     <string name="settings_provider_select_status_error">配置错误。无法加载数据</string>
     <string name="settings_provider_select_status_success">设置已成功应用</string>
@@ -140,12 +135,8 @@
     <string name="archive_auto_seek_title">寻求这个视频最后记住的位置？</string>
     <string name="archive_auto_seek_no">不，从一开始就看</string>
     <string name="archive_auto_seek_yes">是的，寻求</string>
-    <string name="future_show_sheet_title">如何处理未来节目？</string>
     <string name="future_show_sheet_add_wl_title">提醒我切换到频道</string>
-    <string name="future_show_sheet_add_wl_desc">如果观看另一个视频，您将被要求切换到</string>
-    <string name="future_show_sheet_add_wl_push_desc">在视频上线时获取推送通知</string>
     <string name="future_show_sheet_search_title">在档案中搜索</string>
-    <string name="future_show_sheet_search_desc">检查档案中的可用性</string>
     <string name="future_show_sheet_search_none">您的提供商档案中未找到此视频</string>
     <string name="notify_live_sheet_title">您标记为稍后观看的视频现已在线</string>
     <string name="notify_live_sheet_text">切换到观看视频</string>
@@ -160,7 +151,6 @@
     <string name="play_switch_codec_vlc">使用软件VLC</string>
     <string name="play_switch_codec_ext">在外部播放器中打开</string>
     <string name="disk_is_full">存储已满。清理一些空间。</string>
-    <string name="channel_more_hide">隐藏</string>
     <string name="channel_more_hide_desc">从列表中删除</string>
     <string name="change_applies_in_few_min">更改将在几分钟内完成</string>
     <string name="hud_short_volume">卷</string>
@@ -338,22 +328,18 @@
     <string name="settings_premium_what_included_9">通过输入频道号码进行频道切换</string>
     <string name="settings_channel_sort_mode_numb">号码（按频道号码，可以更改）</string>
     <string name="ch_opt_change_number">更改号码</string>
-    <string name="ch_opt_change_number_desc">用于快速切换</string>
     <string name="prov_btn_help">救命</string>
     <string name="prov_help_telegram">加入Telegram聊天</string>
     <string name="settings_premium_what_included_5">无广告</string>
-    <string name="provider_templates">常用的提供者模板</string>
     <string name="btn_change">更改</string>
     <string name="btn_file">文件</string>
     <string name="invalid_domain">域名可能无效。检查你的输入</string>
     <string name="example">例</string>
-    <string name="provider_astra">通用中间件（Astra）</string>
     <string name="provider_generic">通用提供程序或播放列表</string>
     <string name="watched">观看视频：</string>
     <string name="cfg_no_inst_vod_wstate">启动它时不要将视频视为已观看</string>
     <string name="btn_search">搜索</string>
     <string name="hint_vod_cache">媒体库将数据缓存数天。如果您需要更快地显示新数据，请从设置中清除缓存并重新启动应用程序。</string>
-    <string name="provider_xc">通用中间件（XtreamCodes）</string>
     <string name="premium_fea_6">将流发送到无线显示器</string>
     <string name="wifi_display">无线显示</string>
     <string name="wifi_display_desc">在另一台设备上播放流</string>
@@ -408,7 +394,6 @@
     <string name="player_menu_2live">切换到现场</string>
     <string name="settings_provider_select_key_if_any">提供者授权密钥（如果有）。</string>
 
-    <string name="cfg_ch_all_top">显示顶部所有频道的类别</string>
     <string name="cfg_pl_offs_swipe">从屏幕边缘移动音量和亮度触摸面板</string>
     <string name="btn_seek">寻求</string>
     <string name="cfg_play_action_mseek">开始视频搜索视图</string>
@@ -425,9 +410,7 @@
     <string name="profile_middle_q">更喜欢质量超速</string>
     <string name="profile_high_q">只有质量问题</string>
     <string name="channel_move_cat">更改类别</string>
-    <string name="channel_move_cat_desc">转移到另一个组</string>
     <string name="channel_move_new_cat">创建新类别</string>
-    <string name="premium_revert_all_edits">将通道配置恢复到初始状态</string>
     <string name="premium_fea_edit_list">允许编辑类别，隐藏频道等</string>
     <string name="prov_help_bug">报告问题或错误</string>
     <string name="prov_help_tpl">报告提供者模板问题</string>
@@ -509,4 +492,30 @@
     <string name="cfg_codec_exo_q">硬件编解码器质量</string>
     <string name="cfg_codec_exo_max">最佳匹配</string>
     <string name="cfg_codec_exo_compat">兼容模式</string>
+
+    <string name="suggest_better_prov_tpl">似乎您的提供商有更好的模板</string>
+    <string name="place_pl_to_downloads">下载中找不到有效的播放列表</string>
+    <string name="only_1_active">Premium需要同时拥有多个活动提供商</string>
+    <string name="menu_qs_provider">交换提供商</string>
+    <string name="menu_qs_provider_cfg">显示活动提供者之间的快速切换</string>
+    <string name="menu_qs_provider_all">所有活跃的提供者</string>
+    <string name="menu_tv_guide_cfg">显示电视指南按钮</string>
+    <string name="cfg_video_preview_sound">在说明中的视频预览中启用声音</string>
+    <string name="btn_schedule_upnp_vod_load">重新加载UPnP媒体库</string>
+    <string name="provider_generic_middleware">通用中间件服务器</string>
+    <string name="provider_generic_list">提供商列表</string>
+    <string name="provider_generic_list_desc">附近的常用模板（语言和地区）</string>
+    <string name="yes">是</string>
+    <string name="no">没有</string>
+    <string name="cfg_zoom_shrink">收缩</string>
+    <string name="cfg_channel_manager">管理渠道</string>
+    <string name="cfg_channel_manager_categories">分类</string>
+    <string name="cfg_channel_manager_channels">通道</string>
+    <string name="ch_manage_show">显示在列表中</string>
+    <string name="ch_manage_child_on">在子模式下启用</string>
+    <string name="ch_manage_child_off">在子模式下禁用</string>
+    <string name="ch_manage_status_favorite">喜爱</string>
+    <string name="ch_manage_status_hidden">隐</string>
+    <string name="ch_manage_status_child">儿童</string>
+    <string name="show_future_search_in_other">在外部应用中搜索</string>
 </resources>

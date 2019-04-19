@@ -85,8 +85,6 @@
     <string name="player_menu_aspect_ratio_fill_details">প্রস্থ পূরণ করুন</string>
     <string name="player_menu_aspect_ratio_zoom_details">স্ক্রিন জুম করুন</string>
     <string name="player_menu_aspect_ratio_zoom_in_details">পর্দা জুম (একটি অংশ ফসল)</string>
-    <string name="player_menu_favorite_on_title">তারকা</string>
-    <string name="player_menu_favorite_off_title">তারকামুক্ত</string>
     <string name="player_menu_favorite_on_details">ফেভারিটে যোগ করুন</string>
     <string name="player_menu_favorite_off_details">পছন্দের তালিকা থেকে অপসারণ</string>
     <string name="player_menu_timeshift">সময় স্থানান্তর</string>
@@ -123,9 +121,6 @@
     <string name="settings_provider_select_type_intro2">অ্যাপ্লিকেশন শুধুমাত্র ব্যবহারকারী দ্বারা প্রদত্ত প্লেলিস্ট সঙ্গে কাজ করে।</string>
     <string name="settings_provider_select_apply">প্রয়োগ করা</string>
     <string name="settings_provider_select_return">প্রত্যাবর্তন</string>
-    <string name="settings_provider_select_prompt_public_playlist_key">প্লেলিস্ট পাবলিক কী</string>
-    <string name="settings_provider_select_prompt_stalker_login_pass">Stalker লগইন এবং পাসওয়ার্ড</string>
-    <string name="settings_provider_select_prompt_lp">আপনার লগইন এবং পাসওয়ার্ড</string>
 
     <string name="settings_provider_select_status_error">কনফিগারেশন ত্রুটি। তথ্য লোড করতে ব্যর্থ</string>
     <string name="settings_provider_select_status_success">সেটিং সফলভাবে প্রয়োগ করা হয়েছে</string>
@@ -140,12 +135,8 @@
     <string name="archive_auto_seek_title">এই ভিডিওটির শেষ স্মরণীয় অবস্থান সন্ধান করুন?</string>
     <string name="archive_auto_seek_no">না, শুরু থেকে ঘড়ি</string>
     <string name="archive_auto_seek_yes">হ্যাঁ, চাওয়া</string>
-    <string name="future_show_sheet_title">ভবিষ্যতে শো সঙ্গে কি করবেন?</string>
     <string name="future_show_sheet_add_wl_title">চ্যানেলে সুইচ আমাকে মনে করিয়ে দিন</string>
-    <string name="future_show_sheet_add_wl_desc">অন্য কোন ভিডিও দেখলে, আপনি যা পরিবর্তন করতে চান তা জিজ্ঞাসা করা হবে</string>
-    <string name="future_show_sheet_add_wl_push_desc">ভিডিও আসবে যখন একটি ধাক্কা বিজ্ঞপ্তি পান</string>
     <string name="future_show_sheet_search_title">আর্কাইভ অনুসন্ধান করুন</string>
-    <string name="future_show_sheet_search_desc">সংরক্ষণাগার প্রাপ্যতা জন্য চেক করুন</string>
     <string name="future_show_sheet_search_none">এই ভিডিও আপনার প্রদানকারী আর্কাইভ পাওয়া যায় নি</string>
     <string name="notify_live_sheet_title">আপনি পরে দেখার জন্য চিহ্নিত একটি ভিডিও এখন অনলাইন</string>
     <string name="notify_live_sheet_text">ভিডিও দেখতে সুইচ করুন</string>
@@ -160,7 +151,6 @@
     <string name="play_switch_codec_vlc">সফটওয়্যার ভিএলসি ব্যবহার করুন</string>
     <string name="play_switch_codec_ext">বাইরের প্লেয়ার খুলুন</string>
     <string name="disk_is_full">সংরক্ষণাগার পুর্ন. কিছু স্থান পরিষ্কার করুন।</string>
-    <string name="channel_more_hide">লুকান</string>
     <string name="channel_more_hide_desc">তালিকা থেকে সরান</string>
     <string name="change_applies_in_few_min">পরিবর্তন কয়েক মিনিটের মধ্যে প্রযোজ্য হবে</string>
     <string name="hud_short_volume">আয়তন</string>
@@ -338,22 +328,18 @@
     <string name="settings_premium_what_included_9">চ্যানেল নম্বর প্রবেশ করে চ্যানেল স্যুইচিং</string>
     <string name="settings_channel_sort_mode_numb">সংখ্যা (চ্যানেল নম্বর দ্বারা, পরিবর্তন করা যেতে পারে)</string>
     <string name="ch_opt_change_number">সংখ্যা পরিবর্তন করুন</string>
-    <string name="ch_opt_change_number_desc">দ্রুত স্যুইচিং জন্য ব্যবহৃত</string>
     <string name="prov_btn_help">সাহায্য করুন</string>
     <string name="prov_help_telegram">টেলিগ্রাম চ্যাট করুন</string>
     <string name="settings_premium_what_included_5">কোন বিজ্ঞাপন নেই</string>
-    <string name="provider_templates">সাধারণত ব্যবহৃত প্রদানকারী টেমপ্লেট</string>
     <string name="btn_change">পরিবর্তন</string>
     <string name="btn_file">ফাইল</string>
     <string name="invalid_domain">ডোমেইন সম্ভবত অবৈধ। আপনার ইনপুট চেক করুন</string>
     <string name="example">উদাহরণ</string>
-    <string name="provider_astra">জেনেরিক মিডলওয়্যার (Astra)</string>
     <string name="provider_generic">জেনেরিক প্রদানকারী বা প্লেলিস্ট</string>
     <string name="watched">দেখা হয়েছে:</string>
     <string name="cfg_no_inst_vod_wstate">যত তাড়াতাড়ি এটি চালু হিসাবে দেখা ভিডিও বিবেচনা করবেন না</string>
     <string name="btn_search">অনুসন্ধান</string>
     <string name="hint_vod_cache">মিডিয়া লাইব্রেরি কয়েক দিনের জন্য ক্যাশে তথ্য। আপনি দ্রুত উপস্থিত হতে নতুন তথ্য প্রয়োজন হলে, সেটিংস থেকে ক্যাশে সাফ করুন এবং অ্যাপ্লিকেশন পুনরায় আরম্ভ করুন।</string>
-    <string name="provider_xc">জেনেরিক মিডলওয়্যার (XtreamCodes)</string>
     <string name="premium_fea_6">একটি বেতার প্রদর্শন প্রবাহ পাঠান</string>
     <string name="wifi_display">ওয়্যারলেস প্রদর্শন</string>
     <string name="wifi_display_desc">অন্য ডিভাইসে স্ট্রিম খেলুন</string>
@@ -408,7 +394,6 @@
     <string name="player_menu_2live">লাইভ পরিবর্তন করুন</string>
     <string name="settings_provider_select_key_if_any">সরবরাহকারী অনুমোদন কী (যদি থাকে)।</string>
 
-    <string name="cfg_ch_all_top">শীর্ষে সব চ্যানেলের সাথে বিভাগ দেখান</string>
     <string name="cfg_pl_offs_swipe">পর্দার প্রান্ত থেকে ভলিউম এবং উজ্জ্বলতা স্পর্শ প্যানেল সরান</string>
     <string name="btn_seek">খোঁজ</string>
     <string name="cfg_play_action_mseek">ভিউ দেখার জন্য শুরু ভিডিও</string>
@@ -425,9 +410,7 @@
     <string name="profile_middle_q">গতি উপর মানের পছন্দ</string>
     <string name="profile_high_q">শুধুমাত্র মানের বিষয়</string>
     <string name="channel_move_cat">বিভাগ পরিবর্তন করুন</string>
-    <string name="channel_move_cat_desc">অন্য গ্রুপে যান</string>
     <string name="channel_move_new_cat">নতুন বিভাগ তৈরি করুন</string>
-    <string name="premium_revert_all_edits">প্রাথমিক অবস্থায় চ্যানেল কনফিগারেশন পুনরুদ্ধার করুন</string>
     <string name="premium_fea_edit_list">বিভাগ সম্পাদনা, চ্যানেল গোপন, ইত্যাদি অনুমতি দেয়</string>
     <string name="prov_help_bug">একটি সমস্যা বা বাগ রিপোর্ট করুন</string>
     <string name="prov_help_tpl">রিপোর্ট প্রদানকারী টেমপ্লেট সমস্যা</string>
@@ -509,4 +492,30 @@
     <string name="cfg_codec_exo_q">হার্ডওয়্যার কোডেক মানের</string>
     <string name="cfg_codec_exo_max">সেরা ম্যাচ</string>
     <string name="cfg_codec_exo_compat">সামঞ্জস্য মোড</string>
+
+    <string name="suggest_better_prov_tpl">আপনার প্রদানকারীর জন্য একটি ভাল টেমপ্লেট আছে মনে হচ্ছে</string>
+    <string name="place_pl_to_downloads">কোন বৈধ প্লেলিস্ট ডাউনলোড পাওয়া যায় নি</string>
+    <string name="only_1_active">প্রিমিয়াম একই সময়ে বিভিন্ন সক্রিয় প্রদানকারীর প্রয়োজন</string>
+    <string name="menu_qs_provider">সুইচ প্রদানকারী</string>
+    <string name="menu_qs_provider_cfg">সক্রিয় প্রদানকারীর মধ্যে দ্রুত সুইচ দেখান</string>
+    <string name="menu_qs_provider_all">সমস্ত সক্রিয় প্রদানকারীর</string>
+    <string name="menu_tv_guide_cfg">টিভি গাইড বোতাম দেখান</string>
+    <string name="cfg_video_preview_sound">বর্ণনা ভিডিও প্রিভিউ শব্দ সক্রিয় করুন</string>
+    <string name="btn_schedule_upnp_vod_load">UPnP মিডিয়া লাইব্রেরী পুনরায় লোড করুন</string>
+    <string name="provider_generic_middleware">জেনেরিক মিডলওয়্যার সার্ভার</string>
+    <string name="provider_generic_list">প্রদানকারী তালিকা</string>
+    <string name="provider_generic_list_desc">কাছাকাছি সাধারণ টেমপ্লেট (ভাষা এবং অঞ্চল)</string>
+    <string name="yes">হাঁ</string>
+    <string name="no">না</string>
+    <string name="cfg_zoom_shrink">সঙ্কুচিত করা</string>
+    <string name="cfg_channel_manager">চ্যানেল পরিচালনা করুন</string>
+    <string name="cfg_channel_manager_categories">ধরন</string>
+    <string name="cfg_channel_manager_channels">চ্যানেল</string>
+    <string name="ch_manage_show">তালিকা প্রদর্শন করুন</string>
+    <string name="ch_manage_child_on">শিশু মোডে সক্রিয় করুন</string>
+    <string name="ch_manage_child_off">শিশু মোডে অক্ষম</string>
+    <string name="ch_manage_status_favorite">প্রিয়</string>
+    <string name="ch_manage_status_hidden">গোপন</string>
+    <string name="ch_manage_status_child">শিশু</string>
+    <string name="show_future_search_in_other">বাহ্যিক অ্যাপ্লিকেশন অনুসন্ধান করুন</string>
 </resources>

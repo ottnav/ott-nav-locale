@@ -85,8 +85,6 @@
     <string name="player_menu_aspect_ratio_fill_details">너비까지 채우기</string>
     <string name="player_menu_aspect_ratio_zoom_details">화면으로 확대</string>
     <string name="player_menu_aspect_ratio_zoom_in_details">화면 축소 (부분 자르기)</string>
-    <string name="player_menu_favorite_on_title">별</string>
-    <string name="player_menu_favorite_off_title">별표 제거</string>
     <string name="player_menu_favorite_on_details">즐겨 찾기에 추가</string>
     <string name="player_menu_favorite_off_details">즐겨 찾기에서 삭제하기</string>
     <string name="player_menu_timeshift">시간 이동</string>
@@ -123,9 +121,6 @@
     <string name="settings_provider_select_type_intro2">응용 프로그램은 사용자가 제공 한 재생 목록에서만 작동합니다.</string>
     <string name="settings_provider_select_apply">대다</string>
     <string name="settings_provider_select_return">반환</string>
-    <string name="settings_provider_select_prompt_public_playlist_key">재생 목록의 공개 키</string>
-    <string name="settings_provider_select_prompt_stalker_login_pass">스토커 로그인과 암호</string>
-    <string name="settings_provider_select_prompt_lp">로그인 및 비밀번호</string>
 
     <string name="settings_provider_select_status_error">구성 오류. 데이터를로드하지 못했습니다.</string>
     <string name="settings_provider_select_status_success">설정이 성공적으로 적용되었습니다.</string>
@@ -140,12 +135,8 @@
     <string name="archive_auto_seek_title">이 비디오의 마지막 기억 위치를 찾으십니까?</string>
     <string name="archive_auto_seek_no">아니, 처음부터보기</string>
     <string name="archive_auto_seek_yes">네, 추구합니다.</string>
-    <string name="future_show_sheet_title">미래의 쇼와 어떻게해야할까요?</string>
     <string name="future_show_sheet_add_wl_title">채널로 전환하도록 알림</string>
-    <string name="future_show_sheet_add_wl_desc">다른 동영상을 보는 경우 전환 할 내용을 묻습니다.</string>
-    <string name="future_show_sheet_add_wl_push_desc">동영상이 온라인 상태가되면 푸시 알림 받기</string>
     <string name="future_show_sheet_search_title">아카이브에서 검색</string>
-    <string name="future_show_sheet_search_desc">아카이브의 가용성 확인</string>
     <string name="future_show_sheet_search_none">제공자 기록에이 동영상이 없습니다.</string>
     <string name="notify_live_sheet_title">나중에 보려고 표시 한 비디오가 온라인 상태입니다.</string>
     <string name="notify_live_sheet_text">동영상을 보려면 전환하십시오.</string>
@@ -160,7 +151,6 @@
     <string name="play_switch_codec_vlc">VLC 소프트웨어 사용</string>
     <string name="play_switch_codec_ext">외부 플레이어에서 열기</string>
     <string name="disk_is_full">저장소가 꽉 찼습니다. 약간의 공간을 정리하십시오.</string>
-    <string name="channel_more_hide">숨는 장소</string>
     <string name="channel_more_hide_desc">목록에서 제거</string>
     <string name="change_applies_in_few_min">몇 분 후에 변경 사항이 적용됩니다.</string>
     <string name="hud_short_volume">음량</string>
@@ -338,22 +328,18 @@
     <string name="settings_premium_what_included_9">채널 번호 입력으로 채널 전환</string>
     <string name="settings_channel_sort_mode_numb">번호 (채널 번호에 따라 변경 가능)</string>
     <string name="ch_opt_change_number">번호 변경</string>
-    <string name="ch_opt_change_number_desc">빠른 스위칭에 사용</string>
     <string name="prov_btn_help">도움</string>
     <string name="prov_help_telegram">Telegram에서 채팅에 참여하십시오</string>
     <string name="settings_premium_what_included_5">광고 없음</string>
-    <string name="provider_templates">일반적으로 사용되는 공급자 템플릿</string>
     <string name="btn_change">변화</string>
     <string name="btn_file">파일</string>
     <string name="invalid_domain">도메인이 유효하지 않은 것 같습니다. 입력 내용을 확인하십시오.</string>
     <string name="example">예</string>
-    <string name="provider_astra">일반 미들웨어 (Astra)</string>
     <string name="provider_generic">일반 공급자 또는 재생 목록</string>
     <string name="watched">보았다:</string>
     <string name="cfg_no_inst_vod_wstate">동영상을 실행하자마자 시청 한 것으로 간주하지 마세요.</string>
     <string name="btn_search">수색</string>
     <string name="hint_vod_cache">미디어 라이브러리는 며칠 동안 데이터를 캐시합니다. 새로운 데이터가 더 빨리 나타나려면 설정에서 캐시를 지우고 앱을 다시 시작하십시오.</string>
-    <string name="provider_xc">일반 미들웨어 (XtreamCodes)</string>
     <string name="premium_fea_6">무선 디스플레이로 스트림 보내기</string>
     <string name="wifi_display">무선 디스플레이</string>
     <string name="wifi_display_desc">다른 기기에서 스트림 재생</string>
@@ -408,7 +394,6 @@
     <string name="player_menu_2live">라이브로 전환</string>
     <string name="settings_provider_select_key_if_any">제공자 인증 키 (있는 경우).</string>
 
-    <string name="cfg_ch_all_top">상단에 모든 채널이 포함 된 카테고리 표시</string>
     <string name="cfg_pl_offs_swipe">화면 가장자리에서 볼륨 및 밝기 터치 패널 이동</string>
     <string name="btn_seek">목표물 탐색</string>
     <string name="cfg_play_action_mseek">비디오 조회를 시작합니다.</string>
@@ -425,9 +410,7 @@
     <string name="profile_middle_q">속도보다 품질이 더 좋다.</string>
     <string name="profile_high_q">오직 품질 문제</string>
     <string name="channel_move_cat">카테고리 변경</string>
-    <string name="channel_move_cat_desc">다른 그룹으로 이동</string>
     <string name="channel_move_new_cat">새 카테고리 만들기</string>
-    <string name="premium_revert_all_edits">채널 구성을 초기 상태로 복원</string>
     <string name="premium_fea_edit_list">범주 편집, 채널 숨기기 등을 허용합니다.</string>
     <string name="prov_help_bug">문제 또는 버그보고</string>
     <string name="prov_help_tpl">보고서 공급자 템플릿 문제</string>
@@ -509,4 +492,30 @@
     <string name="cfg_codec_exo_q">하드웨어 코덱 품질</string>
     <string name="cfg_codec_exo_max">최고의 경기</string>
     <string name="cfg_codec_exo_compat">호환 모드</string>
+
+    <string name="suggest_better_prov_tpl">당신의 공급자를위한 더 나은 템플릿이있는 것 같습니다.</string>
+    <string name="place_pl_to_downloads">다운로드에서 유효한 재생 목록이 없습니다.</string>
+    <string name="only_1_active">동시에 여러 활성 공급자가 있어야하는 프리미엄</string>
+    <string name="menu_qs_provider">스위치 공급자</string>
+    <string name="menu_qs_provider_cfg">활성 공급자 간 빠른 전환 표시</string>
+    <string name="menu_qs_provider_all">모든 활성 제공 업체</string>
+    <string name="menu_tv_guide_cfg">TV 가이드보기 버튼</string>
+    <string name="cfg_video_preview_sound">설명에서 동영상 미리보기에서 사운드 사용</string>
+    <string name="btn_schedule_upnp_vod_load">UPnP 미디어 라이브러리 새로 고침</string>
+    <string name="provider_generic_middleware">일반 미들웨어 서버</string>
+    <string name="provider_generic_list">공급자 목록</string>
+    <string name="provider_generic_list_desc">주변의 일반적인 템플릿 (언어 및 지역)</string>
+    <string name="yes">예</string>
+    <string name="no">아니</string>
+    <string name="cfg_zoom_shrink">수축</string>
+    <string name="cfg_channel_manager">채널 관리</string>
+    <string name="cfg_channel_manager_categories">카테고리</string>
+    <string name="cfg_channel_manager_channels">채널</string>
+    <string name="ch_manage_show">목록에 표시</string>
+    <string name="ch_manage_child_on">하위 모드에서 사용</string>
+    <string name="ch_manage_child_off">하위 모드에서 사용 중지</string>
+    <string name="ch_manage_status_favorite">인기 있는 말</string>
+    <string name="ch_manage_status_hidden">숨겨진</string>
+    <string name="ch_manage_status_child">어린이</string>
+    <string name="show_future_search_in_other">외부 앱에서 검색</string>
 </resources>

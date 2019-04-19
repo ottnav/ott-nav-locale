@@ -1,11 +1,9 @@
 <resources>
     <string name="press_back_once_more_to_exit">Press once more to exit</string>
 
-    <!-- search screen -->
     <string name="search_bar">Search by channels or programs</string>
     <string name="search_bar_clue">try movie, tv-series, tv-show name, or actor names</string>
 
-    <!-- menu -->
     <string name="menu_search">Video search</string>
     <string name="menu_live">Live stream</string>
     <string name="menu_archive">Shows archive</string>
@@ -22,12 +20,10 @@
     <string name="menu_error_provider_no_archive_text">Selected provider does not support archives. Only Live streams are available. Navigate to settings to change a provider or go to live stream.</string>
     <string name="menu_error_provider_no_archive_button">Go to live stream</string>
 
-    <!-- browse -->
     <string name="browse_description_series_number">episode</string>
     <string name="browse_description_header_live">Live channels</string>
     <string name="browse_description_header_program">Channel timetable</string>
 
-    <!-- categories -->
     <string name="category_movies">All movies</string>
     <string name="category_tv_series">All TV-series</string>
     <string name="category_tv_shows">All TV-shows</string>
@@ -46,7 +42,6 @@
     <string name="category_desc_tv_channel">TV channel</string>
     <string name="category_desc_from_fav">only content from favorite channels</string>
 
-    <!-- player screen -->
     <string name="in_1_minute">in 1 minute</string>
     <string name="in_n_minutes">in 10 minutes</string>
     <string name="player_episode_details_season">season</string>
@@ -58,7 +53,6 @@
     <string name="player_state_no_media_ended">Stream not selected (ended)</string>
     <string name="player_state_buffering">Buffering</string>
 
-    <!-- errors -->
     <string name="error_this_video_requires_external_player">This video requires external player for best experience</string>
     <string name="error_stream_not_reachable_no_connect">Stream not reachable (cannot connect). Contact your provider</string>
     <string name="error_stream_not_reachable_no_resource">Stream not reachable. Contact your provider</string>
@@ -71,7 +65,6 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) loaded: records</string>
     <string name="info_channels_count_updated">Provider has added new channels</string>
 
-    <!-- player menu -->
     <string name="player_menu_select_channel_title">Another channel</string>
     <string name="player_menu_select_archive_title">Another video</string>
     <string name="player_menu_set_pause_on_title">Pause playback</string>
@@ -86,8 +79,6 @@
     <string name="player_menu_aspect_ratio_fill_details">fill to width</string>
     <string name="player_menu_aspect_ratio_zoom_details">zoom to screen</string>
     <string name="player_menu_aspect_ratio_zoom_in_details">zoom off screen (crop a part)</string>
-    <string name="player_menu_favorite_on_title">Star</string>
-    <string name="player_menu_favorite_off_title">Unstar</string>
     <string name="player_menu_favorite_on_details">Add to favorites</string>
     <string name="player_menu_favorite_off_details">Remove from favorites</string>
     <string name="player_menu_timeshift">Timeshift</string>
@@ -120,14 +111,10 @@
     <string name="hint_video_codecs">If source is playing badly, you can try increasing buffer size in settings, switch to another stream decoder (hardware or software), or if anything fails, configure to use an external player for a playback.</string>
     <string name="hint_auto_turn_off">You can configure automatic stream switching off after some idle time (useful when billed per-minute). Idle means no player actions used (for example: menu, seeking, pause, etc).</string>
 
-    <!-- provider -->
     <string name="settings_provider_select_type_intro1">NOTE: You need an OTT/IPTV provider in order to use this application.</string>
     <string name="settings_provider_select_type_intro2">Application works with user-provided playlists only.</string>
     <string name="settings_provider_select_apply">Apply</string>
     <string name="settings_provider_select_return">Return</string>
-    <string name="settings_provider_select_prompt_public_playlist_key">Public key of the playlist</string>
-    <string name="settings_provider_select_prompt_stalker_login_pass">Stalker login and password</string>
-    <string name="settings_provider_select_prompt_lp">Your login and password</string>
 
     <string name="settings_provider_select_status_error">Configuration error. Failed to load data</string>
     <string name="settings_provider_select_status_success">Setting applied successfully</string>
@@ -142,12 +129,8 @@
     <string name="archive_auto_seek_title">Seek to the last remembered position of this video?</string>
     <string name="archive_auto_seek_no">No, watch from the beginning</string>
     <string name="archive_auto_seek_yes">Yes, seek to</string>
-    <string name="future_show_sheet_title">What to do with future show?</string>
     <string name="future_show_sheet_add_wl_title">Remind me to switch to the channel</string>
-    <string name="future_show_sheet_add_wl_desc">If watching another video, you will get asked whatever to switch to</string>
-    <string name="future_show_sheet_add_wl_push_desc">Get a push notification when the video will come online</string>
     <string name="future_show_sheet_search_title">Search in archives</string>
-    <string name="future_show_sheet_search_desc">Check for availability in archives</string>
     <string name="future_show_sheet_search_none">This video was not found in your provider archives</string>
     <string name="notify_live_sheet_title">A video you marked to watch later is now online</string>
     <string name="notify_live_sheet_text">Switch to view the video</string>
@@ -162,7 +145,6 @@
     <string name="play_switch_codec_vlc">Use software VLC</string>
     <string name="play_switch_codec_ext">Open in external player</string>
     <string name="disk_is_full">Storage is full. Clean up some space.</string>
-    <string name="channel_more_hide">Hide</string>
     <string name="channel_more_hide_desc">Remove from the list</string>
     <string name="change_applies_in_few_min">Change will apply in a few minutes</string>
     <string name="hud_short_volume">Volume</string>
@@ -340,22 +322,18 @@
     <string name="settings_premium_what_included_9">Channel switching by entering channel number</string>
     <string name="settings_channel_sort_mode_numb">number (by channel number, can be changed)</string>
     <string name="ch_opt_change_number">Change number</string>
-    <string name="ch_opt_change_number_desc">Used for quick switching</string>
     <string name="prov_btn_help">Help</string>
     <string name="prov_help_telegram">Join chat in Telegram</string>
     <string name="settings_premium_what_included_5">No ads</string>
-    <string name="provider_templates">Commonly used provider templates</string>
     <string name="btn_change">Change</string>
     <string name="btn_file">File</string>
     <string name="invalid_domain">Domain is probably invalid. Check your input</string>
     <string name="example">Example</string>
-    <string name="provider_astra">Generic middleware (Astra)</string>
     <string name="provider_generic">Generic provider or playlist</string>
     <string name="watched">Watched:</string>
     <string name="cfg_no_inst_vod_wstate">Do not consider video as watched as soon as launching it</string>
     <string name="btn_search">Search</string>
     <string name="hint_vod_cache">Media library caches data for several days. If you need new data to appear faster, clear cache from settings and restart the app.</string>
-    <string name="provider_xc">Generic middleware (XtreamCodes)</string>
     <string name="premium_fea_6">Send stream to a wireless display</string>
     <string name="wifi_display">Wireless display</string>
     <string name="wifi_display_desc">Play stream on another device</string>
@@ -412,7 +390,6 @@
     <string name="settings_provider_select_key_if_any">Provider authorization key (if any).</string>
 
     <!-- 1.4.4 -->
-    <string name="cfg_ch_all_top">Show category with all channels in the top</string>
     <string name="cfg_pl_offs_swipe">Move volume and brightness touch panel from edge of the screen</string>
     <string name="btn_seek">Seek</string>
     <string name="cfg_play_action_mseek">Starts video seeking view</string>
@@ -430,9 +407,7 @@
     <string name="profile_middle_q">prefer quality over speed</string>
     <string name="profile_high_q">only quality matters</string>
     <string name="channel_move_cat">Change category</string>
-    <string name="channel_move_cat_desc">Move to another group</string>
     <string name="channel_move_new_cat">Create new category</string>
-    <string name="premium_revert_all_edits">Restore channels configuration to initial state</string>
     <string name="premium_fea_edit_list">Allows editing of categories, hiding channels, etc</string>
     <string name="prov_help_bug">Report a problem or bug</string>
     <string name="prov_help_tpl">Report provider template issue</string>
@@ -484,7 +459,7 @@
     <string name="cfg_player_hud_3">Combined in top</string>
     <string name="never">never</string>
     <string name="cfg_player_hide_menu">Timeout to hide menu (in seconds)</string>
-    <string name="choose_auto">Choose automatically</string>
+    <string name="choose_auto">Choose automatically</string>возможность
     <string name="cfg_stream_tech">Stream technology (if available)</string>
 
     <!-- 1.4.7 -->
@@ -516,4 +491,31 @@
     <string name="cfg_codec_exo_q">Hardware codec quality</string>
     <string name="cfg_codec_exo_max">best match</string>
     <string name="cfg_codec_exo_compat">compatibility mode</string>
+
+    <!-- 1.4.8 -->
+    <string name="suggest_better_prov_tpl">Seems that there is a better template for your provider</string>
+    <string name="place_pl_to_downloads">No valid playlist found in downloads</string>
+    <string name="only_1_active">Premium required to have several active providers at the same time</string>
+    <string name="menu_qs_provider">Switch provider</string>
+    <string name="menu_qs_provider_cfg">Show quick switch between active providers</string>
+    <string name="menu_qs_provider_all">All active providers</string>
+    <string name="menu_tv_guide_cfg">Show TV Guide button</string>
+    <string name="cfg_video_preview_sound">Enable sound in video preview in description</string>
+    <string name="btn_schedule_upnp_vod_load">Reload UPnP media library</string>
+    <string name="provider_generic_middleware">Generic middleware server</string>
+    <string name="provider_generic_list">Providers list</string>
+    <string name="provider_generic_list_desc">Common templates nearby (language and region)</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cfg_zoom_shrink">shrink</string>
+    <string name="cfg_channel_manager">Manage channels</string>
+    <string name="cfg_channel_manager_categories">Categories</string>
+    <string name="cfg_channel_manager_channels">Channels</string>
+    <string name="ch_manage_show">Show in the list</string>
+    <string name="ch_manage_child_on">Enable in child mode</string>
+    <string name="ch_manage_child_off">Disable in child mode</string>
+    <string name="ch_manage_status_favorite">favorite</string>
+    <string name="ch_manage_status_hidden">hidden</string>
+    <string name="ch_manage_status_child">child</string>
+    <string name="show_future_search_in_other">Search in external apps</string>
 </resources>
