@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">ਸਟੋਰੇਜ਼ ਪਹੁੰਚ ਦੀ ਲੋੜ ਹੈ ਪਹੁੰਚ ਪ੍ਰਦਾਨ ਕਰੋ ਅਤੇ ਅਪਰੇਸ਼ਨ ਦੀ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
 
     <string name="info_teleguide_loaded">ਟੈਲੇਗਲਾਈਡ (ਈਪੀਜੀ) ਲੋਡ: ਰਿਕਾਰਡ</string>
-    <string name="info_channels_count_updated">ਪ੍ਰਦਾਤਾ ਨੇ ਨਵੇਂ ਚੈਨਲਾਂ ਨੂੰ ਜੋੜਿਆ ਹੈ</string>
-
 
     <string name="player_menu_select_channel_title">ਇਕ ਹੋਰ ਚੈਨਲ</string>
     <string name="player_menu_select_archive_title">ਹੋਰ ਵੀਡੀਓ</string>
@@ -255,8 +253,6 @@
     <string name="settings_ui_touch_swipes">ਟਚ ਵਹਾਅ / ਚਮਕ ਨਿਯੰਤਰਣ ਅਸਮਰੱਥ ਕਰੋ</string>
     <string name="settings_ui_play_vol_seek">ਵੋਲਯੂਮ ਨੂੰ ਬਦਲਣ ਲਈ ਪਿਛਲਾ ਬਟਨ ਵਰਤੋ</string>
 
-    <string name="settings_ui_only_manual_favorites">ਮਨਪਸੰਦ ਮਨਪਸੰਦ ਚੈਨਲ ਕੇਵਲ ਮਨਪਸੰਦ ਤੌਰ ਤੇ ਦਿਖਾਓ</string>
-
     <string name="settings_devices_no_hdmi">HDMI ਸਟੇਟ ਬਦਲਾਵ ਦੀ ਨਿਗਰਾਨੀ ਨਾ ਕਰੋ</string>
 
     <string name="settings_codec">ਕੋਡੈਕਸ ਸੈਟਿੰਗ</string>
@@ -331,7 +327,6 @@
     <string name="prov_help_telegram">ਟੈਲੀਗ੍ਰਾਮ ਵਿੱਚ ਚੈਟ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ</string>
     <string name="settings_premium_what_included_5">ਕੋਈ ਵਿਗਿਆਪਨ ਨਹੀਂ</string>
     <string name="btn_change">ਬਦਲੋ</string>
-    <string name="btn_file">ਫਾਇਲ</string>
     <string name="invalid_domain">ਡੋਮੇਨ ਸ਼ਾਇਦ ਅਯੋਗ ਹੈ ਆਪਣੇ ਇਨਪੁਟ ਦੀ ਜਾਂਚ ਕਰੋ</string>
     <string name="example">ਉਦਾਹਰਨ</string>
     <string name="provider_generic">ਆਮ ਪ੍ਰਦਾਤਾ ਜਾਂ ਪਲੇਲਿਸਟ</string>
@@ -350,14 +345,12 @@
     <string name="cfg_play_action_btn_yellow">ਯੈਲੀ ਬਟਨ ਲਈ ਐਕਸ਼ਨ</string>
     <string name="cfg_play_action_btn_blue">ਨੀਲੀ ਬਟਨ ਲਈ ਐਕਸ਼ਨ</string>
     <string name="map_channel_to_epg">ਈਪੀਜੀ ਨੂੰ ਮੈਪ ਚੈਨਲ</string>
-    <string name="map_channel_to_epg_desc">ਟੀਵੀ ਪ੍ਰੋਗਰਾਮ ਤੋਂ ਨਾਂ ਚੁਣੋ</string>
     <string name="map_channel_to_epg_after">ਅਗਲੇ ਈਪੀਜੀ ਟੈਲੀਗਲਾਈਡ ਰੀਲੋਡ ਤੇ ਬਦਲਾਅ ਲਾਗੂ ਕੀਤਾ ਜਾਵੇਗਾ.</string>
     <string name="cfg_epg_1_provider">ਇਸ ਸਰੋਤ ਨੂੰ ਮੁੱਖ ਤੌਰ ਤੇ ਮੰਨਿਆ ਜਾਵੇਗਾ (ਜੇ ਕੌਂਫਿਗਰ ਕੀਤਾ ਗਿਆ ਹੋਵੇ)</string>
     <string name="cfg_play_action_vol_d">ਆਵਾਜ਼ ਘਟਾਓ</string>
     <string name="cfg_play_action_vol_u">ਵਾਲੀਅਮ ਵਧਾਓ</string>
     <string name="cfg_ext_player_auto">ਸਿਸਟਮ ਡਿਫੌਲਟ ਪਲੇਅਰ</string>
     <string name="cfg_ext_player_chooser">ਖੁਦ ਹਰ ਵਾਰ ਚੁਣੋ</string>
-    <string name="btn_install">ਇੰਸਟਾਲ ਕਰੋ</string>
     <string name="btn_close">ਬੰਦ ਕਰੋ</string>
     <string name="prem_sub_add_3m">ਗਾਹਕ ਬਣੋ (ਹਰੇਕ 3 ਮਹੀਨਿਆਂ ਲਈ ਬਿਲ)</string>
     <string name="prem_sub_add_1y">ਗਾਹਕ ਬਣੋ (ਹਰ ਸਾਲ ਬਿਲ)</string>
@@ -391,7 +384,6 @@
     <string name="cfg_video_retry">ਗਲਤੀ ਵਾਪਰਨ ਤੋਂ ਬਾਅਦ ਵੀਡੀਓ ਨੂੰ ਲੋਡ ਕਰਨ ਦੀ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
     <string name="cfg_play_action_2live">ਮੌਜੂਦਾ ਚੈਨਲ ਦੇ ਲਾਈਵ ਪ੍ਰਸਾਰਣ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="player_menu_2live">ਲਾਈਵ ਤੇ ਸਵਿਚ ਕਰੋ</string>
-    <string name="settings_provider_select_key_if_any">ਪ੍ਰਦਾਤਾ ਦੀ ਪ੍ਰਮਾਣਿਕਤਾ ਕੁੰਜੀ (ਜੇਕਰ ਕੋਈ ਹੋਵੇ)</string>
 
     <string name="cfg_pl_offs_swipe">ਸਕ੍ਰੀਨ ਦੇ ਕਿਨਾਰੇ ਤੋਂ ਵਾਲੀਅਮ ਅਤੇ ਚਮਕ ਟੱਚ ਪੈਨਲ ਨੂੰ ਹਿਲਾਓ</string>
     <string name="btn_seek">ਭਾਲੋ</string>
@@ -443,7 +435,6 @@
 
     <string name="cfg_switch_dummy_on">ਸਧਾਰਨ ਸੈਟਿੰਗ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="cfg_switch_dummy_off">ਉੱਨਤ ਸੈਟਿੰਗ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
-    <string name="cfg_no_recent">ਹਾਲ ਦੇ ਚੈਨਲਸ ਦੇ ਨਾਲ ਸ਼੍ਰੇਣੀ ਨਾ ਦਿਖਾਓ</string>
     <string name="cfg_no_hints">ਸੰਕੇਤ ਨਾ ਦਿਖਾਓ</string>
     <string name="pla_track_sel_sub">ਉਪਸਿਰਲੇਖ ਬਦਲੋ</string>
     <string name="pla_track_sel_sub_desc">ਉਪਸਿਰਲੇਖ ਸਰੋਤ ਬਦਲੋ</string>
@@ -517,4 +508,26 @@
     <string name="ch_manage_status_hidden">ਲੁਕਿਆ ਹੋਇਆ</string>
     <string name="ch_manage_status_child">ਬੱਚਾ</string>
     <string name="show_future_search_in_other">ਬਾਹਰੀ ਐਪਸ ਵਿੱਚ ਖੋਜੋ</string>
+
+    <string name="cfg_channel_manager_filters">ਫਿਲਟਰ</string>
+    <string name="menu_suggest_premium">ਸ਼ਾਨਦਾਰ ਪ੍ਰੀਮੀਅਮ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਪੜਚੋਲ ਕਰਨ ਲਈ ਤਿਆਰ ਹੋ?</string>
+    <string name="cfg_epg_update_frequency">ਅਪਡੇਟ ਵਕਾਲਤ (ਘੰਟੇ ਵਿੱਚ)</string>
+    <string name="cfg_vod_merge">ਇੱਕ ਸੂਚੀ ਵਿੱਚ ਵੱਖ ਵੱਖ ਸਰੋਤਾਂ ਤੋਂ ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ ਨੂੰ ਮਿਲਾਓ (ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ)</string>
+    <string name="cfg_vod_no_index">ਇੰਡੈਕਸਿੰਗ ਅਸਮਰੱਥ ਕਰੋ (ਬੇਨਤੀ ਦੀ ਗਿਣਤੀ ਘੱਟਦੀ ਹੈ, ਪਰ ਖੋਜ ਅਤੇ ਸੁਝਾਅ ਅਯੋਗ ਵੀ ਹਨ)</string>
+    <string name="ch_manage_rename">ਨਾਂ ਬਦਲੋ</string>
+    <string name="name_already_taken">ਨਾਮ ਪਹਿਲਾਂ ਹੀ ਲਿਆ ਗਿਆ ਹੈ</string>
+    <string name="pla_timeshift_from_current">ਮੌਜੂਦਾ ਪਲਾਂ ਤੋਂ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="cfg_play_action_timeshift_start">ਆਰੰਭਕ ਟੀਵੀ-ਸ਼ੋਅ ਸ਼ੁਰੂ ਤੋਂ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="cfg_play_action_timeshift_now">ਮੌਜੂਦਾ ਸਮੇਂ ਤੋਂ ਆਰਕਾਈਵਡ ਟੀਵੀ-ਸ਼ੋਅ ਖੋਲ੍ਹੋ</string>
+    <string name="cfg_cat_recent">ਹਾਲੀਆ ਚੈਨਲ ਸ਼੍ਰੇਣੀ</string>
+    <string name="enable">ਯੋਗ ਕਰੋ</string>
+    <string name="save_between_launch">ਲਾਂਚਾਂ ਵਿਚਕਾਰ ਬਚਾਓ</string>
+    <string name="ch_pos_pin_1">ਸਿਖਰ ਤੇ ਪਿੰਨ ਕਰੋ</string>
+    <string name="cfg_no_teleguide">ਕੋਈ ਟੀਵੀ-ਪ੍ਰੋਗਰਾਮ ਉਪਲਬਧ ਨਾ ਹੋਣ ਤੇ ਵਰਚੁਅਲ ਈਪੀਜੀ ਰਿਕਾਰਡ ਤਿਆਰ ਕਰੋ</string>
+    <string name="menu_qs_provider_multiple">ਖੁਦ ਮਾਰਕ ਕਰੋ</string>
+    <string name="category_recently_added">ਹਾਲ ਹੀ ਸ਼ਾਮਿਲ ਕੀਤਾ ਗਿਆ ਹੈ</string>
+    <string name="ask_finish_update">ਨਵੇਂ ਵਰਜਨ ਲਈ ਅਪਡੇਟ ਕਰਨ ਲਈ ਐਪ ਨੂੰ ਰੀਸਟਾਰਟ ਕਰਨਾ ਹੈ?</string>
+    <string name="ch_pos_pin_minus1">ਸੂਚੀ ਵਿੱਚ ਸਿਖਰ ਤੇ ਪਿੰਨ ਕਰੋ</string>
+    <string name="cfg_premium_etc">ਅਤੇ ਕਈ ਹੋਰ ਕੀਮਤੀ ਫੰਕਸ਼ਨ</string>
+    <string name="cfg_fine_tune_volume">ਮੈਨੁਅਲ ਆਡੀਓ ਵਾਲੀਅਮ ਫਾਈਨ-ਟਿਊਨ (ਸਿਸਟਮ ਵਾਲੀਅਮ ਦੁਆਰਾ ਸੀਮਿਤ)</string>
 </resources>

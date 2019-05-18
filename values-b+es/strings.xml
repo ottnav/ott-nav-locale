@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Se requiere acceso de almacenamiento. Proporcione un acceso y vuelva a intentar la operación</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) cargado: registros</string>
-    <string name="info_channels_count_updated">El proveedor ha agregado nuevos canales</string>
-
 
     <string name="player_menu_select_channel_title">Otro canal</string>
     <string name="player_menu_select_archive_title">Otro video</string>
@@ -255,8 +253,6 @@
     <string name="settings_ui_touch_swipes">Desactivar el control de volumen táctil / brillo</string>
     <string name="settings_ui_play_vol_seek">Use los botones de rebobinado para cambiar el volumen</string>
 
-    <string name="settings_ui_only_manual_favorites">Mostrar los canales favoritos marcados manualmente solo como favoritos</string>
-
     <string name="settings_devices_no_hdmi">No supervisar los cambios de estado de HDMI</string>
 
     <string name="settings_codec">Configuraciones de códecs</string>
@@ -330,7 +326,6 @@
     <string name="prov_help_telegram">Únete chat en telegram</string>
     <string name="settings_premium_what_included_5">Sin anuncios</string>
     <string name="btn_change">Cambio</string>
-    <string name="btn_file">Expediente</string>
     <string name="invalid_domain">El dominio es probablemente inválido. Revisa tu entrada</string>
     <string name="example">Ejemplo</string>
     <string name="provider_generic">Proveedor genérico o lista de reproducción</string>
@@ -349,14 +344,12 @@
     <string name="cfg_play_action_btn_yellow">Acción para el botón amarillo</string>
     <string name="cfg_play_action_btn_blue">Acción para el botón azul</string>
     <string name="map_channel_to_epg">Mapa del canal a EPG</string>
-    <string name="map_channel_to_epg_desc">Seleccione el nombre del programa de TV</string>
     <string name="map_channel_to_epg_after">Los cambios se aplicarán en la próxima recarga de teleguide de EPG.</string>
     <string name="cfg_epg_1_provider">Esta fuente será considerada como principal (si está configurada)</string>
     <string name="cfg_play_action_vol_d">disminuir el volumen</string>
     <string name="cfg_play_action_vol_u">aumenta el volumen</string>
     <string name="cfg_ext_player_auto">Reproductor por defecto del sistema</string>
     <string name="cfg_ext_player_chooser">Elija manualmente cada vez</string>
-    <string name="btn_install">Instalar</string>
     <string name="btn_close">Cerrar</string>
     <string name="prem_sub_add_3m">Suscribirse (facturado cada 3 meses)</string>
     <string name="prem_sub_add_1y">Suscribirse (facturado cada año)</string>
@@ -390,7 +383,6 @@
     <string name="cfg_video_retry">Tiempos para volver a intentar cargar el video cuando se produjo un error</string>
     <string name="cfg_play_action_2live">Cambiar a transmisión en vivo del canal actual</string>
     <string name="player_menu_2live">Cambiar a vivir</string>
-    <string name="settings_provider_select_key_if_any">Clave de autorización del proveedor (si procede).</string>
 
     <string name="cfg_pl_offs_swipe">Mueve el panel táctil de volumen y brillo desde el borde de la pantalla</string>
     <string name="btn_seek">Buscar</string>
@@ -442,7 +434,6 @@
 
     <string name="cfg_switch_dummy_on">Cambiar al modo de configuración simplificada</string>
     <string name="cfg_switch_dummy_off">Cambiar al modo de configuración avanzada</string>
-    <string name="cfg_no_recent">No mostrar categoría con canales recientes</string>
     <string name="cfg_no_hints">No mostrar consejos</string>
     <string name="pla_track_sel_sub">Cambiar subtítulos</string>
     <string name="pla_track_sel_sub_desc">Cambiar fuente de subtítulos.</string>
@@ -516,4 +507,26 @@
     <string name="ch_manage_status_hidden">oculto</string>
     <string name="ch_manage_status_child">niño</string>
     <string name="show_future_search_in_other">Buscar en aplicaciones externas</string>
+
+    <string name="cfg_channel_manager_filters">Filtros</string>
+    <string name="menu_suggest_premium">¿Listo para explorar emocionantes características premium?</string>
+    <string name="cfg_epg_update_frequency">Frecuencia de actualización (en horas)</string>
+    <string name="cfg_vod_merge">Combinar biblioteca de medios de diferentes fuentes en una sola lista (requiere recargar)</string>
+    <string name="cfg_vod_no_index">Deshabilitar la indexación (disminuye el número de solicitudes, pero también desactiva la búsqueda y las sugerencias)</string>
+    <string name="ch_manage_rename">Rebautizar</string>
+    <string name="name_already_taken">Nombre ya usado</string>
+    <string name="pla_timeshift_from_current">Empezar desde el momento actual.</string>
+    <string name="cfg_play_action_timeshift_start">Abrir programa de televisión archivado desde el principio</string>
+    <string name="cfg_play_action_timeshift_now">Programa de televisión abierto desde la hora actual</string>
+    <string name="cfg_cat_recent">Categoría de canales recientes</string>
+    <string name="enable">habilitar</string>
+    <string name="save_between_launch">guardar entre lanzamientos</string>
+    <string name="ch_pos_pin_1">Pin para arriba</string>
+    <string name="cfg_no_teleguide">Genera un registro virtual de epg cuando no hay un programa de televisión disponible</string>
+    <string name="menu_qs_provider_multiple">Marcar manualmente</string>
+    <string name="category_recently_added">Recientemente añadido</string>
+    <string name="ask_finish_update">¿Reiniciar la aplicación para actualizar para la versión más reciente?</string>
+    <string name="ch_pos_pin_minus1">Pin superior en la lista</string>
+    <string name="cfg_premium_etc">Y muchas otras funciones valiosas.</string>
+    <string name="cfg_fine_tune_volume">Ajuste manual del volumen de audio (limitado por el volumen del sistema)</string>
 </resources>

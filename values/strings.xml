@@ -63,7 +63,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Storage access is required. Provide an access and retry the operation</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) loaded: records</string>
-    <string name="info_channels_count_updated">Provider has added new channels</string>
 
     <string name="player_menu_select_channel_title">Another channel</string>
     <string name="player_menu_select_archive_title">Another video</string>
@@ -249,8 +248,6 @@
     <string name="settings_ui_touch_swipes">Disable touch volume/brightness control</string>
     <string name="settings_ui_play_vol_seek">Use rewind buttons to change volume</string>
 
-    <string name="settings_ui_only_manual_favorites">Show manually marked favorite channels only as favorites</string>
-
     <string name="settings_devices_no_hdmi">Do not monitor HDMI state changes</string>
 
     <string name="settings_codec">Codecs settings</string>
@@ -326,7 +323,6 @@
     <string name="prov_help_telegram">Join chat in Telegram</string>
     <string name="settings_premium_what_included_5">No ads</string>
     <string name="btn_change">Change</string>
-    <string name="btn_file">File</string>
     <string name="invalid_domain">Domain is probably invalid. Check your input</string>
     <string name="example">Example</string>
     <string name="provider_generic">Generic provider or playlist</string>
@@ -346,14 +342,12 @@
     <string name="cfg_play_action_btn_yellow">Action for Yellow button</string>
     <string name="cfg_play_action_btn_blue">Action for Blue button</string>
     <string name="map_channel_to_epg">Map channel to EPG</string>
-    <string name="map_channel_to_epg_desc">Select name from TV program</string>
     <string name="map_channel_to_epg_after">Changes will be applied on next EPG teleguide reload.</string>
     <string name="cfg_epg_1_provider">This source will be considered as main (if configured)</string>
     <string name="cfg_play_action_vol_d">decrease volume</string>
     <string name="cfg_play_action_vol_u">increase volume</string>
     <string name="cfg_ext_player_auto">System default player</string>
     <string name="cfg_ext_player_chooser">Choose manually every time</string>
-    <string name="btn_install">Install</string>
     <string name="btn_close">Close</string>
     <string name="prem_sub_add_3m">Subscribe (billed each 3 months)</string>
     <string name="prem_sub_add_1y">Subscribe (billed each year)</string>
@@ -387,7 +381,6 @@
     <string name="cfg_video_retry">Times to retry loading the video when error occurred</string>
     <string name="cfg_play_action_2live">Switch to live broadcast of the current channel</string>
     <string name="player_menu_2live">Switch to live</string>
-    <string name="settings_provider_select_key_if_any">Provider authorization key (if any).</string>
 
     <!-- 1.4.4 -->
     <string name="cfg_pl_offs_swipe">Move volume and brightness touch panel from edge of the screen</string>
@@ -442,7 +435,6 @@
     <!-- 1.4.6 -->
     <string name="cfg_switch_dummy_on">Switch to simplified settings mode</string>
     <string name="cfg_switch_dummy_off">Switch to advanced settings mode</string>
-    <string name="cfg_no_recent">Do not show category with recent channels</string>
     <string name="cfg_no_hints">Do not show hints</string>
     <string name="pla_track_sel_sub">Switch subtitles</string>
     <string name="pla_track_sel_sub_desc">Change subtitles source</string>
@@ -518,4 +510,27 @@
     <string name="ch_manage_status_hidden">hidden</string>
     <string name="ch_manage_status_child">child</string>
     <string name="show_future_search_in_other">Search in external apps</string>
+
+    <!-- 1.4.9 -->
+    <string name="cfg_channel_manager_filters">Filters</string>
+    <string name="menu_suggest_premium">Ready to explore exciting premium features?</string>
+    <string name="cfg_epg_update_frequency">Update frequency (in hours)</string>
+    <string name="cfg_vod_merge">Merge media library from different sources in a single list (requires reload)</string>
+    <string name="cfg_vod_no_index">Disable indexing (decreases number of requests, but also disables search and suggestions)</string>
+    <string name="ch_manage_rename">Rename</string>
+    <string name="name_already_taken">Name is already taken</string>
+    <string name="pla_timeshift_from_current">Start from the current moment</string>
+    <string name="cfg_play_action_timeshift_start">open archived tv-show from beginning</string>
+    <string name="cfg_play_action_timeshift_now">open archived tv-show from current time</string>
+    <string name="cfg_cat_recent">Recent channels category</string>
+    <string name="enable">enable</string>
+    <string name="save_between_launch">save between launches</string>
+    <string name="ch_pos_pin_1">Pin to top</string>
+    <string name="cfg_no_teleguide">Generate virtual epg record when no tv-program available</string>
+    <string name="menu_qs_provider_multiple">Mark manually</string>
+    <string name="category_recently_added">Recently added</string>
+    <string name="ask_finish_update">Restart the app to update for newer version?</string>
+    <string name="ch_pos_pin_minus1">Pin upper in list</string>
+    <string name="cfg_premium_etc">And many other valuable functions</string>
+    <string name="cfg_fine_tune_volume">Manual audio volume fine-tune (limited by system volume)</string>
 </resources>

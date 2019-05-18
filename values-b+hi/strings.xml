@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">भंडारण का उपयोग आवश्यक है। एक पहुंच प्रदान करें और ऑपरेशन पुनः प्रयास करें</string>
 
     <string name="info_teleguide_loaded">टेलीगूइड (ईपीजी) लोड: रिकॉर्ड</string>
-    <string name="info_channels_count_updated">प्रदाता ने नए चैनल जोड़े हैं</string>
-
 
     <string name="player_menu_select_channel_title">एक और चैनल</string>
     <string name="player_menu_select_archive_title">एक और वीडियो</string>
@@ -255,8 +253,6 @@
     <string name="settings_ui_touch_swipes">स्पर्श मात्रा / चमक नियंत्रण अक्षम करें</string>
     <string name="settings_ui_play_vol_seek">वॉल्यूम बदलने के लिए रिवाइंड बटन का प्रयोग करें</string>
 
-    <string name="settings_ui_only_manual_favorites">पसंदीदा रूप से पसंदीदा चैनलों को मैन्युअल रूप से चिह्नित करें दिखाएं</string>
-
     <string name="settings_devices_no_hdmi">एचडीएमआई राज्य परिवर्तनों की निगरानी मत करो</string>
 
     <string name="settings_codec">कोडेक्स सेटिंग्स</string>
@@ -332,7 +328,6 @@
     <string name="prov_help_telegram">टेलीग्राम में चैट में शामिल हों</string>
     <string name="settings_premium_what_included_5">विज्ञापन नहीं</string>
     <string name="btn_change">परिवर्तन</string>
-    <string name="btn_file">फ़ाइल</string>
     <string name="invalid_domain">डोमेन शायद अमान्य है। अपना इनपुट जांचें</string>
     <string name="example">उदाहरण</string>
     <string name="provider_generic">जेनेरिक प्रदाता या प्लेलिस्ट</string>
@@ -351,14 +346,12 @@
     <string name="cfg_play_action_btn_yellow">पीला बटन के लिए कार्रवाई</string>
     <string name="cfg_play_action_btn_blue">ब्लू बटन के लिए कार्रवाई</string>
     <string name="map_channel_to_epg">ईपीजी को मानचित्र चैनल</string>
-    <string name="map_channel_to_epg_desc">टीवी कार्यक्रम से नाम का चयन करें</string>
     <string name="map_channel_to_epg_after">अगले ईपीजी टेलीग्राइड रीलोड पर परिवर्तन लागू किए जाएंगे।</string>
     <string name="cfg_epg_1_provider">इस स्रोत को मुख्य के रूप में माना जाएगा (यदि कॉन्फ़िगर किया गया है)</string>
     <string name="cfg_play_action_vol_d">मात्रा घटाना</string>
     <string name="cfg_play_action_vol_u">मात्रा बढ़ाएं</string>
     <string name="cfg_ext_player_auto">सिस्टम डिफ़ॉल्ट प्लेयर</string>
     <string name="cfg_ext_player_chooser">हर बार मैन्युअल रूप से चुनें</string>
-    <string name="btn_install">इंस्टॉल करें</string>
     <string name="btn_close">बंद करे</string>
     <string name="prem_sub_add_3m">सदस्यता लें (प्रत्येक 3 महीने का बिल)</string>
     <string name="prem_sub_add_1y">सदस्यता लें (प्रत्येक वर्ष बिल किया जाता है)</string>
@@ -392,7 +385,6 @@
     <string name="cfg_video_retry">त्रुटि हुई जब वीडियो लोड करने के लिए टाइम्स</string>
     <string name="cfg_play_action_2live">वर्तमान चैनल के लाइव प्रसारण पर स्विच करें</string>
     <string name="player_menu_2live">लाइव पर स्विच करें</string>
-    <string name="settings_provider_select_key_if_any">प्रदाता प्राधिकरण कुंजी (यदि कोई है)।</string>
 
     <string name="cfg_pl_offs_swipe">स्क्रीन के किनारे से वॉल्यूम और चमक टच पैनल को स्थानांतरित करें</string>
     <string name="btn_seek">मांगना</string>
@@ -444,7 +436,6 @@
 
     <string name="cfg_switch_dummy_on">सरलीकृत सेटिंग्स मोड में स्विच करें</string>
     <string name="cfg_switch_dummy_off">उन्नत सेटिंग्स मोड में स्विच करें</string>
-    <string name="cfg_no_recent">हाल के चैनलों के साथ श्रेणी न दिखाएं</string>
     <string name="cfg_no_hints">संकेत मत दिखाओ</string>
     <string name="pla_track_sel_sub">उपशीर्षक स्विच करें</string>
     <string name="pla_track_sel_sub_desc">उपशीर्षक स्रोत बदलें</string>
@@ -518,4 +509,26 @@
     <string name="ch_manage_status_hidden">छिपा हुआ</string>
     <string name="ch_manage_status_child">बच्चा</string>
     <string name="show_future_search_in_other">बाहरी ऐप्स में खोजें</string>
+
+    <string name="cfg_channel_manager_filters">फिल्टर</string>
+    <string name="menu_suggest_premium">रोमांचक प्रीमियम सुविधाओं का पता लगाने के लिए तैयार हैं?</string>
+    <string name="cfg_epg_update_frequency">अद्यतन आवृत्ति (घंटे में)</string>
+    <string name="cfg_vod_merge">एक ही सूची में विभिन्न स्रोतों से मीडिया लाइब्रेरी मर्ज करें (पुनः लोड की आवश्यकता है)</string>
+    <string name="cfg_vod_no_index">अनुक्रमण अक्षम करें (अनुरोधों की संख्या कम हो जाती है, लेकिन खोज और सुझावों को भी अक्षम कर देता है)</string>
+    <string name="ch_manage_rename">नाम बदलें</string>
+    <string name="name_already_taken">नाम पहले ही लिया जा चुका है</string>
+    <string name="pla_timeshift_from_current">वर्तमान क्षण से शुरू करें</string>
+    <string name="cfg_play_action_timeshift_start">शुरू से ही खुला टीवी-शो</string>
+    <string name="cfg_play_action_timeshift_now">वर्तमान समय से खुले टीवी-शो</string>
+    <string name="cfg_cat_recent">हाल के चैनल श्रेणी</string>
+    <string name="enable">सक्षम</string>
+    <string name="save_between_launch">लॉन्च के बीच सहेजें</string>
+    <string name="ch_pos_pin_1">सबसे ऊपर पिन करें</string>
+    <string name="cfg_no_teleguide">जब कोई टीवी-प्रोग्राम उपलब्ध न हो तो वर्चुअल एप रिकॉर्ड बनाएं</string>
+    <string name="menu_qs_provider_multiple">मैन्युअल रूप से चिह्नित करें</string>
+    <string name="category_recently_added">हाल ही में जोड़ा</string>
+    <string name="ask_finish_update">नए संस्करण के लिए अपडेट करने के लिए एप्लिकेशन को पुनरारंभ करें?</string>
+    <string name="ch_pos_pin_minus1">सूची में ऊपरी पिन</string>
+    <string name="cfg_premium_etc">और कई अन्य मूल्यवान कार्य</string>
+    <string name="cfg_fine_tune_volume">मैनुअल ऑडियो वॉल्यूम फाइन-ट्यून (सिस्टम वॉल्यूम द्वारा सीमित)</string>
 </resources>

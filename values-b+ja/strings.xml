@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">ストレージへのアクセスが必要です。アクセスを提供し、操作を再試行する</string>
 
     <string name="info_teleguide_loaded">テレガイド（EPG）が読み込まれました：レコード</string>
-    <string name="info_channels_count_updated">プロバイダが新しいチャンネルを追加しました</string>
-
 
     <string name="player_menu_select_channel_title">別のチャンネル</string>
     <string name="player_menu_select_archive_title">もう一つのビデオ</string>
@@ -255,8 +253,6 @@
     <string name="settings_ui_touch_swipes">タッチボリューム/輝度コントロールを無効にする</string>
     <string name="settings_ui_play_vol_seek">巻き戻しボタンを使用して音量を変更する</string>
 
-    <string name="settings_ui_only_manual_favorites">手動でマークされたお気に入りチャンネルをお気に入りとしてのみ表示する</string>
-
     <string name="settings_devices_no_hdmi">HDMIの状態の変化を監視しない</string>
 
     <string name="settings_codec">コーデック設定</string>
@@ -332,7 +328,6 @@
     <string name="prov_help_telegram">テレグラムでチャットに参加する</string>
     <string name="settings_premium_what_included_5">広告なし</string>
     <string name="btn_change">変化する</string>
-    <string name="btn_file">ファイル</string>
     <string name="invalid_domain">ドメインはおそらく無効です。入力を確認する</string>
     <string name="example">例</string>
     <string name="provider_generic">一般的なプロバイダまたはプレイリスト</string>
@@ -351,14 +346,12 @@
     <string name="cfg_play_action_btn_yellow">黄色ボタンの操作</string>
     <string name="cfg_play_action_btn_blue">青ボタンの操作</string>
     <string name="map_channel_to_epg">チャンネルをEPGにマップする</string>
-    <string name="map_channel_to_epg_desc">テレビ番組から名前を選択する</string>
     <string name="map_channel_to_epg_after">変更は、次のEPGテレガイドリロードに適用されます。</string>
     <string name="cfg_epg_1_provider">このソースはメイン（設定されている場合）</string>
     <string name="cfg_play_action_vol_d">音量を下げる</string>
     <string name="cfg_play_action_vol_u">音量を上げる</string>
     <string name="cfg_ext_player_auto">システムデフォルトプレーヤー</string>
     <string name="cfg_ext_player_chooser">毎回手動で選択する</string>
-    <string name="btn_install">インストール</string>
     <string name="btn_close">閉じる</string>
     <string name="prem_sub_add_3m">購読する（3か月ごとに請求）</string>
     <string name="prem_sub_add_1y">購読する（毎年請求される）</string>
@@ -392,7 +385,6 @@
     <string name="cfg_video_retry">エラーが発生したときにビデオの読み込みを再試行する時間</string>
     <string name="cfg_play_action_2live">現在のチャンネルのライブブロードキャストに切り替えます</string>
     <string name="player_menu_2live">ライブに切り替える</string>
-    <string name="settings_provider_select_key_if_any">プロバイダ認証キー（ある場合）。</string>
 
     <string name="cfg_pl_offs_swipe">画面の端から音量と明るさのタッチパネルを動かす</string>
     <string name="btn_seek">シーク</string>
@@ -444,7 +436,6 @@
 
     <string name="cfg_switch_dummy_on">簡易設定モードに切り替える</string>
     <string name="cfg_switch_dummy_off">詳細設定モードに切り替える</string>
-    <string name="cfg_no_recent">最近のチャンネルでカテゴリを表示しない</string>
     <string name="cfg_no_hints">ヒントを表示しない</string>
     <string name="pla_track_sel_sub">字幕を切り替える</string>
     <string name="pla_track_sel_sub_desc">字幕ソースを変更する</string>
@@ -518,4 +509,26 @@
     <string name="ch_manage_status_hidden">隠された</string>
     <string name="ch_manage_status_child">子</string>
     <string name="show_future_search_in_other">外部アプリを検索する</string>
+
+    <string name="cfg_channel_manager_filters">フィルター</string>
+    <string name="menu_suggest_premium">エキサイティングなプレミアム機能を探索する準備はできましたか？</string>
+    <string name="cfg_epg_update_frequency">更新頻度（時間単位）</string>
+    <string name="cfg_vod_merge">単一のリストに異なるソースからのメディアライブラリをマージする（再読み込みが必要）</string>
+    <string name="cfg_vod_no_index">インデックス作成を無効にします（リクエスト数を減らしますが、検索と提案も無効にします）。</string>
+    <string name="ch_manage_rename">リネーム</string>
+    <string name="name_already_taken">名前はすでに取られています</string>
+    <string name="pla_timeshift_from_current">現時点から開始</string>
+    <string name="cfg_play_action_timeshift_start">アーカイブされたテレビ番組を最初から開く</string>
+    <string name="cfg_play_action_timeshift_now">現在の時刻からアーカイブされたテレビ番組を開く</string>
+    <string name="cfg_cat_recent">最近のチャンネルカテゴリ</string>
+    <string name="enable">有効にする</string>
+    <string name="save_between_launch">起動間を節約</string>
+    <string name="ch_pos_pin_1">上に固定</string>
+    <string name="cfg_no_teleguide">利用可能なテレビ番組がないときに仮想epgレコードを生成する</string>
+    <string name="menu_qs_provider_multiple">手動でマークする</string>
+    <string name="category_recently_added">最近追加された</string>
+    <string name="ask_finish_update">新しいバージョンにアップデートするためにアプリを再起動しますか？</string>
+    <string name="ch_pos_pin_minus1">リストの上のピン</string>
+    <string name="cfg_premium_etc">そして他の多くの貴重な機能</string>
+    <string name="cfg_fine_tune_volume">手動オーディオ音量微調整（システム音量によって制限されます）</string>
 </resources>

@@ -69,7 +69,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Reikalaujamas leidimas prie saugyklos. Suteikite leidimą ir pakartokite operaciją.</string>
 
     <string name="info_teleguide_loaded">Kanalų programa (EPG) gauta: įrašų</string>
-    <string name="info_channels_count_updated">Tiekėjas pridėjo naujų kanalų</string>
 
     <!-- player menu -->
     <string name="player_menu_select_channel_title">Kitas kanalas</string>
@@ -257,8 +256,6 @@
     <string name="settings_ui_touch_swipes">Atjungti garsumo/šviesumo reguliavimą pirštais</string>
     <string name="settings_ui_play_vol_seek">Naudoti persukimo mygtukus garsumo reguliavimui</string>
 
-    <string name="settings_ui_only_manual_favorites">Rodyti tik rankiniu būdu išrinktus mėgstamus kanalus</string>
-
     <string name="settings_devices_no_hdmi">Nepranešti apie HDMI jungies būsenos pakeitimus</string>
 
     <string name="settings_codec">Kodekų nustatymai</string>
@@ -334,7 +331,6 @@
     <string name="prov_help_telegram">Užeiti į pokalbį Telegram</string>
     <string name="settings_premium_what_included_5">Be reklamos</string>
     <string name="btn_change">Pakeisti</string>
-    <string name="btn_file">failas</string>
     <string name="invalid_domain">Tikėtina, kad  domenas neteisingas. Patikrinkite savo nustatymus.</string>
     <string name="example">Pavyzdys</string>
     <string name="provider_generic">Bendras tiekėjas arba grojaraštis</string>
@@ -354,14 +350,12 @@
     <string name="cfg_play_action_btn_yellow">Veiksmas geltonam mygtukui</string>
     <string name="cfg_play_action_btn_blue">Veiksmas mėlynam mygtukui</string>
     <string name="map_channel_to_epg">Pririšti kanalą prie EPG</string>
-    <string name="map_channel_to_epg_desc">Išrinkti vardą iš EPG</string>
     <string name="map_channel_to_epg_after">Pakeitimai įsigalios su sekančiu EPG atnaujinimu.</string>
     <string name="cfg_epg_1_provider">Šis šaltinis bus skaitomas pagrindiniu (jei taip nustatyta)</string>
     <string name="cfg_play_action_vol_d">sumažinti garsumą</string>
     <string name="cfg_play_action_vol_u">padidinti garsumą</string>
     <string name="cfg_ext_player_auto">Sisteminis grotuvas pagal nutylėjimą</string>
     <string name="cfg_ext_player_chooser">Kaskart rinktis rankiniu būdu</string>
-    <string name="btn_install">Įdiegti</string>
     <string name="btn_close">Uždaryti</string>
     <string name="prem_sub_add_3m">Prenumeruoti (ketvirčio apmokėjimas)</string>
     <string name="prem_sub_add_1y">Prenumeruoti (metinis apmokėjimas)</string>
@@ -395,7 +389,6 @@
     <string name="cfg_video_retry">Kiek kartų bandyti atstatyti transliaciją, esant klaidai</string>
     <string name="cfg_play_action_2live">Perjungti į tiesioginę transliaciją</string>
     <string name="player_menu_2live">Į tiesioginę transliaciją</string>
-    <string name="settings_provider_select_key_if_any">Tiekėjo autorizacijos raktas (jei yra).</string>
 
     <string name="cfg_pl_offs_swipe">Perkelkite garsumo ir ryškumo jutiklinį ekraną iš ekrano krašto</string>
     <string name="btn_seek">Ieškoti</string>
@@ -447,7 +440,6 @@
 
     <string name="cfg_switch_dummy_on">Perjungti į supaprastintų nustatymų režimą</string>
     <string name="cfg_switch_dummy_off">Perjungti į išplėstinių nustatymų režimą</string>
-    <string name="cfg_no_recent">Nerodyti kategorijos su naujausiais kanalais</string>
     <string name="cfg_no_hints">Nerodyti patarimų</string>
     <string name="pla_track_sel_sub">Pakeiskite subtitrus</string>
     <string name="pla_track_sel_sub_desc">Pakeiskite subtitrų šaltinį</string>
@@ -521,4 +513,26 @@
     <string name="ch_manage_status_hidden">paslėpta</string>
     <string name="ch_manage_status_child">vaikas</string>
     <string name="show_future_search_in_other">Ieškoti išorinėse programose</string>
+
+    <string name="cfg_channel_manager_filters">Filtrai</string>
+    <string name="menu_suggest_premium">Pasiruošę ieškoti įdomių papildomų funkcijų?</string>
+    <string name="cfg_epg_update_frequency">Atnaujinimo dažnis (valandomis)</string>
+    <string name="cfg_vod_merge">Sujunkite žiniasklaidos biblioteką iš įvairių šaltinių viename sąraše (reikia įkelti iš naujo)</string>
+    <string name="cfg_vod_no_index">Neleisti indeksavimo (sumažėja užklausų skaičius, bet taip pat išjungiama paieška ir pasiūlymai)</string>
+    <string name="ch_manage_rename">Pervardyti</string>
+    <string name="name_already_taken">Vardas jau priimtas</string>
+    <string name="pla_timeshift_from_current">Pradėkite nuo dabartinio momento</string>
+    <string name="cfg_play_action_timeshift_start">atidaryti archyvuotą TV laidą nuo pradžios</string>
+    <string name="cfg_play_action_timeshift_now">atidaryti archyvuotą televizijos laidą nuo dabartinio laiko</string>
+    <string name="cfg_cat_recent">Paskutinių kanalų kategorija</string>
+    <string name="enable">įjungti</string>
+    <string name="save_between_launch">išsaugokite tarp paleidimų</string>
+    <string name="ch_pos_pin_1">Įkiškite į viršų</string>
+    <string name="cfg_no_teleguide">Sukurkite virtualų epg įrašą, kai nėra televizijos programos</string>
+    <string name="menu_qs_provider_multiple">Pažymėkite rankiniu būdu</string>
+    <string name="category_recently_added">Paskutinės pridėtos</string>
+    <string name="ask_finish_update">Iš naujo paleiskite programą, kad atnaujintumėte naujesnę versiją?</string>
+    <string name="ch_pos_pin_minus1">Įrašykite viršutinį sąrašą</string>
+    <string name="cfg_premium_etc">Ir daug kitų vertingų funkcijų</string>
+    <string name="cfg_fine_tune_volume">Rankinis garso garsumo nustatymas (ribojamas pagal sistemos tūrį)</string>
 </resources>

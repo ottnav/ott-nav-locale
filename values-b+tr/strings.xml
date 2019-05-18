@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Depolama erişimi gerekli. Bir erişim sağlayın ve işlemi yeniden deneyin.</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) yüklendi: kayıtlar</string>
-    <string name="info_channels_count_updated">Sağlayıcı yeni kanal ekledi</string>
-
 
     <string name="player_menu_select_channel_title">Başka bir kanal</string>
     <string name="player_menu_select_archive_title">Başka bir video</string>
@@ -255,8 +253,6 @@
     <string name="settings_ui_touch_swipes">Dokunma sesini / parlaklık kontrolünü devre dışı bırak</string>
     <string name="settings_ui_play_vol_seek">Sesi değiştirmek için geri sarma düğmelerini kullanın</string>
 
-    <string name="settings_ui_only_manual_favorites">Manuel olarak işaretlenmiş favori kanalları yalnızca favoriler olarak göster</string>
-
     <string name="settings_devices_no_hdmi">HDMI durumu değişikliklerini izlemeyin</string>
 
     <string name="settings_codec">Codec ayarları</string>
@@ -330,7 +326,6 @@
     <string name="prov_help_telegram">Telegram\'a katıl</string>
     <string name="settings_premium_what_included_5">Reklamsız</string>
     <string name="btn_change">Değişiklik</string>
-    <string name="btn_file">Dosya</string>
     <string name="invalid_domain">Alan muhtemelen geçersizdir. Girişinizi kontrol edin</string>
     <string name="example">Örnek</string>
     <string name="provider_generic">Genel sağlayıcı veya oynatma listesi</string>
@@ -349,14 +344,12 @@
     <string name="cfg_play_action_btn_yellow">Sarı düğme için eylem</string>
     <string name="cfg_play_action_btn_blue">Mavi düğme için eylem</string>
     <string name="map_channel_to_epg">EPG\'ye harita kanalı</string>
-    <string name="map_channel_to_epg_desc">TV programından isim seç</string>
     <string name="map_channel_to_epg_after">Değişiklikler bir sonraki EPG teleguide yeniden yüklemesinde uygulanacaktır.</string>
     <string name="cfg_epg_1_provider">Bu kaynak ana olarak kabul edilecektir (yapılandırılmışsa)</string>
     <string name="cfg_play_action_vol_d">sesi azalt</string>
     <string name="cfg_play_action_vol_u">sesi arttır</string>
     <string name="cfg_ext_player_auto">Sistem varsayılan oynatıcı</string>
     <string name="cfg_ext_player_chooser">Her seferinde manuel olarak seç</string>
-    <string name="btn_install">kurmak</string>
     <string name="btn_close">Kapat</string>
     <string name="prem_sub_add_3m">Abone ol (her 3 ayda bir faturalandırılır)</string>
     <string name="prem_sub_add_1y">Abone ol (her yıl faturalandırılır)</string>
@@ -390,7 +383,6 @@
     <string name="cfg_video_retry">Hata oluştuğunda videoyu yüklemeyi deneme süreleri</string>
     <string name="cfg_play_action_2live">Mevcut kanalın canlı yayınına geç</string>
     <string name="player_menu_2live">Yaşamaya geç</string>
-    <string name="settings_provider_select_key_if_any">Sağlayıcı yetkilendirme anahtarı (varsa).</string>
 
     <string name="cfg_pl_offs_swipe">Ses ve parlaklık dokunmatik panelini ekranın kenarından hareket ettirin</string>
     <string name="btn_seek">Aramak</string>
@@ -442,7 +434,6 @@
 
     <string name="cfg_switch_dummy_on">Basitleştirilmiş ayarlar moduna geçin</string>
     <string name="cfg_switch_dummy_off">Gelişmiş ayarlar moduna geç</string>
-    <string name="cfg_no_recent">Son kanallarla kategoriyi gösterme</string>
     <string name="cfg_no_hints">İpuçlarını gösterme</string>
     <string name="pla_track_sel_sub">Altyazıları değiştir</string>
     <string name="pla_track_sel_sub_desc">Altyazı kaynağını değiştir</string>
@@ -516,4 +507,26 @@
     <string name="ch_manage_status_hidden">gizli</string>
     <string name="ch_manage_status_child">çocuk</string>
     <string name="show_future_search_in_other">Harici uygulamalarda ara</string>
+
+    <string name="cfg_channel_manager_filters">Filtreler</string>
+    <string name="menu_suggest_premium">Heyecan verici premium özellikleri keşfetmeye hazır mısınız?</string>
+    <string name="cfg_epg_update_frequency">Güncelleme sıklığı (saat olarak)</string>
+    <string name="cfg_vod_merge">Medya kitaplığını farklı kaynaklardan tek bir listede birleştirme (yeniden yükleme gerektirir)</string>
+    <string name="cfg_vod_no_index">Endekslemeyi devre dışı bırak (istek sayısını azaltır, ancak arama ve önerileri de devre dışı bırakır)</string>
+    <string name="ch_manage_rename">Adını değiştirmek</string>
+    <string name="name_already_taken">İsim zaten alınmış</string>
+    <string name="pla_timeshift_from_current">Geçerli andan başla</string>
+    <string name="cfg_play_action_timeshift_start">arşivden TV şovunu baştan aç</string>
+    <string name="cfg_play_action_timeshift_now">şimdiki zamandan itibaren arşivlenmiş TV şovunu aç</string>
+    <string name="cfg_cat_recent">Son kanallar kategorisi</string>
+    <string name="enable">etkinleştirme</string>
+    <string name="save_between_launch">lansmanlar arasında tasarruf edin</string>
+    <string name="ch_pos_pin_1">En üste sabitle</string>
+    <string name="cfg_no_teleguide">TV programı olmadığında sanal epg kaydı oluşturun</string>
+    <string name="menu_qs_provider_multiple">Manuel olarak işaretle</string>
+    <string name="category_recently_added">Son eklenenler</string>
+    <string name="ask_finish_update">Yeni sürüm için güncelleme yapmak için uygulamayı yeniden başlat</string>
+    <string name="ch_pos_pin_minus1">Listede üste sabitle</string>
+    <string name="cfg_premium_etc">Ve diğer birçok değerli fonksiyonlar</string>
+    <string name="cfg_fine_tune_volume">Manuel ses seviyesi ince ayarı (sistem ses seviyesiyle sınırlı)</string>
 </resources>

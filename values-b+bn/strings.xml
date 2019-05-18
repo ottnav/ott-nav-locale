@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">সংগ্রহস্থল এক্সেস প্রয়োজন বোধ করা হয়। একটি অ্যাক্সেস প্রদান এবং অপারেশন পুনরায় চেষ্টা করুন</string>
 
     <string name="info_teleguide_loaded">Teleguide (ইপিজি) লোড: রেকর্ড</string>
-    <string name="info_channels_count_updated">সরবরাহকারী নতুন চ্যানেল যোগ করা হয়েছে</string>
-
 
     <string name="player_menu_select_channel_title">আরেকটি চ্যানেল</string>
     <string name="player_menu_select_archive_title">আরেকটি ভিডিও</string>
@@ -255,8 +253,6 @@
     <string name="settings_ui_touch_swipes">স্পর্শ ভলিউম / উজ্জ্বলতা নিয়ন্ত্রণ নিষ্ক্রিয় করুন</string>
     <string name="settings_ui_play_vol_seek">ভলিউম পরিবর্তন রিউইন্ড বোতাম ব্যবহার করুন</string>
 
-    <string name="settings_ui_only_manual_favorites">ম্যানুয়ালি পছন্দসই হিসাবে ম্যানুয়াল পছন্দসই চ্যানেল চিহ্নিত করুন</string>
-
     <string name="settings_devices_no_hdmi">HDMI রাষ্ট্র পরিবর্তন মনিটর করবেন না</string>
 
     <string name="settings_codec">কোডেক সেটিংস</string>
@@ -332,7 +328,6 @@
     <string name="prov_help_telegram">টেলিগ্রাম চ্যাট করুন</string>
     <string name="settings_premium_what_included_5">কোন বিজ্ঞাপন নেই</string>
     <string name="btn_change">পরিবর্তন</string>
-    <string name="btn_file">ফাইল</string>
     <string name="invalid_domain">ডোমেইন সম্ভবত অবৈধ। আপনার ইনপুট চেক করুন</string>
     <string name="example">উদাহরণ</string>
     <string name="provider_generic">জেনেরিক প্রদানকারী বা প্লেলিস্ট</string>
@@ -351,14 +346,12 @@
     <string name="cfg_play_action_btn_yellow">হলুদ বাটন জন্য কর্ম</string>
     <string name="cfg_play_action_btn_blue">নীল বোতাম জন্য অ্যাকশন</string>
     <string name="map_channel_to_epg">ইপিজি ম্যাপ চ্যানেল</string>
-    <string name="map_channel_to_epg_desc">টিভি প্রোগ্রাম থেকে নাম নির্বাচন করুন</string>
     <string name="map_channel_to_epg_after">পরিবর্তনগুলি পরবর্তী ইপিজি টেলিগ্রিড পুনরায় লোড করা হবে।</string>
     <string name="cfg_epg_1_provider">এই উৎসটি প্রধান হিসাবে বিবেচিত হবে (যদি কনফিগার করা থাকে)</string>
     <string name="cfg_play_action_vol_d">ভলিউম হ্রাস</string>
     <string name="cfg_play_action_vol_u">ভলিউম বৃদ্ধি</string>
     <string name="cfg_ext_player_auto">সিস্টেম ডিফল্ট প্লেয়ার</string>
     <string name="cfg_ext_player_chooser">প্রত্যেক সময় নিজে চয়ন করুন</string>
-    <string name="btn_install">ইনস্টল করুন</string>
     <string name="btn_close">ঘনিষ্ঠ</string>
     <string name="prem_sub_add_3m">সাবস্ক্রাইব করুন (প্রতি 3 মাসে বিল করা)</string>
     <string name="prem_sub_add_1y">সদস্যতা (প্রতি বছর বিল)</string>
@@ -392,7 +385,6 @@
     <string name="cfg_video_retry">ত্রুটি ঘটেছে যখন ভিডিও লোড করার চেষ্টা টাইমস</string>
     <string name="cfg_play_action_2live">বর্তমান চ্যানেলের সরাসরি সম্প্রচারে স্যুইচ করুন</string>
     <string name="player_menu_2live">লাইভ পরিবর্তন করুন</string>
-    <string name="settings_provider_select_key_if_any">সরবরাহকারী অনুমোদন কী (যদি থাকে)।</string>
 
     <string name="cfg_pl_offs_swipe">পর্দার প্রান্ত থেকে ভলিউম এবং উজ্জ্বলতা স্পর্শ প্যানেল সরান</string>
     <string name="btn_seek">খোঁজ</string>
@@ -444,7 +436,6 @@
 
     <string name="cfg_switch_dummy_on">সরলীকৃত সেটিংস মোডে স্যুইচ করুন</string>
     <string name="cfg_switch_dummy_off">উন্নত সেটিংস মোডে স্যুইচ করুন</string>
-    <string name="cfg_no_recent">সাম্প্রতিক চ্যানেলের সাথে বিভাগ দেখাবেন না</string>
     <string name="cfg_no_hints">নির্দেশনা প্রদর্শন করবেন না</string>
     <string name="pla_track_sel_sub">সাবটাইটেল স্যুইচ করুন</string>
     <string name="pla_track_sel_sub_desc">সাবটাইটেল উৎস পরিবর্তন করুন</string>
@@ -518,4 +509,26 @@
     <string name="ch_manage_status_hidden">গোপন</string>
     <string name="ch_manage_status_child">শিশু</string>
     <string name="show_future_search_in_other">বাহ্যিক অ্যাপ্লিকেশন অনুসন্ধান করুন</string>
+
+    <string name="cfg_channel_manager_filters">ফিল্টার</string>
+    <string name="menu_suggest_premium">উত্তেজনাপূর্ণ প্রিমিয়াম বৈশিষ্ট্য অন্বেষণ করতে প্রস্তুত?</string>
+    <string name="cfg_epg_update_frequency">আপডেট ফ্রিকোয়েন্সি (ঘন্টা)</string>
+    <string name="cfg_vod_merge">একটি তালিকাতে বিভিন্ন উত্স থেকে মিডিয়া লাইব্রেরি মার্জ করুন (পুনরায় লোড প্রয়োজন)</string>
+    <string name="cfg_vod_no_index">সূচী অক্ষম করুন (অনুরোধ সংখ্যা হ্রাস, কিন্তু অনুসন্ধান এবং পরামর্শ নিষ্ক্রিয়)</string>
+    <string name="ch_manage_rename">পুনঃনামকরণ</string>
+    <string name="name_already_taken">নাম ইতিমধ্যে গ্রহণ করা হয়</string>
+    <string name="pla_timeshift_from_current">বর্তমান মুহূর্ত থেকে শুরু করুন</string>
+    <string name="cfg_play_action_timeshift_start">শুরু থেকে সংরক্ষণাগার টিভি শো খুলুন</string>
+    <string name="cfg_play_action_timeshift_now">বর্তমান সময় থেকে সংরক্ষণাগার টিভি শো খুলুন</string>
+    <string name="cfg_cat_recent">সাম্প্রতিক চ্যানেল বিভাগ</string>
+    <string name="enable">সক্ষম করা</string>
+    <string name="save_between_launch">লঞ্চ মধ্যে সংরক্ষণ করুন</string>
+    <string name="ch_pos_pin_1">উপরে পিন করুন</string>
+    <string name="cfg_no_teleguide">কোন টিভি প্রোগ্রাম উপলব্ধ যখন ভার্চুয়াল এপিজি রেকর্ড জেনারেট করুন</string>
+    <string name="menu_qs_provider_multiple">ম্যানুয়ালি চিহ্নিত করুন</string>
+    <string name="category_recently_added">সম্প্রতি যোগ</string>
+    <string name="ask_finish_update">নতুন সংস্করণ আপডেট করার জন্য অ্যাপ্লিকেশন পুনরায় চালু করবেন?</string>
+    <string name="ch_pos_pin_minus1">তালিকায় উপরের পিন</string>
+    <string name="cfg_premium_etc">এবং অনেক অন্যান্য মূল্যবান ফাংশন</string>
+    <string name="cfg_fine_tune_volume">ম্যানুয়াল অডিও ভলিউম জরিমানা সুর (সিস্টেম ভলিউম দ্বারা সীমিত)</string>
 </resources>

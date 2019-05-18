@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">الوصول إلى التخزين مطلوب. توفير الوصول وإعادة محاولة العملية</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) المحملة: السجلات</string>
-    <string name="info_channels_count_updated">موفر أضاف قنوات جديدة</string>
-
 
     <string name="player_menu_select_channel_title">قناة أخرى</string>
     <string name="player_menu_select_archive_title">فيديو آخر</string>
@@ -256,8 +254,6 @@
     <string name="settings_ui_touch_swipes">تعطيل التحكم في حجم / سطوع اللمس</string>
     <string name="settings_ui_play_vol_seek">استخدم أزرار الترجيع لتغيير الحجم</string>
 
-    <string name="settings_ui_only_manual_favorites">إظهار القنوات المفضلة التي تم وضع علامة عليها يدويًا كمفضلة فقط</string>
-
     <string name="settings_devices_no_hdmi">لا تراقب تغييرات حالة HDMI</string>
 
     <string name="settings_codec">إعدادات الترميز</string>
@@ -331,7 +327,6 @@
     <string name="prov_help_telegram">انضم إلى الدردشة في Telegram</string>
     <string name="settings_premium_what_included_5">لا اعلانات</string>
     <string name="btn_change">يتغيرون</string>
-    <string name="btn_file">ملف</string>
     <string name="invalid_domain">النطاق ربما غير صالح. تحقق من ادخالك</string>
     <string name="example">مثال</string>
     <string name="provider_generic">موفر عام أو قائمة تشغيل</string>
@@ -350,14 +345,12 @@
     <string name="cfg_play_action_btn_yellow">العمل على الزر الأصفر</string>
     <string name="cfg_play_action_btn_blue">العمل للزر الأزرق</string>
     <string name="map_channel_to_epg">قناة الخريطة إلى EPG</string>
-    <string name="map_channel_to_epg_desc">اختر الاسم من البرنامج التلفزيوني</string>
     <string name="map_channel_to_epg_after">سيتم تطبيق التغييرات على إعادة تحميل EPG التالي.</string>
     <string name="cfg_epg_1_provider">سيتم اعتبار هذا المصدر الرئيسي (إذا تمت تهيئته)</string>
     <string name="cfg_play_action_vol_d">انخفاض حجم</string>
     <string name="cfg_play_action_vol_u">ارفع على الصوت</string>
     <string name="cfg_ext_player_auto">مشغل النظام الافتراضي</string>
     <string name="cfg_ext_player_chooser">اختر يدويا في كل مرة</string>
-    <string name="btn_install">التثبت</string>
     <string name="btn_close">قريب</string>
     <string name="prem_sub_add_3m">الاشتراك (يتم الدفع كل 3 أشهر)</string>
     <string name="prem_sub_add_1y">اشترك (فواتير كل عام)</string>
@@ -391,7 +384,6 @@
     <string name="cfg_video_retry">مرات لإعادة محاولة تحميل الفيديو عند حدوث خطأ</string>
     <string name="cfg_play_action_2live">قم بالتبديل إلى البث المباشر للقناة الحالية</string>
     <string name="player_menu_2live">التحول إلى العيش</string>
-    <string name="settings_provider_select_key_if_any">مفتاح تفويض الموفر (إن وجد).</string>
 
     <string name="cfg_pl_offs_swipe">حرك لوحة اللمس وسطوع حجم الصوت من حافة الشاشة</string>
     <string name="btn_seek">طلب</string>
@@ -443,7 +435,6 @@
 
     <string name="cfg_switch_dummy_on">قم بالتبديل إلى وضع الإعدادات المبسط</string>
     <string name="cfg_switch_dummy_off">قم بالتبديل إلى وضع الإعدادات المتقدمة</string>
-    <string name="cfg_no_recent">لا تعرض الفئة مع القنوات الحديثة</string>
     <string name="cfg_no_hints">لا تظهر تلميحات</string>
     <string name="pla_track_sel_sub">تبديل الترجمة</string>
     <string name="pla_track_sel_sub_desc">تغيير مصدر الترجمة</string>
@@ -517,4 +508,26 @@
     <string name="ch_manage_status_hidden">مخفي</string>
     <string name="ch_manage_status_child">طفل</string>
     <string name="show_future_search_in_other">البحث في التطبيقات الخارجية</string>
+
+    <string name="cfg_channel_manager_filters">مرشحات</string>
+    <string name="menu_suggest_premium">هل أنت مستعد لاستكشاف ميزات متميزة ومثيرة؟</string>
+    <string name="cfg_epg_update_frequency">تردد التحديث (بالساعات)</string>
+    <string name="cfg_vod_merge">دمج مكتبة الوسائط من مصادر مختلفة في قائمة واحدة (يتطلب إعادة التحميل)</string>
+    <string name="cfg_vod_no_index">تعطيل الفهرسة (تقليل عدد الطلبات ، وكذلك تعطيل البحث والاقتراحات)</string>
+    <string name="ch_manage_rename">إعادة تسمية</string>
+    <string name="name_already_taken">يتم أخذ الاسم بالفعل</string>
+    <string name="pla_timeshift_from_current">نبدأ من اللحظة الحالية</string>
+    <string name="cfg_play_action_timeshift_start">فتح أرشفة برنامج تلفزيوني من البداية</string>
+    <string name="cfg_play_action_timeshift_now">فتح أرشفة برنامج تلفزيوني من الوقت الحالي</string>
+    <string name="cfg_cat_recent">فئة القنوات الحديثة</string>
+    <string name="enable">مكن</string>
+    <string name="save_between_launch">حفظ بين الإطلاقات</string>
+    <string name="ch_pos_pin_1">دبوس الى أعلى الصفحة</string>
+    <string name="cfg_no_teleguide">إنشاء سجل epg الظاهري عند عدم توفر برنامج تلفزيوني</string>
+    <string name="menu_qs_provider_multiple">علامة يدويا</string>
+    <string name="category_recently_added">وضعت مؤخرا</string>
+    <string name="ask_finish_update">أعد تشغيل التطبيق لتحديث الإصدار الأحدث؟</string>
+    <string name="ch_pos_pin_minus1">دبوس العلوي في القائمة</string>
+    <string name="cfg_premium_etc">والعديد من الوظائف القيمة الأخرى</string>
+    <string name="cfg_fine_tune_volume">ضبط حجم الصوت يدويًا (محدود بحجم صوت النظام)</string>
 </resources>

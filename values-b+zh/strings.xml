@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">存储访问是必需的。提供访问权限并重试该操作</string>
 
     <string name="info_teleguide_loaded">加载Teleguide（EPG）：记录</string>
-    <string name="info_channels_count_updated">提供商已添加新渠道</string>
-
 
     <string name="player_menu_select_channel_title">另一个渠道</string>
     <string name="player_menu_select_archive_title">另一个视频</string>
@@ -255,8 +253,6 @@
     <string name="settings_ui_touch_swipes">禁用触摸音量/亮度控制</string>
     <string name="settings_ui_play_vol_seek">使用快退按钮更改音量</string>
 
-    <string name="settings_ui_only_manual_favorites">仅将手动标记的收藏频道显示为收藏</string>
-
     <string name="settings_devices_no_hdmi">不要监视HDMI状态变化</string>
 
     <string name="settings_codec">编解码器设置</string>
@@ -332,7 +328,6 @@
     <string name="prov_help_telegram">加入Telegram聊天</string>
     <string name="settings_premium_what_included_5">无广告</string>
     <string name="btn_change">更改</string>
-    <string name="btn_file">文件</string>
     <string name="invalid_domain">域名可能无效。检查你的输入</string>
     <string name="example">例</string>
     <string name="provider_generic">通用提供程序或播放列表</string>
@@ -351,14 +346,12 @@
     <string name="cfg_play_action_btn_yellow">黄色按钮的动作</string>
     <string name="cfg_play_action_btn_blue">蓝色按钮的动作</string>
     <string name="map_channel_to_epg">将频道映射到EPG</string>
-    <string name="map_channel_to_epg_desc">从电视节目中选择名称</string>
     <string name="map_channel_to_epg_after">更改将应用于下一次EPG电视重新加载。</string>
     <string name="cfg_epg_1_provider">此源将被视为主要（如果已配置）</string>
     <string name="cfg_play_action_vol_d">减少音量</string>
     <string name="cfg_play_action_vol_u">增加音量</string>
     <string name="cfg_ext_player_auto">系统默认播放器</string>
     <string name="cfg_ext_player_chooser">每次手动选择</string>
-    <string name="btn_install">安装</string>
     <string name="btn_close">关</string>
     <string name="prem_sub_add_3m">订阅（每3个月收费）</string>
     <string name="prem_sub_add_1y">订阅（每年开帐单）</string>
@@ -392,7 +385,6 @@
     <string name="cfg_video_retry">发生错误时重试加载视频的时间</string>
     <string name="cfg_play_action_2live">切换到当前频道的直播</string>
     <string name="player_menu_2live">切换到现场</string>
-    <string name="settings_provider_select_key_if_any">提供者授权密钥（如果有）。</string>
 
     <string name="cfg_pl_offs_swipe">从屏幕边缘移动音量和亮度触摸面板</string>
     <string name="btn_seek">寻求</string>
@@ -444,7 +436,6 @@
 
     <string name="cfg_switch_dummy_on">切换到简化设置模式</string>
     <string name="cfg_switch_dummy_off">切换到高级设置模式</string>
-    <string name="cfg_no_recent">不要显示最近频道的类别</string>
     <string name="cfg_no_hints">不要显示提示</string>
     <string name="pla_track_sel_sub">切换字幕</string>
     <string name="pla_track_sel_sub_desc">更改字幕来源</string>
@@ -518,4 +509,26 @@
     <string name="ch_manage_status_hidden">隐</string>
     <string name="ch_manage_status_child">儿童</string>
     <string name="show_future_search_in_other">在外部应用中搜索</string>
+
+    <string name="cfg_channel_manager_filters">过滤器</string>
+    <string name="menu_suggest_premium">准备探索令人兴奋的高级功能？</string>
+    <string name="cfg_epg_update_frequency">更新频率（小时）</string>
+    <string name="cfg_vod_merge">在单个列表中合并来自不同来源的媒体库（需要重新加载）</string>
+    <string name="cfg_vod_no_index">禁用索引（减少请求数，但也禁用搜索和建议）</string>
+    <string name="ch_manage_rename">改名</string>
+    <string name="name_already_taken">名称已被采用</string>
+    <string name="pla_timeshift_from_current">从当前时刻开始</string>
+    <string name="cfg_play_action_timeshift_start">从一开始就打开存档的电视节目</string>
+    <string name="cfg_play_action_timeshift_now">从当前时间开放存档的电视节目</string>
+    <string name="cfg_cat_recent">最近的频道类别</string>
+    <string name="enable">启用</string>
+    <string name="save_between_launch">在发布之间保存</string>
+    <string name="ch_pos_pin_1">固定到顶部</string>
+    <string name="cfg_no_teleguide">没有可用的电视节目时生成虚拟epg记录</string>
+    <string name="menu_qs_provider_multiple">手动标记</string>
+    <string name="category_recently_added">最近添加的</string>
+    <string name="ask_finish_update">重新启动应用以更新更新版本？</string>
+    <string name="ch_pos_pin_minus1">将列表放在列表中</string>
+    <string name="cfg_premium_etc">还有许多其他宝贵的功能</string>
+    <string name="cfg_fine_tune_volume">手动音量微调（受系统音量限制）</string>
 </resources>

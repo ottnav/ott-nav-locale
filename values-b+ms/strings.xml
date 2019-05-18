@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Akses storan diperlukan. Sediakan akses dan cuba semula operasi</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) dimuatkan: rekod</string>
-    <string name="info_channels_count_updated">Pembekal telah menambah saluran baru</string>
-
 
     <string name="player_menu_select_channel_title">Saluran yang lain</string>
     <string name="player_menu_select_archive_title">Satu lagi video</string>
@@ -255,8 +253,6 @@
     <string name="settings_ui_touch_swipes">Lumpuhkan kawalan kelantangan / kecerahan sentuh</string>
     <string name="settings_ui_play_vol_seek">Gunakan butang gulung semula untuk menukar kelantangan</string>
 
-    <string name="settings_ui_only_manual_favorites">Paparkan saluran kegemaran yang ditandakan secara manual hanya sebagai kegemaran</string>
-
     <string name="settings_devices_no_hdmi">Jangan memantau perubahan keadaan HDMI</string>
 
     <string name="settings_codec">Tetapan codec</string>
@@ -332,7 +328,6 @@
     <string name="prov_help_telegram">Sertai chat di Telegram</string>
     <string name="settings_premium_what_included_5">Tiada iklan</string>
     <string name="btn_change">Ubah</string>
-    <string name="btn_file">Fail</string>
     <string name="invalid_domain">Domain mungkin tidak sah. Semak input anda</string>
     <string name="example">Contoh</string>
     <string name="provider_generic">Pembekal atau senarai main generik</string>
@@ -351,14 +346,12 @@
     <string name="cfg_play_action_btn_yellow">Tindakan untuk butang Kuning</string>
     <string name="cfg_play_action_btn_blue">Tindakan untuk butang Biru</string>
     <string name="map_channel_to_epg">Saluran peta ke EPG</string>
-    <string name="map_channel_to_epg_desc">Pilih nama dari program TV</string>
     <string name="map_channel_to_epg_after">Perubahan akan dikenakan pada reload EPG seterusnya.</string>
     <string name="cfg_epg_1_provider">Sumber ini akan dianggap sebagai utama (jika dikonfigurasi)</string>
     <string name="cfg_play_action_vol_d">mengurangkan jumlah</string>
     <string name="cfg_play_action_vol_u">meningkatkan jumlah</string>
     <string name="cfg_ext_player_auto">Pemain lalai sistem</string>
     <string name="cfg_ext_player_chooser">Pilih secara manual setiap kali</string>
-    <string name="btn_install">Pasang</string>
     <string name="btn_close">Tutup</string>
     <string name="prem_sub_add_3m">Langgan (ditaksir setiap 3 bulan)</string>
     <string name="prem_sub_add_1y">Langgan (dibilkan setiap tahun)</string>
@@ -392,7 +385,6 @@
     <string name="cfg_video_retry">Masa untuk mencuba semula memuatkan video apabila ralat berlaku</string>
     <string name="cfg_play_action_2live">Tukar hidup siaran saluran semasa</string>
     <string name="player_menu_2live">Tukar hidup</string>
-    <string name="settings_provider_select_key_if_any">Kunci kuasa pembekal (jika ada).</string>
 
     <string name="cfg_pl_offs_swipe">Pindahkan kelantangan dan panel sentuh kecerahan dari tepi skrin</string>
     <string name="btn_seek">Cari</string>
@@ -444,7 +436,6 @@
 
     <string name="cfg_switch_dummy_on">Tukar ke mod tetapan mudah</string>
     <string name="cfg_switch_dummy_off">Beralih ke mod tetapan lanjutan</string>
-    <string name="cfg_no_recent">Jangan tunjukkan kategori dengan saluran terkini</string>
     <string name="cfg_no_hints">Jangan tunjukkan petunjuk</string>
     <string name="pla_track_sel_sub">Tukar sarikata</string>
     <string name="pla_track_sel_sub_desc">Tukar sumber sarikata</string>
@@ -518,4 +509,26 @@
     <string name="ch_manage_status_hidden">tersembunyi</string>
     <string name="ch_manage_status_child">kanak-kanak</string>
     <string name="show_future_search_in_other">Cari dalam aplikasi luaran</string>
+
+    <string name="cfg_channel_manager_filters">Penapis</string>
+    <string name="menu_suggest_premium">Bersedia untuk meneroka ciri-ciri premium yang menarik?</string>
+    <string name="cfg_epg_update_frequency">Kekerapan kemas kini (dalam jam)</string>
+    <string name="cfg_vod_merge">Gabungkan pustaka media dari pelbagai sumber dalam satu senarai (memerlukan tambah nilai)</string>
+    <string name="cfg_vod_no_index">Lumpuhkan pengindeksan (mengurangkan bilangan permintaan, tetapi juga melumpuhkan carian dan cadangan)</string>
+    <string name="ch_manage_rename">Namakan semula</string>
+    <string name="name_already_taken">Nama sudah diambil</string>
+    <string name="pla_timeshift_from_current">Mulakan dari saat ini</string>
+    <string name="cfg_play_action_timeshift_start">buka arkib tv-pertunjukan dari permulaan</string>
+    <string name="cfg_play_action_timeshift_now">buka tayangan televisyen yang diarsipkan dari masa sekarang</string>
+    <string name="cfg_cat_recent">Kategori saluran terkini</string>
+    <string name="enable">membolehkannya</string>
+    <string name="save_between_launch">simpan antara pelancaran</string>
+    <string name="ch_pos_pin_1">Pin ke atas</string>
+    <string name="cfg_no_teleguide">Menjana rekod epg maya apabila tiada program tv tersedia</string>
+    <string name="menu_qs_provider_multiple">Tandakan secara manual</string>
+    <string name="category_recently_added">Baru sahaja ditambah</string>
+    <string name="ask_finish_update">Mulakan semula aplikasi untuk mengemas kini untuk versi yang lebih baru?</string>
+    <string name="ch_pos_pin_minus1">Daftar masuk atas</string>
+    <string name="cfg_premium_etc">Dan banyak fungsi berharga lain</string>
+    <string name="cfg_fine_tune_volume">Kelantangan audio manual baik-baik saja (terhad oleh kelantangan sistem)</string>
 </resources>

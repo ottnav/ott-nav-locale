@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">دسترسی به ذخیره سازی مورد نیاز است. دسترسی را فراهم کرده و عملیات را دوباره انجام دهید</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) بارگیری شده است: سوابق</string>
-    <string name="info_channels_count_updated">ارائه دهنده کانال های جدیدی اضافه کرده است</string>
-
 
     <string name="player_menu_select_channel_title">کانال دیگر</string>
     <string name="player_menu_select_archive_title">ویدیوی دیگر</string>
@@ -255,8 +253,6 @@
     <string name="settings_ui_touch_swipes">کنترل لمسی / کنترل روشنایی را غیرفعال کنید</string>
     <string name="settings_ui_play_vol_seek">استفاده از دکمه های عقبگرد برای تغییر صدا</string>
 
-    <string name="settings_ui_only_manual_favorites">کانال های مورد علاقه را فقط به صورت دلخواه نشان می دهد</string>
-
     <string name="settings_devices_no_hdmi">تغییرات حالت HDMI را نظارت نکنید</string>
 
     <string name="settings_codec">تنظیمات کدک ها</string>
@@ -332,7 +328,6 @@
     <string name="prov_help_telegram">به چت در Telegram بپیوندید</string>
     <string name="settings_premium_what_included_5">بدون تبلیغات</string>
     <string name="btn_change">تغییر دادن</string>
-    <string name="btn_file">فایل</string>
     <string name="invalid_domain">دامنه احتمالا نامعتبر است ورودی خود را بررسی کنید</string>
     <string name="example">مثال</string>
     <string name="provider_generic">ارائه دهنده عمومی یا لیست پخش</string>
@@ -351,14 +346,12 @@
     <string name="cfg_play_action_btn_yellow">اقدام برای دکمه زرد</string>
     <string name="cfg_play_action_btn_blue">عمل برای دکمه آبی</string>
     <string name="map_channel_to_epg">کانال را به EPG منتقل کنید</string>
-    <string name="map_channel_to_epg_desc">نام را از برنامه تلویزیون انتخاب کنید</string>
     <string name="map_channel_to_epg_after">تغییرات در بارگیری مجدد EPG telegide بعدی اعمال خواهد شد.</string>
     <string name="cfg_epg_1_provider">این منبع به عنوان اصلی (اگر پیکربندی شده)</string>
     <string name="cfg_play_action_vol_d">کاهش حجم</string>
     <string name="cfg_play_action_vol_u">افزایش حجم</string>
     <string name="cfg_ext_player_auto">پخش کننده پیش فرض سیستم</string>
     <string name="cfg_ext_player_chooser">هر بار دست را انتخاب کنید</string>
-    <string name="btn_install">نصب</string>
     <string name="btn_close">نزدیک</string>
     <string name="prem_sub_add_3m">اشتراک (هر 3 ماه یک بار)</string>
     <string name="prem_sub_add_1y">اشتراک (هر سال صورت حساب)</string>
@@ -392,7 +385,6 @@
     <string name="cfg_video_retry">بارگیری مجدد در هنگام بارگیری ویدیو هنگام بارگیری خطا</string>
     <string name="cfg_play_action_2live">انتقال به پخش زنده کانال جاری</string>
     <string name="player_menu_2live">تغییر به زندگی</string>
-    <string name="settings_provider_select_key_if_any">کلید مجوز ارائه دهنده (در صورت وجود).</string>
 
     <string name="cfg_pl_offs_swipe">لبه صفحه لمسی حجم و روشنایی را از لبه صفحه حرکت دهید</string>
     <string name="btn_seek">جستجو کن</string>
@@ -444,7 +436,6 @@
 
     <string name="cfg_switch_dummy_on">به حالت تنظیمات ساده تغییر دهید</string>
     <string name="cfg_switch_dummy_off">به حالت تنظیمات پیشرفته بروید</string>
-    <string name="cfg_no_recent">دسته بندی را با کانال های اخیر نشان نمی دهد</string>
     <string name="cfg_no_hints">نکات را نشان ندهید</string>
     <string name="pla_track_sel_sub">تعویض زیرنویسها</string>
     <string name="pla_track_sel_sub_desc">تغییر زیرنویس منبع</string>
@@ -518,4 +509,26 @@
     <string name="ch_manage_status_hidden">پنهان</string>
     <string name="ch_manage_status_child">کودک</string>
     <string name="show_future_search_in_other">جستجو در برنامه های خارجی</string>
+
+    <string name="cfg_channel_manager_filters">فیلترها</string>
+    <string name="menu_suggest_premium">آماده کشف ویژگی های هیجان انگیز است؟</string>
+    <string name="cfg_epg_update_frequency">به روز رسانی فرکانس (در ساعت)</string>
+    <string name="cfg_vod_merge">ادغام کتابخانه های رسانه ای از منابع مختلف در یک لیست (نیاز به بارگزاری مجدد)</string>
+    <string name="cfg_vod_no_index">غیر فعال کردن نمایه سازی (تعداد درخواست ها را کاهش می دهد، بلکه جستجو و پیشنهادات را غیرفعال می کند)</string>
+    <string name="ch_manage_rename">تغییر نام دهید</string>
+    <string name="name_already_taken">نام قبلا گرفته شده است</string>
+    <string name="pla_timeshift_from_current">از لحظه ای شروع کن</string>
+    <string name="cfg_play_action_timeshift_start">بازکردن تلویزیون آرشیو شده از ابتدا</string>
+    <string name="cfg_play_action_timeshift_now">نمایش تلویزیون آرشیو شده را از زمان فعلی باز کنید</string>
+    <string name="cfg_cat_recent">دسته کانال های اخیر</string>
+    <string name="enable">فعال کردن</string>
+    <string name="save_between_launch">بین راه اندازی ذخیره کنید</string>
+    <string name="ch_pos_pin_1">پین به بالا</string>
+    <string name="cfg_no_teleguide">هنگامی که هیچ برنامه تلویزیونی موجود نیست، مجددا ضبط مجدد EPG ایجاد کنید</string>
+    <string name="menu_qs_provider_multiple">علامت گذاری به صورت دستی</string>
+    <string name="category_recently_added">به تازگی اضافه شده</string>
+    <string name="ask_finish_update">برنامه را برای به روز رسانی نسخه جدیدتر راه اندازی مجدد کنید؟</string>
+    <string name="ch_pos_pin_minus1">پین بالا در لیست</string>
+    <string name="cfg_premium_etc">و بسیاری دیگر از توابع با ارزش</string>
+    <string name="cfg_fine_tune_volume">تنظیم صدا صوتی دستی (محدود به حجم سیستم)</string>
 </resources>

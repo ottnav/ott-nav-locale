@@ -63,7 +63,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Требуется доступ к хранилищу. Выдайте доступ и повторите операцию</string>
 
     <string name="info_teleguide_loaded">Программа передач (EPG) загружена: записей</string>
-    <string name="info_channels_count_updated">Провайдер добавил новые каналы</string>
 
     <string name="player_menu_select_channel_title">Другой канал</string>
     <string name="player_menu_select_archive_title">Другое видео</string>
@@ -249,8 +248,6 @@
     <string name="settings_ui_touch_swipes">Отключить управление громкостью/яркостью пальцем</string>
     <string name="settings_ui_play_vol_seek">Использовать кнопки перемотки для смены громкости</string>
 
-    <string name="settings_ui_only_manual_favorites">Показывать только избранные вручную каналы в любимых</string>
-
     <string name="settings_devices_no_hdmi">Не следить за сменой состояния HDMI</string>
 
     <string name="settings_codec">Настройки кодеков</string>
@@ -326,7 +323,6 @@
     <string name="prov_help_telegram">Зайти в чат в Телеграм</string>
     <string name="settings_premium_what_included_5">Отсутствие рекламы</string>
     <string name="btn_change">Сменить</string>
-    <string name="btn_file">Файл</string>
     <string name="invalid_domain">Вероятно, домен неверен. Проверьте вашу настройку</string>
     <string name="example">Пример</string>
     <string name="provider_generic">Типичный провайдер или плейлист</string>
@@ -346,14 +342,12 @@
     <string name="cfg_play_action_btn_yellow">Действие для жёлтой кнопки</string>
     <string name="cfg_play_action_btn_blue">Действие для синей кнопки</string>
     <string name="map_channel_to_epg">Привязать канал к EPG</string>
-    <string name="map_channel_to_epg_desc">Выбрать имя из TV программы</string>
     <string name="map_channel_to_epg_after">Изменения применятся на следующем обновлении телегида EPG.</string>
     <string name="cfg_epg_1_provider">Этот источник будет считаться главным (если настроен)</string>
     <string name="cfg_play_action_vol_d">уменьшить громкость</string>
     <string name="cfg_play_action_vol_u">повысить громкость</string>
     <string name="cfg_ext_player_auto">Системный плейер по умолчанию</string>
     <string name="cfg_ext_player_chooser">Выбирать вручную каждый раз</string>
-    <string name="btn_install">Установаить</string>
     <string name="btn_close">Закрыть</string>
     <string name="prem_sub_add_3m">Подписаться (ежеквартальная оплата)</string>
     <string name="prem_sub_add_1y">Подписаться (ежегодная оплата)</string>
@@ -387,7 +381,6 @@
     <string name="cfg_video_retry">Сколько раз пытаться перезагружать видео в случае ошибки</string>
     <string name="cfg_play_action_2live">Переключить на прямой эфир текущего канала</string>
     <string name="player_menu_2live">В прямой эфир</string>
-    <string name="settings_provider_select_key_if_any">Ключ авторизации провайдера (если есть).</string>
 
     <!-- 1.4.4 -->
     <string name="cfg_pl_offs_swipe">Перенести тач панель настройки громкости и яркости от края экрана</string>
@@ -442,7 +435,6 @@
     <!-- 1.4.6 -->
     <string name="cfg_switch_dummy_on">Переключить на упрощенный режим настроек</string>
     <string name="cfg_switch_dummy_off">Переключить на продвинутый режим настроек</string>
-    <string name="cfg_no_recent">Не показывать категорию с недавними каналами</string>
     <string name="cfg_no_hints">Не показывать подсказки</string>
     <string name="pla_track_sel_sub">Переключить субтитры</string>
     <string name="pla_track_sel_sub_desc">Сменить источник субтитров</string>
@@ -518,4 +510,27 @@
     <string name="ch_manage_status_hidden">спрятанный</string>
     <string name="ch_manage_status_child">детский</string>
     <string name="show_future_search_in_other">Искать в других приложениях</string>
+
+    <!-- 1.4.9 -->
+    <string name="cfg_channel_manager_filters">Фильтры</string>
+    <string name="menu_suggest_premium">Готовы изучить отличные премиум возможности?</string>
+    <string name="cfg_epg_update_frequency">Частота обновления (в часах)</string>
+    <string name="cfg_vod_merge">Склеить медиа библиотеку разных источников в единый список (требует перезагрузку)</string>
+    <string name="cfg_vod_no_index">Отключить индексацию (уменьшает число запросов, но и также отключает поиск и рекомендации)</string>
+    <string name="ch_manage_rename">Переименовать</string>
+    <string name="name_already_taken">Это название уже занято</string>
+    <string name="pla_timeshift_from_current">Начать с текущего момента</string>
+    <string name="cfg_play_action_timeshift_start">открыть архивную передачу сначала</string>
+    <string name="cfg_play_action_timeshift_now">открыть архивную передачу с текущего момента</string>
+    <string name="cfg_cat_recent">Категория недавних каналов</string>
+    <string name="enable">включить</string>
+    <string name="save_between_launch">сохранять между запусками</string>
+    <string name="ch_pos_pin_1">Прикрепить сверху</string>
+    <string name="cfg_no_teleguide">Создавать виртуальную запись EPG, когда нет доступных программ</string>
+    <string name="menu_qs_provider_multiple">Отметить вручную</string>
+    <string name="category_recently_added">Недавно добавленные</string>
+    <string name="ask_finish_update">Перезапустить приложение для обновления на новую версию?</string>
+    <string name="ch_pos_pin_minus1">Прикрепить выше в списке</string>
+    <string name="cfg_premium_etc">И множество других ценных функций</string>
+    <string name="cfg_fine_tune_volume">Ручная точная настройка громкости (ограничена системной громкостью)</string>
 </resources>

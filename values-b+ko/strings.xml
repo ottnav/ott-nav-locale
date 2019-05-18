@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">스토리지 액세스가 필요합니다. 액세스 권한을 제공하고 작업을 다시 시도하십시오.</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG)로드 됨 : 레코드</string>
-    <string name="info_channels_count_updated">제공자가 새 채널을 추가했습니다.</string>
-
 
     <string name="player_menu_select_channel_title">다른 채널</string>
     <string name="player_menu_select_archive_title">다른 동영상</string>
@@ -255,8 +253,6 @@
     <string name="settings_ui_touch_swipes">터치 볼륨 / 밝기 제어 사용 중지</string>
     <string name="settings_ui_play_vol_seek">되감기 버튼을 사용하여 볼륨 변경</string>
 
-    <string name="settings_ui_only_manual_favorites">수동으로 표시된 즐겨 찾기 채널 만 즐겨 찾기로 표시</string>
-
     <string name="settings_devices_no_hdmi">HDMI 상태 변경 사항을 모니터링하지 않음</string>
 
     <string name="settings_codec">코덱 설정</string>
@@ -332,7 +328,6 @@
     <string name="prov_help_telegram">Telegram에서 채팅에 참여하십시오</string>
     <string name="settings_premium_what_included_5">광고 없음</string>
     <string name="btn_change">변화</string>
-    <string name="btn_file">파일</string>
     <string name="invalid_domain">도메인이 유효하지 않은 것 같습니다. 입력 내용을 확인하십시오.</string>
     <string name="example">예</string>
     <string name="provider_generic">일반 공급자 또는 재생 목록</string>
@@ -351,14 +346,12 @@
     <string name="cfg_play_action_btn_yellow">노란색 버튼에 대한 작업</string>
     <string name="cfg_play_action_btn_blue">파란색 버튼에 대한 작업</string>
     <string name="map_channel_to_epg">채널을 EPG에 매핑</string>
-    <string name="map_channel_to_epg_desc">TV 프로그램에서 이름 선택</string>
     <string name="map_channel_to_epg_after">변경 사항은 다음 EPG teleguide reload에 적용됩니다.</string>
     <string name="cfg_epg_1_provider">이 소스는 기본 (구성된 경우)으로 간주됩니다.</string>
     <string name="cfg_play_action_vol_d">양을 줄이십시오</string>
     <string name="cfg_play_action_vol_u">양을 늘리다</string>
     <string name="cfg_ext_player_auto">시스템 기본 플레이어</string>
     <string name="cfg_ext_player_chooser">매번 수동으로 선택하십시오.</string>
-    <string name="btn_install">설치</string>
     <string name="btn_close">닫기</string>
     <string name="prem_sub_add_3m">구독 (3 개월마다 청구)</string>
     <string name="prem_sub_add_1y">구독 (매년 청구)</string>
@@ -392,7 +385,6 @@
     <string name="cfg_video_retry">오류가 발생했을 때 동영상로드를 다시 시도하는 시간</string>
     <string name="cfg_play_action_2live">현재 채널의 라이브 브로드 캐스트로 전환</string>
     <string name="player_menu_2live">라이브로 전환</string>
-    <string name="settings_provider_select_key_if_any">제공자 인증 키 (있는 경우).</string>
 
     <string name="cfg_pl_offs_swipe">화면 가장자리에서 볼륨 및 밝기 터치 패널 이동</string>
     <string name="btn_seek">목표물 탐색</string>
@@ -444,7 +436,6 @@
 
     <string name="cfg_switch_dummy_on">간단한 설정 모드로 전환</string>
     <string name="cfg_switch_dummy_off">고급 설정 모드로 전환</string>
-    <string name="cfg_no_recent">최근 채널 카테고리 표시 안함</string>
     <string name="cfg_no_hints">힌트를 표시하지 않음</string>
     <string name="pla_track_sel_sub">자막 전환</string>
     <string name="pla_track_sel_sub_desc">자막 원본 변경</string>
@@ -518,4 +509,26 @@
     <string name="ch_manage_status_hidden">숨겨진</string>
     <string name="ch_manage_status_child">어린이</string>
     <string name="show_future_search_in_other">외부 앱에서 검색</string>
+
+    <string name="cfg_channel_manager_filters">필터</string>
+    <string name="menu_suggest_premium">흥미로운 프리미엄 기능을 탐색 할 준비가 되셨습니까?</string>
+    <string name="cfg_epg_update_frequency">업데이트 빈도 (시간)</string>
+    <string name="cfg_vod_merge">여러 소스의 미디어 라이브러리를 단일 목록에 병합합니다 (다시로드해야 함).</string>
+    <string name="cfg_vod_no_index">색인 생성 사용 중지 (요청 수 감소, 검색 및 제안 사용 중지)</string>
+    <string name="ch_manage_rename">이름 바꾸기</string>
+    <string name="name_already_taken">이름이 이미 사용 중입니다.</string>
+    <string name="pla_timeshift_from_current">현재 순간부터 시작</string>
+    <string name="cfg_play_action_timeshift_start">처음부터 보관 된 tv-show 열기</string>
+    <string name="cfg_play_action_timeshift_now">현재 시간부터 보관 된 TV 쇼 열기</string>
+    <string name="cfg_cat_recent">최근 채널 카테고리</string>
+    <string name="enable">가능하게하다</string>
+    <string name="save_between_launch">시작 사이에 저장</string>
+    <string name="ch_pos_pin_1">핀 상단으로</string>
+    <string name="cfg_no_teleguide">사용 가능한 TV 프로그램이 없을 때 가상 EPG 레코드 생성</string>
+    <string name="menu_qs_provider_multiple">수동으로 표시</string>
+    <string name="category_recently_added">최근에 추가</string>
+    <string name="ask_finish_update">최신 버전으로 업데이트하려면 앱을 다시 시작 하시겠습니까?</string>
+    <string name="ch_pos_pin_minus1">목록 상단에 고정</string>
+    <string name="cfg_premium_etc">기타 많은 유용한 기능</string>
+    <string name="cfg_fine_tune_volume">수동 오디오 볼륨 미세 조정 (시스템 볼륨에 의해 제한됨)</string>
 </resources>

@@ -68,8 +68,6 @@
     <string name="error_require_file_permission_grant_and_try_again">נדרשת גישת אחסון. ספק גישה ונסה שנית את הפעולה</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) טעון: רשומות</string>
-    <string name="info_channels_count_updated">הספק הוסיף ערוצים חדשים</string>
-
 
     <string name="player_menu_select_channel_title">ערוץ נוסף</string>
     <string name="player_menu_select_archive_title">סרטון נוסף</string>
@@ -255,8 +253,6 @@
     <string name="settings_ui_touch_swipes">השבת את בקרת עוצמת הקול / בהירות מגע</string>
     <string name="settings_ui_play_vol_seek">השתמש בלחצנים אחורה כדי לשנות את עוצמת הקול</string>
 
-    <string name="settings_ui_only_manual_favorites">הצג ערוצים מועדפים שסומנו באופן ידני רק כפריטים מועדפים</string>
-
     <string name="settings_devices_no_hdmi">אין לפקח על שינויים במצב HDMI</string>
 
     <string name="settings_codec">הגדרות רכיבי Codec</string>
@@ -330,7 +326,6 @@
     <string name="prov_help_telegram">הצטרף לצ\'אט ב- Telegram</string>
     <string name="settings_premium_what_included_5">ללא פרסומות</string>
     <string name="btn_change">שינוי</string>
-    <string name="btn_file">קובץ</string>
     <string name="invalid_domain">הדומיין הוא כנראה לא חוקי. בדוק את הקלט</string>
     <string name="example">דוגמא</string>
     <string name="provider_generic">ספק כללי או רשימת השמעה</string>
@@ -349,14 +344,12 @@
     <string name="cfg_play_action_btn_yellow">פעולה עבור כפתור צהוב</string>
     <string name="cfg_play_action_btn_blue">פעולה עבור כפתור כחול</string>
     <string name="map_channel_to_epg">ערוץ מפה ל EPG</string>
-    <string name="map_channel_to_epg_desc">בחר שם מתוכנית טלוויזיה</string>
     <string name="map_channel_to_epg_after">שינויים יחולו על טעינה נוספת EPG teleguide הבא.</string>
     <string name="cfg_epg_1_provider">מקור זה ייחשב כראש (אם מוגדר)</string>
     <string name="cfg_play_action_vol_d">להקטין את עוצמת הקול</string>
     <string name="cfg_play_action_vol_u">הגברת נפח</string>
     <string name="cfg_ext_player_auto">נגן ברירת המחדל של המערכת</string>
     <string name="cfg_ext_player_chooser">בחר ידנית בכל פעם</string>
-    <string name="btn_install">להתקין</string>
     <string name="btn_close">סגור</string>
     <string name="prem_sub_add_3m">מנוי (מחויב מדי שלושה חודשים)</string>
     <string name="prem_sub_add_1y">מנוי (מחויב מדי שנה)</string>
@@ -390,7 +383,6 @@
     <string name="cfg_video_retry">פעמים כדי לנסות שוב את הסרטון כאשר אירעה שגיאה</string>
     <string name="cfg_play_action_2live">עבור לשידור חי של הערוץ הנוכחי</string>
     <string name="player_menu_2live">עבור לגור</string>
-    <string name="settings_provider_select_key_if_any">מפתח אישור ספק (אם קיים).</string>
 
     <string name="cfg_pl_offs_swipe">הזז את לוח המגע של עוצמת הקול והבהירות מקצה המסך</string>
     <string name="btn_seek">חפשו</string>
@@ -442,7 +434,6 @@
 
     <string name="cfg_switch_dummy_on">עבור למצב הגדרות פשוטות</string>
     <string name="cfg_switch_dummy_off">עבור למצב הגדרות מתקדמות</string>
-    <string name="cfg_no_recent">אל תציג קטגוריה עם ערוצים אחרונים</string>
     <string name="cfg_no_hints">אל תציג רמזים</string>
     <string name="pla_track_sel_sub">החלף כתוביות</string>
     <string name="pla_track_sel_sub_desc">שינוי מקור הכתוביות</string>
@@ -516,4 +507,26 @@
     <string name="ch_manage_status_hidden">מוסתר</string>
     <string name="ch_manage_status_child">ילד</string>
     <string name="show_future_search_in_other">חפש ביישומים חיצוניים</string>
+
+    <string name="cfg_channel_manager_filters">מסננים</string>
+    <string name="menu_suggest_premium">מוכן לחקור תכונות פרימיום מרגש?</string>
+    <string name="cfg_epg_update_frequency">תדירות העדכון (בשעות)</string>
+    <string name="cfg_vod_merge">מיזוג ספריית מדיה ממקורות שונים ברשימה אחת (דורש טעינה מחדש)</string>
+    <string name="cfg_vod_no_index">השבת את יצירת האינדקס (הקטנת מספר הבקשות, אך גם השבתת החיפוש וההצעות)</string>
+    <string name="ch_manage_rename">שנה שם</string>
+    <string name="name_already_taken">השם כבר בשימוש</string>
+    <string name="pla_timeshift_from_current">התחל מהרגע הנוכחי</string>
+    <string name="cfg_play_action_timeshift_start">לפתוח ארכיון טלוויזיה להראות מההתחלה</string>
+    <string name="cfg_play_action_timeshift_now">לפתוח ארכיון טלוויזיה להראות מהזמן הנוכחי</string>
+    <string name="cfg_cat_recent">קטגוריית ערוצים אחרונים</string>
+    <string name="enable">לאפשר</string>
+    <string name="save_between_launch">לשמור בין השקות</string>
+    <string name="ch_pos_pin_1">להצמיד למעלה</string>
+    <string name="cfg_no_teleguide">ליצור שיא epg וירטואלי כאשר אין תוכנית טלוויזיה זמין</string>
+    <string name="menu_qs_provider_multiple">סמן ידנית</string>
+    <string name="category_recently_added">נוספו לאחרונה</string>
+    <string name="ask_finish_update">האם להפעיל מחדש את האפליקציה כדי לעדכן לגרסה חדשה יותר?</string>
+    <string name="ch_pos_pin_minus1">הצמד העליון ברשימה</string>
+    <string name="cfg_premium_etc">ועוד פונקציות רבות ערך</string>
+    <string name="cfg_fine_tune_volume">כוונון עוצמת שמע ידני (מוגבל באמצעי האחסון של המערכת)</string>
 </resources>
