@@ -96,8 +96,6 @@
     <string name="player_menu_play_param_sel_audio_track">ਔਡੀਓ ਟ੍ਰੈਕ ਚੁਣੋ</string>
     <string name="player_menu_play_param_sel_audio_track_desc">ਕੋਈ ਹੋਰ ਭਾਸ਼ਾ ਜਾਂ ਗੁਣਵੱਤਾ ਚੁਣੋ</string>
 
-    <string name="settings_player_pip_size">ਤਸਵੀਰ-ਇਨ-ਪਿਕਚਰ ਸਾਈਜ਼</string>
-    <string name="settings_player_pip_position">ਤਸਵੀਰ-ਇਨ-ਪਿਕਚਰ ਸਥਿਤੀ</string>
     <string name="settings_player_pip_codec">ਤਸਵੀਰ-ਇਨ-ਪਿਕਚਰ ਕੋਡੈਕਸ ਚੋਣ</string>
     <string name="settings_player_pip_position_tl">ਚੋਟੀ ਦੇ ਖੱਬੇ</string>
     <string name="settings_player_pip_position_tr">ਉੱਪਰ ਸੱਜੇ</string>
@@ -211,7 +209,6 @@
     <string name="settings_schedule_epg_custom_only">ਸਿਰਫ ਖਾਸ ਯੂਜ਼ਰ ਦੁਆਰਾ ਮੁਹੱਈਆ ਕੀਤੀ EPG ਸਰੋਤ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="settings_schedule_epg_reload">ਈਪੀਜੀ ਟੈਲੀਗਾਈਡ ਮੁੜ ਲੋਡ ਕਰੋ ...</string>
     <string name="settings_schedule_epg_clear">ਸਾਰਾ ਲੋਡ ਕੀਤਾ EPG ਡਾਟਾ ਸਾਫ਼ ਕਰੋ ...</string>
-    <string name="settings_schedule_epg_clear_note">ਸਭ ਕੈਸ਼ਡ ਈਪੀਜੀ ਡਾਟੇ ਨੂੰ ਹਟਾਉਂਦਾ ਹੈ ਤਾਂ ਜੋ ਅਗਲੀ ਵਾਰ ਮੁੜ ਲੋਡ ਕੀਤੀ ਜਾ ਸਕੇ</string>
 
     <string name="settings_visual">ਵਿਜ਼ੂਅਲ ਸਟਾਈਲ</string>
 
@@ -286,10 +283,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">ਇੱਕ ਸਿੰਗਲ ਅਦਾਇਗੀ ਦੁਆਰਾ ਪ੍ਰੀਮੀਅਮ ਨੂੰ ਯੋਗ ਕਰੋ</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">ਕੋਈ ਵਿਗਿਆਪਨ ਪੈਕ ਨਾ ਖਰੀਦੋ (ਸਾਰੇ ਪ੍ਰੀਮੀਅਮ ਪੈਕ ਵਿਚ ਵੀ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">ਸਿੰਗਲ ਅਦਾਇਗੀ ਦੁਆਰਾ ਹਮੇਸ਼ਾ ਲਈ ਵਿਗਿਆਪਨ ਅਯੋਗ ਕਰੋ</string>
-    <string name="settings_vod_extra_source1">ਵਾਧੂ m3u 1 ਸਰੋਤ</string>
-    <string name="settings_vod_extra_source2">ਵਾਧੂ m3u 2 ਸਰੋਤ</string>
-    <string name="settings_vod_extra_source3">ਵਾਧੂ m3u 3 ਸਰੋਤ</string>
-
 
     <string name="setting_list_view_title">ਕਿਵੇਂ ਸੂਚੀਆਂ ਪ੍ਰਦਰਸ਼ਿਤ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ</string>
     <string name="setting_list_view1">ਸਧਾਰਨ ਸੂਚੀ</string>
@@ -315,7 +308,6 @@
     <string name="android_not_genuine">ਖਰੀਦਦਾਰ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਤੇ ਕੰਮ ਨਹੀਂ ਕਰਨਗੇ.</string>
     <string name="btn_clear_cache">ਕੈਚ ਸਾਫ਼ ਕਰੋ (ਅਗਲੀ ਲੌਂਚ ਤੇ ਮੁੜ ਲੋਡ ਕਰੋਗੇ)</string>
     <string name="menu_error_require_status_archive_text">ਆਰਕਾਈਵ ਡੇਟਾ ਅਜੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ. ਜੇ ਇਹ ਲੰਬੇ ਸਮੇਂ ਲਈ ਦੇਰੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਇਸਦਾ ਆਮ ਤੌਰ ਤੇ ਮਤਲਬ ਹੁੰਦਾ ਹੈ ਕਿ ਕੋਈ ਟੀ ਵੀ ਪ੍ਰੋਗਰਾਮ ਪ੍ਰੋਗਰਾਮ (ਈਪੀਜੀ) ਉਪਲਬਧ ਨਹੀਂ ਹੈ. ਇਸ ਮਾਮਲੇ ਵਿੱਚ ਤੁਸੀਂ ਸੈਟਿੰਗ ਵਿੱਚ EPG ਰੀਲੋਡ ਨੂੰ ਅਨੁਸੂਚਿਤ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਇੱਕ ਬਿਹਤਰ ਈਪੀਜੀ ਸਰੋਤ ਲੱਭ ਸਕਦੇ ਹੋ ਅਤੇ ਉਹਨਾਂ ਦੀ ਸੰਰਚਨਾ ਕਰ ਸਕਦੇ ਹੋ.</string>
-    <string name="cfg_bad_epg_match">ਟੁੱਟੇ ਹੋਏ ਈਪੀਜੀ ਮੈਪਿੰਗ ਦੀ ਸਹਾਇਤਾ ਕਰੋ (ਕੁਝ ਗਲਤ ਸੰਰਚਿਤ ਪ੍ਰਦਾਤਾਵਾਂ ਲਈ ਲੋੜੀਂਦੀ ਹੋ ਸਕਦੀ ਹੈ)</string>
     <string name="spread_title">ਐਪ ਦੀ ਤਰ੍ਹਾਂ? ਸ਼ਬਦ ਨੂੰ ਫੈਲਾਓ!</string>
     <string name="spread_btn_rate">ਪੰਜ ਸਟਾਰ ਨਾਲ ਐਪ ਨੂੰ ਦਰਜਾ ਦਿਓ</string>
     <string name="spread_btn_share">ਕਿਸੇ ਦੋਸਤ ਨਾਲ ਐਪ ਲਿੰਕ ਸਾਂਝੇ ਕਰੋ</string>
@@ -346,7 +338,6 @@
     <string name="cfg_play_action_btn_blue">ਨੀਲੀ ਬਟਨ ਲਈ ਐਕਸ਼ਨ</string>
     <string name="map_channel_to_epg">ਈਪੀਜੀ ਨੂੰ ਮੈਪ ਚੈਨਲ</string>
     <string name="map_channel_to_epg_after">ਅਗਲੇ ਈਪੀਜੀ ਟੈਲੀਗਲਾਈਡ ਰੀਲੋਡ ਤੇ ਬਦਲਾਅ ਲਾਗੂ ਕੀਤਾ ਜਾਵੇਗਾ.</string>
-    <string name="cfg_epg_1_provider">ਇਸ ਸਰੋਤ ਨੂੰ ਮੁੱਖ ਤੌਰ ਤੇ ਮੰਨਿਆ ਜਾਵੇਗਾ (ਜੇ ਕੌਂਫਿਗਰ ਕੀਤਾ ਗਿਆ ਹੋਵੇ)</string>
     <string name="cfg_play_action_vol_d">ਆਵਾਜ਼ ਘਟਾਓ</string>
     <string name="cfg_play_action_vol_u">ਵਾਲੀਅਮ ਵਧਾਓ</string>
     <string name="cfg_ext_player_auto">ਸਿਸਟਮ ਡਿਫੌਲਟ ਪਲੇਅਰ</string>
@@ -443,7 +434,6 @@
     <string name="cfg_child_mode">ਬਾਲ ਮੋਡ</string>
     <string name="cfg_child_mode_toggle">ਇੱਕ ਬਾਲ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="cfg_child_mode_number">ਚਾਈਲਡ ਮੋਡ ਤੋਂ ਬਾਹਰ ਜਾਣ ਲਈ ਕੋਡ (4 ਅੰਕ)</string>
-    <string name="provider_generic2">ਸਧਾਰਨ ਪਲੇਲਿਸਟ (ਵਿਕਲਪਿਕ)</string>
     <string name="cfg_play_deny_status">ਸਟ੍ਰੀਮ ਸਥਿਤੀ ਨਾ ਦਿਖਾਓ</string>
     <string name="cfg_player_hud">ਸਿਰ-ਅੱਪ ਇੰਟਰਫੇਸ ਦੀ ਸ਼ੈਲੀ</string>
     <string name="cfg_player_hud_1">ਉੱਪਰ ਅਤੇ ਹੇਠਾਂ</string>
@@ -530,4 +520,19 @@
     <string name="ch_pos_pin_minus1">ਸੂਚੀ ਵਿੱਚ ਸਿਖਰ ਤੇ ਪਿੰਨ ਕਰੋ</string>
     <string name="cfg_premium_etc">ਅਤੇ ਕਈ ਹੋਰ ਕੀਮਤੀ ਫੰਕਸ਼ਨ</string>
     <string name="cfg_fine_tune_volume">ਮੈਨੁਅਲ ਆਡੀਓ ਵਾਲੀਅਮ ਫਾਈਨ-ਟਿਊਨ (ਸਿਸਟਮ ਵਾਲੀਅਮ ਦੁਆਰਾ ਸੀਮਿਤ)</string>
+
+    <string name="cfg_arch_unp">ਲਾਈਵ ਸਟ੍ਰੀਮ ਨੂੰ ਅਨਪੌਸ ਕਰਨ ਵੇਲੇ ਆਟੋਮੈਟਿਕਲੀ ਆਰਕਾਈਵ ਦੁਬਾਰਾ ਖੋਲ੍ਹੋ</string>
+    <string name="cfg_codec_vlc_sync">ਸਿੰਕ੍ਰੋਨਾਈਜ਼ਡ ਮੋਡ ਵਿੱਚ ਵੀਐਲਸੀ ਕੋਡੈਕਸ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਸਟ੍ਰੀਮ ਬੰਦ ਕਰਨ ਤੋਂ ਬਾਅਦ ਆਡੀਓ ਪਲੇਅਰਾਂ ਦੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ)</string>
+    <string name="cfg_ch_more_epg">ਈਪੀਜੀ ਤੋਂ ਵੱਡਾ ਚੈਨਲ ਦਾ ਨਾਂ ਦਿਖਾਓ</string>
+    <string name="show_menu_add_to_cont_watching">ਬਾਅਦ ਵਿੱਚ ਦੇਖਣਾ ਜਾਰੀ ਰੱਖੋ</string>
+    <string name="ch_pos_unpin">ਸਥਿਤੀ ਤੋਂ ਅਨਪਿਨ ਕਰੋ</string>
+    <string name="cfg_exit_child_mode">ਬਾਲ ਮੋਡ ਤੋਂ ਬਾਹਰ ਨਿਕਲੋ</string>
+    <string name="cfg_enter_child_mode">ਬਾਲ ਮੋਡ ਦਰਜ ਕਰੋ</string>
+    <string name="cfg_child_categories">ਚੈਨਲ ਸ਼੍ਰੇਣੀਆਂ ਦਿਖਾਓ</string>
+    <string name="btn_provider_attrs">ਪ੍ਰੋਵਾਈਡਰ ਵਿਸ਼ੇਸ਼ਤਾ</string>
+    <string name="btn_provider_activate">ਸਰਗਰਮ ਕਰੋ</string>
+    <string name="btn_provider_deactivate">ਅਸਮਰੱਥ ਕਰੋ</string>
+    <string name="btn_provider_attr_epg">EPG ਸਰੋਤ</string>
+    <string name="change_pip_size">ਆਕਾਰ ਬਦਲੋ</string>
+    <string name="change_pip_place">ਸਕ੍ਰੀਨ ਤੇ ਮੂਵ ਕਰੋ</string>
 </resources>

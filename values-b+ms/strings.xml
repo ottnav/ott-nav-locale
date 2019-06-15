@@ -96,8 +96,6 @@
     <string name="player_menu_play_param_sel_audio_track">Pilih trek audio</string>
     <string name="player_menu_play_param_sel_audio_track_desc">Pilih bahasa atau kualiti lain</string>
 
-    <string name="settings_player_pip_size">Saiz Picture-in-Picture</string>
-    <string name="settings_player_pip_position">Kedudukan Picture-in-Picture</string>
     <string name="settings_player_pip_codec">Pemilihan codec gambar dalam gambar</string>
     <string name="settings_player_pip_position_tl">kiri atas</string>
     <string name="settings_player_pip_position_tr">kanan atas</string>
@@ -211,7 +209,6 @@
     <string name="settings_schedule_epg_custom_only">Hanya gunakan sumber EPG yang disediakan pengguna yang dinyatakan</string>
     <string name="settings_schedule_epg_reload">Muat semula EPG teleguide ...</string>
     <string name="settings_schedule_epg_clear">Kosongkan semua data EPG yang dimuat ...</string>
-    <string name="settings_schedule_epg_clear_note">membuang semua data EPG cache supaya tambah nilai seterusnya akan dilakukan dari awal</string>
 
     <string name="settings_visual">Gaya visual</string>
 
@@ -286,10 +283,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">Dayakan premium dengan bayaran tunggal</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Beli tiada pek iklan (juga termasuk dalam semua pek Premium)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Lumpuhkan iklan selamanya dengan bayaran tunggal</string>
-    <string name="settings_vod_extra_source1">Sumber m3u 1 tambahan</string>
-    <string name="settings_vod_extra_source2">Sumber m3u 2 tambahan</string>
-    <string name="settings_vod_extra_source3">Sumber m3u 3 tambahan</string>
-
 
     <string name="setting_list_view_title">Bagaimana senarai harus dipaparkan</string>
     <string name="setting_list_view1">senarai ringkas</string>
@@ -316,7 +309,6 @@
     <string name="android_not_genuine">Pembelian mungkin tidak berfungsi pada peranti anda.</string>
     <string name="btn_clear_cache">Kosongkan cache (akan dimuat semula pada pelancaran seterusnya)</string>
     <string name="menu_error_require_status_archive_text">Data arkib belum tersedia lagi. Sekiranya ini tertangguh untuk jangka masa yang panjang, biasanya tidak ada data program TV (EPG) yang tersedia. Dalam kes ini, anda boleh menjadualkan semula nilai EPG dalam tetapan atau mencari sumber EPG yang lebih baik dan konfigurasikannya.</string>
-    <string name="cfg_bad_epg_match">Sokongan pemetaan EPG yang rosak (mungkin diperlukan untuk beberapa pembekal yang dikonfigurasikan secara salah)</string>
     <string name="spread_title">Seperti aplikasinya? Sebarkan!</string>
     <string name="spread_btn_rate">Rate aplikasi dengan lima bintang</string>
     <string name="spread_btn_share">Kongsi pautan aplikasi dengan rakan</string>
@@ -347,7 +339,6 @@
     <string name="cfg_play_action_btn_blue">Tindakan untuk butang Biru</string>
     <string name="map_channel_to_epg">Saluran peta ke EPG</string>
     <string name="map_channel_to_epg_after">Perubahan akan dikenakan pada reload EPG seterusnya.</string>
-    <string name="cfg_epg_1_provider">Sumber ini akan dianggap sebagai utama (jika dikonfigurasi)</string>
     <string name="cfg_play_action_vol_d">mengurangkan jumlah</string>
     <string name="cfg_play_action_vol_u">meningkatkan jumlah</string>
     <string name="cfg_ext_player_auto">Pemain lalai sistem</string>
@@ -444,7 +435,6 @@
     <string name="cfg_child_mode">Mod kanak-kanak</string>
     <string name="cfg_child_mode_toggle">Beralih ke mod anak</string>
     <string name="cfg_child_mode_number">Kod untuk keluar mod kanak-kanak (4 digit)</string>
-    <string name="provider_generic2">Senarai main umum (alternatif)</string>
     <string name="cfg_play_deny_status">Jangan tunjukkan status aliran</string>
     <string name="cfg_player_hud">Gaya antara muka kepala</string>
     <string name="cfg_player_hud_1">Atas dan bawah</string>
@@ -531,4 +521,19 @@
     <string name="ch_pos_pin_minus1">Daftar masuk atas</string>
     <string name="cfg_premium_etc">Dan banyak fungsi berharga lain</string>
     <string name="cfg_fine_tune_volume">Kelantangan audio manual baik-baik saja (terhad oleh kelantangan sistem)</string>
+
+    <string name="cfg_arch_unp">Arahkan semula arkib secara automatik apabila menghidupkan strim langsung</string>
+    <string name="cfg_codec_vlc_sync">Gunakan codec VLC dalam mod disegerakkan (mungkin membantu apabila audio dimainkan selepas aliran ditutup)</string>
+    <string name="cfg_ch_more_epg">Tunjukkan nama saluran yang lebih besar daripada EPG</string>
+    <string name="show_menu_add_to_cont_watching">Teruskan menonton kemudian</string>
+    <string name="ch_pos_unpin">Ketatkan dari kedudukan</string>
+    <string name="cfg_exit_child_mode">Keluar mod kanak-kanak</string>
+    <string name="cfg_enter_child_mode">Masukkan mod kanak-kanak</string>
+    <string name="cfg_child_categories">Tunjukkan kategori saluran</string>
+    <string name="btn_provider_attrs">Hartanah penyedia</string>
+    <string name="btn_provider_activate">Aktifkan</string>
+    <string name="btn_provider_deactivate">Lumpuhkan</string>
+    <string name="btn_provider_attr_epg">Sumber EPG</string>
+    <string name="change_pip_size">Tukar saiz</string>
+    <string name="change_pip_place">Gerakkan skrin</string>
 </resources>

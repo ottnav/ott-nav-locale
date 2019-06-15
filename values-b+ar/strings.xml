@@ -96,8 +96,6 @@
     <string name="player_menu_play_param_sel_audio_track">اختر مسار الصوت</string>
     <string name="player_menu_play_param_sel_audio_track_desc">اختر لغة أو جودة أخرى</string>
 
-    <string name="settings_player_pip_size">حجم الصورة في صورة</string>
-    <string name="settings_player_pip_position">موقف الصورة في صورة</string>
     <string name="settings_player_pip_codec">صورة في صورة الترميز التحديد</string>
     <string name="settings_player_pip_position_tl">أعلى اليسار</string>
     <string name="settings_player_pip_position_tr">اعلى اليمين</string>
@@ -212,7 +210,6 @@
     <string name="settings_schedule_epg_custom_only">استخدم فقط مصادر EPG المحددة من قبل المستخدم</string>
     <string name="settings_schedule_epg_reload">إعادة تحميل EPG teleguide …</string>
     <string name="settings_schedule_epg_clear">مسح كافة بيانات EPG المحملة …</string>
-    <string name="settings_schedule_epg_clear_note">يزيل جميع بيانات EPG المخزنة مؤقتًا حتى يتم إعادة التحميل التالي من البداية</string>
 
     <string name="settings_visual">موضة ملفتة للنظر</string>
 
@@ -287,9 +284,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">تمكين قسط من خلال دفعة واحدة</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">اشترِ حزمة لا إعلانات (مشمولة أيضًا في جميع باقات Premium)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">تعطيل الإعلانات إلى الأبد عن طريق دفعة واحدة</string>
-    <string name="settings_vod_extra_source1">مصدر m3u إضافي #1</string>
-    <string name="settings_vod_extra_source2">مصدر m3u إضافي #2</string>
-    <string name="settings_vod_extra_source3">مصدر m3u إضافي #3</string>
 
     <string name="setting_list_view_title">كيف ينبغي عرض القوائم</string>
     <string name="setting_list_view1">قائمة بسيطة</string>
@@ -315,7 +309,6 @@
     <string name="android_not_genuine">قد لا تعمل عمليات الشراء على جهازك.</string>
     <string name="btn_clear_cache">مسح ذاكرة التخزين المؤقت (سيتم إعادة التحميل عند التشغيل التالي)</string>
     <string name="menu_error_require_status_archive_text">بيانات الأرشيف غير متاحة حتى الآن. إذا تأخر هذا لفترة طويلة ، فعادةً ما يعني ذلك أنه لا تتوفر بيانات برنامج تلفزيوني (EPG). في هذه الحالة ، يمكنك جدولة إعادة تحميل EPG في الإعدادات أو البحث عن مصادر EPG أفضل وتكوينها.</string>
-    <string name="cfg_bad_epg_match">دعم تقسيم EPG المكسور (قد يكون مطلوبًا لبعض مقدمي الخدمة الذين تم توصيفهم بشكل غير صحيح)</string>
     <string name="spread_title">هل أعجبك التطبيق؟ انشر الكلمة!</string>
     <string name="spread_btn_rate">تقييم التطبيق مع خمس نجوم</string>
     <string name="spread_btn_share">مشاركة رابط التطبيق مع صديق</string>
@@ -346,7 +339,6 @@
     <string name="cfg_play_action_btn_blue">العمل للزر الأزرق</string>
     <string name="map_channel_to_epg">قناة الخريطة إلى EPG</string>
     <string name="map_channel_to_epg_after">سيتم تطبيق التغييرات على إعادة تحميل EPG التالي.</string>
-    <string name="cfg_epg_1_provider">سيتم اعتبار هذا المصدر الرئيسي (إذا تمت تهيئته)</string>
     <string name="cfg_play_action_vol_d">انخفاض حجم</string>
     <string name="cfg_play_action_vol_u">ارفع على الصوت</string>
     <string name="cfg_ext_player_auto">مشغل النظام الافتراضي</string>
@@ -443,7 +435,6 @@
     <string name="cfg_child_mode">حالة الطفل</string>
     <string name="cfg_child_mode_toggle">التبديل إلى وضع الطفل</string>
     <string name="cfg_child_mode_number">رمز للخروج من الوضع الفرعي (4 أرقام)</string>
-    <string name="provider_generic2">قائمة تشغيل عامة (بديل)</string>
     <string name="cfg_play_deny_status">لا تعرض حالة البث</string>
     <string name="cfg_player_hud">نمط واجهة المواجهة الفردية</string>
     <string name="cfg_player_hud_1">فوق وتحت</string>
@@ -530,4 +521,19 @@
     <string name="ch_pos_pin_minus1">دبوس العلوي في القائمة</string>
     <string name="cfg_premium_etc">والعديد من الوظائف القيمة الأخرى</string>
     <string name="cfg_fine_tune_volume">ضبط حجم الصوت يدويًا (محدود بحجم صوت النظام)</string>
+
+    <string name="cfg_arch_unp">إعادة فتح الأرشيف تلقائيًا عند إلغاء بث البث المباشر</string>
+    <string name="cfg_codec_vlc_sync">استخدام برامج الترميز VLC في الوضع المتزامن (قد يساعد عند تشغيل الصوت بعد إغلاق الدفق)</string>
+    <string name="cfg_ch_more_epg">إظهار اسم القناة أكبر من EPG</string>
+    <string name="show_menu_add_to_cont_watching">استمر في المشاهدة لاحقًا</string>
+    <string name="ch_pos_unpin">فتح من الموقف</string>
+    <string name="cfg_exit_child_mode">الخروج من وضع الطفل</string>
+    <string name="cfg_enter_child_mode">أدخل وضع الطفل</string>
+    <string name="cfg_child_categories">عرض فئات القنوات</string>
+    <string name="btn_provider_attrs">خصائص الموفر</string>
+    <string name="btn_provider_activate">تفعيل</string>
+    <string name="btn_provider_deactivate">تعطيل</string>
+    <string name="btn_provider_attr_epg">مصدر EPG</string>
+    <string name="change_pip_size">قم بتغيير المقاس</string>
+    <string name="change_pip_place">التحرك على الشاشة</string>
 </resources>

@@ -96,8 +96,6 @@
     <string name="player_menu_play_param_sel_audio_track">آهنگ صوتی را انتخاب کنید</string>
     <string name="player_menu_play_param_sel_audio_track_desc">زبان یا کیفیت دیگری را انتخاب کنید</string>
 
-    <string name="settings_player_pip_size">اندازه تصویر در تصویر</string>
-    <string name="settings_player_pip_position">موقعیت تصویر در عکس</string>
     <string name="settings_player_pip_codec">انتخاب کدک های تصویری در تصویر</string>
     <string name="settings_player_pip_position_tl">بالا سمت چپ</string>
     <string name="settings_player_pip_position_tr">بالا سمت راست</string>
@@ -211,7 +209,6 @@
     <string name="settings_schedule_epg_custom_only">فقط از منابع EPG ارائه شده توسط کاربر استفاده کنید</string>
     <string name="settings_schedule_epg_reload">بازنگری EPG teleguide ...</string>
     <string name="settings_schedule_epg_clear">پاک کردن داده های EPG لود شده ...</string>
-    <string name="settings_schedule_epg_clear_note">تمام داده های EPG ذخیره شده را حذف می کند تا بارگذاری بعدی از ابتدا انجام شود</string>
 
     <string name="settings_visual">سبک بصری</string>
 
@@ -286,9 +283,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">حق بیمه را تنها با یک پرداخت فعال کنید</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">خرید بدون تبلیغات بسته (همچنین در تمام بسته های حق بیمه گنجانده شده است)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">تبلیغات را با یک پرداخت تنها برای همیشه غیرفعال کنید</string>
-    <string name="settings_vod_extra_source1">منبع اضافی 1 m3u</string>
-    <string name="settings_vod_extra_source2">منبع اضافی 2 m3u</string>
-    <string name="settings_vod_extra_source3">منبع اضافی 3 m3u</string>
 
 
     <string name="setting_list_view_title">چگونه لیست ها باید نمایش داده شوند</string>
@@ -316,7 +310,6 @@
     <string name="android_not_genuine">خرید ممکن است بر روی دستگاه شما کار نکند.</string>
     <string name="btn_clear_cache">پاک کردن حافظه پنهان (در بارگیری بعدی بارگیری مجدد)</string>
     <string name="menu_error_require_status_archive_text">داده های بایگانی هنوز در دسترس نیست اگر این مدت طولانی به تعویق افتاد، معمولا این بدان معنی است که هیچ اطلاعات برنامه تلویزیونی (EPG) در دسترس نیست. در این حالت می توانید برنامه را دوباره در تنظیمات EPG برنامه ریزی کنید یا برای منابع بهتر EPG جستجو کنید و آنها را پیکربندی کنید.</string>
-    <string name="cfg_bad_epg_match">پشتیبانی از شکاف EPG نقشه برداری (ممکن است برای برخی از ارائه دهندگان نادرست پیکربندی مورد نیاز است)</string>
     <string name="spread_title">مانند برنامه؟ کلمه را پخش کنید</string>
     <string name="spread_btn_rate">برنامه را با پنج ستاره مقایسه کنید</string>
     <string name="spread_btn_share">پیوند برنامه را با یک دوست به اشتراک بگذارید</string>
@@ -347,7 +340,6 @@
     <string name="cfg_play_action_btn_blue">عمل برای دکمه آبی</string>
     <string name="map_channel_to_epg">کانال را به EPG منتقل کنید</string>
     <string name="map_channel_to_epg_after">تغییرات در بارگیری مجدد EPG telegide بعدی اعمال خواهد شد.</string>
-    <string name="cfg_epg_1_provider">این منبع به عنوان اصلی (اگر پیکربندی شده)</string>
     <string name="cfg_play_action_vol_d">کاهش حجم</string>
     <string name="cfg_play_action_vol_u">افزایش حجم</string>
     <string name="cfg_ext_player_auto">پخش کننده پیش فرض سیستم</string>
@@ -444,7 +436,6 @@
     <string name="cfg_child_mode">حالت کودک</string>
     <string name="cfg_child_mode_toggle">به حالت کودک بچرخ</string>
     <string name="cfg_child_mode_number">کد برای خروج از حالت کودک (4 رقم)</string>
-    <string name="provider_generic2">لیست پخش عمومی (جایگزین)</string>
     <string name="cfg_play_deny_status">وضعیت جریان را نشان ندهید</string>
     <string name="cfg_player_hud">سبک رابط سرپایی</string>
     <string name="cfg_player_hud_1">بالا و پایین</string>
@@ -531,4 +522,19 @@
     <string name="ch_pos_pin_minus1">پین بالا در لیست</string>
     <string name="cfg_premium_etc">و بسیاری دیگر از توابع با ارزش</string>
     <string name="cfg_fine_tune_volume">تنظیم صدا صوتی دستی (محدود به حجم سیستم)</string>
+
+    <string name="cfg_arch_unp">در صورت عدم دسترسی به جریان مستقیم، بایگانی به صورت خودکار بازخوانی شود</string>
+    <string name="cfg_codec_vlc_sync">استفاده از کدک های VLC را در حالت هماهنگ (ممکن است هنگامی که صدا پس از بسته شدن جریان پخش می شود، کمک کند)</string>
+    <string name="cfg_ch_more_epg">نمایش نام کانال بزرگتر از EPG</string>
+    <string name="show_menu_add_to_cont_watching">بعدا تماشا کنید</string>
+    <string name="ch_pos_unpin">باز کردن از موقعیت</string>
+    <string name="cfg_exit_child_mode">خروج از حالت کودک</string>
+    <string name="cfg_enter_child_mode">حالت کودک را وارد کنید</string>
+    <string name="cfg_child_categories">نمایش دسته های کانال</string>
+    <string name="btn_provider_attrs">ویژگی های ارائه دهنده</string>
+    <string name="btn_provider_activate">فعالسازی</string>
+    <string name="btn_provider_deactivate">غیرفعال کردن</string>
+    <string name="btn_provider_attr_epg">منبع EPG</string>
+    <string name="change_pip_size">تغییر اندازه</string>
+    <string name="change_pip_place">روی صفحه حرکت کن</string>
 </resources>

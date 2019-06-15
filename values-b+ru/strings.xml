@@ -91,8 +91,6 @@
     <string name="player_menu_play_param_sel_audio_track">Выбор звуковой дорожки</string>
     <string name="player_menu_play_param_sel_audio_track_desc">Выбор другого языка или качества</string>
 
-    <string name="settings_player_pip_size">Размер картинки-в-картинке</string>
-    <string name="settings_player_pip_position">Позиция картинки-в-картинке</string>
     <string name="settings_player_pip_codec">Выбор кодеков для картинки-в-картинке</string>
     <string name="settings_player_pip_position_tl">слева сверху</string>
     <string name="settings_player_pip_position_tr">справа сверху</string>
@@ -206,7 +204,6 @@
     <string name="settings_schedule_epg_custom_only">Использовать только приложенные пользователем источники EPG</string>
     <string name="settings_schedule_epg_reload">Перезагрузить EPG телегид…</string>
     <string name="settings_schedule_epg_clear">Очистить всю загруженную программу…</string>
-    <string name="settings_schedule_epg_clear_note">удаляет все закешированные EPG данные чтобы обновление работало с чистого листа</string>
 
     <string name="settings_visual">Внешний вид</string>
 
@@ -281,9 +278,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">Включить премиум единым платежём</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Купить отключение рекламы (также включено во все премиум пакеты)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Отключить рекламу навсегда единым платежём</string>
-    <string name="settings_vod_extra_source1">Дополнительный m3u источник #1</string>
-    <string name="settings_vod_extra_source2">Дополнительный m3u источник #2</string>
-    <string name="settings_vod_extra_source3">Дополнительный m3u источник #3</string>
 
     <!-- 1.4.1 -->
     <string name="setting_list_view_title">Как должны показываться списки</string>
@@ -311,7 +305,6 @@
     <string name="android_not_genuine">Покупки могут не работать на вашем устройстве.</string>
     <string name="btn_clear_cache">Очистить кеш (перечитается на следующем запуске)</string>
     <string name="menu_error_require_status_archive_text">Архивные данные пока недоступны. Если они долго не появляются, обычно означает, что телепрограмма (EPG) недоступна. В этом случае вы можете запланировать загрузку EPG в настройках или найти и настроить более подходящие источники EPG.</string>
-    <string name="cfg_bad_epg_match">Поддерживать поломанную связку EPG (может быть нужен для некоторых криво настроенных провайдеров)</string>
     <string name="spread_title">Нравится приложение? Расскажите о нём!</string>
     <string name="spread_btn_rate">Поставить рейтинг в пять звёзд</string>
     <string name="spread_btn_share">Поделиться приложением с другом</string>
@@ -343,7 +336,6 @@
     <string name="cfg_play_action_btn_blue">Действие для синей кнопки</string>
     <string name="map_channel_to_epg">Привязать канал к EPG</string>
     <string name="map_channel_to_epg_after">Изменения применятся на следующем обновлении телегида EPG.</string>
-    <string name="cfg_epg_1_provider">Этот источник будет считаться главным (если настроен)</string>
     <string name="cfg_play_action_vol_d">уменьшить громкость</string>
     <string name="cfg_play_action_vol_u">повысить громкость</string>
     <string name="cfg_ext_player_auto">Системный плейер по умолчанию</string>
@@ -443,7 +435,6 @@
     <string name="cfg_child_mode">Детский режим</string>
     <string name="cfg_child_mode_toggle">Перейти в детский режим</string>
     <string name="cfg_child_mode_number">Код для выхода из детского режима (4 цифры)</string>
-    <string name="provider_generic2">Типичный плейлист (альтернативный)</string>
     <string name="cfg_play_deny_status">Не показывать статус потока</string>
     <string name="cfg_player_hud">Стиль наэкранного интерфейса</string>
     <string name="cfg_player_hud_1">Сверху и снизу</string>
@@ -533,4 +524,20 @@
     <string name="ch_pos_pin_minus1">Прикрепить выше в списке</string>
     <string name="cfg_premium_etc">И множество других ценных функций</string>
     <string name="cfg_fine_tune_volume">Ручная точная настройка громкости (ограничена системной громкостью)</string>
+
+    <!-- 1.5.0 -->
+    <string name="cfg_arch_unp">Автоматически переоткрывать из архива при снятии прямого эфира с паузы</string>
+    <string name="cfg_codec_vlc_sync">Использовать VLC кодеки в синхронном режиме (может помочь, если звук остаётся после закрытия потока)</string>
+    <string name="cfg_ch_more_epg">Показывать название канала крупнее чем EPG</string>
+    <string name="show_menu_add_to_cont_watching">Продолжить посмотреть позже</string>
+    <string name="ch_pos_unpin">Открепить с места</string>
+    <string name="cfg_exit_child_mode">Выйти из детского режима</string>
+    <string name="cfg_enter_child_mode">Войти в детский режим</string>
+    <string name="cfg_child_categories">Показывать категории каналов</string>
+    <string name="btn_provider_attrs">Свойства провайдера</string>
+    <string name="btn_provider_activate">Активировать</string>
+    <string name="btn_provider_deactivate">Отключить</string>
+    <string name="btn_provider_attr_epg">Источник EPG</string>
+    <string name="change_pip_size">Изменить размер</string>
+    <string name="change_pip_place">Переместить на экране</string>
 </resources>

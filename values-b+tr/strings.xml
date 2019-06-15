@@ -96,8 +96,6 @@
     <string name="player_menu_play_param_sel_audio_track">Ses parçasını seç</string>
     <string name="player_menu_play_param_sel_audio_track_desc">Başka bir dil veya kalite seç</string>
 
-    <string name="settings_player_pip_size">Resim içinde Resim boyutu</string>
-    <string name="settings_player_pip_position">Resim içinde Resim konumu</string>
     <string name="settings_player_pip_codec">Resim içinde resim kodek seçimi</string>
     <string name="settings_player_pip_position_tl">Sol üst</string>
     <string name="settings_player_pip_position_tr">sağ üst</string>
@@ -211,7 +209,6 @@
     <string name="settings_schedule_epg_custom_only">Sadece belirtilen kullanıcı tarafından sağlanan EPG kaynaklarını kullanın</string>
     <string name="settings_schedule_epg_reload">EPG teleguide yeniden yükle…</string>
     <string name="settings_schedule_epg_clear">Yüklenen tüm EPG verilerini temizle…</string>
-    <string name="settings_schedule_epg_clear_note">tüm önbelleğe alınmış EPG verilerini kaldırır, böylece bir sonraki yeniden yükleme sıfırdan yapılacaktır</string>
 
     <string name="settings_visual">Görsel stil</string>
 
@@ -286,9 +283,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">Tek bir ödemeyle premium\'i etkinleştirin</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Hiçbir reklam paketi almayın (tüm Premium paketlerde de bulunur)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Tek bir ödeme ile reklamları sonsuza dek devre dışı bırak</string>
-    <string name="settings_vod_extra_source1">Ekstra m3u kaynağı #1</string>
-    <string name="settings_vod_extra_source2">Ekstra m3u kaynağı #2</string>
-    <string name="settings_vod_extra_source3">Ekstra m3u kaynağı #3</string>
 
     <string name="setting_list_view_title">Listeler nasıl görüntülenmeli?</string>
     <string name="setting_list_view1">basit liste</string>
@@ -314,7 +308,6 @@
     <string name="android_not_genuine">Satın alımlar cihazınızda çalışmayabilir.</string>
     <string name="btn_clear_cache">Önbelleği temizle (sonraki açılışta yeniden yüklenecek)</string>
     <string name="menu_error_require_status_archive_text">Arşiv verileri henüz mevcut değil. Bu uzun bir süre ertelenirse, genellikle TV programı verilerinin (EPG) mevcut olmadığı anlamına gelir. Bu durumda EPG\'yi yeniden ayarlayabilir veya daha iyi bir EPG kaynağı arayabilir ve bunları yapılandırabilirsiniz.</string>
-    <string name="cfg_bad_epg_match">Bozuk EPG eşlemesini destekleme (bazı hatalı yapılandırılmış sağlayıcılar için gerekli olabilir)</string>
     <string name="spread_title">App gibi mi? Kelimeyi yay!</string>
     <string name="spread_btn_rate">Uygulamayı beş yıldızla değerlendirin</string>
     <string name="spread_btn_share">Uygulama bağlantısını arkadaşınızla paylaş</string>
@@ -345,7 +338,6 @@
     <string name="cfg_play_action_btn_blue">Mavi düğme için eylem</string>
     <string name="map_channel_to_epg">EPG\'ye harita kanalı</string>
     <string name="map_channel_to_epg_after">Değişiklikler bir sonraki EPG teleguide yeniden yüklemesinde uygulanacaktır.</string>
-    <string name="cfg_epg_1_provider">Bu kaynak ana olarak kabul edilecektir (yapılandırılmışsa)</string>
     <string name="cfg_play_action_vol_d">sesi azalt</string>
     <string name="cfg_play_action_vol_u">sesi arttır</string>
     <string name="cfg_ext_player_auto">Sistem varsayılan oynatıcı</string>
@@ -442,7 +434,6 @@
     <string name="cfg_child_mode">Çocuk Modu</string>
     <string name="cfg_child_mode_toggle">Çocuk moduna geç</string>
     <string name="cfg_child_mode_number">Bir çocuk modundan çıkmak için kod (4 hane)</string>
-    <string name="provider_generic2">Genel çalma listesi (alternatif)</string>
     <string name="cfg_play_deny_status">Akış durumunu gösterme</string>
     <string name="cfg_player_hud">Heads-up arayüzü tarzı</string>
     <string name="cfg_player_hud_1">Üst ve alt</string>
@@ -529,4 +520,19 @@
     <string name="ch_pos_pin_minus1">Listede üste sabitle</string>
     <string name="cfg_premium_etc">Ve diğer birçok değerli fonksiyonlar</string>
     <string name="cfg_fine_tune_volume">Manuel ses seviyesi ince ayarı (sistem ses seviyesiyle sınırlı)</string>
+
+    <string name="cfg_arch_unp">Canlı akışı duraklattığınızda arşivin otomatik olarak yeniden açılması</string>
+    <string name="cfg_codec_vlc_sync">VLC kodeklerini senkronize modda kullanın (ses akışı kapattıktan sonra oynatıldığında yardımcı olabilir)</string>
+    <string name="cfg_ch_more_epg">EPG\'den daha büyük kanal adını göster</string>
+    <string name="show_menu_add_to_cont_watching">Daha sonra izlemeye devam et</string>
+    <string name="ch_pos_unpin">Konumundan ayır</string>
+    <string name="cfg_exit_child_mode">Çocuk modundan çık</string>
+    <string name="cfg_enter_child_mode">Alt moda gir</string>
+    <string name="cfg_child_categories">Kanal kategorilerini göster</string>
+    <string name="btn_provider_attrs">Sağlayıcı özellikleri</string>
+    <string name="btn_provider_activate">etkinleştirmek</string>
+    <string name="btn_provider_deactivate">Devre dışı</string>
+    <string name="btn_provider_attr_epg">EPG kaynağı</string>
+    <string name="change_pip_size">Boyutu değiştir</string>
+    <string name="change_pip_place">Ekrana taşı</string>
 </resources>

@@ -91,8 +91,6 @@
     <string name="player_menu_play_param_sel_audio_track">Select audio track</string>
     <string name="player_menu_play_param_sel_audio_track_desc">Choose another language or quality</string>
 
-    <string name="settings_player_pip_size">Picture-in-Picture size</string>
-    <string name="settings_player_pip_position">Picture-in-Picture position</string>
     <string name="settings_player_pip_codec">Picture-in-Picture codecs selection</string>
     <string name="settings_player_pip_position_tl">top left</string>
     <string name="settings_player_pip_position_tr">top right</string>
@@ -206,7 +204,6 @@
     <string name="settings_schedule_epg_custom_only">Only use specified user-provided EPG sources</string>
     <string name="settings_schedule_epg_reload">Reload EPG teleguide…</string>
     <string name="settings_schedule_epg_clear">Clear all loaded EPG data…</string>
-    <string name="settings_schedule_epg_clear_note">removes all cached EPG data so that next reload will be done from scratch</string>
 
     <string name="settings_visual">Visual style</string>
 
@@ -281,9 +278,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">Enable premium by a single payment</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Buy no ads pack (also included in all Premium packs)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Disable ads forever by a single payment</string>
-    <string name="settings_vod_extra_source1">Extra m3u source #1</string>
-    <string name="settings_vod_extra_source2">Extra m3u source #2</string>
-    <string name="settings_vod_extra_source3">Extra m3u source #3</string>
 
     <!-- 1.4.1 -->
     <string name="setting_list_view_title">How lists should be displayed</string>
@@ -311,7 +305,6 @@
     <string name="android_not_genuine">Purchases might not work on your device.</string>
     <string name="btn_clear_cache">Clear cache (will reload on next launch)</string>
     <string name="menu_error_require_status_archive_text">Archive data is not available yet. If this is delayed for a long time it usually means that no TV-program data (EPG) is available. In this case you can schedule EPG reload in settings or search for a better EPG sources and configure them.</string>
-    <string name="cfg_bad_epg_match">Support broken EPG mapping (might be required for some incorrectly configured providers)</string>
     <string name="spread_title">Like the app? Spread the word!</string>
     <string name="spread_btn_rate">Rate app with five stars</string>
     <string name="spread_btn_share">Share app link with a friend</string>
@@ -343,7 +336,6 @@
     <string name="cfg_play_action_btn_blue">Action for Blue button</string>
     <string name="map_channel_to_epg">Map channel to EPG</string>
     <string name="map_channel_to_epg_after">Changes will be applied on next EPG teleguide reload.</string>
-    <string name="cfg_epg_1_provider">This source will be considered as main (if configured)</string>
     <string name="cfg_play_action_vol_d">decrease volume</string>
     <string name="cfg_play_action_vol_u">increase volume</string>
     <string name="cfg_ext_player_auto">System default player</string>
@@ -443,7 +435,6 @@
     <string name="cfg_child_mode">Child mode</string>
     <string name="cfg_child_mode_toggle">Switch to a child mode</string>
     <string name="cfg_child_mode_number">Code to exit a child mode (4 digits)</string>
-    <string name="provider_generic2">Generic playlist (alternative)</string>
     <string name="cfg_play_deny_status">Do not show stream status</string>
     <string name="cfg_player_hud">Style of heads-up interface</string>
     <string name="cfg_player_hud_1">Top and bottom</string>
@@ -533,4 +524,20 @@
     <string name="ch_pos_pin_minus1">Pin upper in list</string>
     <string name="cfg_premium_etc">And many other valuable functions</string>
     <string name="cfg_fine_tune_volume">Manual audio volume fine-tune (limited by system volume)</string>
+
+    <!-- 1.5.0 -->
+    <string name="cfg_arch_unp">Automatically reopen archive when unpausing live stream</string>
+    <string name="cfg_codec_vlc_sync">Use VLC codecs in synchronized mode (might help when audio plays after closing stream)</string>
+    <string name="cfg_ch_more_epg">Show channel name larger than EPG</string>
+    <string name="show_menu_add_to_cont_watching">Continue watching later</string>
+    <string name="ch_pos_unpin">Unpin from position</string>
+    <string name="cfg_exit_child_mode">Exit child mode</string>
+    <string name="cfg_enter_child_mode">Enter child mode</string>
+    <string name="cfg_child_categories">Show channel categories</string>
+    <string name="btn_provider_attrs">Provider properties</string>
+    <string name="btn_provider_activate">Activate</string>
+    <string name="btn_provider_deactivate">Disable</string>
+    <string name="btn_provider_attr_epg">EPG source</string>
+    <string name="change_pip_size">Change size</string>
+    <string name="change_pip_place">Move on screen</string>
 </resources>

@@ -96,8 +96,6 @@
     <string name="player_menu_play_param_sel_audio_track">Seleziona la traccia audio</string>
     <string name="player_menu_play_param_sel_audio_track_desc">Scegli un\'altra lingua o qualità</string>
 
-    <string name="settings_player_pip_size">Dimensione Picture-in-Picture</string>
-    <string name="settings_player_pip_position">Posizione Picture-in-Picture</string>
     <string name="settings_player_pip_codec">Selezione dei codec Picture-in-Picture</string>
     <string name="settings_player_pip_position_tl">a sinistra in alto</string>
     <string name="settings_player_pip_position_tr">in alto a destra</string>
@@ -211,7 +209,6 @@
     <string name="settings_schedule_epg_custom_only">Utilizza solo fonti EPG fornite dall\'utente specificate</string>
     <string name="settings_schedule_epg_reload">Ricarica telegestione EPG …</string>
     <string name="settings_schedule_epg_clear">Cancella tutti i dati EPG caricati …</string>
-    <string name="settings_schedule_epg_clear_note">rimuove tutti i dati EPG memorizzati nella cache in modo che la prossima ricarica venga eseguita da zero</string>
 
     <string name="settings_visual">Stile visivo</string>
 
@@ -286,9 +283,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">Attiva il premio con un unico pagamento</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Acquista nessun pacchetto di annunci (incluso anche in tutti i pacchetti Premium)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Disabilita gli annunci per sempre con un unico pagamento</string>
-    <string name="settings_vod_extra_source1">Fonte aggiuntiva di m3u #1</string>
-    <string name="settings_vod_extra_source2">Fonte aggiuntiva di m3u #2</string>
-    <string name="settings_vod_extra_source3">Fonte aggiuntiva di m3u #3</string>
 
     <string name="setting_list_view_title">Come dovrebbero essere visualizzate le liste</string>
     <string name="setting_list_view1">lista semplice</string>
@@ -314,7 +308,6 @@
     <string name="android_not_genuine">Gli acquisti potrebbero non funzionare sul tuo dispositivo.</string>
     <string name="btn_clear_cache">Cancella cache (verrà ricaricato al prossimo avvio)</string>
     <string name="menu_error_require_status_archive_text">I dati di archiviazione non sono ancora disponibili. Se questo è ritardato per un lungo periodo di solito significa che nessun dato del programma TV (EPG) è disponibile. In questo caso è possibile pianificare la ricarica EPG nelle impostazioni o cercare fonti EPG migliori e configurarle.</string>
-    <string name="cfg_bad_epg_match">Supporto della mappatura EPG interrotta (potrebbe essere necessaria per alcuni provider configurati in modo errato)</string>
     <string name="spread_title">Ti piace l\'app? Diffondere la parola!</string>
     <string name="spread_btn_rate">Valuta l\'app con cinque stelle</string>
     <string name="spread_btn_share">Condividi il collegamento dell\'app con un amico</string>
@@ -345,7 +338,6 @@
     <string name="cfg_play_action_btn_blue">Azione per il pulsante blu</string>
     <string name="map_channel_to_epg">Mappare il canale su EPG</string>
     <string name="map_channel_to_epg_after">Le modifiche verranno applicate al prossimo ricaricamento del teleguide EPG.</string>
-    <string name="cfg_epg_1_provider">Questa fonte sarà considerata come principale (se configurata)</string>
     <string name="cfg_play_action_vol_d">diminuire il volume</string>
     <string name="cfg_play_action_vol_u">aumentare il volume</string>
     <string name="cfg_ext_player_auto">Giocatore predefinito di sistema</string>
@@ -442,7 +434,6 @@
     <string name="cfg_child_mode">Modalità bambino</string>
     <string name="cfg_child_mode_toggle">Passa a una modalità figlio</string>
     <string name="cfg_child_mode_number">Codice per uscire da una modalità figlio (4 cifre)</string>
-    <string name="provider_generic2">Playlist generica (alternativa)</string>
     <string name="cfg_play_deny_status">Non mostrare lo stato del flusso</string>
     <string name="cfg_player_hud">Stile dell\'interfaccia heads-up</string>
     <string name="cfg_player_hud_1">Sopra e sotto</string>
@@ -529,4 +520,19 @@
     <string name="ch_pos_pin_minus1">Pin in alto nella lista</string>
     <string name="cfg_premium_etc">E molte altre funzioni preziose</string>
     <string name="cfg_fine_tune_volume">Regolazione manuale del volume dell\'audio (limitata dal volume di sistema)</string>
+
+    <string name="cfg_arch_unp">Riapri automaticamente l\'archivio quando non si esegue la live streaming</string>
+    <string name="cfg_codec_vlc_sync">Usa i codec VLC in modalità sincronizzata (potrebbe aiutare quando l\'audio viene riprodotto dopo la chiusura del flusso)</string>
+    <string name="cfg_ch_more_epg">Mostra il nome del canale più grande di EPG</string>
+    <string name="show_menu_add_to_cont_watching">Continua a guardare più tardi</string>
+    <string name="ch_pos_unpin">Sblocca dalla posizione</string>
+    <string name="cfg_exit_child_mode">Esci dalla modalità figlio</string>
+    <string name="cfg_enter_child_mode">Entra in modalità bambino</string>
+    <string name="cfg_child_categories">Mostra le categorie di canali</string>
+    <string name="btn_provider_attrs">Proprietà del provider</string>
+    <string name="btn_provider_activate">Attivare</string>
+    <string name="btn_provider_deactivate">disattivare</string>
+    <string name="btn_provider_attr_epg">Fonte EPG</string>
+    <string name="change_pip_size">Cambia dimensione</string>
+    <string name="change_pip_place">Muovi sullo schermo</string>
 </resources>

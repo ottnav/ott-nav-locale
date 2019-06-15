@@ -96,8 +96,6 @@
     <string name="player_menu_play_param_sel_audio_track">选择音轨</string>
     <string name="player_menu_play_param_sel_audio_track_desc">选择其他语言或质量</string>
 
-    <string name="settings_player_pip_size">画中画尺寸</string>
-    <string name="settings_player_pip_position">画中画位置</string>
     <string name="settings_player_pip_codec">画中画编解码器选择</string>
     <string name="settings_player_pip_position_tl">左上方</string>
     <string name="settings_player_pip_position_tr">右上</string>
@@ -211,7 +209,6 @@
     <string name="settings_schedule_epg_custom_only">仅使用指定的用户提供的EPG源</string>
     <string name="settings_schedule_epg_reload">重新加载EPG远程指南......</string>
     <string name="settings_schedule_epg_clear">清除所有加载的EPG数据......</string>
-    <string name="settings_schedule_epg_clear_note">删除所有缓存的EPG数据，以便下次重新加载将从头开始</string>
 
     <string name="settings_visual">视觉风格</string>
 
@@ -286,10 +283,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">通过一次付款启用保费</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">不购买广告包（也包括在所有高级包中）</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">通过一次付款即可永久停用广告</string>
-    <string name="settings_vod_extra_source1">额外的m3u来源1</string>
-    <string name="settings_vod_extra_source2">额外的m3u来源2</string>
-    <string name="settings_vod_extra_source3">额外的m3u来源3</string>
-
 
     <string name="setting_list_view_title">应如何显示列表</string>
     <string name="setting_list_view1">简单清单</string>
@@ -316,7 +309,6 @@
     <string name="android_not_genuine">购买可能不适用于您的设备。</string>
     <string name="btn_clear_cache">清除缓存（将在下次启动时重新加载）</string>
     <string name="menu_error_require_status_archive_text">存档数据尚不可用。如果延迟很长时间，通常意味着没有电视节目数据（EPG）可用。在这种情况下，您可以在设置中安排EPG重新加载或搜索更好的EPG源并进行配置。</string>
-    <string name="cfg_bad_epg_match">支持损坏的EPG映射（某些配置不正确的提供商可能需要）</string>
     <string name="spread_title">喜欢的应用程序？传播这个词！</string>
     <string name="spread_btn_rate">为五颗星评分应用程序</string>
     <string name="spread_btn_share">与朋友分享应用链接</string>
@@ -347,7 +339,6 @@
     <string name="cfg_play_action_btn_blue">蓝色按钮的动作</string>
     <string name="map_channel_to_epg">将频道映射到EPG</string>
     <string name="map_channel_to_epg_after">更改将应用于下一次EPG电视重新加载。</string>
-    <string name="cfg_epg_1_provider">此源将被视为主要（如果已配置）</string>
     <string name="cfg_play_action_vol_d">减少音量</string>
     <string name="cfg_play_action_vol_u">增加音量</string>
     <string name="cfg_ext_player_auto">系统默认播放器</string>
@@ -444,7 +435,6 @@
     <string name="cfg_child_mode">儿童模式</string>
     <string name="cfg_child_mode_toggle">切换到子模式</string>
     <string name="cfg_child_mode_number">退出子模式的代码（4位数）</string>
-    <string name="provider_generic2">通用播放列表（替代）</string>
     <string name="cfg_play_deny_status">不显示流状态</string>
     <string name="cfg_player_hud">单挑界面的风格</string>
     <string name="cfg_player_hud_1">顶部和底部</string>
@@ -531,4 +521,19 @@
     <string name="ch_pos_pin_minus1">将列表放在列表中</string>
     <string name="cfg_premium_etc">还有许多其他宝贵的功能</string>
     <string name="cfg_fine_tune_volume">手动音量微调（受系统音量限制）</string>
+
+    <string name="cfg_arch_unp">在取消暂停直播时自动重新打开存档</string>
+    <string name="cfg_codec_vlc_sync">在同步模式下使用VLC编解码器（在关闭流后播放音频时可能有帮助）</string>
+    <string name="cfg_ch_more_epg">显示大于EPG的频道名称</string>
+    <string name="show_menu_add_to_cont_watching">继续观看</string>
+    <string name="ch_pos_unpin">取消定位</string>
+    <string name="cfg_exit_child_mode">退出子模式</string>
+    <string name="cfg_enter_child_mode">进入子模式</string>
+    <string name="cfg_child_categories">显示频道类别</string>
+    <string name="btn_provider_attrs">提供者属性</string>
+    <string name="btn_provider_activate">启用</string>
+    <string name="btn_provider_deactivate">禁用</string>
+    <string name="btn_provider_attr_epg">EPG来源</string>
+    <string name="change_pip_size">改变大小</string>
+    <string name="change_pip_place">移动屏幕</string>
 </resources>

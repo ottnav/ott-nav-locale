@@ -96,8 +96,6 @@
     <string name="player_menu_play_param_sel_audio_track">オーディオトラックを選択</string>
     <string name="player_menu_play_param_sel_audio_track_desc">別の言語や品質を選択する</string>
 
-    <string name="settings_player_pip_size">ピクチャインピクチャサイズ</string>
-    <string name="settings_player_pip_position">ピクチャ・イン・ピクチャ位置</string>
     <string name="settings_player_pip_codec">ピクチャー・イン・ピクチャーコーデックの選択</string>
     <string name="settings_player_pip_position_tl">左上</string>
     <string name="settings_player_pip_position_tr">右上</string>
@@ -211,7 +209,6 @@
     <string name="settings_schedule_epg_custom_only">指定されたユーザー指定のEPGソースのみを使用する</string>
     <string name="settings_schedule_epg_reload">Reload EPG teleguide ...</string>
     <string name="settings_schedule_epg_clear">ロードされたすべてのEPGデータをクリア...</string>
-    <string name="settings_schedule_epg_clear_note">キャッシュされたすべてのEPGデータを削除して、次のリロードがゼロから実行されるようにします</string>
 
     <string name="settings_visual">ビジュアルスタイル</string>
 
@@ -286,9 +283,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">単価でプレミアムを有効にする</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">広告パックを購入しない（すべてのプレミアムパックにも含まれています）</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">一度の支払いで永久に広告を無効にする</string>
-    <string name="settings_vod_extra_source1">追加のm3u1ソース</string>
-    <string name="settings_vod_extra_source2">追加のm3u2ソース</string>
-    <string name="settings_vod_extra_source3">追加のm3u3ソース</string>
 
 
     <string name="setting_list_view_title">リストの表示方法</string>
@@ -316,7 +310,6 @@
     <string name="android_not_genuine">お使いの端末で購入が動作しない可能性があります。</string>
     <string name="btn_clear_cache">キャッシュをクリアする（次の起動時にリロードする）</string>
     <string name="menu_error_require_status_archive_text">アーカイブデータはまだ利用できません。これが長時間遅れると、通常、テレビ番組データ（EPG）が利用できないことを意味します。この場合、設定でEPGのリロードをスケジュールするか、より良いEPGソースを検索して設定することができます。</string>
-    <string name="cfg_bad_epg_match">壊れたEPGマッピングをサポートする（一部のプロバイダが正しく設定されていないと必要な場合があります）</string>
     <string name="spread_title">アプリのように？言葉を広める！</string>
     <string name="spread_btn_rate">5つ星の評価アプリ</string>
     <string name="spread_btn_share">友達とアプリリンクを共有する</string>
@@ -347,7 +340,6 @@
     <string name="cfg_play_action_btn_blue">青ボタンの操作</string>
     <string name="map_channel_to_epg">チャンネルをEPGにマップする</string>
     <string name="map_channel_to_epg_after">変更は、次のEPGテレガイドリロードに適用されます。</string>
-    <string name="cfg_epg_1_provider">このソースはメイン（設定されている場合）</string>
     <string name="cfg_play_action_vol_d">音量を下げる</string>
     <string name="cfg_play_action_vol_u">音量を上げる</string>
     <string name="cfg_ext_player_auto">システムデフォルトプレーヤー</string>
@@ -444,7 +436,6 @@
     <string name="cfg_child_mode">子モード</string>
     <string name="cfg_child_mode_toggle">子モードに切り替える</string>
     <string name="cfg_child_mode_number">子モードを終了するコード（4桁）</string>
-    <string name="provider_generic2">汎用プレイリスト（代替）</string>
     <string name="cfg_play_deny_status">ストリームステータスを表示しない</string>
     <string name="cfg_player_hud">ヘッドアップインターフェースのスタイル</string>
     <string name="cfg_player_hud_1">上下</string>
@@ -531,4 +522,19 @@
     <string name="ch_pos_pin_minus1">リストの上のピン</string>
     <string name="cfg_premium_etc">そして他の多くの貴重な機能</string>
     <string name="cfg_fine_tune_volume">手動オーディオ音量微調整（システム音量によって制限されます）</string>
+
+    <string name="cfg_arch_unp">ライブストリームの一時停止を解除するときにアーカイブを自動的に再開する</string>
+    <string name="cfg_codec_vlc_sync">同期モードでVLCコーデックを使用する（ストリームを閉じた後にオーディオが再生されるときに役立つ場合があります）</string>
+    <string name="cfg_ch_more_epg">EPGより大きいチャンネル名を表示</string>
+    <string name="show_menu_add_to_cont_watching">後で見続ける</string>
+    <string name="ch_pos_unpin">位置から固定解除</string>
+    <string name="cfg_exit_child_mode">子モードを終了</string>
+    <string name="cfg_enter_child_mode">子モードに入る</string>
+    <string name="cfg_child_categories">チャンネルカテゴリを表示</string>
+    <string name="btn_provider_attrs">プロバイダのプロパティ</string>
+    <string name="btn_provider_activate">有効にする</string>
+    <string name="btn_provider_deactivate">無効にする</string>
+    <string name="btn_provider_attr_epg">EPGソース</string>
+    <string name="change_pip_size">サイズ変更</string>
+    <string name="change_pip_place">画面上を移動する</string>
 </resources>

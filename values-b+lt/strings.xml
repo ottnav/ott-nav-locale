@@ -98,8 +98,6 @@
     <string name="player_menu_play_param_sel_audio_track">Pasirinkti garso takelį</string>
     <string name="player_menu_play_param_sel_audio_track_desc">Pasirinkti kitą kalbą arba kokybę</string>
 
-    <string name="settings_player_pip_size">PIP režimo dydis</string>
-    <string name="settings_player_pip_position">PIP režimo pozicija</string>
     <string name="settings_player_pip_codec">Išsirinkti kodekus PIP režimui</string>
     <string name="settings_player_pip_position_tl">viršuje kairėje</string>
     <string name="settings_player_pip_position_tr">viršuje dešinėje</string>
@@ -214,7 +212,6 @@
     <string name="settings_schedule_epg_custom_only">Naudoti tik vartotojo pridetus EPG šaltinius</string>
     <string name="settings_schedule_epg_reload">Atnaujinti EPG programą…</string>
     <string name="settings_schedule_epg_clear">Išvalyti visą EPG programą…</string>
-    <string name="settings_schedule_epg_clear_note">išvalys visą EPG duomenų talpyklą, kad atnaujinimas vyktų nuo pradžių</string>
 
     <string name="settings_visual">Išorinis vaizdas</string>
 
@@ -289,9 +286,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">Įjungti Premium, naudojant vienkartinį mokėjimą</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Įsigyti reklamos išjungimą(tai įtraukta į visus Premium paketus)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Išjungti reklamą visam laikui, naudojant vienkartinį mokėjimą</string>
-    <string name="settings_vod_extra_source1">Papildomas grojaraštis m3u, šaltinis #1</string>
-    <string name="settings_vod_extra_source2">Papildomas grojaraštis m3u, šaltinis #2</string>
-    <string name="settings_vod_extra_source3">Papildomas grojaraštis m3u, šaltinis #3</string>
 
     <!-- 1.4.1 -->
     <string name="setting_list_view_title">Kaip turi būti atvaizduojamas sąrašas?</string>
@@ -319,7 +313,6 @@
     <string name="android_not_genuine">Pirkiniai gali būti nesuderinami su Jūsų įrenginiu.</string>
     <string name="btn_clear_cache">Išvalyti talpyklą (atsilaisvins sekančiu programos paleidimu)</string>
     <string name="menu_error_require_status_archive_text">Archyvo duomenys kolkas nepasiekiami. Jei jie ilgai nepasirodo, dažnai tai reiškia, kad EPG programa nepasiekiama. Šioje situacijoje paieškokite labiau patikimo EPG šaltinio.</string>
-    <string name="cfg_bad_epg_match">Palaikyti blogai sužymėtą EPG failą(gali būti naudingas kai kuriems netaisyklingai sukurtiems tiekėjų šaltiniams)</string>
     <string name="spread_title">Patinka programa? Papasakokite kitiems!</string>
     <string name="spread_btn_rate">Įvertinti 5 žvaigždutėmis</string>
     <string name="spread_btn_share">Pasidalinti programa su draugu</string>
@@ -351,7 +344,6 @@
     <string name="cfg_play_action_btn_blue">Veiksmas mėlynam mygtukui</string>
     <string name="map_channel_to_epg">Pririšti kanalą prie EPG</string>
     <string name="map_channel_to_epg_after">Pakeitimai įsigalios su sekančiu EPG atnaujinimu.</string>
-    <string name="cfg_epg_1_provider">Šis šaltinis bus skaitomas pagrindiniu (jei taip nustatyta)</string>
     <string name="cfg_play_action_vol_d">sumažinti garsumą</string>
     <string name="cfg_play_action_vol_u">padidinti garsumą</string>
     <string name="cfg_ext_player_auto">Sisteminis grotuvas pagal nutylėjimą</string>
@@ -448,7 +440,6 @@
     <string name="cfg_child_mode">Vaiko režimas</string>
     <string name="cfg_child_mode_toggle">Perjungti į vaikų režimą</string>
     <string name="cfg_child_mode_number">Kodas, jei norite išeiti iš vaikų režimo (4 skaitmenys)</string>
-    <string name="provider_generic2">Bendras grojaraštis (alternatyvus)</string>
     <string name="cfg_play_deny_status">Nerodyti srauto būsenos</string>
     <string name="cfg_player_hud">„Head-up“ sąsajos stilius</string>
     <string name="cfg_player_hud_1">Viršus ir apačia</string>
@@ -535,4 +526,19 @@
     <string name="ch_pos_pin_minus1">Įrašykite viršutinį sąrašą</string>
     <string name="cfg_premium_etc">Ir daug kitų vertingų funkcijų</string>
     <string name="cfg_fine_tune_volume">Rankinis garso garsumo nustatymas (ribojamas pagal sistemos tūrį)</string>
+
+    <string name="cfg_arch_unp">Automatiškai atnaujinti archyvą, kai atjungiate tiesioginį srautą</string>
+    <string name="cfg_codec_vlc_sync">Naudokite VLC kodekus sinchronizuotu režimu (gali būti naudinga, kai po to, kai uždarysite srautą)</string>
+    <string name="cfg_ch_more_epg">Rodyti didesnį kanalo pavadinimą nei EPG</string>
+    <string name="show_menu_add_to_cont_watching">Toliau žiūrėkite</string>
+    <string name="ch_pos_unpin">Atjunkite padėtį</string>
+    <string name="cfg_exit_child_mode">Išeiti iš vaikų režimo</string>
+    <string name="cfg_enter_child_mode">Įeikite į vaikų režimą</string>
+    <string name="cfg_child_categories">Rodyti kanalų kategorijas</string>
+    <string name="btn_provider_attrs">Teikėjo savybės</string>
+    <string name="btn_provider_activate">Suaktyvinti</string>
+    <string name="btn_provider_deactivate">Išjungti</string>
+    <string name="btn_provider_attr_epg">EPG šaltinis</string>
+    <string name="change_pip_size">Keisti dydį</string>
+    <string name="change_pip_place">Perkelti ekrane</string>
 </resources>

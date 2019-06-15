@@ -96,8 +96,6 @@
     <string name="player_menu_play_param_sel_audio_track">בחר רצועת שמע</string>
     <string name="player_menu_play_param_sel_audio_track_desc">בחר שפה אחרת או איכות אחרת</string>
 
-    <string name="settings_player_pip_size">גודל תמונה בתוך תמונה</string>
-    <string name="settings_player_pip_position">מיקום תמונה בתוך תמונה</string>
     <string name="settings_player_pip_codec">בחירת תמונה של רכיבי Codec בתוך תמונה</string>
     <string name="settings_player_pip_position_tl">שמאלי עליון</string>
     <string name="settings_player_pip_position_tr">למעלה מימין</string>
@@ -211,7 +209,6 @@
     <string name="settings_schedule_epg_custom_only">השתמש רק במקורות EPG שסופקו על ידי המשתמש</string>
     <string name="settings_schedule_epg_reload">טען מחדש את EPG teleguide …</string>
     <string name="settings_schedule_epg_clear">נקה את כל נתוני ה- EPG שנטענו …</string>
-    <string name="settings_schedule_epg_clear_note">מסיר את כל הנתונים במטמון EPG כך לטעון מחדש ייעשה מאפס</string>
 
     <string name="settings_visual">סגנון חזותי</string>
 
@@ -286,9 +283,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">אפשר פרמיה בתשלום אחד</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">אין לקנות מודעות Pack (כלולים גם את כל חבילות Premium)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">השבת מודעות לתמיד באמצעות תשלום יחיד</string>
-    <string name="settings_vod_extra_source1">מקור M3U נוסף #1</string>
-    <string name="settings_vod_extra_source2">מקור M3U נוסף #2</string>
-    <string name="settings_vod_extra_source3">מקור M3U נוסף #3</string>
 
     <string name="setting_list_view_title">כיצד להציג רשימות</string>
     <string name="setting_list_view1">רשימה פשוטה</string>
@@ -314,7 +308,6 @@
     <string name="android_not_genuine">ייתכן שהרכישות לא יפעלו במכשיר שלך.</string>
     <string name="btn_clear_cache">נקה מטמון (יטען מחדש בהפעלה הבאה)</string>
     <string name="menu_error_require_status_archive_text">נתוני הארכיון אינם זמינים עדיין. אם זה מתעכב במשך זמן רב זה בדרך כלל אומר כי אין נתונים תוכנית טלוויזיה (EPG) זמין. במקרה זה ניתן לתזמן מחדש את EPG מחדש בהגדרות או לחפש מקורות EPG טובים יותר ולהגדיר אותם.</string>
-    <string name="cfg_bad_epg_match">תמיכה במיפוי EPG שבור (ייתכן שיהיה צורך עבור ספקי מסוימים שהוגדרו בצורה שגויה)</string>
     <string name="spread_title">כמו האפליקציה? תפיץ את המילה!</string>
     <string name="spread_btn_rate">דרג האפליקציה עם חמישה כוכבים</string>
     <string name="spread_btn_share">שתף קישור לאפליקציה עם חבר</string>
@@ -345,7 +338,6 @@
     <string name="cfg_play_action_btn_blue">פעולה עבור כפתור כחול</string>
     <string name="map_channel_to_epg">ערוץ מפה ל EPG</string>
     <string name="map_channel_to_epg_after">שינויים יחולו על טעינה נוספת EPG teleguide הבא.</string>
-    <string name="cfg_epg_1_provider">מקור זה ייחשב כראש (אם מוגדר)</string>
     <string name="cfg_play_action_vol_d">להקטין את עוצמת הקול</string>
     <string name="cfg_play_action_vol_u">הגברת נפח</string>
     <string name="cfg_ext_player_auto">נגן ברירת המחדל של המערכת</string>
@@ -442,7 +434,6 @@
     <string name="cfg_child_mode">מצב רוח של ילד</string>
     <string name="cfg_child_mode_toggle">עבור למצב ילד</string>
     <string name="cfg_child_mode_number">קוד יציאה ממצב צאצא (4 ספרות)</string>
-    <string name="provider_generic2">רשימת השמעה כללית (חלופית)</string>
     <string name="cfg_play_deny_status">אל תציג את סטטוס הזרם</string>
     <string name="cfg_player_hud">סגנון של ממשק ראש</string>
     <string name="cfg_player_hud_1">עליון ותחתון</string>
@@ -529,4 +520,19 @@
     <string name="ch_pos_pin_minus1">הצמד העליון ברשימה</string>
     <string name="cfg_premium_etc">ועוד פונקציות רבות ערך</string>
     <string name="cfg_fine_tune_volume">כוונון עוצמת שמע ידני (מוגבל באמצעי האחסון של המערכת)</string>
+
+    <string name="cfg_arch_unp">פתח מחדש את הארכיון באופן אוטומטי בעת ביטול ההזרמה של שידור חי</string>
+    <string name="cfg_codec_vlc_sync">השתמש רכיבי Codec VLC במצב מסונכרן (עשוי לעזור כאשר שמע משחק לאחר הסגירה זרם)</string>
+    <string name="cfg_ch_more_epg">הצג שם ערוץ גדול יותר מ- EPG</string>
+    <string name="show_menu_add_to_cont_watching">המשך לצפות במועד מאוחר יותר</string>
+    <string name="ch_pos_unpin">בטל את הצמדת המיקום</string>
+    <string name="cfg_exit_child_mode">צא ממצב צאצא</string>
+    <string name="cfg_enter_child_mode">היכנס למצב ילד</string>
+    <string name="cfg_child_categories">הצג קטגוריות של ערוצים</string>
+    <string name="btn_provider_attrs">מאפייני ספק</string>
+    <string name="btn_provider_activate">הפעל</string>
+    <string name="btn_provider_deactivate">השבת</string>
+    <string name="btn_provider_attr_epg">מקור EPG</string>
+    <string name="change_pip_size">שנה את הגודל</string>
+    <string name="change_pip_place">העבר על המסך</string>
 </resources>
