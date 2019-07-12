@@ -64,7 +64,6 @@
     <string name="error_stream_not_reachable_forbidden">Accesso negato (chiave errata?). Contatta il tuo fornitore</string>
     <string name="error_archive_not_supported_this_channel">Il tuo provider non fornisce archivi per questo canale</string>
     <string name="error_search_nothing_found">Niente corrisponde alla tua query di ricerca</string>
-    <string name="error_search_too_much_found">Troppi risultati, ricerca troncata</string>
     <string name="error_require_file_permission_grant_and_try_again">È richiesto l\'accesso allo spazio di archiviazione. Fornire un accesso e riprovare l\'operazione</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) caricato: record</string>
@@ -90,7 +89,6 @@
     <string name="player_menu_timeshift_off_details">Ritorno a vivere</string>
     <string name="player_menu_pip_title">Picture-in-picture</string>
     <string name="player_menu_pip_on_details">Esci dalla modalità picture-in-picture</string>
-    <string name="player_menu_pip_off_details">Aggiungi il canale corrente alla modalità PiP</string>
     <string name="player_menu_pip_swap_details">Scambia canale principale e PiP uno</string>
     <string name="player_menu_last_channel">Ultimo canale</string>
     <string name="player_menu_play_param_sel_audio_track">Seleziona la traccia audio</string>
@@ -306,7 +304,6 @@
 
     <string name="do_not_show">non mostrare</string>
     <string name="android_not_genuine">Gli acquisti potrebbero non funzionare sul tuo dispositivo.</string>
-    <string name="btn_clear_cache">Cancella cache (verrà ricaricato al prossimo avvio)</string>
     <string name="menu_error_require_status_archive_text">I dati di archiviazione non sono ancora disponibili. Se questo è ritardato per un lungo periodo di solito significa che nessun dato del programma TV (EPG) è disponibile. In questo caso è possibile pianificare la ricarica EPG nelle impostazioni o cercare fonti EPG migliori e configurarle.</string>
     <string name="spread_title">Ti piace l\'app? Diffondere la parola!</string>
     <string name="spread_btn_rate">Valuta l\'app con cinque stelle</string>
@@ -323,7 +320,6 @@
     <string name="example">Esempio</string>
     <string name="provider_generic">Provider o playlist generici</string>
     <string name="watched">Visti:</string>
-    <string name="cfg_no_inst_vod_wstate">Non considerare il video come visto non appena lo si avvia</string>
     <string name="btn_search">Ricerca</string>
     <string name="hint_vod_cache">La libreria multimediale memorizza i dati per diversi giorni. Se hai bisogno di nuovi dati per apparire più velocemente, cancella la cache dalle impostazioni e riavvia l\'app.</string>
     <string name="premium_fea_6">Invia stream a un display wireless</string>
@@ -345,8 +341,6 @@
     <string name="btn_close">Vicino</string>
     <string name="prem_sub_add_3m">Iscriviti (addebitato ogni 3 mesi)</string>
     <string name="prem_sub_add_1y">Iscriviti (fatturato ogni anno)</string>
-    <string name="cfg_section_cache">Impostazioni della cache</string>
-    <string name="cfg_cache_dur_no">Non memorizzare nella cache</string>
     <string name="cfg_duration_8h">8 ore</string>
     <string name="cfg_duration_1d">1 giorno</string>
     <string name="cfg_duration_2d">2 giorni</string>
@@ -354,7 +348,6 @@
     <string name="cfg_duration_1w">1 settimana</string>
     <string name="cfg_duration_2w">2 settimane</string>
     <string name="cfg_duration_1m">1 mese</string>
-    <string name="cfg_cache_vod">Dati della libreria multimediale della cache per</string>
     <string name="premium_fea_pvsearch">Ricerca vocale durante la visione. Cerca il canale in base al nome o al contenuto dell\'archivio.</string>
     <string name="cfg_play_action_vsearch">ricerca vocale</string>
     <string name="settings_premium_source_enabled">Premium abilitato</string>
@@ -412,7 +405,6 @@
     <string name="cat_vr_continue_prem">Video visti di recente, che sono disponibili ora</string>
     <string name="premium_fea_continue">Mostra tutti i video visti di recente, che sono attualmente disponibili nel filtro Continua</string>
     <string name="menu_swap_pip_sound">Scambia suono tra la schermata principale e PiP</string>
-    <string name="premium_fea_pre_vod">Mostra l\'anteprima della libreria multimediale selezionata nella descrizione</string>
     <string name="premium_fea_pre_vid_wp">Consente di visualizzare l\'anteprima del video durante la riproduzione di un altro video</string>
     <string name="hint_click_icon">Facendo clic sull\'icona di un canale o gruppo si apre un menu di scelta rapida (se disponibile).</string>
     <string name="hint_right_menu">Premendo il tasto destro si apre un menu contestuale del canale o del gruppo selezionato (se disponibile).</string>
@@ -444,7 +436,6 @@
     <string name="choose_auto">Scegli automaticamente</string>
     <string name="cfg_stream_tech">Tecnologia streaming (se disponibile)</string>
 
-    <string name="btn_schedule_provider_vod_load">Ricarica la libreria multimediale del fornitore (se fornita)</string>
     <string name="cfg_show_ch_numbers">Mostra i numeri di canale</string>
     <string name="always">sempre</string>
     <string name="cfg_play_action_sinfo">visualizzare le informazioni correnti sul programma TV corrente</string>
@@ -503,7 +494,6 @@
     <string name="menu_suggest_premium">Sei pronto a esplorare interessanti funzioni premium?</string>
     <string name="cfg_epg_update_frequency">Frequenza di aggiornamento (in ore)</string>
     <string name="cfg_vod_merge">Unisci la libreria multimediale da diverse fonti in un unico elenco (richiede il caricamento)</string>
-    <string name="cfg_vod_no_index">Disabilita l\'indicizzazione (diminuisce il numero di richieste, ma disabilita anche la ricerca e i suggerimenti)</string>
     <string name="ch_manage_rename">Rinominare</string>
     <string name="name_already_taken">Il nome è già stato preso</string>
     <string name="pla_timeshift_from_current">Inizia dal momento attuale</string>
@@ -535,4 +525,26 @@
     <string name="btn_provider_attr_epg">Fonte EPG</string>
     <string name="change_pip_size">Cambia dimensione</string>
     <string name="change_pip_place">Muovi sullo schermo</string>
+
+    <string name="menu_settings_all">Visualizza tutte le impostazioni</string>
+    <string name="only_manually_added">solo aggiunto manualmente</string>
+    <string name="check_for_updates">Controlla gli aggiornamenti</string>
+    <string name="has_updates_starting">L\'aggiornamento è disponibile e inizierà presto</string>
+    <string name="no_updates_avail">Gli aggiornamenti non sono disponibili</string>
+    <string name="access_restricted">accesso ristretto</string>
+    <string name="ch_man_restrict_access">Accesso limitato</string>
+    <string name="ch_man_allow_access">Consentire l\'accesso</string>
+    <string name="cat_man_mass_action">Azione con tutti i canali</string>
+    <string name="cfg_set_restricted_code">Imposta il codice per contenuto limitato (4 cifre)</string>
+    <string name="ch_restricted_unlock">Inserisci il codice per sbloccare l\'accesso ai contenuti riservati</string>
+    <string name="player_menu_manage_ch">Gestisci canale</string>
+    <string name="player_menu_manage_epg">Gestisci spettacoli televisivi</string>
+    <string name="help_faq">Domande frequenti</string>
+    <string name="pla_menu_item_visibility">Visibilità pulsanti menu</string>
+    <string name="pla_menu_item_visibility_desc">nascondere inutile</string>
+    <string name="pla_menu_type">Menu stile visivo</string>
+    <string name="pla_menu_type_list">elenco</string>
+    <string name="pla_menu_type_grid">griglia</string>
+    <string name="ch_manage_use_internal">Usa il giocatore interno</string>
+    <string name="cat_manage_start_this_cat_on">Inizia da questa categoria</string>
 </resources>

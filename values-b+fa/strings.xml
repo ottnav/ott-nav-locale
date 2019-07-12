@@ -64,7 +64,6 @@
     <string name="error_stream_not_reachable_forbidden">دسترسی ممنوع (کلید نادرست؟) با ارائه دهنده خود تماس بگیرید</string>
     <string name="error_archive_not_supported_this_channel">ارائه دهنده شما آرشیو را برای این کانال ارائه نمی کند</string>
     <string name="error_search_nothing_found">هیچ چیزی با جستجوی جستجوی شما مطابقت ندارد</string>
-    <string name="error_search_too_much_found">نتایج بسیار زیاد، جستجوی کوتاه است</string>
     <string name="error_require_file_permission_grant_and_try_again">دسترسی به ذخیره سازی مورد نیاز است. دسترسی را فراهم کرده و عملیات را دوباره انجام دهید</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) بارگیری شده است: سوابق</string>
@@ -90,7 +89,6 @@
     <string name="player_menu_timeshift_off_details">بازگشت به زندگی</string>
     <string name="player_menu_pip_title">تصویر در تصویر</string>
     <string name="player_menu_pip_on_details">خروج از حالت تصویر در تصویر</string>
-    <string name="player_menu_pip_off_details">کانال کنونی را به حالت PiP اضافه کنید</string>
     <string name="player_menu_pip_swap_details">مبادله کانال اصلی و PiP یکی</string>
     <string name="player_menu_last_channel">آخرین کانال</string>
     <string name="player_menu_play_param_sel_audio_track">آهنگ صوتی را انتخاب کنید</string>
@@ -308,7 +306,6 @@
 
     <string name="do_not_show">نشان نده</string>
     <string name="android_not_genuine">خرید ممکن است بر روی دستگاه شما کار نکند.</string>
-    <string name="btn_clear_cache">پاک کردن حافظه پنهان (در بارگیری بعدی بارگیری مجدد)</string>
     <string name="menu_error_require_status_archive_text">داده های بایگانی هنوز در دسترس نیست اگر این مدت طولانی به تعویق افتاد، معمولا این بدان معنی است که هیچ اطلاعات برنامه تلویزیونی (EPG) در دسترس نیست. در این حالت می توانید برنامه را دوباره در تنظیمات EPG برنامه ریزی کنید یا برای منابع بهتر EPG جستجو کنید و آنها را پیکربندی کنید.</string>
     <string name="spread_title">مانند برنامه؟ کلمه را پخش کنید</string>
     <string name="spread_btn_rate">برنامه را با پنج ستاره مقایسه کنید</string>
@@ -325,7 +322,6 @@
     <string name="example">مثال</string>
     <string name="provider_generic">ارائه دهنده عمومی یا لیست پخش</string>
     <string name="watched">تماشا کرد:</string>
-    <string name="cfg_no_inst_vod_wstate">به محض راه اندازی، ویدیو را تماشا نکنید</string>
     <string name="btn_search">جستجو کردن</string>
     <string name="hint_vod_cache">کتابخانه رسانه چندین روزه را ذخیره می کند. اگر به داده های جدید نیاز دارید تا سریعا ظاهر شوند، حافظه پنهان را از تنظیمات پاک کنید و برنامه را مجددا راه اندازی کنید.</string>
     <string name="premium_fea_6">ارسال جریان به صفحه نمایش بی سیم</string>
@@ -347,8 +343,6 @@
     <string name="btn_close">نزدیک</string>
     <string name="prem_sub_add_3m">اشتراک (هر 3 ماه یک بار)</string>
     <string name="prem_sub_add_1y">اشتراک (هر سال صورت حساب)</string>
-    <string name="cfg_section_cache">تنظیمات کش</string>
-    <string name="cfg_cache_dur_no">ذخیره نکن</string>
     <string name="cfg_duration_8h">8 ساعت</string>
     <string name="cfg_duration_1d">1 روز</string>
     <string name="cfg_duration_2d">2 روز</string>
@@ -356,7 +350,6 @@
     <string name="cfg_duration_1w">1 هفته</string>
     <string name="cfg_duration_2w">2 هفته</string>
     <string name="cfg_duration_1m">1 ماه</string>
-    <string name="cfg_cache_vod">داده های کتابخانه رسانه ذخیره سازی را برای</string>
     <string name="premium_fea_pvsearch">جستجوی صوتی در حالی که تماشا کنید. جستجو برای کانال با نام یا محتوای بایگانی</string>
     <string name="cfg_play_action_vsearch">جستجوی صوتی</string>
     <string name="settings_premium_source_enabled">حق بیمه فعال</string>
@@ -414,7 +407,6 @@
     <string name="cat_vr_continue_prem">فیلم های اخیرا مشاهده شده که اکنون در دسترس هستند</string>
     <string name="premium_fea_continue">همه فیلم های اخیر دیده شده را نشان می دهد، که در حال حاضر در Continue filter در دسترس هستند</string>
     <string name="menu_swap_pip_sound">مبادله صدا بین صفحه اصلی و PiP</string>
-    <string name="premium_fea_pre_vod">پیش نمایش کتابخانه رسانه های انتخاب شده را در توضیحات نمایش دهید</string>
     <string name="premium_fea_pre_vid_wp">اجازه پخش پیش نمایش ویدیو را هنگام پخش یک ویدیو دیگر نشان دهید</string>
     <string name="hint_click_icon">با کلیک بر روی آیکون یک کانال یا گروه یک منوی زمینه (در صورت وجود) باز می شود.</string>
     <string name="hint_right_menu">با فشار دادن دکمه ی راست یک منوی متنی کانال یا گروه انتخابی (در صورت موجود بودن) باز می شود.</string>
@@ -446,7 +438,6 @@
     <string name="choose_auto">به صورت خودکار انتخاب کنید</string>
     <string name="cfg_stream_tech">تکنولوژی جریان (در صورت وجود)</string>
 
-    <string name="btn_schedule_provider_vod_load">کتابخانه رسانه ارائه دهنده مجدد (در صورت ارائه)</string>
     <string name="cfg_show_ch_numbers">نمایش شماره کانال</string>
     <string name="always">همیشه</string>
     <string name="cfg_play_action_sinfo">اطلاعات فعلی در مورد برنامه تلویزیونی فعلی را مشاهده کنید</string>
@@ -505,7 +496,6 @@
     <string name="menu_suggest_premium">آماده کشف ویژگی های هیجان انگیز است؟</string>
     <string name="cfg_epg_update_frequency">به روز رسانی فرکانس (در ساعت)</string>
     <string name="cfg_vod_merge">ادغام کتابخانه های رسانه ای از منابع مختلف در یک لیست (نیاز به بارگزاری مجدد)</string>
-    <string name="cfg_vod_no_index">غیر فعال کردن نمایه سازی (تعداد درخواست ها را کاهش می دهد، بلکه جستجو و پیشنهادات را غیرفعال می کند)</string>
     <string name="ch_manage_rename">تغییر نام دهید</string>
     <string name="name_already_taken">نام قبلا گرفته شده است</string>
     <string name="pla_timeshift_from_current">از لحظه ای شروع کن</string>
@@ -537,4 +527,26 @@
     <string name="btn_provider_attr_epg">منبع EPG</string>
     <string name="change_pip_size">تغییر اندازه</string>
     <string name="change_pip_place">روی صفحه حرکت کن</string>
+
+    <string name="menu_settings_all">مشاهده تمام تنظیمات</string>
+    <string name="only_manually_added">فقط به صورت دستی اضافه شده است</string>
+    <string name="check_for_updates">برای به روز رسانی ها مراجعه کنید</string>
+    <string name="has_updates_starting">بهروزرسانی در دسترس است و به زودی شروع خواهد شد</string>
+    <string name="no_updates_avail">به روز رسانی ها در دسترس نیست</string>
+    <string name="access_restricted">دسترسی محدود شده است</string>
+    <string name="ch_man_restrict_access">محدود کردن دسترسی</string>
+    <string name="ch_man_allow_access">اجازه دسترسی</string>
+    <string name="cat_man_mass_action">اقدام با تمام کانالها</string>
+    <string name="cfg_set_restricted_code">تنظیم کد برای محتوا محدود (4 رقم)</string>
+    <string name="ch_restricted_unlock">کد را وارد کنید تا دسترسی به محتوا محدود شود</string>
+    <string name="player_menu_manage_ch">مدیریت کانال</string>
+    <string name="player_menu_manage_epg">مدیریت تلویزیون نمایش</string>
+    <string name="help_faq">سوالات متداول</string>
+    <string name="pla_menu_item_visibility">قابلیت مشاهده دکمه های منو</string>
+    <string name="pla_menu_item_visibility_desc">پنهان کردن بی فایده است</string>
+    <string name="pla_menu_type">سبک بصری منو</string>
+    <string name="pla_menu_type_list">فهرست</string>
+    <string name="pla_menu_type_grid">توری</string>
+    <string name="ch_manage_use_internal">از پخش کننده داخلی استفاده کنید</string>
+    <string name="cat_manage_start_this_cat_on">از این دسته شروع کنید</string>
 </resources>

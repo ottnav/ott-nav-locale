@@ -65,7 +65,6 @@
     <string name="error_stream_not_reachable_forbidden">Prieiga uždrausta(neteisingas raktas?). Susisiekite su savo tiekėju</string>
     <string name="error_archive_not_supported_this_channel">Jūsų tiekėjas nepalaiko archyvo šiam kanalui</string>
     <string name="error_search_nothing_found">Pagal paiškos kriterijus nieko nerasta</string>
-    <string name="error_search_too_much_found">Labai daug rezultatų, rodomi tik pirmieji</string>
     <string name="error_require_file_permission_grant_and_try_again">Reikalaujamas leidimas prie saugyklos. Suteikite leidimą ir pakartokite operaciją.</string>
 
     <string name="info_teleguide_loaded">Kanalų programa (EPG) gauta: įrašų</string>
@@ -92,7 +91,6 @@
     <string name="player_menu_timeshift_off_details">Į tiesioginę transliaciją</string>
     <string name="player_menu_pip_title">Vaizdas vaizde (PIP)</string>
     <string name="player_menu_pip_on_details">Išeiti iš PIP režimo</string>
-    <string name="player_menu_pip_off_details">Įkelti kanalą į PIP režimą</string>
     <string name="player_menu_pip_swap_details">Sukeisti kanalus PIP režime</string>
     <string name="player_menu_last_channel">Paskutinis kanalas</string>
     <string name="player_menu_play_param_sel_audio_track">Pasirinkti garso takelį</string>
@@ -311,7 +309,6 @@
     <!-- 1.4.2 -->
     <string name="do_not_show">ne rodyti</string>
     <string name="android_not_genuine">Pirkiniai gali būti nesuderinami su Jūsų įrenginiu.</string>
-    <string name="btn_clear_cache">Išvalyti talpyklą (atsilaisvins sekančiu programos paleidimu)</string>
     <string name="menu_error_require_status_archive_text">Archyvo duomenys kolkas nepasiekiami. Jei jie ilgai nepasirodo, dažnai tai reiškia, kad EPG programa nepasiekiama. Šioje situacijoje paieškokite labiau patikimo EPG šaltinio.</string>
     <string name="spread_title">Patinka programa? Papasakokite kitiems!</string>
     <string name="spread_btn_rate">Įvertinti 5 žvaigždutėmis</string>
@@ -328,7 +325,6 @@
     <string name="example">Pavyzdys</string>
     <string name="provider_generic">Bendras tiekėjas arba grojaraštis</string>
     <string name="watched">Peržiūrėta:</string>
-    <string name="cfg_no_inst_vod_wstate">Nežymėti video peržiūrėtu jį tik paleidus</string>
     <string name="btn_search">Paieška</string>
     <string name="hint_vod_cache">Media galerija saugo duomenis keletui dienų. Jei norite, kad duomenys būtų rodomi reičiau, išvalykite talpyklą ir paleiskite programą iš naujo.</string>
     <string name="premium_fea_6">Perduoti srautą belaidžiu projektavimu</string>
@@ -351,8 +347,6 @@
     <string name="btn_close">Uždaryti</string>
     <string name="prem_sub_add_3m">Prenumeruoti (ketvirčio apmokėjimas)</string>
     <string name="prem_sub_add_1y">Prenumeruoti (metinis apmokėjimas)</string>
-    <string name="cfg_section_cache">Talpyklos nustatymai</string>
-    <string name="cfg_cache_dur_no">Nesaugoti duomenų atmintyje</string>
     <string name="cfg_duration_8h">8 valandas</string>
     <string name="cfg_duration_1d">1 diena</string>
     <string name="cfg_duration_2d">2 dienas</string>
@@ -360,7 +354,6 @@
     <string name="cfg_duration_1w">1 savaite</string>
     <string name="cfg_duration_2w">2 savaites</string>
     <string name="cfg_duration_1m">1 mėnesį</string>
-    <string name="cfg_cache_vod">Saugoti mediatekos duomenis atmintyje</string>
     <string name="premium_fea_pvsearch">Paiška balsu transliacijos metu. Paieška pagal kanalo pavadinimą arba archyvo turinį.</string>
     <string name="cfg_play_action_vsearch">paieška balsu</string>
     <string name="settings_premium_source_enabled">Premium įjungtas</string>
@@ -418,7 +411,6 @@
     <string name="cat_vr_continue_prem">Neseniai peržiūrėti vaizdo įrašai, kurie dabar yra prieinami</string>
     <string name="premium_fea_continue">Rodo visus neseniai peržiūrėtus vaizdo įrašus, kurie šiuo metu prieinami „Tęsti filtrą“</string>
     <string name="menu_swap_pip_sound">Pakeiskite garsą tarp pagrindinio ekrano ir „PiP“</string>
-    <string name="premium_fea_pre_vod">Parodykite pasirinktą medijos bibliotekos peržiūrą aprašyme</string>
     <string name="premium_fea_pre_vid_wp">Leisti rodyti vaizdo peržiūrą, kai grojate kitą vaizdo įrašą</string>
     <string name="hint_click_icon">Paspaudus kanalo ar grupės piktogramą atidaromas kontekstinis meniu (jei yra).</string>
     <string name="hint_right_menu">Paspaudus dešinįjį mygtuką atidaromas pasirinkto kanalo ar grupės kontekstinis meniu (jei yra).</string>
@@ -450,7 +442,6 @@
     <string name="choose_auto">Pasirinkite automatiškai</string>
     <string name="cfg_stream_tech">Srautų technologija (jei yra)</string>
 
-    <string name="btn_schedule_provider_vod_load">Perkrauti paslaugų teikėjo medijos biblioteką (jei numatyta)</string>
     <string name="cfg_show_ch_numbers">Rodyti kanalų numerius</string>
     <string name="always">visada</string>
     <string name="cfg_play_action_sinfo">peržiūrėti dabartinę informaciją apie dabartinę televizijos programą</string>
@@ -509,7 +500,6 @@
     <string name="menu_suggest_premium">Pasiruošę ieškoti įdomių papildomų funkcijų?</string>
     <string name="cfg_epg_update_frequency">Atnaujinimo dažnis (valandomis)</string>
     <string name="cfg_vod_merge">Sujunkite žiniasklaidos biblioteką iš įvairių šaltinių viename sąraše (reikia įkelti iš naujo)</string>
-    <string name="cfg_vod_no_index">Neleisti indeksavimo (sumažėja užklausų skaičius, bet taip pat išjungiama paieška ir pasiūlymai)</string>
     <string name="ch_manage_rename">Pervardyti</string>
     <string name="name_already_taken">Vardas jau priimtas</string>
     <string name="pla_timeshift_from_current">Pradėkite nuo dabartinio momento</string>
@@ -541,4 +531,26 @@
     <string name="btn_provider_attr_epg">EPG šaltinis</string>
     <string name="change_pip_size">Keisti dydį</string>
     <string name="change_pip_place">Perkelti ekrane</string>
+
+    <string name="menu_settings_all">Peržiūrėkite visus nustatymus</string>
+    <string name="only_manually_added">pridėta tik rankiniu būdu</string>
+    <string name="check_for_updates">Tikrinti, ar yra atnaujinimų</string>
+    <string name="has_updates_starting">Naujinimas yra prieinamas ir netrukus prasidės</string>
+    <string name="no_updates_avail">Atnaujinimai negalimi</string>
+    <string name="access_restricted">apribota prieiga</string>
+    <string name="ch_man_restrict_access">Apriboti prieigą</string>
+    <string name="ch_man_allow_access">Suteikti prieigą</string>
+    <string name="cat_man_mass_action">Veiksmai su visais kanalais</string>
+    <string name="cfg_set_restricted_code">Nustatyti riboto turinio kodą (4 skaitmenys)</string>
+    <string name="ch_restricted_unlock">Įveskite kodą, jei norite atrakinti prieigą prie riboto turinio</string>
+    <string name="player_menu_manage_ch">Valdyti kanalą</string>
+    <string name="player_menu_manage_epg">Valdykite televizijos laidą</string>
+    <string name="help_faq">Dažnai užduodami klausimai</string>
+    <string name="pla_menu_item_visibility">Meniu mygtukų matomumas</string>
+    <string name="pla_menu_item_visibility_desc">paslėpti nenaudingas</string>
+    <string name="pla_menu_type">Meniu vizualinis stilius</string>
+    <string name="pla_menu_type_list">sąrašą</string>
+    <string name="pla_menu_type_grid">tinklelis</string>
+    <string name="ch_manage_use_internal">Naudokite vidinį grotuvą</string>
+    <string name="cat_manage_start_this_cat_on">Pradėkite nuo šios kategorijos</string>
 </resources>

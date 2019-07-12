@@ -64,7 +64,6 @@
     <string name="error_stream_not_reachable_forbidden">访问被拒绝（错误的密钥？）。联系您的提供商</string>
     <string name="error_archive_not_supported_this_channel">您的提供商不提供此渠道的存档</string>
     <string name="error_search_nothing_found">没有任何内容符合您的搜索查询</string>
-    <string name="error_search_too_much_found">结果太多，搜索被截断</string>
     <string name="error_require_file_permission_grant_and_try_again">存储访问是必需的。提供访问权限并重试该操作</string>
 
     <string name="info_teleguide_loaded">加载Teleguide（EPG）：记录</string>
@@ -90,7 +89,6 @@
     <string name="player_menu_timeshift_off_details">回到现场</string>
     <string name="player_menu_pip_title">子母画面</string>
     <string name="player_menu_pip_on_details">退出画中画模式</string>
-    <string name="player_menu_pip_off_details">将当前频道添加到PiP模式</string>
     <string name="player_menu_pip_swap_details">交换主通道和PiP一个</string>
     <string name="player_menu_last_channel">最后一个频道</string>
     <string name="player_menu_play_param_sel_audio_track">选择音轨</string>
@@ -307,7 +305,6 @@
 
     <string name="do_not_show">不显示</string>
     <string name="android_not_genuine">购买可能不适用于您的设备。</string>
-    <string name="btn_clear_cache">清除缓存（将在下次启动时重新加载）</string>
     <string name="menu_error_require_status_archive_text">存档数据尚不可用。如果延迟很长时间，通常意味着没有电视节目数据（EPG）可用。在这种情况下，您可以在设置中安排EPG重新加载或搜索更好的EPG源并进行配置。</string>
     <string name="spread_title">喜欢的应用程序？传播这个词！</string>
     <string name="spread_btn_rate">为五颗星评分应用程序</string>
@@ -324,7 +321,6 @@
     <string name="example">例</string>
     <string name="provider_generic">通用提供程序或播放列表</string>
     <string name="watched">观看视频：</string>
-    <string name="cfg_no_inst_vod_wstate">启动它时不要将视频视为已观看</string>
     <string name="btn_search">搜索</string>
     <string name="hint_vod_cache">媒体库将数据缓存数天。如果您需要更快地显示新数据，请从设置中清除缓存并重新启动应用程序。</string>
     <string name="premium_fea_6">将流发送到无线显示器</string>
@@ -346,8 +342,6 @@
     <string name="btn_close">关</string>
     <string name="prem_sub_add_3m">订阅（每3个月收费）</string>
     <string name="prem_sub_add_1y">订阅（每年开帐单）</string>
-    <string name="cfg_section_cache">缓存设置</string>
-    <string name="cfg_cache_dur_no">不要缓存</string>
     <string name="cfg_duration_8h">8小时</string>
     <string name="cfg_duration_1d">1天</string>
     <string name="cfg_duration_2d">2天</string>
@@ -355,7 +349,6 @@
     <string name="cfg_duration_1w">1周</string>
     <string name="cfg_duration_2w">2周</string>
     <string name="cfg_duration_1m">1个月</string>
-    <string name="cfg_cache_vod">缓存媒体库数据</string>
     <string name="premium_fea_pvsearch">观看时语音搜索。按名称或存档内容搜索频道。</string>
     <string name="cfg_play_action_vsearch">声音搜索</string>
     <string name="settings_premium_source_enabled">高级启用</string>
@@ -413,7 +406,6 @@
     <string name="cat_vr_continue_prem">最近观看的视频，现已上市</string>
     <string name="premium_fea_continue">显示“继续”过滤器中当前可用的所有最近观看过的视频</string>
     <string name="menu_swap_pip_sound">在主屏幕和PiP之间切换声音</string>
-    <string name="premium_fea_pre_vod">在说明中显示选定的媒体库预览</string>
     <string name="premium_fea_pre_vid_wp">允许在播放其他视频时显示视频预览</string>
     <string name="hint_click_icon">单击通道或组的图标将打开上下文菜单（如果可用）。</string>
     <string name="hint_right_menu">按右按钮可打开所选通道或组的上下文菜单（如果可用）。</string>
@@ -445,7 +437,6 @@
     <string name="choose_auto">自动选择</string>
     <string name="cfg_stream_tech">流技术（如果有）</string>
 
-    <string name="btn_schedule_provider_vod_load">重新加载提供者媒体库（如果提供）</string>
     <string name="cfg_show_ch_numbers">显示频道号码</string>
     <string name="always">总是</string>
     <string name="cfg_play_action_sinfo">查看当前电视节目的当前信息</string>
@@ -504,7 +495,6 @@
     <string name="menu_suggest_premium">准备探索令人兴奋的高级功能？</string>
     <string name="cfg_epg_update_frequency">更新频率（小时）</string>
     <string name="cfg_vod_merge">在单个列表中合并来自不同来源的媒体库（需要重新加载）</string>
-    <string name="cfg_vod_no_index">禁用索引（减少请求数，但也禁用搜索和建议）</string>
     <string name="ch_manage_rename">改名</string>
     <string name="name_already_taken">名称已被采用</string>
     <string name="pla_timeshift_from_current">从当前时刻开始</string>
@@ -536,4 +526,26 @@
     <string name="btn_provider_attr_epg">EPG来源</string>
     <string name="change_pip_size">改变大小</string>
     <string name="change_pip_place">移动屏幕</string>
+
+    <string name="menu_settings_all">查看所有设置</string>
+    <string name="only_manually_added">只手动添加</string>
+    <string name="check_for_updates">检查更新</string>
+    <string name="has_updates_starting">更新可用，即将开始</string>
+    <string name="no_updates_avail">更新不可用</string>
+    <string name="access_restricted">访问受限制</string>
+    <string name="ch_man_restrict_access">限制访问</string>
+    <string name="ch_man_allow_access">允许访问</string>
+    <string name="cat_man_mass_action">所有渠道的行动</string>
+    <string name="cfg_set_restricted_code">设置限制内容的代码（4位数）</string>
+    <string name="ch_restricted_unlock">输入代码以解锁对受限制内容的访问</string>
+    <string name="player_menu_manage_ch">管理渠道</string>
+    <string name="player_menu_manage_epg">管理电视节目</string>
+    <string name="help_faq">经常问的问题</string>
+    <string name="pla_menu_item_visibility">菜单按钮可见性</string>
+    <string name="pla_menu_item_visibility_desc">隐藏无用</string>
+    <string name="pla_menu_type">菜单视觉风格</string>
+    <string name="pla_menu_type_list">名单</string>
+    <string name="pla_menu_type_grid">格</string>
+    <string name="ch_manage_use_internal">使用内部播放器</string>
+    <string name="cat_manage_start_this_cat_on">从这个类别开始</string>
 </resources>

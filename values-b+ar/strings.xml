@@ -64,7 +64,6 @@
     <string name="error_stream_not_reachable_forbidden">رفض الوصول (مفتاح غير صحيح؟). اتصل بمزودك</string>
     <string name="error_archive_not_supported_this_channel">لا يوفر مزودك محفوظات لهذه القناة</string>
     <string name="error_search_nothing_found">لا شيء يضاهي استعلام البحث الخاص بك</string>
-    <string name="error_search_too_much_found">نتائج أكثر من اللازم ، بحث مبتور</string>
     <string name="error_require_file_permission_grant_and_try_again">الوصول إلى التخزين مطلوب. توفير الوصول وإعادة محاولة العملية</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) المحملة: السجلات</string>
@@ -90,7 +89,6 @@
     <string name="player_menu_timeshift_off_details">العودة للعيش</string>
     <string name="player_menu_pip_title">صور في صور</string>
     <string name="player_menu_pip_on_details">الخروج من وضع الصورة في صورة</string>
-    <string name="player_menu_pip_off_details">أضف القناة الحالية إلى وضع PiP</string>
     <string name="player_menu_pip_swap_details">تبديل قناة رئيسية و PiP واحد</string>
     <string name="player_menu_last_channel">القناة الأخيرة</string>
     <string name="player_menu_play_param_sel_audio_track">اختر مسار الصوت</string>
@@ -307,7 +305,6 @@
 
     <string name="do_not_show">لا تظهر</string>
     <string name="android_not_genuine">قد لا تعمل عمليات الشراء على جهازك.</string>
-    <string name="btn_clear_cache">مسح ذاكرة التخزين المؤقت (سيتم إعادة التحميل عند التشغيل التالي)</string>
     <string name="menu_error_require_status_archive_text">بيانات الأرشيف غير متاحة حتى الآن. إذا تأخر هذا لفترة طويلة ، فعادةً ما يعني ذلك أنه لا تتوفر بيانات برنامج تلفزيوني (EPG). في هذه الحالة ، يمكنك جدولة إعادة تحميل EPG في الإعدادات أو البحث عن مصادر EPG أفضل وتكوينها.</string>
     <string name="spread_title">هل أعجبك التطبيق؟ انشر الكلمة!</string>
     <string name="spread_btn_rate">تقييم التطبيق مع خمس نجوم</string>
@@ -324,7 +321,6 @@
     <string name="example">مثال</string>
     <string name="provider_generic">موفر عام أو قائمة تشغيل</string>
     <string name="watched">شاهد:</string>
-    <string name="cfg_no_inst_vod_wstate">لا تفكر في مشاهدة الفيديو بمجرد تشغيله</string>
     <string name="btn_search">بحث</string>
     <string name="hint_vod_cache">مكتبة الوسائط وتخزين البيانات لعدة أيام. إذا كنت بحاجة إلى بيانات جديدة لتظهر بشكل أسرع ، فامسح ذاكرة التخزين المؤقت من الإعدادات وأعد تشغيل التطبيق.</string>
     <string name="premium_fea_6">إرسال دفق إلى شاشة لاسلكية</string>
@@ -346,8 +342,6 @@
     <string name="btn_close">قريب</string>
     <string name="prem_sub_add_3m">الاشتراك (يتم الدفع كل 3 أشهر)</string>
     <string name="prem_sub_add_1y">اشترك (فواتير كل عام)</string>
-    <string name="cfg_section_cache">إعدادات ذاكرة التخزين المؤقت</string>
-    <string name="cfg_cache_dur_no">لا مخبأ</string>
     <string name="cfg_duration_8h">8 ساعات</string>
     <string name="cfg_duration_1d">يوم 1</string>
     <string name="cfg_duration_2d">2 أيام</string>
@@ -355,7 +349,6 @@
     <string name="cfg_duration_1w">أسبوع 1</string>
     <string name="cfg_duration_2w">2 أسابيع</string>
     <string name="cfg_duration_1m">شهر واحد</string>
-    <string name="cfg_cache_vod">بيانات مكتبة الوسائط المخبأة لـ</string>
     <string name="premium_fea_pvsearch">البحث الصوتي أثناء المشاهدة. البحث عن قناة بالاسم ، أو محتويات الأرشيف.</string>
     <string name="cfg_play_action_vsearch">البحث الصوتي</string>
     <string name="settings_premium_source_enabled">قسط ممكن</string>
@@ -413,7 +406,6 @@
     <string name="cat_vr_continue_prem">مقاطع الفيديو التي تم عرضها مؤخرًا ، وهي متاحة الآن</string>
     <string name="premium_fea_continue">يعرض جميع مقاطع الفيديو التي تم عرضها مؤخرًا والمتوفرة حاليًا في فلتر متابعة</string>
     <string name="menu_swap_pip_sound">تبديل الصوت بين الشاشة الرئيسية و PiP</string>
-    <string name="premium_fea_pre_vod">إظهار معاينة مكتبة الوسائط المحددة في وصف</string>
     <string name="premium_fea_pre_vid_wp">السماح بمعاينة الفيديو ليتم عرضها أثناء تشغيل فيديو آخر</string>
     <string name="hint_click_icon">يؤدي النقر فوق رمز القناة أو المجموعة إلى فتح قائمة السياق (إذا كانت متوفرة).</string>
     <string name="hint_right_menu">يؤدي الضغط على الزر الأيمن إلى فتح قائمة سياقية للقناة أو المجموعة المحددة (إذا كانت متوفرة).</string>
@@ -445,7 +437,6 @@
     <string name="choose_auto">اختر تلقائيا</string>
     <string name="cfg_stream_tech">تقنية دفق (إن وجدت)</string>
 
-    <string name="btn_schedule_provider_vod_load">إعادة تحميل مكتبة وسائط الموفر (إن توفرت)</string>
     <string name="cfg_show_ch_numbers">عرض أرقام القنوات</string>
     <string name="always">دائما</string>
     <string name="cfg_play_action_sinfo">عرض المعلومات الحالية حول برنامج التلفزيون الحالي</string>
@@ -504,7 +495,6 @@
     <string name="menu_suggest_premium">هل أنت مستعد لاستكشاف ميزات متميزة ومثيرة؟</string>
     <string name="cfg_epg_update_frequency">تردد التحديث (بالساعات)</string>
     <string name="cfg_vod_merge">دمج مكتبة الوسائط من مصادر مختلفة في قائمة واحدة (يتطلب إعادة التحميل)</string>
-    <string name="cfg_vod_no_index">تعطيل الفهرسة (تقليل عدد الطلبات ، وكذلك تعطيل البحث والاقتراحات)</string>
     <string name="ch_manage_rename">إعادة تسمية</string>
     <string name="name_already_taken">يتم أخذ الاسم بالفعل</string>
     <string name="pla_timeshift_from_current">نبدأ من اللحظة الحالية</string>
@@ -536,4 +526,26 @@
     <string name="btn_provider_attr_epg">مصدر EPG</string>
     <string name="change_pip_size">قم بتغيير المقاس</string>
     <string name="change_pip_place">التحرك على الشاشة</string>
+
+    <string name="menu_settings_all">عرض جميع الإعدادات</string>
+    <string name="only_manually_added">وأضاف يدويا فقط</string>
+    <string name="check_for_updates">التحقق من التحديثات</string>
+    <string name="has_updates_starting">التحديث متاح وسيبدأ قريبًا</string>
+    <string name="no_updates_avail">التحديثات غير متوفرة</string>
+    <string name="access_restricted">الوصول مقيد</string>
+    <string name="ch_man_restrict_access">الحد من الوصول</string>
+    <string name="ch_man_allow_access">السماح بالمرور</string>
+    <string name="cat_man_mass_action">العمل مع جميع القنوات</string>
+    <string name="cfg_set_restricted_code">تعيين رمز للمحتوى المقيد (4 أرقام)</string>
+    <string name="ch_restricted_unlock">أدخل الرمز لفتح الوصول إلى المحتوى المقيد</string>
+    <string name="player_menu_manage_ch">إدارة القناة</string>
+    <string name="player_menu_manage_epg">إدارة برنامج تلفزيوني</string>
+    <string name="help_faq">أسئلة مكررة</string>
+    <string name="pla_menu_item_visibility">أزرار القائمة وضوح</string>
+    <string name="pla_menu_item_visibility_desc">إخفاء عديمة الفائدة</string>
+    <string name="pla_menu_type">نمط القائمة البصرية</string>
+    <string name="pla_menu_type_list">قائمة</string>
+    <string name="pla_menu_type_grid">شبكة</string>
+    <string name="ch_manage_use_internal">استخدام لاعب داخلي</string>
+    <string name="cat_manage_start_this_cat_on">ابدأ من هذه الفئة</string>
 </resources>

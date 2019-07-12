@@ -64,7 +64,6 @@
     <string name="error_stream_not_reachable_forbidden">הגישה נדחתה (מפתח שגוי?). פנה לספק שלך</string>
     <string name="error_archive_not_supported_this_channel">הספק שלך אינו מספק ארכיונים לערוץ זה</string>
     <string name="error_search_nothing_found">שום דבר לא התאים לשאילתת החיפוש שלך</string>
-    <string name="error_search_too_much_found">תוצאות רבות מדי, החיפוש קטוע</string>
     <string name="error_require_file_permission_grant_and_try_again">נדרשת גישת אחסון. ספק גישה ונסה שנית את הפעולה</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) טעון: רשומות</string>
@@ -90,7 +89,6 @@
     <string name="player_menu_timeshift_off_details">חזרה לחיות</string>
     <string name="player_menu_pip_title">תמונה בתמונה</string>
     <string name="player_menu_pip_on_details">צא ממצב תמונה בתמונה</string>
-    <string name="player_menu_pip_off_details">הוסף את הערוץ הנוכחי למצב PiP</string>
     <string name="player_menu_pip_swap_details">להחליף ערוץ הראשי ו- PiP אחד</string>
     <string name="player_menu_last_channel">ערוץ אחרון</string>
     <string name="player_menu_play_param_sel_audio_track">בחר רצועת שמע</string>
@@ -306,7 +304,6 @@
 
     <string name="do_not_show">אל תראה</string>
     <string name="android_not_genuine">ייתכן שהרכישות לא יפעלו במכשיר שלך.</string>
-    <string name="btn_clear_cache">נקה מטמון (יטען מחדש בהפעלה הבאה)</string>
     <string name="menu_error_require_status_archive_text">נתוני הארכיון אינם זמינים עדיין. אם זה מתעכב במשך זמן רב זה בדרך כלל אומר כי אין נתונים תוכנית טלוויזיה (EPG) זמין. במקרה זה ניתן לתזמן מחדש את EPG מחדש בהגדרות או לחפש מקורות EPG טובים יותר ולהגדיר אותם.</string>
     <string name="spread_title">כמו האפליקציה? תפיץ את המילה!</string>
     <string name="spread_btn_rate">דרג האפליקציה עם חמישה כוכבים</string>
@@ -323,7 +320,6 @@
     <string name="example">דוגמא</string>
     <string name="provider_generic">ספק כללי או רשימת השמעה</string>
     <string name="watched">נצפה:</string>
-    <string name="cfg_no_inst_vod_wstate">אל תשקול את הסרטון כפי שנצפה ברגע שתפעיל אותו</string>
     <string name="btn_search">לחפש</string>
     <string name="hint_vod_cache">ספריית המדיה שומרת את נתוני המטמון במשך מספר ימים. אם אתה צריך נתונים חדשים כדי להופיע מהר יותר, מטמון ברור מההגדרות מחדש את היישום.</string>
     <string name="premium_fea_6">שלח זרם לתצוגה אלחוטית</string>
@@ -345,8 +341,6 @@
     <string name="btn_close">סגור</string>
     <string name="prem_sub_add_3m">מנוי (מחויב מדי שלושה חודשים)</string>
     <string name="prem_sub_add_1y">מנוי (מחויב מדי שנה)</string>
-    <string name="cfg_section_cache">הגדרות מטמון</string>
-    <string name="cfg_cache_dur_no">אל תטמון במטמון</string>
     <string name="cfg_duration_8h">8 שעות</string>
     <string name="cfg_duration_1d">יום 1</string>
     <string name="cfg_duration_2d">2 ימים</string>
@@ -354,7 +348,6 @@
     <string name="cfg_duration_1w">שבוע 1</string>
     <string name="cfg_duration_2w">2 שבועות</string>
     <string name="cfg_duration_1m">חודש 1</string>
-    <string name="cfg_cache_vod">מטמון נתוני ספריית המדיה עבור</string>
     <string name="premium_fea_pvsearch">חיפוש קולי בעת צפייה. חפש ערוץ לפי שם או תוכן ארכיון.</string>
     <string name="cfg_play_action_vsearch">חיפוש קולי</string>
     <string name="settings_premium_source_enabled">Premium מופעלת</string>
@@ -412,7 +405,6 @@
     <string name="cat_vr_continue_prem">סרטונים שנצפו לאחרונה, הזמינים כעת</string>
     <string name="premium_fea_continue">מציג את כל הסרטונים שנצפו לאחרונה, הזמינים כעת במסנן המשך</string>
     <string name="menu_swap_pip_sound">החלפת קול בין המסך הראשי ו- PiP</string>
-    <string name="premium_fea_pre_vod">הצג את התצוגה המקדימה של ספריית המדיה שנבחרה</string>
     <string name="premium_fea_pre_vid_wp">אפשר להציג את התצוגה המקדימה של הסרטון בעת הפעלת סרטון אחר</string>
     <string name="hint_click_icon">לחיצה על הסמל של ערוץ או קבוצה פותחת תפריט תלויי הקשר (אם זמין).</string>
     <string name="hint_right_menu">לחיצה על הלחצן הימני פותחת תפריט הקשר של הערוץ או הקבוצה שנבחרו (אם זמין).</string>
@@ -444,7 +436,6 @@
     <string name="choose_auto">בחר באופן אוטומטי</string>
     <string name="cfg_stream_tech">טכנולוגיית זרם (אם זמינה)</string>
 
-    <string name="btn_schedule_provider_vod_load">טען מחדש את ספריית המדיה של הספק (אם סופקה)</string>
     <string name="cfg_show_ch_numbers">הצג מספרי ערוצים</string>
     <string name="always">תמיד</string>
     <string name="cfg_play_action_sinfo">להציג מידע שוטף על תוכנית טלוויזיה הנוכחי</string>
@@ -503,7 +494,6 @@
     <string name="menu_suggest_premium">מוכן לחקור תכונות פרימיום מרגש?</string>
     <string name="cfg_epg_update_frequency">תדירות העדכון (בשעות)</string>
     <string name="cfg_vod_merge">מיזוג ספריית מדיה ממקורות שונים ברשימה אחת (דורש טעינה מחדש)</string>
-    <string name="cfg_vod_no_index">השבת את יצירת האינדקס (הקטנת מספר הבקשות, אך גם השבתת החיפוש וההצעות)</string>
     <string name="ch_manage_rename">שנה שם</string>
     <string name="name_already_taken">השם כבר בשימוש</string>
     <string name="pla_timeshift_from_current">התחל מהרגע הנוכחי</string>
@@ -535,4 +525,26 @@
     <string name="btn_provider_attr_epg">מקור EPG</string>
     <string name="change_pip_size">שנה את הגודל</string>
     <string name="change_pip_place">העבר על המסך</string>
+
+    <string name="menu_settings_all">הצג את כל ההגדרות</string>
+    <string name="only_manually_added">הוספה ידנית בלבד</string>
+    <string name="check_for_updates">בדוק עדכונים</string>
+    <string name="has_updates_starting">העדכון זמין ויתחיל בקרוב</string>
+    <string name="no_updates_avail">עדכונים אינם זמינים</string>
+    <string name="access_restricted">גישה מוגבלת</string>
+    <string name="ch_man_restrict_access">הגבל את הגישה</string>
+    <string name="ch_man_allow_access">אפשר גישה</string>
+    <string name="cat_man_mass_action">פעולה עם כל הערוצים</string>
+    <string name="cfg_set_restricted_code">הגדר קוד לתוכן מוגבל (4 ספרות)</string>
+    <string name="ch_restricted_unlock">הזן קוד כדי לבטל גישה לתוכן מוגבל</string>
+    <string name="player_menu_manage_ch">נהל את הערוץ</string>
+    <string name="player_menu_manage_epg">ניהול תוכנית טלוויזיה</string>
+    <string name="help_faq">שאלות נפוצות</string>
+    <string name="pla_menu_item_visibility">לחצני תפריט</string>
+    <string name="pla_menu_item_visibility_desc">להסתיר חסר תועלת</string>
+    <string name="pla_menu_type">תפריט חזותי בסגנון</string>
+    <string name="pla_menu_type_list">רשימה</string>
+    <string name="pla_menu_type_grid">רשת</string>
+    <string name="ch_manage_use_internal">השתמש בנגן פנימי</string>
+    <string name="cat_manage_start_this_cat_on">התחל מקטגוריה זו</string>
 </resources>

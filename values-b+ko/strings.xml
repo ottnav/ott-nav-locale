@@ -64,7 +64,6 @@
     <string name="error_stream_not_reachable_forbidden">액세스가 거부되었습니다 (잘못된 키?). 공급자에게 문의하십시오.</string>
     <string name="error_archive_not_supported_this_channel">제공 업체가이 채널에 보관 파일을 제공하지 않습니다.</string>
     <string name="error_search_nothing_found">검색어와 일치하는 내용이 없습니다.</string>
-    <string name="error_search_too_much_found">검색 결과가 너무 많으면 검색이 잘리지 않습니다.</string>
     <string name="error_require_file_permission_grant_and_try_again">스토리지 액세스가 필요합니다. 액세스 권한을 제공하고 작업을 다시 시도하십시오.</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG)로드 됨 : 레코드</string>
@@ -90,7 +89,6 @@
     <string name="player_menu_timeshift_off_details">라이브로 돌아 가기</string>
     <string name="player_menu_pip_title">픽처 인 픽처</string>
     <string name="player_menu_pip_on_details">picture-in-picture 모드 종료</string>
-    <string name="player_menu_pip_off_details">PiP 모드에 현재 채널 추가</string>
     <string name="player_menu_pip_swap_details">메인 채널과 PiP 중 하나 바꾸기</string>
     <string name="player_menu_last_channel">마지막 채널</string>
     <string name="player_menu_play_param_sel_audio_track">오디오 트랙 선택</string>
@@ -308,7 +306,6 @@
 
     <string name="do_not_show">보여주지 마시오</string>
     <string name="android_not_genuine">기기에서 구매 항목이 작동하지 않을 수 있습니다.</string>
-    <string name="btn_clear_cache">캐시 지우기 (다음 출시시 다시로드됩니다)</string>
     <string name="menu_error_require_status_archive_text">아직 아카이브 데이터를 사용할 수 없습니다. 이것이 오랜 시간 동안 지연된다면 그것은 보통 TV 프로그램 데이터 (EPG)가 이용 가능하지 않다는 것을 의미합니다. 이 경우 설정에서 EPG 새로 고침을 예약하거나 더 나은 EPG 소스를 검색하고 구성 할 수 있습니다.</string>
     <string name="spread_title">앱처럼? 단어를 퍼뜨려 라!</string>
     <string name="spread_btn_rate">별 5 개를 평가하는 앱</string>
@@ -325,7 +322,6 @@
     <string name="example">예</string>
     <string name="provider_generic">일반 공급자 또는 재생 목록</string>
     <string name="watched">보았다:</string>
-    <string name="cfg_no_inst_vod_wstate">동영상을 실행하자마자 시청 한 것으로 간주하지 마세요.</string>
     <string name="btn_search">수색</string>
     <string name="hint_vod_cache">미디어 라이브러리는 며칠 동안 데이터를 캐시합니다. 새로운 데이터가 더 빨리 나타나려면 설정에서 캐시를 지우고 앱을 다시 시작하십시오.</string>
     <string name="premium_fea_6">무선 디스플레이로 스트림 보내기</string>
@@ -347,8 +343,6 @@
     <string name="btn_close">닫기</string>
     <string name="prem_sub_add_3m">구독 (3 개월마다 청구)</string>
     <string name="prem_sub_add_1y">구독 (매년 청구)</string>
-    <string name="cfg_section_cache">캐시 설정</string>
-    <string name="cfg_cache_dur_no">캐시하지 마십시오.</string>
     <string name="cfg_duration_8h">8 시간</string>
     <string name="cfg_duration_1d">1 일</string>
     <string name="cfg_duration_2d">2 일</string>
@@ -356,7 +350,6 @@
     <string name="cfg_duration_1w">일주</string>
     <string name="cfg_duration_2w">이주</string>
     <string name="cfg_duration_1m">1 개월</string>
-    <string name="cfg_cache_vod">에 대한 미디어 라이브러리 데이터 캐시</string>
     <string name="premium_fea_pvsearch">보고있는 동안 음성 검색. 이름으로 채널을 검색하거나 내용을 보관하십시오.</string>
     <string name="cfg_play_action_vsearch">음성 검색</string>
     <string name="settings_premium_source_enabled">프리미엄 사용</string>
@@ -414,7 +407,6 @@
     <string name="cat_vr_continue_prem">최근에 본 동영상 (현재 사용 가능)</string>
     <string name="premium_fea_continue">최근에 본 모든 동영상을 표시합니다. 현재 계속 필터에서 사용할 수 있습니다.</string>
     <string name="menu_swap_pip_sound">메인 화면과 픽처 인 픽처 사이의 사운드 스왑</string>
-    <string name="premium_fea_pre_vod">설명에 선택한 미디어 라이브러리 미리보기 표시</string>
     <string name="premium_fea_pre_vid_wp">다른 동영상을 재생하는 동안 동영상 미리보기를 허용합니다.</string>
     <string name="hint_click_icon">채널 또는 그룹의 아이콘을 클릭하면 상황에 맞는 메뉴 (사용 가능한 경우)가 열립니다.</string>
     <string name="hint_right_menu">오른쪽 버튼을 누르면 선택한 채널 또는 그룹의 상황에 맞는 메뉴가 열립니다 (가능한 경우).</string>
@@ -446,7 +438,6 @@
     <string name="choose_auto">자동 선택</string>
     <string name="cfg_stream_tech">스트림 기술 (사용 가능한 경우)</string>
 
-    <string name="btn_schedule_provider_vod_load">다시로드 공급자 미디어 라이브러리 (제공되는 경우)</string>
     <string name="cfg_show_ch_numbers">채널 번호 표시</string>
     <string name="always">항상</string>
     <string name="cfg_play_action_sinfo">현재 TV 프로그램에 대한 현재 정보보기</string>
@@ -505,7 +496,6 @@
     <string name="menu_suggest_premium">흥미로운 프리미엄 기능을 탐색 할 준비가 되셨습니까?</string>
     <string name="cfg_epg_update_frequency">업데이트 빈도 (시간)</string>
     <string name="cfg_vod_merge">여러 소스의 미디어 라이브러리를 단일 목록에 병합합니다 (다시로드해야 함).</string>
-    <string name="cfg_vod_no_index">색인 생성 사용 중지 (요청 수 감소, 검색 및 제안 사용 중지)</string>
     <string name="ch_manage_rename">이름 바꾸기</string>
     <string name="name_already_taken">이름이 이미 사용 중입니다.</string>
     <string name="pla_timeshift_from_current">현재 순간부터 시작</string>
@@ -537,4 +527,26 @@
     <string name="btn_provider_attr_epg">EPG 소스</string>
     <string name="change_pip_size">크기 변경</string>
     <string name="change_pip_place">화면으로 이동</string>
+
+    <string name="menu_settings_all">모든 설정보기</string>
+    <string name="only_manually_added">수동으로 추가 한 경우에만</string>
+    <string name="check_for_updates">업데이트 확인</string>
+    <string name="has_updates_starting">업데이트를 사용할 수 있으며 곧 시작할 예정입니다.</string>
+    <string name="no_updates_avail">업데이트를 사용할 수 없습니다.</string>
+    <string name="access_restricted">접근 제한</string>
+    <string name="ch_man_restrict_access">액세스 제한</string>
+    <string name="ch_man_allow_access">액세스 허용</string>
+    <string name="cat_man_mass_action">모든 채널의 작업</string>
+    <string name="cfg_set_restricted_code">제한된 콘텐츠에 대한 코드 설정 (4 자리)</string>
+    <string name="ch_restricted_unlock">제한된 콘텐츠에 대한 액세스 권한을 해제하는 코드 입력</string>
+    <string name="player_menu_manage_ch">채널 관리</string>
+    <string name="player_menu_manage_epg">tv-show 관리</string>
+    <string name="help_faq">자주 묻는 질문</string>
+    <string name="pla_menu_item_visibility">메뉴 버튼 공개 설정</string>
+    <string name="pla_menu_item_visibility_desc">쓸모없는</string>
+    <string name="pla_menu_type">메뉴 비주얼 스타일</string>
+    <string name="pla_menu_type_list">명부</string>
+    <string name="pla_menu_type_grid">그리드</string>
+    <string name="ch_manage_use_internal">내부 플레이어 사용</string>
+    <string name="cat_manage_start_this_cat_on">이 카테고리에서 시작</string>
 </resources>

@@ -64,7 +64,6 @@
     <string name="error_stream_not_reachable_forbidden">एक्सेस अस्वीकार (गलत कुंजी?)। अपने प्रदाता से संपर्क करें</string>
     <string name="error_archive_not_supported_this_channel">आपका प्रदाता इस चैनल के लिए अभिलेखागार प्रदान नहीं करता है</string>
     <string name="error_search_nothing_found">आपकी खोज क्वेरी से कुछ भी मेल नहीं खाता</string>
-    <string name="error_search_too_much_found">बहुत अधिक परिणाम, खोज छंटनी</string>
     <string name="error_require_file_permission_grant_and_try_again">भंडारण का उपयोग आवश्यक है। एक पहुंच प्रदान करें और ऑपरेशन पुनः प्रयास करें</string>
 
     <string name="info_teleguide_loaded">टेलीगूइड (ईपीजी) लोड: रिकॉर्ड</string>
@@ -90,7 +89,6 @@
     <string name="player_menu_timeshift_off_details">जीने के लिए वापस</string>
     <string name="player_menu_pip_title">चित्र में चित्र</string>
     <string name="player_menu_pip_on_details">तस्वीर-इन-पिक्चर मोड से बाहर निकलें</string>
-    <string name="player_menu_pip_off_details">वर्तमान चैनल को पीआईपी मोड में जोड़ें</string>
     <string name="player_menu_pip_swap_details">मुख्य चैनल और पीआईपी स्वैप करें</string>
     <string name="player_menu_last_channel">अंतिम चैनल</string>
     <string name="player_menu_play_param_sel_audio_track">ऑडियो ट्रैक का चयन करें</string>
@@ -308,7 +306,6 @@
 
     <string name="do_not_show">मत दिखाओ</string>
     <string name="android_not_genuine">खरीद आपके डिवाइस पर काम नहीं कर सकती हैं।</string>
-    <string name="btn_clear_cache">साफ़ कैश (अगले लॉन्च पर पुनः लोड होगा)</string>
     <string name="menu_error_require_status_archive_text">पुरालेख डेटा अभी तक उपलब्ध नहीं है। यदि यह लंबे समय तक देरी हो रही है तो आमतौर पर इसका मतलब है कि कोई टीवी-प्रोग्राम डेटा (ईपीजी) उपलब्ध नहीं है। इस मामले में आप सेटिंग्स में ईपीजी रीलोड शेड्यूल कर सकते हैं या बेहतर ईपीजी स्रोतों की खोज कर सकते हैं और उन्हें कॉन्फ़िगर कर सकते हैं।</string>
     <string name="spread_title">ऐप की तरह? प्रचार कीजिये!</string>
     <string name="spread_btn_rate">पांच सितारों के साथ ऐप रेट करें</string>
@@ -325,7 +322,6 @@
     <string name="example">उदाहरण</string>
     <string name="provider_generic">जेनेरिक प्रदाता या प्लेलिस्ट</string>
     <string name="watched">देखा गया:</string>
-    <string name="cfg_no_inst_vod_wstate">इसे लॉन्च करने के तुरंत बाद वीडियो पर विचार न करें</string>
     <string name="btn_search">खोज</string>
     <string name="hint_vod_cache">मीडिया पुस्तकालय कई दिनों के लिए डेटा कैश करता है। यदि आपको तेजी से दिखाई देने के लिए नए डेटा की आवश्यकता है, तो सेटिंग से कैश साफ़ करें और ऐप को पुनरारंभ करें।</string>
     <string name="premium_fea_6">वायरलेस डिस्प्ले पर स्ट्रीम भेजें</string>
@@ -347,8 +343,6 @@
     <string name="btn_close">बंद करे</string>
     <string name="prem_sub_add_3m">सदस्यता लें (प्रत्येक 3 महीने का बिल)</string>
     <string name="prem_sub_add_1y">सदस्यता लें (प्रत्येक वर्ष बिल किया जाता है)</string>
-    <string name="cfg_section_cache">कैश सेटिंग्स</string>
-    <string name="cfg_cache_dur_no">कैश मत करो</string>
     <string name="cfg_duration_8h">8 घंटे</string>
     <string name="cfg_duration_1d">एक दिन</string>
     <string name="cfg_duration_2d">दो दिन</string>
@@ -356,7 +350,6 @@
     <string name="cfg_duration_1w">1 सप्ताह</string>
     <string name="cfg_duration_2w">2 सप्ताह</string>
     <string name="cfg_duration_1m">1 महीना</string>
-    <string name="cfg_cache_vod">कैश मीडिया लाइब्रेरी डेटा के लिए</string>
     <string name="premium_fea_pvsearch">देखते समय आवाज खोज। नाम से चैनल के लिए खोजें, या संग्रह सामग्री।</string>
     <string name="cfg_play_action_vsearch">आवाज खोज</string>
     <string name="settings_premium_source_enabled">प्रीमियम सक्षम</string>
@@ -414,7 +407,6 @@
     <string name="cat_vr_continue_prem">हाल ही में देखे गए वीडियो, जो अब उपलब्ध हैं</string>
     <string name="premium_fea_continue">हाल ही में देखे गए सभी वीडियो दिखाता है, जो वर्तमान में जारी फ़िल्टर में उपलब्ध हैं</string>
     <string name="menu_swap_pip_sound">मुख्य स्क्रीन और PiP के बीच स्वैप ध्वनि</string>
-    <string name="premium_fea_pre_vod">विवरण में चयनित मीडिया लाइब्रेरी पूर्वावलोकन दिखाएं</string>
     <string name="premium_fea_pre_vid_wp">किसी अन्य वीडियो को चलाते समय वीडियो पूर्वावलोकन दिखाने की अनुमति दें</string>
     <string name="hint_click_icon">किसी चैनल या समूह के आइकन पर क्लिक करने पर एक संदर्भ मेनू (यदि उपलब्ध हो) खुलता है।</string>
     <string name="hint_right_menu">दायां बटन दबाने पर चयनित चैनल या समूह (यदि उपलब्ध हो) का एक संदर्भ मेनू खुलता है।</string>
@@ -446,7 +438,6 @@
     <string name="choose_auto">स्वचालित रूप से चुनें</string>
     <string name="cfg_stream_tech">स्ट्रीम तकनीक (यदि उपलब्ध हो)</string>
 
-    <string name="btn_schedule_provider_vod_load">रिलोड प्रदाता मीडिया लाइब्रेरी (यदि प्रदान की गई है)</string>
     <string name="cfg_show_ch_numbers">चैनल नंबर दिखाएं</string>
     <string name="always">हमेशा</string>
     <string name="cfg_play_action_sinfo">वर्तमान टीवी कार्यक्रम के बारे में वर्तमान जानकारी देखें</string>
@@ -505,7 +496,6 @@
     <string name="menu_suggest_premium">रोमांचक प्रीमियम सुविधाओं का पता लगाने के लिए तैयार हैं?</string>
     <string name="cfg_epg_update_frequency">अद्यतन आवृत्ति (घंटे में)</string>
     <string name="cfg_vod_merge">एक ही सूची में विभिन्न स्रोतों से मीडिया लाइब्रेरी मर्ज करें (पुनः लोड की आवश्यकता है)</string>
-    <string name="cfg_vod_no_index">अनुक्रमण अक्षम करें (अनुरोधों की संख्या कम हो जाती है, लेकिन खोज और सुझावों को भी अक्षम कर देता है)</string>
     <string name="ch_manage_rename">नाम बदलें</string>
     <string name="name_already_taken">नाम पहले ही लिया जा चुका है</string>
     <string name="pla_timeshift_from_current">वर्तमान क्षण से शुरू करें</string>
@@ -537,4 +527,26 @@
     <string name="btn_provider_attr_epg">ईपीजी स्रोत</string>
     <string name="change_pip_size">आकार बदलें</string>
     <string name="change_pip_place">स्क्रीन पर ले जाएँ</string>
+
+    <string name="menu_settings_all">सभी सेटिंग्स देखें</string>
+    <string name="only_manually_added">केवल मैन्युअल रूप से जोड़ा गया</string>
+    <string name="check_for_updates">अद्यतन के लिए जाँच</string>
+    <string name="has_updates_starting">अपडेट उपलब्ध है और जल्द ही शुरू होगा</string>
+    <string name="no_updates_avail">अद्यतन उपलब्ध नहीं हैं</string>
+    <string name="access_restricted">प्रवेश प्रतिबंधित</string>
+    <string name="ch_man_restrict_access">प्रवेश निषेध</string>
+    <string name="ch_man_allow_access">उपयोग की अनुमति दें</string>
+    <string name="cat_man_mass_action">सभी चैनलों के साथ कार्रवाई</string>
+    <string name="cfg_set_restricted_code">प्रतिबंधित सामग्री के लिए कोड सेट करें (4 अंक)</string>
+    <string name="ch_restricted_unlock">प्रतिबंधित सामग्री तक पहुंच अनलॉक करने के लिए कोड दर्ज करें</string>
+    <string name="player_menu_manage_ch">चैनल प्रबंधित करें</string>
+    <string name="player_menu_manage_epg">टीवी-शो का प्रबंधन करें</string>
+    <string name="help_faq">अक्सर पूछे जाने वाले प्रश्न</string>
+    <string name="pla_menu_item_visibility">मेनू बटन दृश्यता</string>
+    <string name="pla_menu_item_visibility_desc">बेकार छिपाओ</string>
+    <string name="pla_menu_type">मेनू दृश्य शैली</string>
+    <string name="pla_menu_type_list">सूची</string>
+    <string name="pla_menu_type_grid">ग्रिड</string>
+    <string name="ch_manage_use_internal">आंतरिक खिलाड़ी का उपयोग करें</string>
+    <string name="cat_manage_start_this_cat_on">इस श्रेणी से शुरू करें</string>
 </resources>

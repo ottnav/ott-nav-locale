@@ -64,7 +64,6 @@
     <string name="error_stream_not_reachable_forbidden">Akses ditolak (kekunci salah?). Hubungi pembekal anda</string>
     <string name="error_archive_not_supported_this_channel">Pembekal anda tidak menyediakan arkib untuk saluran ini</string>
     <string name="error_search_nothing_found">Tiada yang sesuai dengan permintaan carian anda</string>
-    <string name="error_search_too_much_found">Terlalu banyak hasil, carian terpotong</string>
     <string name="error_require_file_permission_grant_and_try_again">Akses storan diperlukan. Sediakan akses dan cuba semula operasi</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) dimuatkan: rekod</string>
@@ -90,7 +89,6 @@
     <string name="player_menu_timeshift_off_details">Kembali ke hidup</string>
     <string name="player_menu_pip_title">Gambar dalam gambar</string>
     <string name="player_menu_pip_on_details">Keluar dari mod gambar dalam gambar</string>
-    <string name="player_menu_pip_off_details">Tambah saluran semasa ke mod PiP</string>
     <string name="player_menu_pip_swap_details">Tukar saluran utama dan PiP satu</string>
     <string name="player_menu_last_channel">Saluran terakhir</string>
     <string name="player_menu_play_param_sel_audio_track">Pilih trek audio</string>
@@ -307,7 +305,6 @@
 
     <string name="do_not_show">jangan tunjuk</string>
     <string name="android_not_genuine">Pembelian mungkin tidak berfungsi pada peranti anda.</string>
-    <string name="btn_clear_cache">Kosongkan cache (akan dimuat semula pada pelancaran seterusnya)</string>
     <string name="menu_error_require_status_archive_text">Data arkib belum tersedia lagi. Sekiranya ini tertangguh untuk jangka masa yang panjang, biasanya tidak ada data program TV (EPG) yang tersedia. Dalam kes ini, anda boleh menjadualkan semula nilai EPG dalam tetapan atau mencari sumber EPG yang lebih baik dan konfigurasikannya.</string>
     <string name="spread_title">Seperti aplikasinya? Sebarkan!</string>
     <string name="spread_btn_rate">Rate aplikasi dengan lima bintang</string>
@@ -324,7 +321,6 @@
     <string name="example">Contoh</string>
     <string name="provider_generic">Pembekal atau senarai main generik</string>
     <string name="watched">Menonton:</string>
-    <string name="cfg_no_inst_vod_wstate">Jangan pertimbangkan video yang ditonton sebaik sahaja melancarkannya</string>
     <string name="btn_search">Carian</string>
     <string name="hint_vod_cache">Perpustakaan media cache data selama beberapa hari. Jika anda memerlukan data baru untuk dipaparkan dengan lebih pantas, cache bersih dari tetapan dan mulakan semula aplikasi.</string>
     <string name="premium_fea_6">Hantar strim ke paparan tanpa wayar</string>
@@ -346,8 +342,6 @@
     <string name="btn_close">Tutup</string>
     <string name="prem_sub_add_3m">Langgan (ditaksir setiap 3 bulan)</string>
     <string name="prem_sub_add_1y">Langgan (dibilkan setiap tahun)</string>
-    <string name="cfg_section_cache">Tetapan cache</string>
-    <string name="cfg_cache_dur_no">Jangan cache</string>
     <string name="cfg_duration_8h">8 jam</string>
     <string name="cfg_duration_1d">1 hari</string>
     <string name="cfg_duration_2d">2 hari</string>
@@ -355,7 +349,6 @@
     <string name="cfg_duration_1w">1 minggu</string>
     <string name="cfg_duration_2w">2 minggu</string>
     <string name="cfg_duration_1m">1 bulan</string>
-    <string name="cfg_cache_vod">Data perpustakaan media cache untuk</string>
     <string name="premium_fea_pvsearch">Carian suara semasa menonton. Cari saluran mengikut nama, atau kandungan arkib.</string>
     <string name="cfg_play_action_vsearch">carian suara</string>
     <string name="settings_premium_source_enabled">Premium diaktifkan</string>
@@ -413,7 +406,6 @@
     <string name="cat_vr_continue_prem">Video yang dilihat baru-baru ini, yang tersedia sekarang</string>
     <string name="premium_fea_continue">Menunjukkan semua video yang dilihat baru-baru ini, yang kini tersedia dalam penapis Teruskan</string>
     <string name="menu_swap_pip_sound">Tukar bunyi antara skrin utama dan PiP</string>
-    <string name="premium_fea_pre_vod">Paparkan pratonton perpustakaan media terpilih dalam keterangan</string>
     <string name="premium_fea_pre_vid_wp">Benarkan pratonton video dipaparkan semasa memainkan video lain</string>
     <string name="hint_click_icon">Mengklik ikon saluran atau kumpulan membuka menu konteks (jika ada).</string>
     <string name="hint_right_menu">Menekan butang kanan membuka menu konteks saluran atau kumpulan yang dipilih (jika ada).</string>
@@ -445,7 +437,6 @@
     <string name="choose_auto">Pilih secara automatik</string>
     <string name="cfg_stream_tech">Teknologi aliran (jika ada)</string>
 
-    <string name="btn_schedule_provider_vod_load">Pustaka media pembekal semula (jika disediakan)</string>
     <string name="cfg_show_ch_numbers">Tunjukkan nombor saluran</string>
     <string name="always">sentiasa</string>
     <string name="cfg_play_action_sinfo">lihat maklumat semasa tentang program tv semasa</string>
@@ -504,7 +495,6 @@
     <string name="menu_suggest_premium">Bersedia untuk meneroka ciri-ciri premium yang menarik?</string>
     <string name="cfg_epg_update_frequency">Kekerapan kemas kini (dalam jam)</string>
     <string name="cfg_vod_merge">Gabungkan pustaka media dari pelbagai sumber dalam satu senarai (memerlukan tambah nilai)</string>
-    <string name="cfg_vod_no_index">Lumpuhkan pengindeksan (mengurangkan bilangan permintaan, tetapi juga melumpuhkan carian dan cadangan)</string>
     <string name="ch_manage_rename">Namakan semula</string>
     <string name="name_already_taken">Nama sudah diambil</string>
     <string name="pla_timeshift_from_current">Mulakan dari saat ini</string>
@@ -536,4 +526,26 @@
     <string name="btn_provider_attr_epg">Sumber EPG</string>
     <string name="change_pip_size">Tukar saiz</string>
     <string name="change_pip_place">Gerakkan skrin</string>
+
+    <string name="menu_settings_all">Lihat semua tetapan</string>
+    <string name="only_manually_added">hanya ditambah secara manual</string>
+    <string name="check_for_updates">Menyemak kemas kini</string>
+    <string name="has_updates_starting">Kemas kini tersedia dan akan bermula tidak lama lagi</string>
+    <string name="no_updates_avail">Kemas kini tidak tersedia</string>
+    <string name="access_restricted">akses terhad</string>
+    <string name="ch_man_restrict_access">Hadkan akses</string>
+    <string name="ch_man_allow_access">Benarkan akses</string>
+    <string name="cat_man_mass_action">Tindakan dengan semua saluran</string>
+    <string name="cfg_set_restricted_code">Tetapkan kod untuk kandungan terhad (4 angka)</string>
+    <string name="ch_restricted_unlock">Masukkan kod untuk membuka kunci akses kepada kandungan terhad</string>
+    <string name="player_menu_manage_ch">Urus saluran</string>
+    <string name="player_menu_manage_epg">Urus tv-show</string>
+    <string name="help_faq">Soalan yang kerap ditanya</string>
+    <string name="pla_menu_item_visibility">Penglihatan butang menu</string>
+    <string name="pla_menu_item_visibility_desc">sembunyikan tidak berguna</string>
+    <string name="pla_menu_type">Gaya visual menu</string>
+    <string name="pla_menu_type_list">senarai</string>
+    <string name="pla_menu_type_grid">grid</string>
+    <string name="ch_manage_use_internal">Gunakan pemain dalaman</string>
+    <string name="cat_manage_start_this_cat_on">Mulakan dari kategori ini</string>
 </resources>

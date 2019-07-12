@@ -59,7 +59,6 @@
     <string name="error_stream_not_reachable_forbidden">Access denied (incorrect key?). Contact your provider</string>
     <string name="error_archive_not_supported_this_channel">Your provider does not provide archives for this channel</string>
     <string name="error_search_nothing_found">Nothing matched your search query</string>
-    <string name="error_search_too_much_found">Too much results, search truncated</string>
     <string name="error_require_file_permission_grant_and_try_again">Storage access is required. Provide an access and retry the operation</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) loaded: records</string>
@@ -85,7 +84,6 @@
     <string name="player_menu_timeshift_off_details">Back to live</string>
     <string name="player_menu_pip_title">Picture-in-picture</string>
     <string name="player_menu_pip_on_details">Exit picture-in-picture mode</string>
-    <string name="player_menu_pip_off_details">Add current channel to PiP mode</string>
     <string name="player_menu_pip_swap_details">Swap main channel and PiP one</string>
     <string name="player_menu_last_channel">Last channel</string>
     <string name="player_menu_play_param_sel_audio_track">Select audio track</string>
@@ -303,7 +301,6 @@
     <!-- 1.4.2 -->
     <string name="do_not_show">do not show</string>
     <string name="android_not_genuine">Purchases might not work on your device.</string>
-    <string name="btn_clear_cache">Clear cache (will reload on next launch)</string>
     <string name="menu_error_require_status_archive_text">Archive data is not available yet. If this is delayed for a long time it usually means that no TV-program data (EPG) is available. In this case you can schedule EPG reload in settings or search for a better EPG sources and configure them.</string>
     <string name="spread_title">Like the app? Spread the word!</string>
     <string name="spread_btn_rate">Rate app with five stars</string>
@@ -320,7 +317,6 @@
     <string name="example">Example</string>
     <string name="provider_generic">Generic provider or playlist</string>
     <string name="watched">Watched:</string>
-    <string name="cfg_no_inst_vod_wstate">Do not consider video as watched as soon as launching it</string>
     <string name="btn_search">Search</string>
     <string name="hint_vod_cache">Media library caches data for several days. If you need new data to appear faster, clear cache from settings and restart the app.</string>
     <string name="premium_fea_6">Send stream to a wireless display</string>
@@ -343,8 +339,6 @@
     <string name="btn_close">Close</string>
     <string name="prem_sub_add_3m">Subscribe (billed each 3 months)</string>
     <string name="prem_sub_add_1y">Subscribe (billed each year)</string>
-    <string name="cfg_section_cache">Cache settings</string>
-    <string name="cfg_cache_dur_no">Do not cache</string>
     <string name="cfg_duration_8h">8 hours</string>
     <string name="cfg_duration_1d">1 day</string>
     <string name="cfg_duration_2d">2 days</string>
@@ -352,7 +346,6 @@
     <string name="cfg_duration_1w">1 week</string>
     <string name="cfg_duration_2w">2 weeks</string>
     <string name="cfg_duration_1m">1 month</string>
-    <string name="cfg_cache_vod">Cache media library data for</string>
     <string name="premium_fea_pvsearch">Voice search while watching. Search for channel by name, or archive contents.</string>
     <string name="cfg_play_action_vsearch">voice search</string>
     <string name="settings_premium_source_enabled">Premium enabled</string>
@@ -412,7 +405,6 @@
     <string name="cat_vr_continue_prem">Recently viewed videos, that are available now</string>
     <string name="premium_fea_continue">Shows all recently viewed videos, that are currently available in Continue filter</string>
     <string name="menu_swap_pip_sound">Swap sound between main screen and PiP</string>
-    <string name="premium_fea_pre_vod">Show selected media library preview in description</string>
     <string name="premium_fea_pre_vid_wp">Allow video preview to be shown while playing another video</string>
     <string name="hint_click_icon">Clicking the icon of a channel or group opens a context menu (if available).</string>
     <string name="hint_right_menu">Pressing right button opens a context menu of selected channel or group (if available).</string>
@@ -446,7 +438,6 @@
     <string name="cfg_stream_tech">Stream technology (if available)</string>
 
     <!-- 1.4.7 -->
-    <string name="btn_schedule_provider_vod_load">Reload provider media library (if provided)</string>
     <string name="cfg_show_ch_numbers">Show channel numbers</string>
     <string name="always">always</string>
     <string name="cfg_play_action_sinfo">view current info about current tv program</string>
@@ -507,7 +498,6 @@
     <string name="menu_suggest_premium">Ready to explore exciting premium features?</string>
     <string name="cfg_epg_update_frequency">Update frequency (in hours)</string>
     <string name="cfg_vod_merge">Merge media library from different sources in a single list (requires reload)</string>
-    <string name="cfg_vod_no_index">Disable indexing (decreases number of requests, but also disables search and suggestions)</string>
     <string name="ch_manage_rename">Rename</string>
     <string name="name_already_taken">Name is already taken</string>
     <string name="pla_timeshift_from_current">Start from the current moment</string>
@@ -540,4 +530,27 @@
     <string name="btn_provider_attr_epg">EPG source</string>
     <string name="change_pip_size">Change size</string>
     <string name="change_pip_place">Move on screen</string>
+
+    <!-- 1.5.1 -->
+    <string name="menu_settings_all">View all settings</string>
+    <string name="only_manually_added">only manually added</string>
+    <string name="check_for_updates">Check for updates</string>
+    <string name="has_updates_starting">Update is available and will start soon</string>
+    <string name="no_updates_avail">Updates are not available</string>
+    <string name="access_restricted">access restricted</string>
+    <string name="ch_man_restrict_access">Restrict access</string>
+    <string name="ch_man_allow_access">Allow access</string>
+    <string name="cat_man_mass_action">Action with all channels</string>
+    <string name="cfg_set_restricted_code">Set code for restricted content (4 digits)</string>
+    <string name="ch_restricted_unlock">Enter code to unlock access to restricted content</string>
+    <string name="player_menu_manage_ch">Manage channel</string>
+    <string name="player_menu_manage_epg">Manage tv-show</string>
+    <string name="help_faq">Frequently asked questions</string>
+    <string name="pla_menu_item_visibility">Menu buttons visibility</string>
+    <string name="pla_menu_item_visibility_desc">hide useless</string>
+    <string name="pla_menu_type">Menu visual style</string>
+    <string name="pla_menu_type_list">list</string>
+    <string name="pla_menu_type_grid">grid</string>
+    <string name="ch_manage_use_internal">Use internal player</string>
+    <string name="cat_manage_start_this_cat_on">Start from this category</string>
 </resources>

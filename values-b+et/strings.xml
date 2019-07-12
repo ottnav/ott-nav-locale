@@ -1,0 +1,555 @@
+<resources>
+    <string name="press_back_once_more_to_exit">Väljumiseks vajutage veel kord</string>
+
+    <string name="search_bar">Otsing kanalite või programmide järgi</string>
+    <string name="search_bar_clue">proovige filmi, teleseriaali, telesaate nime või näitlejate nimesid</string>
+
+    <string name="menu_search">Video otsing</string>
+    <string name="menu_live">Otseülekanne</string>
+    <string name="menu_archive">Näitab arhiivi</string>
+    <string name="menu_vod">Videokogu</string>
+    <string name="menu_settings">Seaded</string>
+    <string name="menu_error_require_provider_title">OTT osutaja on nõutav</string>
+    <string name="menu_error_require_provider_text">See piirkond on saadaval ainult siis, kui OTT-teenuse pakkuja on konfigureeritud. Valige kas teine võimalus või seadistage teenusepakkuja.</string>
+    <string name="menu_error_require_provider_button">Seadista teenusepakkuja</string>
+    <string name="menu_error_require_status_title">Andmeid indekseeritakse</string>
+    <string name="menu_error_require_status_text">Selle osa andmed pole veel saadaval. Protsess võib võtta mitu minutit. Valige teine sektsioon või oodake natuke.</string>
+    <string name="menu_error_require_live_but_no_playlist_title">Kanalite esitamise loend ei laadinud</string>
+    <string name="menu_error_require_live_but_no_playlist_text">Konfigureeritud pakkujat või esitusloendit ei ole võimalik saavutada. Kontrollige uuesti teenusepakkuja seadeid ja kui need tunduvad OK, võtke ühendust oma IPTV pakkujaga.</string>
+    <string name="menu_error_provider_no_archive_title">Arhiive ei toetata</string>
+    <string name="menu_error_provider_no_archive_text">Valitud pakkuja ei toeta arhiive. Saadaval on ainult elavad vooged. Teenusepakkuja vahetamiseks või reaalajas voogesituseks liikuge seadetele.</string>
+    <string name="menu_error_provider_no_archive_button">Mine otseülekandele</string>
+
+    <string name="browse_description_series_number">episood</string>
+    <string name="browse_description_header_live">Elavad kanalid</string>
+    <string name="browse_description_header_program">Kanali ajakava</string>
+
+    <string name="category_movies">Kõik filmid</string>
+    <string name="category_tv_series">Kõik telesarjad</string>
+    <string name="category_tv_shows">Kõik telesaated</string>
+    <string name="category_fav_channels">Lemmikkanalid</string>
+    <string name="category_by_categories">Filtreeri kategooriate kaupa</string>
+    <string name="category_by_years">Filtreeri tootmise kuupäeva järgi</string>
+    <string name="category_by_age">Filtreeri vanuse järgi</string>
+    <string name="category_by_country">Filtreeri päritolumaa järgi</string>
+    <string name="category_by_unsorted">Kõik</string>
+    <string name="category_by_favorite">Lemmik</string>
+    <string name="category_desc_movies">automaatne filter kõigist kanalitest</string>
+    <string name="category_desc_tv_series">automaatne filter kõigist kanalitest</string>
+    <string name="category_desc_exact_tv_series">telesari</string>
+    <string name="category_desc_tv_shows">automaatne filter kõigist kanalitest</string>
+    <string name="category_desc_exact_tv_shows">Telesaade</string>
+    <string name="category_desc_tv_channel">telekanal</string>
+    <string name="category_desc_from_fav">ainult lemmikkanalite sisu</string>
+
+    <string name="in_1_minute">1 minuti pärast</string>
+    <string name="in_n_minutes">10 minuti pärast</string>
+    <string name="player_episode_details_season">hooajal</string>
+    <string name="player_episode_details_series">episood</string>
+    <string name="player_warn_turn_off">Lülitab välja</string>
+    <string name="player_press_to_cancel">Tühistamiseks vajutage OK</string>
+    <string name="player_touch_to_cancel">Tühistamiseks puudutage ekraani</string>
+    <string name="player_state_no_media">Voogu ei valitud</string>
+    <string name="player_state_no_media_ended">Voogu ei valitud (lõppenud)</string>
+    <string name="player_state_buffering">Puhverdamine</string>
+
+    <string name="error_this_video_requires_external_player">See video vajab parima kogemuse saamiseks välist mängijat</string>
+    <string name="error_stream_not_reachable_no_connect">Voog ei ole kättesaadav (ei saa ühendust luua). Võtke ühendust oma teenusepakkujaga</string>
+    <string name="error_stream_not_reachable_no_resource">Voog ei ole kättesaadav. Võtke ühendust oma teenusepakkujaga</string>
+    <string name="error_stream_not_reachable_forbidden">Juurdepääs keelatud (vale võti?). Võtke ühendust oma teenusepakkujaga</string>
+    <string name="error_archive_not_supported_this_channel">Teie teenusepakkuja ei paku selle kanali jaoks arhiive</string>
+    <string name="error_search_nothing_found">Miski ei vastanud teie päringule</string>
+    <string name="error_require_file_permission_grant_and_try_again">Nõutav on salvestusjuurdepääs. Andke juurdepääs ja proovige operatsiooni uuesti</string>
+
+    <string name="info_teleguide_loaded">Teleguid (EPG) laaditakse: kirjed</string>
+
+    <string name="player_menu_select_channel_title">Teine kanal</string>
+    <string name="player_menu_select_archive_title">Teine video</string>
+    <string name="player_menu_set_pause_on_title">Peatage taasesitus</string>
+    <string name="player_menu_set_pause_off_title">Taasesituse jätkamine</string>
+    <string name="player_menu_set_pause_on_details">mängides</string>
+    <string name="player_menu_set_pause_off_details">peatatud</string>
+    <string name="player_menu_show_timetable_title">Ajakava</string>
+    <string name="player_menu_playback_parameters_title">Parameetrid</string>
+    <string name="player_menu_playback_parameters_speed">Taasesituse kiirus</string>
+    <string name="player_menu_aspect_ratio_title">Kuvasuhe</string>
+    <string name="player_menu_aspect_ratio_fit_details">sobib ekraanile</string>
+    <string name="player_menu_aspect_ratio_fill_details">täitke laiuseni</string>
+    <string name="player_menu_aspect_ratio_zoom_details">suumi ekraanile</string>
+    <string name="player_menu_aspect_ratio_zoom_in_details">ekraani suumimine (osa kärpimine)</string>
+    <string name="player_menu_favorite_on_details">Lisa lemmikutesse</string>
+    <string name="player_menu_favorite_off_details">Eemalda lemmikutest</string>
+    <string name="player_menu_timeshift">Ajaline nihe</string>
+    <string name="player_menu_timeshift_on_details">Taaskäivitage video</string>
+    <string name="player_menu_timeshift_off_details">Tagasi elama</string>
+    <string name="player_menu_pip_title">Pilt pilti</string>
+    <string name="player_menu_pip_on_details">Pildistamisrežiimist väljumine</string>
+    <string name="player_menu_pip_swap_details">Vaheta põhikanal ja PiP üks</string>
+    <string name="player_menu_last_channel">Viimane kanal</string>
+    <string name="player_menu_play_param_sel_audio_track">Valige helirada</string>
+    <string name="player_menu_play_param_sel_audio_track_desc">Valige muu keel või kvaliteet</string>
+
+    <string name="settings_player_pip_codec">Picture-in-Picture koodekite valik</string>
+    <string name="settings_player_pip_position_tl">üleval vasakul</string>
+    <string name="settings_player_pip_position_tr">üleval paremal</string>
+    <string name="settings_player_pip_position_bl">all vasakul</string>
+    <string name="settings_player_pip_position_br">paremalt alumine</string>
+    <string name="settings_channel_sort_mode">Sorteeri kanalid</string>
+    <string name="settings_channel_sort_mode_freq">sagedus (lemmikud kõigepealt, kõige sagedasemad kanalid)</string>
+    <string name="settings_channel_sort_mode_prov">tellimuse esitamise loendist</string>
+    <string name="settings_channel_sort_mode_name">nimi (lemmikud kõigepealt, siis tähestikulises järjekorras)</string>
+    <string name="settings_run_at_boot">Käivitage rakendus seadme käivitamisel</string>
+
+    <string name="hint_title">Vihje</string>
+    <string name="hint_long_tap">Laiendatud kirjelduse saamiseks (kui see on asjakohane) saate pikalt puudutada nimekirja elementi.</string>
+    <string name="hint_fav_sorting">Taotlus sorteerib kanalid kellade sageduse järgi. Kanalid, mida märkisite lemmikuks, jäävad alati tippu. Võite automaatse sortimise keelata, lubades teenusepakkuja kanali järjekorra, kuid lemmikute filter pole saadaval.</string>
+    <string name="hint_video_codecs">Kui allikas mängib halvasti, võite proovides suurendada puhvri suurust seadetes, minna teise voo dekooderile (riistvara või tarkvara) või kui midagi ei õnnestu, seadistage taasesituse jaoks välise mängija kasutamine.</string>
+    <string name="hint_auto_turn_off">Saate konfigureerida automaatse voo väljalülitumise pärast mõnda tühikäigu aega (kasulik siis, kui see on minutis tasutud). Ooterežiim tähendab, et ei kasutata ühtegi mängija tegevust (näiteks menüü, otsimine, paus jne).</string>
+
+    <string name="settings_provider_select_type_intro1">MÄRKUS. Selle rakenduse kasutamiseks on vajalik OTT / IPTV pakkuja.</string>
+    <string name="settings_provider_select_type_intro2">Rakendus töötab ainult kasutaja esitatud esitusloenditega.</string>
+    <string name="settings_provider_select_apply">Rakenda</string>
+    <string name="settings_provider_select_return">Tagasi</string>
+
+    <string name="settings_provider_select_status_error">Konfiguratsiooniviga. Andmete laadimine ebaõnnestus</string>
+    <string name="settings_provider_select_status_success">Seadistus rakendati edukalt</string>
+
+    <string name="settings_provider_select_action_playlist">esitusloendi kinnitamine</string>
+    <string name="settings_provider_select_action_live">live kanalite laadimine</string>
+    <string name="settings_provider_select_error_playlist">esitusloend tundub kehtetu või ei sisalda toetatud kanaleid</string>
+    <string name="settings_provider_select_error_live">ei sisalda toetatud live-kanaleid. Kontrollige kasutajanime / võtit / parooli / url.</string>
+
+    <string name="auto_turn_off_since_hdmi_off">HDMI on lahti ühendatud: video automaatne väljalülitamine</string>
+
+    <string name="archive_auto_seek_title">Kas soovite selle video viimast mäletatud asukohta otsida?</string>
+    <string name="archive_auto_seek_no">Ei, vaata algusest</string>
+    <string name="archive_auto_seek_yes">Jah, püüdke</string>
+    <string name="future_show_sheet_add_wl_title">Tuleta mulle meelde, et minna kanalile</string>
+    <string name="future_show_sheet_search_title">Otsi arhiivist</string>
+    <string name="future_show_sheet_search_none">Seda videot ei leitud teie teenusepakkuja arhiivist</string>
+    <string name="notify_live_sheet_title">Video, mille märkisite hiljem vaatamiseks, on nüüd võrgus</string>
+    <string name="notify_live_sheet_text">Video vaatamiseks vahetage</string>
+    <string name="vod_root_title_provider">Meediaraamatukogu</string>
+    <string name="feature_requires_premium">See funktsioon nõuab lisatasu</string>
+    <string name="feature_requires_restart">Rakenduse taaskäivitamine on vajalik</string>
+    <string name="no_teleguide">EPG telegiid puudub</string>
+    <string name="vod_root_title_playlist">Kohandatud esitusloend</string>
+    <string name="play_switch_codec">Lülitage koodek</string>
+    <string name="play_switch_codec_details">Laadige voog erinevate dekoodrite kaudu</string>
+    <string name="play_switch_codec_hard">Kasutage riistvara koodekeid</string>
+    <string name="play_switch_codec_vlc">Kasutage tarkvara VLC</string>
+    <string name="play_switch_codec_ext">Ava välises mängijas</string>
+    <string name="disk_is_full">Salvestamine on täis. Puhastage ruumi.</string>
+    <string name="channel_more_hide_desc">Eemalda loendist</string>
+    <string name="change_applies_in_few_min">Muutus kehtib mõne minuti pärast</string>
+    <string name="hud_short_volume">Maht</string>
+    <string name="hud_short_bright">Heledus</string>
+
+    <string name="settings_provider">Pakkuja</string>
+    <string name="settings_live">Otseülekanne</string>
+    <string name="settings_media_library">Meediumiteek</string>
+    <string name="settings_media_library_dnla">Skannige UPnP / DNLA allikaid kohalikus võrgus</string>
+    <string name="settings_media_library_prov_vod">Skaneerige teenusepakkuja meediakogu, kui see on olemas</string>
+
+
+    <string name="settings_archive">Arhiiv</string>
+    <string name="settings_archive_min_duration">Minimaalne video pikkus arhiivides kuvamiseks</string>
+    <string name="settings_archive_max_duration">Arhiivides kuvatav maksimaalne video pikkus</string>
+    <string name="settings_archive_duration_name_u">Piiramatu</string>
+    <string name="settings_archive_duration_name_10m">10 minutit</string>
+    <string name="settings_archive_duration_name_20m">20 minutit</string>
+    <string name="settings_archive_duration_name_30m">30 minutit</string>
+    <string name="settings_archive_duration_name_40m">40 minutit</string>
+    <string name="settings_archive_duration_name_50m">50 minutit</string>
+    <string name="settings_archive_duration_name_1h">1 tund</string>
+    <string name="settings_archive_duration_name_2h">2 tundi</string>
+    <string name="settings_archive_duration_name_3h">3 tundi</string>
+
+
+    <string name="settings_player">Mängija</string>
+    <string name="settings_player_hide_ui">Peida taasesituse ajal kasutajaliidese ülekate</string>
+    <string name="sec1">1 sekund</string>
+    <string name="sec2">2 sekundit</string>
+    <string name="sec3">3 sekundit</string>
+    <string name="sec4">4 sekundit</string>
+    <string name="sec5">5 sekundit</string>
+    <string name="sec6">6 sekundit</string>
+    <string name="sec7">7 sekundit</string>
+    <string name="sec8">8 sekundit</string>
+    <string name="sec9">9 sekundit</string>
+    <string name="sec10">10 sekundit</string>
+    <string name="settings_player_resize_mode">Video skaala režiim</string>
+    <string name="settings_player_resize_mode_fit">Sobib ekraanile</string>
+    <string name="settings_player_resize_mode_fill">Laiendage ekraani laiusele</string>
+    <string name="settings_player_resize_mode_zoom">Suumi ekraanile</string>
+    <string name="settings_player_resize_mode_zoom_in">Suurendage ekraani</string>
+    <string name="settings_player_auto_stop_live">Automaatne välja lülitamine</string>
+    <string-array name="settings_player_auto_stop_live_names">
+        <item>keelatud</item>
+        <item>2 tundi</item>
+        <item>3 tundi</item>
+        <item>4 tundi</item>
+        <item>5 tundi</item>
+        <item>6 tundi</item>
+        <item>10 tundi</item>
+    </string-array>
+
+
+    <string name="settings_extended">Laiendatud seaded</string>
+    <string name="settings_extended_hide_adult">Peida täiskasvanute kategooriad</string>
+    <string name="settings_extended_auto_start_last_channel">Alustage viimati mängitud kanalit automaatselt</string>
+    <string name="settings_extended_user_epg_source">Täiendav EPG andmeallikas (xml.gz formaat)</string>
+    <string name="settings_schedule_epg_custom_only">Kasutage ainult konkreetseid kasutaja poolt pakutavaid EPG allikaid</string>
+    <string name="settings_schedule_epg_reload">Laadige EPG teleguide uuesti alla ...</string>
+    <string name="settings_schedule_epg_clear">Tühjendage kõik laaditud EPG andmed ...</string>
+
+    <string name="settings_visual">Visuaalne stiil</string>
+
+    <string name="settings_live_quick_channel_switch_delay">Viivitus enne kiirvahetust</string>
+    <string-array name="settings_live_quick_channel_switch_delay_names">
+        <item>vahetada koheselt</item>
+        <item>võimaldada jätkata kanali valimist ühe sekundi jooksul</item>
+        <item>tavaline (2 sekundit edasiseks valikuks)</item>
+        <item>aeglane (5 sekundit edasiseks valikuks)</item>
+    </string-array>
+
+    <string name="settings_player_buffer_size">Broadcast-puhvri suurus</string>
+    <string-array name="settings_player_buffer_size_names">
+        <item>puhvrit ei ole (minimaalne mälu jalajälg)</item>
+        <item>standard</item>
+        <item>suurenenud</item>
+        <item>suur (vaene internet, halb voog)</item>
+        <item>tohutu (kõrge mälu kasutamine väga halbates tingimustes)</item>
+    </string-array>
+
+    <string name="settings_show_clock_in_player_always">Kuva video vaatamise ajal praegune aeg</string>
+
+    <string name="settings_font_style">Teksti suurus</string>
+    <string-array name="settings_font_style_names">
+        <item>Väike</item>
+        <item>Tavaline</item>
+        <item>Suur</item>
+        <item>Suur</item>
+        <item>Hiiglane (võib peita mõned valikud)</item>
+    </string-array>
+
+    <string name="settings_palette_style">Värvipaleti skeem</string>
+
+    <string name="settings_ui_screen_margins">Ekraani marginaalid</string>
+    <string name="settings_ui_language">Keel (kui ei ole määratud, kasutab vaikimisi)</string>
+
+    <string name="settings_disable_provider_categories">Ärge järgige teenusepakkujate kategooriaid</string>
+
+    <string name="settings_ui_touch_swipes">Keela puuteekraani / heleduse reguleerimine</string>
+    <string name="settings_ui_play_vol_seek">Helitugevuse muutmiseks kasutage tagasikerimise nuppe</string>
+
+    <string name="settings_devices_no_hdmi">Ärge jälgige HDMI oleku muutusi</string>
+
+    <string name="settings_codec">Koodeki seaded</string>
+    <string name="settings_codec_hard">Kasutage alati riistvara koodekeid</string>
+    <string name="settings_codec_soft_vlc">Kasutage alati tarkvara VLC koodekeid</string>
+    <string name="settings_codec_external">Kasutage alati välist mängijat</string>
+
+    <string name="settings_epg">EPG telegiid</string>
+
+    <string name="settings_external_player">Väline mängija</string>
+
+
+    <string name="settings_premium">Premium</string>
+    <string name="settings_premium_source_purchase">Premium ostetud</string>
+    <string name="settings_premium_source_subscription">Premium on tellitud</string>
+    <string name="settings_premium_source_unknown">Premium pole lubatud</string>
+    <string name="settings_premium_what_included">Lisateave lisatasu funktsioonide kohta ...</string>
+    <string name="settings_premium_what_included_1">Pildistamisrežiim, kui vaatate otseülekannet</string>
+    <string name="settings_premium_what_included_2">Viimati mängitud kanalile naasmise võimalus</string>
+    <string name="settings_premium_what_included_3">Automaatne kaadrisageduse vahetamine video sobitamiseks</string>
+    <string name="settings_premium_what_included_4">Arhiivide taasesituse kiiruse kontrollimine</string>
+
+    <string name="settings_premium_toggles">Premium seaded</string>
+    <string name="settings_premium_toggles_try_afr">Automaatselt lülitage kaadrisagedus, et see sobiks video</string>
+    <string name="settings_premium_toggles_try_afr_toast">Praegune ekraan toetab värskendussagedusi</string>
+
+    <string name="settings_premium_toggle_btn_title">Lubage lisatasu funktsioonid</string>
+    <string name="settings_premium_toggle_btn_sub_add">Telli</string>
+    <string name="settings_premium_toggle_btn_sub_add_desc">Luba lisatasu, kui tellite väikeseid korduvaid makseid</string>
+    <string name="settings_premium_toggle_btn_buy_add">Ostmine</string>
+    <string name="settings_premium_toggle_btn_buy_add_desc">Luba lisatasu ühe makse teel</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads">Ostke ühtegi reklaamipaketti (ka kõikides Premium pakettides)</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads_desc">Keela reklaamid igavesti ühe maksega</string>
+
+
+    <string name="setting_list_view_title">Nimekirjade kuvamine</string>
+    <string name="setting_list_view1">lihtne nimekiri</string>
+    <string name="setting_list_view2">tabel (2 veergu) koos kirjeldusega</string>
+    <string name="setting_list_view3">tabel (3 veergu)</string>
+    <string name="setting_list_view4">tabel (4 veergu)</string>
+    <string name="cfg_play_deny_buffer">Ära näita puhverdusolekut</string>
+    <string name="copied_clipboard">Kopeeritud lõikepuhvrisse</string>
+    <string name="cfg_play_action_none">ignoreerida</string>
+    <string name="cfg_play_action_menu">avatud menüü</string>
+    <string name="cfg_play_action_another">avage teine voogevalik</string>
+    <string name="cfg_play_action_timetable">avatud ajakava</string>
+    <string name="cfg_play_action_prev">minna eelmisele kanalile</string>
+    <string name="cfg_play_action_next">minna järgmisele kanalile</string>
+    <string name="cfg_play_action_params">taasesituse parameetrite avamine</string>
+    <string name="cfg_play_action_last">lülituda viimati mängitud kanalile</string>
+    <string name="cfg_play_action_title">Seadistage kaugjuhtimispult</string>
+    <string name="cfg_play_action_btn_archive_as_live">Kasutage sama seadistust arhiivide vaatamise ajal (keelab otsimise vasak- ja parempoolsete nuppudega)</string>
+    <string name="cfg_trans_wind">Kasutage läbipaistvat liidest</string>
+    <string name="cfg_list_poster_time">Näita plakatite kestust (sekundid, kui need on saadaval)</string>
+
+
+    <string name="do_not_show">ära näita</string>
+    <string name="android_not_genuine">Ostud ei pruugi teie seadmes töötada.</string>
+    <string name="menu_error_require_status_archive_text">Arhiiviandmed pole veel saadaval. Kui see viibib pikka aega, tähendab see tavaliselt, et TV-programmi andmeid (EPG) pole saadaval. Sellisel juhul saate ajastada EPG uuesti laadimise seadedesse või otsida paremaid EPG allikaid ja neid konfigureerida.</string>
+    <string name="spread_title">Nagu rakendus? Levita sõna!</string>
+    <string name="spread_btn_rate">Hinda rakendust viie tärniga</string>
+    <string name="spread_btn_share">Jagage rakenduse linki sõbraga</string>
+    <string name="spread_share_title">Heitke pilk rakendusele</string>
+    <string name="settings_premium_what_included_9">Kanali vahetamine kanali numbri sisestamisega</string>
+    <string name="settings_channel_sort_mode_numb">number (kanali numbri järgi saab muuta)</string>
+    <string name="ch_opt_change_number">Muuda numbrit</string>
+    <string name="prov_btn_help">Abi</string>
+    <string name="prov_help_telegram">Liitu telegrammiga</string>
+    <string name="settings_premium_what_included_5">Reklaame pole</string>
+    <string name="btn_change">Muuda</string>
+    <string name="invalid_domain">Domeen on ilmselt kehtetu. Kontrollige sisendit</string>
+    <string name="example">Näide</string>
+    <string name="provider_generic">Üldine pakkuja või esitusloend</string>
+    <string name="watched">Vaadatud:</string>
+    <string name="btn_search">Otsing</string>
+    <string name="hint_vod_cache">Meediumikogu salvestab andmeid mitu päeva. Kui teil on vaja uusi andmeid kiiremaks kuvamiseks, tühjendage seadetest vahemälu ja taaskäivitage rakendus.</string>
+    <string name="premium_fea_6">Saada voog traadita ekraanile</string>
+    <string name="wifi_display">Traadita ekraan</string>
+    <string name="wifi_display_desc">Esita voog teises seadmes</string>
+
+
+    <string name="cfg_play_action_fav">avage lemmikkanali valik</string>
+    <string name="cfg_play_action_pp">taasesituse peatamine või jätkamine</string>
+    <string name="cfg_play_action_btn_red">Punase nupu toiming</string>
+    <string name="cfg_play_action_btn_green">Roheline nupp</string>
+    <string name="cfg_play_action_btn_yellow">Toiming kollase nupu jaoks</string>
+    <string name="cfg_play_action_btn_blue">Toiming sinise nupu jaoks</string>
+    <string name="map_channel_to_epg">Kaardi kanal EPG-le</string>
+    <string name="map_channel_to_epg_after">Muudatusi rakendatakse järgmisel EPG teleguidi uuesti laadimisel.</string>
+    <string name="cfg_play_action_vol_d">vähendage helitugevust</string>
+    <string name="cfg_play_action_vol_u">suurendada mahtu</string>
+    <string name="cfg_ext_player_auto">Süsteemi vaikemängija</string>
+    <string name="cfg_ext_player_chooser">Valige iga kord käsitsi</string>
+    <string name="btn_close">Sulge</string>
+    <string name="prem_sub_add_3m">Telli (arve iga 3 kuu järel)</string>
+    <string name="prem_sub_add_1y">Telli (arveldatakse igal aastal)</string>
+    <string name="cfg_duration_8h">8 tundi</string>
+    <string name="cfg_duration_1d">1 päev</string>
+    <string name="cfg_duration_2d">2 päeva</string>
+    <string name="cfg_duration_3d">3 päeva</string>
+    <string name="cfg_duration_1w">1 nädal</string>
+    <string name="cfg_duration_2w">2 nädalat</string>
+    <string name="cfg_duration_1m">1 kuu</string>
+    <string name="premium_fea_pvsearch">Häälotsing vaatamise ajal. Otsige kanalilt nime või arhiivi sisu järgi.</string>
+    <string name="cfg_play_action_vsearch">häälotsing</string>
+    <string name="settings_premium_source_enabled">Premium on lubatud</string>
+    <string name="cfg_play_action_mute">vaigistada</string>
+    <string name="cfg_play_action_unbind">ei töötle (hoia süsteemi käitumist)</string>
+    <string name="settings_codec_auto">vaikimisi koodekit pakkujale</string>
+    <string name="cfg_ign_last_codec">ärge unustage viimast kanalit mängides</string>
+    <string name="btn_schedule_epg">ajastage EPG uuesti laadimine</string>
+    <string name="err_archive_is_shorter">Selle kanali arhiivil on teie teenusepakkuja eluiga lühem</string>
+    <string name="cfg_no_seek">Emuleerige otsimist, avades iga kord uut positsiooni</string>
+    <string name="cfg_section_backup">Varundada ja taastada</string>
+    <string name="btn_backup_info">Varukoopia salvestatakse võtme poolt. Kirjutage see alla kohe, kui varukoopia on valmis. Puudub garantii, kui kaua varukoopia on saadaval.</string>
+    <string name="btn_backup_data">Varundamise praegune konfiguratsioon</string>
+    <string name="btn_backup_load">Laadige eelnevalt tehtud konfigureerimise varukoopia</string>
+    <string name="err_need_newer_android">Selle funktsiooni jaoks on vaja uuemat Android-versiooni</string>
+    <string name="cfg_play_action_sys_pip">Sisenege süsteemi PiP režiimi</string>
+    <string name="cfg_video_cutout">Peida video ülemine ja alumine rida (pikslites)</string>
+    <string name="cfg_video_retry">Aeg video uuesti laadimiseks, kui ilmnes viga</string>
+    <string name="cfg_play_action_2live">Lülitu aktiivse kanali otseülekandele</string>
+    <string name="player_menu_2live">Lülita elamiseks</string>
+
+
+    <string name="cfg_pl_offs_swipe">Liigutage helitugevuse ja heleduse puutepaneeli ekraani servast</string>
+    <string name="btn_seek">Otsige</string>
+    <string name="cfg_play_action_mseek">Käivitab videot otsiva vaate</string>
+    <string name="menu_exit">Välju</string>
+    <string name="hint_try_premium_sub_free">Sa võid proovida tellimust üks kord tasuta mitu päeva, otsustades, kas seda kasutada või mitte. Kontrollige liitumispakettide üksikasju.</string>
+
+
+    <string name="premium_fea_pre_vid">Kuva valitud video eelvaade</string>
+    <string name="vp_audio_shift">Heli nihutamine</string>
+    <string name="vp_audio_shift_desc">Sünkroonige heli video abil</string>
+    <string name="cfg_next_n_desc">Kui mitu järgmist telerit kanali kirjelduses kuvatakse</string>
+    <string name="cfg_codec_details_title">Seadistage koodekite eelistused</string>
+    <string name="cfg_codec_vlc_q">VLC koodeki kvaliteet</string>
+    <string name="profile_speed_q">eelistavad kiirust</string>
+    <string name="profile_middle_q">eelistab kvaliteeti kiirusega</string>
+    <string name="profile_high_q">ainult kvaliteediküsimused</string>
+    <string name="channel_move_cat">Muuda kategooriat</string>
+    <string name="channel_move_new_cat">Loo uus kategooria</string>
+    <string name="premium_fea_edit_list">Võimaldab kategooriate, kanalite peitmise jne muutmist</string>
+    <string name="prov_help_bug">Teatage probleemist või veast</string>
+    <string name="prov_help_tpl">Aruande pakkuja malli probleem</string>
+    <string name="prov_help_feature">Soovita uut funktsiooni</string>
+    <string name="prov_help_premium">Teatage maksete või lisatasu probleemist</string>
+    <string name="prov_help_contact_via_chat">kontakteeruge arendajaga vestluse teel</string>
+    <string name="prov_help_contact_via_email">võtke ühendust arendajaga e-posti teel</string>
+    <string name="prov_help_provide_more_info">Kirjutage oma sõnum arendajale</string>
+    <string name="hint_help_locale">Saate aidata parandada tõlget võrgus</string>
+    <string name="cfg_time_imp">Kasutage keiserlikku ajavormingut (am / pm)</string>
+    <string name="hud_short_seeking">Otsin</string>
+    <string name="cfg_player_clock_tr">paremas ülanurgas</string>
+    <string name="cfg_player_clock_br">paremas nurgas</string>
+    <string name="cfg_player_clock_bl">vasakus nurgas</string>
+    <string name="cfg_player_clock_tl">vasakus nurgas</string>
+    <string name="cat_vr_continue">Jätka vaatamist</string>
+    <string name="cat_vr_continue_prem">Hiljuti vaadatud videod, mis on nüüd saadaval</string>
+    <string name="premium_fea_continue">Näitab kõiki hiljuti vaadatud videoid, mis on hetkel saadaval menüüs Jätka filter</string>
+    <string name="menu_swap_pip_sound">Vaheta peaekraani ja PiP vahel heli</string>
+    <string name="premium_fea_pre_vid_wp">Luba videot eelvaates näidata teise video esitamise ajal</string>
+    <string name="hint_click_icon">Kanali või rühma ikooni klõpsamine avab kontekstimenüü (kui see on saadaval).</string>
+    <string name="hint_right_menu">Parempoolse nupu vajutamine avab valitud kanali või rühma kontekstimenüü (kui see on saadaval).</string>
+    <string name="hint_right_jump">Enamiku tähestikulises järjekorras olevate loendite parempoolse nupu vajutamisel avaneb kiire hüpata vaade.</string>
+    <string name="category_recent_channels">Viimased</string>
+    <string name="category_all_channels">Kõik kanalid</string>
+    <string name="cfg_no_categories">Kasutage tavaliste kanalite loendit (kategooriateta)</string>
+    <string name="cfg_section_desc">Toote kirjeldus</string>
+    <string name="cfg_section_lists">Loetleb seadeid</string>
+    <string name="cfg_section_sys">Süsteemisätted</string>
+
+
+    <string name="cfg_switch_dummy_on">Lülita lihtsustatud seadistusrežiimi</string>
+    <string name="cfg_switch_dummy_off">Lülitu täiustatud seadete režiimi</string>
+    <string name="cfg_no_hints">Ära näita vihjeid</string>
+    <string name="pla_track_sel_sub">Subtiitrite vahetamine</string>
+    <string name="pla_track_sel_sub_desc">Muutke subtiitrite allikat</string>
+    <string name="setting_list_view_auto">tabel (suured ikoonid, sobivad ekraanile)</string>
+    <string name="child_mode_unlock_cfg">Seadistuste avamiseks sisestage lapse kood</string>
+    <string name="cfg_child_mode">Lapse režiim</string>
+    <string name="cfg_child_mode_toggle">Lülitu lapsrežiimi</string>
+    <string name="cfg_child_mode_number">Kood lapsrežiimist väljumiseks (4 numbrit)</string>
+    <string name="cfg_play_deny_status">Ära näita voo olekut</string>
+    <string name="cfg_player_hud">Head-up liidese stiil</string>
+    <string name="cfg_player_hud_1">Ülemine ja alumine</string>
+    <string name="cfg_player_hud_2">Kombineeritud põhjas</string>
+    <string name="cfg_player_hud_3">Kombineeritud üleval</string>
+    <string name="never">mitte kunagi</string>
+    <string name="cfg_player_hide_menu">Menüü peitmise aeg (sekundites)</string>
+    <string name="choose_auto">Valige automaatselt</string>возможность
+    <string name="cfg_stream_tech">Stream-tehnoloogia (kui see on saadaval)</string>
+
+
+    <string name="cfg_show_ch_numbers">Kuva kanalite numbrid</string>
+    <string name="always">alati</string>
+    <string name="cfg_play_action_sinfo">vaadata praeguse telesaate kohta käivat infot</string>
+    <string name="menu_tv_guide">Telekava</string>
+    <string name="cfg_stream_q">Kuva voo kvaliteet</string>
+    <string name="ext_player_copy_clipboard">Kopeeri link lõikepuhvrisse</string>
+    <string name="premium_fea_mult_prov">Võimaldab samaaegselt kasutada mitut teenusepakkujat</string>
+    <string name="btn_add_provider">Lisa pakkuja</string>
+    <string name="btn_provider_edit">Muuda</string>
+    <string name="btn_provider_delete">Kustuta</string>
+    <string name="provider_playlist">Esitusloend</string>
+    <string name="provider_playlist_file">Esitusloend failist</string>
+    <string name="premium_fea_tv_guide">Vaadake telesaate arvutustabelina</string>
+    <string name="provider_field_name">Nimi</string>
+    <string name="provider_field_url">URL-aadress</string>
+    <string name="provider_field_login">Logi sisse</string>
+    <string name="provider_field_pass">Parool</string>
+    <string name="provider_field_token">Juurdepääsumärk</string>
+    <string name="provider_field_server">Server</string>
+    <string name="provider_field_active">Aktiivne</string>
+    <string name="cfg_prov_categories_merge">Erinevate pakkujate kategooriad</string>
+    <string name="cfg_prov_categories_merge_prepend">Kategooria sõltub teenusepakkuja nimest</string>
+    <string name="cfg_prov_categories_merge_mix">Kategooriate ühendamine, kui nimi vastab</string>
+    <string name="cfg_prov_categories_merge_append">Lisage teenusepakkuja nimi kategooria nimele</string>
+    <string name="cfg_codec_exo_q">Riistvara koodeki kvaliteet</string>
+    <string name="cfg_codec_exo_max">parim vaste</string>
+    <string name="cfg_codec_exo_compat">ühilduvusrežiimis</string>
+
+
+    <string name="suggest_better_prov_tpl">Tundub, et teie teenusepakkujal on parem mall</string>
+    <string name="place_pl_to_downloads">Allalaadimistest ei leitud kehtivat esitusloendit</string>
+    <string name="only_1_active">Lisatasu saamiseks on vaja mitu aktiivset pakkujat korraga</string>
+    <string name="menu_qs_provider">Lülita teenusepakkuja</string>
+    <string name="menu_qs_provider_cfg">Näita kiiret vahetust aktiivsete pakkujate vahel</string>
+    <string name="menu_qs_provider_all">Kõik aktiivsed pakkujad</string>
+    <string name="menu_tv_guide_cfg">Näita nuppu TV Guide</string>
+    <string name="cfg_video_preview_sound">Luba video eelvaates heli kirjelduses</string>
+    <string name="btn_schedule_upnp_vod_load">Laadige UPnP meediaraamatukogu uuesti</string>
+    <string name="provider_generic_middleware">Üldine vahevara server</string>
+    <string name="provider_generic_list">Pakkujate nimekiri</string>
+    <string name="provider_generic_list_desc">Läheduses asuvad ühised mallid (keel ja piirkond)</string>
+    <string name="yes">Jah</string>
+    <string name="no">Ei</string>
+    <string name="cfg_zoom_shrink">kahaneb</string>
+    <string name="cfg_channel_manager">Kanalite haldamine</string>
+    <string name="cfg_channel_manager_categories">Kategooriad</string>
+    <string name="cfg_channel_manager_channels">Kanalid</string>
+    <string name="ch_manage_show">Näita nimekirjas</string>
+    <string name="ch_manage_child_on">Luba lapsrežiimis</string>
+    <string name="ch_manage_child_off">Keela lapsrežiimis</string>
+    <string name="ch_manage_status_favorite">lemmik</string>
+    <string name="ch_manage_status_hidden">peidetud</string>
+    <string name="ch_manage_status_child">laps</string>
+    <string name="show_future_search_in_other">Otsi välistest rakendustest</string>
+
+
+    <string name="cfg_channel_manager_filters">Filtrid</string>
+    <string name="menu_suggest_premium">Kas olete valmis avastama põnevaid lisatasusid?</string>
+    <string name="cfg_epg_update_frequency">Värskendussagedus (tundides)</string>
+    <string name="cfg_vod_merge">Meediumiteegi ühendamine erinevatest allikatest ühes nimekirjas (nõuab uuesti laadimist)</string>
+    <string name="ch_manage_rename">Nimeta ümber</string>
+    <string name="name_already_taken">Nimi on juba võetud</string>
+    <string name="pla_timeshift_from_current">Alusta praegusest hetkest</string>
+    <string name="cfg_play_action_timeshift_start">avatud arhiveeritud telesaate algusest</string>
+    <string name="cfg_play_action_timeshift_now">avatud arhiveeritud telesaate avatud ajast</string>
+    <string name="cfg_cat_recent">Viimaste kanalite kategooria</string>
+    <string name="enable">lubada</string>
+    <string name="save_between_launch">salvestuste vahel</string>
+    <string name="ch_pos_pin_1">Pistke üles</string>
+    <string name="cfg_no_teleguide">Looge virtuaalne epg-kirje, kui TV-programmi pole saadaval</string>
+    <string name="menu_qs_provider_multiple">Märgi käsitsi</string>
+    <string name="category_recently_added">Viimati lisatud</string>
+    <string name="ask_finish_update">Uuema versiooni uuendamiseks taaskäivitage rakendus?</string>
+    <string name="ch_pos_pin_minus1">Kinnitage ülemine loend</string>
+    <string name="cfg_premium_etc">Ja palju muid väärtuslikke funktsioone</string>
+    <string name="cfg_fine_tune_volume">Käsitsi helitugevuse häälestamine (piiratud süsteemi mahuga)</string>
+
+
+    <string name="cfg_arch_unp">Avage arhiiv automaatselt, kui tühistate otseülekande</string>
+    <string name="cfg_codec_vlc_sync">Kasutage VLC-koodekeid sünkroonitud režiimis (võib aidata, kui heli mängib pärast sulgemist)</string>
+    <string name="cfg_ch_more_epg">Kuva kanali nimi suurem kui EPG</string>
+    <string name="show_menu_add_to_cont_watching">Jätkake vaatamist hiljem</string>
+    <string name="ch_pos_unpin">Eemaldage asendist</string>
+    <string name="cfg_exit_child_mode">Välju lapsrežiimist</string>
+    <string name="cfg_enter_child_mode">Laste režiimi sisenemine</string>
+    <string name="cfg_child_categories">Kuva kanalite kategooriad</string>
+    <string name="btn_provider_attrs">Pakkuja omadused</string>
+    <string name="btn_provider_activate">Aktiveeri</string>
+    <string name="btn_provider_deactivate">Keela</string>
+    <string name="btn_provider_attr_epg">EPG allikas</string>
+    <string name="change_pip_size">Suuruse muutmine</string>
+    <string name="change_pip_place">Liikuge ekraanil</string>
+
+    <string name="menu_settings_all">Vaadake kõiki seadeid</string>
+    <string name="only_manually_added">ainult käsitsi</string>
+    <string name="check_for_updates">Kontrolli kas uuendused on saadaval</string>
+    <string name="has_updates_starting">Värskendus on saadaval ja algab peagi</string>
+    <string name="no_updates_avail">Uuendused pole saadaval</string>
+    <string name="access_restricted">juurdepääs on piiratud</string>
+    <string name="ch_man_restrict_access">Piirake juurdepääsu</string>
+    <string name="ch_man_allow_access">Luba juurdepääs</string>
+    <string name="cat_man_mass_action">Toiming kõigi kanalitega</string>
+    <string name="cfg_set_restricted_code">Piiratud sisu kood (4 numbrit)</string>
+    <string name="ch_restricted_unlock">Piiratud sisu avamiseks sisestage kood</string>
+    <string name="player_menu_manage_ch">Kanali haldamine</string>
+    <string name="player_menu_manage_epg">Halda telesaateid</string>
+    <string name="help_faq">Korduma kippuvad küsimused</string>
+    <string name="pla_menu_item_visibility">Menüünuppude nähtavus</string>
+    <string name="pla_menu_item_visibility_desc">peida kasutu</string>
+    <string name="pla_menu_type">Menüü visuaalne stiil</string>
+    <string name="pla_menu_type_list">nimekirja</string>
+    <string name="pla_menu_type_grid">võrku</string>
+    <string name="ch_manage_use_internal">Kasutage sisemist mängijat</string>
+    <string name="cat_manage_start_this_cat_on">Alustage sellest kategooriast</string>
+</resources>

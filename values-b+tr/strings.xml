@@ -64,7 +64,6 @@
     <string name="error_stream_not_reachable_forbidden">Erişim reddedildi (yanlış anahtar?). Sağlayıcınıza başvurun</string>
     <string name="error_archive_not_supported_this_channel">Sağlayıcınız bu kanal için arşiv sağlamıyor</string>
     <string name="error_search_nothing_found">Arama sorgunuzla hiçbir şey eşleşmedi</string>
-    <string name="error_search_too_much_found">Çok fazla sonuç var, arama kesildi</string>
     <string name="error_require_file_permission_grant_and_try_again">Depolama erişimi gerekli. Bir erişim sağlayın ve işlemi yeniden deneyin.</string>
 
     <string name="info_teleguide_loaded">Teleguide (EPG) yüklendi: kayıtlar</string>
@@ -90,7 +89,6 @@
     <string name="player_menu_timeshift_off_details">Yaşamaya geri dön</string>
     <string name="player_menu_pip_title">Fotoğraf içinde fotoğraf</string>
     <string name="player_menu_pip_on_details">Resim içinde resim modundan çık</string>
-    <string name="player_menu_pip_off_details">Mevcut kanalı PiP moduna ekle</string>
     <string name="player_menu_pip_swap_details">Ana kanalı ve PiP kodunu değiştir</string>
     <string name="player_menu_last_channel">Son kanal</string>
     <string name="player_menu_play_param_sel_audio_track">Ses parçasını seç</string>
@@ -306,7 +304,6 @@
 
     <string name="do_not_show">gösterme</string>
     <string name="android_not_genuine">Satın alımlar cihazınızda çalışmayabilir.</string>
-    <string name="btn_clear_cache">Önbelleği temizle (sonraki açılışta yeniden yüklenecek)</string>
     <string name="menu_error_require_status_archive_text">Arşiv verileri henüz mevcut değil. Bu uzun bir süre ertelenirse, genellikle TV programı verilerinin (EPG) mevcut olmadığı anlamına gelir. Bu durumda EPG\'yi yeniden ayarlayabilir veya daha iyi bir EPG kaynağı arayabilir ve bunları yapılandırabilirsiniz.</string>
     <string name="spread_title">App gibi mi? Kelimeyi yay!</string>
     <string name="spread_btn_rate">Uygulamayı beş yıldızla değerlendirin</string>
@@ -323,7 +320,6 @@
     <string name="example">Örnek</string>
     <string name="provider_generic">Genel sağlayıcı veya oynatma listesi</string>
     <string name="watched">İzlenen:</string>
-    <string name="cfg_no_inst_vod_wstate">Videoyu başlattığı anda izlendiği gibi düşünmeyin.</string>
     <string name="btn_search">Arama</string>
     <string name="hint_vod_cache">Medya kütüphanesi birkaç gün boyunca verileri önbelleğe alır. Daha hızlı görünecek yeni verilere ihtiyacınız varsa, ayarlardan önbelleği temizleyin ve uygulamayı yeniden başlatın.</string>
     <string name="premium_fea_6">Kablosuz bir ekrana yayın gönder</string>
@@ -345,8 +341,6 @@
     <string name="btn_close">Kapat</string>
     <string name="prem_sub_add_3m">Abone ol (her 3 ayda bir faturalandırılır)</string>
     <string name="prem_sub_add_1y">Abone ol (her yıl faturalandırılır)</string>
-    <string name="cfg_section_cache">Önbellek ayarları</string>
-    <string name="cfg_cache_dur_no">Önbellek</string>
     <string name="cfg_duration_8h">8 saat</string>
     <string name="cfg_duration_1d">1 gün</string>
     <string name="cfg_duration_2d">2 gün</string>
@@ -354,7 +348,6 @@
     <string name="cfg_duration_1w">1 hafta</string>
     <string name="cfg_duration_2w">2 hafta</string>
     <string name="cfg_duration_1m">1 ay</string>
-    <string name="cfg_cache_vod">Medya kütüphanesi verileri için önbellek</string>
     <string name="premium_fea_pvsearch">İzlerken sesli arama. Kanal adına veya arşiv içeriğine göre arama yapın.</string>
     <string name="cfg_play_action_vsearch">sesli arama</string>
     <string name="settings_premium_source_enabled">Premium etkin</string>
@@ -412,7 +405,6 @@
     <string name="cat_vr_continue_prem">Şu anda kullanılabilen, son görüntülenen videolar</string>
     <string name="premium_fea_continue">Devam etmekte olan filtrede bulunan ve son zamanlarda görüntülenen videoların tümünü gösterir.</string>
     <string name="menu_swap_pip_sound">Ana ekran ve PiP arasında sesi değiştirme</string>
-    <string name="premium_fea_pre_vod">Seçilen medya kütüphanesi önizlemesini açıklamada göster</string>
     <string name="premium_fea_pre_vid_wp">Başka bir video oynatırken video önizlemesinin gösterilmesine izin ver</string>
     <string name="hint_click_icon">Bir kanal veya grubun simgesine tıklamak, bir bağlam menüsü açar (varsa).</string>
     <string name="hint_right_menu">Sağ düğmeye basıldığında, seçilen kanal veya grubun içerik menüsü açılır (varsa).</string>
@@ -444,7 +436,6 @@
     <string name="choose_auto">Otomatik seç</string>
     <string name="cfg_stream_tech">Akış teknolojisi (varsa)</string>
 
-    <string name="btn_schedule_provider_vod_load">Sağlayıcı medya kitaplığını yeniden yükle (varsa)</string>
     <string name="cfg_show_ch_numbers">Kanal numaralarını göster</string>
     <string name="always">her zaman</string>
     <string name="cfg_play_action_sinfo">TV programı hakkındaki güncel bilgileri görüntüleyin</string>
@@ -503,7 +494,6 @@
     <string name="menu_suggest_premium">Heyecan verici premium özellikleri keşfetmeye hazır mısınız?</string>
     <string name="cfg_epg_update_frequency">Güncelleme sıklığı (saat olarak)</string>
     <string name="cfg_vod_merge">Medya kitaplığını farklı kaynaklardan tek bir listede birleştirme (yeniden yükleme gerektirir)</string>
-    <string name="cfg_vod_no_index">Endekslemeyi devre dışı bırak (istek sayısını azaltır, ancak arama ve önerileri de devre dışı bırakır)</string>
     <string name="ch_manage_rename">Adını değiştirmek</string>
     <string name="name_already_taken">İsim zaten alınmış</string>
     <string name="pla_timeshift_from_current">Geçerli andan başla</string>
@@ -535,4 +525,26 @@
     <string name="btn_provider_attr_epg">EPG kaynağı</string>
     <string name="change_pip_size">Boyutu değiştir</string>
     <string name="change_pip_place">Ekrana taşı</string>
+
+    <string name="menu_settings_all">Tüm ayarları görüntüle</string>
+    <string name="only_manually_added">sadece elle eklendi</string>
+    <string name="check_for_updates">Güncellemeleri kontrol et</string>
+    <string name="has_updates_starting">Güncelleme mevcut ve yakında başlayacak</string>
+    <string name="no_updates_avail">Güncellemeler mevcut değil</string>
+    <string name="access_restricted">Geçiş kısıtlı</string>
+    <string name="ch_man_restrict_access">Erişimi kısıtla</string>
+    <string name="ch_man_allow_access">Erişime izin vermek</string>
+    <string name="cat_man_mass_action">Tüm kanallarla eylem</string>
+    <string name="cfg_set_restricted_code">Kısıtlanmış içerik için kodu ayarlayın (4 hane)</string>
+    <string name="ch_restricted_unlock">Kısıtlanmış içeriğe erişimin kilidini açmak için kod girin</string>
+    <string name="player_menu_manage_ch">Kanalı yönet</string>
+    <string name="player_menu_manage_epg">TV şovunu yönet</string>
+    <string name="help_faq">Sık sorulan Sorular</string>
+    <string name="pla_menu_item_visibility">Menü düğmeleri görünürlüğü</string>
+    <string name="pla_menu_item_visibility_desc">işe yaramaz</string>
+    <string name="pla_menu_type">Menü görsel stili</string>
+    <string name="pla_menu_type_list">liste</string>
+    <string name="pla_menu_type_grid">Kafes</string>
+    <string name="ch_manage_use_internal">Dahili oynatıcı kullan</string>
+    <string name="cat_manage_start_this_cat_on">Bu kategoriden başla</string>
 </resources>

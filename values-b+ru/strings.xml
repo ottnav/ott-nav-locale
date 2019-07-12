@@ -59,7 +59,6 @@
     <string name="error_stream_not_reachable_forbidden">В доступе отказано (неверный ключ?). Свяжитесь с вашим провайдером</string>
     <string name="error_archive_not_supported_this_channel">Ваш провайдер не предлагает архив для этого канала</string>
     <string name="error_search_nothing_found">Ничего не соответствует критериям</string>
-    <string name="error_search_too_much_found">Слишком много результатов, показаны первые</string>
     <string name="error_require_file_permission_grant_and_try_again">Требуется доступ к хранилищу. Выдайте доступ и повторите операцию</string>
 
     <string name="info_teleguide_loaded">Программа передач (EPG) загружена: записей</string>
@@ -85,7 +84,6 @@
     <string name="player_menu_timeshift_off_details">В прямой эфир</string>
     <string name="player_menu_pip_title">Картинка-в-картинке</string>
     <string name="player_menu_pip_on_details">Выйти из режима картинка-в-картинке</string>
-    <string name="player_menu_pip_off_details">Поместить канал в режим PiP</string>
     <string name="player_menu_pip_swap_details">Поменять текущий канал и идущий в PiP</string>
     <string name="player_menu_last_channel">Предыдущий канал</string>
     <string name="player_menu_play_param_sel_audio_track">Выбор звуковой дорожки</string>
@@ -303,7 +301,6 @@
     <!-- 1.4.2 -->
     <string name="do_not_show">не показывать</string>
     <string name="android_not_genuine">Покупки могут не работать на вашем устройстве.</string>
-    <string name="btn_clear_cache">Очистить кеш (перечитается на следующем запуске)</string>
     <string name="menu_error_require_status_archive_text">Архивные данные пока недоступны. Если они долго не появляются, обычно означает, что телепрограмма (EPG) недоступна. В этом случае вы можете запланировать загрузку EPG в настройках или найти и настроить более подходящие источники EPG.</string>
     <string name="spread_title">Нравится приложение? Расскажите о нём!</string>
     <string name="spread_btn_rate">Поставить рейтинг в пять звёзд</string>
@@ -320,7 +317,6 @@
     <string name="example">Пример</string>
     <string name="provider_generic">Типичный провайдер или плейлист</string>
     <string name="watched">Просмотрено:</string>
-    <string name="cfg_no_inst_vod_wstate">Не считать видео просмотренным как только оно запущено</string>
     <string name="btn_search">Поиск</string>
     <string name="hint_vod_cache">Медиа библиотека кеширует данные на несколько дней. Если вы хотите, чтобы ваши данные появились быстрее, очистите кеш в настройках и перезапустите приложение.</string>
     <string name="premium_fea_6">Отправить поток на беспроводной дисплей</string>
@@ -343,8 +339,6 @@
     <string name="btn_close">Закрыть</string>
     <string name="prem_sub_add_3m">Подписаться (ежеквартальная оплата)</string>
     <string name="prem_sub_add_1y">Подписаться (ежегодная оплата)</string>
-    <string name="cfg_section_cache">Настройки кеширования</string>
-    <string name="cfg_cache_dur_no">Не кешировать</string>
     <string name="cfg_duration_8h">8 часов</string>
     <string name="cfg_duration_1d">1 день</string>
     <string name="cfg_duration_2d">2 дня</string>
@@ -352,7 +346,6 @@
     <string name="cfg_duration_1w">1 неделя</string>
     <string name="cfg_duration_2w">2 недели</string>
     <string name="cfg_duration_1m">1 месяц</string>
-    <string name="cfg_cache_vod">Кешировать данные медиа библиотеки на</string>
     <string name="premium_fea_pvsearch">Голосовой поиск при просмотре. Поиск канала по имени или содержимому архива.</string>
     <string name="cfg_play_action_vsearch">голосовой поиск</string>
     <string name="settings_premium_source_enabled">Премиум включен</string>
@@ -412,7 +405,6 @@
     <string name="cat_vr_continue_prem">Недавно просмотренное видео, доступное сейчас</string>
     <string name="premium_fea_continue">Показывает все недавно просмотренные видео, которые сейчас доступны в фильтре Продолжить</string>
     <string name="menu_swap_pip_sound">Переключить звук между основным экраном и PiP</string>
-    <string name="premium_fea_pre_vod">Показывать предпросмотр выбранного элемента медиатеки в описании</string>
     <string name="premium_fea_pre_vid_wp">Разрешить предпросмотр видео при проигрывании другого видео</string>
     <string name="hint_click_icon">Нажатие на иконку канала или группы открывает контекстное меню (если доступно).</string>
     <string name="hint_right_menu">Нажатие вправо открывает контекстное меню выбранного канала или группы (если доступно).</string>
@@ -446,7 +438,6 @@
     <string name="cfg_stream_tech">Технология потока (если доступно)</string>
 
     <!-- 1.4.7 -->
-    <string name="btn_schedule_provider_vod_load">Перезагрузить медиатеку провайдера (если предоставлена)</string>
     <string name="cfg_show_ch_numbers">Показывать номера каналов</string>
     <string name="always">всегда</string>
     <string name="cfg_play_action_sinfo">посмотреть информацию о текущей передаче</string>
@@ -507,7 +498,6 @@
     <string name="menu_suggest_premium">Готовы изучить отличные премиум возможности?</string>
     <string name="cfg_epg_update_frequency">Частота обновления (в часах)</string>
     <string name="cfg_vod_merge">Склеить медиа библиотеку разных источников в единый список (требует перезагрузку)</string>
-    <string name="cfg_vod_no_index">Отключить индексацию (уменьшает число запросов, но и также отключает поиск и рекомендации)</string>
     <string name="ch_manage_rename">Переименовать</string>
     <string name="name_already_taken">Это название уже занято</string>
     <string name="pla_timeshift_from_current">Начать с текущего момента</string>
@@ -540,4 +530,27 @@
     <string name="btn_provider_attr_epg">Источник EPG</string>
     <string name="change_pip_size">Изменить размер</string>
     <string name="change_pip_place">Переместить на экране</string>
+
+    <!-- 1.5.1 -->
+    <string name="menu_settings_all">Просмотреть все настройки</string>
+    <string name="only_manually_added">только вручную добавленные</string>
+    <string name="check_for_updates">Проверить обновления</string>
+    <string name="has_updates_starting">Обновление доступно и скоро начнётся</string>
+    <string name="no_updates_avail">Обновления недоступны</string>
+    <string name="access_restricted">доступ ограничен</string>
+    <string name="ch_man_restrict_access">Ограничить доступ</string>
+    <string name="ch_man_allow_access">Разрешить доступ</string>
+    <string name="cat_man_mass_action">Действия со всеми каналами</string>
+    <string name="cfg_set_restricted_code">Установить код для ограниченного контента (4 символа)</string>
+    <string name="ch_restricted_unlock">Ввести код доступа для разблокировки ограниченного контента</string>
+    <string name="player_menu_manage_ch">Управление каналом</string>
+    <string name="player_menu_manage_epg">Управление телепередачей</string>
+    <string name="help_faq">Часто задаваемые вопросы</string>
+    <string name="pla_menu_item_visibility">Видимость пунктов меню</string>
+    <string name="pla_menu_item_visibility_desc">прятать бесполезное</string>
+    <string name="pla_menu_type">Внешний вид меню</string>
+    <string name="pla_menu_type_list">список</string>
+    <string name="pla_menu_type_grid">таблица</string>
+    <string name="ch_manage_use_internal">Использовать встроенный плейер</string>
+    <string name="cat_manage_start_this_cat_on">Начинать с этой категории</string>
 </resources>
