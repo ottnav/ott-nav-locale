@@ -8,7 +8,6 @@
     <string name="menu_search">Video arama</string>
     <string name="menu_live">Canlı yayın</string>
     <string name="menu_archive">Arşivi gösterir</string>
-    <string name="menu_vod">Video kütüphanesi</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_error_require_provider_title">OTT sağlayıcısı gerekli</string>
     <string name="menu_error_require_provider_text">Bu bölge sadece OTT sağlayıcısı yapılandırıldığında kullanılabilir. Ya başka bir seçenek seçin veya bir sağlayıcı yapılandırın.</string>
@@ -146,30 +145,13 @@
     <string name="play_switch_codec_ext">Harici oynatıcıda aç</string>
     <string name="disk_is_full">Depolama dolu. Biraz yer temizle.</string>
     <string name="channel_more_hide_desc">Listeden kaldır</string>
-    <string name="change_applies_in_few_min">Değişiklik birkaç dakika içinde uygulanacaktır</string>
     <string name="hud_short_volume">hacim</string>
     <string name="hud_short_bright">Parlaklık</string>
 
     <string name="settings_provider">sağlayan</string>
-    <string name="settings_live">Canlı yayın</string>
     <string name="settings_media_library">Medya kütüphanesi</string>
     <string name="settings_media_library_dnla">Yerel ağdaki UPnP / DNLA kaynaklarını tara</string>
     <string name="settings_media_library_prov_vod">Varsa sağlayıcı medya kütüphanesini tara</string>
-
-
-    <string name="settings_archive">Arşiv</string>
-    <string name="settings_archive_min_duration">Arşivlerde gösterilecek minimum video uzunluğu</string>
-    <string name="settings_archive_max_duration">Arşivlerde gösterilecek maksimum video uzunluğu</string>
-    <string name="settings_archive_duration_name_u">Sınırsız</string>
-    <string name="settings_archive_duration_name_10m">10 dakika</string>
-    <string name="settings_archive_duration_name_20m">20 dakika</string>
-    <string name="settings_archive_duration_name_30m">30 dakika</string>
-    <string name="settings_archive_duration_name_40m">40 dakika</string>
-    <string name="settings_archive_duration_name_50m">50 dakika</string>
-    <string name="settings_archive_duration_name_1h">1 saat</string>
-    <string name="settings_archive_duration_name_2h">2 saat</string>
-    <string name="settings_archive_duration_name_3h">3 saat</string>
-
 
     <string name="settings_player">oyuncu</string>
     <string name="settings_player_hide_ui">Oynatmada UI yer paylaşımını gizle</string>
@@ -203,7 +185,6 @@
     <string name="settings_extended">Genişletilmiş ayarlar</string>
     <string name="settings_extended_hide_adult">Yetişkin kategorilerini gizle</string>
     <string name="settings_extended_auto_start_last_channel">Son oynatılan kanalı otomatik olarak başlat</string>
-    <string name="settings_extended_user_epg_source">Ek EPG veri kaynağı (xml.gz formatı)</string>
     <string name="settings_schedule_epg_custom_only">Sadece belirtilen kullanıcı tarafından sağlanan EPG kaynaklarını kullanın</string>
     <string name="settings_schedule_epg_reload">EPG teleguide yeniden yükle…</string>
     <string name="settings_schedule_epg_clear">Yüklenen tüm EPG verilerini temizle…</string>
@@ -270,7 +251,6 @@
     <string name="settings_premium_what_included_3">Videoya göre otomatik kare hızı değişimi</string>
     <string name="settings_premium_what_included_4">Arşivler için oynatma hızını kontrol etme</string>
 
-    <string name="settings_premium_toggles">Premium ayarlar</string>
     <string name="settings_premium_toggles_try_afr">Videoyla eşleştirmek için kare geçiş hızını otomatik olarak değiştir</string>
     <string name="settings_premium_toggles_try_afr_toast">Mevcut ekran destekli yenileme oranları</string>
 
@@ -315,7 +295,6 @@
     <string name="prov_btn_help">yardım et</string>
     <string name="prov_help_telegram">Telegram\'a katıl</string>
     <string name="settings_premium_what_included_5">Reklamsız</string>
-    <string name="btn_change">Değişiklik</string>
     <string name="invalid_domain">Alan muhtemelen geçersizdir. Girişinizi kontrol edin</string>
     <string name="example">Örnek</string>
     <string name="provider_generic">Genel sağlayıcı veya oynatma listesi</string>
@@ -341,13 +320,6 @@
     <string name="btn_close">Kapat</string>
     <string name="prem_sub_add_3m">Abone ol (her 3 ayda bir faturalandırılır)</string>
     <string name="prem_sub_add_1y">Abone ol (her yıl faturalandırılır)</string>
-    <string name="cfg_duration_8h">8 saat</string>
-    <string name="cfg_duration_1d">1 gün</string>
-    <string name="cfg_duration_2d">2 gün</string>
-    <string name="cfg_duration_3d">3 gün</string>
-    <string name="cfg_duration_1w">1 hafta</string>
-    <string name="cfg_duration_2w">2 hafta</string>
-    <string name="cfg_duration_1m">1 ay</string>
     <string name="premium_fea_pvsearch">İzlerken sesli arama. Kanal adına veya arşiv içeriğine göre arama yapın.</string>
     <string name="cfg_play_action_vsearch">sesli arama</string>
     <string name="settings_premium_source_enabled">Premium etkin</string>
@@ -407,14 +379,12 @@
     <string name="menu_swap_pip_sound">Ana ekran ve PiP arasında sesi değiştirme</string>
     <string name="premium_fea_pre_vid_wp">Başka bir video oynatırken video önizlemesinin gösterilmesine izin ver</string>
     <string name="hint_click_icon">Bir kanal veya grubun simgesine tıklamak, bir bağlam menüsü açar (varsa).</string>
-    <string name="hint_right_menu">Sağ düğmeye basıldığında, seçilen kanal veya grubun içerik menüsü açılır (varsa).</string>
     <string name="hint_right_jump">Alfabetik olarak sıralanmış listelerde sağ düğmeye basıldığında hızlı atlama görünümü açılır.</string>
     <string name="category_recent_channels">Son</string>
     <string name="category_all_channels">Tüm kanallar</string>
     <string name="cfg_no_categories">Düz kanallar listesini kullanın (kategorisiz)</string>
     <string name="cfg_section_desc">Ürün Açıklaması</string>
     <string name="cfg_section_lists">Ayarları listeler</string>
-    <string name="cfg_section_sys">Sistem ayarları</string>
 
     <string name="cfg_switch_dummy_on">Basitleştirilmiş ayarlar moduna geçin</string>
     <string name="cfg_switch_dummy_off">Gelişmiş ayarlar moduna geç</string>
@@ -424,14 +394,12 @@
     <string name="setting_list_view_auto">masa (büyük simgeler, ekrana sığacak şekilde)</string>
     <string name="child_mode_unlock_cfg">Ayarların kilidini açmak için alt kodu girin</string>
     <string name="cfg_child_mode">Çocuk Modu</string>
-    <string name="cfg_child_mode_toggle">Çocuk moduna geç</string>
     <string name="cfg_child_mode_number">Bir çocuk modundan çıkmak için kod (4 hane)</string>
     <string name="cfg_play_deny_status">Akış durumunu gösterme</string>
     <string name="cfg_player_hud">Heads-up arayüzü tarzı</string>
     <string name="cfg_player_hud_1">Üst ve alt</string>
     <string name="cfg_player_hud_2">Alt kombine</string>
     <string name="cfg_player_hud_3">Üstte kombine</string>
-    <string name="never">asla</string>
     <string name="cfg_player_hide_menu">Menüyü gizlemek için zaman aşımı (saniye olarak)</string>
     <string name="choose_auto">Otomatik seç</string>
     <string name="cfg_stream_tech">Akış teknolojisi (varsa)</string>
@@ -502,12 +470,10 @@
     <string name="cfg_cat_recent">Son kanallar kategorisi</string>
     <string name="enable">etkinleştirme</string>
     <string name="save_between_launch">lansmanlar arasında tasarruf edin</string>
-    <string name="ch_pos_pin_1">En üste sabitle</string>
     <string name="cfg_no_teleguide">TV programı olmadığında sanal epg kaydı oluşturun</string>
     <string name="menu_qs_provider_multiple">Manuel olarak işaretle</string>
     <string name="category_recently_added">Son eklenenler</string>
     <string name="ask_finish_update">Yeni sürüm için güncelleme yapmak için uygulamayı yeniden başlat</string>
-    <string name="ch_pos_pin_minus1">Listede üste sabitle</string>
     <string name="cfg_premium_etc">Ve diğer birçok değerli fonksiyonlar</string>
     <string name="cfg_fine_tune_volume">Manuel ses seviyesi ince ayarı (sistem ses seviyesiyle sınırlı)</string>
 
@@ -515,7 +481,6 @@
     <string name="cfg_codec_vlc_sync">VLC kodeklerini senkronize modda kullanın (ses akışı kapattıktan sonra oynatıldığında yardımcı olabilir)</string>
     <string name="cfg_ch_more_epg">EPG\'den daha büyük kanal adını göster</string>
     <string name="show_menu_add_to_cont_watching">Daha sonra izlemeye devam et</string>
-    <string name="ch_pos_unpin">Konumundan ayır</string>
     <string name="cfg_exit_child_mode">Çocuk modundan çık</string>
     <string name="cfg_enter_child_mode">Alt moda gir</string>
     <string name="cfg_child_categories">Kanal kategorilerini göster</string>
@@ -526,7 +491,6 @@
     <string name="change_pip_size">Boyutu değiştir</string>
     <string name="change_pip_place">Ekrana taşı</string>
 
-    <string name="menu_settings_all">Tüm ayarları görüntüle</string>
     <string name="only_manually_added">sadece elle eklendi</string>
     <string name="check_for_updates">Güncellemeleri kontrol et</string>
     <string name="has_updates_starting">Güncelleme mevcut ve yakında başlayacak</string>
@@ -547,4 +511,36 @@
     <string name="pla_menu_type_grid">Kafes</string>
     <string name="ch_manage_use_internal">Dahili oynatıcı kullan</string>
     <string name="cat_manage_start_this_cat_on">Bu kategoriden başla</string>
+
+    <string name="cfg_show_ch_desc">Yayın açıklamasını göster</string>
+    <string name="cfg_show_archive_marker">Arşiv kullanılabilirliği işaretçisini göster</string>
+    <string name="studio_mode_open_in">Stüdyo Modunda Aç</string>
+    <string name="studio_mode_title">Stüdyo modu</string>
+    <string name="studio_mode_remove">Ekranı kaldır</string>
+    <string name="studio_mode_set_sound">Sesi etkinleştir</string>
+    <string name="studio_mode_add">Ekran ekle</string>
+    <string name="studio_mode_minimize">küçültmek</string>
+    <string name="studio_mode_maximize">maksimuma çıkarmak</string>
+    <string name="cfg_codec_system">sistem video görüntüsü</string>
+    <string name="provider_connections_reached">Sağlayıcınız bu kadar bağlantıya izin vermiyor.</string>
+    <string name="max_connections">İzin verilen maksimum bağlantı</string>
+    <string name="pro_sub_expiring">Aboneliğiniz sona eriyor. yenilemek</string>
+    <string name="mark_all_viewed">Tümünü görüntülendi olarak işaretle</string>
+    <string name="pos_rearrange">Listede yeniden düzenle</string>
+    <string name="pos_rearrange_clear">Listedeki özel konumları temizle</string>
+    <string name="restart">Tekrar başlat</string>
+    <string name="cfg_prov_settings">Tedarikçi ayarları</string>
+    <string name="cfg_prov_settings_desc">Sağlayıcıdan veri yüklenmesini etkiler</string>
+    <string name="cfg_prov_remove_sd">SD kanallarını kaldır</string>
+    <string name="cfg_prov_remove_sd_hd">Daha yüksek kalite tespit edilirse SD kanalları çıkarın</string>
+    <string name="cfg_prov_remove_tz">Kanalları farklı saat diliminden kaldırma</string>
+    <string name="cfg_prov_follow_includes">Bir oynatma listesine dahil etme takibi</string>
+    <string name="cfg_sys_settings">Sistem ayarları</string>
+    <string name="cfg_pla_hud_settings">Oyuncu arayüzü</string>
+    <string name="cfg_tv_guide_transparency">Arka plan saydamlığı</string>
+    <string name="on_top">yukarıdaki</string>
+    <string name="on_bottom">altında</string>
+    <string name="hint_long_ok_menu">OK düğmesine uzun basmak çoğu durumda özellikler ekranını açar</string>
+    <string name="save_state">Devlet kaydet</string>
+    <string name="restore_state">Durumu geri yükle</string>
 </resources>

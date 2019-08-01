@@ -8,7 +8,6 @@
     <string name="menu_search">Recherche vidéo</string>
     <string name="menu_live">Direct</string>
     <string name="menu_archive">Affiche les archives</string>
-    <string name="menu_vod">Vidéothèque</string>
     <string name="menu_settings">Paramètres</string>
     <string name="menu_error_require_provider_title">Le fournisseur OTT est requis</string>
     <string name="menu_error_require_provider_text">Ce district est disponible uniquement lorsque le fournisseur OTT est configuré. Sélectionnez une autre option ou configurez un fournisseur.</string>
@@ -146,30 +145,13 @@
     <string name="play_switch_codec_ext">Ouvrir dans un lecteur externe</string>
     <string name="disk_is_full">Le stockage est plein. Nettoyer un peu d\'espace.</string>
     <string name="channel_more_hide_desc">Supprimer de la liste</string>
-    <string name="change_applies_in_few_min">Le changement s\'appliquera dans quelques minutes</string>
     <string name="hud_short_volume">Le volume</string>
     <string name="hud_short_bright">Luminosité</string>
 
     <string name="settings_provider">Fournisseur</string>
-    <string name="settings_live">Diffusion en direct</string>
     <string name="settings_media_library">Médiathèque</string>
     <string name="settings_media_library_dnla">Analyser les sources UPnP / DNLA sur le réseau local</string>
     <string name="settings_media_library_prov_vod">Bibliothèque de médias du fournisseur d\'analyse si elle existe</string>
-
-
-    <string name="settings_archive">Archiver</string>
-    <string name="settings_archive_min_duration">Longueur vidéo minimale à afficher dans les archives</string>
-    <string name="settings_archive_max_duration">Longueur maximale de la vidéo à afficher dans les archives</string>
-    <string name="settings_archive_duration_name_u">Illimité</string>
-    <string name="settings_archive_duration_name_10m">10 minutes</string>
-    <string name="settings_archive_duration_name_20m">20 minutes</string>
-    <string name="settings_archive_duration_name_30m">30 minutes</string>
-    <string name="settings_archive_duration_name_40m">40 minutes</string>
-    <string name="settings_archive_duration_name_50m">50 minutes</string>
-    <string name="settings_archive_duration_name_1h">1 heure</string>
-    <string name="settings_archive_duration_name_2h">2 heures</string>
-    <string name="settings_archive_duration_name_3h">3 heures</string>
-
 
     <string name="settings_player">Joueur</string>
     <string name="settings_player_hide_ui">Masquer la superposition de l\'interface dans la lecture dans</string>
@@ -203,7 +185,6 @@
     <string name="settings_extended">Paramètres étendus</string>
     <string name="settings_extended_hide_adult">Masquer les catégories d\'adultes</string>
     <string name="settings_extended_auto_start_last_channel">Démarrer automatiquement le dernier canal joué</string>
-    <string name="settings_extended_user_epg_source">Source de données EPG supplémentaire (format xml.gz)</string>
     <string name="settings_schedule_epg_custom_only">N\'utiliser que des sources EPG spécifiées par l\'utilisateur</string>
     <string name="settings_schedule_epg_reload">Reload EPG teleguide…</string>
     <string name="settings_schedule_epg_clear">Effacer toutes les données EPG chargées…</string>
@@ -270,7 +251,6 @@
     <string name="settings_premium_what_included_3">Changement automatique de la fréquence d\'images en fonction de la vidéo</string>
     <string name="settings_premium_what_included_4">Contrôle de la vitesse de lecture pour les archives</string>
 
-    <string name="settings_premium_toggles">Paramètres Premium</string>
     <string name="settings_premium_toggles_try_afr">Taux de trame automatique pour correspondre à la vidéo</string>
     <string name="settings_premium_toggles_try_afr_toast">Affichage actuel pris en charge les taux de rafraîchissement</string>
 
@@ -315,7 +295,6 @@
     <string name="prov_btn_help">Aidez-moi</string>
     <string name="prov_help_telegram">Rejoindre le chat dans Telegram</string>
     <string name="settings_premium_what_included_5">Pas de pubs</string>
-    <string name="btn_change">Changement</string>
     <string name="invalid_domain">Le domaine est probablement invalide. Vérifiez votre saisie</string>
     <string name="example">Exemple</string>
     <string name="provider_generic">Fournisseur générique ou playlist</string>
@@ -341,13 +320,6 @@
     <string name="btn_close">Fermer</string>
     <string name="prem_sub_add_3m">Abonnement (facturé tous les 3 mois)</string>
     <string name="prem_sub_add_1y">Abonnez-vous (facturé chaque année)</string>
-    <string name="cfg_duration_8h">8 heures</string>
-    <string name="cfg_duration_1d">Un jour</string>
-    <string name="cfg_duration_2d">2 jours</string>
-    <string name="cfg_duration_3d">3 jours</string>
-    <string name="cfg_duration_1w">1 semaine</string>
-    <string name="cfg_duration_2w">2 semaines</string>
-    <string name="cfg_duration_1m">1 mois</string>
     <string name="premium_fea_pvsearch">Recherche vocale en regardant. Recherche de chaîne par nom ou contenu d\'archive.</string>
     <string name="cfg_play_action_vsearch">Recherche vocale</string>
     <string name="settings_premium_source_enabled">Premium activé</string>
@@ -407,14 +379,12 @@
     <string name="menu_swap_pip_sound">Permuter le son entre l\'écran principal et le PiP</string>
     <string name="premium_fea_pre_vid_wp">Autoriser l\'affichage de l\'aperçu vidéo lors de la lecture d\'une autre vidéo</string>
     <string name="hint_click_icon">En cliquant sur l\'icône d\'un canal ou d\'un groupe, un menu contextuel s\'ouvre (si disponible).</string>
-    <string name="hint_right_menu">Appuyez sur le bouton droit pour ouvrir un menu contextuel du canal ou du groupe sélectionné (le cas échéant).</string>
     <string name="hint_right_jump">Appuyez sur le bouton droit dans la plupart des listes triées par ordre alphabétique pour ouvrir une vue rapide.</string>
     <string name="category_recent_channels">Récent</string>
     <string name="category_all_channels">Toutes les chaînes</string>
     <string name="cfg_no_categories">Utiliser une liste de chaînes en clair (sans catégories)</string>
     <string name="cfg_section_desc">Description de l\'article</string>
     <string name="cfg_section_lists">Liste des paramètres</string>
-    <string name="cfg_section_sys">Les paramètres du système</string>
 
     <string name="cfg_switch_dummy_on">Passer en mode de configuration simplifié</string>
     <string name="cfg_switch_dummy_off">Passer en mode de paramètres avancés</string>
@@ -424,14 +394,12 @@
     <string name="setting_list_view_auto">table (grandes icônes, ajustement à l\'écran)</string>
     <string name="child_mode_unlock_cfg">Entrez le code enfant pour déverrouiller les paramètres</string>
     <string name="cfg_child_mode">Mode enfant</string>
-    <string name="cfg_child_mode_toggle">Passer en mode enfant</string>
     <string name="cfg_child_mode_number">Code pour quitter un mode enfant (4 chiffres)</string>
     <string name="cfg_play_deny_status">Ne pas afficher l\'état du flux</string>
     <string name="cfg_player_hud">Style d\'interface heads-up</string>
     <string name="cfg_player_hud_1">Haut et bas</string>
     <string name="cfg_player_hud_2">Combiné en bas</string>
     <string name="cfg_player_hud_3">Combiné en haut</string>
-    <string name="never">jamais</string>
     <string name="cfg_player_hide_menu">Délai d\'attente pour masquer le menu (en secondes)</string>
     <string name="choose_auto">Choisissez automatiquement</string>
     <string name="cfg_stream_tech">Technologie de flux (si disponible)</string>
@@ -502,12 +470,10 @@
     <string name="cfg_cat_recent">Catégorie de chaînes récentes</string>
     <string name="enable">activer</string>
     <string name="save_between_launch">enregistrer entre les lancements</string>
-    <string name="ch_pos_pin_1">Broche vers le haut</string>
     <string name="cfg_no_teleguide">Générer un enregistrement epg virtuel lorsqu\'aucun programme télévisé n\'est disponible</string>
     <string name="menu_qs_provider_multiple">Marquer manuellement</string>
     <string name="category_recently_added">Récemment ajouté</string>
     <string name="ask_finish_update">Redémarrez l\'application pour mettre à jour pour la version plus récente?</string>
-    <string name="ch_pos_pin_minus1">Épingle supérieure dans la liste</string>
     <string name="cfg_premium_etc">Et bien d\'autres fonctions utiles</string>
     <string name="cfg_fine_tune_volume">Réglage manuel du volume audio (limité par le volume du système)</string>
 
@@ -515,7 +481,6 @@
     <string name="cfg_codec_vlc_sync">Utiliser les codecs VLC en mode synchronisé (peut aider lorsque le son est lu après la fermeture du flux)</string>
     <string name="cfg_ch_more_epg">Afficher le nom de la chaîne plus grand que EPG</string>
     <string name="show_menu_add_to_cont_watching">Continuer à regarder plus tard</string>
-    <string name="ch_pos_unpin">Détacher de la position</string>
     <string name="cfg_exit_child_mode">Quitter le mode enfant</string>
     <string name="cfg_enter_child_mode">Entrer en mode enfant</string>
     <string name="cfg_child_categories">Afficher les catégories de chaînes</string>
@@ -526,7 +491,6 @@
     <string name="change_pip_size">Changer la taille</string>
     <string name="change_pip_place">Déplacer à l\'écran</string>
 
-    <string name="menu_settings_all">Voir tous les paramètres</string>
     <string name="only_manually_added">seulement ajouté manuellement</string>
     <string name="check_for_updates">Vérifier les mises à jour</string>
     <string name="has_updates_starting">La mise à jour est disponible et commencera bientôt</string>
@@ -547,4 +511,36 @@
     <string name="pla_menu_type_grid">la grille</string>
     <string name="ch_manage_use_internal">Utiliser un lecteur interne</string>
     <string name="cat_manage_start_this_cat_on">Commencer dans cette catégorie</string>
+
+    <string name="cfg_show_ch_desc">Afficher la description de la diffusion</string>
+    <string name="cfg_show_archive_marker">Afficher le marqueur de disponibilité des archives</string>
+    <string name="studio_mode_open_in">Ouvrir en mode studio</string>
+    <string name="studio_mode_title">Mode studio</string>
+    <string name="studio_mode_remove">Supprimer l\'écran</string>
+    <string name="studio_mode_set_sound">Activer le son</string>
+    <string name="studio_mode_add">Ajouter un écran</string>
+    <string name="studio_mode_minimize">Minimiser</string>
+    <string name="studio_mode_maximize">Maximiser</string>
+    <string name="cfg_codec_system">vue vidéo du système</string>
+    <string name="provider_connections_reached">Votre fournisseur n\'autorise pas beaucoup de connexions.</string>
+    <string name="max_connections">Nombre maximal de connexions autorisées</string>
+    <string name="pro_sub_expiring">Votre abonnement expire. Renouveler</string>
+    <string name="mark_all_viewed">Tout marquer comme vu</string>
+    <string name="pos_rearrange">Réorganiser dans la liste</string>
+    <string name="pos_rearrange_clear">Effacer les positions personnalisées dans la liste</string>
+    <string name="restart">Redémarrer</string>
+    <string name="cfg_prov_settings">Paramètres du fournisseur</string>
+    <string name="cfg_prov_settings_desc">Affecte le chargement des données du fournisseur</string>
+    <string name="cfg_prov_remove_sd">Supprimer les canaux SD</string>
+    <string name="cfg_prov_remove_sd_hd">Supprimer les canaux SD si une qualité supérieure est détectée</string>
+    <string name="cfg_prov_remove_tz">Supprimer des canaux d\'un fuseau horaire différent</string>
+    <string name="cfg_prov_follow_includes">Suivre inclus dans une playlist</string>
+    <string name="cfg_sys_settings">Les paramètres du système</string>
+    <string name="cfg_pla_hud_settings">Interface du joueur</string>
+    <string name="cfg_tv_guide_transparency">Transparence de fond</string>
+    <string name="on_top">au dessus de</string>
+    <string name="on_bottom">au dessous de</string>
+    <string name="hint_long_ok_menu">Un appui long sur le bouton OK ouvre la fenêtre des propriétés dans la plupart des cas</string>
+    <string name="save_state">Enregistrer l\'état</string>
+    <string name="restore_state">Restaurer l\'état</string>
 </resources>

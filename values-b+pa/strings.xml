@@ -8,7 +8,6 @@
     <string name="menu_search">ਵੀਡੀਓ ਖੋਜ</string>
     <string name="menu_live">ਸਿੱਧਾ ਪ੍ਰਸਾਰਣ</string>
     <string name="menu_archive">ਆਰਕਾਈਵ ਦਿਖਾਉਂਦਾ ਹੈ</string>
-    <string name="menu_vod">ਵੀਡੀਓ ਲਾਇਬ੍ਰੇਰੀ</string>
     <string name="menu_settings">ਸੈਟਿੰਗਾਂ</string>
     <string name="menu_error_require_provider_title">ਓ ਟੀ ਟੀ ਪ੍ਰਦਾਤਾ ਦੀ ਲੋੜ ਹੈ</string>
     <string name="menu_error_require_provider_text">ਇਹ ਜ਼ਿਲ੍ਹਾ ਸਿਰਫ ਉਦੋਂ ਉਪਲਬਧ ਹੁੰਦਾ ਹੈ ਜਦੋਂ OTT ਪ੍ਰਦਾਤਾ ਨੂੰ ਕੌਂਫਿਗਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ. ਜਾਂ ਤਾਂ ਇਕ ਹੋਰ ਵਿਕਲਪ ਦਾ ਚੋਣ ਕਰੋ, ਜਾਂ ਪ੍ਰਦਾਤਾ ਦੀ ਸੰਰਚਨਾ ਕਰੋ.</string>
@@ -146,30 +145,13 @@
     <string name="play_switch_codec_ext">ਬਾਹਰੀ ਪਲੇਅਰ ਵਿਚ ਖੋਲ੍ਹੋ</string>
     <string name="disk_is_full">ਸਟੋਰੇਜ ਪੂਰੀ ਹੈ ਕੁਝ ਥਾਂ ਸਾਫ ਕਰੋ.</string>
     <string name="channel_more_hide_desc">ਲਿਸਟ ਵਿੱਚੋਂ ਹਟਾਓ</string>
-    <string name="change_applies_in_few_min">ਬਦਲਾਵ ਕੁਝ ਮਿੰਟ ਵਿਚ ਲਾਗੂ ਹੋਣਗੇ</string>
     <string name="hud_short_volume">ਵਾਲੀਅਮ</string>
     <string name="hud_short_bright">ਚਮਕ</string>
 
     <string name="settings_provider">ਦੇਣ ਵਾਲੇ</string>
-    <string name="settings_live">ਲਾਈਵ ਪ੍ਰਸਾਰਣ</string>
     <string name="settings_media_library">ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ</string>
     <string name="settings_media_library_dnla">ਸਥਾਨਕ ਨੈਟਵਰਕ ਵਿੱਚ UPnP / DNLA ਸਰੋਤਾਂ ਨੂੰ ਸਕੈਨ ਕਰੋ</string>
     <string name="settings_media_library_prov_vod">ਸਕੈਨ ਪ੍ਰਦਾਤਾ ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ ਜੇ ਮੌਜੂਦ ਹੋਵੇ</string>
-
-
-    <string name="settings_archive">ਆਰਕਾਈਵ</string>
-    <string name="settings_archive_min_duration">ਪੁਰਾਲੇਖਾਂ ਵਿੱਚ ਦਿਖਾਉਣ ਲਈ ਘੱਟੋ ਘੱਟ ਵੀਡੀਓ ਦੀ ਲੰਬਾਈ</string>
-    <string name="settings_archive_max_duration">ਪੁਰਾਲੇਖ ਵਿਚ ਦਿਖਾਉਣ ਲਈ ਅਧਿਕਤਮ ਵੀਡੀਓ ਦੀ ਲੰਬਾਈ</string>
-    <string name="settings_archive_duration_name_u">ਅਸੀਮਤ</string>
-    <string name="settings_archive_duration_name_10m">10 ਮਿੰਟ</string>
-    <string name="settings_archive_duration_name_20m">20 ਮਿੰਟ</string>
-    <string name="settings_archive_duration_name_30m">30 ਮਿੰਟ</string>
-    <string name="settings_archive_duration_name_40m">40 ਮਿੰਟ</string>
-    <string name="settings_archive_duration_name_50m">50 ਮਿੰਟ</string>
-    <string name="settings_archive_duration_name_1h">1 ਘੰਟੇ</string>
-    <string name="settings_archive_duration_name_2h">2 ਘੰਟੇ</string>
-    <string name="settings_archive_duration_name_3h">3 ਘੰਟੇ</string>
-
 
     <string name="settings_player">ਪਲੇਅਰ</string>
     <string name="settings_player_hide_ui">ਪਲੇਅਬੈਕ ਵਿੱਚ UI ਓਵਰਲੇ ਓਹਲੇ ਕਰੋ</string>
@@ -203,7 +185,6 @@
     <string name="settings_extended">ਵਿਸਤ੍ਰਿਤ ਸੈਟਿੰਗ</string>
     <string name="settings_extended_hide_adult">ਬਾਲਗ ਸ਼੍ਰੇਣੀਆਂ ਨੂੰ ਓਹਲੇ ਕਰੋ</string>
     <string name="settings_extended_auto_start_last_channel">ਆਟੋਮੈਟਿਕ ਹੀ ਆਖਰੀ ਚਲਾਏ ਗਏ ਚੈਨਲ ਨੂੰ ਸ਼ੁਰੂ ਕਰੋ</string>
-    <string name="settings_extended_user_epg_source">ਵਾਧੂ ਈਪੀਜੀ ਡਾਟਾ ਸੋਰਸ (xml.gz ਫਾਰਮੈਟ)</string>
     <string name="settings_schedule_epg_custom_only">ਸਿਰਫ ਖਾਸ ਯੂਜ਼ਰ ਦੁਆਰਾ ਮੁਹੱਈਆ ਕੀਤੀ EPG ਸਰੋਤ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="settings_schedule_epg_reload">ਈਪੀਜੀ ਟੈਲੀਗਾਈਡ ਮੁੜ ਲੋਡ ਕਰੋ ...</string>
     <string name="settings_schedule_epg_clear">ਸਾਰਾ ਲੋਡ ਕੀਤਾ EPG ਡਾਟਾ ਸਾਫ਼ ਕਰੋ ...</string>
@@ -270,7 +251,6 @@
     <string name="settings_premium_what_included_3">ਵੀਡੀਓ ਨੂੰ ਮੇਲ ਕਰਨ ਲਈ ਆਟੋਮੈਟਿਕ ਫ੍ਰੇਮ ਰੇਟ ਸਵਿਚ ਕਰਨਾ</string>
     <string name="settings_premium_what_included_4">ਆਰਕਾਈਵਜ਼ ਲਈ ਪਲੇਬੈਕ ਸਪੀਡ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨਾ</string>
 
-    <string name="settings_premium_toggles">ਪ੍ਰੀਮੀਅਮ ਸੈਟਿੰਗਜ਼</string>
     <string name="settings_premium_toggles_try_afr">ਵੀਡੀਓ ਨੂੰ ਮੇਲ ਕਰਨ ਲਈ ਆਟੋ-ਸਵਿਚ ਫ੍ਰੇਮ ਰੇਟ</string>
     <string name="settings_premium_toggles_try_afr_toast">ਮੌਜੂਦਾ ਡਿਸਪਲੇਅ ਸਮਰਪਿਤ ਤਾਜ਼ਾ ਦਰ</string>
 
@@ -315,7 +295,6 @@
     <string name="prov_btn_help">ਮਦਦ ਕਰੋ</string>
     <string name="prov_help_telegram">ਟੈਲੀਗ੍ਰਾਮ ਵਿੱਚ ਚੈਟ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ</string>
     <string name="settings_premium_what_included_5">ਕੋਈ ਵਿਗਿਆਪਨ ਨਹੀਂ</string>
-    <string name="btn_change">ਬਦਲੋ</string>
     <string name="invalid_domain">ਡੋਮੇਨ ਸ਼ਾਇਦ ਅਯੋਗ ਹੈ ਆਪਣੇ ਇਨਪੁਟ ਦੀ ਜਾਂਚ ਕਰੋ</string>
     <string name="example">ਉਦਾਹਰਨ</string>
     <string name="provider_generic">ਆਮ ਪ੍ਰਦਾਤਾ ਜਾਂ ਪਲੇਲਿਸਟ</string>
@@ -341,13 +320,6 @@
     <string name="btn_close">ਬੰਦ ਕਰੋ</string>
     <string name="prem_sub_add_3m">ਗਾਹਕ ਬਣੋ (ਹਰੇਕ 3 ਮਹੀਨਿਆਂ ਲਈ ਬਿਲ)</string>
     <string name="prem_sub_add_1y">ਗਾਹਕ ਬਣੋ (ਹਰ ਸਾਲ ਬਿਲ)</string>
-    <string name="cfg_duration_8h">8 ਘੰਟੇ</string>
-    <string name="cfg_duration_1d">1 ਦਿਨ</string>
-    <string name="cfg_duration_2d">2 ਦਿਨ</string>
-    <string name="cfg_duration_3d">3 ਦਿਨ</string>
-    <string name="cfg_duration_1w">1 ਹਫ਼ਤੇ</string>
-    <string name="cfg_duration_2w">2 ਹਫ਼ਤੇ</string>
-    <string name="cfg_duration_1m">1 ਮਹੀਨੇ</string>
     <string name="premium_fea_pvsearch">ਦੇਖਣ ਦੌਰਾਨ ਵੌਇਸ ਖੋਜ. ਨਾਮ ਦੁਆਰਾ ਚੈਨਲ ਦੀ ਖੋਜ ਕਰੋ, ਜਾਂ ਪੁਰਾਲੇਖ ਸਮਗਰੀ ਨੂੰ.</string>
     <string name="cfg_play_action_vsearch">ਵੌਇਸ ਖੋਜ</string>
     <string name="settings_premium_source_enabled">ਪ੍ਰੀਮੀਅਮ ਸਮਰਥਿਤ</string>
@@ -407,14 +379,12 @@
     <string name="menu_swap_pip_sound">ਮੁੱਖ ਸਕ੍ਰੀਨ ਅਤੇ ਪਿਪ ਦੇ ਵਿਚਕਾਰ ਆਵਾਜ਼ ਸਵੈਪ ਕਰੋ</string>
     <string name="premium_fea_pre_vid_wp">ਕਿਸੇ ਹੋਰ ਵੀਡੀਓ ਨੂੰ ਚਲਾਉਂਦੇ ਸਮੇਂ ਵੀਡੀਓ ਪੂਰਵਦਰਸ਼ਨ ਨੂੰ ਦਿਖਾਓ</string>
     <string name="hint_click_icon">ਕਿਸੇ ਚੈਨਲ ਜਾਂ ਸਮੂਹ ਦੇ ਆਈਕਾਨ ਤੇ ਕਲਿਕ ਕਰਨ ਨਾਲ ਸੰਦਰਭ ਸੂਚੀ ਖੁੱਲਦੀ ਹੈ (ਜੇ ਉਪਲਬਧ ਹੋਵੇ).</string>
-    <string name="hint_right_menu">ਸੱਜਾ ਬਟਨ ਦਬਾਉਣ ਨਾਲ ਚੁਣੀ ਹੋਈ ਚੈਨਲ ਜਾਂ ਸਮੂਹ ਦਾ ਸੰਦਰਭ ਮੀਨੂ ਖੋਲ੍ਹਦਾ ਹੈ (ਜੇ ਉਪਲੱਬਧ ਹੋਵੇ).</string>
     <string name="hint_right_jump">ਜ਼ਿਆਦਾਤਰ ਵਰਣਮਾਲਾ ਅਨੁਸਾਰ ਕ੍ਰਮਬੱਧ ਸੂਚੀਆਂ ਵਿੱਚ ਸੱਜਾ ਬਟਨ ਦਬਾਉਣ ਨਾਲ ਇੱਕ ਤੇਜ਼ ਜੰਪ ਦ੍ਰਿਸ਼ ਖੁੱਲ੍ਹਦਾ ਹੈ.</string>
     <string name="category_recent_channels">ਹਾਲ ਹੀ</string>
     <string name="category_all_channels">ਸਾਰੇ ਚੈਨਲਸ</string>
     <string name="cfg_no_categories">ਸਾਦੇ ਚੈਨਲ ਸੂਚੀ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਬਿਨਾਂ ਵਰਗਾਂ ਨਾਲ)</string>
     <string name="cfg_section_desc">ਆਈਟਮ ਵਰਣਨ</string>
     <string name="cfg_section_lists">ਸੈਟਿੰਗਾਂ ਦੀ ਸੂਚੀ ਹੈ</string>
-    <string name="cfg_section_sys">ਸਿਸਟਮ ਸੈਟਿੰਗਜ਼</string>
 
     <string name="cfg_switch_dummy_on">ਸਧਾਰਨ ਸੈਟਿੰਗ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="cfg_switch_dummy_off">ਉੱਨਤ ਸੈਟਿੰਗ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
@@ -424,14 +394,12 @@
     <string name="setting_list_view_auto">ਸਾਰਣੀ (ਵੱਡੇ ਆਈਕਾਨ, ਸਕਰੀਨ ਫਿੱਟ)</string>
     <string name="child_mode_unlock_cfg">ਸੈਟਿੰਗਜ਼ ਨੂੰ ਅਨਲੌਕ ਕਰਨ ਲਈ ਬੱਚੇ ਦਾ ਕੋਡ ਦਰਜ ਕਰੋ</string>
     <string name="cfg_child_mode">ਬਾਲ ਮੋਡ</string>
-    <string name="cfg_child_mode_toggle">ਇੱਕ ਬਾਲ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="cfg_child_mode_number">ਚਾਈਲਡ ਮੋਡ ਤੋਂ ਬਾਹਰ ਜਾਣ ਲਈ ਕੋਡ (4 ਅੰਕ)</string>
     <string name="cfg_play_deny_status">ਸਟ੍ਰੀਮ ਸਥਿਤੀ ਨਾ ਦਿਖਾਓ</string>
     <string name="cfg_player_hud">ਸਿਰ-ਅੱਪ ਇੰਟਰਫੇਸ ਦੀ ਸ਼ੈਲੀ</string>
     <string name="cfg_player_hud_1">ਉੱਪਰ ਅਤੇ ਹੇਠਾਂ</string>
     <string name="cfg_player_hud_2">ਤਲ ਵਿੱਚ ਸੰਯੁਕਤ</string>
     <string name="cfg_player_hud_3">ਚੋਟੀ ਦੇ ਵਿੱਚ ਸੰਯੁਕਤ</string>
-    <string name="never">ਕਦੇ ਨਹੀਂ</string>
     <string name="cfg_player_hide_menu">ਮੇਨੂ ਲੁਕਾਉਣ ਲਈ ਟਾਈਮਆਉਟ (ਸਕਿੰਟਾਂ ਵਿੱਚ)</string>
     <string name="choose_auto">ਆਪਣੇ ਆਪ ਹੀ ਚੁਣੋ</string>
     <string name="cfg_stream_tech">ਸਟ੍ਰੀਮ ਤਕਨਾਲੋਜੀ (ਜੇ ਉਪਲੱਬਧ ਹੋਵੇ)</string>
@@ -502,12 +470,10 @@
     <string name="cfg_cat_recent">ਹਾਲੀਆ ਚੈਨਲ ਸ਼੍ਰੇਣੀ</string>
     <string name="enable">ਯੋਗ ਕਰੋ</string>
     <string name="save_between_launch">ਲਾਂਚਾਂ ਵਿਚਕਾਰ ਬਚਾਓ</string>
-    <string name="ch_pos_pin_1">ਸਿਖਰ ਤੇ ਪਿੰਨ ਕਰੋ</string>
     <string name="cfg_no_teleguide">ਕੋਈ ਟੀਵੀ-ਪ੍ਰੋਗਰਾਮ ਉਪਲਬਧ ਨਾ ਹੋਣ ਤੇ ਵਰਚੁਅਲ ਈਪੀਜੀ ਰਿਕਾਰਡ ਤਿਆਰ ਕਰੋ</string>
     <string name="menu_qs_provider_multiple">ਖੁਦ ਮਾਰਕ ਕਰੋ</string>
     <string name="category_recently_added">ਹਾਲ ਹੀ ਸ਼ਾਮਿਲ ਕੀਤਾ ਗਿਆ ਹੈ</string>
     <string name="ask_finish_update">ਨਵੇਂ ਵਰਜਨ ਲਈ ਅਪਡੇਟ ਕਰਨ ਲਈ ਐਪ ਨੂੰ ਰੀਸਟਾਰਟ ਕਰਨਾ ਹੈ?</string>
-    <string name="ch_pos_pin_minus1">ਸੂਚੀ ਵਿੱਚ ਸਿਖਰ ਤੇ ਪਿੰਨ ਕਰੋ</string>
     <string name="cfg_premium_etc">ਅਤੇ ਕਈ ਹੋਰ ਕੀਮਤੀ ਫੰਕਸ਼ਨ</string>
     <string name="cfg_fine_tune_volume">ਮੈਨੁਅਲ ਆਡੀਓ ਵਾਲੀਅਮ ਫਾਈਨ-ਟਿਊਨ (ਸਿਸਟਮ ਵਾਲੀਅਮ ਦੁਆਰਾ ਸੀਮਿਤ)</string>
 
@@ -515,7 +481,6 @@
     <string name="cfg_codec_vlc_sync">ਸਿੰਕ੍ਰੋਨਾਈਜ਼ਡ ਮੋਡ ਵਿੱਚ ਵੀਐਲਸੀ ਕੋਡੈਕਸ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਸਟ੍ਰੀਮ ਬੰਦ ਕਰਨ ਤੋਂ ਬਾਅਦ ਆਡੀਓ ਪਲੇਅਰਾਂ ਦੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ)</string>
     <string name="cfg_ch_more_epg">ਈਪੀਜੀ ਤੋਂ ਵੱਡਾ ਚੈਨਲ ਦਾ ਨਾਂ ਦਿਖਾਓ</string>
     <string name="show_menu_add_to_cont_watching">ਬਾਅਦ ਵਿੱਚ ਦੇਖਣਾ ਜਾਰੀ ਰੱਖੋ</string>
-    <string name="ch_pos_unpin">ਸਥਿਤੀ ਤੋਂ ਅਨਪਿਨ ਕਰੋ</string>
     <string name="cfg_exit_child_mode">ਬਾਲ ਮੋਡ ਤੋਂ ਬਾਹਰ ਨਿਕਲੋ</string>
     <string name="cfg_enter_child_mode">ਬਾਲ ਮੋਡ ਦਰਜ ਕਰੋ</string>
     <string name="cfg_child_categories">ਚੈਨਲ ਸ਼੍ਰੇਣੀਆਂ ਦਿਖਾਓ</string>
@@ -526,7 +491,6 @@
     <string name="change_pip_size">ਆਕਾਰ ਬਦਲੋ</string>
     <string name="change_pip_place">ਸਕ੍ਰੀਨ ਤੇ ਮੂਵ ਕਰੋ</string>
 
-    <string name="menu_settings_all">ਸਾਰੀਆਂ ਸੈਟਿੰਗਾਂ ਦੇਖੋ</string>
     <string name="only_manually_added">ਸਿਰਫ ਦਸਤੀ ਸ਼ਾਮਿਲ</string>
     <string name="check_for_updates">ਅਪਡੇਟਾਂ ਲਈ ਚੈੱਕ ਕਰੋ</string>
     <string name="has_updates_starting">ਅਪਡੇਟ ਉਪਲਬਧ ਹੈ ਅਤੇ ਛੇਤੀ ਹੀ ਸ਼ੁਰੂ ਹੋ ਜਾਵੇਗਾ</string>
@@ -547,4 +511,36 @@
     <string name="pla_menu_type_grid">ਗਰਿੱਡ</string>
     <string name="ch_manage_use_internal">ਅੰਦਰੂਨੀ ਖਿਡਾਰੀ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="cat_manage_start_this_cat_on">ਇਸ ਸ਼੍ਰੇਣੀ ਤੋਂ ਸ਼ੁਰੂ ਕਰੋ</string>
+
+    <string name="cfg_show_ch_desc">ਪ੍ਰਸਾਰਣ ਵੇਰਵਾ ਦਿਖਾਓ</string>
+    <string name="cfg_show_archive_marker">ਪੁਰਾਲੇਖ ਦੀ ਉਪਲਬਧਤਾ ਮਾਰਕਰ ਦਿਖਾਓ</string>
+    <string name="studio_mode_open_in">ਸਟੂਡੀਓ ਮੋਡ ਵਿੱਚ ਖੋਲ੍ਹੋ</string>
+    <string name="studio_mode_title">ਸਟੂਡੀਓ ਮੋਡ</string>
+    <string name="studio_mode_remove">ਸਕ੍ਰੀਨ ਹਟਾਓ</string>
+    <string name="studio_mode_set_sound">ਆਵਾਜ਼ ਨੂੰ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="studio_mode_add">ਸਕ੍ਰੀਨ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="studio_mode_minimize">ਘੱਟੋ ਘੱਟ</string>
+    <string name="studio_mode_maximize">ਵੱਧੋ ਵੱਧ</string>
+    <string name="cfg_codec_system">ਸਿਸਟਮ ਵੀਡੀਓ ਝਲਕ</string>
+    <string name="provider_connections_reached">ਤੁਹਾਡਾ ਪ੍ਰਦਾਤਾ ਇੰਨੇ ਕੁਨੈਕਸ਼ਨਾਂ ਦੀ ਆਗਿਆ ਨਹੀਂ ਦਿੰਦਾ.</string>
+    <string name="max_connections">ਵੱਧ ਤੋਂ ਵੱਧ ਇਜਾਜ਼ਤ ਦਿੱਤੇ ਕੁਨੈਕਸ਼ਨ</string>
+    <string name="pro_sub_expiring">ਤੁਹਾਡੀ ਗਾਹਕੀ ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਰਹੀ ਹੈ. ਨਵੀਨੀਕਰਣ</string>
+    <string name="mark_all_viewed">ਸਾਰੇ ਵੇਖੇ ਅਨੁਸਾਰ ਮਾਰਕ ਕਰੋ</string>
+    <string name="pos_rearrange">ਸੂਚੀ ਵਿੱਚ ਦੁਬਾਰਾ ਪ੍ਰਬੰਧ ਕਰੋ</string>
+    <string name="pos_rearrange_clear">ਸੂਚੀ ਵਿਚ ਕਸਟਮ ਅਹੁਦਿਆਂ ਨੂੰ ਸਾਫ ਕਰੋ</string>
+    <string name="restart">ਮੁੜ ਚਾਲੂ ਕਰੋ</string>
+    <string name="cfg_prov_settings">ਪ੍ਰਦਾਤਾ ਸੈਟਿੰਗਜ਼</string>
+    <string name="cfg_prov_settings_desc">ਪ੍ਰਦਾਤਾ ਤੋਂ ਡਾਟਾ ਲੋਡਿੰਗ ਨੂੰ ਪ੍ਰਭਾਵਤ ਕਰਦਾ ਹੈ</string>
+    <string name="cfg_prov_remove_sd">SD ਚੈਨਲ ਹਟਾਓ</string>
+    <string name="cfg_prov_remove_sd_hd">SD ਚੈਨਲਸ ਨੂੰ ਹਟਾਓ ਜੇ ਉੱਚ ਗੁਣਵੱਤਾ ਦਾ ਪਤਾ ਲੱਗਿਆ</string>
+    <string name="cfg_prov_remove_tz">ਵੱਖਰੇ ਟਾਈਮ ਜ਼ੋਨ ਤੋਂ ਚੈਨਲ ਹਟਾਓ</string>
+    <string name="cfg_prov_follow_includes">ਇੱਕ ਪਲੇਲਿਸਟ ਵਿੱਚ ਸ਼ਾਮਲ ਦੀ ਪਾਲਣਾ ਕਰੋ</string>
+    <string name="cfg_sys_settings">ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ</string>
+    <string name="cfg_pla_hud_settings">ਪਲੇਅਰ ਇੰਟਰਫੇਸ</string>
+    <string name="cfg_tv_guide_transparency">ਪਿਛੋਕੜ ਪਾਰਦਰਸ਼ਤਾ</string>
+    <string name="on_top">ਉਪਰ</string>
+    <string name="on_bottom">ਹੇਠਾਂ</string>
+    <string name="hint_long_ok_menu">ਲੰਬੇ ਸਮੇਂ ਤੋਂ ਦਬਾਉਣ ਵਾਲਾ ਓਕੇ ਬਟਨ ਜ਼ਿਆਦਾਤਰ ਮਾਮਲਿਆਂ ਵਿੱਚ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਸਕ੍ਰੀਨ ਖੋਲ੍ਹਦਾ ਹੈ</string>
+    <string name="save_state">ਰਾਜ ਨੂੰ ਬਚਾਓ</string>
+    <string name="restore_state">ਸਥਿਤੀ ਨੂੰ ਬਹਾਲ ਕਰੋ</string>
 </resources>

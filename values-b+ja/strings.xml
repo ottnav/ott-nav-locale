@@ -8,7 +8,6 @@
     <string name="menu_search">ビデオ検索</string>
     <string name="menu_live">ライブストリーム</string>
     <string name="menu_archive">アーカイブを表示</string>
-    <string name="menu_vod">ビデオライブラリ</string>
     <string name="menu_settings">設定</string>
     <string name="menu_error_require_provider_title">OTTプロバイダが必要です</string>
     <string name="menu_error_require_provider_text">この地区は、OTTプロバイダが設定されている場合にのみ使用できます。別のオプションを選択するか、プロバイダーを構成します。</string>
@@ -146,30 +145,13 @@
     <string name="play_switch_codec_ext">外部プレーヤーで開く</string>
     <string name="disk_is_full">ストレージがいっぱいです。いくつかのスペースをクリーンアップします。</string>
     <string name="channel_more_hide_desc">リストから削除する</string>
-    <string name="change_applies_in_few_min">変更は数分で適用されます</string>
     <string name="hud_short_volume">ボリューム</string>
     <string name="hud_short_bright">輝度</string>
 
     <string name="settings_provider">プロバイダ</string>
-    <string name="settings_live">ライブ放送</string>
     <string name="settings_media_library">メディアライブラリ</string>
     <string name="settings_media_library_dnla">ローカルネットワーク内のUPnP / DNLAソースをスキャンする</string>
     <string name="settings_media_library_prov_vod">スキャンプロバイダメディアライブラリが存在する場合</string>
-
-
-    <string name="settings_archive">アーカイブ</string>
-    <string name="settings_archive_min_duration">アーカイブに表示する最小のビデオ長</string>
-    <string name="settings_archive_max_duration">アーカイブに表示する動画の最大長</string>
-    <string name="settings_archive_duration_name_u">無制限</string>
-    <string name="settings_archive_duration_name_10m">10分</string>
-    <string name="settings_archive_duration_name_20m">20分</string>
-    <string name="settings_archive_duration_name_30m">30分</string>
-    <string name="settings_archive_duration_name_40m">40分</string>
-    <string name="settings_archive_duration_name_50m">50分</string>
-    <string name="settings_archive_duration_name_1h">1時間</string>
-    <string name="settings_archive_duration_name_2h">2時間</string>
-    <string name="settings_archive_duration_name_3h">3時間</string>
-
 
     <string name="settings_player">プレーヤー</string>
     <string name="settings_player_hide_ui">再生時のUIオーバーレイを非表示にする</string>
@@ -203,7 +185,6 @@
     <string name="settings_extended">拡張設定</string>
     <string name="settings_extended_hide_adult">大人のカテゴリを隠す</string>
     <string name="settings_extended_auto_start_last_channel">最後に再生したチャンネルを自動的に開始する</string>
-    <string name="settings_extended_user_epg_source">追加のEPGデータソース（xml.gz形式）</string>
     <string name="settings_schedule_epg_custom_only">指定されたユーザー指定のEPGソースのみを使用する</string>
     <string name="settings_schedule_epg_reload">Reload EPG teleguide ...</string>
     <string name="settings_schedule_epg_clear">ロードされたすべてのEPGデータをクリア...</string>
@@ -270,7 +251,6 @@
     <string name="settings_premium_what_included_3">ビデオと一致する自動フレームレート切り替え</string>
     <string name="settings_premium_what_included_4">アーカイブの再生速度の制御</string>
 
-    <string name="settings_premium_toggles">プレミアム設定</string>
     <string name="settings_premium_toggles_try_afr">ビデオと一致する自動切り替えフレームレート</string>
     <string name="settings_premium_toggles_try_afr_toast">現在サポートされているリフレッシュレート</string>
 
@@ -317,7 +297,6 @@
     <string name="prov_btn_help">助けて</string>
     <string name="prov_help_telegram">テレグラムでチャットに参加する</string>
     <string name="settings_premium_what_included_5">広告なし</string>
-    <string name="btn_change">変化する</string>
     <string name="invalid_domain">ドメインはおそらく無効です。入力を確認する</string>
     <string name="example">例</string>
     <string name="provider_generic">一般的なプロバイダまたはプレイリスト</string>
@@ -343,13 +322,6 @@
     <string name="btn_close">閉じる</string>
     <string name="prem_sub_add_3m">購読する（3か月ごとに請求）</string>
     <string name="prem_sub_add_1y">購読する（毎年請求される）</string>
-    <string name="cfg_duration_8h">8時間</string>
-    <string name="cfg_duration_1d">1日</string>
-    <string name="cfg_duration_2d">2日</string>
-    <string name="cfg_duration_3d">3日</string>
-    <string name="cfg_duration_1w">1週間</string>
-    <string name="cfg_duration_2w">2週間</string>
-    <string name="cfg_duration_1m">1ヶ月</string>
     <string name="premium_fea_pvsearch">見ながら音声検索。名前でチャンネルを検索するか、コンテンツをアーカイブします。</string>
     <string name="cfg_play_action_vsearch">音声検索</string>
     <string name="settings_premium_source_enabled">プレミアム対応</string>
@@ -409,14 +381,12 @@
     <string name="menu_swap_pip_sound">メイン画面とPiPの間でサウンドを交換する</string>
     <string name="premium_fea_pre_vid_wp">別のビデオの再生中にビデオプレビューを表示することを許可する</string>
     <string name="hint_click_icon">チャンネルまたはグループのアイコンをクリックすると、コンテキストメニューが表示されます（利用可能な場合）。</string>
-    <string name="hint_right_menu">右ボタンを押すと、選択されたチャンネルまたはグループのコンテキストメニューが開きます（利用可能な場合）。</string>
     <string name="hint_right_jump">アルファベット順にソートされたリストのほとんどで右ボタンを押すとクイックジャンプビューが開きます。</string>
     <string name="category_recent_channels">最近</string>
     <string name="category_all_channels">全チャンネル</string>
     <string name="cfg_no_categories">通常のチャンネルリストを使用する（カテゴリなし）</string>
     <string name="cfg_section_desc">アイテム説明</string>
     <string name="cfg_section_lists">設定を一覧表示する</string>
-    <string name="cfg_section_sys">システム設定</string>
 
     <string name="cfg_switch_dummy_on">簡易設定モードに切り替える</string>
     <string name="cfg_switch_dummy_off">詳細設定モードに切り替える</string>
@@ -426,14 +396,12 @@
     <string name="setting_list_view_auto">テーブル（大きなアイコン、画面にフィット）</string>
     <string name="child_mode_unlock_cfg">設定をロック解除するための子コードを入力してください</string>
     <string name="cfg_child_mode">子モード</string>
-    <string name="cfg_child_mode_toggle">子モードに切り替える</string>
     <string name="cfg_child_mode_number">子モードを終了するコード（4桁）</string>
     <string name="cfg_play_deny_status">ストリームステータスを表示しない</string>
     <string name="cfg_player_hud">ヘッドアップインターフェースのスタイル</string>
     <string name="cfg_player_hud_1">上下</string>
     <string name="cfg_player_hud_2">下に合わせて</string>
     <string name="cfg_player_hud_3">上に組み合わせる</string>
-    <string name="never">決して</string>
     <string name="cfg_player_hide_menu">メニューを非表示にするためのタイムアウト（秒）</string>
     <string name="choose_auto">自動的に選択</string>
     <string name="cfg_stream_tech">ストリームテクノロジ（利用可能な場合）</string>
@@ -504,12 +472,10 @@
     <string name="cfg_cat_recent">最近のチャンネルカテゴリ</string>
     <string name="enable">有効にする</string>
     <string name="save_between_launch">起動間を節約</string>
-    <string name="ch_pos_pin_1">上に固定</string>
     <string name="cfg_no_teleguide">利用可能なテレビ番組がないときに仮想epgレコードを生成する</string>
     <string name="menu_qs_provider_multiple">手動でマークする</string>
     <string name="category_recently_added">最近追加された</string>
     <string name="ask_finish_update">新しいバージョンにアップデートするためにアプリを再起動しますか？</string>
-    <string name="ch_pos_pin_minus1">リストの上のピン</string>
     <string name="cfg_premium_etc">そして他の多くの貴重な機能</string>
     <string name="cfg_fine_tune_volume">手動オーディオ音量微調整（システム音量によって制限されます）</string>
 
@@ -517,7 +483,6 @@
     <string name="cfg_codec_vlc_sync">同期モードでVLCコーデックを使用する（ストリームを閉じた後にオーディオが再生されるときに役立つ場合があります）</string>
     <string name="cfg_ch_more_epg">EPGより大きいチャンネル名を表示</string>
     <string name="show_menu_add_to_cont_watching">後で見続ける</string>
-    <string name="ch_pos_unpin">位置から固定解除</string>
     <string name="cfg_exit_child_mode">子モードを終了</string>
     <string name="cfg_enter_child_mode">子モードに入る</string>
     <string name="cfg_child_categories">チャンネルカテゴリを表示</string>
@@ -528,7 +493,6 @@
     <string name="change_pip_size">サイズ変更</string>
     <string name="change_pip_place">画面上を移動する</string>
 
-    <string name="menu_settings_all">すべての設定を見る</string>
     <string name="only_manually_added">手動でのみ追加</string>
     <string name="check_for_updates">アップデートを確認</string>
     <string name="has_updates_starting">アップデートが利用可能であり、すぐに開始されます</string>
@@ -549,4 +513,36 @@
     <string name="pla_menu_type_grid">グリッド</string>
     <string name="ch_manage_use_internal">内部プレーヤーを使用</string>
     <string name="cat_manage_start_this_cat_on">このカテゴリから始める</string>
+
+    <string name="cfg_show_ch_desc">ブロードキャストの説明を表示</string>
+    <string name="cfg_show_archive_marker">アーカイブの可用性マーカーを表示</string>
+    <string name="studio_mode_open_in">スタジオモードで開く</string>
+    <string name="studio_mode_title">スタジオモード</string>
+    <string name="studio_mode_remove">画面を削除</string>
+    <string name="studio_mode_set_sound">サウンドを有効にする</string>
+    <string name="studio_mode_add">画面を追加</string>
+    <string name="studio_mode_minimize">最小化</string>
+    <string name="studio_mode_maximize">最大化</string>
+    <string name="cfg_codec_system">システムビデオビュー</string>
+    <string name="provider_connections_reached">プロバイダーは、それほど多くの接続を許可していません。</string>
+    <string name="max_connections">最大許容接続</string>
+    <string name="pro_sub_expiring">サブスクリプションの有効期限が切れています。更新する</string>
+    <string name="mark_all_viewed">すべて表示済みとしてマークする</string>
+    <string name="pos_rearrange">リスト内で並べ替える</string>
+    <string name="pos_rearrange_clear">リスト内のカスタムポジションをクリアする</string>
+    <string name="restart">再起動</string>
+    <string name="cfg_prov_settings">プロバイダー設定</string>
+    <string name="cfg_prov_settings_desc">プロバイダーからのデータの読み込みに影響します</string>
+    <string name="cfg_prov_remove_sd">SDチャンネルを削除する</string>
+    <string name="cfg_prov_remove_sd_hd">高品質が検出された場合、SDチャネルを削除します</string>
+    <string name="cfg_prov_remove_tz">別のタイムゾーンからチャンネルを削除する</string>
+    <string name="cfg_prov_follow_includes">プレイリストのインクルードをフォロー</string>
+    <string name="cfg_sys_settings">システム設定</string>
+    <string name="cfg_pla_hud_settings">プレイヤーインターフェース</string>
+    <string name="cfg_tv_guide_transparency">背景の透明度</string>
+    <string name="on_top">上</string>
+    <string name="on_bottom">以下</string>
+    <string name="hint_long_ok_menu">[OK]ボタンを長押しすると、ほとんどの場合プロパティ画面が開きます</string>
+    <string name="save_state">状態を保存</string>
+    <string name="restore_state">状態を復元する</string>
 </resources>

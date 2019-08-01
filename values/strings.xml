@@ -7,7 +7,6 @@
     <string name="menu_search">Video search</string>
     <string name="menu_live">Live stream</string>
     <string name="menu_archive">Shows archive</string>
-    <string name="menu_vod">Video library</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_error_require_provider_title">OTT provider is required</string>
     <string name="menu_error_require_provider_text">This district is available only when OTT provider is configured. Either select another option, or configure a provider.</string>
@@ -141,31 +140,14 @@
     <string name="play_switch_codec_ext">Open in external player</string>
     <string name="disk_is_full">Storage is full. Clean up some space.</string>
     <string name="channel_more_hide_desc">Remove from the list</string>
-    <string name="change_applies_in_few_min">Change will apply in a few minutes</string>
     <string name="hud_short_volume">Volume</string>
     <string name="hud_short_bright">Brightness</string>
 
     <string name="settings_provider">Provider</string>
-    <string name="settings_live">Live broadcast</string>
     <string name="settings_media_library">Media library</string>
     <string name="settings_media_library_dnla">Scan UPnP/DNLA sources in local network</string>
     <string name="settings_media_library_prov_vod">Scan provider media library if exists</string>
 
-    <!-- Archive -->
-    <string name="settings_archive">Archive</string>
-    <string name="settings_archive_min_duration">Minimal video length to show in archives</string>
-    <string name="settings_archive_max_duration">Maximal video length to show in archives</string>
-    <string name="settings_archive_duration_name_u">Unlimited</string>
-    <string name="settings_archive_duration_name_10m">10 minutes</string>
-    <string name="settings_archive_duration_name_20m">20 minutes</string>
-    <string name="settings_archive_duration_name_30m">30 minutes</string>
-    <string name="settings_archive_duration_name_40m">40 minutes</string>
-    <string name="settings_archive_duration_name_50m">50 minutes</string>
-    <string name="settings_archive_duration_name_1h">1 hour</string>
-    <string name="settings_archive_duration_name_2h">2 hours</string>
-    <string name="settings_archive_duration_name_3h">3 hours</string>
-
-    <!-- Player -->
     <string name="settings_player">Player</string>
     <string name="settings_player_hide_ui">Hide UI overlay in playback in</string>
     <string name="sec1">1 second</string>
@@ -194,11 +176,9 @@
         <item>10 hours</item>
     </string-array>
 
-    <!-- Extended -->
     <string name="settings_extended">Extended settings</string>
     <string name="settings_extended_hide_adult">Hide adult categories</string>
     <string name="settings_extended_auto_start_last_channel">Automatically start last played channel</string>
-    <string name="settings_extended_user_epg_source">Additional EPG data source (xml.gz format)</string>
     <string name="settings_schedule_epg_custom_only">Only use specified user-provided EPG sources</string>
     <string name="settings_schedule_epg_reload">Reload EPG teleguide…</string>
     <string name="settings_schedule_epg_clear">Clear all loaded EPG data…</string>
@@ -254,7 +234,6 @@
 
     <string name="settings_external_player">External player</string>
 
-    <!-- Premium -->
     <string name="settings_premium">Premium</string>
     <string name="settings_premium_source_purchase">Premium purchased</string>
     <string name="settings_premium_source_subscription">Premium subscribed</string>
@@ -265,7 +244,6 @@
     <string name="settings_premium_what_included_3">Automatic frame rate switching to match video</string>
     <string name="settings_premium_what_included_4">Controlling playback speed for archives</string>
 
-    <string name="settings_premium_toggles">Premium settings</string>
     <string name="settings_premium_toggles_try_afr">Auto-switch frame rate to match video</string>
     <string name="settings_premium_toggles_try_afr_toast">Current display supported refresh rates</string>
 
@@ -277,7 +255,6 @@
     <string name="settings_premium_toggle_btn_buy_no_ads">Buy no ads pack (also included in all Premium packs)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Disable ads forever by a single payment</string>
 
-    <!-- 1.4.1 -->
     <string name="setting_list_view_title">How lists should be displayed</string>
     <string name="setting_list_view1">simple list</string>
     <string name="setting_list_view2">table (2 columns) with description</string>
@@ -298,7 +275,6 @@
     <string name="cfg_trans_wind">Use transparent interface</string>
     <string name="cfg_list_poster_time">Show poster duration (seconds, if available)</string>
 
-    <!-- 1.4.2 -->
     <string name="do_not_show">do not show</string>
     <string name="android_not_genuine">Purchases might not work on your device.</string>
     <string name="menu_error_require_status_archive_text">Archive data is not available yet. If this is delayed for a long time it usually means that no TV-program data (EPG) is available. In this case you can schedule EPG reload in settings or search for a better EPG sources and configure them.</string>
@@ -312,7 +288,6 @@
     <string name="prov_btn_help">Help</string>
     <string name="prov_help_telegram">Join chat in Telegram</string>
     <string name="settings_premium_what_included_5">No ads</string>
-    <string name="btn_change">Change</string>
     <string name="invalid_domain">Domain is probably invalid. Check your input</string>
     <string name="example">Example</string>
     <string name="provider_generic">Generic provider or playlist</string>
@@ -323,7 +298,6 @@
     <string name="wifi_display">Wireless display</string>
     <string name="wifi_display_desc">Play stream on another device</string>
 
-    <!-- 1.4.3 -->
     <string name="cfg_play_action_fav">open favorite channel selection</string>
     <string name="cfg_play_action_pp">pause or resume play</string>
     <string name="cfg_play_action_btn_red">Action for Red button</string>
@@ -339,13 +313,6 @@
     <string name="btn_close">Close</string>
     <string name="prem_sub_add_3m">Subscribe (billed each 3 months)</string>
     <string name="prem_sub_add_1y">Subscribe (billed each year)</string>
-    <string name="cfg_duration_8h">8 hours</string>
-    <string name="cfg_duration_1d">1 day</string>
-    <string name="cfg_duration_2d">2 days</string>
-    <string name="cfg_duration_3d">3 days</string>
-    <string name="cfg_duration_1w">1 week</string>
-    <string name="cfg_duration_2w">2 weeks</string>
-    <string name="cfg_duration_1m">1 month</string>
     <string name="premium_fea_pvsearch">Voice search while watching. Search for channel by name, or archive contents.</string>
     <string name="cfg_play_action_vsearch">voice search</string>
     <string name="settings_premium_source_enabled">Premium enabled</string>
@@ -357,7 +324,7 @@
     <string name="err_archive_is_shorter">Archive for this channel has shorter lifetime on your provider</string>
     <string name="cfg_no_seek">Emulate seek by reopening stream from new position every time</string>
     <string name="cfg_section_backup">Backup and restore</string>
-    <string name="btn_backup_info">Backup is storied by a key. Write it down as soon as the backup is complete. There is no guarantee how long the backup will be available.</string>
+    <string name="btn_backup_info">Backup is stored by a key. Write it down as soon as the backup is complete. There is no guarantee how long the backup will be available.</string>
     <string name="btn_backup_data">Backup current configuration</string>
     <string name="btn_backup_load">Load a previously made configuration backup</string>
     <string name="err_need_newer_android">Newer Android version is required for this feature</string>
@@ -367,14 +334,12 @@
     <string name="cfg_play_action_2live">Switch to live broadcast of the current channel</string>
     <string name="player_menu_2live">Switch to live</string>
 
-    <!-- 1.4.4 -->
     <string name="cfg_pl_offs_swipe">Move volume and brightness touch panel from edge of the screen</string>
     <string name="btn_seek">Seek</string>
     <string name="cfg_play_action_mseek">Starts video seeking view</string>
     <string name="menu_exit">Exit</string>
     <string name="hint_try_premium_sub_free">You can try a subscription once for free for several days while deciding whatever to use it, or not. Check details of subscription packages.</string>
 
-    <!-- 1.4.5 -->
     <string name="premium_fea_pre_vid">Show selected video preview in description</string>
     <string name="vp_audio_shift">Audio shift</string>
     <string name="vp_audio_shift_desc">Sync audio with video</string>
@@ -407,16 +372,13 @@
     <string name="menu_swap_pip_sound">Swap sound between main screen and PiP</string>
     <string name="premium_fea_pre_vid_wp">Allow video preview to be shown while playing another video</string>
     <string name="hint_click_icon">Clicking the icon of a channel or group opens a context menu (if available).</string>
-    <string name="hint_right_menu">Pressing right button opens a context menu of selected channel or group (if available).</string>
     <string name="hint_right_jump">Pressing right button in most alphabetically sorted lists opens a quick jump view.</string>
     <string name="category_recent_channels">Recent</string>
     <string name="category_all_channels">All channels</string>
     <string name="cfg_no_categories">Use plain channels list (with no categories)</string>
     <string name="cfg_section_desc">Item description</string>
     <string name="cfg_section_lists">Lists settings</string>
-    <string name="cfg_section_sys">System settings</string>
 
-    <!-- 1.4.6 -->
     <string name="cfg_switch_dummy_on">Switch to simplified settings mode</string>
     <string name="cfg_switch_dummy_off">Switch to advanced settings mode</string>
     <string name="cfg_no_hints">Do not show hints</string>
@@ -425,19 +387,16 @@
     <string name="setting_list_view_auto">table (large icons, fit the screen)</string>
     <string name="child_mode_unlock_cfg">Enter child code to unlock settings</string>
     <string name="cfg_child_mode">Child mode</string>
-    <string name="cfg_child_mode_toggle">Switch to a child mode</string>
     <string name="cfg_child_mode_number">Code to exit a child mode (4 digits)</string>
     <string name="cfg_play_deny_status">Do not show stream status</string>
     <string name="cfg_player_hud">Style of heads-up interface</string>
     <string name="cfg_player_hud_1">Top and bottom</string>
     <string name="cfg_player_hud_2">Combined in bottom</string>
     <string name="cfg_player_hud_3">Combined in top</string>
-    <string name="never">never</string>
     <string name="cfg_player_hide_menu">Timeout to hide menu (in seconds)</string>
-    <string name="choose_auto">Choose automatically</string>возможность
+    <string name="choose_auto">Choose automatically</string>
     <string name="cfg_stream_tech">Stream technology (if available)</string>
 
-    <!-- 1.4.7 -->
     <string name="cfg_show_ch_numbers">Show channel numbers</string>
     <string name="always">always</string>
     <string name="cfg_play_action_sinfo">view current info about current tv program</string>
@@ -466,7 +425,6 @@
     <string name="cfg_codec_exo_max">best match</string>
     <string name="cfg_codec_exo_compat">compatibility mode</string>
 
-    <!-- 1.4.8 -->
     <string name="suggest_better_prov_tpl">Seems that there is a better template for your provider</string>
     <string name="place_pl_to_downloads">No valid playlist found in downloads</string>
     <string name="only_1_active">Premium required to have several active providers at the same time</string>
@@ -493,7 +451,6 @@
     <string name="ch_manage_status_child">child</string>
     <string name="show_future_search_in_other">Search in external apps</string>
 
-    <!-- 1.4.9 -->
     <string name="cfg_channel_manager_filters">Filters</string>
     <string name="menu_suggest_premium">Ready to explore exciting premium features?</string>
     <string name="cfg_epg_update_frequency">Update frequency (in hours)</string>
@@ -506,21 +463,17 @@
     <string name="cfg_cat_recent">Recent channels category</string>
     <string name="enable">enable</string>
     <string name="save_between_launch">save between launches</string>
-    <string name="ch_pos_pin_1">Pin to top</string>
     <string name="cfg_no_teleguide">Generate virtual epg record when no tv-program available</string>
     <string name="menu_qs_provider_multiple">Mark manually</string>
     <string name="category_recently_added">Recently added</string>
     <string name="ask_finish_update">Restart the app to update for newer version?</string>
-    <string name="ch_pos_pin_minus1">Pin upper in list</string>
     <string name="cfg_premium_etc">And many other valuable functions</string>
     <string name="cfg_fine_tune_volume">Manual audio volume fine-tune (limited by system volume)</string>
 
-    <!-- 1.5.0 -->
     <string name="cfg_arch_unp">Automatically reopen archive when unpausing live stream</string>
     <string name="cfg_codec_vlc_sync">Use VLC codecs in synchronized mode (might help when audio plays after closing stream)</string>
     <string name="cfg_ch_more_epg">Show channel name larger than EPG</string>
     <string name="show_menu_add_to_cont_watching">Continue watching later</string>
-    <string name="ch_pos_unpin">Unpin from position</string>
     <string name="cfg_exit_child_mode">Exit child mode</string>
     <string name="cfg_enter_child_mode">Enter child mode</string>
     <string name="cfg_child_categories">Show channel categories</string>
@@ -531,8 +484,6 @@
     <string name="change_pip_size">Change size</string>
     <string name="change_pip_place">Move on screen</string>
 
-    <!-- 1.5.1 -->
-    <string name="menu_settings_all">View all settings</string>
     <string name="only_manually_added">only manually added</string>
     <string name="check_for_updates">Check for updates</string>
     <string name="has_updates_starting">Update is available and will start soon</string>
@@ -553,4 +504,36 @@
     <string name="pla_menu_type_grid">grid</string>
     <string name="ch_manage_use_internal">Use internal player</string>
     <string name="cat_manage_start_this_cat_on">Start from this category</string>
+
+    <string name="cfg_show_ch_desc">Show broadcast description</string>
+    <string name="cfg_show_archive_marker">Show archive availability marker</string>
+    <string name="studio_mode_open_in">Open in Studio Mode</string>
+    <string name="studio_mode_title">Studio mode</string>
+    <string name="studio_mode_remove">Remove screen</string>
+    <string name="studio_mode_set_sound">Enable sound</string>
+    <string name="studio_mode_add">Add screen</string>
+    <string name="studio_mode_minimize">Minimize</string>
+    <string name="studio_mode_maximize">Maximize</string>
+    <string name="cfg_codec_system">system video view</string>
+    <string name="provider_connections_reached">Your provider does not allow that much connections.</string>
+    <string name="max_connections">Maximum allowed connections</string>
+    <string name="pro_sub_expiring">Your subscription is expiring. Renew</string>
+    <string name="mark_all_viewed">Mark all as viewed</string>
+    <string name="pos_rearrange">Rearrange in the list</string>
+    <string name="pos_rearrange_clear">Clear custom positions in the list</string>
+    <string name="restart">Restart</string>
+    <string name="cfg_prov_settings">Provider settings</string>
+    <string name="cfg_prov_settings_desc">Affects data loading from provider</string>
+    <string name="cfg_prov_remove_sd">Remove SD channels</string>
+    <string name="cfg_prov_remove_sd_hd">Remove SD channels if higher quality detected</string>
+    <string name="cfg_prov_remove_tz">Remove channels from different timezone</string>
+    <string name="cfg_prov_follow_includes">Follow includes in a playlist</string>
+    <string name="cfg_sys_settings">System settings</string>
+    <string name="cfg_pla_hud_settings">Player interface</string>
+    <string name="cfg_tv_guide_transparency">Background transparency</string>
+    <string name="on_top">above</string>
+    <string name="on_bottom">below</string>
+    <string name="hint_long_ok_menu">Long pressing OK button opens properties screen in most cases</string>
+    <string name="save_state">Save state</string>
+    <string name="restore_state">Restore state</string>
 </resources>

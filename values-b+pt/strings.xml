@@ -8,7 +8,6 @@
     <string name="menu_search">Pesquisa de vídeos</string>
     <string name="menu_live">Transmissão ao vivo</string>
     <string name="menu_archive">Mostra arquivo</string>
-    <string name="menu_vod">Videoteca</string>
     <string name="menu_settings">Configurações</string>
     <string name="menu_error_require_provider_title">O provedor OTT é obrigatório</string>
     <string name="menu_error_require_provider_text">Este distrito está disponível somente quando o provedor OTT está configurado. Selecione outra opção ou configure um provedor.</string>
@@ -146,30 +145,13 @@
     <string name="play_switch_codec_ext">Abrir no player externo</string>
     <string name="disk_is_full">Armazenamento está cheio. Limpe algum espaço.</string>
     <string name="channel_more_hide_desc">Remover da lista</string>
-    <string name="change_applies_in_few_min">A alteração será aplicada em alguns minutos</string>
     <string name="hud_short_volume">Volume</string>
     <string name="hud_short_bright">Brilho</string>
 
     <string name="settings_provider">Fornecedor</string>
-    <string name="settings_live">Transmissão ao vivo</string>
     <string name="settings_media_library">Biblioteca de mídia</string>
     <string name="settings_media_library_dnla">Varredura de fontes UPnP / DNLA na rede local</string>
     <string name="settings_media_library_prov_vod">Biblioteca de mídia do provedor de digitalização, se existir</string>
-
-
-    <string name="settings_archive">Arquivo</string>
-    <string name="settings_archive_min_duration">Comprimento mínimo de vídeo para mostrar nos arquivos</string>
-    <string name="settings_archive_max_duration">Duração máxima do vídeo para mostrar nos arquivos</string>
-    <string name="settings_archive_duration_name_u">Ilimitado</string>
-    <string name="settings_archive_duration_name_10m">10 minutos</string>
-    <string name="settings_archive_duration_name_20m">20 minutos</string>
-    <string name="settings_archive_duration_name_30m">30 minutos</string>
-    <string name="settings_archive_duration_name_40m">40 minutos</string>
-    <string name="settings_archive_duration_name_50m">50 minutos</string>
-    <string name="settings_archive_duration_name_1h">1 hora</string>
-    <string name="settings_archive_duration_name_2h">2 horas</string>
-    <string name="settings_archive_duration_name_3h">3 horas</string>
-
 
     <string name="settings_player">Jogador</string>
     <string name="settings_player_hide_ui">Ocultar sobreposição da interface do usuário na reprodução em</string>
@@ -203,7 +185,6 @@
     <string name="settings_extended">Configurações estendidas</string>
     <string name="settings_extended_hide_adult">Ocultar categorias de adultos</string>
     <string name="settings_extended_auto_start_last_channel">Iniciar automaticamente o último canal reproduzido</string>
-    <string name="settings_extended_user_epg_source">Fonte de dados EPG adicional (formato xml.gz)</string>
     <string name="settings_schedule_epg_custom_only">Use apenas fontes EPG fornecidas pelo usuário</string>
     <string name="settings_schedule_epg_reload">Recarregue o teleguiado do EPG…</string>
     <string name="settings_schedule_epg_clear">Limpar todos os dados de EPG carregados …</string>
@@ -270,7 +251,6 @@
     <string name="settings_premium_what_included_3">Comutação automática da taxa de quadros para corresponder ao vídeo</string>
     <string name="settings_premium_what_included_4">Controlando a velocidade de reprodução de arquivos</string>
 
-    <string name="settings_premium_toggles">Configurações premium</string>
     <string name="settings_premium_toggles_try_afr">Mude a taxa de quadros para corresponder ao vídeo</string>
     <string name="settings_premium_toggles_try_afr_toast">Taxas de atualização suportadas pela exibição atual</string>
 
@@ -315,7 +295,6 @@
     <string name="prov_btn_help">Socorro</string>
     <string name="prov_help_telegram">Juntar-se ao chat em Telegram</string>
     <string name="settings_premium_what_included_5">Sem anúncios</string>
-    <string name="btn_change">mudança</string>
     <string name="invalid_domain">O domínio é provavelmente inválido. Verifique sua entrada</string>
     <string name="example">Exemplo</string>
     <string name="provider_generic">Fornecedor genérico ou lista de reprodução</string>
@@ -341,13 +320,6 @@
     <string name="btn_close">Perto</string>
     <string name="prem_sub_add_3m">Inscrever-se (cobrado a cada 3 meses)</string>
     <string name="prem_sub_add_1y">Inscrever-se (cobrado a cada ano)</string>
-    <string name="cfg_duration_8h">8 horas</string>
-    <string name="cfg_duration_1d">1 dia</string>
-    <string name="cfg_duration_2d">2 dias</string>
-    <string name="cfg_duration_3d">3 dias</string>
-    <string name="cfg_duration_1w">1 semana</string>
-    <string name="cfg_duration_2w">2 semanas</string>
-    <string name="cfg_duration_1m">1 mês</string>
     <string name="premium_fea_pvsearch">Pesquisa por voz enquanto assiste. Pesquise canal por nome ou arquive o conteúdo.</string>
     <string name="cfg_play_action_vsearch">pesquisa por voz</string>
     <string name="settings_premium_source_enabled">Premium ativado</string>
@@ -407,14 +379,12 @@
     <string name="menu_swap_pip_sound">Trocar o som entre a tela principal e o PiP</string>
     <string name="premium_fea_pre_vid_wp">Permitir que a visualização do vídeo seja exibida durante a reprodução de outro vídeo</string>
     <string name="hint_click_icon">Clicar no ícone de um canal ou grupo abre um menu de contexto (se disponível).</string>
-    <string name="hint_right_menu">Pressionar o botão direito abre um menu de contexto do canal ou grupo selecionado (se disponível).</string>
     <string name="hint_right_jump">Pressionar o botão direito na maioria das listas classificadas alfabeticamente abre uma exibição de salto rápido.</string>
     <string name="category_recent_channels">Recente</string>
     <string name="category_all_channels">Todos os canais</string>
     <string name="cfg_no_categories">Use lista de canais simples (sem categorias)</string>
     <string name="cfg_section_desc">Descrição do item</string>
     <string name="cfg_section_lists">Configurações de listas</string>
-    <string name="cfg_section_sys">Configurações de sistema</string>
 
     <string name="cfg_switch_dummy_on">Mudar para o modo de configurações simplificado</string>
     <string name="cfg_switch_dummy_off">Mudar para o modo de configurações avançadas</string>
@@ -424,14 +394,12 @@
     <string name="setting_list_view_auto">mesa (ícones grandes, ajuste a tela)</string>
     <string name="child_mode_unlock_cfg">Digite o código filho para desbloquear as configurações</string>
     <string name="cfg_child_mode">Modo infantil</string>
-    <string name="cfg_child_mode_toggle">Mudar para um modo infantil</string>
     <string name="cfg_child_mode_number">Código para sair de um modo filho (4 dígitos)</string>
     <string name="cfg_play_deny_status">Não mostrar o status do fluxo</string>
     <string name="cfg_player_hud">Estilo da interface heads-up</string>
     <string name="cfg_player_hud_1">Cabeçalho e rodapé</string>
     <string name="cfg_player_hud_2">Combinado na parte inferior</string>
     <string name="cfg_player_hud_3">Combinado no topo</string>
-    <string name="never">Nunca</string>
     <string name="cfg_player_hide_menu">Tempo limite para ocultar o menu (em segundos)</string>
     <string name="choose_auto">Escolher automaticamente</string>
     <string name="cfg_stream_tech">Tecnologia de fluxo (se disponível)</string>
@@ -502,12 +470,10 @@
     <string name="cfg_cat_recent">Categoria de canais recentes</string>
     <string name="enable">habilitar</string>
     <string name="save_between_launch">salvar entre lançamentos</string>
-    <string name="ch_pos_pin_1">Pin to top</string>
     <string name="cfg_no_teleguide">Gerar registro de epg virtual quando nenhum programa de tv estiver disponível</string>
     <string name="menu_qs_provider_multiple">Marcar manualmente</string>
     <string name="category_recently_added">Adicionado recentemente</string>
     <string name="ask_finish_update">Reinicie o aplicativo para atualizar para uma versão mais recente?</string>
-    <string name="ch_pos_pin_minus1">Pino superior na lista</string>
     <string name="cfg_premium_etc">E muitas outras valiosas funções</string>
     <string name="cfg_fine_tune_volume">Ajuste manual de volume de áudio manual (limitado pelo volume do sistema)</string>
 
@@ -515,7 +481,6 @@
     <string name="cfg_codec_vlc_sync">Use codecs VLC no modo sincronizado (pode ajudar quando o áudio é reproduzido após o fechamento do fluxo)</string>
     <string name="cfg_ch_more_epg">Mostrar nome do canal maior que o EPG</string>
     <string name="show_menu_add_to_cont_watching">Continue assistindo mais tarde</string>
-    <string name="ch_pos_unpin">Soltar da posição</string>
     <string name="cfg_exit_child_mode">Sair do modo filho</string>
     <string name="cfg_enter_child_mode">Entre no modo filho</string>
     <string name="cfg_child_categories">Mostrar categorias de canal</string>
@@ -526,7 +491,6 @@
     <string name="change_pip_size">Alterar tamanho</string>
     <string name="change_pip_place">Mover na tela</string>
 
-    <string name="menu_settings_all">Ver todas as configurações</string>
     <string name="only_manually_added">apenas adicionado manualmente</string>
     <string name="check_for_updates">Verificar atualizações</string>
     <string name="has_updates_starting">A atualização está disponível e começará em breve</string>
@@ -547,4 +511,36 @@
     <string name="pla_menu_type_grid">grade</string>
     <string name="ch_manage_use_internal">Use player interno</string>
     <string name="cat_manage_start_this_cat_on">Comece nesta categoria</string>
+
+    <string name="cfg_show_ch_desc">Mostrar descrição da transmissão</string>
+    <string name="cfg_show_archive_marker">Mostrar marcador de disponibilidade do arquivo</string>
+    <string name="studio_mode_open_in">Abrir no modo de estúdio</string>
+    <string name="studio_mode_title">Modo de estúdio</string>
+    <string name="studio_mode_remove">Remover tela</string>
+    <string name="studio_mode_set_sound">Habilitar som</string>
+    <string name="studio_mode_add">Adicionar tela</string>
+    <string name="studio_mode_minimize">Minimizar</string>
+    <string name="studio_mode_maximize">Maximizar</string>
+    <string name="cfg_codec_system">visualização de vídeo do sistema</string>
+    <string name="provider_connections_reached">Seu provedor não permite muitas conexões.</string>
+    <string name="max_connections">Máximo de conexões permitidas</string>
+    <string name="pro_sub_expiring">Sua assinatura está expirando. Renovar</string>
+    <string name="mark_all_viewed">Marcar tudo como visto</string>
+    <string name="pos_rearrange">Reorganizar na lista</string>
+    <string name="pos_rearrange_clear">Limpar posições personalizadas na lista</string>
+    <string name="restart">Reiniciar</string>
+    <string name="cfg_prov_settings">Configurações de provedor</string>
+    <string name="cfg_prov_settings_desc">Afeta o carregamento de dados do provedor</string>
+    <string name="cfg_prov_remove_sd">Remover canais SD</string>
+    <string name="cfg_prov_remove_sd_hd">Remova os canais SD se for detectada uma maior qualidade</string>
+    <string name="cfg_prov_remove_tz">Remover canais de fusos horários diferentes</string>
+    <string name="cfg_prov_follow_includes">Siga inclui em uma lista de reprodução</string>
+    <string name="cfg_sys_settings">Configurações de sistema</string>
+    <string name="cfg_pla_hud_settings">Interface do jogador</string>
+    <string name="cfg_tv_guide_transparency">Transparência de fundo</string>
+    <string name="on_top">acima</string>
+    <string name="on_bottom">abaixo</string>
+    <string name="hint_long_ok_menu">Long pressionar o botão OK abre a tela de propriedades na maioria dos casos</string>
+    <string name="save_state">Estado salvo</string>
+    <string name="restore_state">Restaurar estado</string>
 </resources>

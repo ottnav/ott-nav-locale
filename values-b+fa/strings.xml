@@ -8,7 +8,6 @@
     <string name="menu_search">جستجو ویدیو</string>
     <string name="menu_live">پخش زنده</string>
     <string name="menu_archive">آرشیو نشان می دهد</string>
-    <string name="menu_vod">کتابخانه ویدیویی</string>
     <string name="menu_settings">تنظیمات</string>
     <string name="menu_error_require_provider_title">ارائه دهنده OTT مورد نیاز است</string>
     <string name="menu_error_require_provider_text">این ناحیه تنها در زمانی که پیکربندی OTT پیکربندی شده است، در دسترس است. هر گزینه دیگری را انتخاب کنید یا یک ارائه دهنده را پیکربندی کنید.</string>
@@ -146,30 +145,13 @@
     <string name="play_switch_codec_ext">باز در بازیکن خارجی</string>
     <string name="disk_is_full">ذخیره سازی کامل است پاک کردن برخی از فضا.</string>
     <string name="channel_more_hide_desc">حذف از لیست</string>
-    <string name="change_applies_in_few_min">تغییر در چند دقیقه اعمال خواهد شد</string>
     <string name="hud_short_volume">جلد</string>
     <string name="hud_short_bright">روشنایی</string>
 
     <string name="settings_provider">ارائه دهنده</string>
-    <string name="settings_live">پخش زنده</string>
     <string name="settings_media_library">کتابخانه ی رسانه</string>
     <string name="settings_media_library_dnla">منابع UPnP / DNLA را در شبکه محلی اسکن کنید</string>
     <string name="settings_media_library_prov_vod">کتابخانه رسانه ای ارائه دهنده اسکن در صورت وجود دارد</string>
-
-
-    <string name="settings_archive">بایگانی</string>
-    <string name="settings_archive_min_duration">طول ویدیو حداقل برای نشان دادن در آرشیو</string>
-    <string name="settings_archive_max_duration">حداکثر طول ویدیو برای نشان دادن در آرشیو</string>
-    <string name="settings_archive_duration_name_u">نامحدود</string>
-    <string name="settings_archive_duration_name_10m">10 دقیقه</string>
-    <string name="settings_archive_duration_name_20m">20 دقیقه</string>
-    <string name="settings_archive_duration_name_30m">30 دقیقه</string>
-    <string name="settings_archive_duration_name_40m">40 دقیقه</string>
-    <string name="settings_archive_duration_name_50m">50 دقیقه</string>
-    <string name="settings_archive_duration_name_1h">1 ساعت</string>
-    <string name="settings_archive_duration_name_2h">2 ساعت</string>
-    <string name="settings_archive_duration_name_3h">3 ساعت</string>
-
 
     <string name="settings_player">بازیکن</string>
     <string name="settings_player_hide_ui">مخفی کردن پوشش UI در پخش در</string>
@@ -203,7 +185,6 @@
     <string name="settings_extended">تنظیمات تمدید شده</string>
     <string name="settings_extended_hide_adult">پنهان کردن دسته های بزرگسال</string>
     <string name="settings_extended_auto_start_last_channel">آخرین کانال پخش شده را به طور خودکار شروع کنید</string>
-    <string name="settings_extended_user_epg_source">منبع داده اضافی EPG (فرمت xml.gz)</string>
     <string name="settings_schedule_epg_custom_only">فقط از منابع EPG ارائه شده توسط کاربر استفاده کنید</string>
     <string name="settings_schedule_epg_reload">بازنگری EPG teleguide ...</string>
     <string name="settings_schedule_epg_clear">پاک کردن داده های EPG لود شده ...</string>
@@ -270,7 +251,6 @@
     <string name="settings_premium_what_included_3">تغییر فریم نرخ خودکار برای مطابقت با ویدئو</string>
     <string name="settings_premium_what_included_4">کنترل سرعت پخش برای آرشیوها</string>
 
-    <string name="settings_premium_toggles">تنظیمات حق بیمه</string>
     <string name="settings_premium_toggles_try_afr">تغییر نرخ فریم اتوماتیک برای مطابقت با ویدئو</string>
     <string name="settings_premium_toggles_try_afr_toast">صفحه نمایش کنونی پشتیبانی می کند نرخ بازشو</string>
 
@@ -317,7 +297,6 @@
     <string name="prov_btn_help">کمک</string>
     <string name="prov_help_telegram">به چت در Telegram بپیوندید</string>
     <string name="settings_premium_what_included_5">بدون تبلیغات</string>
-    <string name="btn_change">تغییر دادن</string>
     <string name="invalid_domain">دامنه احتمالا نامعتبر است ورودی خود را بررسی کنید</string>
     <string name="example">مثال</string>
     <string name="provider_generic">ارائه دهنده عمومی یا لیست پخش</string>
@@ -343,13 +322,6 @@
     <string name="btn_close">نزدیک</string>
     <string name="prem_sub_add_3m">اشتراک (هر 3 ماه یک بار)</string>
     <string name="prem_sub_add_1y">اشتراک (هر سال صورت حساب)</string>
-    <string name="cfg_duration_8h">8 ساعت</string>
-    <string name="cfg_duration_1d">1 روز</string>
-    <string name="cfg_duration_2d">2 روز</string>
-    <string name="cfg_duration_3d">3 روز</string>
-    <string name="cfg_duration_1w">1 هفته</string>
-    <string name="cfg_duration_2w">2 هفته</string>
-    <string name="cfg_duration_1m">1 ماه</string>
     <string name="premium_fea_pvsearch">جستجوی صوتی در حالی که تماشا کنید. جستجو برای کانال با نام یا محتوای بایگانی</string>
     <string name="cfg_play_action_vsearch">جستجوی صوتی</string>
     <string name="settings_premium_source_enabled">حق بیمه فعال</string>
@@ -409,14 +381,12 @@
     <string name="menu_swap_pip_sound">مبادله صدا بین صفحه اصلی و PiP</string>
     <string name="premium_fea_pre_vid_wp">اجازه پخش پیش نمایش ویدیو را هنگام پخش یک ویدیو دیگر نشان دهید</string>
     <string name="hint_click_icon">با کلیک بر روی آیکون یک کانال یا گروه یک منوی زمینه (در صورت وجود) باز می شود.</string>
-    <string name="hint_right_menu">با فشار دادن دکمه ی راست یک منوی متنی کانال یا گروه انتخابی (در صورت موجود بودن) باز می شود.</string>
     <string name="hint_right_jump">با فشار دادن دکمه سمت راست در اکثر لیست های مرتب شده بر اساس حروف الفبا، نمای پرش سریع باز می شود.</string>
     <string name="category_recent_channels">اخیر</string>
     <string name="category_all_channels">همه کانال ها</string>
     <string name="cfg_no_categories">از لیست کانالهای ساده استفاده کنید (بدون هیچ دسته بندی)</string>
     <string name="cfg_section_desc">توضیحات مورد</string>
     <string name="cfg_section_lists">فهرست تنظیمات</string>
-    <string name="cfg_section_sys">تنظیمات سیستم</string>
 
     <string name="cfg_switch_dummy_on">به حالت تنظیمات ساده تغییر دهید</string>
     <string name="cfg_switch_dummy_off">به حالت تنظیمات پیشرفته بروید</string>
@@ -426,14 +396,12 @@
     <string name="setting_list_view_auto">جدول (آیکون های بزرگ، متناسب با صفحه نمایش)</string>
     <string name="child_mode_unlock_cfg">کد کودک را برای باز کردن تنظیمات وارد کنید</string>
     <string name="cfg_child_mode">حالت کودک</string>
-    <string name="cfg_child_mode_toggle">به حالت کودک بچرخ</string>
     <string name="cfg_child_mode_number">کد برای خروج از حالت کودک (4 رقم)</string>
     <string name="cfg_play_deny_status">وضعیت جریان را نشان ندهید</string>
     <string name="cfg_player_hud">سبک رابط سرپایی</string>
     <string name="cfg_player_hud_1">بالا و پایین</string>
     <string name="cfg_player_hud_2">در پایین ترکیب شده است</string>
     <string name="cfg_player_hud_3">ترکیب بالا</string>
-    <string name="never">هرگز</string>
     <string name="cfg_player_hide_menu">زمان برای مخفی کردن منو (در ثانیه)</string>
     <string name="choose_auto">به صورت خودکار انتخاب کنید</string>
     <string name="cfg_stream_tech">تکنولوژی جریان (در صورت وجود)</string>
@@ -504,12 +472,10 @@
     <string name="cfg_cat_recent">دسته کانال های اخیر</string>
     <string name="enable">فعال کردن</string>
     <string name="save_between_launch">بین راه اندازی ذخیره کنید</string>
-    <string name="ch_pos_pin_1">پین به بالا</string>
     <string name="cfg_no_teleguide">هنگامی که هیچ برنامه تلویزیونی موجود نیست، مجددا ضبط مجدد EPG ایجاد کنید</string>
     <string name="menu_qs_provider_multiple">علامت گذاری به صورت دستی</string>
     <string name="category_recently_added">به تازگی اضافه شده</string>
     <string name="ask_finish_update">برنامه را برای به روز رسانی نسخه جدیدتر راه اندازی مجدد کنید؟</string>
-    <string name="ch_pos_pin_minus1">پین بالا در لیست</string>
     <string name="cfg_premium_etc">و بسیاری دیگر از توابع با ارزش</string>
     <string name="cfg_fine_tune_volume">تنظیم صدا صوتی دستی (محدود به حجم سیستم)</string>
 
@@ -517,7 +483,6 @@
     <string name="cfg_codec_vlc_sync">استفاده از کدک های VLC را در حالت هماهنگ (ممکن است هنگامی که صدا پس از بسته شدن جریان پخش می شود، کمک کند)</string>
     <string name="cfg_ch_more_epg">نمایش نام کانال بزرگتر از EPG</string>
     <string name="show_menu_add_to_cont_watching">بعدا تماشا کنید</string>
-    <string name="ch_pos_unpin">باز کردن از موقعیت</string>
     <string name="cfg_exit_child_mode">خروج از حالت کودک</string>
     <string name="cfg_enter_child_mode">حالت کودک را وارد کنید</string>
     <string name="cfg_child_categories">نمایش دسته های کانال</string>
@@ -528,7 +493,6 @@
     <string name="change_pip_size">تغییر اندازه</string>
     <string name="change_pip_place">روی صفحه حرکت کن</string>
 
-    <string name="menu_settings_all">مشاهده تمام تنظیمات</string>
     <string name="only_manually_added">فقط به صورت دستی اضافه شده است</string>
     <string name="check_for_updates">برای به روز رسانی ها مراجعه کنید</string>
     <string name="has_updates_starting">بهروزرسانی در دسترس است و به زودی شروع خواهد شد</string>
@@ -549,4 +513,36 @@
     <string name="pla_menu_type_grid">توری</string>
     <string name="ch_manage_use_internal">از پخش کننده داخلی استفاده کنید</string>
     <string name="cat_manage_start_this_cat_on">از این دسته شروع کنید</string>
+
+    <string name="cfg_show_ch_desc">نمایش توضیحات پخش</string>
+    <string name="cfg_show_archive_marker">نشانگر در دسترس بودن بایگانی را نشان دهید</string>
+    <string name="studio_mode_open_in">در حالت استودیو باز کنید</string>
+    <string name="studio_mode_title">حالت استودیو</string>
+    <string name="studio_mode_remove">صفحه را حذف کنید</string>
+    <string name="studio_mode_set_sound">صدا را فعال کنید</string>
+    <string name="studio_mode_add">صفحه را اضافه کنید</string>
+    <string name="studio_mode_minimize">به حداقل رساندن</string>
+    <string name="studio_mode_maximize">به حداکثر رساندن</string>
+    <string name="cfg_codec_system">نمای ویدیوی سیستم</string>
+    <string name="provider_connections_reached">ارائه دهنده شما اجازه نمی دهد این اتصالات زیاد باشد.</string>
+    <string name="max_connections">حداکثر اتصالات مجاز</string>
+    <string name="pro_sub_expiring">اشتراک شما منقضی شده است. تجدید</string>
+    <string name="mark_all_viewed">علامت گذاری همه به عنوان مشاهده شده است</string>
+    <string name="pos_rearrange">تنظیم مجدد در لیست</string>
+    <string name="pos_rearrange_clear">موقعیت های سفارشی را در لیست پاک کنید</string>
+    <string name="restart">راه اندازی مجدد</string>
+    <string name="cfg_prov_settings">تنظیمات ارائه دهنده</string>
+    <string name="cfg_prov_settings_desc">بارگذاری داده ها از ارائه دهنده تأثیر می گذارد</string>
+    <string name="cfg_prov_remove_sd">کانال های SD را حذف کنید</string>
+    <string name="cfg_prov_remove_sd_hd">در صورت تشخیص کیفیت بالاتر کانال های SD را حذف کنید</string>
+    <string name="cfg_prov_remove_tz">کانال ها را از منطقه زمانی مختلف حذف کنید</string>
+    <string name="cfg_prov_follow_includes">موارد زیر را در یک لیست پخش دنبال کنید</string>
+    <string name="cfg_sys_settings">تنظیمات سیستم</string>
+    <string name="cfg_pla_hud_settings">رابط پخش کننده</string>
+    <string name="cfg_tv_guide_transparency">شفافیت زمینه</string>
+    <string name="on_top">در بالا</string>
+    <string name="on_bottom">زیر</string>
+    <string name="hint_long_ok_menu">با فشار دادن طولانی دکمه OK در بیشتر موارد صفحه خصوصیات باز می شود</string>
+    <string name="save_state">صرفه جویی در دولت</string>
+    <string name="restore_state">بازیابی حالت</string>
 </resources>

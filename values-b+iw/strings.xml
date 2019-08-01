@@ -8,7 +8,6 @@
     <string name="menu_search">חיפוש וידאו</string>
     <string name="menu_live">שידור חי</string>
     <string name="menu_archive">מציג ארכיון</string>
-    <string name="menu_vod">ספריית וידאו</string>
     <string name="menu_settings">הגדרות</string>
     <string name="menu_error_require_provider_title">OTT ספק נדרש</string>
     <string name="menu_error_require_provider_text">אזור זה זמין רק כאשר ספק OTT מוגדר. בחר אפשרות אחרת או הגדר ספק.</string>
@@ -146,30 +145,13 @@
     <string name="play_switch_codec_ext">פתח את הנגן החיצוני</string>
     <string name="disk_is_full">האחסון מלא. לנקות קצת מקום.</string>
     <string name="channel_more_hide_desc">הסר מהרשימה</string>
-    <string name="change_applies_in_few_min">השינוי יחול בעוד מספר דקות</string>
     <string name="hud_short_volume">כרך</string>
     <string name="hud_short_bright">בְּהִירוּת</string>
 
     <string name="settings_provider">ספק</string>
-    <string name="settings_live">שידור חי</string>
     <string name="settings_media_library">ספריית מדיה</string>
     <string name="settings_media_library_dnla">סריקת מקורות UPnP / DNLA ברשת המקומית</string>
     <string name="settings_media_library_prov_vod">ספריית המדיה של ספק הסריקה אם קיימת</string>
-
-
-    <string name="settings_archive">ארכיון</string>
-    <string name="settings_archive_min_duration">אורך וידאו מינימלי להצגה בארכיונים</string>
-    <string name="settings_archive_max_duration">אורך הסרטון המרבי להצגה בארכיונים</string>
-    <string name="settings_archive_duration_name_u">ללא הגבלה</string>
-    <string name="settings_archive_duration_name_10m">10 דקות</string>
-    <string name="settings_archive_duration_name_20m">20 דקות</string>
-    <string name="settings_archive_duration_name_30m">30 דקות</string>
-    <string name="settings_archive_duration_name_40m">40 דקות</string>
-    <string name="settings_archive_duration_name_50m">50 דקות</string>
-    <string name="settings_archive_duration_name_1h">1 שעה</string>
-    <string name="settings_archive_duration_name_2h">2 שעות</string>
-    <string name="settings_archive_duration_name_3h">3 שעות</string>
-
 
     <string name="settings_player">שחקן</string>
     <string name="settings_player_hide_ui">הסתר שכבת ממשק משתמש בהפעלה</string>
@@ -203,7 +185,6 @@
     <string name="settings_extended">הגדרות מורחבות</string>
     <string name="settings_extended_hide_adult">הסתר קטגוריות של מבוגרים</string>
     <string name="settings_extended_auto_start_last_channel">הפעל את ערוץ ההפעלה האחרון באופן אוטומטי</string>
-    <string name="settings_extended_user_epg_source">מקור נתונים נוסף של EPG (פורמט xml.gz)</string>
     <string name="settings_schedule_epg_custom_only">השתמש רק במקורות EPG שסופקו על ידי המשתמש</string>
     <string name="settings_schedule_epg_reload">טען מחדש את EPG teleguide …</string>
     <string name="settings_schedule_epg_clear">נקה את כל נתוני ה- EPG שנטענו …</string>
@@ -270,7 +251,6 @@
     <string name="settings_premium_what_included_3">שינוי קצב מסגרת אוטומטי כדי להתאים את הווידאו</string>
     <string name="settings_premium_what_included_4">שליטה מהירות השמעה עבור הארכיונים</string>
 
-    <string name="settings_premium_toggles">הגדרות פרימיום</string>
     <string name="settings_premium_toggles_try_afr">Auto-switch מסגרת הדולר כדי להתאים וידאו</string>
     <string name="settings_premium_toggles_try_afr_toast">הצג הנוכחי נתמך שיעורי רענון</string>
 
@@ -315,7 +295,6 @@
     <string name="prov_btn_help">עזרה</string>
     <string name="prov_help_telegram">הצטרף לצ\'אט ב- Telegram</string>
     <string name="settings_premium_what_included_5">ללא פרסומות</string>
-    <string name="btn_change">שינוי</string>
     <string name="invalid_domain">הדומיין הוא כנראה לא חוקי. בדוק את הקלט</string>
     <string name="example">דוגמא</string>
     <string name="provider_generic">ספק כללי או רשימת השמעה</string>
@@ -341,13 +320,6 @@
     <string name="btn_close">סגור</string>
     <string name="prem_sub_add_3m">מנוי (מחויב מדי שלושה חודשים)</string>
     <string name="prem_sub_add_1y">מנוי (מחויב מדי שנה)</string>
-    <string name="cfg_duration_8h">8 שעות</string>
-    <string name="cfg_duration_1d">יום 1</string>
-    <string name="cfg_duration_2d">2 ימים</string>
-    <string name="cfg_duration_3d">3 ימים</string>
-    <string name="cfg_duration_1w">שבוע 1</string>
-    <string name="cfg_duration_2w">2 שבועות</string>
-    <string name="cfg_duration_1m">חודש 1</string>
     <string name="premium_fea_pvsearch">חיפוש קולי בעת צפייה. חפש ערוץ לפי שם או תוכן ארכיון.</string>
     <string name="cfg_play_action_vsearch">חיפוש קולי</string>
     <string name="settings_premium_source_enabled">Premium מופעלת</string>
@@ -407,14 +379,12 @@
     <string name="menu_swap_pip_sound">החלפת קול בין המסך הראשי ו- PiP</string>
     <string name="premium_fea_pre_vid_wp">אפשר להציג את התצוגה המקדימה של הסרטון בעת הפעלת סרטון אחר</string>
     <string name="hint_click_icon">לחיצה על הסמל של ערוץ או קבוצה פותחת תפריט תלויי הקשר (אם זמין).</string>
-    <string name="hint_right_menu">לחיצה על הלחצן הימני פותחת תפריט הקשר של הערוץ או הקבוצה שנבחרו (אם זמין).</string>
     <string name="hint_right_jump">לחיצה על הלחצן הימני ברוב הרשימות הממוינות לפי סדר אלפביתי פותחת תצוגת קפיצה מהירה.</string>
     <string name="category_recent_channels">לאחרונה</string>
     <string name="category_all_channels">כל הערוצים</string>
     <string name="cfg_no_categories">השתמש ברשימת ערוצים רגילה (ללא קטגוריות)</string>
     <string name="cfg_section_desc">תיאור פריט</string>
     <string name="cfg_section_lists">מפרט הגדרות</string>
-    <string name="cfg_section_sys">הגדרות מערכת</string>
 
     <string name="cfg_switch_dummy_on">עבור למצב הגדרות פשוטות</string>
     <string name="cfg_switch_dummy_off">עבור למצב הגדרות מתקדמות</string>
@@ -424,14 +394,12 @@
     <string name="setting_list_view_auto">טבלה (סמלים גדולים, להתאים את המסך)</string>
     <string name="child_mode_unlock_cfg">הזן קוד צאצא כדי לבטל את הנעילה של ההגדרות</string>
     <string name="cfg_child_mode">מצב רוח של ילד</string>
-    <string name="cfg_child_mode_toggle">עבור למצב ילד</string>
     <string name="cfg_child_mode_number">קוד יציאה ממצב צאצא (4 ספרות)</string>
     <string name="cfg_play_deny_status">אל תציג את סטטוס הזרם</string>
     <string name="cfg_player_hud">סגנון של ממשק ראש</string>
     <string name="cfg_player_hud_1">עליון ותחתון</string>
     <string name="cfg_player_hud_2">משולב בתחתית</string>
     <string name="cfg_player_hud_3">משולב למעלה</string>
-    <string name="never">לעולם לא</string>
     <string name="cfg_player_hide_menu">פסק זמן להסתרת התפריט (בשניות)</string>
     <string name="choose_auto">בחר באופן אוטומטי</string>
     <string name="cfg_stream_tech">טכנולוגיית זרם (אם זמינה)</string>
@@ -502,12 +470,10 @@
     <string name="cfg_cat_recent">קטגוריית ערוצים אחרונים</string>
     <string name="enable">לאפשר</string>
     <string name="save_between_launch">לשמור בין השקות</string>
-    <string name="ch_pos_pin_1">להצמיד למעלה</string>
     <string name="cfg_no_teleguide">ליצור שיא epg וירטואלי כאשר אין תוכנית טלוויזיה זמין</string>
     <string name="menu_qs_provider_multiple">סמן ידנית</string>
     <string name="category_recently_added">נוספו לאחרונה</string>
     <string name="ask_finish_update">האם להפעיל מחדש את האפליקציה כדי לעדכן לגרסה חדשה יותר?</string>
-    <string name="ch_pos_pin_minus1">הצמד העליון ברשימה</string>
     <string name="cfg_premium_etc">ועוד פונקציות רבות ערך</string>
     <string name="cfg_fine_tune_volume">כוונון עוצמת שמע ידני (מוגבל באמצעי האחסון של המערכת)</string>
 
@@ -515,7 +481,6 @@
     <string name="cfg_codec_vlc_sync">השתמש רכיבי Codec VLC במצב מסונכרן (עשוי לעזור כאשר שמע משחק לאחר הסגירה זרם)</string>
     <string name="cfg_ch_more_epg">הצג שם ערוץ גדול יותר מ- EPG</string>
     <string name="show_menu_add_to_cont_watching">המשך לצפות במועד מאוחר יותר</string>
-    <string name="ch_pos_unpin">בטל את הצמדת המיקום</string>
     <string name="cfg_exit_child_mode">צא ממצב צאצא</string>
     <string name="cfg_enter_child_mode">היכנס למצב ילד</string>
     <string name="cfg_child_categories">הצג קטגוריות של ערוצים</string>
@@ -526,7 +491,6 @@
     <string name="change_pip_size">שנה את הגודל</string>
     <string name="change_pip_place">העבר על המסך</string>
 
-    <string name="menu_settings_all">הצג את כל ההגדרות</string>
     <string name="only_manually_added">הוספה ידנית בלבד</string>
     <string name="check_for_updates">בדוק עדכונים</string>
     <string name="has_updates_starting">העדכון זמין ויתחיל בקרוב</string>
@@ -547,4 +511,36 @@
     <string name="pla_menu_type_grid">רשת</string>
     <string name="ch_manage_use_internal">השתמש בנגן פנימי</string>
     <string name="cat_manage_start_this_cat_on">התחל מקטגוריה זו</string>
+
+    <string name="cfg_show_ch_desc">הצג תיאור שידור</string>
+    <string name="cfg_show_archive_marker">הצג סמן זמינות בארכיון</string>
+    <string name="studio_mode_open_in">פתח במצב סטודיו</string>
+    <string name="studio_mode_title">מצב סטודיו</string>
+    <string name="studio_mode_remove">הסר את המסך</string>
+    <string name="studio_mode_set_sound">אפשר צליל</string>
+    <string name="studio_mode_add">הוסף מסך</string>
+    <string name="studio_mode_minimize">מזער</string>
+    <string name="studio_mode_maximize">למקסם</string>
+    <string name="cfg_codec_system">תצוגת וידאו מערכת - -</string>
+    <string name="provider_connections_reached">הספק שלך לא מאפשר חיבורים רבים כל כך.</string>
+    <string name="max_connections">חיבורים מרביים המותרים</string>
+    <string name="pro_sub_expiring">המינוי שלך פג. התחדש</string>
+    <string name="mark_all_viewed">סמן את כולם כמוצגים</string>
+    <string name="pos_rearrange">סדר מחדש ברשימה</string>
+    <string name="pos_rearrange_clear">נקה מיקומים מותאמים אישית ברשימה</string>
+    <string name="restart">איתחול</string>
+    <string name="cfg_prov_settings">הגדרות ספק</string>
+    <string name="cfg_prov_settings_desc">משפיע על טעינת נתונים מהספק</string>
+    <string name="cfg_prov_remove_sd">הסר ערוצי SD</string>
+    <string name="cfg_prov_remove_sd_hd">הסר ערוצי SD אם זוהה איכות גבוהה יותר</string>
+    <string name="cfg_prov_remove_tz">הסר ערוצים מאזור זמן שונה</string>
+    <string name="cfg_prov_follow_includes">עקוב כולל בפלייליסט</string>
+    <string name="cfg_sys_settings">הגדרות מערכת</string>
+    <string name="cfg_pla_hud_settings">ממשק נגן</string>
+    <string name="cfg_tv_guide_transparency">שקיפות רקע</string>
+    <string name="on_top">למעלה</string>
+    <string name="on_bottom">למטה</string>
+    <string name="hint_long_ok_menu">לחיצה ארוכה על כפתור OK פותחת את מסך המאפיינים ברוב המקרים</string>
+    <string name="save_state">שמור מדינה</string>
+    <string name="restore_state">שחזר מצב</string>
 </resources>

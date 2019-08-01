@@ -9,7 +9,6 @@
     <string name="menu_search">Paieška pagal video</string>
     <string name="menu_live">Tiesiogiai</string>
     <string name="menu_archive">Laidų archyvas</string>
-    <string name="menu_vod">Video galerija</string>
     <string name="menu_settings">Nustatymai</string>
     <string name="menu_error_require_provider_title">Reikalaujama OTT tiekėjo</string>
     <string name="menu_error_require_provider_text">Ši skiltis prieinama tik nustačius OTT tiekėją. Naudokite kitas skiltis arba nustatykite tiekėją.</string>
@@ -149,31 +148,14 @@
     <string name="play_switch_codec_ext">Atidaryti išoriniame grotuve</string>
     <string name="disk_is_full">Saugykloje trūksta vietos. Atlaisvinkite šiek tiek vietos.</string>
     <string name="channel_more_hide_desc">Pašalinti iš sąrašo</string>
-    <string name="change_applies_in_few_min">Pakeitimai bus pritaikyti per keleta minučių</string>
     <string name="hud_short_volume">Garsumas</string>
     <string name="hud_short_bright">Šviesumas</string>
 
     <string name="settings_provider">Tiekėjas</string>
-    <string name="settings_live">Tiesioginė transliacija</string>
     <string name="settings_media_library">Mediateka</string>
     <string name="settings_media_library_dnla">Ieškoti UPnP/DNLA šaltinių vietiniame tinkle</string>
     <string name="settings_media_library_prov_vod">Ieškoti tiekėjo mediatekos, jei tokia egzistuoja</string>
 
-    <!-- Archive -->
-    <string name="settings_archive">Archyvas</string>
-    <string name="settings_archive_min_duration">Minimali video trukmė archyvui</string>
-    <string name="settings_archive_max_duration">Maksimali video trukmė archyvui</string>
-    <string name="settings_archive_duration_name_u">Be apribojimo</string>
-    <string name="settings_archive_duration_name_10m">10 minučių</string>
-    <string name="settings_archive_duration_name_20m">20 minučių</string>
-    <string name="settings_archive_duration_name_30m">30 minučių</string>
-    <string name="settings_archive_duration_name_40m">40 minučių</string>
-    <string name="settings_archive_duration_name_50m">50 minučių</string>
-    <string name="settings_archive_duration_name_1h">1 valanda</string>
-    <string name="settings_archive_duration_name_2h">2 valandos</string>
-    <string name="settings_archive_duration_name_3h">3 valandos</string>
-
-    <!-- Player -->
     <string name="settings_player">Grotuvas</string>
     <string name="settings_player_hide_ui">Slėpti grotuvo sąsają po</string>
     <string name="sec1">1 sekundės</string>
@@ -206,7 +188,6 @@
     <string name="settings_extended">Išplėstiniai nustatymai</string>
     <string name="settings_extended_hide_adult">Slėpti suaugusiųjų kategoriją</string>
     <string name="settings_extended_auto_start_last_channel">Automatiškai paleisti paskutinį žiūrėtą kanalą</string>
-    <string name="settings_extended_user_epg_source">Papildomas EPG duomenų šaltinis (formate xml.gz)</string>
     <string name="settings_schedule_epg_custom_only">Naudoti tik vartotojo pridetus EPG šaltinius</string>
     <string name="settings_schedule_epg_reload">Atnaujinti EPG programą…</string>
     <string name="settings_schedule_epg_clear">Išvalyti visą EPG programą…</string>
@@ -273,7 +254,6 @@
     <string name="settings_premium_what_included_3">Automatiškai priderinamas ekrano skleistinės dažnis. Sukuria sklandesnį vaizdo atkūrimą.</string>
     <string name="settings_premium_what_included_4">Archyvo atkūrimo greičio valdymas</string>
 
-    <string name="settings_premium_toggles">Premium nustatymai</string>
     <string name="settings_premium_toggles_try_afr">Automatiškai keisti kadrų dažnį, kad geriausiai atitiktų video įrašo kadrų dažnį</string>
     <string name="settings_premium_toggles_try_afr_toast">Einamas ekranas palaiko kadrų dažnį</string>
 
@@ -320,7 +300,6 @@
     <string name="prov_btn_help">Pagalba</string>
     <string name="prov_help_telegram">Užeiti į pokalbį Telegram</string>
     <string name="settings_premium_what_included_5">Be reklamos</string>
-    <string name="btn_change">Pakeisti</string>
     <string name="invalid_domain">Tikėtina, kad  domenas neteisingas. Patikrinkite savo nustatymus.</string>
     <string name="example">Pavyzdys</string>
     <string name="provider_generic">Bendras tiekėjas arba grojaraštis</string>
@@ -347,13 +326,6 @@
     <string name="btn_close">Uždaryti</string>
     <string name="prem_sub_add_3m">Prenumeruoti (ketvirčio apmokėjimas)</string>
     <string name="prem_sub_add_1y">Prenumeruoti (metinis apmokėjimas)</string>
-    <string name="cfg_duration_8h">8 valandas</string>
-    <string name="cfg_duration_1d">1 diena</string>
-    <string name="cfg_duration_2d">2 dienas</string>
-    <string name="cfg_duration_3d">3 dienas</string>
-    <string name="cfg_duration_1w">1 savaite</string>
-    <string name="cfg_duration_2w">2 savaites</string>
-    <string name="cfg_duration_1m">1 mėnesį</string>
     <string name="premium_fea_pvsearch">Paiška balsu transliacijos metu. Paieška pagal kanalo pavadinimą arba archyvo turinį.</string>
     <string name="cfg_play_action_vsearch">paieška balsu</string>
     <string name="settings_premium_source_enabled">Premium įjungtas</string>
@@ -413,14 +385,12 @@
     <string name="menu_swap_pip_sound">Pakeiskite garsą tarp pagrindinio ekrano ir „PiP“</string>
     <string name="premium_fea_pre_vid_wp">Leisti rodyti vaizdo peržiūrą, kai grojate kitą vaizdo įrašą</string>
     <string name="hint_click_icon">Paspaudus kanalo ar grupės piktogramą atidaromas kontekstinis meniu (jei yra).</string>
-    <string name="hint_right_menu">Paspaudus dešinįjį mygtuką atidaromas pasirinkto kanalo ar grupės kontekstinis meniu (jei yra).</string>
     <string name="hint_right_jump">Paspaudus dešinįjį klavišą daugelyje abėcėlės tvarka surūšiuotų sąrašų, atsidaro greitas peršokimo vaizdas.</string>
     <string name="category_recent_channels">Naujausi</string>
     <string name="category_all_channels">Visi kanalai</string>
     <string name="cfg_no_categories">Naudoti paprasto kanalų sąrašą (be kategorijų)</string>
     <string name="cfg_section_desc">Prekės Aprašymas</string>
     <string name="cfg_section_lists">Sąrašų nustatymai</string>
-    <string name="cfg_section_sys">Sistemos nustatymai</string>
 
     <string name="cfg_switch_dummy_on">Perjungti į supaprastintų nustatymų režimą</string>
     <string name="cfg_switch_dummy_off">Perjungti į išplėstinių nustatymų režimą</string>
@@ -430,14 +400,12 @@
     <string name="setting_list_view_auto">lentelė (didelės piktogramos, tinka ekranui)</string>
     <string name="child_mode_unlock_cfg">Įveskite vaikų kodą norėdami atrakinti nustatymus</string>
     <string name="cfg_child_mode">Vaiko režimas</string>
-    <string name="cfg_child_mode_toggle">Perjungti į vaikų režimą</string>
     <string name="cfg_child_mode_number">Kodas, jei norite išeiti iš vaikų režimo (4 skaitmenys)</string>
     <string name="cfg_play_deny_status">Nerodyti srauto būsenos</string>
     <string name="cfg_player_hud">„Head-up“ sąsajos stilius</string>
     <string name="cfg_player_hud_1">Viršus ir apačia</string>
     <string name="cfg_player_hud_2">Sujungta apačioje</string>
     <string name="cfg_player_hud_3">Sujungta viršuje</string>
-    <string name="never">niekada</string>
     <string name="cfg_player_hide_menu">Meniu paspaudimo laikas (sekundėmis)</string>
     <string name="choose_auto">Pasirinkite automatiškai</string>
     <string name="cfg_stream_tech">Srautų technologija (jei yra)</string>
@@ -508,12 +476,10 @@
     <string name="cfg_cat_recent">Paskutinių kanalų kategorija</string>
     <string name="enable">įjungti</string>
     <string name="save_between_launch">išsaugokite tarp paleidimų</string>
-    <string name="ch_pos_pin_1">Įkiškite į viršų</string>
     <string name="cfg_no_teleguide">Sukurkite virtualų epg įrašą, kai nėra televizijos programos</string>
     <string name="menu_qs_provider_multiple">Pažymėkite rankiniu būdu</string>
     <string name="category_recently_added">Paskutinės pridėtos</string>
     <string name="ask_finish_update">Iš naujo paleiskite programą, kad atnaujintumėte naujesnę versiją?</string>
-    <string name="ch_pos_pin_minus1">Įrašykite viršutinį sąrašą</string>
     <string name="cfg_premium_etc">Ir daug kitų vertingų funkcijų</string>
     <string name="cfg_fine_tune_volume">Rankinis garso garsumo nustatymas (ribojamas pagal sistemos tūrį)</string>
 
@@ -521,7 +487,6 @@
     <string name="cfg_codec_vlc_sync">Naudokite VLC kodekus sinchronizuotu režimu (gali būti naudinga, kai po to, kai uždarysite srautą)</string>
     <string name="cfg_ch_more_epg">Rodyti didesnį kanalo pavadinimą nei EPG</string>
     <string name="show_menu_add_to_cont_watching">Toliau žiūrėkite</string>
-    <string name="ch_pos_unpin">Atjunkite padėtį</string>
     <string name="cfg_exit_child_mode">Išeiti iš vaikų režimo</string>
     <string name="cfg_enter_child_mode">Įeikite į vaikų režimą</string>
     <string name="cfg_child_categories">Rodyti kanalų kategorijas</string>
@@ -532,7 +497,6 @@
     <string name="change_pip_size">Keisti dydį</string>
     <string name="change_pip_place">Perkelti ekrane</string>
 
-    <string name="menu_settings_all">Peržiūrėkite visus nustatymus</string>
     <string name="only_manually_added">pridėta tik rankiniu būdu</string>
     <string name="check_for_updates">Tikrinti, ar yra atnaujinimų</string>
     <string name="has_updates_starting">Naujinimas yra prieinamas ir netrukus prasidės</string>
@@ -553,4 +517,36 @@
     <string name="pla_menu_type_grid">tinklelis</string>
     <string name="ch_manage_use_internal">Naudokite vidinį grotuvą</string>
     <string name="cat_manage_start_this_cat_on">Pradėkite nuo šios kategorijos</string>
+
+    <string name="cfg_show_ch_desc">Rodyti transliacijos aprašą</string>
+    <string name="cfg_show_archive_marker">Rodyti archyvo prieinamumo žymeklį</string>
+    <string name="studio_mode_open_in">Atidarykite studijos režimu</string>
+    <string name="studio_mode_title">Studijos režimas</string>
+    <string name="studio_mode_remove">Pašalinti ekraną</string>
+    <string name="studio_mode_set_sound">Įjungti garsą</string>
+    <string name="studio_mode_add">Pridėti ekraną</string>
+    <string name="studio_mode_minimize">Sumažinkite</string>
+    <string name="studio_mode_maximize">Padidinti</string>
+    <string name="cfg_codec_system">sistemos vaizdo peržiūra</string>
+    <string name="provider_connections_reached">Jūsų teikėjas neleidžia tiek daug jungčių.</string>
+    <string name="max_connections">Didžiausias leidžiamas ryšys</string>
+    <string name="pro_sub_expiring">Jūsų prenumerata baigiasi. Atnaujinti</string>
+    <string name="mark_all_viewed">Pažymėti visus kaip peržiūrėtus</string>
+    <string name="pos_rearrange">Pertvarkykite sąrašą</string>
+    <string name="pos_rearrange_clear">Išvalykite pasirinktines pozicijas sąraše</string>
+    <string name="restart">Perkrauti</string>
+    <string name="cfg_prov_settings">Teikėjo nustatymai</string>
+    <string name="cfg_prov_settings_desc">Įtakoja duomenų teikėjo teikiamą informaciją</string>
+    <string name="cfg_prov_remove_sd">Pašalinkite SD kanalus</string>
+    <string name="cfg_prov_remove_sd_hd">Pašalinkite SD kanalus, jei aptikta aukštesnės kokybės</string>
+    <string name="cfg_prov_remove_tz">Pašalinkite kanalus iš skirtingos laiko juostos</string>
+    <string name="cfg_prov_follow_includes">Stebėti įtraukiama į grojaraštį</string>
+    <string name="cfg_sys_settings">Sistemos nustatymai</string>
+    <string name="cfg_pla_hud_settings">Grotuvo sąsaja</string>
+    <string name="cfg_tv_guide_transparency">Fono skaidrumas</string>
+    <string name="on_top">aukščiau</string>
+    <string name="on_bottom">žemiau</string>
+    <string name="hint_long_ok_menu">Ilgai paspaudus mygtuką „OK“, daugeliu atvejų atidaromas ypatybių ekranas</string>
+    <string name="save_state">Išsaugoti būseną</string>
+    <string name="restore_state">Atkurti būseną</string>
 </resources>

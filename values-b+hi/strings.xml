@@ -8,7 +8,6 @@
     <string name="menu_search">वीडियो खोज</string>
     <string name="menu_live">लाइव स्ट्रीम</string>
     <string name="menu_archive">संग्रह दिखाता है</string>
-    <string name="menu_vod">वीडियो लाइब्रेरी</string>
     <string name="menu_settings">सेटिंग्स</string>
     <string name="menu_error_require_provider_title">ओटीटी प्रदाता की आवश्यकता है</string>
     <string name="menu_error_require_provider_text">यह जिला तभी उपलब्ध होता है जब ओटीटी प्रदाता कॉन्फ़िगर किया जाता है। या तो एक और विकल्प का चयन करें, या एक प्रदाता को विन्यस्त करें।</string>
@@ -146,30 +145,13 @@
     <string name="play_switch_codec_ext">बाहरी खिलाड़ी में खोलें</string>
     <string name="disk_is_full">भंडार भर चूका है। कुछ जगह साफ करो।</string>
     <string name="channel_more_hide_desc">सूची से निकालें</string>
-    <string name="change_applies_in_few_min">परिवर्तन कुछ ही मिनटों में लागू होगा</string>
     <string name="hud_short_volume">आयतन</string>
     <string name="hud_short_bright">चमक</string>
 
     <string name="settings_provider">प्रदाता</string>
-    <string name="settings_live">जीवंत प्रसारण</string>
     <string name="settings_media_library">मीडिया पुस्तकालय</string>
     <string name="settings_media_library_dnla">स्थानीय नेटवर्क में यूपीएनपी / डीएनएलए स्रोत स्कैन करें</string>
     <string name="settings_media_library_prov_vod">यदि मौजूद है तो प्रदाता मीडिया लाइब्रेरी स्कैन करें</string>
-
-
-    <string name="settings_archive">पुरालेख</string>
-    <string name="settings_archive_min_duration">अभिलेखागार में दिखाने के लिए न्यूनतम वीडियो लंबाई</string>
-    <string name="settings_archive_max_duration">अभिलेखागार में दिखाने के लिए अधिकतम वीडियो लंबाई</string>
-    <string name="settings_archive_duration_name_u">असीमित</string>
-    <string name="settings_archive_duration_name_10m">10 मिनटों</string>
-    <string name="settings_archive_duration_name_20m">20 मिनट</string>
-    <string name="settings_archive_duration_name_30m">30 मिनिट</string>
-    <string name="settings_archive_duration_name_40m">40 मिनट</string>
-    <string name="settings_archive_duration_name_50m">50 मिनट</string>
-    <string name="settings_archive_duration_name_1h">1 घंटा</string>
-    <string name="settings_archive_duration_name_2h">2 घंटे</string>
-    <string name="settings_archive_duration_name_3h">तीन घंटे</string>
-
 
     <string name="settings_player">खिलाड़ी</string>
     <string name="settings_player_hide_ui">प्लेबैक में यूआई ओवरले छुपाएं</string>
@@ -203,7 +185,6 @@
     <string name="settings_extended">विस्तारित सेटिंग्स</string>
     <string name="settings_extended_hide_adult">वयस्क श्रेणियों को छुपाएं</string>
     <string name="settings_extended_auto_start_last_channel">स्वचालित रूप से अंतिम खेला चैनल शुरू करें</string>
-    <string name="settings_extended_user_epg_source">अतिरिक्त ईपीजी डेटा स्रोत (xml.gz प्रारूप)</string>
     <string name="settings_schedule_epg_custom_only">केवल निर्दिष्ट उपयोगकर्ता द्वारा प्रदत्त ईपीजी स्रोतों का उपयोग करें</string>
     <string name="settings_schedule_epg_reload">ईपीजी टेलीग्राइड पुनः लोड करें ...</string>
     <string name="settings_schedule_epg_clear">सभी लोड ईपीजी डेटा साफ़ करें ...</string>
@@ -270,7 +251,6 @@
     <string name="settings_premium_what_included_3">वीडियो से मिलान करने के लिए स्वचालित फ्रेम दर स्विचिंग</string>
     <string name="settings_premium_what_included_4">अभिलेखागार के लिए प्लेबैक गति को नियंत्रित करना</string>
 
-    <string name="settings_premium_toggles">प्रीमियम सेटिंग्स</string>
     <string name="settings_premium_toggles_try_afr">वीडियो से मिलान करने के लिए ऑटो स्विच फ्रेम दर</string>
     <string name="settings_premium_toggles_try_afr_toast">वर्तमान प्रदर्शन समर्थित ताज़ा दरों</string>
 
@@ -317,7 +297,6 @@
     <string name="prov_btn_help">मदद</string>
     <string name="prov_help_telegram">टेलीग्राम में चैट में शामिल हों</string>
     <string name="settings_premium_what_included_5">विज्ञापन नहीं</string>
-    <string name="btn_change">परिवर्तन</string>
     <string name="invalid_domain">डोमेन शायद अमान्य है। अपना इनपुट जांचें</string>
     <string name="example">उदाहरण</string>
     <string name="provider_generic">जेनेरिक प्रदाता या प्लेलिस्ट</string>
@@ -343,13 +322,6 @@
     <string name="btn_close">बंद करे</string>
     <string name="prem_sub_add_3m">सदस्यता लें (प्रत्येक 3 महीने का बिल)</string>
     <string name="prem_sub_add_1y">सदस्यता लें (प्रत्येक वर्ष बिल किया जाता है)</string>
-    <string name="cfg_duration_8h">8 घंटे</string>
-    <string name="cfg_duration_1d">एक दिन</string>
-    <string name="cfg_duration_2d">दो दिन</string>
-    <string name="cfg_duration_3d">3 दिन</string>
-    <string name="cfg_duration_1w">1 सप्ताह</string>
-    <string name="cfg_duration_2w">2 सप्ताह</string>
-    <string name="cfg_duration_1m">1 महीना</string>
     <string name="premium_fea_pvsearch">देखते समय आवाज खोज। नाम से चैनल के लिए खोजें, या संग्रह सामग्री।</string>
     <string name="cfg_play_action_vsearch">आवाज खोज</string>
     <string name="settings_premium_source_enabled">प्रीमियम सक्षम</string>
@@ -361,7 +333,7 @@
     <string name="err_archive_is_shorter">इस चैनल के लिए पुरालेख आपके प्रदाता पर कम जीवनकाल है</string>
     <string name="cfg_no_seek">नकल हर समय नई स्थिति से स्ट्रीम फिर से खोलने की तलाश है</string>
     <string name="cfg_section_backup">बैकअप और पुनर्स्थापना</string>
-    <string name="btn_backup_info">बैकअप एक कुंजी द्वारा storied है। जैसे ही बैकअप पूरा हो जाता है इसे नीचे लिखें। इस बात की कोई गारंटी नहीं है कि बैकअप कब तक उपलब्ध होगा।</string>
+    <string name="btn_backup_info">बैकअप एक कुंजी द्वारा है। जैसे ही बैकअप पूरा हो जाता है इसे नीचे लिखें। इस बात की कोई गारंटी नहीं है कि बैकअप कब तक उपलब्ध होगा।</string>
     <string name="btn_backup_data">बैकअप वर्तमान विन्यास</string>
     <string name="btn_backup_load">पहले किए गए कॉन्फ़िगरेशन बैकअप को लोड करें</string>
     <string name="err_need_newer_android">इस सुविधा के लिए नया एंड्रॉइड संस्करण आवश्यक है</string>
@@ -409,14 +381,12 @@
     <string name="menu_swap_pip_sound">मुख्य स्क्रीन और PiP के बीच स्वैप ध्वनि</string>
     <string name="premium_fea_pre_vid_wp">किसी अन्य वीडियो को चलाते समय वीडियो पूर्वावलोकन दिखाने की अनुमति दें</string>
     <string name="hint_click_icon">किसी चैनल या समूह के आइकन पर क्लिक करने पर एक संदर्भ मेनू (यदि उपलब्ध हो) खुलता है।</string>
-    <string name="hint_right_menu">दायां बटन दबाने पर चयनित चैनल या समूह (यदि उपलब्ध हो) का एक संदर्भ मेनू खुलता है।</string>
     <string name="hint_right_jump">अधिकांश वर्णानुक्रम में क्रमबद्ध सूचियों में दायाँ बटन दबाने से एक त्वरित कूद दृश्य दिखाई देता है।</string>
     <string name="category_recent_channels">हाल का</string>
     <string name="category_all_channels">सभी चैनल</string>
     <string name="cfg_no_categories">सादे चैनल सूची का उपयोग करें (बिना श्रेणियों के)</string>
     <string name="cfg_section_desc">वस्तु वर्णन</string>
     <string name="cfg_section_lists">सेटिंग्स को सूचीबद्ध करता है</string>
-    <string name="cfg_section_sys">प्रणाली व्यवस्था</string>
 
     <string name="cfg_switch_dummy_on">सरलीकृत सेटिंग्स मोड में स्विच करें</string>
     <string name="cfg_switch_dummy_off">उन्नत सेटिंग्स मोड में स्विच करें</string>
@@ -426,14 +396,12 @@
     <string name="setting_list_view_auto">तालिका (बड़े चिह्न, स्क्रीन फिट)</string>
     <string name="child_mode_unlock_cfg">सेटिंग्स अनलॉक करने के लिए चाइल्ड कोड डालें</string>
     <string name="cfg_child_mode">बालक मोड</string>
-    <string name="cfg_child_mode_toggle">चाइल्ड मोड पर स्विच करें</string>
     <string name="cfg_child_mode_number">बाल मोड से बाहर निकलने के लिए कोड (4 अंक)</string>
     <string name="cfg_play_deny_status">धारा की स्थिति न दिखाएं</string>
     <string name="cfg_player_hud">हेड-अप इंटरफ़ेस की शैली</string>
     <string name="cfg_player_hud_1">ऊपर और नीचे</string>
     <string name="cfg_player_hud_2">नीचे में संयुक्त</string>
     <string name="cfg_player_hud_3">शीर्ष में संयुक्त</string>
-    <string name="never">कभी नहीँ</string>
     <string name="cfg_player_hide_menu">मेनू छिपाने के लिए समय (सेकंड में)</string>
     <string name="choose_auto">स्वचालित रूप से चुनें</string>
     <string name="cfg_stream_tech">स्ट्रीम तकनीक (यदि उपलब्ध हो)</string>
@@ -504,12 +472,10 @@
     <string name="cfg_cat_recent">हाल के चैनल श्रेणी</string>
     <string name="enable">सक्षम</string>
     <string name="save_between_launch">लॉन्च के बीच सहेजें</string>
-    <string name="ch_pos_pin_1">सबसे ऊपर पिन करें</string>
     <string name="cfg_no_teleguide">जब कोई टीवी-प्रोग्राम उपलब्ध न हो तो वर्चुअल एप रिकॉर्ड बनाएं</string>
     <string name="menu_qs_provider_multiple">मैन्युअल रूप से चिह्नित करें</string>
     <string name="category_recently_added">हाल ही में जोड़ा</string>
     <string name="ask_finish_update">नए संस्करण के लिए अपडेट करने के लिए एप्लिकेशन को पुनरारंभ करें?</string>
-    <string name="ch_pos_pin_minus1">सूची में ऊपरी पिन</string>
     <string name="cfg_premium_etc">और कई अन्य मूल्यवान कार्य</string>
     <string name="cfg_fine_tune_volume">मैनुअल ऑडियो वॉल्यूम फाइन-ट्यून (सिस्टम वॉल्यूम द्वारा सीमित)</string>
 
@@ -517,7 +483,6 @@
     <string name="cfg_codec_vlc_sync">सिंक्रनाइज़ मोड में VLC कोडेक्स का उपयोग करें (स्ट्रीम को बंद करने के बाद ऑडियो प्ले होने पर मदद मिल सकती है)</string>
     <string name="cfg_ch_more_epg">EPG से बड़ा चैनल नाम दिखाएं</string>
     <string name="show_menu_add_to_cont_watching">बाद में देखते रहना</string>
-    <string name="ch_pos_unpin">स्थिति से अनपना</string>
     <string name="cfg_exit_child_mode">चाइल्ड मोड से बाहर निकलें</string>
     <string name="cfg_enter_child_mode">चाइल्ड मोड डालें</string>
     <string name="cfg_child_categories">चैनल श्रेणियां दिखाएं</string>
@@ -528,7 +493,6 @@
     <string name="change_pip_size">आकार बदलें</string>
     <string name="change_pip_place">स्क्रीन पर ले जाएँ</string>
 
-    <string name="menu_settings_all">सभी सेटिंग्स देखें</string>
     <string name="only_manually_added">केवल मैन्युअल रूप से जोड़ा गया</string>
     <string name="check_for_updates">अद्यतन के लिए जाँच</string>
     <string name="has_updates_starting">अपडेट उपलब्ध है और जल्द ही शुरू होगा</string>
@@ -549,4 +513,36 @@
     <string name="pla_menu_type_grid">ग्रिड</string>
     <string name="ch_manage_use_internal">आंतरिक खिलाड़ी का उपयोग करें</string>
     <string name="cat_manage_start_this_cat_on">इस श्रेणी से शुरू करें</string>
+
+    <string name="cfg_show_ch_desc">प्रसारण विवरण दिखाएं</string>
+    <string name="cfg_show_archive_marker">संग्रह उपलब्धता मार्कर दिखाएं</string>
+    <string name="studio_mode_open_in">स्टूडियो मोड में खोलें</string>
+    <string name="studio_mode_title">स्टूडियो मोड</string>
+    <string name="studio_mode_remove">स्क्रीन निकालें</string>
+    <string name="studio_mode_set_sound">ध्वनि सक्षम</string>
+    <string name="studio_mode_add">स्क्रीन जोड़ें</string>
+    <string name="studio_mode_minimize">छोटा करना</string>
+    <string name="studio_mode_maximize">अधिकतम</string>
+    <string name="cfg_codec_system">सिस्टम वीडियो दृश्य</string>
+    <string name="provider_connections_reached">आपका प्रदाता उतना कनेक्शन नहीं होने देता है।</string>
+    <string name="max_connections">अधिकतम स्वीकृत कनेक्शन</string>
+    <string name="pro_sub_expiring">आपकी सदस्यता समाप्त हो रही है। नवीकरण</string>
+    <string name="mark_all_viewed">सभी को देखा के रूप में चिह्नित करें</string>
+    <string name="pos_rearrange">सूची में पुनर्व्यवस्थित करें</string>
+    <string name="pos_rearrange_clear">सूची में कस्टम स्थिति साफ़ करें</string>
+    <string name="restart">पुनः आरंभ करें</string>
+    <string name="cfg_prov_settings">प्रदाता सेटिंग्स</string>
+    <string name="cfg_prov_settings_desc">प्रदाता से डेटा लोडिंग को प्रभावित करता है</string>
+    <string name="cfg_prov_remove_sd">एसडी चैनल निकालें</string>
+    <string name="cfg_prov_remove_sd_hd">यदि उच्च गुणवत्ता का पता चला है तो SD चैनल निकालें</string>
+    <string name="cfg_prov_remove_tz">अलग-अलग टाइमज़ोन से चैनल निकालें</string>
+    <string name="cfg_prov_follow_includes">एक प्लेलिस्ट में फॉलो करना शामिल है</string>
+    <string name="cfg_sys_settings">प्रणाली व्यवस्था</string>
+    <string name="cfg_pla_hud_settings">खिलाड़ी इंटरफ़ेस</string>
+    <string name="cfg_tv_guide_transparency">पृष्ठभूमि की पारदर्शिता</string>
+    <string name="on_top">ऊपर</string>
+    <string name="on_bottom">नीचे</string>
+    <string name="hint_long_ok_menu">अधिकांश मामलों में लंबे समय तक ओके बटन दबाने से गुण स्क्रीन खुल जाती है</string>
+    <string name="save_state">राज्य बचाओ</string>
+    <string name="restore_state">राज्य को पुनर्स्थापित करें</string>
 </resources>
