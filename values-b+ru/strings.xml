@@ -85,8 +85,6 @@
     <string name="player_menu_pip_on_details">Выйти из режима картинка-в-картинке</string>
     <string name="player_menu_pip_swap_details">Поменять текущий канал и идущий в PiP</string>
     <string name="player_menu_last_channel">Предыдущий канал</string>
-    <string name="player_menu_play_param_sel_audio_track">Выбор звуковой дорожки</string>
-    <string name="player_menu_play_param_sel_audio_track_desc">Выбор другого языка или качества</string>
 
     <string name="settings_player_pip_codec">Выбор кодеков для картинки-в-картинке</string>
     <string name="settings_player_pip_position_tl">слева сверху</string>
@@ -123,7 +121,7 @@
     <string name="archive_auto_seek_title">Перемотать на последнюю запомненную позицию этого видео?</string>
     <string name="archive_auto_seek_no">Нет, смотреть сначала</string>
     <string name="archive_auto_seek_yes">Да, перемотать на</string>
-    <string name="future_show_sheet_add_wl_title">Напомнить мне преключить на канал</string>
+    <string name="future_show_sheet_add_wl_title">Напомнить мне переключить на канал</string>
     <string name="future_show_sheet_search_title">Поиск в архивах</string>
     <string name="future_show_sheet_search_none">Данное видео не найдено в архивах вашего провайдера</string>
     <string name="notify_live_sheet_title">Видео, помеченное для просмотра позже сейчас в эфире</string>
@@ -148,40 +146,19 @@
     <string name="settings_media_library_dnla">Сканировать источники UPnP/DNLA в локальной сети</string>
     <string name="settings_media_library_prov_vod">Сканировать библиотеку провайдера, если она присутствует</string>
 
-    <string name="settings_player">Проигрыватель</string>
+    <string name="settings_player">Плеер</string>
     <string name="settings_player_hide_ui">Прятать интерфейс управления видео через</string>
-    <string name="sec1">1 секунду</string>
-    <string name="sec2">2 секунды</string>
-    <string name="sec3">3 секунды</string>
-    <string name="sec4">4 секунды</string>
-    <string name="sec5">5 секунд</string>
-    <string name="sec6">6 секунд</string>
-    <string name="sec7">7 секунд</string>
-    <string name="sec8">8 секунд</string>
-    <string name="sec9">9 секунд</string>
-    <string name="sec10">10 секунд</string>
     <string name="settings_player_resize_mode">Режим растягивания картинки</string>
     <string name="settings_player_resize_mode_fit">Поместить в экран</string>
     <string name="settings_player_resize_mode_fill">Растянуть на ширину экрана</string>
     <string name="settings_player_resize_mode_zoom">Увеличить до экрана</string>
     <string name="settings_player_resize_mode_zoom_in">Увеличить за экран</string>
     <string name="settings_player_auto_stop_live">Автовыключение трансляции через</string>
-    <string-array name="settings_player_auto_stop_live_names">
-        <item>отключено</item>
-        <item>2 часа</item>
-        <item>3 часа</item>
-        <item>4 часа</item>
-        <item>5 часов</item>
-        <item>6 часов</item>
-        <item>10 часов</item>
-    </string-array>
 
     <string name="settings_extended">Расширенные настройки</string>
     <string name="settings_extended_hide_adult">Прятать категории для взрослых</string>
     <string name="settings_extended_auto_start_last_channel">Автоматически запускать последний просмотренный канал</string>
-    <string name="settings_schedule_epg_custom_only">Использовать только приложенные пользователем источники EPG</string>
     <string name="settings_schedule_epg_reload">Перезагрузить EPG телегид…</string>
-    <string name="settings_schedule_epg_clear">Очистить всю загруженную программу…</string>
 
     <string name="settings_visual">Внешний вид</string>
 
@@ -219,9 +196,6 @@
     <string name="settings_ui_language">Язык (если не установлен - системный)</string>
 
     <string name="settings_disable_provider_categories">Не соблюдать категории провайдера для каналов</string>
-
-    <string name="settings_ui_touch_swipes">Отключить управление громкостью/яркостью пальцем</string>
-    <string name="settings_ui_play_vol_seek">Использовать кнопки перемотки для смены громкости</string>
 
     <string name="settings_devices_no_hdmi">Не следить за сменой состояния HDMI</string>
 
@@ -262,7 +236,6 @@
     <string name="setting_list_view4">таблица (4 колонки)</string>
     <string name="cfg_play_deny_buffer">Не показывать статус буферизации</string>
     <string name="copied_clipboard">Скопировано в буфер</string>
-    <string name="cfg_play_action_none">игнорировать</string>
     <string name="cfg_play_action_menu">открыть меню</string>
     <string name="cfg_play_action_another">открыть выбор другого потока</string>
     <string name="cfg_play_action_timetable">открыть программу передач</string>
@@ -334,7 +307,6 @@
     <string name="cfg_play_action_2live">Переключить на прямой эфир текущего канала</string>
     <string name="player_menu_2live">В прямой эфир</string>
 
-    <string name="cfg_pl_offs_swipe">Перенести тач панель настройки громкости и яркости от края экрана</string>
     <string name="btn_seek">Перемотать</string>
     <string name="cfg_play_action_mseek">Запустить экран перемотки видео</string>
     <string name="menu_exit">Выход</string>
@@ -359,7 +331,6 @@
     <string name="prov_help_contact_via_chat">связаться с разработчиком в чате</string>
     <string name="prov_help_contact_via_email">связаться с разработчиком через email</string>
     <string name="prov_help_provide_more_info">Напишите ваше сообщение разработчику</string>
-    <string name="hint_help_locale">Вы можете помочь с переводом онлайн</string>
     <string name="cfg_time_imp">Использовать имперский формат времени (am/pm)</string>
     <string name="hud_short_seeking">Перемотка</string>
     <string name="cfg_player_clock_tr">верхний правый угол</string>
@@ -380,10 +351,7 @@
     <string name="cfg_section_lists">Настройки списков</string>
 
     <string name="cfg_switch_dummy_on">Переключить на упрощенный режим настроек</string>
-    <string name="cfg_switch_dummy_off">Переключить на продвинутый режим настроек</string>
     <string name="cfg_no_hints">Не показывать подсказки</string>
-    <string name="pla_track_sel_sub">Переключить субтитры</string>
-    <string name="pla_track_sel_sub_desc">Сменить источник субтитров</string>
     <string name="setting_list_view_auto">таблица (большие иконки, заполнить экран)</string>
     <string name="child_mode_unlock_cfg">Введите детский код для доступа к настройкам</string>
     <string name="cfg_child_mode">Детский режим</string>
@@ -399,7 +367,6 @@
 
     <string name="cfg_show_ch_numbers">Показывать номера каналов</string>
     <string name="always">всегда</string>
-    <string name="cfg_play_action_sinfo">посмотреть информацию о текущей передаче</string>
     <string name="menu_tv_guide">Телегид</string>
     <string name="cfg_stream_q">Показывать качество потока</string>
     <string name="ext_player_copy_clipboard">Только копировать ссылку в буфер обмена</string>
@@ -471,7 +438,6 @@
     <string name="cfg_fine_tune_volume">Ручная точная настройка громкости (ограничена системной громкостью)</string>
 
     <string name="cfg_arch_unp">Автоматически переоткрывать из архива при снятии прямого эфира с паузы</string>
-    <string name="cfg_codec_vlc_sync">Использовать VLC кодеки в синхронном режиме (может помочь, если звук остаётся после закрытия потока)</string>
     <string name="cfg_ch_more_epg">Показывать название канала крупнее чем EPG</string>
     <string name="show_menu_add_to_cont_watching">Продолжить посмотреть позже</string>
     <string name="cfg_exit_child_mode">Выйти из детского режима</string>
@@ -523,7 +489,7 @@
     <string name="pos_rearrange_clear">Очистить ручные позиции в списке</string>
     <string name="restart">Перезапустить</string>
     <string name="cfg_prov_settings">Настройки провайдера</string>
-    <string name="cfg_prov_settings_desc">Вляет на загрузку данных от провайдера</string>
+    <string name="cfg_prov_settings_desc">Влияет на загрузку данных от провайдера</string>
     <string name="cfg_prov_remove_sd">Убирать SD каналы</string>
     <string name="cfg_prov_remove_sd_hd">Убирать SD каналы если обнаружено более высокое качество</string>
     <string name="cfg_prov_remove_tz">Убирать каналы из другой временной зоны</string>
@@ -536,4 +502,52 @@
     <string name="hint_long_ok_menu">Долгое нажатие кнопки OK открывает экран свойств в большинстве случаев</string>
     <string name="save_state">Сохранить состояние</string>
     <string name="restore_state">Восстановить состояние</string>
-</resources>
+
+    <string name="pro_studio">Режим студии, позволяющий смотреть множество каналов одновременно</string>
+    <string name="cfg_prov_channel_name">Показывать имя провайдера в имени канала при использовании нескольких провайдеров</string>
+    <string name="increase_text_size">увеличить размер текста</string>
+    <string name="hint_long_up_down">Долгое нажатие стрелок вверх и вниз позволяет более быструю навигацию в списках</string>
+    <string name="pla_act_quick_seek_back_20">перемотать назад на 20 секунд</string>
+    <string name="pla_act_quick_seek_fwd_20">перемотать вперёд на 20 секунд</string>
+    <string name="cfg_touch_control">Настройка сенсорных зон</string>
+    <string name="double_tap">Двойное нажатие</string>
+    <string name="pos_center_top">центр сверху</string>
+    <string name="pos_center_left">центр слева</string>
+    <string name="pos_center_center">центр</string>
+    <string name="pos_center_right">центр справа</string>
+    <string name="pos_center_bottom">центр снизу</string>
+    <string name="cfg_studio_maximize_size">Размеры увеличенного окна</string>
+    <string name="pro_desc_try_free">Вы можете попробовать премиум возможности, подписавшись на месячную подписку. Она включает несколько бесплатных дней, если вы раньше не оплачивали.</string>
+    <string name="cfg_auto_start_system_pip">Автоматически входить в системный режим картинки-в-картинке при переключении из плеера на домашний экран</string>
+    <string name="pla_act_hud">показать интерфейс плеера с информацией о трансляции</string>
+    <string name="pla_act_prop_channel">свойства канала</string>
+    <string name="pla_act_prop_broadcast">свойства текущей передачи</string>
+    <string name="long_press">долгое нажатие</string>
+    <string name="hours">часы</string>
+    <string name="parental_control">родительский контроль</string>
+    <string name="show_different_time_frame_guide">Показать более раннюю или позднюю программу</string>
+    <string name="cfg_list_long_arrow_pg_down">Считать длинное нажатие на стрелки как листание по страницам</string>
+    <string name="seconds">секунды</string>
+    <string name="not_limited">неограничено</string>
+    <string name="auto_detected">автоматическое определение</string>
+    <string name="remove">убрать</string>
+    <string name="video_unsupported">Ни одна из видео дорожек не проигрывается этим устройством</string>
+    <string name="audio_unsupported">Ни одна из аудио дорожек не проигрывается этим устройством</string>
+    <string name="try_other_codecs">Пробуйте другие кодеки или внешний плеер</string>
+    <string name="media_tracks">Медиа дорожки</string>
+    <string name="media_tracks_video">Видео</string>
+    <string name="media_tracks_audio">Аудио</string>
+    <string name="media_tracks_sub">Субтитры</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">Автопрокрутка до последнего элемента (в тач режиме)</string>
+    <string name="hint_right_archives">Вы можете нажать кнопку ВПРАВО в списке каналов прямого эфира, чтобы открыть список архивов.</string>
+    <string name="cfg_atv_home_always_reset_favorites">Всегда сбрасывать список избранного на главном экране</string>
+    <string name="switch_audio_hw">Использовать аппаратный аудио декодер</string>
+    <string name="switch_audio_sw">Использовать программный аудио декодер</string>
+<string name="afr_mode_scale">разрешение экрана должно быть изменено</string>
+    <string name="cfg_ch_icons_dir">Каталог с иконками каналов</string>
+    <string name="cfg_ch_remove_dups">Удалять дубликаты каналов (с одинаковым названием)</string>
+    <string name="codecs_hardware">аппаратные кодеки</string>
+    <string name="ch_man_map_to_logo">Выберите логотип канала</string>
+    <string name="cfg_tvguide_large_preview">Показать увеличенное описание с предварительным просмотром</string>
+    <string name="cfg_time_shift_from_utc">Отличие от системного времени</string>
+    </resources>

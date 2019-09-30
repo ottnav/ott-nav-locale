@@ -90,8 +90,6 @@
     <string name="player_menu_pip_on_details">خروج از حالت تصویر در تصویر</string>
     <string name="player_menu_pip_swap_details">مبادله کانال اصلی و PiP یکی</string>
     <string name="player_menu_last_channel">آخرین کانال</string>
-    <string name="player_menu_play_param_sel_audio_track">آهنگ صوتی را انتخاب کنید</string>
-    <string name="player_menu_play_param_sel_audio_track_desc">زبان یا کیفیت دیگری را انتخاب کنید</string>
 
     <string name="settings_player_pip_codec">انتخاب کدک های تصویری در تصویر</string>
     <string name="settings_player_pip_position_tl">بالا سمت چپ</string>
@@ -155,39 +153,17 @@
 
     <string name="settings_player">بازیکن</string>
     <string name="settings_player_hide_ui">مخفی کردن پوشش UI در پخش در</string>
-    <string name="sec1">1 ثانیه</string>
-    <string name="sec2">2 ثانیه</string>
-    <string name="sec3">3 ثانیه</string>
-    <string name="sec4">4 ثانیه</string>
-    <string name="sec5">5 ثانیه</string>
-    <string name="sec6">6 ثانیه</string>
-    <string name="sec7">7 ثانیه</string>
-    <string name="sec8">8 ثانیه</string>
-    <string name="sec9">9 ثانیه</string>
-    <string name="sec10">10 ثانیه</string>
     <string name="settings_player_resize_mode">حالت مقیاس ویدیو</string>
     <string name="settings_player_resize_mode_fit">متناسب با صفحه نمایش</string>
     <string name="settings_player_resize_mode_fill">گسترش به عرض صفحه نمایش</string>
     <string name="settings_player_resize_mode_zoom">روی صفحه نمایش زوم کنید</string>
     <string name="settings_player_resize_mode_zoom_in">از یک صفحه بزرگنمایی کنید</string>
     <string name="settings_player_auto_stop_live">خودکار را خاموش کنید</string>
-    <string-array name="settings_player_auto_stop_live_names">
-        <item>معلول</item>
-        <item>2 ساعت</item>
-        <item>3 ساعت</item>
-        <item>4 ساعت</item>
-        <item>5 ساعت</item>
-        <item>6 ساعت</item>
-        <item>10 ساعت</item>
-    </string-array>
-
 
     <string name="settings_extended">تنظیمات تمدید شده</string>
     <string name="settings_extended_hide_adult">پنهان کردن دسته های بزرگسال</string>
     <string name="settings_extended_auto_start_last_channel">آخرین کانال پخش شده را به طور خودکار شروع کنید</string>
-    <string name="settings_schedule_epg_custom_only">فقط از منابع EPG ارائه شده توسط کاربر استفاده کنید</string>
     <string name="settings_schedule_epg_reload">بازنگری EPG teleguide ...</string>
-    <string name="settings_schedule_epg_clear">پاک کردن داده های EPG لود شده ...</string>
 
     <string name="settings_visual">سبک بصری</string>
 
@@ -225,9 +201,6 @@
     <string name="settings_ui_language">زبان (اگر تنظیم نشده باشد، از پیش فرض استفاده می کند)</string>
 
     <string name="settings_disable_provider_categories">از دسته های ارائه دهنده کانال ها اطاعت نکنید</string>
-
-    <string name="settings_ui_touch_swipes">کنترل لمسی / کنترل روشنایی را غیرفعال کنید</string>
-    <string name="settings_ui_play_vol_seek">استفاده از دکمه های عقبگرد برای تغییر صدا</string>
 
     <string name="settings_devices_no_hdmi">تغییرات حالت HDMI را نظارت نکنید</string>
 
@@ -270,7 +243,6 @@
     <string name="setting_list_view4">جدول (4 ستون)</string>
     <string name="cfg_play_deny_buffer">وضعیت بافر را نشان ندهید</string>
     <string name="copied_clipboard">کپی به کلیپ بورد</string>
-    <string name="cfg_play_action_none">چشم پوشی</string>
     <string name="cfg_play_action_menu">منوی باز</string>
     <string name="cfg_play_action_another">یک انتخاب جریان دیگر را باز کنید</string>
     <string name="cfg_play_action_timetable">جدول زمانی باز</string>
@@ -343,7 +315,6 @@
     <string name="cfg_play_action_2live">انتقال به پخش زنده کانال جاری</string>
     <string name="player_menu_2live">تغییر به زندگی</string>
 
-    <string name="cfg_pl_offs_swipe">لبه صفحه لمسی حجم و روشنایی را از لبه صفحه حرکت دهید</string>
     <string name="btn_seek">جستجو کن</string>
     <string name="cfg_play_action_mseek">نمایش جستجوی ویدیو را آغاز می کند</string>
     <string name="menu_exit">خروج</string>
@@ -368,7 +339,6 @@
     <string name="prov_help_contact_via_chat">از طریق چت با توسعهدهنده تماس بگیرید</string>
     <string name="prov_help_contact_via_email">از طریق ایمیل با توسعه دهنده تماس بگیرید</string>
     <string name="prov_help_provide_more_info">پیام خود را به برنامه نویس بنویسید</string>
-    <string name="hint_help_locale">شما می توانید به بهبود ترجمه آنلاین کمک کنید</string>
     <string name="cfg_time_imp">فرمت زمان امپراتوری (AM / PM) را استفاده کنید</string>
     <string name="hud_short_seeking">به دنبال</string>
     <string name="cfg_player_clock_tr">گوشه بالا سمت راست</string>
@@ -389,10 +359,7 @@
     <string name="cfg_section_lists">فهرست تنظیمات</string>
 
     <string name="cfg_switch_dummy_on">به حالت تنظیمات ساده تغییر دهید</string>
-    <string name="cfg_switch_dummy_off">به حالت تنظیمات پیشرفته بروید</string>
     <string name="cfg_no_hints">نکات را نشان ندهید</string>
-    <string name="pla_track_sel_sub">تعویض زیرنویسها</string>
-    <string name="pla_track_sel_sub_desc">تغییر زیرنویس منبع</string>
     <string name="setting_list_view_auto">جدول (آیکون های بزرگ، متناسب با صفحه نمایش)</string>
     <string name="child_mode_unlock_cfg">کد کودک را برای باز کردن تنظیمات وارد کنید</string>
     <string name="cfg_child_mode">حالت کودک</string>
@@ -408,7 +375,6 @@
 
     <string name="cfg_show_ch_numbers">نمایش شماره کانال</string>
     <string name="always">همیشه</string>
-    <string name="cfg_play_action_sinfo">اطلاعات فعلی در مورد برنامه تلویزیونی فعلی را مشاهده کنید</string>
     <string name="menu_tv_guide">راهنمای تلویزیون</string>
     <string name="cfg_stream_q">نمایش کیفیت جریان</string>
     <string name="ext_player_copy_clipboard">فقط کپی لینک به کلیپ بورد</string>
@@ -480,7 +446,6 @@
     <string name="cfg_fine_tune_volume">تنظیم صدا صوتی دستی (محدود به حجم سیستم)</string>
 
     <string name="cfg_arch_unp">در صورت عدم دسترسی به جریان مستقیم، بایگانی به صورت خودکار بازخوانی شود</string>
-    <string name="cfg_codec_vlc_sync">استفاده از کدک های VLC را در حالت هماهنگ (ممکن است هنگامی که صدا پس از بسته شدن جریان پخش می شود، کمک کند)</string>
     <string name="cfg_ch_more_epg">نمایش نام کانال بزرگتر از EPG</string>
     <string name="show_menu_add_to_cont_watching">بعدا تماشا کنید</string>
     <string name="cfg_exit_child_mode">خروج از حالت کودک</string>
@@ -545,4 +510,51 @@
     <string name="hint_long_ok_menu">با فشار دادن طولانی دکمه OK در بیشتر موارد صفحه خصوصیات باز می شود</string>
     <string name="save_state">صرفه جویی در دولت</string>
     <string name="restore_state">بازیابی حالت</string>
-</resources>
+<string name="pro_studio">حالت استودیو ، امکان تماشای چندین جریان همزمان</string>
+    <string name="cfg_prov_channel_name">هنگام استفاده از چندین ارائه دهنده ، نام ارائه دهنده را به نام کانال نشان دهید</string>
+    <string name="increase_text_size">اندازه متن را افزایش دهید</string>
+    <string name="hint_long_up_down">فشار دادن طولانی به بالا و پایین فلش اجازه می دهد تا ناوبری سریعتر در لیست قرار گیرد</string>
+    <string name="pla_act_quick_seek_back_20">20 ثانیه به عقب برگردید</string>
+    <string name="pla_act_quick_seek_fwd_20">20 ثانیه جلو بروید</string>
+    <string name="cfg_touch_control">پیکربندی مناطق لمسی</string>
+    <string name="double_tap">دو تا ضربه ی آهسته بزن</string>
+    <string name="pos_center_top">مرکز عالی</string>
+    <string name="pos_center_left">وسط سمت چپ</string>
+    <string name="pos_center_center">مرکز</string>
+    <string name="pos_center_right">سمت راست</string>
+    <string name="pos_center_bottom">مرکز پایین</string>
+    <string name="cfg_studio_maximize_size">ابعاد پنجره حداکثر</string>
+    <string name="pro_desc_try_free">با عضویت در برنامه ماهانه می توانید ویژگی های حق بیمه را پیش نمایش دهید. چندین روز شروع به صورت رایگان دارد مگر اینکه قبلاً پرداخت کرده باشید.</string>
+    <string name="cfg_auto_start_system_pip">هنگام جابجایی از دستگاه پخش به صفحه اصلی ، به طور خودکار حالت تصویر در تصویر سیستم را وارد کنید</string>
+    <string name="pla_act_hud">رابط پخش کننده را با جزئیات پخش نشان دهید</string>
+    <string name="pla_act_prop_channel">خصوصیات کانال</string>
+    <string name="pla_act_prop_broadcast">ویژگی های پخش فعلی</string>
+    <string name="long_press">فشار طولانی</string>
+    <string name="hours">ساعت ها</string>
+    <string name="parental_control">کنترل والدین</string>
+    <string name="show_different_time_frame_guide">جدول زمانی زودتر یا دیرتر نمایش دهید</string>
+    <string name="cfg_list_long_arrow_pg_down">با استفاده از صفحات ، ناوبری مطبوعاتی با کلید فلش طولانی را کنترل کنید</string>
+    <string name="seconds">ثانیه</string>
+    <string name="not_limited">بدون محدودیت</string>
+    <string name="auto_detected">خودکار شناسایی شد</string>
+    <string name="remove">برداشتن</string>
+    <string name="video_unsupported">هیچ یک از آهنگ های ویدیویی توسط این دستگاه قابل پخش نیست</string>
+    <string name="audio_unsupported">هیچ یک از آهنگ های صوتی توسط این دستگاه قابل پخش نیست</string>
+    <string name="try_other_codecs">کدک های مختلف یا پخش کننده خارجی را امتحان کنید</string>
+    <string name="media_tracks">آهنگ رسانه ای</string>
+    <string name="media_tracks_video">فیلم</string>
+    <string name="media_tracks_audio">سمعی</string>
+    <string name="media_tracks_sub">زیرنویس ها</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">پیمایش خودکار به مورد آخر (در حالت لمسی)</string>
+    <string name="hint_right_archives">می توانید دکمه RIGHT را هنگام مرور کانالهای زنده فشار دهید تا لیست بایگانی ها باز شود</string>
+    <string name="cfg_atv_home_always_reset_favorites">همیشه لیست موارد دلخواه را در صفحه اصلی بازنشانی کنید</string>
+    <string name="switch_audio_hw">از رمزگذار صوتی سخت افزاری استفاده کنید</string>
+    <string name="switch_audio_sw">از رمزگذار صوتی نرم افزار استفاده کنید</string>
+    <string name="afr_mode_scale">وضوح صفحه باید تغییر کند</string>
+    <string name="cfg_ch_icons_dir">فهرست با نمادهای کانال</string>
+    <string name="cfg_ch_remove_dups">حذف کانال های تکراری (با همین نام)</string>
+    <string name="codecs_hardware">کدک های سخت افزاری</string>
+    <string name="ch_man_map_to_logo">آرم کانال را انتخاب کنید</string>
+    <string name="cfg_tvguide_large_preview">توضیحات بزرگتر را با پیش نمایش نشان دهید</string>
+    <string name="cfg_time_shift_from_utc">تفاوت با زمان سیستم</string>
+    </resources>

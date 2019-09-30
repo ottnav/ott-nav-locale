@@ -85,8 +85,6 @@
     <string name="player_menu_pip_on_details">Exit picture-in-picture mode</string>
     <string name="player_menu_pip_swap_details">Swap main channel and PiP one</string>
     <string name="player_menu_last_channel">Last channel</string>
-    <string name="player_menu_play_param_sel_audio_track">Select audio track</string>
-    <string name="player_menu_play_param_sel_audio_track_desc">Choose another language or quality</string>
 
     <string name="settings_player_pip_codec">Picture-in-Picture codecs selection</string>
     <string name="settings_player_pip_position_tl">top left</string>
@@ -150,38 +148,17 @@
 
     <string name="settings_player">Player</string>
     <string name="settings_player_hide_ui">Hide UI overlay in playback in</string>
-    <string name="sec1">1 second</string>
-    <string name="sec2">2 seconds</string>
-    <string name="sec3">3 seconds</string>
-    <string name="sec4">4 seconds</string>
-    <string name="sec5">5 seconds</string>
-    <string name="sec6">6 seconds</string>
-    <string name="sec7">7 seconds</string>
-    <string name="sec8">8 seconds</string>
-    <string name="sec9">9 seconds</string>
-    <string name="sec10">10 seconds</string>
     <string name="settings_player_resize_mode">Video scale mode</string>
     <string name="settings_player_resize_mode_fit">Fit to screen</string>
     <string name="settings_player_resize_mode_fill">Expand to screen width</string>
     <string name="settings_player_resize_mode_zoom">Zoom to screen</string>
     <string name="settings_player_resize_mode_zoom_in">Zoom out of a screen</string>
     <string name="settings_player_auto_stop_live">Auto turn off broadcast in</string>
-    <string-array name="settings_player_auto_stop_live_names">
-        <item>disabled</item>
-        <item>2 hours</item>
-        <item>3 hours</item>
-        <item>4 hours</item>
-        <item>5 hours</item>
-        <item>6 hours</item>
-        <item>10 hours</item>
-    </string-array>
 
     <string name="settings_extended">Extended settings</string>
     <string name="settings_extended_hide_adult">Hide adult categories</string>
     <string name="settings_extended_auto_start_last_channel">Automatically start last played channel</string>
-    <string name="settings_schedule_epg_custom_only">Only use specified user-provided EPG sources</string>
     <string name="settings_schedule_epg_reload">Reload EPG teleguide…</string>
-    <string name="settings_schedule_epg_clear">Clear all loaded EPG data…</string>
 
     <string name="settings_visual">Visual style</string>
 
@@ -219,9 +196,6 @@
     <string name="settings_ui_language">Language (if not set, uses default)</string>
 
     <string name="settings_disable_provider_categories">Do not obey provider categories for channels</string>
-
-    <string name="settings_ui_touch_swipes">Disable touch volume/brightness control</string>
-    <string name="settings_ui_play_vol_seek">Use rewind buttons to change volume</string>
 
     <string name="settings_devices_no_hdmi">Do not monitor HDMI state changes</string>
 
@@ -262,7 +236,6 @@
     <string name="setting_list_view4">table (4 columns)</string>
     <string name="cfg_play_deny_buffer">Do not show buffering status</string>
     <string name="copied_clipboard">Copied to clipboard</string>
-    <string name="cfg_play_action_none">ignore</string>
     <string name="cfg_play_action_menu">open menu</string>
     <string name="cfg_play_action_another">open another stream selection</string>
     <string name="cfg_play_action_timetable">open timetable</string>
@@ -334,7 +307,6 @@
     <string name="cfg_play_action_2live">Switch to live broadcast of the current channel</string>
     <string name="player_menu_2live">Switch to live</string>
 
-    <string name="cfg_pl_offs_swipe">Move volume and brightness touch panel from edge of the screen</string>
     <string name="btn_seek">Seek</string>
     <string name="cfg_play_action_mseek">Starts video seeking view</string>
     <string name="menu_exit">Exit</string>
@@ -359,7 +331,6 @@
     <string name="prov_help_contact_via_chat">contact developer via chat</string>
     <string name="prov_help_contact_via_email">contact developer via email</string>
     <string name="prov_help_provide_more_info">Write your message to developer</string>
-    <string name="hint_help_locale">You can help improving the translation online</string>
     <string name="cfg_time_imp">Use imperial time format (am/pm)</string>
     <string name="hud_short_seeking">Seeking</string>
     <string name="cfg_player_clock_tr">top right corner</string>
@@ -380,10 +351,7 @@
     <string name="cfg_section_lists">Lists settings</string>
 
     <string name="cfg_switch_dummy_on">Switch to simplified settings mode</string>
-    <string name="cfg_switch_dummy_off">Switch to advanced settings mode</string>
     <string name="cfg_no_hints">Do not show hints</string>
-    <string name="pla_track_sel_sub">Switch subtitles</string>
-    <string name="pla_track_sel_sub_desc">Change subtitles source</string>
     <string name="setting_list_view_auto">table (large icons, fit the screen)</string>
     <string name="child_mode_unlock_cfg">Enter child code to unlock settings</string>
     <string name="cfg_child_mode">Child mode</string>
@@ -399,7 +367,6 @@
 
     <string name="cfg_show_ch_numbers">Show channel numbers</string>
     <string name="always">always</string>
-    <string name="cfg_play_action_sinfo">view current info about current tv program</string>
     <string name="menu_tv_guide">TV Guide</string>
     <string name="cfg_stream_q">Show stream quality</string>
     <string name="ext_player_copy_clipboard">Copy link to clipboard only</string>
@@ -471,7 +438,6 @@
     <string name="cfg_fine_tune_volume">Manual audio volume fine-tune (limited by system volume)</string>
 
     <string name="cfg_arch_unp">Automatically reopen archive when unpausing live stream</string>
-    <string name="cfg_codec_vlc_sync">Use VLC codecs in synchronized mode (might help when audio plays after closing stream)</string>
     <string name="cfg_ch_more_epg">Show channel name larger than EPG</string>
     <string name="show_menu_add_to_cont_watching">Continue watching later</string>
     <string name="cfg_exit_child_mode">Exit child mode</string>
@@ -536,4 +502,52 @@
     <string name="hint_long_ok_menu">Long pressing OK button opens properties screen in most cases</string>
     <string name="save_state">Save state</string>
     <string name="restore_state">Restore state</string>
+
+    <string name="pro_studio">Studio mode, allowing to watch multiple streams at the same time</string>
+    <string name="cfg_prov_channel_name">Show provider name in channel name when using multiple providers</string>
+    <string name="increase_text_size">increase text size</string>
+    <string name="hint_long_up_down">Long pressing up and down arrows allows faster list navigation</string>
+    <string name="pla_act_quick_seek_back_20">seek backwards by 20 seconds</string>
+    <string name="pla_act_quick_seek_fwd_20">seek forward by 20 seconds</string>
+    <string name="cfg_touch_control">Touch zones configuration</string>
+    <string name="double_tap">Double tap</string>
+    <string name="pos_center_top">top center</string>
+    <string name="pos_center_left">center left</string>
+    <string name="pos_center_center">center</string>
+    <string name="pos_center_right">center right</string>
+    <string name="pos_center_bottom">bottom center</string>
+    <string name="cfg_studio_maximize_size">Dimensions of maximized window</string>
+    <string name="pro_desc_try_free">You can preview premium features by subscribing to monthly plan. It has several starting days for free unless you already had payments.</string>
+    <string name="cfg_auto_start_system_pip">Automatically enter system picture-in-picture mode when switching from player to home screen</string>
+    <string name="pla_act_hud">show player interface with broadcast details</string>
+    <string name="pla_act_prop_channel">channel properties</string>
+    <string name="pla_act_prop_broadcast">current broadcast properties</string>
+    <string name="long_press">long pressing</string>
+    <string name="hours">hours</string>
+    <string name="parental_control">parental control</string>
+    <string name="show_different_time_frame_guide">Show earlier or later timetable</string>
+    <string name="cfg_list_long_arrow_pg_down">Treat long arrow key press navigation by pages</string>
+    <string name="seconds">seconds</string>
+    <string name="not_limited">not limited</string>
+    <string name="auto_detected">auto detected</string>
+    <string name="remove">remove</string>
+    <string name="video_unsupported">None of the video tracks are playable by this device</string>
+    <string name="audio_unsupported">None of the audio tracks are playable by this device</string>
+    <string name="try_other_codecs">Try different codecs or external player</string>
+    <string name="media_tracks">Media tracks</string>
+    <string name="media_tracks_video">Video</string>
+    <string name="media_tracks_audio">Audio</string>
+    <string name="media_tracks_sub">Subtitles</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">Auto scroll to last item (in touch mode)</string>
+    <string name="hint_right_archives">You can press RIGHT button while browsing live channels to open archives list</string>
+    <string name="cfg_atv_home_always_reset_favorites">Always reset list of favorites on home screen</string>
+    <string name="switch_audio_hw">Use hardware audio decoder</string>
+    <string name="switch_audio_sw">Use software audio decoder</string>
+    <string name="afr_mode_scale">screen resolution should be changed</string>
+    <string name="cfg_ch_icons_dir">Directory with channel icons</string>
+    <string name="cfg_ch_remove_dups">Remove duplicate channels (with the same name)</string>
+    <string name="codecs_hardware">hardware codecs</string>
+    <string name="ch_man_map_to_logo">Select channel logo</string>
+    <string name="cfg_tvguide_large_preview">Show larger description with preview</string>
+    <string name="cfg_time_shift_from_utc">Difference from system time</string>
 </resources>

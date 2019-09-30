@@ -1,547 +1,552 @@
 <resources>
     <string name="press_back_once_more_to_exit">再按一次退出</string>
 
-    <string name="search_bar">按渠道或计划搜索</string>
-    <string name="search_bar_clue">尝试电影，电视剧，电视节目名称或演员姓名</string>
+    <string name="search_bar">搜索频道或节目</string>
+    <string name="search_bar_clue">试试输入电影、电视剧、电视节目或演员的名字</string>
 
-
-    <string name="menu_search">视频搜索</string>
-    <string name="menu_live">现场直播</string>
-    <string name="menu_archive">显示存档</string>
+    <string name="menu_search">搜索</string>
+    <string name="menu_live">直播</string>
+    <string name="menu_archive">概览</string>
     <string name="menu_settings">设置</string>
-    <string name="menu_error_require_provider_title">OTT提供商是必需的</string>
-    <string name="menu_error_require_provider_text">仅当配置OTT提供程序时，此区域才可用。选择其他选项，或配置提供程序。</string>
-    <string name="menu_error_require_provider_button">配置提供商</string>
-    <string name="menu_error_require_status_title">数据正在编入索引</string>
-    <string name="menu_error_require_status_text">此部分的信息尚不可用。该过程可能需要几分钟。选择其他部分或稍等一下。</string>
-    <string name="menu_error_require_live_but_no_playlist_title">带有频道的播放列表无法加载</string>
-    <string name="menu_error_require_live_but_no_playlist_text">无法访问配置的提供程序或播放列表。请重新检查提供商设置，如果它们看起来没问题，请联系您的IPTV提供商。</string>
-    <string name="menu_error_provider_no_archive_title">档案不受支持</string>
-    <string name="menu_error_provider_no_archive_text">所选提供商不支持存档。只有实时流可用。导航到设置以更改提供者或转到实时流。</string>
+    <string name="menu_error_require_provider_title">您需要配置网络视频业务（OTT）供应商</string>
+    <string name="menu_error_require_provider_text">配置完成后才能正常使用此项功能。如果不使用OTT业务，也可尝试其他选项。</string>
+    <string name="menu_error_require_provider_button">配置视频业务供应商</string>
+    <string name="menu_error_require_status_title">数据检索中</string>
+    <string name="menu_error_require_status_text">暂无可用信息。检索数据可能需要几分钟时间，请稍等片刻或尝试其他选项。</string>
+    <string name="menu_error_require_live_but_no_playlist_title">频道列表加载失败</string>
+    <string name="menu_error_require_live_but_no_playlist_text">网络视频供应商或频道列表不可用。请重新配置或联系网络视频供应商。</string>
+    <string name="menu_error_provider_no_archive_title">不支持数据归档</string>
+    <string name="menu_error_provider_no_archive_text">当前视频供应商不支持数据归档。仅直播流可用。请转到设置选项，更换另一个视频供应商，或观看直播。</string>
     <string name="menu_error_provider_no_archive_button">转到直播</string>
 
-
-    <string name="browse_description_series_number">插曲</string>
+    <string name="browse_description_series_number">集</string>
     <string name="browse_description_header_live">直播频道</string>
     <string name="browse_description_header_program">频道时间表</string>
 
-
-    <string name="category_movies">所有电影</string>
-    <string name="category_tv_series">所有电视剧</string>
-    <string name="category_tv_shows">所有电视节目</string>
-    <string name="category_fav_channels">喜爱的频道</string>
-    <string name="category_by_categories">按类别筛选</string>
-    <string name="category_by_years">按生产日期过滤</string>
-    <string name="category_by_age">按年龄评分过滤</string>
-    <string name="category_by_country">按来源国家筛选</string>
-    <string name="category_by_unsorted">一切</string>
-    <string name="category_by_favorite">喜爱</string>
-    <string name="category_desc_movies">从所有渠道自动过滤</string>
-    <string name="category_desc_tv_series">从所有渠道自动过滤</string>
+    <string name="category_movies">全部电影</string>
+    <string name="category_tv_series">全部电视剧</string>
+    <string name="category_tv_shows">全部电视节目</string>
+    <string name="category_fav_channels">我的最爱</string>
+    <string name="category_by_categories">按类型分类</string>
+    <string name="category_by_years">按日期分类</string>
+    <string name="category_by_age">按年限分类</string>
+    <string name="category_by_country">按国家分类</string>
+    <string name="category_by_unsorted">全部显示</string>
+    <string name="category_by_favorite">按喜爱程度分类</string>
+    <string name="category_desc_movies">自动分类</string>
+    <string name="category_desc_tv_series">自动分类</string>
     <string name="category_desc_exact_tv_series">电视剧</string>
-    <string name="category_desc_tv_shows">从所有渠道自动过滤</string>
+    <string name="category_desc_tv_shows">自动分类</string>
     <string name="category_desc_exact_tv_shows">电视节目</string>
     <string name="category_desc_tv_channel">电视频道</string>
-    <string name="category_desc_from_fav">仅限喜爱频道的内容</string>
+    <string name="category_desc_from_fav">仅显示我的最爱</string>
 
+    <string name="in_1_minute">在1分钟后</string>
+    <string name="in_n_minutes">在10分钟后</string>
+    <string name="player_episode_details_season">季</string>
+    <string name="player_episode_details_series">集</string>
+    <string name="player_warn_turn_off">将关闭软件</string>
+    <string name="player_press_to_cancel">按确定键取消</string>
+    <string name="player_touch_to_cancel">点击屏幕取消</string>
+    <string name="player_state_no_media">未选择视频流</string>
+    <string name="player_state_no_media_ended">未选择视频流或已结束</string>
+    <string name="player_state_buffering">缓冲中</string>
 
-    <string name="in_1_minute">在1分钟</string>
-    <string name="in_n_minutes">在10分钟内</string>
-    <string name="player_episode_details_season">季节</string>
-    <string name="player_episode_details_series">插曲</string>
-    <string name="player_warn_turn_off">会关掉</string>
-    <string name="player_press_to_cancel">按确定取消</string>
-    <string name="player_touch_to_cancel">触摸屏取消</string>
-    <string name="player_state_no_media">流未选中</string>
-    <string name="player_state_no_media_ended">流未选中（已结束）</string>
-    <string name="player_state_buffering">缓冲</string>
-
-
-    <string name="error_this_video_requires_external_player">此视频需要外部播放器以获得最佳体验</string>
-    <string name="error_stream_not_reachable_no_connect">流无法访问（无法连接）。联系您的提供商</string>
-    <string name="error_stream_not_reachable_no_resource">流无法访问。联系您的提供商</string>
-    <string name="error_stream_not_reachable_forbidden">访问被拒绝（错误的密钥？）。联系您的提供商</string>
-    <string name="error_archive_not_supported_this_channel">您的提供商不提供此渠道的存档</string>
+    <string name="error_this_video_requires_external_player">使用外部播放器来播放此视频效果更好</string>
+    <string name="error_stream_not_reachable_no_connect">无法访问或连接，请联系您的供应商</string>
+    <string name="error_stream_not_reachable_no_resource">无法访问。请联系您的供应商</string>
+    <string name="error_stream_not_reachable_forbidden">拒绝访问（是不是密码错了？）请联系您的供应商</string>
+    <string name="error_archive_not_supported_this_channel">当前视频供应商未给频道提供直播流。</string>
     <string name="error_search_nothing_found">没有任何内容符合您的搜索查询</string>
-    <string name="error_require_file_permission_grant_and_try_again">存储访问是必需的。提供访问权限并重试该操作</string>
+    <string name="error_require_file_permission_grant_and_try_again">需要存储访问权限，请授权后重试</string>
 
-    <string name="info_teleguide_loaded">加载Teleguide（EPG）：记录</string>
+    <string name="info_teleguide_loaded">节目指南已加载：记录</string>
 
-    <string name="player_menu_select_channel_title">另一个渠道</string>
-    <string name="player_menu_select_archive_title">另一个视频</string>
+    <string name="player_menu_select_channel_title">下一个频道</string>
+    <string name="player_menu_select_archive_title">下一个视频</string>
     <string name="player_menu_set_pause_on_title">暂停播放</string>
     <string name="player_menu_set_pause_off_title">继续播放</string>
     <string name="player_menu_set_pause_on_details">播放</string>
     <string name="player_menu_set_pause_off_details">暂停</string>
-    <string name="player_menu_show_timetable_title">时间表</string>
+    <string name="player_menu_show_timetable_title">节目单</string>
     <string name="player_menu_playback_parameters_title">参数</string>
     <string name="player_menu_playback_parameters_speed">播放速度</string>
     <string name="player_menu_aspect_ratio_title">宽高比</string>
     <string name="player_menu_aspect_ratio_fit_details">适应屏幕</string>
-    <string name="player_menu_aspect_ratio_fill_details">填充宽度</string>
-    <string name="player_menu_aspect_ratio_zoom_details">缩放到屏幕</string>
-    <string name="player_menu_aspect_ratio_zoom_in_details">缩小屏幕（裁剪部分）</string>
-    <string name="player_menu_favorite_on_details">添加到收藏夹</string>
-    <string name="player_menu_favorite_off_details">从收藏夹中删除</string>
+    <string name="player_menu_aspect_ratio_fill_details">横向拉伸</string>
+    <string name="player_menu_aspect_ratio_zoom_details">全屏缩放</string>
+    <string name="player_menu_aspect_ratio_zoom_in_details">居中放大</string>
+    <string name="player_menu_favorite_on_details">添加到我的最爱</string>
+    <string name="player_menu_favorite_off_details">从我的最爱中删除</string>
     <string name="player_menu_timeshift">时移</string>
-    <string name="player_menu_timeshift_on_details">重启视频</string>
-    <string name="player_menu_timeshift_off_details">回到现场</string>
-    <string name="player_menu_pip_title">子母画面</string>
-    <string name="player_menu_pip_on_details">退出画中画模式</string>
-    <string name="player_menu_pip_swap_details">交换主通道和PiP一个</string>
-    <string name="player_menu_last_channel">最后一个频道</string>
-    <string name="player_menu_play_param_sel_audio_track">选择音轨</string>
-    <string name="player_menu_play_param_sel_audio_track_desc">选择其他语言或质量</string>
+    <string name="player_menu_timeshift_on_details">从头播放</string>
+    <string name="player_menu_timeshift_off_details">回到直播</string>
+    <string name="player_menu_pip_title">画中画</string>
+    <string name="player_menu_pip_on_details">退出画中画</string>
+    <string name="player_menu_pip_swap_details">切换主副画面</string>
+    <string name="player_menu_last_channel">上次观看的频道</string>
 
-    <string name="settings_player_pip_codec">画中画编解码器选择</string>
-    <string name="settings_player_pip_position_tl">左上方</string>
-    <string name="settings_player_pip_position_tr">右上</string>
-    <string name="settings_player_pip_position_bl">左下方</string>
+    <string name="settings_player_pip_codec">选择画中画编解码器</string>
+    <string name="settings_player_pip_position_tl">左上角</string>
+    <string name="settings_player_pip_position_tr">右上角</string>
+    <string name="settings_player_pip_position_bl">左下角</string>
     <string name="settings_player_pip_position_br">右下角</string>
-    <string name="settings_channel_sort_mode">按渠道排序</string>
-    <string name="settings_channel_sort_mode_freq">频率（首先是收藏，然后是最频繁的频道）</string>
-    <string name="settings_channel_sort_mode_prov">从提供者播放列表中订购</string>
-    <string name="settings_channel_sort_mode_name">名称（首先收藏，然后按字母顺序）</string>
-    <string name="settings_run_at_boot">在设备启动时启动应用程序</string>
+    <string name="settings_channel_sort_mode">频道排序方式</string>
+    <string name="settings_channel_sort_mode_freq">智能（最爱频道优先，然后按观看频率排序）</string>
+    <string name="settings_channel_sort_mode_prov">原始（网络视频供应商的原始顺序）</string>
+    <string name="settings_channel_sort_mode_name">名称（最爱频道优先，然后按字母顺序排序）</string>
+    <string name="settings_run_at_boot">开机自启</string>
 
-    <string name="hint_title">暗示</string>
-    <string name="hint_long_tap">您可以长按列表项以获取扩展说明（如果适用）。</string>
-    <string name="hint_fav_sorting">应用程序按手表频率对频道进行排序您标记为收藏的频道将始终位于顶部。您可以通过启用使用提供商渠道订单来禁用自动排序，但收藏夹过滤器将不可用。</string>
-    <string name="hint_video_codecs">如果源播放效果不佳，您可以尝试在设置中增加缓冲区大小，切换到另一个流解码器（硬件或软件），或者如果出现任何故障，请配置为使用外部播放器进行播放。</string>
-    <string name="hint_auto_turn_off">您可以在一些空闲时间后配置自动流关闭（在每分钟计费时很有用）。空闲意味着没有使用任何玩家动作（例如：菜单，搜索，暂停等）。</string>
+    <string name="hint_title">提示</string>
+    <string name="hint_long_tap">长按列表项可获取额外说明（如果适用）。</string>
+    <string name="hint_fav_sorting">智能排序时，最爱频道总是靠前排列的。想禁用智能排序，选择使用供应商的原始顺序，但最爱频道中筛选功能将不可用。</string>
+    <string name="hint_video_codecs">如果播放效果不佳，您可以尝试在设置中增加缓冲区大小，或者换一个解码器（硬解或软解）。如果还是不行，请配置外部播放器。</string>
+    <string name="hint_auto_turn_off">您可设置多长时间无操作后自动关闭当前视频流（对按时计费的人很有用）。无操作是指软件未收到播放行为（例如：调用菜单、搜索、暂停等）。</string>
 
-    <string name="settings_provider_select_type_intro1">注意：您需要OTT / IPTV提供商才能使用此应用程序。</string>
-    <string name="settings_provider_select_type_intro2">应用程序仅适用于用户提供的播放列表。</string>
+    <string name="settings_provider_select_type_intro1">注意：您需要配置网络视频OTT/IPTV供应商才能使用此应用程序。</string>
+    <string name="settings_provider_select_type_intro2">本应用程序兼容用户提供的播放列表。</string>
     <string name="settings_provider_select_apply">应用</string>
     <string name="settings_provider_select_return">返回</string>
 
     <string name="settings_provider_select_status_error">配置错误。无法加载数据</string>
-    <string name="settings_provider_select_status_success">设置已成功应用</string>
+    <string name="settings_provider_select_status_success">设置成功</string>
 
-    <string name="settings_provider_select_action_playlist">验证播放列表</string>
-    <string name="settings_provider_select_action_live">加载直播频道</string>
-    <string name="settings_provider_select_error_playlist">播放列表似乎无效或不包含任何支持的频道</string>
-    <string name="settings_provider_select_error_live">不包含支持的直播频道。检查用户名/密钥/密码/网址。</string>
+    <string name="settings_provider_select_action_playlist">正在校验播放列表</string>
+    <string name="settings_provider_select_action_live">直播频道加载中</string>
+    <string name="settings_provider_select_error_playlist">播放列表无效或不支持这些频道</string>
+    <string name="settings_provider_select_error_live">不支持这些直播频道。检查用户名/密钥/密码/网址。</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMI已拔下：自动关闭视频</string>
+    <string name="auto_turn_off_since_hdmi_off">HDMI线路断开后：自动关闭视频</string>
 
-    <string name="archive_auto_seek_title">寻求这个视频最后记住的位置？</string>
-    <string name="archive_auto_seek_no">不，从一开始就看</string>
-    <string name="archive_auto_seek_yes">是的，寻求</string>
-    <string name="future_show_sheet_add_wl_title">提醒我切换到频道</string>
-    <string name="future_show_sheet_search_title">在档案中搜索</string>
-    <string name="future_show_sheet_search_none">您的提供商档案中未找到此视频</string>
-    <string name="notify_live_sheet_title">您标记为稍后观看的视频现已在线</string>
-    <string name="notify_live_sheet_text">切换到观看视频</string>
+    <string name="archive_auto_seek_title">是否从上次播放位置继续播放？</string>
+    <string name="archive_auto_seek_no">从头开始</string>
+    <string name="archive_auto_seek_yes">好的</string>
+    <string name="future_show_sheet_add_wl_title">预约提醒</string>
+    <string name="future_show_sheet_search_title">在归档数据中搜索</string>
+    <string name="future_show_sheet_search_none">未能在供应商归档数据中找到此视频</string>
+    <string name="notify_live_sheet_title">您预约的节目现已开演</string>
+    <string name="notify_live_sheet_text">立即观看</string>
     <string name="vod_root_title_provider">媒体库</string>
-    <string name="feature_requires_premium">此功能需要额外费用</string>
+    <string name="feature_requires_premium">付费后开启此功能</string>
     <string name="feature_requires_restart">需要重启应用程序</string>
-    <string name="no_teleguide">没有EPG电视指南</string>
+    <string name="no_teleguide">没有节目单</string>
     <string name="vod_root_title_playlist">自定义播放列表</string>
-    <string name="play_switch_codec">切换编解码器</string>
-    <string name="play_switch_codec_details">通过不同的解码器加载流</string>
-    <string name="play_switch_codec_hard">使用硬件编解码器</string>
-    <string name="play_switch_codec_vlc">使用软件VLC</string>
+    <string name="play_switch_codec">切换解码器</string>
+    <string name="play_switch_codec_details">使用不同的解码器加载流</string>
+    <string name="play_switch_codec_hard">使用硬件解码</string>
+    <string name="play_switch_codec_vlc">使用VLC软解</string>
     <string name="play_switch_codec_ext">在外部播放器中打开</string>
-    <string name="disk_is_full">存储已满。清理一些空间。</string>
+    <string name="disk_is_full">存储空间已满，请清理。</string>
     <string name="channel_more_hide_desc">从列表中删除</string>
-    <string name="hud_short_volume">卷</string>
+    <string name="hud_short_volume">音量</string>
     <string name="hud_short_bright">亮度</string>
 
-    <string name="settings_provider">提供商</string>
+    <string name="settings_provider">供应商</string>
     <string name="settings_media_library">媒体库</string>
-    <string name="settings_media_library_dnla">扫描本地网络中的UPnP / DNLA源</string>
-    <string name="settings_media_library_prov_vod">扫描提供者媒体库（如果存在）</string>
+    <string name="settings_media_library_dnla">扫描本地网络中的UPnP/DNLA源</string>
+    <string name="settings_media_library_prov_vod">扫描供应商可用的媒体库</string>
 
-    <string name="settings_player">播放机</string>
-    <string name="settings_player_hide_ui">在播放时隐藏UI叠加层</string>
-    <string name="sec1">1秒</string>
-    <string name="sec2">2秒</string>
-    <string name="sec3">3秒</string>
-    <string name="sec4">4秒</string>
-    <string name="sec5">5秒</string>
-    <string name="sec6">6秒</string>
-    <string name="sec7">7秒</string>
-    <string name="sec8">8秒</string>
-    <string name="sec9">9秒</string>
-    <string name="sec10">10秒</string>
+    <string name="settings_player">播放器</string>
+    <string name="settings_player_hide_ui">频道信息框显示时长</string>
     <string name="settings_player_resize_mode">视频缩放模式</string>
     <string name="settings_player_resize_mode_fit">适应屏幕</string>
-    <string name="settings_player_resize_mode_fill">扩展到屏幕宽度</string>
-    <string name="settings_player_resize_mode_zoom">缩放到屏幕</string>
-    <string name="settings_player_resize_mode_zoom_in">缩小屏幕</string>
-    <string name="settings_player_auto_stop_live">自动关闭广播</string>
-    <string-array name="settings_player_auto_stop_live_names">
-        <item>残</item>
-        <item>2小时</item>
-        <item>3小时</item>
-        <item>4个小时</item>
-        <item>5个小时</item>
-        <item>6个小时</item>
-        <item>10个小时</item>
-    </string-array>
+    <string name="settings_player_resize_mode_fill">横向拉伸</string>
+    <string name="settings_player_resize_mode_zoom">全屏缩放</string>
+    <string name="settings_player_resize_mode_zoom_in">居中放大</string>
+    <string name="settings_player_auto_stop_live">定时关闭</string>
 
-
-    <string name="settings_extended">扩展设置</string>
-    <string name="settings_extended_hide_adult">隐藏成人类别</string>
-    <string name="settings_extended_auto_start_last_channel">自动启动上次播放的频道</string>
-    <string name="settings_schedule_epg_custom_only">仅使用指定的用户提供的EPG源</string>
-    <string name="settings_schedule_epg_reload">重新加载EPG远程指南......</string>
-    <string name="settings_schedule_epg_clear">清除所有加载的EPG数据......</string>
+    <string name="settings_extended">其它设置</string>
+    <string name="settings_extended_hide_adult">隐藏成人版块</string>
+    <string name="settings_extended_auto_start_last_channel">自动打开上次观看的频道</string>
+    <string name="settings_schedule_epg_reload">重新加载远程节目单......</string>
 
     <string name="settings_visual">视觉风格</string>
 
-    <string name="settings_live_quick_channel_switch_delay">在快速切换频道之前延迟</string>
+    <string name="settings_live_quick_channel_switch_delay">换台延时响应</string>
     <string-array name="settings_live_quick_channel_switch_delay_names">
         <item>立即切换</item>
-        <item>允许继续选择一秒的频道</item>
-        <item>正常（2秒进一步选择）</item>
-        <item>慢（进一步选择5秒）</item>
+        <item>1秒内可再次换频道</item>
+        <item>正常（2秒内）</item>
+        <item>慢（5秒内）</item>
     </string-array>
 
     <string name="settings_player_buffer_size">广播缓冲区大小</string>
     <string-array name="settings_player_buffer_size_names">
-        <item>没有缓冲区（最小内存占用）</item>
+        <item>无（内存占用最小）</item>
         <item>标准</item>
-        <item>增加</item>
-        <item>大（互联网不佳，流量差）</item>
-        <item>巨大的（非常糟糕的情况下的高内存使用率）</item>
+        <item>稍大</item>
+        <item>大（适用于网络不佳、断流时）</item>
+        <item>超大（适用于恶劣网络条件情况下，内存占用最大）</item>
     </string-array>
 
-    <string name="settings_show_clock_in_player_always">在观看视频时显示当前时间</string>
+    <string name="settings_show_clock_in_player_always">播放时显示当前时间</string>
 
     <string name="settings_font_style">字体大小</string>
     <string-array name="settings_font_style_names">
-        <item>小</item>
+        <item>小号</item>
         <item>正常</item>
-        <item>大</item>
-        <item>巨大</item>
-        <item>巨人（可隐藏一些选项）</item>
+        <item>大号</item>
+        <item>超大</item>
+        <item>特大（有些选项会被遮盖）</item>
     </string-array>
 
-    <string name="settings_palette_style">调色板方案</string>
+    <string name="settings_palette_style">配色方案</string>
 
     <string name="settings_ui_screen_margins">屏幕边距</string>
-    <string name="settings_ui_language">语言（如果未设置，则使用默认值）</string>
+    <string name="settings_ui_language">语言（默认跟随系统）</string>
 
-    <string name="settings_disable_provider_categories">不遵守渠道的提供商类别</string>
+    <string name="settings_disable_provider_categories">不使用供应商的频道分类</string>
 
-    <string name="settings_ui_touch_swipes">禁用触摸音量/亮度控制</string>
-    <string name="settings_ui_play_vol_seek">使用快退按钮更改音量</string>
+    <string name="settings_devices_no_hdmi">不监视HDMI状态变化</string>
 
-    <string name="settings_devices_no_hdmi">不要监视HDMI状态变化</string>
-
-    <string name="settings_codec">编解码器设置</string>
-    <string name="settings_codec_hard">始终使用硬件编解码器</string>
-    <string name="settings_codec_soft_vlc">始终使用软件VLC编解码器</string>
+    <string name="settings_codec">解码器设置</string>
+    <string name="settings_codec_hard">始终使用硬件解码器</string>
+    <string name="settings_codec_soft_vlc">始终使用VLC软件解码器</string>
     <string name="settings_codec_external">始终使用外部播放器</string>
 
-    <string name="settings_epg">EPG远程指南</string>
+    <string name="settings_epg">远程节目单</string>
 
-    <string name="settings_external_player">外部播放器（默认情况下全部尝试）</string>
+    <string name="settings_external_player">外部播放器</string>
 
+    <string name="settings_premium">高级特权</string>
+    <string name="settings_premium_source_purchase">已开通高级特权</string>
+    <string name="settings_premium_source_subscription">已订阅高级特权</string>
+    <string name="settings_premium_source_unknown">未开通高级特权</string>
+    <string name="settings_premium_what_included">了解高级特权详情......</string>
+    <string name="settings_premium_what_included_1">直播时开启画中画</string>
+    <string name="settings_premium_what_included_2">自动打开上次观看的频道</string>
+    <string name="settings_premium_what_included_3">自动匹配视频播放帧速率</string>
+    <string name="settings_premium_what_included_4">播放速度尽在掌控</string>
 
-    <string name="settings_premium">额外费用</string>
-    <string name="settings_premium_source_purchase">购买高级版</string>
-    <string name="settings_premium_source_subscription">高级订阅</string>
-    <string name="settings_premium_source_unknown">高级未启用</string>
-    <string name="settings_premium_what_included">详细了解高级功能......</string>
-    <string name="settings_premium_what_included_1">观看直播时的画中画模式</string>
-    <string name="settings_premium_what_included_2">选择返回上次播放的频道</string>
-    <string name="settings_premium_what_included_3">自动帧速率切换以匹配视频</string>
-    <string name="settings_premium_what_included_4">控制档案的播放速度</string>
+    <string name="settings_premium_toggles_try_afr">视频播放帧速自适应</string>
+    <string name="settings_premium_toggles_try_afr_toast">当前显示器的刷新率</string>
 
-    <string name="settings_premium_toggles_try_afr">自动切换帧速率以匹配视频</string>
-    <string name="settings_premium_toggles_try_afr_toast">当前显示支持刷新率</string>
-
-    <string name="settings_premium_toggle_btn_title">启用高级功能</string>
+    <string name="settings_premium_toggle_btn_title">开通高级特权</string>
     <string name="settings_premium_toggle_btn_sub_add">订阅</string>
-    <string name="settings_premium_toggle_btn_sub_add_desc">通过订阅小额经常性付款来启用保费</string>
-    <string name="settings_premium_toggle_btn_buy_add">采购</string>
-    <string name="settings_premium_toggle_btn_buy_add_desc">通过一次付款启用保费</string>
-    <string name="settings_premium_toggle_btn_buy_no_ads">不购买广告包（也包括在所有高级包中）</string>
-    <string name="settings_premium_toggle_btn_buy_no_ads_desc">通过一次付款即可永久停用广告</string>
+    <string name="settings_premium_toggle_btn_sub_add_desc">分期续订</string>
+    <string name="settings_premium_toggle_btn_buy_add">购买</string>
+    <string name="settings_premium_toggle_btn_buy_add_desc">一次购买尽享高级特权</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads">购买无广告版（高级版均享此特权）</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads_desc">付费后无广告</string>
 
-    <string name="setting_list_view_title">应如何显示列表</string>
-    <string name="setting_list_view1">简单清单</string>
-    <string name="setting_list_view2">表（2列）及其说明</string>
-    <string name="setting_list_view3">表（3栏）</string>
-    <string name="setting_list_view4">表（4栏）</string>
-    <string name="cfg_play_deny_buffer">不显示缓冲状态</string>
+    <string name="setting_list_view_title">显示几列频道</string>
+    <string name="setting_list_view1">1列</string>
+    <string name="setting_list_view2">2列</string>
+    <string name="setting_list_view3">3列</string>
+    <string name="setting_list_view4">4列</string>
+    <string name="cfg_play_deny_buffer">隐藏缓冲状态</string>
     <string name="copied_clipboard">复制到剪贴板</string>
-    <string name="cfg_play_action_none">忽视</string>
-    <string name="cfg_play_action_menu">打开菜单</string>
-    <string name="cfg_play_action_another">打开另一个流选择</string>
-    <string name="cfg_play_action_timetable">公开时间表</string>
-    <string name="cfg_play_action_prev">切换到上一个频道</string>
-    <string name="cfg_play_action_next">切换到下一个频道</string>
+    <string name="cfg_play_action_menu">打开</string>
+    <string name="cfg_play_action_another">打开网络串流</string>
+    <string name="cfg_play_action_timetable">打开节目单</string>
+    <string name="cfg_play_action_prev">上一个频道</string>
+    <string name="cfg_play_action_next">下一个频道</string>
     <string name="cfg_play_action_params">打开播放参数</string>
     <string name="cfg_play_action_last">切换到上次播放的频道</string>
-    <string name="cfg_play_action_title">设置遥控器</string>
-    <string name="cfg_play_action_btn_archive_as_live">观看档案时使用相同的设置（将使用左右按钮禁用搜索）</string>
-    <string name="cfg_trans_wind">使用透明界面</string>
-    <string name="cfg_list_poster_time">显示海报持续时间（秒，如果有的话）</string>
+    <string name="cfg_play_action_title">遥控器设置</string>
+    <string name="cfg_play_action_btn_archive_as_live">使用相同的设置观看归档数据（此时左右按钮的定位功能将禁用）</string>
+    <string name="cfg_trans_wind">透明界面</string>
+    <string name="cfg_list_poster_time">海报显示几秒（可选）</string>
 
-
-    <string name="do_not_show">不显示</string>
-    <string name="android_not_genuine">购买可能不适用于您的设备。</string>
-    <string name="menu_error_require_status_archive_text">存档数据尚不可用。如果延迟很长时间，通常意味着没有电视节目数据（EPG）可用。在这种情况下，您可以在设置中安排EPG重新加载或搜索更好的EPG源并进行配置。</string>
-    <string name="spread_title">喜欢的应用程序？传播这个词！</string>
-    <string name="spread_btn_rate">为五颗星评分应用程序</string>
-    <string name="spread_btn_share">与朋友分享应用链接</string>
-    <string name="spread_share_title">看看应用程序</string>
-    <string name="settings_premium_what_included_9">通过输入频道号码进行频道切换</string>
-    <string name="settings_channel_sort_mode_numb">号码（按频道号码，可以更改）</string>
-    <string name="ch_opt_change_number">更改号码</string>
-    <string name="prov_btn_help">救命</string>
-    <string name="prov_help_telegram">加入Telegram聊天</string>
+    <string name="do_not_show">不再显示</string>
+    <string name="android_not_genuine">貌似您的设备无法完成支付。</string>
+    <string name="menu_error_require_status_archive_text">归档数据不可用。如果持续很长时间，通常表示电视节目单数据（EPG）不可用。您可以在设置中定时更新EPG或搜索并配置一个更好的EPG节目单来源。</string>
+    <string name="spread_title">喜欢本应用程序？放肆宣传吧！</string>
+    <string name="spread_btn_rate">给5星好评吧！</string>
+    <string name="spread_btn_share">将应用链接分享给好友</string>
+    <string name="spread_share_title">试试这个应用程序</string>
+    <string name="settings_premium_what_included_9">输入频道号码来切换频道</string>
+    <string name="settings_channel_sort_mode_numb">频道号码</string>
+    <string name="ch_opt_change_number">更改频道号码</string>
+    <string name="prov_btn_help">帮助</string>
+    <string name="prov_help_telegram">打开Telegram跟我们畅谈</string>
     <string name="settings_premium_what_included_5">无广告</string>
-    <string name="invalid_domain">域名可能无效。检查你的输入</string>
-    <string name="example">例</string>
-    <string name="provider_generic">通用提供程序或播放列表</string>
-    <string name="watched">观看视频：</string>
+    <string name="invalid_domain">您输入的域名无效</string>
+    <string name="example">示例</string>
+    <string name="provider_generic">通用供应商或播放列表</string>
+    <string name="watched">已看视频：</string>
     <string name="btn_search">搜索</string>
-    <string name="hint_vod_cache">媒体库将数据缓存数天。如果您需要更快地显示新数据，请从设置中清除缓存并重新启动应用程序。</string>
-    <string name="premium_fea_6">将流发送到无线显示器</string>
+    <string name="hint_vod_cache">媒体库数据可能缓存数天。想让新数据更快地显示，在设置中清除缓存并重新启动应用程序。</string>
+    <string name="premium_fea_6">无线投屏</string>
     <string name="wifi_display">无线显示</string>
-    <string name="wifi_display_desc">在另一台设备上播放流</string>
+    <string name="wifi_display_desc">在另一台设备上播放</string>
 
-    <string name="cfg_play_action_fav">打开最喜欢的频道选择</string>
+    <string name="cfg_play_action_fav">打开我最喜欢的频道</string>
     <string name="cfg_play_action_pp">暂停或恢复播放</string>
-    <string name="cfg_play_action_btn_red">红色按钮动作</string>
-    <string name="cfg_play_action_btn_green">绿色按钮的动作</string>
-    <string name="cfg_play_action_btn_yellow">黄色按钮的动作</string>
-    <string name="cfg_play_action_btn_blue">蓝色按钮的动作</string>
-    <string name="map_channel_to_epg">将频道映射到EPG</string>
-    <string name="map_channel_to_epg_after">更改将应用于下一次EPG电视重新加载。</string>
-    <string name="cfg_play_action_vol_d">减少音量</string>
-    <string name="cfg_play_action_vol_u">增加音量</string>
+    <string name="cfg_play_action_btn_red">红键</string>
+    <string name="cfg_play_action_btn_green">绿键</string>
+    <string name="cfg_play_action_btn_yellow">黄键</string>
+    <string name="cfg_play_action_btn_blue">蓝键</string>
+    <string name="map_channel_to_epg">关联节目单</string>
+    <string name="map_channel_to_epg_after">此更改重启后生效</string>
+    <string name="cfg_play_action_vol_d">减小音量</string>
+    <string name="cfg_play_action_vol_u">增大音量</string>
     <string name="cfg_ext_player_auto">系统默认播放器</string>
     <string name="cfg_ext_player_chooser">每次手动选择</string>
-    <string name="btn_close">关</string>
-    <string name="prem_sub_add_3m">订阅（每3个月收费）</string>
-    <string name="prem_sub_add_1y">订阅（每年开帐单）</string>
-    <string name="premium_fea_pvsearch">观看时语音搜索。按名称或存档内容搜索频道。</string>
-    <string name="cfg_play_action_vsearch">声音搜索</string>
-    <string name="settings_premium_source_enabled">高级启用</string>
+    <string name="btn_close">关闭</string>
+    <string name="prem_sub_add_3m">季度订阅</string>
+    <string name="prem_sub_add_1y">年度订阅</string>
+    <string name="premium_fea_pvsearch">实时语音搜索。支持按频道名称或归档内容搜索。</string>
+    <string name="cfg_play_action_vsearch">语音搜索</string>
+    <string name="settings_premium_source_enabled">已开通高级特权</string>
     <string name="cfg_play_action_mute">静音</string>
-    <string name="cfg_play_action_unbind">不处理（保持系统行为）</string>
-    <string name="settings_codec_auto">提供者的默认编解码器</string>
-    <string name="cfg_ign_last_codec">不记得用于播放频道的最后一个编解码器</string>
-    <string name="btn_schedule_epg">安排EPG重新加载</string>
-    <string name="err_archive_is_shorter">此渠道的存档可缩短您的提供商的使用寿命</string>
-    <string name="cfg_no_seek">通过每次从新位置重新打开流来模拟搜索</string>
-    <string name="cfg_section_backup">备份还原</string>
-    <string name="btn_backup_info">备份以密钥存储。备份完成后立即写下来。无法保证备份可用多长时间。</string>
+    <string name="cfg_play_action_unbind">忽略</string>
+    <string name="settings_codec_auto">使用默认解码器</string>
+    <string name="cfg_ign_last_codec">忘记上次播放该频道时使用的解码器</string>
+    <string name="btn_schedule_epg">定期更新节目单</string>
+    <string name="err_archive_is_shorter">当前频道的节目寿命相对短些</string>
+    <string name="cfg_no_seek">定位动画</string>
+    <string name="cfg_section_backup">备份与恢复</string>
+    <string name="btn_backup_info">带密钥备份。备份完成后立即记下密钥。无法保证此备份多长内时间有效。</string>
     <string name="btn_backup_data">备份当前配置</string>
-    <string name="btn_backup_load">加载以前创建的配置备份</string>
-    <string name="err_need_newer_android">此功能需要较新的Android版本</string>
-    <string name="cfg_play_action_sys_pip">进入系统PiP模式</string>
-    <string name="cfg_video_cutout">隐藏视频的顶部和底部行（以像素为单位）</string>
-    <string name="cfg_video_retry">发生错误时重试加载视频的时间</string>
-    <string name="cfg_play_action_2live">切换到当前频道的直播</string>
-    <string name="player_menu_2live">切换到现场</string>
+    <string name="btn_backup_load">导入之前配置</string>
+    <string name="err_need_newer_android">此功能需要新的Android版本</string>
+    <string name="cfg_play_action_sys_pip">进入画中画模式</string>
+    <string name="cfg_video_cutout">以像素为单位裁剪上下边</string>
+    <string name="cfg_video_retry">错误重试间隔时间</string>
+    <string name="cfg_play_action_2live">切换到直播</string>
+    <string name="player_menu_2live">切换到直播</string>
 
-    <string name="cfg_pl_offs_swipe">从屏幕边缘移动音量和亮度触摸面板</string>
-    <string name="btn_seek">寻求</string>
-    <string name="cfg_play_action_mseek">开始视频搜索视图</string>
-    <string name="menu_exit">出口</string>
-    <string name="hint_try_premium_sub_free">您可以在决定使用或不使用任何内容的情况下免费试用一次。查看订阅包的详细信息。</string>
+    <string name="btn_seek">定位</string>
+    <string name="cfg_play_action_mseek">打开定位视图</string>
+    <string name="menu_exit">退出</string>
+    <string name="hint_try_premium_sub_free">您可以免费订阅一次，试用几天后再决定是否续订。查看订阅套餐详情。</string>
 
-    <string name="premium_fea_pre_vid">在说明中显示所选视频预览</string>
-    <string name="vp_audio_shift">音频转换</string>
-    <string name="vp_audio_shift_desc">将音频与视频同步</string>
-    <string name="cfg_next_n_desc">在频道描述中显示多少个下一个电视节目</string>
-    <string name="cfg_codec_details_title">设置编解码器首选项</string>
-    <string name="cfg_codec_vlc_q">VLC编解码器质量</string>
-    <string name="profile_speed_q">喜欢速度</string>
-    <string name="profile_middle_q">更喜欢质量超速</string>
-    <string name="profile_high_q">只有质量问题</string>
+    <string name="premium_fea_pre_vid">在简介中显示视频预览</string>
+    <string name="vp_audio_shift">音频调节</string>
+    <string name="vp_audio_shift_desc">音画同步</string>
+    <string name="cfg_next_n_desc">在频道简介中显示几个后续节目</string>
+    <string name="cfg_codec_details_title">解码器编好设置</string>
+    <string name="cfg_codec_vlc_q">VLC解码质量</string>
+    <string name="profile_speed_q">播放速度</string>
+    <string name="profile_middle_q">视频质量</string>
+    <string name="profile_high_q">质量优先</string>
     <string name="channel_move_cat">更改类别</string>
     <string name="channel_move_new_cat">创建新类别</string>
-    <string name="premium_fea_edit_list">允许编辑类别，隐藏频道等</string>
+    <string name="premium_fea_edit_list">编辑类别、隐藏频道等</string>
     <string name="prov_help_bug">报告问题或错误</string>
-    <string name="prov_help_tpl">报告提供者模板问题</string>
-    <string name="prov_help_feature">建议一个新功能</string>
-    <string name="prov_help_premium">报告付款或保费问题</string>
-    <string name="prov_help_contact_via_chat">通过聊天联系开发者</string>
-    <string name="prov_help_contact_via_email">通过电子邮件联系开发</string>
+    <string name="prov_help_tpl">报告供应商模板问题</string>
+    <string name="prov_help_feature">功能建议</string>
+    <string name="prov_help_premium">报告支付或费用问题</string>
+    <string name="prov_help_contact_via_chat">通过聊天软件联系开发者</string>
+    <string name="prov_help_contact_via_email">通过电子邮件联系开发者</string>
     <string name="prov_help_provide_more_info">写信给开发者</string>
-    <string name="hint_help_locale">您可以帮助改善在线翻译</string>
-    <string name="cfg_time_imp">使用英制时间格式（上午/下午）</string>
-    <string name="hud_short_seeking">求</string>
+    <string name="cfg_time_imp">12小时制</string>
+    <string name="hud_short_seeking">定位中</string>
     <string name="cfg_player_clock_tr">右上角</string>
     <string name="cfg_player_clock_br">右下角</string>
     <string name="cfg_player_clock_bl">左下角</string>
     <string name="cfg_player_clock_tl">左上角</string>
-    <string name="cat_vr_continue">继续看</string>
-    <string name="cat_vr_continue_prem">最近观看的视频，现已上市</string>
-    <string name="premium_fea_continue">显示“继续”过滤器中当前可用的所有最近观看过的视频</string>
-    <string name="menu_swap_pip_sound">在主屏幕和PiP之间切换声音</string>
-    <string name="premium_fea_pre_vid_wp">允许在播放其他视频时显示视频预览</string>
-    <string name="hint_click_icon">单击通道或组的图标将打开上下文菜单（如果可用）。</string>
-    <string name="hint_right_jump">在大多数按字母顺序排序的列表中按右键可打开快速跳转视图。</string>
-    <string name="category_recent_channels">最近</string>
-    <string name="category_all_channels">所有渠道</string>
-    <string name="cfg_no_categories">使用普通频道列表（没有类别）</string>
-    <string name="cfg_section_desc">商品描述</string>
-    <string name="cfg_section_lists">列出设置</string>
+    <string name="cat_vr_continue">继续观看</string>
+    <string name="cat_vr_continue_prem">近期观看记录</string>
+    <string name="premium_fea_continue">显示全部近期观看记录</string>
+    <string name="menu_swap_pip_sound">在主副画面之间切换声音</string>
+    <string name="premium_fea_pre_vid_wp">播放时显示其他视频预览</string>
+    <string name="hint_click_icon">点击频道或分组图标打开上下文菜单。</string>
+    <string name="hint_right_jump">按字母顺序排序的列表中，按右键通常可以打开快速跳转视图。</string>
+    <string name="category_recent_channels">近期观看</string>
+    <string name="category_all_channels">全部频道</string>
+    <string name="cfg_no_categories">频道列表不分类</string>
+    <string name="cfg_section_desc">此项简介</string>
+    <string name="cfg_section_lists">列表设置</string>
 
-    <string name="cfg_switch_dummy_on">切换到简化设置模式</string>
-    <string name="cfg_switch_dummy_off">切换到高级设置模式</string>
-    <string name="cfg_no_hints">不要显示提示</string>
-    <string name="pla_track_sel_sub">切换字幕</string>
-    <string name="pla_track_sel_sub_desc">更改字幕来源</string>
-    <string name="setting_list_view_auto">桌子（大图标，适合屏幕）</string>
-    <string name="child_mode_unlock_cfg">输入子代码以解锁设置</string>
+    <string name="cfg_switch_dummy_on">简单设置模式</string>
+    <string name="cfg_no_hints">关闭提示</string>
+    <string name="setting_list_view_auto">平铺</string>
+    <string name="child_mode_unlock_cfg">输入家长口令以解锁设置</string>
     <string name="cfg_child_mode">儿童模式</string>
-    <string name="cfg_child_mode_number">退出子模式的代码（4位数）</string>
-    <string name="cfg_play_deny_status">不显示流状态</string>
-    <string name="cfg_player_hud">单挑界面的风格</string>
+    <string name="cfg_child_mode_number">输入家长口令退出儿童模式</string>
+    <string name="cfg_play_deny_status">不显示网络串流状态</string>
+    <string name="cfg_player_hud">弹窗样式</string>
     <string name="cfg_player_hud_1">顶部和底部</string>
-    <string name="cfg_player_hud_2">结合在底部</string>
-    <string name="cfg_player_hud_3">结合在一起</string>
-    <string name="cfg_player_hide_menu">超时隐藏菜单（以秒为单位）</string>
+    <string name="cfg_player_hud_2">全在底部</string>
+    <string name="cfg_player_hud_3">全在顶部</string>
+    <string name="cfg_player_hide_menu">菜单显示时长</string>
     <string name="choose_auto">自动选择</string>
-    <string name="cfg_stream_tech">流技术（如果有）</string>
+    <string name="cfg_stream_tech">视频流技术规范</string>
 
     <string name="cfg_show_ch_numbers">显示频道号码</string>
     <string name="always">总是</string>
-    <string name="cfg_play_action_sinfo">查看当前电视节目的当前信息</string>
-    <string name="menu_tv_guide">节目表</string>
-    <string name="cfg_stream_q">显示流质量</string>
+    <string name="menu_tv_guide">节目单</string>
+    <string name="cfg_stream_q">显示视频流质量</string>
     <string name="ext_player_copy_clipboard">仅将链接复制到剪贴板</string>
-    <string name="premium_fea_mult_prov">允许同时使用多个提供程序</string>
-    <string name="btn_add_provider">添加提供商</string>
+    <string name="premium_fea_mult_prov">同时使用多个视频供应商</string>
+    <string name="btn_add_provider">添加供应商</string>
     <string name="btn_provider_edit">编辑</string>
     <string name="btn_provider_delete">删除</string>
-    <string name="provider_playlist">播放列表</string>
-    <string name="provider_playlist_file">来自文件的播放列表</string>
-    <string name="premium_fea_tv_guide">将电视节目视为电子表格</string>
+    <string name="provider_playlist">网络播放列表</string>
+    <string name="provider_playlist_file">本地播放列表文件</string>
+    <string name="premium_fea_tv_guide">多列显示频道列表</string>
     <string name="provider_field_name">名称</string>
     <string name="provider_field_url">网址</string>
     <string name="provider_field_login">登录</string>
     <string name="provider_field_pass">密码</string>
     <string name="provider_field_token">访问令牌</string>
     <string name="provider_field_server">服务器</string>
-    <string name="provider_field_active">活性</string>
-    <string name="cfg_prov_categories_merge">来自不同提供商的类别</string>
-    <string name="cfg_prov_categories_merge_prepend">使用提供程序名称添加类别</string>
-    <string name="cfg_prov_categories_merge_mix">如果名称匹配，则合并类别</string>
-    <string name="cfg_prov_categories_merge_append">将提供者名称附加到类别名称</string>
-    <string name="cfg_codec_exo_q">硬件编解码器质量</string>
+    <string name="provider_field_active">启用</string>
+    <string name="cfg_prov_categories_merge">按供应商分类</string>
+    <string name="cfg_prov_categories_merge_prepend">前置供应商名称归类</string>
+    <string name="cfg_prov_categories_merge_mix">同名合并类别</string>
+    <string name="cfg_prov_categories_merge_append">后置供应商名称归类</string>
+    <string name="cfg_codec_exo_q">硬件解码器质量</string>
     <string name="cfg_codec_exo_max">最佳匹配</string>
     <string name="cfg_codec_exo_compat">兼容模式</string>
 
-    <string name="suggest_better_prov_tpl">似乎您的提供商有更好的模板</string>
+    <string name="suggest_better_prov_tpl">貌似为此供应商找到了更合适的模板</string>
     <string name="place_pl_to_downloads">下载中找不到有效的播放列表</string>
-    <string name="only_1_active">Premium需要同时拥有多个活动提供商</string>
-    <string name="menu_qs_provider">交换提供商</string>
-    <string name="menu_qs_provider_cfg">显示活动提供者之间的快速切换</string>
-    <string name="menu_qs_provider_all">所有活跃的提供者</string>
+    <string name="only_1_active">只有高级付费用户才能同时启用多个供应商</string>
+    <string name="menu_qs_provider">切换供应商</string>
+    <string name="menu_qs_provider_cfg">显示快速切换</string>
+    <string name="menu_qs_provider_all">已启用的供应商</string>
     <string name="menu_tv_guide_cfg">显示电视指南按钮</string>
-    <string name="cfg_video_preview_sound">在说明中的视频预览中启用声音</string>
+    <string name="cfg_video_preview_sound">视频简介预时播放声音</string>
     <string name="btn_schedule_upnp_vod_load">重新加载UPnP媒体库</string>
     <string name="provider_generic_middleware">通用中间件服务器</string>
-    <string name="provider_generic_list">提供商列表</string>
-    <string name="provider_generic_list_desc">附近的常用模板（语言和地区）</string>
+    <string name="provider_generic_list">供应商列表</string>
+    <string name="provider_generic_list_desc">附近的公共模板</string>
     <string name="yes">是</string>
-    <string name="no">没有</string>
-    <string name="cfg_zoom_shrink">收缩</string>
-    <string name="cfg_channel_manager">管理渠道</string>
-    <string name="cfg_channel_manager_categories">分类</string>
-    <string name="cfg_channel_manager_channels">通道</string>
-    <string name="ch_manage_show">显示在列表中</string>
-    <string name="ch_manage_child_on">在子模式下启用</string>
-    <string name="ch_manage_child_off">在子模式下禁用</string>
-    <string name="ch_manage_status_favorite">喜爱</string>
-    <string name="ch_manage_status_hidden">隐</string>
-    <string name="ch_manage_status_child">儿童</string>
+    <string name="no">否</string>
+    <string name="cfg_zoom_shrink">缩小</string>
+    <string name="cfg_channel_manager">频道管理</string>
+    <string name="cfg_channel_manager_categories">全部分类</string>
+    <string name="cfg_channel_manager_channels">全部频道</string>
+    <string name="ch_manage_show">在列表中显示此频道</string>
+    <string name="ch_manage_child_on">在儿童模式下可见</string>
+    <string name="ch_manage_child_off">在儿童模式下不可见</string>
+    <string name="ch_manage_status_favorite">最爱频道</string>
+    <string name="ch_manage_status_hidden">隐藏频道</string>
+    <string name="ch_manage_status_child">儿童频道</string>
     <string name="show_future_search_in_other">在外部应用中搜索</string>
 
-    <string name="cfg_channel_manager_filters">过滤器</string>
-    <string name="menu_suggest_premium">准备探索令人兴奋的高级功能？</string>
-    <string name="cfg_epg_update_frequency">更新频率（小时）</string>
-    <string name="cfg_vod_merge">在单个列表中合并来自不同来源的媒体库（需要重新加载）</string>
-    <string name="ch_manage_rename">改名</string>
-    <string name="name_already_taken">名称已被采用</string>
-    <string name="pla_timeshift_from_current">从当前时刻开始</string>
-    <string name="cfg_play_action_timeshift_start">从一开始就打开存档的电视节目</string>
-    <string name="cfg_play_action_timeshift_now">从当前时间开放存档的电视节目</string>
-    <string name="cfg_cat_recent">最近的频道类别</string>
+    <string name="cfg_channel_manager_filters">筛选</string>
+    <string name="menu_suggest_premium">你准备好去探索那些激动人心的高级功能了吗？</string>
+    <string name="cfg_epg_update_frequency">节目单更新频率</string>
+    <string name="cfg_vod_merge">合并不同来源的媒体库到一张列表</string>
+    <string name="ch_manage_rename">重命名</string>
+    <string name="name_already_taken">禁止重名</string>
+    <string name="pla_timeshift_from_current">从此时刻开始时移</string>
+    <string name="cfg_play_action_timeshift_start">从头播放可时移节目</string>
+    <string name="cfg_play_action_timeshift_now">从当前时间播放可时移节目</string>
+    <string name="cfg_cat_recent">近期频道类别</string>
     <string name="enable">启用</string>
-    <string name="save_between_launch">在发布之间保存</string>
-    <string name="cfg_no_teleguide">没有可用的电视节目时生成虚拟epg记录</string>
+    <string name="save_between_launch">启动间保存</string>
+    <string name="cfg_no_teleguide">当没有电视节目单时自动生成虚拟节目单</string>
     <string name="menu_qs_provider_multiple">手动标记</string>
-    <string name="category_recently_added">最近添加的</string>
-    <string name="ask_finish_update">重新启动应用以更新更新版本？</string>
-    <string name="cfg_premium_etc">还有许多其他宝贵的功能</string>
-    <string name="cfg_fine_tune_volume">手动音量微调（受系统音量限制）</string>
+    <string name="category_recently_added">最近添加</string>
+    <string name="ask_finish_update">重新启动应用以升级到新版本？</string>
+    <string name="cfg_premium_etc">以及其它众多宝贵功能</string>
+    <string name="cfg_fine_tune_volume">音量手动微调</string>
 
-    <string name="cfg_arch_unp">在取消暂停直播时自动重新打开存档</string>
-    <string name="cfg_codec_vlc_sync">在同步模式下使用VLC编解码器（在关闭流后播放音频时可能有帮助）</string>
-    <string name="cfg_ch_more_epg">显示大于EPG的频道名称</string>
-    <string name="show_menu_add_to_cont_watching">继续观看</string>
-    <string name="cfg_exit_child_mode">退出子模式</string>
-    <string name="cfg_enter_child_mode">进入子模式</string>
+    <string name="cfg_arch_unp">取消暂停直播时自动重新打开归档数据</string>
+    <string name="cfg_ch_more_epg">让频道名称的字号比节目预告大</string>
+    <string name="show_menu_add_to_cont_watching">预约观看</string>
+    <string name="cfg_exit_child_mode">退出儿童模式</string>
+    <string name="cfg_enter_child_mode">进入儿童模式</string>
     <string name="cfg_child_categories">显示频道类别</string>
-    <string name="btn_provider_attrs">提供者属性</string>
+    <string name="btn_provider_attrs">供应商属性</string>
     <string name="btn_provider_activate">启用</string>
     <string name="btn_provider_deactivate">禁用</string>
-    <string name="btn_provider_attr_epg">EPG来源</string>
+    <string name="btn_provider_attr_epg">节目单来源</string>
     <string name="change_pip_size">改变大小</string>
     <string name="change_pip_place">移动屏幕</string>
 
-    <string name="only_manually_added">只手动添加</string>
+    <string name="only_manually_added">仅手动添加</string>
     <string name="check_for_updates">检查更新</string>
     <string name="has_updates_starting">更新可用，即将开始</string>
-    <string name="no_updates_avail">更新不可用</string>
-    <string name="access_restricted">访问受限制</string>
+    <string name="no_updates_avail">无可用更新</string>
+    <string name="access_restricted">访问受限</string>
     <string name="ch_man_restrict_access">限制访问</string>
     <string name="ch_man_allow_access">允许访问</string>
-    <string name="cat_man_mass_action">所有渠道的行动</string>
-    <string name="cfg_set_restricted_code">设置限制内容的代码（4位数）</string>
-    <string name="ch_restricted_unlock">输入代码以解锁对受限制内容的访问</string>
-    <string name="player_menu_manage_ch">管理渠道</string>
-    <string name="player_menu_manage_epg">管理电视节目</string>
-    <string name="help_faq">经常问的问题</string>
+    <string name="cat_man_mass_action">整体调整</string>
+    <string name="cfg_set_restricted_code">为限制内容设置口令</string>
+    <string name="ch_restricted_unlock">输入口令以解锁限制内容</string>
+    <string name="player_menu_manage_ch">频道管理</string>
+    <string name="player_menu_manage_epg">电视节目管理</string>
+    <string name="help_faq">常见问题</string>
     <string name="pla_menu_item_visibility">菜单按钮可见性</string>
-    <string name="pla_menu_item_visibility_desc">隐藏无用</string>
-    <string name="pla_menu_type">菜单视觉风格</string>
-    <string name="pla_menu_type_list">名单</string>
-    <string name="pla_menu_type_grid">格</string>
-    <string name="ch_manage_use_internal">使用内部播放器</string>
-    <string name="cat_manage_start_this_cat_on">从这个类别开始</string>
+    <string name="pla_menu_item_visibility_desc">隐藏无用的菜单项</string>
+    <string name="pla_menu_type">菜单样式</string>
+    <string name="pla_menu_type_list">列表</string>
+    <string name="pla_menu_type_grid">网格</string>
+    <string name="ch_manage_use_internal">使用内置播放器</string>
+    <string name="cat_manage_start_this_cat_on">启动进入此类别</string>
 
     <string name="cfg_show_ch_desc">显示广播说明</string>
-    <string name="cfg_show_archive_marker">显示存档可用性标记</string>
-    <string name="studio_mode_open_in">在Studio模式下打开</string>
-    <string name="studio_mode_title">工作室模式</string>
+    <string name="cfg_show_archive_marker">显示归档数据可用性标记</string>
+    <string name="studio_mode_open_in">在演播室模式下打开</string>
+    <string name="studio_mode_title">演播室模式</string>
     <string name="studio_mode_remove">删除屏幕</string>
     <string name="studio_mode_set_sound">启用声音</string>
     <string name="studio_mode_add">添加屏幕</string>
     <string name="studio_mode_minimize">最小化</string>
     <string name="studio_mode_maximize">最大化</string>
-    <string name="cfg_codec_system">系统视频视图</string>
-    <string name="provider_connections_reached">您的提供商不允许那么多连接。</string>
+    <string name="cfg_codec_system">系统默认视图</string>
+    <string name="provider_connections_reached">超过供应商允许的连接数。</string>
     <string name="max_connections">最大允许连接数</string>
-    <string name="pro_sub_expiring">您的订阅即将到期。更新</string>
-    <string name="mark_all_viewed">将所有标记为已查看</string>
-    <string name="pos_rearrange">重新排列列表</string>
-    <string name="pos_rearrange_clear">清除列表中的自定义位置</string>
-    <string name="restart">重新开始</string>
-    <string name="cfg_prov_settings">提供商设置</string>
-    <string name="cfg_prov_settings_desc">影响从提供程序加载数据</string>
-    <string name="cfg_prov_remove_sd">删除SD频道</string>
-    <string name="cfg_prov_remove_sd_hd">如果检测到更高质量，请删除SD通道</string>
-    <string name="cfg_prov_remove_tz">从不同时区删除频道</string>
-    <string name="cfg_prov_follow_includes">关注包含在播放列表中</string>
+    <string name="pro_sub_expiring">您的订阅即将到期，欢迎续订。</string>
+    <string name="mark_all_viewed">全部标记为已观看</string>
+    <string name="pos_rearrange">顺序调整</string>
+    <string name="pos_rearrange_clear">清除列表的自定义设置</string>
+    <string name="restart">重启</string>
+    <string name="cfg_prov_settings">供应商设置</string>
+    <string name="cfg_prov_settings_desc">受供应商影响的数据</string>
+    <string name="cfg_prov_remove_sd">删除本地加载的频道</string>
+    <string name="cfg_prov_remove_sd_hd">如果检测到更高质量的频道，则删除由本地加载的频道</string>
+    <string name="cfg_prov_remove_tz">按时区删除频道</string>
+    <string name="cfg_prov_follow_includes">关注播放列表中的频道</string>
     <string name="cfg_sys_settings">系统设置</string>
-    <string name="cfg_pla_hud_settings">播放器界面</string>
-    <string name="cfg_tv_guide_transparency">背景透明度</string>
-    <string name="on_top">以上</string>
-    <string name="on_bottom">下面</string>
-    <string name="hint_long_ok_menu">在大多数情况下，长按OK按钮可打开属性屏幕</string>
-    <string name="save_state">保存状态</string>
-    <string name="restore_state">恢复状态</string>
-</resources>
+    <string name="cfg_pla_hud_settings">播放器界面设置</string>
+    <string name="cfg_tv_guide_transparency">背景透明</string>
+    <string name="on_top">置顶</string>
+    <string name="on_bottom">置底</string>
+    <string name="hint_long_ok_menu">长按遥控器确定键显示属性</string>
+    <string name="save_state">状态保存</string>
+    <string name="restore_state">状态恢复</string>
+<string name="pro_studio">Studio模式，允许同时观看多个流</string>
+    <string name="cfg_prov_channel_name">使用多个提供程序时在通道名称中显示提供程序名</string>
+    <string name="increase_text_size">增加文字大小</string>
+    <string name="hint_long_up_down">长按向上和向下箭头可以更快地进行列表导航</string>
+    <string name="pla_act_quick_seek_back_20">向后追寻20秒</string>
+    <string name="pla_act_quick_seek_fwd_20">向前寻求20秒</string>
+    <string name="cfg_touch_control">触摸区配置</string>
+    <string name="double_tap">双击</string>
+    <string name="pos_center_top">顶级中心</string>
+    <string name="pos_center_left">中间左边</string>
+    <string name="pos_center_center">中央</string>
+    <string name="pos_center_right">中右</string>
+    <string name="pos_center_bottom">底部中心</string>
+    <string name="cfg_studio_maximize_size">最大化窗口的尺寸</string>
+    <string name="pro_desc_try_free">您可以通过订阅月度计划来预览高级功能。除非您已经付款，否则它有几个免费的开始日期。</string>
+    <string name="cfg_auto_start_system_pip">从播放器切换到主屏幕时自动进入系统画中画模式</string>
+    <string name="pla_act_hud">显示播放器界面与广播详细信息</string>
+    <string name="pla_act_prop_channel">渠道属性</string>
+    <string name="pla_act_prop_broadcast">目前的广播属性</string>
+    <string name="long_press">长期紧迫</string>
+    <string name="hours">小时</string>
+    <string name="parental_control">家长控制</string>
+    <string name="show_different_time_frame_guide">显示更早或更晚的时间表</string>
+    <string name="cfg_list_long_arrow_pg_down">对待长箭头键按页面导航</string>
+    <string name="seconds">秒</string>
+    <string name="not_limited">不限</string>
+    <string name="auto_detected">自动检测到</string>
+    <string name="remove">去掉</string>
+    <string name="video_unsupported">此设备无法播放任何视频曲目</string>
+    <string name="audio_unsupported">此设备无法播放任何音轨</string>
+    <string name="try_other_codecs">尝试不同的编解码器或外部播放器</string>
+    <string name="media_tracks">媒体曲目</string>
+    <string name="media_tracks_video">视频</string>
+    <string name="media_tracks_audio">音频</string>
+    <string name="media_tracks_sub">字幕</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">自动滚动到最后一项（在触摸模式下）</string>
+    <string name="hint_right_archives">您可以在浏览实时频道时按向右按钮打开存档列表</string>
+    <string name="cfg_atv_home_always_reset_favorites">始终在主屏幕上重置收藏列表</string>
+    <string name="switch_audio_hw">使用硬件音频解码器</string>
+    <string name="switch_audio_sw">使用软件音频解码器</string>
+    <string name="afr_mode_scale">屏幕分辨率应更改</string>
+    <string name="cfg_ch_icons_dir">带有频道图标的目录</string>
+    <string name="cfg_ch_remove_dups">删除重复的频道（具有相同的名称）</string>
+    <string name="codecs_hardware">硬件编解码器</string>
+    <string name="ch_man_map_to_logo">选择频道徽标</string>
+    <string name="cfg_tvguide_large_preview">通过预览显示更大的描述</string>
+    <string name="cfg_time_shift_from_utc">与系统时间的差异</string>
+    </resources>

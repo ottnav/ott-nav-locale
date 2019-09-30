@@ -90,8 +90,6 @@
     <string name="player_menu_pip_on_details">Beenden Sie den Bild-in-Bild-Modus</string>
     <string name="player_menu_pip_swap_details">Hauptkanal und BiB umschalten</string>
     <string name="player_menu_last_channel">Letzter Kanal</string>
-    <string name="player_menu_play_param_sel_audio_track">Audiospur wählen</string>
-    <string name="player_menu_play_param_sel_audio_track_desc">andere Sprache oder Qualität wählen</string>
 
     <string name="settings_player_pip_codec">Bild-in-Bild-Codecs wählen</string>
     <string name="settings_player_pip_position_tl">oben links</string>
@@ -155,39 +153,17 @@
 
     <string name="settings_player">Player</string>
     <string name="settings_player_hide_ui">Steuerelemente bei der Wiedergabe verstecken nach</string>
-    <string name="sec1">1 Sekunde</string>
-    <string name="sec2">2 Sekunden</string>
-    <string name="sec3">3 Sekunden</string>
-    <string name="sec4">4 Sekunden</string>
-    <string name="sec5">5 Sekunden</string>
-    <string name="sec6">6 Sekunden</string>
-    <string name="sec7">7 Sekunden</string>
-    <string name="sec8">8 Sekunden</string>
-    <string name="sec9">9 Sekunden</string>
-    <string name="sec10">10 Sekunden</string>
     <string name="settings_player_resize_mode">Video-Skalierungsmodus</string>
     <string name="settings_player_resize_mode_fit">Vollbild</string>
     <string name="settings_player_resize_mode_fill">Auf Bildschirmbreite erweitern</string>
     <string name="settings_player_resize_mode_zoom">Zoom auf den Bildschirm</string>
     <string name="settings_player_resize_mode_zoom_in">Verkleinern Sie den Bildschirm</string>
     <string name="settings_player_auto_stop_live">Sendung automatisch ausschalten </string>
-    <string-array name="settings_player_auto_stop_live_names">
-        <item>behindert</item>
-        <item>2 Stunden</item>
-        <item>3 Stunden</item>
-        <item>4 Stunden</item>
-        <item>5 Stunden</item>
-        <item>6 Stunden</item>
-        <item>10 Stunden</item>
-    </string-array>
-
 
     <string name="settings_extended">Erweiterte Einstellungen</string>
     <string name="settings_extended_hide_adult">Ordner für Erwachsene verstecken</string>
     <string name="settings_extended_auto_start_last_channel">Automatischer Start des letzten abgespielten Kanals</string>
-    <string name="settings_schedule_epg_custom_only"> nur die benutzerdefinierte EPG-Programmführer benutzen</string>
     <string name="settings_schedule_epg_reload">EPG-Programmführer neu laden …</string>
-    <string name="settings_schedule_epg_clear">Alle geladenen EPG-Daten entfernen …</string>
 
     <string name="settings_visual">Visuellen Stil</string>
 
@@ -225,9 +201,6 @@
     <string name="settings_ui_language">Sprache (falls nicht festgelegt, verwendet Standard)</string>
 
     <string name="settings_disable_provider_categories">Anbieterkategorien für Kanäle nicht verwenden</string>
-
-    <string name="settings_ui_touch_swipes">Lautstärke / Helligkeitssteuerung per Tippen deaktivieren</string>
-    <string name="settings_ui_play_vol_seek">Verwenden Sie die Vor/Rückspultasten, um die Lautstärke zu ändern</string>
 
     <string name="settings_devices_no_hdmi">Überwachen Sie keine HDMI-Statusänderungen</string>
 
@@ -269,7 +242,6 @@
     <string name="setting_list_view4">Tabelle (4 Spalten)</string>
     <string name="cfg_play_deny_buffer">Pufferstatus nicht anzeigen</string>
     <string name="copied_clipboard">In die Zwischenablage kopiert</string>
-    <string name="cfg_play_action_none">ignorieren</string>
     <string name="cfg_play_action_menu">Menü öffnen</string>
     <string name="cfg_play_action_another">weitere Stream-Auswahl öffnen</string>
     <string name="cfg_play_action_timetable">EPG-Programmführer öffnen</string>
@@ -341,7 +313,6 @@
     <string name="cfg_play_action_2live">Wechseln Sie zur Live-Übertragung des aktuellen Kanals</string>
     <string name="player_menu_2live">Wechseln Sie zu leben</string>
 
-    <string name="cfg_pl_offs_swipe">Bewegen Sie den Touchscreen für Lautstärke und Helligkeit vom Bildschirmrand aus</string>
     <string name="btn_seek">Suchen</string>
     <string name="cfg_play_action_mseek">Startet die Videosuchansicht</string>
     <string name="menu_exit">Ausgang</string>
@@ -366,7 +337,6 @@
     <string name="prov_help_contact_via_chat">Entwickler kontaktieren via Chat</string>
     <string name="prov_help_contact_via_email">Kontaktieren Sie den Entwickler per E-Mail</string>
     <string name="prov_help_provide_more_info">Schreiben Sie Ihre Nachricht an den Entwickler</string>
-    <string name="hint_help_locale">Sie können dazu beitragen, die Übersetzung online zu verbessern</string>
     <string name="cfg_time_imp">Imperiales Zeitformat verwenden (am / pm)</string>
     <string name="hud_short_seeking">Ich suche</string>
     <string name="cfg_player_clock_tr">obere rechte Ecke</string>
@@ -387,10 +357,7 @@
     <string name="cfg_section_lists">Listet die Einstellungen auf</string>
 
     <string name="cfg_switch_dummy_on">Wechseln Sie in den Modus für vereinfachte Einstellungen</string>
-    <string name="cfg_switch_dummy_off">Wechseln Sie in den erweiterten Einstellungsmodus</string>
     <string name="cfg_no_hints">Keine Hinweise anzeigen</string>
-    <string name="pla_track_sel_sub">Untertitel wechseln</string>
-    <string name="pla_track_sel_sub_desc">Untertitelquelle ändern</string>
     <string name="setting_list_view_auto">Tabelle (große Symbole, Bildschirmanpassung)</string>
     <string name="child_mode_unlock_cfg">Geben Sie den untergeordneten Code ein, um die Einstellungen zu entsperren</string>
     <string name="cfg_child_mode">Kindermode</string>
@@ -406,7 +373,6 @@
 
     <string name="cfg_show_ch_numbers">Kanalnummern anzeigen</string>
     <string name="always">immer</string>
-    <string name="cfg_play_action_sinfo">Aktuelle Informationen zum aktuellen TV-Programm anzeigen</string>
     <string name="menu_tv_guide">Fernsehprogramm</string>
     <string name="cfg_stream_q">Streamqualität anzeigen</string>
     <string name="ext_player_copy_clipboard">Link nur in die Zwischenablage kopieren</string>
@@ -478,7 +444,6 @@
     <string name="cfg_fine_tune_volume">Manuelle Feinabstimmung der Lautstärke (begrenzt durch die Systemlautstärke)</string>
 
     <string name="cfg_arch_unp">Öffnen Sie das Archiv automatisch erneut, wenn Sie die Unterbrechung des Live-Streams aufheben</string>
-    <string name="cfg_codec_vlc_sync">Verwenden Sie VLC-Codecs im synchronisierten Modus (kann bei der Audiowiedergabe nach dem Schließen des Streams hilfreich sein)</string>
     <string name="cfg_ch_more_epg">Kanalname größer als EPG anzeigen</string>
     <string name="show_menu_add_to_cont_watching">Schau später weiter</string>
     <string name="cfg_exit_child_mode">Beenden Sie den Kindermodus</string>
@@ -543,4 +508,51 @@
     <string name="hint_long_ok_menu">Langes Drücken der OK-Taste öffnet in den meisten Fällen den Eigenschaftenbildschirm</string>
     <string name="save_state">Sicherer Staat</string>
     <string name="restore_state">Zustand wiederherstellen</string>
-</resources>
+<string name="pro_studio">Studiomodus, der das gleichzeitige Ansehen mehrerer Streams ermöglicht</string>
+    <string name="cfg_prov_channel_name">Anzeigen des Anbieternamens im Kanalnamen bei Verwendung mehrerer Anbieter</string>
+    <string name="increase_text_size">Erhöhen Sie die Textgröße</string>
+    <string name="hint_long_up_down">Langes Drücken der Auf- und Abwärtspfeile ermöglicht eine schnellere Listennavigation</string>
+    <string name="pla_act_quick_seek_back_20">20 Sekunden zurückspulen</string>
+    <string name="pla_act_quick_seek_fwd_20">20 Sekunden vorwärts suchen</string>
+    <string name="cfg_touch_control">Touch Zonenkonfiguration</string>
+    <string name="double_tap">Doppeltippen</string>
+    <string name="pos_center_top">oben in der Mitte</string>
+    <string name="pos_center_left">mitte links</string>
+    <string name="pos_center_center">Center</string>
+    <string name="pos_center_right">mitte rechts</string>
+    <string name="pos_center_bottom">unten in der Mitte</string>
+    <string name="cfg_studio_maximize_size">Abmessungen des maximierten Fensters</string>
+    <string name="pro_desc_try_free">Sie können eine Vorschau der Premium-Funktionen anzeigen, indem Sie den Monatsplan abonnieren. Es hat mehrere kostenlose Starttage, es sei denn, Sie hatten bereits Zahlungen.</string>
+    <string name="cfg_auto_start_system_pip">Wechseln Sie automatisch in den Bild-in-Bild-Modus des Systems, wenn Sie vom Player zum Startbildschirm wechseln</string>
+    <string name="pla_act_hud">Player-Oberfläche mit Broadcast-Details anzeigen</string>
+    <string name="pla_act_prop_channel">Kanaleigenschaften</string>
+    <string name="pla_act_prop_broadcast">aktuelle Broadcast-Eigenschaften</string>
+    <string name="long_press">lang drücken</string>
+    <string name="hours">Std</string>
+    <string name="parental_control">elterliche Kontrolle</string>
+    <string name="show_different_time_frame_guide">Zeige früheren oder späteren Stundenplan</string>
+    <string name="cfg_list_long_arrow_pg_down">Behandeln Sie lange Pfeiltasten Navigation von Seiten</string>
+    <string name="seconds">Sekunden</string>
+    <string name="not_limited">nicht limitiert</string>
+    <string name="auto_detected">automatisch erkannt</string>
+    <string name="remove">Löschen</string>
+    <string name="video_unsupported">Keine der Videospuren kann von diesem Gerät wiedergegeben werden</string>
+    <string name="audio_unsupported">Keiner der Audiotracks kann von diesem Gerät abgespielt werden</string>
+    <string name="try_other_codecs">Probieren Sie andere Codecs oder einen externen Player aus</string>
+    <string name="media_tracks">Medienspuren</string>
+    <string name="media_tracks_video">Video</string>
+    <string name="media_tracks_audio">Audio</string>
+    <string name="media_tracks_sub">Untertitel</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">Automatischer Bildlauf zum letzten Element (im Touch-Modus)</string>
+    <string name="hint_right_archives">Sie können die RECHTE Taste drücken, während Sie Live-Kanäle durchsuchen, um die Archivliste zu öffnen</string>
+    <string name="cfg_atv_home_always_reset_favorites">Liste der Favoriten auf dem Startbildschirm immer zurücksetzen</string>
+    <string name="switch_audio_hw">Verwenden Sie Hardware-Audio-Decoder</string>
+    <string name="switch_audio_sw">Verwenden Sie Software-Audio-Decoder</string>
+    <string name="afr_mode_scale">Die Bildschirmauflösung sollte geändert werden</string>
+    <string name="cfg_ch_icons_dir">Verzeichnis mit Kanalsymbolen</string>
+    <string name="cfg_ch_remove_dups">Entfernen Sie doppelte Kanäle (mit dem gleichen Namen)</string>
+    <string name="codecs_hardware">Hardware-Codecs</string>
+    <string name="ch_man_map_to_logo">Kanallogo auswählen</string>
+    <string name="cfg_tvguide_large_preview">Größere Beschreibung mit Vorschau anzeigen</string>
+    <string name="cfg_time_shift_from_utc">Differenz zur Systemzeit</string>
+    </resources>

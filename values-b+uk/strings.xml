@@ -85,8 +85,6 @@
     <string name="player_menu_pip_on_details">Вийдіть із режиму зображення в картинці</string>
     <string name="player_menu_pip_swap_details">Замінити основний канал і PiP один</string>
     <string name="player_menu_last_channel">Останній канал</string>
-    <string name="player_menu_play_param_sel_audio_track">Виберіть аудіодоріжку</string>
-    <string name="player_menu_play_param_sel_audio_track_desc">Виберіть іншу мову або якість</string>
 
     <string name="settings_player_pip_codec">Вибір кодеків зображення в картинці</string>
     <string name="settings_player_pip_position_tl">ліворуч</string>
@@ -150,38 +148,17 @@
 
     <string name="settings_player">Гравець</string>
     <string name="settings_player_hide_ui">Сховати накладання інтерфейсу користувача у відтворенні</string>
-    <string name="sec1">1 секунда</string>
-    <string name="sec2">2 секунди</string>
-    <string name="sec3">3 секунди</string>
-    <string name="sec4">4 секунди</string>
-    <string name="sec5">5 секунд</string>
-    <string name="sec6">6 секунд</string>
-    <string name="sec7">7 секунд</string>
-    <string name="sec8">8 секунд</string>
-    <string name="sec9">9 секунд</string>
-    <string name="sec10">10 секунд</string>
     <string name="settings_player_resize_mode">Режим масштабування відео</string>
     <string name="settings_player_resize_mode_fit">Підігнати до екрана</string>
     <string name="settings_player_resize_mode_fill">Розширити до ширини екрана</string>
     <string name="settings_player_resize_mode_zoom">Масштабування до екрана</string>
     <string name="settings_player_resize_mode_zoom_in">Зменшення масштабу екрана</string>
     <string name="settings_player_auto_stop_live">Автоматичне вимкнення трансляції</string>
-    <string-array name="settings_player_auto_stop_live_names">
-        <item>вимкнено</item>
-        <item>2 години</item>
-        <item>3 години</item>
-        <item>4 години</item>
-        <item>5 годин</item>
-        <item>6 годин</item>
-        <item>10 годин</item>
-    </string-array>
 
     <string name="settings_extended">Розширені налаштування</string>
     <string name="settings_extended_hide_adult">Сховати категорії дорослих</string>
     <string name="settings_extended_auto_start_last_channel">Автоматичний запуск останнього відтвореного каналу</string>
-    <string name="settings_schedule_epg_custom_only">Використовуйте лише вказані користувачем джерела EPG</string>
     <string name="settings_schedule_epg_reload">Перезавантажити телевізор EPG ...</string>
-    <string name="settings_schedule_epg_clear">Очистити всі завантажені дані EPG ...</string>
 
     <string name="settings_visual">Візуальний стиль</string>
 
@@ -219,9 +196,6 @@
     <string name="settings_ui_language">Мова (якщо не встановлено, використовується типово)</string>
 
     <string name="settings_disable_provider_categories">Не виконуйте категорії постачальників каналів</string>
-
-    <string name="settings_ui_touch_swipes">Вимкнути керування гучністю / яскравістю дотику</string>
-    <string name="settings_ui_play_vol_seek">Для зміни гучності використовуйте кнопки перемотування</string>
 
     <string name="settings_devices_no_hdmi">Не слід контролювати зміни стану HDMI</string>
 
@@ -262,7 +236,6 @@
     <string name="setting_list_view4">таблиця (4 колонки)</string>
     <string name="cfg_play_deny_buffer">Не показувати статус буферизації</string>
     <string name="copied_clipboard">Копіюється в буфер обміну</string>
-    <string name="cfg_play_action_none">ігнорувати</string>
     <string name="cfg_play_action_menu">відкрити меню</string>
     <string name="cfg_play_action_another">відкрити інший вибір потоку</string>
     <string name="cfg_play_action_timetable">відкрити розклад</string>
@@ -333,8 +306,7 @@
     <string name="cfg_video_retry">Час для повторного завантаження відео, коли сталася помилка</string>
     <string name="cfg_play_action_2live">Перейти до поточної трансляції поточного каналу</string>
     <string name="player_menu_2live">Перейдіть у режим живого</string>
-    
-    <string name="cfg_pl_offs_swipe">Перемістіть сенсорну панель гучності та яскравості з краю екрана</string>
+
     <string name="btn_seek">Шукати</string>
     <string name="cfg_play_action_mseek">Починає перегляд відео</string>
     <string name="menu_exit">Вхід</string>
@@ -359,7 +331,6 @@
     <string name="prov_help_contact_via_chat">зверніться до розробника через чат</string>
     <string name="prov_help_contact_via_email">зверніться до розробника електронною поштою</string>
     <string name="prov_help_provide_more_info">Напишіть своє повідомлення розробнику</string>
-    <string name="hint_help_locale">Ви можете допомогти вдосконалити переклад онлайн</string>
     <string name="cfg_time_imp">Використовувати імперський формат часу (am / pm)</string>
     <string name="hud_short_seeking">Шукаю</string>
     <string name="cfg_player_clock_tr">верхній правий кут</string>
@@ -380,10 +351,7 @@
     <string name="cfg_section_lists">Параметри списків</string>
 
     <string name="cfg_switch_dummy_on">Перейти в режим спрощених налаштувань</string>
-    <string name="cfg_switch_dummy_off">Перейти в режим розширених налаштувань</string>
     <string name="cfg_no_hints">Не показувати підказки</string>
-    <string name="pla_track_sel_sub">Переключення субтитрів</string>
-    <string name="pla_track_sel_sub_desc">Змінити джерело субтитрів</string>
     <string name="setting_list_view_auto">таблиця (великі значки, розміщені на екрані)</string>
     <string name="child_mode_unlock_cfg">Введіть дочірній код, щоб розблокувати налаштування</string>
     <string name="cfg_child_mode">Режим дитини</string>
@@ -399,7 +367,6 @@
     
     <string name="cfg_show_ch_numbers">Показати номери каналів</string>
     <string name="always">завжди</string>
-    <string name="cfg_play_action_sinfo">переглянути поточну інформацію про поточну телевізійну програму</string>
     <string name="menu_tv_guide">Телепрограма</string>
     <string name="cfg_stream_q">Показати якість потоку</string>
     <string name="ext_player_copy_clipboard">Скопіюйте посилання лише в буфер обміну</string>
@@ -471,7 +438,6 @@
     <string name="cfg_fine_tune_volume">Ручна гучність звуку точна настройка (обмежена гучністю системи)</string>
 
     <string name="cfg_arch_unp">Автоматично повторно відкрити архів під час повторного запуску потокового відео</string>
-    <string name="cfg_codec_vlc_sync">Використовувати кодеки VLC у синхронізованому режимі (може допомогти, коли звук відтворюється після закриття потоку)</string>
     <string name="cfg_ch_more_epg">Показати назву каналу більше, ніж EPG</string>
     <string name="show_menu_add_to_cont_watching">Продовжуйте переглядати пізніше</string>
     <string name="cfg_exit_child_mode">Вийти з дочірнього режиму</string>
@@ -536,4 +502,51 @@
     <string name="hint_long_ok_menu">Тривале натискання кнопки ОК у більшості випадків відкриває екран властивостей</string>
     <string name="save_state">Зберегти стан</string>
     <string name="restore_state">Відновити стан</string>
-</resources>
+<string name="pro_studio">Студійний режим, що дозволяє переглядати декілька потоків одночасно</string>
+    <string name="cfg_prov_channel_name">Показати ім’я постачальника у назві каналу при використанні декількох постачальників</string>
+    <string name="increase_text_size">збільшити розмір тексту</string>
+    <string name="hint_long_up_down">Довге натискання стрілок вгору та вниз дозволяє швидше переходити по списку</string>
+    <string name="pla_act_quick_seek_back_20">шукати назад на 20 секунд</string>
+    <string name="pla_act_quick_seek_fwd_20">шукати вперед на 20 секунд</string>
+    <string name="cfg_touch_control">Конфігурація зон дотику</string>
+    <string name="double_tap">Двічі натисніть</string>
+    <string name="pos_center_top">верхній центр</string>
+    <string name="pos_center_left">центр зліва</string>
+    <string name="pos_center_center">центр</string>
+    <string name="pos_center_right">праворуч по центру</string>
+    <string name="pos_center_bottom">нижній центр</string>
+    <string name="cfg_studio_maximize_size">Розміри максимізованого вікна</string>
+    <string name="pro_desc_try_free">Ви можете переглянути попередні функції, передплативши щомісячний план. У нього є кілька початкових днів безкоштовно, якщо ви вже не мали платежів.</string>
+    <string name="cfg_auto_start_system_pip">Автоматично перейдіть до режиму «зображення в картинці» під час переходу з програвача на головний екран</string>
+    <string name="pla_act_hud">показати інтерфейс програвача з деталями трансляції</string>
+    <string name="pla_act_prop_channel">властивості каналу</string>
+    <string name="pla_act_prop_broadcast">поточні властивості мовлення</string>
+    <string name="long_press">тривале натискання</string>
+    <string name="hours">годин</string>
+    <string name="parental_control">батьківський контроль</string>
+    <string name="show_different_time_frame_guide">Показати раніше або пізніше розклад</string>
+    <string name="cfg_list_long_arrow_pg_down">Обробляйте навігацію довгими клавішами зі стрілками за сторінками</string>
+    <string name="seconds">секунд</string>
+    <string name="not_limited">не обмежується</string>
+    <string name="auto_detected">автоматично виявлено</string>
+    <string name="remove">видалити</string>
+    <string name="video_unsupported">Цей пристрій не відтворює жодну з відеодоріжок</string>
+    <string name="audio_unsupported">Жоден аудіозапис не відтворюється цим пристроєм</string>
+    <string name="try_other_codecs">Спробуйте різні кодеки або зовнішній плеєр</string>
+    <string name="media_tracks">Мультимедійні треки</string>
+    <string name="media_tracks_video">Відео</string>
+    <string name="media_tracks_audio">Аудіо</string>
+    <string name="media_tracks_sub">Субтитри</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">Автоматична прокрутка до останнього елемента (в сенсорному режимі)</string>
+    <string name="hint_right_archives">Ви можете натиснути кнопку ВПРАВО під час перегляду прямих каналів, щоб відкрити список архівів</string>
+    <string name="cfg_atv_home_always_reset_favorites">Завжди скидайте список вибраних на головний екран</string>
+    <string name="switch_audio_hw">Використовуйте апаратний аудіодекодер</string>
+    <string name="switch_audio_sw">Використовуйте програмний аудіодекодер</string>
+    <string name="afr_mode_scale">роздільну здатність екрана слід змінити</string>
+    <string name="cfg_ch_icons_dir">Каталог з піктограмами каналів</string>
+    <string name="cfg_ch_remove_dups">Видалення повторюваних каналів (з однойменною назвою)</string>
+    <string name="codecs_hardware">апаратні кодеки</string>
+    <string name="ch_man_map_to_logo">Виберіть логотип каналу</string>
+    <string name="cfg_tvguide_large_preview">Показати більший опис за допомогою попереднього перегляду</string>
+    <string name="cfg_time_shift_from_utc">Відмінність від системного часу</string>
+    </resources>

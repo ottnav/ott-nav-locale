@@ -90,8 +90,6 @@
     <string name="player_menu_pip_on_details">ピクチャインピクチャモードを終了する</string>
     <string name="player_menu_pip_swap_details">メインチャンネルとPiPを交換</string>
     <string name="player_menu_last_channel">最後のチャンネル</string>
-    <string name="player_menu_play_param_sel_audio_track">オーディオトラックを選択</string>
-    <string name="player_menu_play_param_sel_audio_track_desc">別の言語や品質を選択する</string>
 
     <string name="settings_player_pip_codec">ピクチャー・イン・ピクチャーコーデックの選択</string>
     <string name="settings_player_pip_position_tl">左上</string>
@@ -155,39 +153,17 @@
 
     <string name="settings_player">プレーヤー</string>
     <string name="settings_player_hide_ui">再生時のUIオーバーレイを非表示にする</string>
-    <string name="sec1">1秒</string>
-    <string name="sec2">2秒</string>
-    <string name="sec3">3秒</string>
-    <string name="sec4">4秒</string>
-    <string name="sec5">5秒</string>
-    <string name="sec6">6秒</string>
-    <string name="sec7">7秒</string>
-    <string name="sec8">8秒</string>
-    <string name="sec9">9秒</string>
-    <string name="sec10">10秒</string>
     <string name="settings_player_resize_mode">ビデオスケールモード</string>
     <string name="settings_player_resize_mode_fit">画面にフィット</string>
     <string name="settings_player_resize_mode_fill">画面の幅に拡大</string>
     <string name="settings_player_resize_mode_zoom">画面にズームする</string>
     <string name="settings_player_resize_mode_zoom_in">画面をズームアウトする</string>
     <string name="settings_player_auto_stop_live">ブロードキャストを自動的にオフにする</string>
-    <string-array name="settings_player_auto_stop_live_names">
-        <item>無効</item>
-        <item>2時間</item>
-        <item>3時間</item>
-        <item>4時間</item>
-        <item>5時間</item>
-        <item>6時間</item>
-        <item>10時間</item>
-    </string-array>
-
 
     <string name="settings_extended">拡張設定</string>
     <string name="settings_extended_hide_adult">大人のカテゴリを隠す</string>
     <string name="settings_extended_auto_start_last_channel">最後に再生したチャンネルを自動的に開始する</string>
-    <string name="settings_schedule_epg_custom_only">指定されたユーザー指定のEPGソースのみを使用する</string>
     <string name="settings_schedule_epg_reload">Reload EPG teleguide ...</string>
-    <string name="settings_schedule_epg_clear">ロードされたすべてのEPGデータをクリア...</string>
 
     <string name="settings_visual">ビジュアルスタイル</string>
 
@@ -225,9 +201,6 @@
     <string name="settings_ui_language">言語（設定されていない場合はデフォルトを使用）</string>
 
     <string name="settings_disable_provider_categories">チャネルのプロバイダカテゴリに従わない</string>
-
-    <string name="settings_ui_touch_swipes">タッチボリューム/輝度コントロールを無効にする</string>
-    <string name="settings_ui_play_vol_seek">巻き戻しボタンを使用して音量を変更する</string>
 
     <string name="settings_devices_no_hdmi">HDMIの状態の変化を監視しない</string>
 
@@ -270,7 +243,6 @@
     <string name="setting_list_view4">テーブル（4列）</string>
     <string name="cfg_play_deny_buffer">バッファリング状態を表示しない</string>
     <string name="copied_clipboard">クリップボードにコピーされました</string>
-    <string name="cfg_play_action_none">無視する</string>
     <string name="cfg_play_action_menu">メニューを開く</string>
     <string name="cfg_play_action_another">別のストリーム選択を開く</string>
     <string name="cfg_play_action_timetable">オープンタイムテーブル</string>
@@ -343,7 +315,6 @@
     <string name="cfg_play_action_2live">現在のチャンネルのライブブロードキャストに切り替えます</string>
     <string name="player_menu_2live">ライブに切り替える</string>
 
-    <string name="cfg_pl_offs_swipe">画面の端から音量と明るさのタッチパネルを動かす</string>
     <string name="btn_seek">シーク</string>
     <string name="cfg_play_action_mseek">ビデオシークビューを開始します</string>
     <string name="menu_exit">出口</string>
@@ -368,7 +339,6 @@
     <string name="prov_help_contact_via_chat">チャットで開発者に連絡する</string>
     <string name="prov_help_contact_via_email">メールで開発者に連絡する</string>
     <string name="prov_help_provide_more_info">開発者へのメッセージを書いてください</string>
-    <string name="hint_help_locale">あなたはオンラインで翻訳を改善するのを手伝うことができます</string>
     <string name="cfg_time_imp">インペリアルタイムフォーマットを使用</string>
     <string name="hud_short_seeking">ほしい</string>
     <string name="cfg_player_clock_tr">右上隅</string>
@@ -389,10 +359,7 @@
     <string name="cfg_section_lists">設定を一覧表示する</string>
 
     <string name="cfg_switch_dummy_on">簡易設定モードに切り替える</string>
-    <string name="cfg_switch_dummy_off">詳細設定モードに切り替える</string>
     <string name="cfg_no_hints">ヒントを表示しない</string>
-    <string name="pla_track_sel_sub">字幕を切り替える</string>
-    <string name="pla_track_sel_sub_desc">字幕ソースを変更する</string>
     <string name="setting_list_view_auto">テーブル（大きなアイコン、画面にフィット）</string>
     <string name="child_mode_unlock_cfg">設定をロック解除するための子コードを入力してください</string>
     <string name="cfg_child_mode">子モード</string>
@@ -408,7 +375,6 @@
 
     <string name="cfg_show_ch_numbers">チャンネル番号を表示</string>
     <string name="always">常に</string>
-    <string name="cfg_play_action_sinfo">現在のテレビ番組に関する現在の情報を表示する</string>
     <string name="menu_tv_guide">テレビガイド</string>
     <string name="cfg_stream_q">ストリーム品質を表示</string>
     <string name="ext_player_copy_clipboard">リンクをクリップボードのみにコピーする</string>
@@ -480,7 +446,6 @@
     <string name="cfg_fine_tune_volume">手動オーディオ音量微調整（システム音量によって制限されます）</string>
 
     <string name="cfg_arch_unp">ライブストリームの一時停止を解除するときにアーカイブを自動的に再開する</string>
-    <string name="cfg_codec_vlc_sync">同期モードでVLCコーデックを使用する（ストリームを閉じた後にオーディオが再生されるときに役立つ場合があります）</string>
     <string name="cfg_ch_more_epg">EPGより大きいチャンネル名を表示</string>
     <string name="show_menu_add_to_cont_watching">後で見続ける</string>
     <string name="cfg_exit_child_mode">子モードを終了</string>
@@ -545,4 +510,51 @@
     <string name="hint_long_ok_menu">[OK]ボタンを長押しすると、ほとんどの場合プロパティ画面が開きます</string>
     <string name="save_state">状態を保存</string>
     <string name="restore_state">状態を復元する</string>
-</resources>
+<string name="pro_studio">スタジオモード、複数のストリームを同時に視聴可能</string>
+    <string name="cfg_prov_channel_name">複数のプロバイダーを使用する場合、チャンネル名にプロバイダー名を表示</string>
+    <string name="increase_text_size">テキストサイズを大きくする</string>
+    <string name="hint_long_up_down">上矢印と下矢印を長押しすると、リストのナビゲーションが速くなります</string>
+    <string name="pla_act_quick_seek_back_20">20秒後方にシークする</string>
+    <string name="pla_act_quick_seek_fwd_20">20秒前にシークする</string>
+    <string name="cfg_touch_control">タッチゾーン設定</string>
+    <string name="double_tap">ダブルタップ</string>
+    <string name="pos_center_top">トップセンター</string>
+    <string name="pos_center_left">左中央</string>
+    <string name="pos_center_center">センター</string>
+    <string name="pos_center_right">中央右</string>
+    <string name="pos_center_bottom">下中央</string>
+    <string name="cfg_studio_maximize_size">最大化されたウィンドウの寸法</string>
+    <string name="pro_desc_try_free">月額プランに登録することで、プレミアム機能をプレビューできます。既にお支払いがない限り、無料で数日間の開始日があります。</string>
+    <string name="cfg_auto_start_system_pip">プレーヤーからホーム画面に切り替えると、システムのピクチャーインピクチャーモードに自動的に移行します</string>
+    <string name="pla_act_hud">ブロードキャストの詳細が表示されたプレーヤーインターフェイス</string>
+    <string name="pla_act_prop_channel">チャネルのプロパティ</string>
+    <string name="pla_act_prop_broadcast">現在のブロードキャストプロパティ</string>
+    <string name="long_press">長押し</string>
+    <string name="hours">営業時間</string>
+    <string name="parental_control">ペアレンタルコントロール</string>
+    <string name="show_different_time_frame_guide">前または後の時刻表を表示</string>
+    <string name="cfg_list_long_arrow_pg_down">ページごとの長い矢印キーを押すナビゲーションを扱う</string>
+    <string name="seconds">秒</string>
+    <string name="not_limited">無制限</string>
+    <string name="auto_detected">自動検出</string>
+    <string name="remove">取り除く</string>
+    <string name="video_unsupported">このデバイスで再生できるビデオトラックはありません</string>
+    <string name="audio_unsupported">このデバイスで再生できるオーディオトラックはありません</string>
+    <string name="try_other_codecs">別のコーデックまたは外部プレーヤーを試してください</string>
+    <string name="media_tracks">メディアトラック</string>
+    <string name="media_tracks_video">ビデオ</string>
+    <string name="media_tracks_audio">オーディオ</string>
+    <string name="media_tracks_sub">字幕</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">最後のアイテムへの自動スクロール（タッチモード）</string>
+    <string name="hint_right_archives">ライブチャンネルを閲覧中に右ボタンを押してアーカイブリストを開くことができます</string>
+    <string name="cfg_atv_home_always_reset_favorites">ホーム画面のお気に入りのリストを常にリセットする</string>
+    <string name="switch_audio_hw">ハードウェアオーディオデコーダーを使用する</string>
+    <string name="switch_audio_sw">ソフトウェアオーディオデコーダーを使用する</string>
+    <string name="afr_mode_scale">画面解像度を変更する必要があります</string>
+    <string name="cfg_ch_icons_dir">チャンネルアイコンのあるディレクトリ</string>
+    <string name="cfg_ch_remove_dups">（同じ名前の）重複したチャネルを削除します</string>
+    <string name="codecs_hardware">ハードウェアコーデック</string>
+    <string name="ch_man_map_to_logo">チャンネルのロゴを選択</string>
+    <string name="cfg_tvguide_large_preview">プレビューで詳細な説明を表示</string>
+    <string name="cfg_time_shift_from_utc">システム時刻との違い</string>
+    </resources>

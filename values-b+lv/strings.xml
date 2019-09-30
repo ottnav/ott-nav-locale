@@ -85,8 +85,6 @@
     <string name="player_menu_pip_on_details">Iziet attēla režīmā režīmā</string>
     <string name="player_menu_pip_swap_details">Mainiet galveno kanālu un PiP vienu</string>
     <string name="player_menu_last_channel">Pēdējais kanāls</string>
-    <string name="player_menu_play_param_sel_audio_track">Izvēlieties audio ierakstu</string>
-    <string name="player_menu_play_param_sel_audio_track_desc">Izvēlieties citu valodu vai kvalitāti</string>
 
     <string name="settings_player_pip_codec">Kodeku izvēle attēlā</string>
     <string name="settings_player_pip_position_tl">augšējais kreisais</string>
@@ -150,39 +148,17 @@
 
     <string name="settings_player">Spēlētājs</string>
     <string name="settings_player_hide_ui">Slēpt UI pārklājumu atskaņošanā</string>
-    <string name="sec1">1 sekunde</string>
-    <string name="sec2">2 sekundes</string>
-    <string name="sec3">3 sekundes</string>
-    <string name="sec4">4 sekundes</string>
-    <string name="sec5">5 sekundes</string>
-    <string name="sec6">6 sekundes</string>
-    <string name="sec7">7 sekundes</string>
-    <string name="sec8">8 sekundes</string>
-    <string name="sec9">9 sekundes</string>
-    <string name="sec10">10 sekundes</string>
     <string name="settings_player_resize_mode">Video mēroga režīms</string>
     <string name="settings_player_resize_mode_fit">Piemērots ekrānam</string>
     <string name="settings_player_resize_mode_fill">Paplašiniet līdz ekrāna platumam</string>
     <string name="settings_player_resize_mode_zoom">Tālummaiņa uz ekrānu</string>
     <string name="settings_player_resize_mode_zoom_in">Tālināt no ekrāna</string>
     <string name="settings_player_auto_stop_live">Automātiski izslēgt apraidi</string>
-    <string-array name="settings_player_auto_stop_live_names">
-        <item>atspējota</item>
-        <item>2 stundas</item>
-        <item>3 stundas</item>
-        <item>4 stundas</item>
-        <item>5 stundas</item>
-        <item>6 stundas</item>
-        <item>10 stundas</item>
-    </string-array>
 
-    
     <string name="settings_extended">Paplašināti iestatījumi</string>
     <string name="settings_extended_hide_adult">Paslēpt pieaugušo kategorijas</string>
     <string name="settings_extended_auto_start_last_channel">Automātiski sākt pēdējo atskaņoto kanālu</string>
-    <string name="settings_schedule_epg_custom_only">Izmantojiet tikai norādītus lietotāja nodrošinātos EPG avotus</string>
     <string name="settings_schedule_epg_reload">Pārlādēt EPG teleguīdu…</string>
-    <string name="settings_schedule_epg_clear">Notīrīt visus ielādētos EPG datus ...</string>
 
     <string name="settings_visual">Vizuālais stils</string>
 
@@ -220,9 +196,6 @@
     <string name="settings_ui_language">Valoda (ja nav iestatīta, izmanto noklusējumu)</string>
 
     <string name="settings_disable_provider_categories">Nepakļaujiet pakalpojumu sniedzēju kategorijas kanāliem</string>
-
-    <string name="settings_ui_touch_swipes">Atspējot pieskāriena skaļuma / spilgtuma kontroli</string>
-    <string name="settings_ui_play_vol_seek">Lai mainītu skaļumu, izmantojiet attīšanas taustiņus</string>
 
     <string name="settings_devices_no_hdmi">Neuzraugiet HDMI stāvokļa izmaiņas</string>
 
@@ -265,7 +238,6 @@
     <string name="setting_list_view4">tabula (4 slejas)</string>
     <string name="cfg_play_deny_buffer">Nerādīt buferizācijas statusu</string>
     <string name="copied_clipboard">Kopēts starpliktuvē</string>
-    <string name="cfg_play_action_none">ignorēt</string>
     <string name="cfg_play_action_menu">atveriet izvēlni</string>
     <string name="cfg_play_action_another">atveriet citu plūsmas izvēli</string>
     <string name="cfg_play_action_timetable">atvērts grafiks</string>
@@ -337,8 +309,7 @@
     <string name="cfg_play_action_2live">Pārslēgties uz pašreizējā kanāla tiešraidi</string>
     <string name="player_menu_2live">Pārslēgt, lai dzīvotu</string>
 
-    
-    <string name="cfg_pl_offs_swipe">Pārvietojiet skaļuma un spilgtuma pieskāriena paneli no ekrāna malas</string>
+
     <string name="btn_seek">Meklējiet</string>
     <string name="cfg_play_action_mseek">Sāk video skatīšanas skatu</string>
     <string name="menu_exit">Izeja</string>
@@ -364,7 +335,6 @@
     <string name="prov_help_contact_via_chat">sazinieties ar attīstītāju, izmantojot tērzēšanu</string>
     <string name="prov_help_contact_via_email">sazinieties ar attīstītāju pa e-pastu</string>
     <string name="prov_help_provide_more_info">Uzrakstiet savu ziņu attīstītājam</string>
-    <string name="hint_help_locale">Jūs varat palīdzēt uzlabot tulkojumu tiešsaistē</string>
     <string name="cfg_time_imp">Izmantot imperatora laika formātu (am / pm)</string>
     <string name="hud_short_seeking">Meklēju</string>
     <string name="cfg_player_clock_tr">augšējā labajā stūrī</string>
@@ -385,10 +355,7 @@
     <string name="cfg_section_lists">Sarakstu iestatījumi</string>
 
     <string name="cfg_switch_dummy_on">Pārslēdzieties uz vienkāršotu iestatījumu režīmu</string>
-    <string name="cfg_switch_dummy_off">Pārslēgties uz papildu iestatījumu režīmu</string>
     <string name="cfg_no_hints">Nerādīt ieteikumus</string>
-    <string name="pla_track_sel_sub">Pārslēgt subtitrus</string>
-    <string name="pla_track_sel_sub_desc">Mainīt subtitru avotu</string>
     <string name="setting_list_view_auto">tabula (lielas ikonas, atbilst ekrānam)</string>
     <string name="child_mode_unlock_cfg">Ievadiet bērnu kodu, lai atbloķētu iestatījumus</string>
     <string name="cfg_child_mode">Bērnu režīms</string>
@@ -404,7 +371,6 @@
 
     <string name="cfg_show_ch_numbers">Rādīt kanālu numurus</string>
     <string name="always">vienmēr</string>
-    <string name="cfg_play_action_sinfo">skatīt pašreizējo informāciju par pašreizējo TV programmu</string>
     <string name="menu_tv_guide">TV ceļvedis</string>
     <string name="cfg_stream_q">Rādīt straumes kvalitāti</string>
     <string name="ext_player_copy_clipboard">Kopēt saiti tikai uz starpliktuvi</string>
@@ -478,7 +444,6 @@
     <string name="cfg_fine_tune_volume">Manuāla skaņas skaļuma precizēšana (ierobežota pēc sistēmas apjoma)</string>
 
     <string name="cfg_arch_unp">Automātiski atsākt arhīvu, kad tiek atcelta tiešraide</string>
-    <string name="cfg_codec_vlc_sync">VLC kodeku lietošana sinhronizētā režīmā (var palīdzēt, kad audio atskaņošana notiek pēc aizvēršanas)</string>
     <string name="cfg_ch_more_epg">Rādīt kanāla nosaukumu, kas ir lielāks par EPG</string>
     <string name="show_menu_add_to_cont_watching">Turpiniet skatīties vēlāk</string>
     <string name="cfg_exit_child_mode">Iziet no bērnu režīma</string>
@@ -543,4 +508,51 @@
     <string name="hint_long_ok_menu">Ilgi nospiežot pogu Labi, lielākajā daļā gadījumu tiek atvērts rekvizītu ekrāns</string>
     <string name="save_state">Saglabāt stāvokli</string>
     <string name="restore_state">Atjaunot stāvokli</string>
-</resources>
+<string name="pro_studio">Studijas režīms, ļaujot vienlaikus skatīties vairākas straumes</string>
+    <string name="cfg_prov_channel_name">Rādiet pakalpojumu sniedzēja vārdu kanāla nosaukumā, ja izmantojat vairākus pakalpojumu sniedzējus</string>
+    <string name="increase_text_size">palielināt teksta lielumu</string>
+    <string name="hint_long_up_down">Ilgi nospiežot augšup un lejup vērstās bultiņas, iespējams ātrāk naviģēt sarakstā</string>
+    <string name="pla_act_quick_seek_back_20">meklējiet atpakaļ par 20 sekundēm</string>
+    <string name="pla_act_quick_seek_fwd_20">virzieties uz priekšu par 20 sekundēm</string>
+    <string name="cfg_touch_control">Skārienjūtīgo zonu konfigurācija</string>
+    <string name="double_tap">Divreiz pieskarieties</string>
+    <string name="pos_center_top">augšējais centrs</string>
+    <string name="pos_center_left">centrs pa kreisi</string>
+    <string name="pos_center_center">centrā</string>
+    <string name="pos_center_right">centrā pa labi</string>
+    <string name="pos_center_bottom">apakšējais centrs</string>
+    <string name="cfg_studio_maximize_size">Maksimālā loga izmēri</string>
+    <string name="pro_desc_try_free">Abonējot ikmēneša plānu, varat priekšskatīt augstākās klases funkcijas. Tam ir vairākas sākuma dienas bez maksas, ja vien jums jau nebija maksājumi.</string>
+    <string name="cfg_auto_start_system_pip">Automātiski pārejot no sistēmas uz attēlu attēlā, pārejot no atskaņotāja uz sākuma ekrānu</string>
+    <string name="pla_act_hud">parādīt atskaņotāja saskarni ar apraides informāciju</string>
+    <string name="pla_act_prop_channel">kanāla rekvizīti</string>
+    <string name="pla_act_prop_broadcast">pašreizējie apraides rekvizīti</string>
+    <string name="long_press">ilgi spiežot</string>
+    <string name="hours">stundas</string>
+    <string name="parental_control">vecāku kontrole</string>
+    <string name="show_different_time_frame_guide">Rādīt agrāku vai vēlāku grafiku</string>
+    <string name="cfg_list_long_arrow_pg_down">Apstrādājiet garu bulttaustiņu, nospiežot navigāciju pa lapām</string>
+    <string name="seconds">sekundes</string>
+    <string name="not_limited">nav ierobežots</string>
+    <string name="auto_detected">automātiski atklāts</string>
+    <string name="remove">noņemt</string>
+    <string name="video_unsupported">Nevienu no video ierakstiem šī ierīce nevar atskaņot</string>
+    <string name="audio_unsupported">Nevienu no audio ierakstiem šī ierīce nevar atskaņot</string>
+    <string name="try_other_codecs">Izmēģiniet dažādus kodekus vai ārēju atskaņotāju</string>
+    <string name="media_tracks">Multivides celiņi</string>
+    <string name="media_tracks_video">Video</string>
+    <string name="media_tracks_audio">Audio</string>
+    <string name="media_tracks_sub">Subtitri</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">Automātiska ritināšana līdz pēdējam vienumam (kontakta režīmā)</string>
+    <string name="hint_right_archives">Lai atvērtu arhīvu sarakstu, tiešraides kanālu pārlūkošanas laikā varat nospiest labo pogu</string>
+    <string name="cfg_atv_home_always_reset_favorites">Vienmēr sākuma ekrānā atiestatiet izlases sarakstu</string>
+    <string name="switch_audio_hw">Izmantojiet aparatūras audio dekodētāju</string>
+    <string name="switch_audio_sw">Izmantojiet programmatūras audio dekodētāju</string>
+    <string name="afr_mode_scale">būtu jāmaina ekrāna izšķirtspēja</string>
+    <string name="cfg_ch_icons_dir">Katalogs ar kanālu ikonām</string>
+    <string name="cfg_ch_remove_dups">Kanālu dublikātu noņemšana (ar tādu pašu nosaukumu)</string>
+    <string name="codecs_hardware">aparatūras kodeki</string>
+    <string name="ch_man_map_to_logo">Atlasiet kanāla logotipu</string>
+    <string name="cfg_tvguide_large_preview">Rādīt lielāku aprakstu ar priekšskatījumu</string>
+    <string name="cfg_time_shift_from_utc">Atšķirība no sistēmas laika</string>
+    </resources>

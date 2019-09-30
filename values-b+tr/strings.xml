@@ -90,8 +90,6 @@
     <string name="player_menu_pip_on_details">Resim içinde resim modundan çık</string>
     <string name="player_menu_pip_swap_details">Ana kanalı ve PiP kodunu değiştir</string>
     <string name="player_menu_last_channel">Son kanal</string>
-    <string name="player_menu_play_param_sel_audio_track">Ses parçasını seç</string>
-    <string name="player_menu_play_param_sel_audio_track_desc">Başka bir dil veya kalite seç</string>
 
     <string name="settings_player_pip_codec">Resim içinde resim kodek seçimi</string>
     <string name="settings_player_pip_position_tl">Sol üst</string>
@@ -155,39 +153,17 @@
 
     <string name="settings_player">oyuncu</string>
     <string name="settings_player_hide_ui">Oynatmada UI yer paylaşımını gizle</string>
-    <string name="sec1">1 saniye</string>
-    <string name="sec2">2 saniye</string>
-    <string name="sec3">3 saniye</string>
-    <string name="sec4">4 saniye</string>
-    <string name="sec5">5 saniye</string>
-    <string name="sec6">6 saniye</string>
-    <string name="sec7">7 saniye</string>
-    <string name="sec8">8 saniye</string>
-    <string name="sec9">9 saniye</string>
-    <string name="sec10">10 saniye</string>
     <string name="settings_player_resize_mode">Video ölçeği modu</string>
     <string name="settings_player_resize_mode_fit">Ekrana sığdır</string>
     <string name="settings_player_resize_mode_fill">Ekran genişliğine genişlet</string>
     <string name="settings_player_resize_mode_zoom">Ekrana yakınlaştır</string>
     <string name="settings_player_resize_mode_zoom_in">Ekrandan uzaklaştırma</string>
     <string name="settings_player_auto_stop_live">Otomatik olarak yayını kapat</string>
-    <string-array name="settings_player_auto_stop_live_names">
-        <item>engelli</item>
-        <item>2 saat</item>
-        <item>3 saat</item>
-        <item>4 saat</item>
-        <item>5 saat</item>
-        <item>6 saat</item>
-        <item>10 saat</item>
-    </string-array>
-
 
     <string name="settings_extended">Genişletilmiş ayarlar</string>
     <string name="settings_extended_hide_adult">Yetişkin kategorilerini gizle</string>
     <string name="settings_extended_auto_start_last_channel">Son oynatılan kanalı otomatik olarak başlat</string>
-    <string name="settings_schedule_epg_custom_only">Sadece belirtilen kullanıcı tarafından sağlanan EPG kaynaklarını kullanın</string>
     <string name="settings_schedule_epg_reload">EPG teleguide yeniden yükle…</string>
-    <string name="settings_schedule_epg_clear">Yüklenen tüm EPG verilerini temizle…</string>
 
     <string name="settings_visual">Görsel stil</string>
 
@@ -225,9 +201,6 @@
     <string name="settings_ui_language">Dil (ayarlanmamışsa, varsayılan kullanır)</string>
 
     <string name="settings_disable_provider_categories">Kanallar için sağlayıcı kategorilerine uymayın</string>
-
-    <string name="settings_ui_touch_swipes">Dokunma sesini / parlaklık kontrolünü devre dışı bırak</string>
-    <string name="settings_ui_play_vol_seek">Sesi değiştirmek için geri sarma düğmelerini kullanın</string>
 
     <string name="settings_devices_no_hdmi">HDMI durumu değişikliklerini izlemeyin</string>
 
@@ -269,7 +242,6 @@
     <string name="setting_list_view4">masa (4 sütun)</string>
     <string name="cfg_play_deny_buffer">Arabelleğe alma durumunu gösterme</string>
     <string name="copied_clipboard">Panoya kopyalandı</string>
-    <string name="cfg_play_action_none">aldırmamak</string>
     <string name="cfg_play_action_menu">menüyü aç</string>
     <string name="cfg_play_action_another">başka bir akış seçimi aç</string>
     <string name="cfg_play_action_timetable">açık zaman çizelgesi</string>
@@ -341,7 +313,6 @@
     <string name="cfg_play_action_2live">Mevcut kanalın canlı yayınına geç</string>
     <string name="player_menu_2live">Yaşamaya geç</string>
 
-    <string name="cfg_pl_offs_swipe">Ses ve parlaklık dokunmatik panelini ekranın kenarından hareket ettirin</string>
     <string name="btn_seek">Aramak</string>
     <string name="cfg_play_action_mseek">Video arama görünümünü başlatır</string>
     <string name="menu_exit">çıkış</string>
@@ -366,7 +337,6 @@
     <string name="prov_help_contact_via_chat">sohbet yoluyla geliştiriciyle iletişime geç</string>
     <string name="prov_help_contact_via_email">e-posta yoluyla geliştiriciyle iletişim kurun</string>
     <string name="prov_help_provide_more_info">Mesajınızı geliştiriciye yazın</string>
-    <string name="hint_help_locale">Çevrimiçi çeviriyi geliştirmeye yardımcı olabilirsiniz</string>
     <string name="cfg_time_imp">Emperyal zaman biçimini kullan (am / pm)</string>
     <string name="hud_short_seeking">Aradığınız</string>
     <string name="cfg_player_clock_tr">sağ üst köşe</string>
@@ -387,10 +357,7 @@
     <string name="cfg_section_lists">Ayarları listeler</string>
 
     <string name="cfg_switch_dummy_on">Basitleştirilmiş ayarlar moduna geçin</string>
-    <string name="cfg_switch_dummy_off">Gelişmiş ayarlar moduna geç</string>
     <string name="cfg_no_hints">İpuçlarını gösterme</string>
-    <string name="pla_track_sel_sub">Altyazıları değiştir</string>
-    <string name="pla_track_sel_sub_desc">Altyazı kaynağını değiştir</string>
     <string name="setting_list_view_auto">masa (büyük simgeler, ekrana sığacak şekilde)</string>
     <string name="child_mode_unlock_cfg">Ayarların kilidini açmak için alt kodu girin</string>
     <string name="cfg_child_mode">Çocuk Modu</string>
@@ -406,7 +373,6 @@
 
     <string name="cfg_show_ch_numbers">Kanal numaralarını göster</string>
     <string name="always">her zaman</string>
-    <string name="cfg_play_action_sinfo">TV programı hakkındaki güncel bilgileri görüntüleyin</string>
     <string name="menu_tv_guide">TV Rehberi</string>
     <string name="cfg_stream_q">Akış kalitesini göster</string>
     <string name="ext_player_copy_clipboard">Bağlantıyı yalnızca panoya kopyala</string>
@@ -478,7 +444,6 @@
     <string name="cfg_fine_tune_volume">Manuel ses seviyesi ince ayarı (sistem ses seviyesiyle sınırlı)</string>
 
     <string name="cfg_arch_unp">Canlı akışı duraklattığınızda arşivin otomatik olarak yeniden açılması</string>
-    <string name="cfg_codec_vlc_sync">VLC kodeklerini senkronize modda kullanın (ses akışı kapattıktan sonra oynatıldığında yardımcı olabilir)</string>
     <string name="cfg_ch_more_epg">EPG\'den daha büyük kanal adını göster</string>
     <string name="show_menu_add_to_cont_watching">Daha sonra izlemeye devam et</string>
     <string name="cfg_exit_child_mode">Çocuk modundan çık</string>
@@ -543,4 +508,51 @@
     <string name="hint_long_ok_menu">OK düğmesine uzun basmak çoğu durumda özellikler ekranını açar</string>
     <string name="save_state">Devlet kaydet</string>
     <string name="restore_state">Durumu geri yükle</string>
-</resources>
+<string name="pro_studio">Stüdyo modu, aynı anda birden fazla akışı izlemenizi sağlar</string>
+    <string name="cfg_prov_channel_name">Birden fazla sağlayıcı kullanırken sağlayıcı adını kanal adında gösterme</string>
+    <string name="increase_text_size">metin boyutunu büyüt</string>
+    <string name="hint_long_up_down">Yukarı ve aşağı oklara uzun basıldığında daha hızlı gezinti sağlanır</string>
+    <string name="pla_act_quick_seek_back_20">20 saniye geriye doğru arama</string>
+    <string name="pla_act_quick_seek_fwd_20">20 saniye ileri gitmek</string>
+    <string name="cfg_touch_control">Dokunma bölgeleri yapılandırması</string>
+    <string name="double_tap">Çift dokunun</string>
+    <string name="pos_center_top">üst merkez</string>
+    <string name="pos_center_left">orta sol</string>
+    <string name="pos_center_center">merkez</string>
+    <string name="pos_center_right">merkez sağ</string>
+    <string name="pos_center_bottom">alt merkez</string>
+    <string name="cfg_studio_maximize_size">Büyütülmüş pencerenin boyutları</string>
+    <string name="pro_desc_try_free">Aylık plana abone olarak premium özellikleri önizleyebilirsiniz. Zaten ödemeleri olmadıkça ücretsiz birkaç başlangıç günü vardır.</string>
+    <string name="cfg_auto_start_system_pip">Oynatıcıdan ana ekrana geçerken, sistem içinde resim resim moduna otomatik gir</string>
+    <string name="pla_act_hud">yayın detaylarını gösteren oyuncu arayüzünü göster</string>
+    <string name="pla_act_prop_channel">kanal özellikleri</string>
+    <string name="pla_act_prop_broadcast">mevcut yayın özellikleri</string>
+    <string name="long_press">uzun basma</string>
+    <string name="hours">saatler</string>
+    <string name="parental_control">ebeveyn Kontrolü</string>
+    <string name="show_different_time_frame_guide">Daha erken veya daha sonraki zaman çizelgesini göster</string>
+    <string name="cfg_list_long_arrow_pg_down">Uzun ok tuşlarına basarak gezinme sayfalarına göre davranın</string>
+    <string name="seconds">saniye</string>
+    <string name="not_limited">sınırsız</string>
+    <string name="auto_detected">otomatik algılandı</string>
+    <string name="remove">Kaldır</string>
+    <string name="video_unsupported">Video izlerinin hiçbiri bu cihaz tarafından oynatılamaz</string>
+    <string name="audio_unsupported">Bu parça tarafından ses izlerinin hiçbiri çalınamıyor</string>
+    <string name="try_other_codecs">Farklı codec veya harici oynatıcıyı deneyin</string>
+    <string name="media_tracks">Medya parçaları</string>
+    <string name="media_tracks_video">Video</string>
+    <string name="media_tracks_audio">Ses</string>
+    <string name="media_tracks_sub">Altyazı</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">Son öğeye otomatik kaydırma (dokunmatik modda)</string>
+    <string name="hint_right_archives">Arşiv listesini açmak için canlı kanalları gezerken SAĞ düğmeye basabilirsiniz.</string>
+    <string name="cfg_atv_home_always_reset_favorites">Sık kullanılanlar listesini daima ana ekranda sıfırla</string>
+    <string name="switch_audio_hw">Donanım ses kod çözücüsünü kullanın</string>
+    <string name="switch_audio_sw">Yazılım ses kod çözücüsünü kullanın</string>
+    <string name="afr_mode_scale">ekran çözünürlüğü değiştirilmeli</string>
+    <string name="cfg_ch_icons_dir">Kanal simgeleri içeren dizin</string>
+    <string name="cfg_ch_remove_dups">Çift kanalları kaldır (aynı isimde)</string>
+    <string name="codecs_hardware">donanım kodekleri</string>
+    <string name="ch_man_map_to_logo">Kanal logosunu seç</string>
+    <string name="cfg_tvguide_large_preview">Önizlemeli daha büyük açıklama göster</string>
+    <string name="cfg_time_shift_from_utc">Sistem zamanından fark</string>
+    </resources>

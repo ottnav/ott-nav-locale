@@ -90,8 +90,6 @@
     <string name="player_menu_pip_on_details">ਤਸਵੀਰ-ਇਨ-ਪਿਕਚਰ ਮੋਡ ਤੋਂ ਬਾਹਰ ਨਿਕਲੋ</string>
     <string name="player_menu_pip_swap_details">ਸਵੈਪ ਮੁੱਖ ਚੈਨਲ ਅਤੇ PiP ਇੱਕ</string>
     <string name="player_menu_last_channel">ਆਖਰੀ ਚੈਨਲ</string>
-    <string name="player_menu_play_param_sel_audio_track">ਔਡੀਓ ਟ੍ਰੈਕ ਚੁਣੋ</string>
-    <string name="player_menu_play_param_sel_audio_track_desc">ਕੋਈ ਹੋਰ ਭਾਸ਼ਾ ਜਾਂ ਗੁਣਵੱਤਾ ਚੁਣੋ</string>
 
     <string name="settings_player_pip_codec">ਤਸਵੀਰ-ਇਨ-ਪਿਕਚਰ ਕੋਡੈਕਸ ਚੋਣ</string>
     <string name="settings_player_pip_position_tl">ਚੋਟੀ ਦੇ ਖੱਬੇ</string>
@@ -155,39 +153,17 @@
 
     <string name="settings_player">ਪਲੇਅਰ</string>
     <string name="settings_player_hide_ui">ਪਲੇਅਬੈਕ ਵਿੱਚ UI ਓਵਰਲੇ ਓਹਲੇ ਕਰੋ</string>
-    <string name="sec1">1 ਸਕਿੰਟ</string>
-    <string name="sec2">2 ਸਕਿੰਟ</string>
-    <string name="sec3">3 ਸਕਿੰਟ</string>
-    <string name="sec4">4 ਸਕਿੰਟ</string>
-    <string name="sec5">5 ਸਕਿੰਟ</string>
-    <string name="sec6">6 ਸਕਿੰਟ</string>
-    <string name="sec7">7 ਸਕਿੰਟ</string>
-    <string name="sec8">8 ਸਕਿੰਟ</string>
-    <string name="sec9">9 ਸਕਿੰਟ</string>
-    <string name="sec10">10 ਸਕਿੰਟ</string>
     <string name="settings_player_resize_mode">ਵੀਡੀਓ ਸਕੇਲ ਮੋਡ</string>
     <string name="settings_player_resize_mode_fit">ਸਕ੍ਰੀਨ ਤੇ ਫਿੱਟ ਕਰੋ</string>
     <string name="settings_player_resize_mode_fill">ਸਕਰੀਨ ਚੌੜਾਈ ਨੂੰ ਫੈਲਾਓ</string>
     <string name="settings_player_resize_mode_zoom">ਸਕ੍ਰੀਨ ਤੇ ਜ਼ੂਮ ਕਰੋ</string>
     <string name="settings_player_resize_mode_zoom_in">ਇੱਕ ਸਕ੍ਰੀਨ ਤੋਂ ਜ਼ੂਮ ਆਉਟ ਕਰੋ</string>
     <string name="settings_player_auto_stop_live">ਆਡੀਓ ਬੰਦ ਪ੍ਰਸਾਰਣ ਵਿੱਚ ਬੰਦ ਕਰੋ</string>
-    <string-array name="settings_player_auto_stop_live_names">
-        <item>ਅਯੋਗ</item>
-        <item>2 ਘੰਟੇ</item>
-        <item>3 ਘੰਟੇ</item>
-        <item>4 ਘੰਟੇ</item>
-        <item>5 ਘੰਟੇ</item>
-        <item>6 ਘੰਟੇ</item>
-        <item>10 ਘੰਟੇ</item>
-    </string-array>
-
 
     <string name="settings_extended">ਵਿਸਤ੍ਰਿਤ ਸੈਟਿੰਗ</string>
     <string name="settings_extended_hide_adult">ਬਾਲਗ ਸ਼੍ਰੇਣੀਆਂ ਨੂੰ ਓਹਲੇ ਕਰੋ</string>
     <string name="settings_extended_auto_start_last_channel">ਆਟੋਮੈਟਿਕ ਹੀ ਆਖਰੀ ਚਲਾਏ ਗਏ ਚੈਨਲ ਨੂੰ ਸ਼ੁਰੂ ਕਰੋ</string>
-    <string name="settings_schedule_epg_custom_only">ਸਿਰਫ ਖਾਸ ਯੂਜ਼ਰ ਦੁਆਰਾ ਮੁਹੱਈਆ ਕੀਤੀ EPG ਸਰੋਤ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="settings_schedule_epg_reload">ਈਪੀਜੀ ਟੈਲੀਗਾਈਡ ਮੁੜ ਲੋਡ ਕਰੋ ...</string>
-    <string name="settings_schedule_epg_clear">ਸਾਰਾ ਲੋਡ ਕੀਤਾ EPG ਡਾਟਾ ਸਾਫ਼ ਕਰੋ ...</string>
 
     <string name="settings_visual">ਵਿਜ਼ੂਅਲ ਸਟਾਈਲ</string>
 
@@ -225,9 +201,6 @@
     <string name="settings_ui_language">ਭਾਸ਼ਾ (ਜੇ ਸੈਟ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ, ਡਿਫੌਲਟ ਵਰਤਦਾ ਹੈ)</string>
 
     <string name="settings_disable_provider_categories">ਚੈਨਲਾਂ ਲਈ ਪ੍ਰਦਾਤਾ ਸ਼੍ਰੇਣੀਆਂ ਦੀ ਪਾਲਣਾ ਨਾ ਕਰੋ</string>
-
-    <string name="settings_ui_touch_swipes">ਟਚ ਵਹਾਅ / ਚਮਕ ਨਿਯੰਤਰਣ ਅਸਮਰੱਥ ਕਰੋ</string>
-    <string name="settings_ui_play_vol_seek">ਵੋਲਯੂਮ ਨੂੰ ਬਦਲਣ ਲਈ ਪਿਛਲਾ ਬਟਨ ਵਰਤੋ</string>
 
     <string name="settings_devices_no_hdmi">HDMI ਸਟੇਟ ਬਦਲਾਵ ਦੀ ਨਿਗਰਾਨੀ ਨਾ ਕਰੋ</string>
 
@@ -269,7 +242,6 @@
     <string name="setting_list_view4">ਟੇਬਲ (4 ਕਾਲਮ)</string>
     <string name="cfg_play_deny_buffer">ਬਫਰਿੰਗ ਸਥਿਤੀ ਨਾ ਦਿਖਾਓ</string>
     <string name="copied_clipboard">ਕਲਿਪਬੋਰਡ ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
-    <string name="cfg_play_action_none">ਅਣਡਿੱਠਾ ਕਰੋ</string>
     <string name="cfg_play_action_menu">ਖੁੱਲ੍ਹਾ ਮੀਨੂ</string>
     <string name="cfg_play_action_another">ਇਕ ਹੋਰ ਸਟ੍ਰੀਮ ਚੋਣ ਖੋਲੋ</string>
     <string name="cfg_play_action_timetable">ਖੁੱਲ੍ਹਾ ਸਮਾਂ ਸਾਰਣੀ</string>
@@ -341,7 +313,6 @@
     <string name="cfg_play_action_2live">ਮੌਜੂਦਾ ਚੈਨਲ ਦੇ ਲਾਈਵ ਪ੍ਰਸਾਰਣ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="player_menu_2live">ਲਾਈਵ ਤੇ ਸਵਿਚ ਕਰੋ</string>
 
-    <string name="cfg_pl_offs_swipe">ਸਕ੍ਰੀਨ ਦੇ ਕਿਨਾਰੇ ਤੋਂ ਵਾਲੀਅਮ ਅਤੇ ਚਮਕ ਟੱਚ ਪੈਨਲ ਨੂੰ ਹਿਲਾਓ</string>
     <string name="btn_seek">ਭਾਲੋ</string>
     <string name="cfg_play_action_mseek">ਵਿਡੀਓ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਦ੍ਰਿਸ਼ ਨੂੰ ਸ਼ੁਰੂ ਕਰਦਾ ਹੈ</string>
     <string name="menu_exit">ਨਿਕਾਸ</string>
@@ -366,7 +337,6 @@
     <string name="prov_help_contact_via_chat">ਗੱਲਬਾਤ ਦੁਆਰਾ ਸੰਪਰਕ ਵਿਕਾਸਕਾਰ</string>
     <string name="prov_help_contact_via_email">ਈ ਮੇਲ ਰਾਹੀਂ ਸੰਪਰਕ ਡਿਵੈਲਪਰ</string>
     <string name="prov_help_provide_more_info">ਆਪਣਾ ਸੁਨੇਹਾ ਡਿਵੈਲਪਰ ਨੂੰ ਲਿੱਖੋ</string>
-    <string name="hint_help_locale">ਤੁਸੀਂ ਆਨਲਾਈਨ ਅਨੁਵਾਦ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿਚ ਸਹਾਇਤਾ ਕਰ ਸਕਦੇ ਹੋ</string>
     <string name="cfg_time_imp">ਸਾਮਰਾਜ ਦੇ ਸਮੇਂ ਦਾ ਫਾਰਮੈਟ ਵਰਤੋ (ਸਵੇਰੇ / ਸ਼ਾਮ)</string>
     <string name="hud_short_seeking">ਭਾਲ</string>
     <string name="cfg_player_clock_tr">ਚੋਟੀ ਦੇ ਸੱਜੇ ਕੋਨੇ</string>
@@ -387,10 +357,7 @@
     <string name="cfg_section_lists">ਸੈਟਿੰਗਾਂ ਦੀ ਸੂਚੀ ਹੈ</string>
 
     <string name="cfg_switch_dummy_on">ਸਧਾਰਨ ਸੈਟਿੰਗ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
-    <string name="cfg_switch_dummy_off">ਉੱਨਤ ਸੈਟਿੰਗ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="cfg_no_hints">ਸੰਕੇਤ ਨਾ ਦਿਖਾਓ</string>
-    <string name="pla_track_sel_sub">ਉਪਸਿਰਲੇਖ ਬਦਲੋ</string>
-    <string name="pla_track_sel_sub_desc">ਉਪਸਿਰਲੇਖ ਸਰੋਤ ਬਦਲੋ</string>
     <string name="setting_list_view_auto">ਸਾਰਣੀ (ਵੱਡੇ ਆਈਕਾਨ, ਸਕਰੀਨ ਫਿੱਟ)</string>
     <string name="child_mode_unlock_cfg">ਸੈਟਿੰਗਜ਼ ਨੂੰ ਅਨਲੌਕ ਕਰਨ ਲਈ ਬੱਚੇ ਦਾ ਕੋਡ ਦਰਜ ਕਰੋ</string>
     <string name="cfg_child_mode">ਬਾਲ ਮੋਡ</string>
@@ -406,7 +373,6 @@
 
     <string name="cfg_show_ch_numbers">ਚੈਨਲ ਨੰਬਰ ਦਿਖਾਓ</string>
     <string name="always">ਹਮੇਸ਼ਾ</string>
-    <string name="cfg_play_action_sinfo">ਮੌਜੂਦਾ ਟੀਵੀ ਪ੍ਰੋਗਰਾਮ ਬਾਰੇ ਮੌਜੂਦਾ ਜਾਣਕਾਰੀ ਵੇਖੋ</string>
     <string name="menu_tv_guide">ਟੀਵੀ ਗਾਈਡ</string>
     <string name="cfg_stream_q">ਸਟ੍ਰੀਮ ਕੁਆਲਿਟੀ ਦਿਖਾਓ</string>
     <string name="ext_player_copy_clipboard">ਸਿਰਫ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ</string>
@@ -478,7 +444,6 @@
     <string name="cfg_fine_tune_volume">ਮੈਨੁਅਲ ਆਡੀਓ ਵਾਲੀਅਮ ਫਾਈਨ-ਟਿਊਨ (ਸਿਸਟਮ ਵਾਲੀਅਮ ਦੁਆਰਾ ਸੀਮਿਤ)</string>
 
     <string name="cfg_arch_unp">ਲਾਈਵ ਸਟ੍ਰੀਮ ਨੂੰ ਅਨਪੌਸ ਕਰਨ ਵੇਲੇ ਆਟੋਮੈਟਿਕਲੀ ਆਰਕਾਈਵ ਦੁਬਾਰਾ ਖੋਲ੍ਹੋ</string>
-    <string name="cfg_codec_vlc_sync">ਸਿੰਕ੍ਰੋਨਾਈਜ਼ਡ ਮੋਡ ਵਿੱਚ ਵੀਐਲਸੀ ਕੋਡੈਕਸ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਸਟ੍ਰੀਮ ਬੰਦ ਕਰਨ ਤੋਂ ਬਾਅਦ ਆਡੀਓ ਪਲੇਅਰਾਂ ਦੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ)</string>
     <string name="cfg_ch_more_epg">ਈਪੀਜੀ ਤੋਂ ਵੱਡਾ ਚੈਨਲ ਦਾ ਨਾਂ ਦਿਖਾਓ</string>
     <string name="show_menu_add_to_cont_watching">ਬਾਅਦ ਵਿੱਚ ਦੇਖਣਾ ਜਾਰੀ ਰੱਖੋ</string>
     <string name="cfg_exit_child_mode">ਬਾਲ ਮੋਡ ਤੋਂ ਬਾਹਰ ਨਿਕਲੋ</string>
@@ -543,4 +508,51 @@
     <string name="hint_long_ok_menu">ਲੰਬੇ ਸਮੇਂ ਤੋਂ ਦਬਾਉਣ ਵਾਲਾ ਓਕੇ ਬਟਨ ਜ਼ਿਆਦਾਤਰ ਮਾਮਲਿਆਂ ਵਿੱਚ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਸਕ੍ਰੀਨ ਖੋਲ੍ਹਦਾ ਹੈ</string>
     <string name="save_state">ਰਾਜ ਨੂੰ ਬਚਾਓ</string>
     <string name="restore_state">ਸਥਿਤੀ ਨੂੰ ਬਹਾਲ ਕਰੋ</string>
-</resources>
+<string name="pro_studio">ਸਟੂਡੀਓ ਮੋਡ, ਇਕੋ ਸਮੇਂ ਕਈ ਸਟ੍ਰੀਮਾਂ ਨੂੰ ਦੇਖਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ</string>
+    <string name="cfg_prov_channel_name">ਜਦੋਂ ਮਲਟੀਪਲ ਪ੍ਰਦਾਤਾ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ ਤਾਂ ਪ੍ਰਦਾਤਾ ਦਾ ਨਾਮ ਚੈਨਲ ਦੇ ਨਾਮ ਵਿੱਚ ਦਿਖਾਓ</string>
+    <string name="increase_text_size">ਟੈਕਸਟ ਦਾ ਅਕਾਰ ਵਧਾਓ</string>
+    <string name="hint_long_up_down">ਲੰਬੇ ਦਬਾ ਕੇ ਹੇਠਾਂ ਜਾਣ ਵਾਲੇ ਤੀਰ ਤੇਜ਼ੀ ਨਾਲ ਸੂਚੀ ਨੇਵੀਗੇਸ਼ਨ ਦੀ ਆਗਿਆ ਦਿੰਦੇ ਹਨ</string>
+    <string name="pla_act_quick_seek_back_20">20 ਸਕਿੰਟ ਬਾਅਦ ਪਿੱਛੇ ਜਾਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="pla_act_quick_seek_fwd_20">ਅੱਗੇ 20 ਸਕਿੰਟ ਦੀ ਭਾਲ ਕਰੋ</string>
+    <string name="cfg_touch_control">ਟਚ ਜ਼ੋਨ ਕੌਂਫਿਗਰੇਸ਼ਨ</string>
+    <string name="double_tap">ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ</string>
+    <string name="pos_center_top">ਚੋਟੀ ਦਾ ਕੇਂਦਰ</string>
+    <string name="pos_center_left">ਕੇਂਦਰ ਖੱਬੇ</string>
+    <string name="pos_center_center">ਕਦਰ</string>
+    <string name="pos_center_right">ਸੱਜੇ ਪਾਸੇ</string>
+    <string name="pos_center_bottom">ਹੇਠਲਾ ਕੇਂਦਰ</string>
+    <string name="cfg_studio_maximize_size">ਵੱਧੋ - ਵੱਧ ਵਿੰਡੋ ਦੇ ਮਾਪ</string>
+    <string name="pro_desc_try_free">ਤੁਸੀਂ ਮਾਸਿਕ ਯੋਜਨਾ ਦੀ ਗਾਹਕੀ ਲੈ ਕੇ ਪ੍ਰੀਮੀਅਮ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦਾ ਪੂਰਵਦਰਸ਼ਨ ਕਰ ਸਕਦੇ ਹੋ. ਇਸਦੇ ਕਈ ਸ਼ੁਰੂਆਤੀ ਦਿਨ ਮੁਫਤ ਹੁੰਦੇ ਹਨ ਜਦੋਂ ਤੱਕ ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾਂ ਹੀ ਭੁਗਤਾਨ ਨਹੀਂ ਹੁੰਦੇ.</string>
+    <string name="cfg_auto_start_system_pip">ਪਲੇਅਰ ਤੋਂ ਘਰੇਲੂ ਸਕ੍ਰੀਨ ਤੇ ਜਾਣ ਵੇਲੇ ਸਵੈਚਲਿਤ ਤੌਰ ਤੇ ਸਿਸਟਮ ਪਿਕਚਰ-ਇਨ-ਪਿਕਚਰ ਮੋਡ ਦਾਖਲ ਕਰੋ</string>
+    <string name="pla_act_hud">ਪ੍ਰਸਾਰਣ ਵੇਰਵਿਆਂ ਨਾਲ ਪਲੇਅਰ ਇੰਟਰਫੇਸ ਦਿਖਾਓ</string>
+    <string name="pla_act_prop_channel">ਚੈਨਲ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ</string>
+    <string name="pla_act_prop_broadcast">ਮੌਜੂਦਾ ਪ੍ਰਸਾਰਣ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ</string>
+    <string name="long_press">ਲੰਬੇ ਦਬਾਉਣ</string>
+    <string name="hours">ਘੰਟੇ</string>
+    <string name="parental_control">ਮਾਪਿਆਂ ਦਾ ਨਿਯੰਤਰਣ</string>
+    <string name="show_different_time_frame_guide">ਪਹਿਲਾਂ ਜਾਂ ਬਾਅਦ ਦਾ ਸਮਾਂ-ਸਾਰਣੀ ਦਿਖਾਓ</string>
+    <string name="cfg_list_long_arrow_pg_down">ਪੰਨਿਆਂ ਦੁਆਰਾ ਲੰਬੇ ਐਰੋ ਕੁੰਜੀ ਪ੍ਰੈਸ ਨੇਵੀਗੇਸ਼ਨ ਦਾ ਇਲਾਜ ਕਰੋ</string>
+    <string name="seconds">ਸਕਿੰਟ</string>
+    <string name="not_limited">ਸੀਮਤ ਨਹੀਂ</string>
+    <string name="auto_detected">ਆਟੋ ਖੋਜਿਆ</string>
+    <string name="remove">ਹਟਾਓ</string>
+    <string name="video_unsupported">ਕੋਈ ਵੀ ਵੀਡੀਓ ਟਰੈਕ ਇਸ ਡਿਵਾਈਸ ਦੁਆਰਾ ਚਲਾਉਣ ਯੋਗ ਨਹੀਂ ਹਨ</string>
+    <string name="audio_unsupported">ਕੋਈ ਵੀ ਆਡੀਓ ਟਰੈਕ ਇਸ ਡਿਵਾਈਸ ਦੁਆਰਾ ਚਲਾਉਣ ਯੋਗ ਨਹੀਂ ਹੈ</string>
+    <string name="try_other_codecs">ਵੱਖਰੇ ਕੋਡੇਕਸ ਜਾਂ ਬਾਹਰੀ ਖਿਡਾਰੀ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="media_tracks">ਮੀਡੀਆ ਟਰੈਕ</string>
+    <string name="media_tracks_video">ਵੀਡੀਓ</string>
+    <string name="media_tracks_audio">ਆਡੀਓ</string>
+    <string name="media_tracks_sub">ਉਪਸਿਰਲੇਖ</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">ਆਖਰੀ ਆਈਟਮ ਤੇ ਆਟੋਮੈਟਿਕ ਸਕ੍ਰੌਲ ਕਰੋ (ਟਚ ਮੋਡ ਵਿੱਚ)</string>
+    <string name="hint_right_archives">ਪੁਰਾਲੇਖਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਸਿੱਧਾ ਚੈਨਲ ਵੇਖਦੇ ਹੋਏ ਤੁਸੀਂ ਸਹੀ ਬਟਨ ਦਬਾ ਸਕਦੇ ਹੋ</string>
+    <string name="cfg_atv_home_always_reset_favorites">ਹੋਮ ਸਕ੍ਰੀਨ \'ਤੇ ਹਮੇਸ਼ਾਂ ਮਨਪਸੰਦਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਰੀਸੈਟ ਕਰੋ</string>
+    <string name="switch_audio_hw">ਹਾਰਡਵੇਅਰ ਆਡੀਓ ਡੀਕੋਡਰ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="switch_audio_sw">ਸਾੱਫਟਵੇਅਰ ਆਡੀਓ ਡੀਕੋਡਰ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="afr_mode_scale">ਸਕਰੀਨ ਰੈਜ਼ੋਲੂਸ਼ਨ ਬਦਲਿਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ</string>
+    <string name="cfg_ch_icons_dir">ਚੈਨਲ ਆਈਕਾਨਾਂ ਵਾਲੀ ਡਾਇਰੈਕਟਰੀ</string>
+    <string name="cfg_ch_remove_dups">ਡੁਪਲਿਕੇਟ ਚੈਨਲਾਂ ਨੂੰ ਹਟਾਓ (ਉਸੇ ਨਾਮ ਨਾਲ)</string>
+    <string name="codecs_hardware">ਹਾਰਡਵੇਅਰ ਕੋਡੇਕਸ</string>
+    <string name="ch_man_map_to_logo">ਚੈਨਲ ਦਾ ਲੋਗੋ ਚੁਣੋ</string>
+    <string name="cfg_tvguide_large_preview">ਪੂਰਵਦਰਸ਼ਨ ਦੇ ਨਾਲ ਵੱਡਾ ਵੇਰਵਾ ਦਿਖਾਓ</string>
+    <string name="cfg_time_shift_from_utc">ਸਿਸਟਮ ਦੇ ਸਮੇਂ ਨਾਲੋਂ ਅੰਤਰ</string>
+    </resources>

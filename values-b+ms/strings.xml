@@ -90,8 +90,6 @@
     <string name="player_menu_pip_on_details">Keluar dari mod gambar dalam gambar</string>
     <string name="player_menu_pip_swap_details">Tukar saluran utama dan PiP satu</string>
     <string name="player_menu_last_channel">Saluran terakhir</string>
-    <string name="player_menu_play_param_sel_audio_track">Pilih trek audio</string>
-    <string name="player_menu_play_param_sel_audio_track_desc">Pilih bahasa atau kualiti lain</string>
 
     <string name="settings_player_pip_codec">Pemilihan codec gambar dalam gambar</string>
     <string name="settings_player_pip_position_tl">kiri atas</string>
@@ -155,39 +153,17 @@
 
     <string name="settings_player">Pemain</string>
     <string name="settings_player_hide_ui">Sembunyikan lapisan UI dalam main semula</string>
-    <string name="sec1">1 saat</string>
-    <string name="sec2">2 saat</string>
-    <string name="sec3">3 saat</string>
-    <string name="sec4">4 saat</string>
-    <string name="sec5">5 saat</string>
-    <string name="sec6">6 saat</string>
-    <string name="sec7">7 saat</string>
-    <string name="sec8">8 saat</string>
-    <string name="sec9">9 saat</string>
-    <string name="sec10">10 saat</string>
     <string name="settings_player_resize_mode">Mod skala video</string>
     <string name="settings_player_resize_mode_fit">Sesuai untuk skrin</string>
     <string name="settings_player_resize_mode_fill">Kembangkan ke lebar skrin</string>
     <string name="settings_player_resize_mode_zoom">Zum ke skrin</string>
     <string name="settings_player_resize_mode_zoom_in">Zum keluar dari skrin</string>
     <string name="settings_player_auto_stop_live">Matikan matikan siaran secara automatik</string>
-    <string-array name="settings_player_auto_stop_live_names">
-        <item>kurang upaya</item>
-        <item>2 jam</item>
-        <item>3 jam</item>
-        <item>4 jam</item>
-        <item>5 jam</item>
-        <item>6 jam</item>
-        <item>10 jam</item>
-    </string-array>
-
 
     <string name="settings_extended">Tetapan lanjutan</string>
     <string name="settings_extended_hide_adult">Sembunyikan kategori dewasa</string>
     <string name="settings_extended_auto_start_last_channel">Secara automatik memulakan saluran dimainkan yang terakhir</string>
-    <string name="settings_schedule_epg_custom_only">Hanya gunakan sumber EPG yang disediakan pengguna yang dinyatakan</string>
     <string name="settings_schedule_epg_reload">Muat semula EPG teleguide ...</string>
-    <string name="settings_schedule_epg_clear">Kosongkan semua data EPG yang dimuat ...</string>
 
     <string name="settings_visual">Gaya visual</string>
 
@@ -225,9 +201,6 @@
     <string name="settings_ui_language">Bahasa (jika tidak ditetapkan, menggunakan lalai)</string>
 
     <string name="settings_disable_provider_categories">Jangan patuhi kategori penyedia untuk saluran</string>
-
-    <string name="settings_ui_touch_swipes">Lumpuhkan kawalan kelantangan / kecerahan sentuh</string>
-    <string name="settings_ui_play_vol_seek">Gunakan butang gulung semula untuk menukar kelantangan</string>
 
     <string name="settings_devices_no_hdmi">Jangan memantau perubahan keadaan HDMI</string>
 
@@ -269,7 +242,6 @@
     <string name="setting_list_view4">jadual (4 tiang)</string>
     <string name="cfg_play_deny_buffer">Jangan tunjukkan status penimbal</string>
     <string name="copied_clipboard">Disalin ke papan keratan</string>
-    <string name="cfg_play_action_none">abai</string>
     <string name="cfg_play_action_menu">buka menu</string>
     <string name="cfg_play_action_another">buka pilihan aliran lain</string>
     <string name="cfg_play_action_timetable">jadual waktu terbuka</string>
@@ -342,7 +314,6 @@
     <string name="cfg_play_action_2live">Tukar hidup siaran saluran semasa</string>
     <string name="player_menu_2live">Tukar hidup</string>
 
-    <string name="cfg_pl_offs_swipe">Pindahkan kelantangan dan panel sentuh kecerahan dari tepi skrin</string>
     <string name="btn_seek">Cari</string>
     <string name="cfg_play_action_mseek">Mulakan pandangan mencari video</string>
     <string name="menu_exit">Keluar</string>
@@ -367,7 +338,6 @@
     <string name="prov_help_contact_via_chat">hubungi pembangun melalui sembang</string>
     <string name="prov_help_contact_via_email">hubungi pemaju melalui e-mel</string>
     <string name="prov_help_provide_more_info">Tulis mesej anda kepada pemaju</string>
-    <string name="hint_help_locale">Anda boleh membantu meningkatkan terjemahan dalam talian</string>
     <string name="cfg_time_imp">Gunakan format waktu imperial (am / pm)</string>
     <string name="hud_short_seeking">Mencari</string>
     <string name="cfg_player_clock_tr">sudut kanan atas</string>
@@ -388,10 +358,7 @@
     <string name="cfg_section_lists">Senarai tetapan</string>
 
     <string name="cfg_switch_dummy_on">Tukar ke mod tetapan mudah</string>
-    <string name="cfg_switch_dummy_off">Beralih ke mod tetapan lanjutan</string>
     <string name="cfg_no_hints">Jangan tunjukkan petunjuk</string>
-    <string name="pla_track_sel_sub">Tukar sarikata</string>
-    <string name="pla_track_sel_sub_desc">Tukar sumber sarikata</string>
     <string name="setting_list_view_auto">jadual (ikon besar, muat skrin)</string>
     <string name="child_mode_unlock_cfg">Masukkan kod kanak-kanak untuk membuka kunci tetapan</string>
     <string name="cfg_child_mode">Mod kanak-kanak</string>
@@ -407,7 +374,6 @@
 
     <string name="cfg_show_ch_numbers">Tunjukkan nombor saluran</string>
     <string name="always">sentiasa</string>
-    <string name="cfg_play_action_sinfo">lihat maklumat semasa tentang program tv semasa</string>
     <string name="menu_tv_guide">panduan TV</string>
     <string name="cfg_stream_q">Tunjukkan kualiti strim</string>
     <string name="ext_player_copy_clipboard">Salin pautan ke papan klip sahaja</string>
@@ -479,7 +445,6 @@
     <string name="cfg_fine_tune_volume">Kelantangan audio manual baik-baik saja (terhad oleh kelantangan sistem)</string>
 
     <string name="cfg_arch_unp">Arahkan semula arkib secara automatik apabila menghidupkan strim langsung</string>
-    <string name="cfg_codec_vlc_sync">Gunakan codec VLC dalam mod disegerakkan (mungkin membantu apabila audio dimainkan selepas aliran ditutup)</string>
     <string name="cfg_ch_more_epg">Tunjukkan nama saluran yang lebih besar daripada EPG</string>
     <string name="show_menu_add_to_cont_watching">Teruskan menonton kemudian</string>
     <string name="cfg_exit_child_mode">Keluar mod kanak-kanak</string>
@@ -544,4 +509,51 @@
     <string name="hint_long_ok_menu">Butang OK menekan butang membuka skrin sifat dalam kebanyakan kes</string>
     <string name="save_state">Simpan keadaan</string>
     <string name="restore_state">Pulihkan keadaan</string>
-</resources>
+<string name="pro_studio">Mod studio, membolehkan menonton pelbagai aliran pada masa yang sama</string>
+    <string name="cfg_prov_channel_name">Tunjukkan nama penyedia dalam nama saluran apabila menggunakan berbilang pembekal</string>
+    <string name="increase_text_size">meningkatkan saiz teks</string>
+    <string name="hint_long_up_down">Anak panah menekan ke atas dan ke bawah membolehkan navigasi senarai lebih cepat</string>
+    <string name="pla_act_quick_seek_back_20">cari ke belakang dengan 20 saat</string>
+    <string name="pla_act_quick_seek_fwd_20">cari ke hadapan sebanyak 20 saat</string>
+    <string name="cfg_touch_control">Sentuh konfigurasi zon</string>
+    <string name="double_tap">Tekan dua kali</string>
+    <string name="pos_center_top">pusat teratas</string>
+    <string name="pos_center_left">tengah kiri</string>
+    <string name="pos_center_center">pusat</string>
+    <string name="pos_center_right">tengah kanan</string>
+    <string name="pos_center_bottom">pusat bawah</string>
+    <string name="cfg_studio_maximize_size">Dimensi tetingkap dimaksimumkan</string>
+    <string name="pro_desc_try_free">Anda boleh melihat ciri premium dengan melanggan pelan bulanan. Ia mempunyai beberapa hari permulaan secara percuma melainkan anda sudah mendapat bayaran.</string>
+    <string name="cfg_auto_start_system_pip">Masukkan secara automatik sistem gambar dalam gambar apabila bertukar dari pemain ke skrin utama</string>
+    <string name="pla_act_hud">tunjukkan antara muka pemain dengan butiran penyiaran</string>
+    <string name="pla_act_prop_channel">sifat saluran</string>
+    <string name="pla_act_prop_broadcast">harta siaran semasa</string>
+    <string name="long_press">tekan lama</string>
+    <string name="hours">Jam</string>
+    <string name="parental_control">kawalan ibu bapa</string>
+    <string name="show_different_time_frame_guide">Tunjukkan jadual waktu atau lebih awal</string>
+    <string name="cfg_list_long_arrow_pg_down">Rawat navigasi tekan kekunci anak panah yang panjang oleh halaman</string>
+    <string name="seconds">detik</string>
+    <string name="not_limited">tidak terhad</string>
+    <string name="auto_detected">auto dikesan</string>
+    <string name="remove">keluarkan</string>
+    <string name="video_unsupported">Tiada trek video boleh dimainkan oleh peranti ini</string>
+    <string name="audio_unsupported">Tiada trek audio dimainkan oleh peranti ini</string>
+    <string name="try_other_codecs">Cuba codec yang berbeza atau pemain luaran</string>
+    <string name="media_tracks">Trek media</string>
+    <string name="media_tracks_video">Video</string>
+    <string name="media_tracks_audio">Audio</string>
+    <string name="media_tracks_sub">Sarikata</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">Tatal auto ke item terakhir (dalam mod sentuh)</string>
+    <string name="hint_right_archives">Anda boleh menekan butang KANAN semasa menyemak imbas saluran secara langsung untuk membuka senarai arkib</string>
+    <string name="cfg_atv_home_always_reset_favorites">Selesaikan semula senarai kegemaran pada skrin utama</string>
+    <string name="switch_audio_hw">Gunakan penyahkod audio perkakasan</string>
+    <string name="switch_audio_sw">Gunakan perisian decoder audio</string>
+    <string name="afr_mode_scale">resolusi skrin harus diubah</string>
+    <string name="cfg_ch_icons_dir">Direktori dengan ikon saluran</string>
+    <string name="cfg_ch_remove_dups">Alih keluar saluran pendua (dengan nama yang sama)</string>
+    <string name="codecs_hardware">perkakasan codec</string>
+    <string name="ch_man_map_to_logo">Pilih logo saluran</string>
+    <string name="cfg_tvguide_large_preview">Tunjukkan penerangan yang lebih besar dengan pratonton</string>
+    <string name="cfg_time_shift_from_utc">Perbezaan dari masa sistem</string>
+    </resources>
