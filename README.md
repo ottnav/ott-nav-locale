@@ -28,3 +28,4 @@ If you wish to improve translation or add a new one - create a pull request
 + values-b+ru: Русский
 + values-b+tr: Türk
 + values-b+zh: 中国
++ values-b+vi: Tiếng Việt
