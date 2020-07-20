@@ -8,16 +8,9 @@
     <string name="menu_live">Tiešraide</string>
     <string name="menu_archive">Rāda arhīvu</string>
     <string name="menu_settings">Iestatījumi</string>
-    <string name="menu_error_require_provider_title">Ir nepieciešams OTT pakalpojumu sniedzējs</string>
-    <string name="menu_error_require_provider_text">Šis rajons ir pieejams tikai tad, ja ir konfigurēts OTT pakalpojumu sniedzējs. Atlasiet citu iespēju vai konfigurējiet pakalpojumu sniedzēju.</string>
     <string name="menu_error_require_provider_button">Konfigurējiet pakalpojumu sniedzēju</string>
-    <string name="menu_error_require_status_title">Dati tiek indeksēti</string>
-    <string name="menu_error_require_status_text">Informācija par šo sadaļu vēl nav pieejama. Process var ilgt vairākas minūtes. Izvēlieties citu sadaļu vai pagaidiet mazliet.</string>
     <string name="menu_error_require_live_but_no_playlist_title">Nevar ielādēt atskaņošanas sarakstu ar kanāliem</string>
     <string name="menu_error_require_live_but_no_playlist_text">Nevar sasniegt konfigurēto pakalpojumu sniedzēju vai atskaņošanas sarakstu. Lūdzu, pārbaudiet pakalpojumu sniedzēja iestatījumus un, ja tie šķiet labi, sazinieties ar savu IPTV pakalpojumu sniedzēju.</string>
-    <string name="menu_error_provider_no_archive_title">Arhīvi netiek atbalstīti</string>
-    <string name="menu_error_provider_no_archive_text">Atlasītais pakalpojumu sniedzējs neatbalsta arhīvus. Ir pieejamas tikai tiešraides. Pārvietojieties uz iestatījumiem, lai mainītu pakalpojumu sniedzēju vai dotos uz tiešraidi.</string>
-    <string name="menu_error_provider_no_archive_button">Iet uz tiešraidi</string>
 
     <string name="browse_description_series_number">epizode</string>
     <string name="browse_description_header_live">Dzīvi kanāli</string>
@@ -48,7 +41,6 @@
     <string name="player_warn_turn_off">Izslēdzas</string>
     <string name="player_press_to_cancel">Nospiediet OK, lai atceltu</string>
     <string name="player_touch_to_cancel">Pieskarieties ekrānam, lai atceltu</string>
-    <string name="player_state_no_media">Plūsma nav atlasīta</string>
     <string name="player_state_no_media_ended">Plūsma nav atlasīta (beigusies)</string>
     <string name="player_state_buffering">Buferēšana</string>
 
@@ -116,17 +108,12 @@
     <string name="settings_provider_select_error_playlist">atskaņošanas saraksts šķiet nederīgs vai tajā nav atbalstītu kanālu</string>
     <string name="settings_provider_select_error_live">tajā nav atbalstītu dzīvu kanālu. Pārbaudiet lietotājvārdu / atslēgu / paroli / url.</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMI atvienots: automātiski izslēdz video</string>
-
-    <string name="archive_auto_seek_title">Meklējiet pēdējo šī video atcerēto atrašanās vietu?</string>
     <string name="archive_auto_seek_no">Nē, skatieties no sākuma</string>
-    <string name="archive_auto_seek_yes">Jā, mēģiniet</string>
     <string name="future_show_sheet_add_wl_title">Atgādiniet man, lai pārslēgtos uz kanālu</string>
     <string name="future_show_sheet_search_title">Meklēt arhīvos</string>
     <string name="future_show_sheet_search_none">Šis videoklips jūsu pakalpojumu sniedzēja arhīvā netika atrasts</string>
     <string name="notify_live_sheet_title">Videoklips, kuru atzīmējāt, lai vēlāk skatītu, tagad ir tiešsaistē</string>
     <string name="notify_live_sheet_text">Pārslēgt, lai skatītu videoklipu</string>
-    <string name="vod_root_title_provider">Mediju bibliotēka</string>
     <string name="feature_requires_premium">Šī funkcija prasa piemaksu</string>
     <string name="feature_requires_restart">Ir nepieciešama lietotnes restartēšana</string>
     <string name="no_teleguide">Nav EPG teleguīda</string>
@@ -144,7 +131,6 @@
     <string name="settings_provider">Pakalpojumu sniedzējs</string>
     <string name="settings_media_library">Multivides bibliotēka</string>
     <string name="settings_media_library_dnla">Skenējiet UPnP / DNLA avotus vietējā tīklā</string>
-    <string name="settings_media_library_prov_vod">Skenēšanas pakalpojumu sniedzēja multivides bibliotēka, ja tā ir</string>
 
     <string name="settings_player">Spēlētājs</string>
     <string name="settings_player_hide_ui">Slēpt UI pārklājumu atskaņošanā</string>
@@ -195,10 +181,6 @@
     <string name="settings_ui_screen_margins">Ekrāna malas</string>
     <string name="settings_ui_language">Valoda (ja nav iestatīta, izmanto noklusējumu)</string>
 
-    <string name="settings_disable_provider_categories">Nepakļaujiet pakalpojumu sniedzēju kategorijas kanāliem</string>
-
-    <string name="settings_devices_no_hdmi">Neuzraugiet HDMI stāvokļa izmaiņas</string>
-
     <string name="settings_codec">Kodeku iestatījumi</string>
     <string name="settings_codec_hard">Vienmēr izmantojiet aparatūras kodekus</string>
     <string name="settings_codec_soft_vlc">Vienmēr izmantojiet programmatūras VLC kodekus</string>
@@ -239,16 +221,13 @@
     <string name="cfg_play_deny_buffer">Nerādīt buferizācijas statusu</string>
     <string name="copied_clipboard">Kopēts starpliktuvē</string>
     <string name="cfg_play_action_menu">atveriet izvēlni</string>
-    <string name="cfg_play_action_another">atveriet citu plūsmas izvēli</string>
     <string name="cfg_play_action_timetable">atvērts grafiks</string>
     <string name="cfg_play_action_prev">pārslēgties uz iepriekšējo kanālu</string>
     <string name="cfg_play_action_next">pārslēgties uz nākamo kanālu</string>
-    <string name="cfg_play_action_params">atvērt atskaņošanas parametrus</string>
     <string name="cfg_play_action_last">pārslēgties uz pēdējo atskaņoto kanālu</string>
     <string name="cfg_play_action_title">Iestatiet tālvadības pulti</string>
     <string name="cfg_play_action_btn_archive_as_live">Izmantojiet to pašu iestatījumu, skatoties arhīvus (atspējot meklēšanu, izmantojot kreiso un labo pogu)</string>
     <string name="cfg_trans_wind">Izmantojiet caurspīdīgu interfeisu</string>
-    <string name="cfg_list_poster_time">Rādīt plakāta ilgumu (sekundes, ja tādas ir pieejamas)</string>
 
     <string name="do_not_show">nerādi</string>
     <string name="android_not_genuine">Pirkumi var nedarboties jūsu ierīcē.</string>
@@ -268,12 +247,10 @@
     <string name="provider_generic">Vispārējais pakalpojumu sniedzējs vai atskaņošanas saraksts</string>
     <string name="watched">Skatīts:</string>
     <string name="btn_search">Meklēt</string>
-    <string name="hint_vod_cache">Multivides bibliotēka saglabā datus vairākas dienas. Ja jums vajadzīgi jauni dati, lai parādītos ātrāk, notīriet kešatmiņu no iestatījumiem un restartējiet lietotni.</string>
     <string name="premium_fea_6">Sūtīt plūsmu uz bezvadu displeju</string>
     <string name="wifi_display">Bezvadu displejs</string>
     <string name="wifi_display_desc">Atskaņot plūsmu citā ierīcē</string>
 
-    <string name="cfg_play_action_fav">atvērt iecienītāko kanālu izvēli</string>
     <string name="cfg_play_action_pp">pārtraukt vai atsākt atskaņošanu</string>
     <string name="cfg_play_action_btn_red">Sarkanās pogas darbība</string>
     <string name="cfg_play_action_btn_green">Zaļās pogas darbība</string>
@@ -297,7 +274,6 @@
     <string name="cfg_ign_last_codec">neaizmirstiet pēdējo kodeku, ko izmantoja, lai atskaņotu kanālu</string>
     <string name="btn_schedule_epg">ieplānot EPG pārlādēšanu</string>
     <string name="err_archive_is_shorter">Šā kanāla arhīvam ir īsāks kalpošanas laiks</string>
-    <string name="cfg_no_seek">Emulēt meklēšanu, atsākot plūsmu no jaunās pozīcijas katru reizi</string>
     <string name="cfg_section_backup">Dublēšana un atjaunošana</string>
     <string name="btn_backup_info">Backup tiek glabāts ar taustiņu. Uzrakstiet to uz leju, tiklīdz dublējums ir pabeigts. Nav garantijas, cik ilgi būs pieejams dublējums.</string>
     <string name="btn_backup_data">Pašreizējās konfigurācijas dublēšana</string>
@@ -354,7 +330,6 @@
     <string name="cfg_section_desc">Lietas apraksts</string>
     <string name="cfg_section_lists">Sarakstu iestatījumi</string>
 
-    <string name="cfg_switch_dummy_on">Pārslēdzieties uz vienkāršotu iestatījumu režīmu</string>
     <string name="cfg_no_hints">Nerādīt ieteikumus</string>
     <string name="setting_list_view_auto">tabula (lielas ikonas, atbilst ekrānam)</string>
     <string name="child_mode_unlock_cfg">Ievadiet bērnu kodu, lai atbloķētu iestatījumus</string>
@@ -363,8 +338,6 @@
     <string name="cfg_play_deny_status">Nerādīt plūsmas statusu</string>
     <string name="cfg_player_hud">Head-up interfeisa stils</string>
     <string name="cfg_player_hud_1">Augšā un apakšā</string>
-    <string name="cfg_player_hud_2">Kombinēts apakšā</string>
-    <string name="cfg_player_hud_3">Kombinēts augšpusē</string>
     <string name="cfg_player_hide_menu">Laika nobīde, lai paslēptu izvēlni (sekundēs)</string>
     <string name="choose_auto">Izvēlieties automātiski</string>возможность
     <string name="cfg_stream_tech">Plūsmas tehnoloģija (ja pieejama)</string>
@@ -405,7 +378,6 @@
     <string name="menu_qs_provider_all">Visi aktīvie pakalpojumu sniedzēji</string>
     <string name="menu_tv_guide_cfg">Rādīt pogu TV ceļvedis</string>
     <string name="cfg_video_preview_sound">Iespējot skaņu video priekšskatījumā aprakstā</string>
-    <string name="btn_schedule_upnp_vod_load">Pārlādēt UPnP multivides bibliotēku</string>
     <string name="provider_generic_middleware">Vispārējs starpprogrammatūras serveris</string>
     <string name="provider_generic_list">Pakalpojumu sniedzēju saraksts</string>
     <string name="provider_generic_list_desc">Blakus esošās kopējās veidnes (valoda un reģions)</string>
@@ -429,7 +401,6 @@
     <string name="cfg_epg_update_frequency">Atjaunināšanas biežums (stundās)</string>
     <string name="cfg_vod_merge">Apvienot multivides bibliotēku no dažādiem avotiem vienā sarakstā (nepieciešama atkārtota ielāde)</string>
     <string name="ch_manage_rename">Pārdēvēt</string>
-    <string name="name_already_taken">Vārds jau ir uzņemts</string>
     <string name="pla_timeshift_from_current">Sāciet no pašreizējā brīža</string>
     <string name="cfg_play_action_timeshift_start">atvērt sākumu no arhivēta TV</string>
     <string name="cfg_play_action_timeshift_now">atveriet arhivēto TV šovu no pašreizējā laika</string>
@@ -470,7 +441,6 @@
     <string name="player_menu_manage_epg">Pārvaldiet TV pārraidi</string>
     <string name="help_faq">Bieži uzdotie jautājumi</string>
     <string name="pla_menu_item_visibility">Izvēlnes pogas redzamība</string>
-    <string name="pla_menu_item_visibility_desc">slēpt bezjēdzīgi</string>
     <string name="pla_menu_type">Izvēlnes vizuālais stils</string>
     <string name="pla_menu_type_list">sarakstu</string>
     <string name="pla_menu_type_grid">režģis</string>
@@ -545,7 +515,6 @@
     <string name="media_tracks_sub">Subtitri</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">Automātiska ritināšana līdz pēdējam vienumam (kontakta režīmā)</string>
     <string name="hint_right_archives">Lai atvērtu arhīvu sarakstu, tiešraides kanālu pārlūkošanas laikā varat nospiest labo pogu</string>
-    <string name="cfg_atv_home_always_reset_favorites">Vienmēr sākuma ekrānā atiestatiet izlases sarakstu</string>
     <string name="switch_audio_hw">Izmantojiet aparatūras audio dekodētāju</string>
     <string name="switch_audio_sw">Izmantojiet programmatūras audio dekodētāju</string>
     <string name="afr_mode_scale">būtu jāmaina ekrāna izšķirtspēja</string>
@@ -555,4 +524,114 @@
     <string name="ch_man_map_to_logo">Atlasiet kanāla logotipu</string>
     <string name="cfg_tvguide_large_preview">Rādīt lielāku aprakstu ar priekšskatījumu</string>
     <string name="cfg_time_shift_from_utc">Atšķirība no sistēmas laika</string>
+    <string name="internal_value">iekšējā vērtība</string>
+    <string name="displayed_value">parādītā vērtība</string>
+    <string name="cfg_play_action_ch_list">atvērt kanālu sarakstu</string>
+    <string name="cfg_enable_resolution_fix">Iespējot izšķirtspējas labošanu</string>
+    <string name="minutes">minūtes</string>
+    <string name="cfg_ban_bad_channels_qs">Noņemiet salauztos kanālus no ātrā slēdža</string>
+    <string name="loading_data">Notiek datu ielāde</string>
+    <string name="cfg_list_ch_no_country">Noņemt valsti no kanāla nosaukuma</string>
+    <string name="cfg_network">Tīkls</string>
+    <string name="select_sort_order">Atlasiet kārtošanas secību</string>
+    <string name="sort_order_abc">Alfabētiski</string>
+    <string name="sort_order_cba">Alfabētiski (apgriezti)</string>
+    <string name="sort_order_uploaded">Augšuplādes datums</string>
+    <string name="cfg_video_effect">Video efekts</string>
+    <string name="cfg_video_effect_grain">Filmas graudi</string>
+    <string name="cfg_logo_prefer">Vēlamais kanālu ikonu avots</string>
+    <string name="cfg_logo_from_provider">Piegādātāja ikona</string>
+    <string name="cfg_logo_from_file">Ikona no vietējā direktorija</string>
+    <string name="cfg_logo_from_epg">Ikona no EPG</string>
+    <string name="cfg_pla_act_ui_brightness">Mainīt ekrāna spilgtumu (pieskāriens)</string>
+    <string name="cfg_pla_act_ui_volume">Mainīt audio skaļumu (pieskarties)</string>
+    <string name="swipe_vertical">vertikāli pārvelciet</string>
+    <string name="swipe_horizontal">horizontāli pārvelciet</string>
+    <string name="cfg_max_epg_load_back">Maksimālais dienu skaits EPG ielādēšanai vēsturē</string>
+    <string name="expiration">Derīguma termiņš</string>
+    <string name="trial_account">Izmēģinājuma konts</string>
+    <string name="premium_google_account">Visi pirkumi attiecas uz visām ierīcēm, kurām ir tas pats konts.</string>
+    <string name="player_live_recent_archive">Vai atsākt nesen atskaņotu arhivētu video atskaņošanu?</string>
+    <string name="player_live_recent_archive_archive">Atsākt atskaņošanu</string>
+    <string name="player_live_recent_archive_live">Tiešraide</string>
+    <string name="pos_on_left">kreisajā pusē</string>
+    <string name="pos_on_right">labajā pusē</string>
+    <string name="cfg_list_pos_on_screen">Norāda pozīciju ekrānā</string>
+    <string name="cfg_list_size_on_screen">Uz ekrāna tiek parādīts izmērs</string>
+    <string name="cfg_list_desc_allow">Ļauj aprakstu parādīt sarakstos</string>
+    <string name="cfg_ext_app_on_home">Rādīt ārējo lietojumprogrammu sākuma ekrānā</string>
+    <string name="player_select_screen_main">Galvenais ekrāns</string>
+    <string name="never">nekad</string>
+    <string name="by_default">pēc noklusējuma</string>
+    <string name="sleep_timer">Miega taimeris</string>
+<string name="err_need_provider">Nepieciešams IPTV pakalpojuma sniedzējs</string>
+    <string name="err_need_provider_text">Jums jākonfigurē IPTV pakalpojumu sniedzēju. Atveriet iestatījumus un pievienojiet pakalpojumu sniedzēju (vai playlist).</string>
+    <string name="unlock_premium">Atbloķējiet piemaksu</string>
+    <string name="about_app">Par lietotni</string>
+    <string name="contact_dev">Sazinieties ar izstrādātāju</string>
+    <string name="with_stats">Ļaujiet nosūtīt anonīmu statistiku, lai uzlabotu lietotni</string>
+    <string name="last_epg_load_ok">Pēdējā veiksmīgā EPG ielādes informācija</string>
+    <string name="mass_add_chls_to_this_cat">Pievienojiet kanālus šai kategorijai</string>
+    <string name="minutes_ago_10">Pirms 10 minūtēm</string>
+    <string name="time_warp">Laika velku</string>
+    <string name="show_dir_sep_from_videos">Rādīt direktorijas atsevišķi no videoklipiem</string>
+    <string name="epg_warn_search_by_name_custom">Vispārējos avotos tiek meklēti tikai kanālu nosaukumi. Ja avotu esat izveidojis speciāli savam pakalpojumu sniedzējam, konfigurējiet to pakalpojuma sniedzēja īpašumos.</string>
+    <string name="show_archive_playback_marker">Rādīt marķieri, ja pašlaik tiek atskaņots ierakstīts video</string>
+    <string name="user_vod_sources">Lietotāju nodrošinātie multivides bibliotēkas avoti</string>
+    <string name="append_user_source">Pievienojiet lietotāja nodrošinātu avotu</string>
+    <string name="black_screen_on_ch_switch">Rādot melno ekrānu, mainot kanālu</string>
+    <string name="clear_custom_ch_order">Atjaunot sākotnējo kanālu pasūtījumu</string>
+    <string name="channels_processed">Kanāli apstrādāti</string>
+    <string name="atv_split_to_different_channels">Sadaliet vairākus satura veidus dažādās rindās</string>
+    <string name="number_already_taken">Šis numurs jau ir aizņemts</string>
+    <string name="fold_duplicate_channels">Kanālu dublikātu salieciet vienā elementā</string>
+    <string name="select_another_media_source">Pārslēgties uz citu multivides avotu</string>
+    <string name="user_epg_sources">Lietotāja norādīti EPG avoti</string>
+    <string name="reload_data">Pārlādēt datus</string>
+    <string name="assume_long_buffering_as_error">Pieņemsim, ka ilga buferizācija ir kanāla kļūda</string>
+    <string name="show_installation_number">Rādīt instalācijas numuru</string>
+    <string name="sort_archive_by_date">Kārtojiet arhivētos videoklipus pēc datuma</string>
+    <string name="simplified_mode">Vienkāršots režīms</string>
+    <string name="hide_advanced_features">Slēpt uzlabotās funkcijas</string>
+    <string name="select_player_to_use">Izvēlieties atskaņotāju, kuru izmantot atskaņošanai</string>
+    <string name="auto_unfold_current_element_info">Automātiski izvērš pašreiz atlasītā elementa informāciju</string>
+    <string name="error_occurred">Uzradās kļūda</string>
+    <string name="applies_to_provider_loded">Attiecas uz pakalpojuma sniedzēja ielādi</string>
+    <string name="applies_to_final_ch_list">Attiecas uz galīgo kanālu sarakstu</string>
+    <string name="vod_folder_series">TV sērijas</string>
+    <string name="vod_folder_movies">Filmas</string>
+    <string name="show_hidden_content">Rādīt slēptu saturu</string>
+    <string name="rewind_speed">Attīšanas ātrums</string>
+    <string name="disable_provider_epg">Atspējojiet pakalpojumu sniedzēja EPG avotus, izmantojot tikai lietotāja nodrošinātus</string>
+    <string name="allow_bad_ssl">Atļaut nederīgus SSL sertifikātus</string>
+    <string name="auto_start_next_episode">Automātiski sākt nākamo sēriju</string>
+    <string name="unique_devices">unikālas ierīces</string>
+    <string name="sign_in">Ielogoties</string>
+    <string name="register">Reģistrēties</string>
+    <string name="not_logged_in">Nav pieteicies</string>
+    <string name="sign_in_to_activate">Pierakstieties, lai aktivizētu</string>
+    <string name="user_account_for_premium">Lietotāja konts premium funkciju pārvaldībai</string>
+    <string name="logout">Izlogoties</string>
+    <string name="pro_sub_expired">Jūsu abonementa termiņš ir beidzies</string>
+    <string name="days">dienas</string>
+    <string name="price">Cena</string>
+    <string name="do_not_offer_any_more">To vairs nepiedāvājiet</string>
+    <string name="cfg_offer_to_seek_to_last_pos">Piedāvājiet meklēt pēdējo skatīto pozīciju</string>
+    <string name="best_offer">Labākais piedāvājums</string>
+    <string name="popular_offer">Populārs piedāvājums</string>
+    <string name="favorites_go_top">Vispirms jāiekļauj iecienītākās saraksta vienības</string>
+    <string name="action_lock_screen">bloķēt ekrāna vadīklas</string>
+    <string name="screen_is_locked">Ekrāna vadība ir bloķēta</string>
+    <string name="prev_category">Iepriekšējā kategorija</string>
+    <string name="change_category_type">Mainīt kategorijas veidu</string>
+    <string name="scroll_speed_for_desc">Ritināšanas ātrums ilgam aprakstam</string>
+    <string name="select_value_to_start_from">Atlasiet vērtību, no kuras sākt</string>
+    <string name="enabled_modules">Iespējotie moduļi</string>
+    <string name="replace_provider_order_abc">Aizstāt pakalpojumu sniedzēja kanāla pasūtījumu, lai pasūtītu pēc alfabēta</string>
+    <string name="nothing_to_backup">Nav datu dublēšanai!</string>
+    <string name="qr_code_desc">Kodu var skenēt, izmantojot tālruņa kameras lietotni. Vai arī, tā kā kods ir kopēts starpliktuvē, varat vienkārši ielīmēt to citā lietotnē.</string>
+    <string name="next_page">Nākamā lapaspuse</string>
+    <string name="user_exp_level">Lietotāju pieredzes līmenis</string>
+    <string name="user_exp_mode_normal">Normāls režīms</string>
+    <string name="user_exp_mode_expert">Ekspertu režīms</string>
     </resources>

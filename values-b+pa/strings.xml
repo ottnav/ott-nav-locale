@@ -9,16 +9,9 @@
     <string name="menu_live">ਸਿੱਧਾ ਪ੍ਰਸਾਰਣ</string>
     <string name="menu_archive">ਆਰਕਾਈਵ ਦਿਖਾਉਂਦਾ ਹੈ</string>
     <string name="menu_settings">ਸੈਟਿੰਗਾਂ</string>
-    <string name="menu_error_require_provider_title">ਓ ਟੀ ਟੀ ਪ੍ਰਦਾਤਾ ਦੀ ਲੋੜ ਹੈ</string>
-    <string name="menu_error_require_provider_text">ਇਹ ਜ਼ਿਲ੍ਹਾ ਸਿਰਫ ਉਦੋਂ ਉਪਲਬਧ ਹੁੰਦਾ ਹੈ ਜਦੋਂ OTT ਪ੍ਰਦਾਤਾ ਨੂੰ ਕੌਂਫਿਗਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ. ਜਾਂ ਤਾਂ ਇਕ ਹੋਰ ਵਿਕਲਪ ਦਾ ਚੋਣ ਕਰੋ, ਜਾਂ ਪ੍ਰਦਾਤਾ ਦੀ ਸੰਰਚਨਾ ਕਰੋ.</string>
     <string name="menu_error_require_provider_button">ਪ੍ਰਦਾਤਾ ਨੂੰ ਕੌਂਫਿਗਰ ਕਰੋ</string>
-    <string name="menu_error_require_status_title">ਡਾਟਾ ਇੰਡੈਕਸ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</string>
-    <string name="menu_error_require_status_text">ਇਸ ਸੈਕਸ਼ਨ ਲਈ ਜਾਣਕਾਰੀ ਅਜੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ. ਇਸ ਪ੍ਰਕਿਰਿਆ ਨੂੰ ਕਈ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ. ਹੋਰ ਸੈਕਸ਼ਨ ਚੁਣੋ ਜਾਂ ਥੋੜਾ ਉਡੀਕ ਕਰੋ.</string>
     <string name="menu_error_require_live_but_no_playlist_title">ਚੈਨਲਾਂ ਦੇ ਨਾਲ ਪਲੇਲਿਸਟ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
     <string name="menu_error_require_live_but_no_playlist_text">ਸੰਰਚਿਤ ਪ੍ਰਦਾਤਾ ਜਾਂ ਪਲੇਲਿਸਟ ਤੇ ਪਹੁੰਚਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ. ਕਿਰਪਾ ਕਰਕੇ ਪ੍ਰਦਾਤਾ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਮੁੜ ਜਾਂਚ ਕਰੋ ਅਤੇ ਜੇਕਰ ਉਹ ਠੀਕ ਲਗਦਾ ਹੈ, ਤਾਂ ਆਪਣੇ IPTV ਪ੍ਰਦਾਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ.</string>
-    <string name="menu_error_provider_no_archive_title">ਆਰਕਾਈਵਸ ਸਮਰਥਿਤ ਨਹੀਂ ਹਨ</string>
-    <string name="menu_error_provider_no_archive_text">ਚੁਣਿਆ ਪ੍ਰਦਾਤਾ ਪੁਰਾਲੇਖਾਂ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ ਕੇਵਲ ਲਾਈਵ ਸਟ੍ਰੀਮ ਉਪਲਬਧ ਹਨ. ਕਿਸੇ ਪ੍ਰਦਾਤਾ ਨੂੰ ਬਦਲਣ ਲਈ ਜਾਂ ਲਾਈਵ ਸਟ੍ਰੀਮ \'ਤੇ ਜਾਣ ਲਈ ਸੈਟਿੰਗਾਂ ਤੇ ਜਾਓ</string>
-    <string name="menu_error_provider_no_archive_button">ਲਾਈਵ ਸਟ੍ਰੀਮ ਤੇ ਜਾਓ</string>
 
 
     <string name="browse_description_series_number">ਪ੍ਰਸੰਗ</string>
@@ -52,7 +45,6 @@
     <string name="player_warn_turn_off">ਬੰਦ ਹੋ ਜਾਵੇਗਾ</string>
     <string name="player_press_to_cancel">ਰੱਦ ਕਰਨ ਲਈ ਠੀਕ ਦਬਾਓ</string>
     <string name="player_touch_to_cancel">ਰੱਦ ਕਰਨ ਲਈ ਸਕ੍ਰੀਨ ਨੂੰ ਛੋਹਵੋ</string>
-    <string name="player_state_no_media">ਸਟ੍ਰੀਮ ਚੁਣਿਆ ਨਹੀਂ ਗਿਆ</string>
     <string name="player_state_no_media_ended">ਸਟ੍ਰੀਮ ਨੂੰ ਚੁਣਿਆ ਨਹੀਂ ਗਿਆ (ਸਮਾਪਤ)</string>
     <string name="player_state_buffering">ਬਫਰਿੰਗ</string>
 
@@ -121,17 +113,12 @@
     <string name="settings_provider_select_error_playlist">ਪਲੇਲਿਸਟ ਅਯੋਗ ਜਾਪਦੀ ਹੈ ਜਾਂ ਕੋਈ ਸਮਰਥਿਤ ਚੈਨਲ ਨਹੀਂ ਹੁੰਦੇ ਹਨ</string>
     <string name="settings_provider_select_error_live">ਵਿੱਚ ਕੋਈ ਸਮਰਥਿਤ ਲਾਈਵ ਚੈਨਲਾਂ ਨਹੀਂ ਹਨ ਉਪਭੋਗਤਾ ਨਾਮ / ਕੁੰਜੀ / ਪਾਸਵਰਡ / url ਨੂੰ ਚੈਕ ਕਰੋ.</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMI ਅਨਪਲੱਗਡ: ਆਟੋ-ਮੋਡਿੰਗ ਵੀਡੀਓ</string>
-
-    <string name="archive_auto_seek_title">ਇਸ ਵੀਡੀਓ ਦੀ ਆਖਰੀ ਯਾਦ ਥਾਂ ਤੇ ਜਾਓ?</string>
     <string name="archive_auto_seek_no">ਨਹੀਂ, ਸ਼ੁਰੂ ਤੋਂ ਦੇਖੋ</string>
-    <string name="archive_auto_seek_yes">ਹਾਂ, ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
     <string name="future_show_sheet_add_wl_title">ਚੈਨਲ ਤੇ ਸਵਿੱਚ ਕਰਨ ਲਈ ਮੈਨੂੰ ਯਾਦ ਕਰਵਾਓ</string>
     <string name="future_show_sheet_search_title">ਪੁਰਾਲੇਖਾਂ ਵਿੱਚ ਖੋਜ ਕਰੋ</string>
     <string name="future_show_sheet_search_none">ਇਹ ਵੀਡੀਓ ਤੁਹਾਡੇ ਪ੍ਰਾਂਤਾ ਆਰਕਾਈਵਜ਼ ਵਿੱਚ ਨਹੀਂ ਮਿਲਿਆ ਸੀ</string>
     <string name="notify_live_sheet_title">ਇੱਕ ਵੀਡੀਓ ਜੋ ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਦੇਖਣ ਲਈ ਚਿੰਨ੍ਹਿਤ ਕੀਤਾ ਹੈ ਹੁਣ ਔਨਲਾਈਨ ਹੈ</string>
     <string name="notify_live_sheet_text">ਵੀਡੀਓ ਨੂੰ ਦੇਖਣ ਲਈ ਸਵਿਚ ਕਰੋ</string>
-    <string name="vod_root_title_provider">ਦੀ ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ</string>
     <string name="feature_requires_premium">ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਲਈ ਪ੍ਰੀਮੀਅਮ ਦੀ ਲੋੜ ਹੈ</string>
     <string name="feature_requires_restart">ਐਪ ਰੀਸਟਾਰਟ ਦੀ ਲੋੜ ਹੈ</string>
     <string name="no_teleguide">ਕੋਈ ਈਪੀਜੀ ਟੈਲੀਗਾਈਡ ਨਹੀਂ</string>
@@ -149,7 +136,6 @@
     <string name="settings_provider">ਦੇਣ ਵਾਲੇ</string>
     <string name="settings_media_library">ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ</string>
     <string name="settings_media_library_dnla">ਸਥਾਨਕ ਨੈਟਵਰਕ ਵਿੱਚ UPnP / DNLA ਸਰੋਤਾਂ ਨੂੰ ਸਕੈਨ ਕਰੋ</string>
-    <string name="settings_media_library_prov_vod">ਸਕੈਨ ਪ੍ਰਦਾਤਾ ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ ਜੇ ਮੌਜੂਦ ਹੋਵੇ</string>
 
     <string name="settings_player">ਪਲੇਅਰ</string>
     <string name="settings_player_hide_ui">ਪਲੇਅਬੈਕ ਵਿੱਚ UI ਓਵਰਲੇ ਓਹਲੇ ਕਰੋ</string>
@@ -200,10 +186,6 @@
     <string name="settings_ui_screen_margins">ਸਕ੍ਰੀਨ ਮਾਰਜਿਨ</string>
     <string name="settings_ui_language">ਭਾਸ਼ਾ (ਜੇ ਸੈਟ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ, ਡਿਫੌਲਟ ਵਰਤਦਾ ਹੈ)</string>
 
-    <string name="settings_disable_provider_categories">ਚੈਨਲਾਂ ਲਈ ਪ੍ਰਦਾਤਾ ਸ਼੍ਰੇਣੀਆਂ ਦੀ ਪਾਲਣਾ ਨਾ ਕਰੋ</string>
-
-    <string name="settings_devices_no_hdmi">HDMI ਸਟੇਟ ਬਦਲਾਵ ਦੀ ਨਿਗਰਾਨੀ ਨਾ ਕਰੋ</string>
-
     <string name="settings_codec">ਕੋਡੈਕਸ ਸੈਟਿੰਗ</string>
     <string name="settings_codec_hard">ਹਮੇਸ਼ਾਂ ਹਾਰਡਵੇਅਰ ਕੋਡੈਕਸ ਵਰਤੋ</string>
     <string name="settings_codec_soft_vlc">ਹਮੇਸ਼ਾ ਸਾਫਟਵੇਅਰ ਵੀਐਲਸੀ ਕੋਡੈਕਸ ਵਰਤੋ</string>
@@ -243,16 +225,13 @@
     <string name="cfg_play_deny_buffer">ਬਫਰਿੰਗ ਸਥਿਤੀ ਨਾ ਦਿਖਾਓ</string>
     <string name="copied_clipboard">ਕਲਿਪਬੋਰਡ ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
     <string name="cfg_play_action_menu">ਖੁੱਲ੍ਹਾ ਮੀਨੂ</string>
-    <string name="cfg_play_action_another">ਇਕ ਹੋਰ ਸਟ੍ਰੀਮ ਚੋਣ ਖੋਲੋ</string>
     <string name="cfg_play_action_timetable">ਖੁੱਲ੍ਹਾ ਸਮਾਂ ਸਾਰਣੀ</string>
     <string name="cfg_play_action_prev">ਪਿਛਲੇ ਚੈਨਲ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="cfg_play_action_next">ਅਗਲੇ ਚੈਨਲ ਤੇ ਸਵਿਚ ਕਰੋ</string>
-    <string name="cfg_play_action_params">ਓਪਨ ਪਲੇਅਬੈਕ ਪੈਰਾਮੀਟਰ</string>
     <string name="cfg_play_action_last">ਪਿਛਲੇ ਖੇਡੇ ਗਏ ਚੈਨਲ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="cfg_play_action_title">ਰਿਮੋਟ ਕੰਟਰੋਲਰ ਸੈੱਟਅੱਪ ਕਰੋ</string>
     <string name="cfg_play_action_btn_archive_as_live">ਅਕਾਇਵ ਦਿਖਾਉਂਦੇ ਹੋਏ ਉਸੇ ਸੈੱਟਅੱਪ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਖੱਬੇ ਅਤੇ ਸੱਜੇ ਬਟਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਖੋਜ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਉਣਾ)</string>
     <string name="cfg_trans_wind">ਪਾਰਦਰਸ਼ੀ ਇੰਟਰਫੇਸ ਵਰਤੋ</string>
-    <string name="cfg_list_poster_time">ਪੋਸਟਰ ਦੀ ਮਿਆਦ ਦਿਖਾਓ (ਸਕਿੰਟ, ਜੇ ਉਪਲਬਧ ਹੋਵੇ)</string>
 
     <string name="do_not_show">ਨਾ ਦਿਖਾਓ</string>
     <string name="android_not_genuine">ਖਰੀਦਦਾਰ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਤੇ ਕੰਮ ਨਹੀਂ ਕਰਨਗੇ.</string>
@@ -272,12 +251,10 @@
     <string name="provider_generic">ਆਮ ਪ੍ਰਦਾਤਾ ਜਾਂ ਪਲੇਲਿਸਟ</string>
     <string name="watched">ਦੇਖੇ ਗਏ:</string>
     <string name="btn_search">ਖੋਜ</string>
-    <string name="hint_vod_cache">ਕਈ ਦਿਨਾਂ ਲਈ ਮੀਡੀਆ ਲਾਇਬਰੇਰੀ ਕੈਚ ਡਾਟਾ. ਜੇ ਤੁਹਾਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਪ੍ਰਗਟ ਕਰਨ ਲਈ ਨਵੇਂ ਡੇਟਾ ਦੀ ਲੋੜ ਹੈ, ਸੈਟਿੰਗਾਂ ਤੋਂ ਕੈਚ ਸਾਫ਼ ਕਰੋ ਅਤੇ ਐਪ ਨੂੰ ਮੁੜ ਚਾਲੂ ਕਰੋ</string>
     <string name="premium_fea_6">ਇੱਕ ਵਾਇਰਲੈਸ ਡਿਸਪਲੇ ਲਈ ਸਟ੍ਰੀਮ ਭੇਜੋ</string>
     <string name="wifi_display">ਵਾਇਰਲੈਸ ਡਿਸਪਲੇ</string>
     <string name="wifi_display_desc">ਕਿਸੇ ਹੋਰ ਡਿਵਾਈਸ ਤੇ ਸਟ੍ਰੀਮ ਪਲੇ ਕਰੋ</string>
 
-    <string name="cfg_play_action_fav">ਮਨਪਸੰਦ ਚੈਨਲ ਚੋਣ ਨੂੰ ਖੋਲ੍ਹੋ</string>
     <string name="cfg_play_action_pp">ਖੇਡ ਨੂੰ ਰੋਕਣਾ ਜਾਂ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰਨਾ</string>
     <string name="cfg_play_action_btn_red">ਲਾਲ ਬਟਨ ਲਈ ਐਕਸ਼ਨ</string>
     <string name="cfg_play_action_btn_green">ਗ੍ਰੀਨ ਬਟਨ ਲਈ ਐਕਸ਼ਨ</string>
@@ -301,7 +278,6 @@
     <string name="cfg_ign_last_codec">ਇੱਕ ਚੈਨਲ ਨੂੰ ਚਲਾਉਣ ਲਈ ਪਿਛਲੇ ਕੋਡੈਕ ਨੂੰ ਯਾਦ ਨਾ ਕਰੋ</string>
     <string name="btn_schedule_epg">ਅਨੁਸੂਚੀ EPG ਰੀਲੋਡ ਕਰੋ</string>
     <string name="err_archive_is_shorter">ਤੁਹਾਡੇ ਪ੍ਰਦਾਤਾ ਲਈ ਇਸ ਚੈਨਲ ਲਈ ਆਰਕਾਈਵ ਘੱਟ ਉਮਰ ਭਰ ਹੈ</string>
-    <string name="cfg_no_seek">ਈਮੂਲੇਟ ਹਰ ਵਾਰੀ ਨਵੀਂ ਸਥਿਤੀ ਤੋਂ ਸਟ੍ਰੀਮ ਨੂੰ ਦੁਬਾਰਾ ਖੋਲ੍ਹਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਨ</string>
     <string name="cfg_section_backup">ਬੈਕਅਪ ਅਤੇ ਰੀਸਟੋਰ ਕਰੋ</string>
     <string name="btn_backup_info">ਬੈਕਅੱਪ ਇੱਕ ਕੁੰਜੀ ਦੁਆਰਾ ਸਟੋਰ ਕੀਤੀ ਗਈ ਹੈ ਜਿਵੇਂ ਹੀ ਬੈਕਅੱਪ ਪੂਰਾ ਹੁੰਦਾ ਹੈ, ਇਸ ਨੂੰ ਲਿਖੋ. ਇਸ ਗੱਲ ਦੀ ਕੋਈ ਗਾਰੰਟੀ ਨਹੀਂ ਹੈ ਕਿ ਬੈਕਅੱਪ ਕਿੰਨਾ ਚਿਰ ਉਪਲਬਧ ਹੋਵੇਗਾ.</string>
     <string name="btn_backup_data">ਬੈਕਅੱਪ ਮੌਜੂਦਾ ਸੰਰਚਨਾ</string>
@@ -356,7 +332,6 @@
     <string name="cfg_section_desc">ਆਈਟਮ ਵਰਣਨ</string>
     <string name="cfg_section_lists">ਸੈਟਿੰਗਾਂ ਦੀ ਸੂਚੀ ਹੈ</string>
 
-    <string name="cfg_switch_dummy_on">ਸਧਾਰਨ ਸੈਟਿੰਗ ਮੋਡ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="cfg_no_hints">ਸੰਕੇਤ ਨਾ ਦਿਖਾਓ</string>
     <string name="setting_list_view_auto">ਸਾਰਣੀ (ਵੱਡੇ ਆਈਕਾਨ, ਸਕਰੀਨ ਫਿੱਟ)</string>
     <string name="child_mode_unlock_cfg">ਸੈਟਿੰਗਜ਼ ਨੂੰ ਅਨਲੌਕ ਕਰਨ ਲਈ ਬੱਚੇ ਦਾ ਕੋਡ ਦਰਜ ਕਰੋ</string>
@@ -365,8 +340,6 @@
     <string name="cfg_play_deny_status">ਸਟ੍ਰੀਮ ਸਥਿਤੀ ਨਾ ਦਿਖਾਓ</string>
     <string name="cfg_player_hud">ਸਿਰ-ਅੱਪ ਇੰਟਰਫੇਸ ਦੀ ਸ਼ੈਲੀ</string>
     <string name="cfg_player_hud_1">ਉੱਪਰ ਅਤੇ ਹੇਠਾਂ</string>
-    <string name="cfg_player_hud_2">ਤਲ ਵਿੱਚ ਸੰਯੁਕਤ</string>
-    <string name="cfg_player_hud_3">ਚੋਟੀ ਦੇ ਵਿੱਚ ਸੰਯੁਕਤ</string>
     <string name="cfg_player_hide_menu">ਮੇਨੂ ਲੁਕਾਉਣ ਲਈ ਟਾਈਮਆਉਟ (ਸਕਿੰਟਾਂ ਵਿੱਚ)</string>
     <string name="choose_auto">ਆਪਣੇ ਆਪ ਹੀ ਚੁਣੋ</string>
     <string name="cfg_stream_tech">ਸਟ੍ਰੀਮ ਤਕਨਾਲੋਜੀ (ਜੇ ਉਪਲੱਬਧ ਹੋਵੇ)</string>
@@ -406,7 +379,6 @@
     <string name="menu_qs_provider_all">ਸਾਰੇ ਕਿਰਿਆਸ਼ੀਲ ਪ੍ਰਦਾਤਾ</string>
     <string name="menu_tv_guide_cfg">ਟੀਵੀ ਗਾਈਡ ਬਟਨ ਦਿਖਾਓ</string>
     <string name="cfg_video_preview_sound">ਵੇਰਵੇ ਵਿੱਚ ਵੀਡੀਓ ਪੂਰਵਦਰਸ਼ਨ ਵਿੱਚ ਆਵਾਜ਼ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
-    <string name="btn_schedule_upnp_vod_load">UPnP ਮੀਡੀਆ ਲਾਇਬਰੇਰੀ ਮੁੜ ਲੋਡ ਕਰੋ</string>
     <string name="provider_generic_middleware">ਆਮ ਮਿਡਲਵੇਅਰ ਸਰਵਰ</string>
     <string name="provider_generic_list">ਪ੍ਰਦਾਤਾ ਦੀ ਸੂਚੀ</string>
     <string name="provider_generic_list_desc">ਨੇੜੇ ਦੇ ਆਮ ਟੈਂਪਲੇਟ (ਭਾਸ਼ਾ ਅਤੇ ਖੇਤਰ)</string>
@@ -429,7 +401,6 @@
     <string name="cfg_epg_update_frequency">ਅਪਡੇਟ ਵਕਾਲਤ (ਘੰਟੇ ਵਿੱਚ)</string>
     <string name="cfg_vod_merge">ਇੱਕ ਸੂਚੀ ਵਿੱਚ ਵੱਖ ਵੱਖ ਸਰੋਤਾਂ ਤੋਂ ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ ਨੂੰ ਮਿਲਾਓ (ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ)</string>
     <string name="ch_manage_rename">ਨਾਂ ਬਦਲੋ</string>
-    <string name="name_already_taken">ਨਾਮ ਪਹਿਲਾਂ ਹੀ ਲਿਆ ਗਿਆ ਹੈ</string>
     <string name="pla_timeshift_from_current">ਮੌਜੂਦਾ ਪਲਾਂ ਤੋਂ ਸ਼ੁਰੂ ਕਰੋ</string>
     <string name="cfg_play_action_timeshift_start">ਆਰੰਭਕ ਟੀਵੀ-ਸ਼ੋਅ ਸ਼ੁਰੂ ਤੋਂ ਸ਼ੁਰੂ ਕਰੋ</string>
     <string name="cfg_play_action_timeshift_now">ਮੌਜੂਦਾ ਸਮੇਂ ਤੋਂ ਆਰਕਾਈਵਡ ਟੀਵੀ-ਸ਼ੋਅ ਖੋਲ੍ਹੋ</string>
@@ -470,7 +441,6 @@
     <string name="player_menu_manage_epg">ਟੀਵੀ-ਸ਼ੋਅ ਪ੍ਰਬੰਧਿਤ ਕਰੋ</string>
     <string name="help_faq">ਅਕਸਰ ਪੁੱਛੇ ਜਾਣ ਵਾਲੇ ਸਵਾਲ</string>
     <string name="pla_menu_item_visibility">ਮੇਨੂ ਬਟਨ ਦੀ ਦਿੱਖ</string>
-    <string name="pla_menu_item_visibility_desc">ਬੇਕਾਰ ਛੁਪਾਓ</string>
     <string name="pla_menu_type">ਮੇਨੂ ਵਿਜ਼ੁਅਲ ਸਟਾਈਲ</string>
     <string name="pla_menu_type_list">ਸੂਚੀ</string>
     <string name="pla_menu_type_grid">ਗਰਿੱਡ</string>
@@ -545,7 +515,6 @@
     <string name="media_tracks_sub">ਉਪਸਿਰਲੇਖ</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">ਆਖਰੀ ਆਈਟਮ ਤੇ ਆਟੋਮੈਟਿਕ ਸਕ੍ਰੌਲ ਕਰੋ (ਟਚ ਮੋਡ ਵਿੱਚ)</string>
     <string name="hint_right_archives">ਪੁਰਾਲੇਖਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਸਿੱਧਾ ਚੈਨਲ ਵੇਖਦੇ ਹੋਏ ਤੁਸੀਂ ਸਹੀ ਬਟਨ ਦਬਾ ਸਕਦੇ ਹੋ</string>
-    <string name="cfg_atv_home_always_reset_favorites">ਹੋਮ ਸਕ੍ਰੀਨ \'ਤੇ ਹਮੇਸ਼ਾਂ ਮਨਪਸੰਦਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਰੀਸੈਟ ਕਰੋ</string>
     <string name="switch_audio_hw">ਹਾਰਡਵੇਅਰ ਆਡੀਓ ਡੀਕੋਡਰ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="switch_audio_sw">ਸਾੱਫਟਵੇਅਰ ਆਡੀਓ ਡੀਕੋਡਰ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="afr_mode_scale">ਸਕਰੀਨ ਰੈਜ਼ੋਲੂਸ਼ਨ ਬਦਲਿਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ</string>
@@ -555,4 +524,114 @@
     <string name="ch_man_map_to_logo">ਚੈਨਲ ਦਾ ਲੋਗੋ ਚੁਣੋ</string>
     <string name="cfg_tvguide_large_preview">ਪੂਰਵਦਰਸ਼ਨ ਦੇ ਨਾਲ ਵੱਡਾ ਵੇਰਵਾ ਦਿਖਾਓ</string>
     <string name="cfg_time_shift_from_utc">ਸਿਸਟਮ ਦੇ ਸਮੇਂ ਨਾਲੋਂ ਅੰਤਰ</string>
+    <string name="internal_value">ਅੰਦਰੂਨੀ ਮੁੱਲ</string>
+    <string name="displayed_value">ਪ੍ਰਦਰਸ਼ਤ ਮੁੱਲ</string>
+    <string name="cfg_play_action_ch_list">ਚੈਨਲ ਸੂਚੀ ਖੋਲ੍ਹੋ</string>
+    <string name="cfg_enable_resolution_fix">ਰੈਜ਼ੋਲੇਸ਼ਨ ਫਿਕਸ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
+    <string name="minutes">ਮਿੰਟ</string>
+    <string name="cfg_ban_bad_channels_qs">ਤਤਕਾਲ ਸਵਿਚ ਤੋਂ ਟੁੱਟੇ ਚੈਨਲਾਂ ਨੂੰ ਹਟਾਓ</string>
+    <string name="loading_data">ਡਾਟਾ ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ</string>
+    <string name="cfg_list_ch_no_country">ਚੈਨਲ ਦੇ ਨਾਮ ਤੋਂ ਦੇਸ਼ ਨੂੰ ਹਟਾਓ</string>
+    <string name="cfg_network">ਨੈੱਟਵਰਕ</string>
+    <string name="select_sort_order">ਕ੍ਰਮਬੱਧ ਕ੍ਰਮ ਦੀ ਚੋਣ ਕਰੋ</string>
+    <string name="sort_order_abc">ਵਰਣਮਾਲਾ</string>
+    <string name="sort_order_cba">ਵਰਣਮਾਲਾ (ਉਲਟ)</string>
+    <string name="sort_order_uploaded">ਅਪਲੋਡ ਦੀ ਮਿਤੀ</string>
+    <string name="cfg_video_effect">ਵੀਡੀਓ ਪ੍ਰਭਾਵ</string>
+    <string name="cfg_video_effect_grain">ਫਿਲਮ ਅਨਾਜ</string>
+    <string name="cfg_logo_prefer">ਚੈਨਲ ਆਈਕਾਨ ਦਾ ਪਸੰਦੀਦਾ ਸਰੋਤ</string>
+    <string name="cfg_logo_from_provider">ਪ੍ਰਦਾਤਾ ਦੁਆਰਾ ਆਈਕਾਨ</string>
+    <string name="cfg_logo_from_file">ਸਥਾਨਕ ਡਾਇਰੈਕਟਰੀ ਤੋਂ ਆਈਕਾਨ</string>
+    <string name="cfg_logo_from_epg">ਈ ਪੀ ਜੀ ਤੋਂ ਆਈਕਾਨ</string>
+    <string name="cfg_pla_act_ui_brightness">ਸਕ੍ਰੀਨ ਦੀ ਚਮਕ ਬਦਲੋ (ਛੋਹਵੋ)</string>
+    <string name="cfg_pla_act_ui_volume">Audioਡੀਓ ਵਾਲੀਅਮ ਬਦਲੋ (ਛੋਹਵੋ)</string>
+    <string name="swipe_vertical">ਲੰਬਕਾਰੀ ਸਵਾਈਪ</string>
+    <string name="swipe_horizontal">ਖਿਤਿਜੀ ਸਵਾਈਪ</string>
+    <string name="cfg_max_epg_load_back">ਇਤਿਹਾਸ ਵਿੱਚ ਈ ਪੀ ਜੀ ਨੂੰ ਲੋਡ ਕਰਨ ਲਈ ਵੱਧ ਤੋਂ ਵੱਧ ਦਿਨ</string>
+    <string name="expiration">ਮਿਆਦ</string>
+    <string name="trial_account">ਅਜ਼ਮਾਇਸ਼ ਅਕਾ .ਂਟ</string>
+    <string name="premium_google_account">ਸਾਰੀਆਂ ਖਰੀਦਦਾਰੀ ਇੱਕੋ ਜਿਹੇ ਖਾਤੇ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਵਾਲੀਆਂ ਸਾਰੀਆਂ ਡਿਵਾਈਸਾਂ ਤੇ ਲਾਗੂ ਹੁੰਦੀਆਂ ਹਨ.</string>
+    <string name="player_live_recent_archive">ਹਾਲ ਹੀ ਵਿੱਚ ਖੇਡੇ ਗਏ ਪੁਰਾਲੇਖ ਵੀਡੀਓ ਦਾ ਪਲੇਅਬੈਕ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰਨਾ ਹੈ?</string>
+    <string name="player_live_recent_archive_archive">ਪਲੇਅਬੈਕ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="player_live_recent_archive_live">ਸਿੱਧਾ ਪ੍ਰਸਾਰਣ</string>
+    <string name="pos_on_left">ਖੱਬੇ ਪਾਸੇ</string>
+    <string name="pos_on_right">ਸੱਜੇ ਪਾਸੇ</string>
+    <string name="cfg_list_pos_on_screen">ਸਕ੍ਰੀਨ \'ਤੇ ਸਥਿਤੀ ਦੀ ਸੂਚੀ</string>
+    <string name="cfg_list_size_on_screen">ਪਰਦੇ \'ਤੇ ਆਕਾਰ ਦੀ ਸੂਚੀ ਬਣਾਓ</string>
+    <string name="cfg_list_desc_allow">ਵੇਰਵਿਆਂ ਨੂੰ ਸੂਚੀਆਂ ਤੇ ਦਿਖਾਉਣ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="cfg_ext_app_on_home">ਘਰੇਲੂ ਸਕ੍ਰੀਨ ਤੇ ਬਾਹਰੀ ਐਪਲੀਕੇਸ਼ਨ ਦਿਖਾਓ</string>
+    <string name="player_select_screen_main">ਮੁੱਖ ਪਰਦਾ</string>
+    <string name="never">ਕਦੇ ਨਹੀਂ</string>
+    <string name="by_default">ਮੂਲ ਰੂਪ ਵਿੱਚ</string>
+    <string name="sleep_timer">ਸਲੀਪ ਟਾਈਮਰ</string>
+<string name="err_need_provider">ਆਈਪੀਟੀਵੀ ਪ੍ਰਦਾਤਾ ਲੋੜੀਂਦਾ ਹੈ</string>
+    <string name="err_need_provider_text">ਤੁਹਾਨੂੰ ਆਪਣੇ ਆਈਪੀਟੀਵੀ ਪ੍ਰਦਾਤਾ ਨੂੰ ਕੌਂਫਿਗਰ ਕਰਨ ਦੀ ਜ਼ਰੂਰਤ ਹੈ. ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ ਅਤੇ ਆਪਣਾ ਪ੍ਰਦਾਤਾ (ਜਾਂ ਇੱਕ ਪਲੇਲਿਸਟ) ਸ਼ਾਮਲ ਕਰੋ.</string>
+    <string name="unlock_premium">ਅਨਲੌਕ ਪ੍ਰੀਮੀਅਮ</string>
+    <string name="about_app">ਐਪ ਬਾਰੇ</string>
+    <string name="contact_dev">ਸੰਪਰਕ ਵਿਕਾਸਕਾਰ</string>
+    <string name="with_stats">ਐਪ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਅਗਿਆਤ ਅੰਕੜੇ ਭੇਜਣ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="last_epg_load_ok">ਆਖਰੀ ਸਫਲ ਈਪੀਜੀ ਲੋਡਿੰਗ ਜਾਣਕਾਰੀ</string>
+    <string name="mass_add_chls_to_this_cat">ਇਸ ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਚੈਨਲ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="minutes_ago_10">10 ਮਿੰਟ ਪਹਿਲਾਂ</string>
+    <string name="time_warp">ਟਾਈਮ ਵਾਰਪ</string>
+    <string name="show_dir_sep_from_videos">ਵਿਡਿਓ ਤੋਂ ਵੱਖ ਡਾਇਰੈਕਟਰੀਆਂ ਦਿਖਾਓ</string>
+    <string name="epg_warn_search_by_name_custom">ਸਧਾਰਣ ਸਰੋਤ ਸਿਰਫ ਚੈਨਲ ਦੇ ਨਾਮ ਦੁਆਰਾ ਖੋਜੇ ਜਾਂਦੇ ਹਨ. ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਆਪਣੇ ਪ੍ਰਦਾਤਾ ਲਈ ਵਿਸ਼ੇਸ਼ਤਾ ਨਾਲ ਸਰੋਤ ਬਣਾਇਆ ਹੈ, ਤਾਂ ਇਸ ਨੂੰ ਪ੍ਰਦਾਤਾ ਦੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਵਿੱਚ ਕਨਫਿਗਰ ਕਰੋ.</string>
+    <string name="show_archive_playback_marker">ਮਾਰਕਰ ਦਿਖਾਓ ਜੇ ਵਰਤਮਾਨ ਵਿੱਚ ਰਿਕਾਰਡ ਕੀਤੀ ਵੀਡੀਓ ਚਲਾ ਰਿਹਾ ਹੈ</string>
+    <string name="user_vod_sources">ਉਪਭੋਗਤਾ ਦੁਆਰਾ ਪ੍ਰਦਾਨ ਕੀਤੇ ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ ਸਰੋਤ</string>
+    <string name="append_user_source">ਉਪਭੋਗਤਾ ਦੁਆਰਾ ਪ੍ਰਦਾਨ ਕੀਤਾ ਸਰੋਤ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="black_screen_on_ch_switch">ਇੱਕ ਚੈਨਲ ਨੂੰ ਬਦਲਣ ਵੇਲੇ ਕਾਲੀ ਸਕ੍ਰੀਨ ਦਿਖਾਓ</string>
+    <string name="clear_custom_ch_order">ਅਸਲ ਚੈਨਲ ਦੇ ਆਰਡਰ ਨੂੰ ਬਹਾਲ ਕਰੋ</string>
+    <string name="channels_processed">ਚੈਨਲਾਂ ਤੇ ਕਾਰਵਾਈ ਕੀਤੀ ਗਈ</string>
+    <string name="atv_split_to_different_channels">ਕਈ ਸਮੱਗਰੀ ਕਿਸਮਾਂ ਨੂੰ ਵੱਖੋ ਵੱਖਰੀਆਂ ਕਤਾਰਾਂ ਵਿੱਚ ਵੰਡੋ</string>
+    <string name="number_already_taken">ਇਹ ਨੰਬਰ ਪਹਿਲਾਂ ਹੀ ਕਬਜ਼ੇ ਵਿਚ ਹੈ</string>
+    <string name="fold_duplicate_channels">ਇੱਕ ਸਿੰਗਲ ਐਲੀਮੈਂਟ ਵਿੱਚ ਡੁਪਲਿਕੇਟ ਚੈਨਲ ਫੋਲਡ ਕਰੋ</string>
+    <string name="select_another_media_source">ਕਿਸੇ ਹੋਰ ਮੀਡੀਆ ਸਰੋਤ ਤੇ ਜਾਓ</string>
+    <string name="user_epg_sources">ਉਪਭੋਗਤਾ ਦੁਆਰਾ ਪ੍ਰਦਾਨ ਕੀਤੇ ਈਪੀਜੀ ਸਰੋਤ</string>
+    <string name="reload_data">ਡਾਟਾ ਮੁੜ ਲੋਡ ਕਰੋ</string>
+    <string name="assume_long_buffering_as_error">ਮੰਨ ਲਓ ਲੰਬੀ ਬਫਰਿੰਗ ਇੱਕ ਚੈਨਲ ਗਲਤੀ ਹੈ</string>
+    <string name="show_installation_number">ਇੰਸਟਾਲੇਸ਼ਨ ਨੰਬਰ ਦਿਖਾਓ</string>
+    <string name="sort_archive_by_date">ਤਾਰੀਖ ਅਨੁਸਾਰ ਪੁਰਾਲੇਖ ਵੀਡਿਓ ਨੂੰ ਕ੍ਰਮਬੱਧ</string>
+    <string name="simplified_mode">ਸਧਾਰਣ modeੰਗ</string>
+    <string name="hide_advanced_features">ਉੱਨਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਲੁਕਾਓ</string>
+    <string name="select_player_to_use">ਪਲੇਬੈਕ ਲਈ ਵਰਤਣ ਲਈ ਖਿਡਾਰੀ ਦੀ ਚੋਣ ਕਰੋ</string>
+    <string name="auto_unfold_current_element_info">ਮੌਜੂਦਾ ਸਮੇਂ ਚੁਣੀ ਗਈ ਐਲੀਮੈਂਟ ਜਾਣਕਾਰੀ ਨੂੰ ਆਪਣੇ ਆਪ ਹਟਾਓ</string>
+    <string name="error_occurred">ਗਲਤੀ ਆਈ ਹੈ</string>
+    <string name="applies_to_provider_loded">ਲੋਡਰ ਹੋਣ \'ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ</string>
+    <string name="applies_to_final_ch_list">ਚੈਨਲਾਂ ਦੀ ਅੰਤਮ ਸੂਚੀ ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ</string>
+    <string name="vod_folder_series">ਟੀਵੀ ਲੜੀ</string>
+    <string name="vod_folder_movies">ਫਿਲਮਾਂ</string>
+    <string name="show_hidden_content">ਲੁਕਵੀਂ ਸਮਗਰੀ ਦਿਖਾਓ</string>
+    <string name="rewind_speed">ਮੁੜ ਗਤੀ</string>
+    <string name="disable_provider_epg">ਪ੍ਰਯੋਗਕਰਤਾ ਈਪੀਜੀ ਸਰੋਤਾਂ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਓ, ਸਿਰਫ ਉਪਭੋਗਤਾ ਦੁਆਰਾ ਪ੍ਰਦਾਨ ਕੀਤੇ ਗਏ ਉਪਯੋਗ ਦੀ ਵਰਤੋਂ ਕਰਕੇ</string>
+    <string name="allow_bad_ssl">ਅਵੈਧ SSL ਸਰਟੀਫਿਕੇਟ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="auto_start_next_episode">ਅਗਲਾ ਐਪੀਸੋਡ ਆਪਣੇ ਆਪ ਚਾਲੂ ਕਰੋ</string>
+    <string name="unique_devices">ਵਿਲੱਖਣ ਜੰਤਰ</string>
+    <string name="sign_in">ਸਾਈਨ - ਇਨ</string>
+    <string name="register">ਰਜਿਸਟਰ</string>
+    <string name="not_logged_in">ਲਾਗਇਨ ਨਹੀਂ</string>
+    <string name="sign_in_to_activate">ਸਰਗਰਮ ਹੋਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ</string>
+    <string name="user_account_for_premium">ਪ੍ਰੀਮੀਅਮ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੇ ਪ੍ਰਬੰਧਨ ਲਈ ਉਪਭੋਗਤਾ ਖਾਤਾ</string>
+    <string name="logout">ਲਾੱਗ ਆਊਟ, ਬਾਹਰ ਆਉਣਾ</string>
+    <string name="pro_sub_expired">ਤੁਹਾਡੀ ਗਾਹਕੀ ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ</string>
+    <string name="days">ਦਿਨ</string>
+    <string name="price">ਮੁੱਲ</string>
+    <string name="do_not_offer_any_more">ਹੁਣ ਇਹ ਪੇਸ਼ਕਸ਼ ਨਾ ਕਰੋ</string>
+    <string name="cfg_offer_to_seek_to_last_pos">ਆਖਰੀ ਵਾਰ ਵੇਖੀ ਸਥਿਤੀ ਨੂੰ ਵੇਖਣ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰੋ</string>
+    <string name="best_offer">ਵਧੀਆ ਪੇਸ਼ਕਸ਼</string>
+    <string name="popular_offer">ਪ੍ਰਸਿੱਧ ਪੇਸ਼ਕਸ਼</string>
+    <string name="favorites_go_top">ਮਨਪਸੰਦ ਸੂਚੀ ਆਈਟਮਾਂ ਪਹਿਲਾਂ ਸੂਚੀਬੱਧ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ</string>
+    <string name="action_lock_screen">ਬਲਾਕ ਸਕਰੀਨ ਕੰਟਰੋਲ</string>
+    <string name="screen_is_locked">ਸਕ੍ਰੀਨ ਨਿਯੰਤਰਣ ਬਲੌਕ ਕੀਤਾ ਗਿਆ ਹੈ</string>
+    <string name="prev_category">ਪਿਛਲੀ ਸ਼੍ਰੇਣੀ</string>
+    <string name="change_category_type">ਸ਼੍ਰੇਣੀ ਕਿਸਮ ਬਦਲੋ</string>
+    <string name="scroll_speed_for_desc">ਲੰਬੇ ਵੇਰਵੇ ਲਈ ਸਕ੍ਰੌਲ ਕਰਨ ਦੀ ਗਤੀ</string>
+    <string name="select_value_to_start_from">ਤੋਂ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਮੁੱਲ ਦੀ ਚੋਣ ਕਰੋ</string>
+    <string name="enabled_modules">ਸਮਰੱਥ ਮੋਡੀulesਲ</string>
+    <string name="replace_provider_order_abc">ਵਰਣਮਾਲਾ ਦੁਆਰਾ ਆਰਡਰ ਕਰਨ ਲਈ ਪ੍ਰਦਾਤਾ ਚੈਨਲ ਦੇ ਆਦੇਸ਼ ਨੂੰ ਤਬਦੀਲ ਕਰੋ</string>
+    <string name="nothing_to_backup">ਬੈਕਅਪ ਲਈ ਕੋਈ ਡਾਟਾ ਨਹੀਂ!</string>
+    <string name="qr_code_desc">ਤੁਸੀਂ ਆਪਣੇ ਫੋਨ ਤੇ ਕੈਮਰਾ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਕੋਡ ਸਕੈਨ ਕਰ ਸਕਦੇ ਹੋ. ਜਾਂ, ਕਿਉਂਕਿ ਕੋਡ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਨਕਲ ਕੀਤਾ ਗਿਆ ਹੈ, ਤੁਸੀਂ ਇਸਨੂੰ ਕਿਸੇ ਹੋਰ ਐਪ ਵਿੱਚ ਪੇਸਟ ਕਰ ਸਕਦੇ ਹੋ.</string>
+    <string name="next_page">ਅਗਲਾ ਪੰਨਾ</string>
+    <string name="user_exp_level">ਉਪਭੋਗਤਾ ਤਜ਼ਰਬੇ ਦਾ ਪੱਧਰ</string>
+    <string name="user_exp_mode_normal">ਸਧਾਰਣ .ੰਗ</string>
+    <string name="user_exp_mode_expert">ਮਾਹਰ .ੰਗ</string>
     </resources>

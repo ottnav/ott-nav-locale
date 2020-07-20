@@ -8,16 +8,9 @@
     <string name="menu_live">Прямой эфир</string>
     <string name="menu_archive">Архив передач</string>
     <string name="menu_settings">Настройки</string>
-    <string name="menu_error_require_provider_title">Требуется OTT провайдер</string>
-    <string name="menu_error_require_provider_text">Данный раздел доступен только при настроенном OTT провайдере. Воспользуйтесь другими разделами, или настройте провайдера.</string>
     <string name="menu_error_require_provider_button">Настроить провайдера</string>
-    <string name="menu_error_require_status_title">Данные индексируются</string>
-    <string name="menu_error_require_status_text">Данные для данного раздела пока недоступны. Подождите немного, или воспользуйтесь другими разделами. Это может занять до пары минут.</string>
     <string name="menu_error_require_live_but_no_playlist_title">Плейлист с каналами не смог загрузиться</string>
     <string name="menu_error_require_live_but_no_playlist_text">Настроенный провайдер или плейлист недоступен. Просьба проверить настройки провайдера и если они в порядке, спишитесь с вашим IPTV провайдером.</string>
-    <string name="menu_error_provider_no_archive_title">Архив не поддерживается</string>
-    <string name="menu_error_provider_no_archive_text">Выбранный провайдер не поддерживает архивы. Доступнен только прямой эфир. Смените провайдера в настройках или перейдите в раздел прямого эфира.</string>
-    <string name="menu_error_provider_no_archive_button">Перейти к прямому эфиру</string>
 
     <string name="browse_description_series_number">серия</string>
     <string name="browse_description_header_live">Каналы в эфире</string>
@@ -48,7 +41,6 @@
     <string name="player_warn_turn_off">Will turn off</string>
     <string name="player_press_to_cancel">Нажмите OK для отмены</string>
     <string name="player_touch_to_cancel">Нажмите на экран для отмены</string>
-    <string name="player_state_no_media">Поток не выбран</string>
     <string name="player_state_no_media_ended">Поток не выбран (завершен)</string>
     <string name="player_state_buffering">Буферизация</string>
 
@@ -116,17 +108,12 @@
     <string name="settings_provider_select_error_playlist">плейлист неверен или не содержит поддерживаемые каналы. Проверьте пользователя/ключ/пароль/ссылку.</string>
     <string name="settings_provider_select_error_live">не содержит поддерживаемые каналы</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMI отключен: автовыключение видео</string>
-
-    <string name="archive_auto_seek_title">Перемотать на последнюю запомненную позицию этого видео?</string>
-    <string name="archive_auto_seek_no">Нет, смотреть сначала</string>
-    <string name="archive_auto_seek_yes">Да, перемотать на</string>
+    <string name="archive_auto_seek_no">Смотреть сначала</string>
     <string name="future_show_sheet_add_wl_title">Напомнить мне переключить на канал</string>
     <string name="future_show_sheet_search_title">Поиск в архивах</string>
     <string name="future_show_sheet_search_none">Данное видео не найдено в архивах вашего провайдера</string>
     <string name="notify_live_sheet_title">Видео, помеченное для просмотра позже сейчас в эфире</string>
     <string name="notify_live_sheet_text">Переключиться на просмотр</string>
-    <string name="vod_root_title_provider">Медиатека от</string>
     <string name="feature_requires_premium">Эта возможность требует премиум</string>
     <string name="feature_requires_restart">Требуется перезапуск приложения</string>
     <string name="no_teleguide">Нет EPG телепрограммы</string>
@@ -144,7 +131,6 @@
     <string name="settings_provider">Провайдер</string>
     <string name="settings_media_library">Медиатека</string>
     <string name="settings_media_library_dnla">Сканировать источники UPnP/DNLA в локальной сети</string>
-    <string name="settings_media_library_prov_vod">Сканировать библиотеку провайдера, если она присутствует</string>
 
     <string name="settings_player">Плеер</string>
     <string name="settings_player_hide_ui">Прятать интерфейс управления видео через</string>
@@ -195,10 +181,6 @@
     <string name="settings_ui_screen_margins">Границы экрана</string>
     <string name="settings_ui_language">Язык (если не установлен - системный)</string>
 
-    <string name="settings_disable_provider_categories">Не соблюдать категории провайдера для каналов</string>
-
-    <string name="settings_devices_no_hdmi">Не следить за сменой состояния HDMI</string>
-
     <string name="settings_codec">Настройки кодеков</string>
     <string name="settings_codec_hard">Всегда использовать хардварные кодеки</string>
     <string name="settings_codec_soft_vlc">Всегда использовать софтварные кодеки VLC</string>
@@ -237,16 +219,13 @@
     <string name="cfg_play_deny_buffer">Не показывать статус буферизации</string>
     <string name="copied_clipboard">Скопировано в буфер</string>
     <string name="cfg_play_action_menu">открыть меню</string>
-    <string name="cfg_play_action_another">открыть выбор другого потока</string>
     <string name="cfg_play_action_timetable">открыть программу передач</string>
     <string name="cfg_play_action_prev">переключить на предыдущий канал</string>
     <string name="cfg_play_action_next">переключить на следующий канал</string>
-    <string name="cfg_play_action_params">открыть параметры воспроизведения</string>
     <string name="cfg_play_action_last">переключить на последний просмотренный канал</string>
     <string name="cfg_play_action_title">Настроить пульт</string>
     <string name="cfg_play_action_btn_archive_as_live">Использовать эти же кнопки для просмотра архивов (отключит перемотку кнопками влево и вправо)</string>
     <string name="cfg_trans_wind">Использовать прозрачный интерфейс</string>
-    <string name="cfg_list_poster_time">Показывать постер в течение (секунды, если доступно)</string>
 
     <string name="do_not_show">не показывать</string>
     <string name="android_not_genuine">Покупки могут не работать на вашем устройстве.</string>
@@ -266,12 +245,10 @@
     <string name="provider_generic">Типичный провайдер или плейлист</string>
     <string name="watched">Просмотрено:</string>
     <string name="btn_search">Поиск</string>
-    <string name="hint_vod_cache">Медиа библиотека кеширует данные на несколько дней. Если вы хотите, чтобы ваши данные появились быстрее, очистите кеш в настройках и перезапустите приложение.</string>
     <string name="premium_fea_6">Отправить поток на беспроводной дисплей</string>
     <string name="wifi_display">Беспроводной дисплей</string>
     <string name="wifi_display_desc">Играть поток на другом устройстве</string>
 
-    <string name="cfg_play_action_fav">открыть выбор любимых каналов</string>
     <string name="cfg_play_action_pp">поставить паузу или продожить просмотр</string>
     <string name="cfg_play_action_btn_red">Действие для красной кнопки</string>
     <string name="cfg_play_action_btn_green">Действие для зелёной кнопки</string>
@@ -295,7 +272,6 @@
     <string name="cfg_ign_last_codec">не запоминать последний использованный кодек для канала</string>
     <string name="btn_schedule_epg">запланировать загрузку EPG</string>
     <string name="err_archive_is_shorter">Архив данного канала доступен на меньшее время у вашего провайдера</string>
-    <string name="cfg_no_seek">Эмулировать перемотку переоткрытием потока с новой точки каждый раз</string>
     <string name="cfg_section_backup">Сохранение и загрузка</string>
     <string name="btn_backup_info">Сохранение хранится по ключу. Запиши его как только сохранение завершено. Нет гарантий, как долго сохранение будет доступно для загрузки.</string>
     <string name="btn_backup_data">Сохранить текущую конфигурацию</string>
@@ -350,7 +326,6 @@
     <string name="cfg_section_desc">Описание элемента</string>
     <string name="cfg_section_lists">Настройки списков</string>
 
-    <string name="cfg_switch_dummy_on">Переключить на упрощенный режим настроек</string>
     <string name="cfg_no_hints">Не показывать подсказки</string>
     <string name="setting_list_view_auto">таблица (большие иконки, заполнить экран)</string>
     <string name="child_mode_unlock_cfg">Введите детский код для доступа к настройкам</string>
@@ -359,8 +334,6 @@
     <string name="cfg_play_deny_status">Не показывать статус потока</string>
     <string name="cfg_player_hud">Стиль наэкранного интерфейса</string>
     <string name="cfg_player_hud_1">Сверху и снизу</string>
-    <string name="cfg_player_hud_2">Объединенный внизу</string>
-    <string name="cfg_player_hud_3">Объединенный сверху</string>
     <string name="cfg_player_hide_menu">Таймаут до скрывания меню (в секундах)</string>
     <string name="choose_auto">Выбирать автоматически</string>
     <string name="cfg_stream_tech">Технология потока (если доступно)</string>
@@ -400,7 +373,6 @@
     <string name="menu_qs_provider_all">Все активные провайдеры</string>
     <string name="menu_tv_guide_cfg">Показывать кнопку телегида</string>
     <string name="cfg_video_preview_sound">Включить звук в предпросмотре видео в описании</string>
-    <string name="btn_schedule_upnp_vod_load">Перезагрузить медиа библиотеку UPnP</string>
     <string name="provider_generic_middleware">Типичный middleware сервер</string>
     <string name="provider_generic_list">Список провайдеров</string>
     <string name="provider_generic_list_desc">Частые шаблоны поблизости (язык и регион)</string>
@@ -423,7 +395,6 @@
     <string name="cfg_epg_update_frequency">Частота обновления (в часах)</string>
     <string name="cfg_vod_merge">Склеить медиа библиотеку разных источников в единый список (требует перезагрузку)</string>
     <string name="ch_manage_rename">Переименовать</string>
-    <string name="name_already_taken">Это название уже занято</string>
     <string name="pla_timeshift_from_current">Начать с текущего момента</string>
     <string name="cfg_play_action_timeshift_start">открыть архивную передачу сначала</string>
     <string name="cfg_play_action_timeshift_now">открыть архивную передачу с текущего момента</string>
@@ -464,7 +435,6 @@
     <string name="player_menu_manage_epg">Управление телепередачей</string>
     <string name="help_faq">Часто задаваемые вопросы</string>
     <string name="pla_menu_item_visibility">Видимость пунктов меню</string>
-    <string name="pla_menu_item_visibility_desc">прятать бесполезное</string>
     <string name="pla_menu_type">Внешний вид меню</string>
     <string name="pla_menu_type_list">список</string>
     <string name="pla_menu_type_grid">таблица</string>
@@ -540,14 +510,123 @@
     <string name="media_tracks_sub">Субтитры</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">Автопрокрутка до последнего элемента (в тач режиме)</string>
     <string name="hint_right_archives">Вы можете нажать кнопку ВПРАВО в списке каналов прямого эфира, чтобы открыть список архивов.</string>
-    <string name="cfg_atv_home_always_reset_favorites">Всегда сбрасывать список избранного на главном экране</string>
     <string name="switch_audio_hw">Использовать аппаратный аудио декодер</string>
     <string name="switch_audio_sw">Использовать программный аудио декодер</string>
-<string name="afr_mode_scale">разрешение экрана должно быть изменено</string>
+    <string name="afr_mode_scale">разрешение экрана должно быть изменено</string>
     <string name="cfg_ch_icons_dir">Каталог с иконками каналов</string>
     <string name="cfg_ch_remove_dups">Удалять дубликаты каналов (с одинаковым названием)</string>
     <string name="codecs_hardware">аппаратные кодеки</string>
     <string name="ch_man_map_to_logo">Выберите логотип канала</string>
     <string name="cfg_tvguide_large_preview">Показать увеличенное описание с предварительным просмотром</string>
     <string name="cfg_time_shift_from_utc">Отличие от системного времени</string>
+    <string name="internal_value">системное значение</string>
+    <string name="displayed_value">отображаемое значение</string>
+<string name="cfg_play_action_ch_list">открыть список каналов</string>
+    <string name="cfg_enable_resolution_fix">Включить исправление разрешения</string>
+    <string name="minutes">минут</string>
+    <string name="cfg_ban_bad_channels_qs">Удалить сломанные каналы из быстрого переключения</string>
+    <string name="loading_data">Загрузка данных</string>
+    <string name="cfg_list_ch_no_country">Удалить страну из названия канала</string>
+    <string name="cfg_network">Сеть</string>
+    <string name="select_sort_order">Выберите порядок сортировки</string>
+    <string name="sort_order_abc">По алфавиту</string>
+    <string name="sort_order_cba">Алфавитный (обратный)</string>
+    <string name="sort_order_uploaded">Дата загрузки</string>
+    <string name="cfg_video_effect">Видео эффект</string>
+    <string name="cfg_video_effect_grain">Зернистость</string>
+    <string name="cfg_logo_prefer">Предпочтительный источник иконок каналов</string>
+    <string name="cfg_logo_from_provider">Иконка от провайдера</string>
+    <string name="cfg_logo_from_file">Иконка из локального каталога</string>
+    <string name="cfg_logo_from_epg">Иконка из EPG</string>
+    <string name="cfg_pla_act_ui_brightness">Изменить яркость экрана (сенсорный)</string>
+    <string name="cfg_pla_act_ui_volume">Изменить громкость звука (сенсорный)</string>
+    <string name="swipe_vertical">вертикальный свайп</string>
+    <string name="swipe_horizontal">горизонтальный свайп</string>
+    <string name="cfg_max_epg_load_back">Максимальное количество дней для загрузки EPG в истории</string>
+    <string name="expiration">Годен до</string>
+    <string name="trial_account">Пробный аккаунт</string>
+    <string name="premium_google_account">Все покупки распространяются на все устройства, использующие одну учетную запись.</string>
+    <string name="player_live_recent_archive">Возобновить воспроизведение недавнего архивного видео?</string>
+    <string name="player_live_recent_archive_archive">Возобновить воспроизведение</string>
+    <string name="player_live_recent_archive_live">Прямой эфир</string>
+    <string name="pos_on_left">с левой стороны</string>
+    <string name="pos_on_right">на правой стороне</string>
+    <string name="cfg_list_pos_on_screen">Положение списков на экране</string>
+    <string name="cfg_list_size_on_screen">Размер списков на экране</string>
+    <string name="cfg_list_desc_allow">Разрешить описанию отображаться в списках</string>
+    <string name="cfg_ext_app_on_home">Показать внешнее приложение на главном экране</string>
+    <string name="player_select_screen_main">Главный экран</string>
+    <string name="never">никогда</string>
+    <string name="by_default">по умолчанию</string>
+    <string name="sleep_timer">Таймер сна</string>
+<string name="err_need_provider">Требуется провайдер IPTV</string>
+    <string name="err_need_provider_text">Вам необходимо настроить вашего провайдера IPTV. Откройте настройки и добавьте своего провайдера (или плейлист).</string>
+    <string name="unlock_premium">Разблокировать премиум</string>
+    <string name="about_app">О приложении</string>
+    <string name="contact_dev">Связаться с разработчиком</string>
+    <string name="with_stats">Разрешить отправку анонимной статистики для улучшения приложения</string>
+    <string name="last_epg_load_ok">Последняя успешная загрузка EPG</string>
+    <string name="mass_add_chls_to_this_cat">Добавить каналы в эту категорию</string>
+    <string name="minutes_ago_10">10 минут назад</string>
+    <string name="time_warp">Искажение времени</string>
+    <string name="show_dir_sep_from_videos">Показывать каталоги отдельно от видео</string>
+    <string name="epg_warn_search_by_name_custom">Общие источники ищутся только по названиям каналов. Если у вас есть источник, созданный специально для вашего провайдера, настройте его в свойствах провайдера.</string>
+    <string name="show_archive_playback_marker">Показывать маркер, если в данный момент воспроизводится записанное видео</string>
+    <string name="user_vod_sources">Предоставляемые пользователем источники медиатеки</string>
+    <string name="append_user_source">Добавить предоставленный пользователем источник</string>
+    <string name="black_screen_on_ch_switch">Показать черный экран при переключении канала</string>
+    <string name="clear_custom_ch_order">Восстановить исходный порядок каналов</string>
+    <string name="channels_processed">Каналы обработаны</string>
+    <string name="atv_split_to_different_channels">Разделить несколько типов контента на разные строки</string>
+    <string name="number_already_taken">Этот номер уже занят</string>
+    <string name="fold_duplicate_channels">Сложить дубликаты каналов в один элемент</string>
+    <string name="select_another_media_source">Переключиться на другой источник медиа</string>
+    <string name="user_epg_sources">Пользовательские источники EPG</string>
+    <string name="reload_data">Перезагрузить данные</string>
+    <string name="assume_long_buffering_as_error">Предположим, что длинная буферизация является ошибкой канала</string>
+    <string name="show_installation_number">Показать номер установки</string>
+    <string name="sort_archive_by_date">Сортировать заархивированные видео по дате</string>
+    <string name="simplified_mode">Упрощенный режим</string>
+    <string name="hide_advanced_features">Скрыть расширенные функции</string>
+    <string name="select_player_to_use">Выберите плеер для воспроизведения</string>
+    <string name="auto_unfold_current_element_info">Автоматически разворачивать информацию о выбранном элементе</string>
+    <string name="error_occurred">Возникла ошибка</string>
+    <string name="applies_to_provider_loded">Относится к загружаемому провайдеру</string>
+    <string name="applies_to_final_ch_list">Применяется к окончательному списку каналов</string>
+    <string name="vod_folder_series">телесериал</string>
+    <string name="vod_folder_movies">Кино</string>
+    <string name="show_hidden_content">Показать скрытый контент</string>
+    <string name="rewind_speed">Скорость перемотки</string>
+    <string name="disable_provider_epg">Отключить источники EPG провайдера, используя только предоставленные пользователем</string>
+    <string name="allow_bad_ssl">Разрешить недействительные сертификаты SSL</string>
+    <string name="auto_start_next_episode">Автоматически начать следующий эпизод</string>
+    <string name="unique_devices">уникальные устройства</string>
+    <string name="sign_in">войти в систему</string>
+    <string name="register">регистр</string>
+    <string name="not_logged_in">Не вошел</string>
+    <string name="sign_in_to_activate">Войдите, чтобы активировать</string>
+    <string name="user_account_for_premium">Учетная запись пользователя для управления премиум-функциями</string>
+    <string name="logout">Выйти</string>
+    <string name="pro_sub_expired">Срок вашей подписки истек</string>
+    <string name="days">дней</string>
+    <string name="price">Цена</string>
+    <string name="do_not_offer_any_more">Не предлагайте это больше</string>
+    <string name="cfg_offer_to_seek_to_last_pos">Предложить перейти к последней просмотренной позиции</string>
+    <string name="best_offer">Лучшее предложение</string>
+    <string name="popular_offer">Популярное предложение</string>
+    <string name="favorites_go_top">Любимые элементы списка должны быть перечислены в первую очередь</string>
+    <string name="action_lock_screen">блок управления экраном</string>
+    <string name="screen_is_locked">Управление экраном заблокировано</string>
+    <string name="prev_category">Предыдущая категория</string>
+    <string name="change_category_type">Изменить тип категории</string>
+    <string name="scroll_speed_for_desc">Скорость прокрутки для длинного описания</string>
+    <string name="select_value_to_start_from">Выберите значение для начала</string>
+    <string name="enabled_modules">Включенные модули</string>
+    <string name="replace_provider_order_abc">Заменить порядок каналов провайдера на порядок по алфавиту</string>
+    <string name="nothing_to_backup">Нет данных для резервного копирования!</string>
+    <string name="qr_code_desc">Вы можете сканировать код с помощью приложения камеры на вашем телефоне. Или, поскольку код был скопирован в буфер обмена, вы можете просто вставить его в другое приложение.</string>
+    <string name="next_page">Следующая страница</string>
+    <string name="user_exp_level">Уровень пользовательского опыта</string>
+    <string name="user_exp_mode_normal">Нормальный режим</string>
+    <string name="user_exp_mode_expert">Экспертный режим</string>
     </resources>

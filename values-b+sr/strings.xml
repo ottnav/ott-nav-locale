@@ -1,0 +1,629 @@
+<resources>
+    <string name="press_back_once_more_to_exit">Pritisnite još jednom za izlaz</string>
+
+    <string name="search_bar">Tražite po kanalima ili programima</string>
+    <string name="search_bar_clue">pokušajte sa imenom filma, TV serije, TV emisije ili imena glumaca</string>
+
+    <string name="menu_search">Video pretraga</string>
+    <string name="menu_live">Uživo prenos</string>
+    <string name="menu_archive">Prikaži arhivu</string>
+    <string name="menu_settings">Podešavanja</string>
+    <string name="menu_error_require_provider_button">Konfiguriši provajdera</string>
+    <string name="menu_error_require_live_but_no_playlist_title">Plejlista sa kanalima nije uspešno učitana</string>
+    <string name="menu_error_require_live_but_no_playlist_text">Nije moguće doći do konfigurisanog provajdera ili plejliste. Ponovo proverite podešavanja provajdera i ako vam se čine OK, obratite se svom IPTV provajderu.</string>
+
+    <string name="browse_description_series_number">epizoda</string>
+    <string name="browse_description_header_live">Uživo kanali</string>
+    <string name="browse_description_header_program">Raspored kanala</string>
+
+    <string name="category_movies">Svi filmovi</string>
+    <string name="category_tv_series">Sve TV serije</string>
+    <string name="category_tv_shows">Sve TV emisije</string>
+    <string name="category_fav_channels">Omiljeni kanali</string>
+    <string name="category_by_categories">Filtriraj po kategorijama</string>
+    <string name="category_by_years">Filtriraj po datumu izdavanja</string>
+    <string name="category_by_age">Filtriraj prema uzrastu</string>
+    <string name="category_by_country">Filtriraj prema državi</string>
+    <string name="category_by_unsorted">Sve</string>
+    <string name="category_by_favorite">Omiljen</string>
+    <string name="category_desc_movies">automatski filter od svih kanala</string>
+    <string name="category_desc_tv_series">automatski filter od svih kanala</string>
+    <string name="category_desc_exact_tv_series">TV serije</string>
+    <string name="category_desc_tv_shows">automatski filter od svih kanala</string>
+    <string name="category_desc_exact_tv_shows">TV emisija</string>
+    <string name="category_desc_tv_channel">TV kanal</string>
+    <string name="category_desc_from_fav">samo sadržaj sa omiljenih kanala</string>
+
+    <string name="in_1_minute">za 1 minut</string>
+    <string name="in_n_minutes">za 10 minuta</string>
+    <string name="player_episode_details_season">sezona</string>
+    <string name="player_episode_details_series">epizoda</string>
+    <string name="player_warn_turn_off">Će se isključiti</string>
+    <string name="player_press_to_cancel">Pritisnite OK za izlazak</string>
+    <string name="player_touch_to_cancel">Dodirnite ekran za izlazak</string>
+    <string name="player_state_no_media_ended">Stream nije odabran (završen)</string>
+    <string name="player_state_buffering">Učitavanje</string>
+
+    <string name="error_this_video_requires_external_player">Za najbolje iskustvo ovaj video zahteva eksterni plejer</string>
+    <string name="error_stream_not_reachable_no_connect">Stream nije dostupan (ne može se povezati). Obratite se svom provajderu</string>
+    <string name="error_stream_not_reachable_no_resource">Stream nije dostupan. Obratite se svom provajderu</string>
+    <string name="error_stream_not_reachable_forbidden">Pristup je odbijen (pogrešan ključ?). Obratite se svom provajderu</string>
+    <string name="error_archive_not_supported_this_channel">Vaš provajder ne nudi arhive za ovaj kanal</string>
+    <string name="error_search_nothing_found">Ništa se ne podudara sa vašom pretragom</string>
+    <string name="error_require_file_permission_grant_and_try_again">Pristup skladištu je potreban. Omogućite pristup i pokušajte ponovo</string>
+
+    <string name="info_teleguide_loaded">Teletekst (EPG) učitan: zapisa</string>
+
+    <string name="player_menu_select_channel_title">Drugi kanal</string>
+    <string name="player_menu_select_archive_title">Drugi video</string>
+    <string name="player_menu_set_pause_on_title">Pauziraj reprodukciju</string>
+    <string name="player_menu_set_pause_off_title">Nastavi reprodukciju</string>
+    <string name="player_menu_set_pause_on_details">reprodukcija</string>
+    <string name="player_menu_set_pause_off_details">pauziran</string>
+    <string name="player_menu_show_timetable_title">Raspored</string>
+    <string name="player_menu_playback_parameters_title">Parametri</string>
+    <string name="player_menu_playback_parameters_speed">Brzina reprodukcije</string>
+    <string name="player_menu_aspect_ratio_title">Razmera slike</string>
+    <string name="player_menu_aspect_ratio_fit_details">Ispuni ekran</string>
+    <string name="player_menu_aspect_ratio_fill_details">Ispuni u širinu</string>
+    <string name="player_menu_aspect_ratio_zoom_details">Zumiraj na ekran</string>
+    <string name="player_menu_aspect_ratio_zoom_in_details">zumiranje ekrana (isecanje delova)</string>
+    <string name="player_menu_favorite_on_details">Dodaj u omiljene</string>
+    <string name="player_menu_favorite_off_details">Ukloni iz omiljenih</string>
+    <string name="player_menu_timeshift">Vremenski pomak</string>
+    <string name="player_menu_timeshift_on_details">Ponovo pokreni video</string>
+    <string name="player_menu_timeshift_off_details">Nazad na uživo</string>
+    <string name="player_menu_pip_title">Slika-u-slici</string>
+    <string name="player_menu_pip_on_details">Izađi iz režima slica-u-slici</string>
+    <string name="player_menu_pip_swap_details">Zameni glavni kanal i PiP kanal</string>
+    <string name="player_menu_last_channel">Poslednji kanal</string>
+
+    <string name="settings_player_pip_codec">Izbor kodeka za slika-u-slici</string>
+    <string name="settings_player_pip_position_tl">gore levo</string>
+    <string name="settings_player_pip_position_tr">gore desno</string>
+    <string name="settings_player_pip_position_bl">dole levo</string>
+    <string name="settings_player_pip_position_br">dole desno</string>
+    <string name="settings_channel_sort_mode">Sortiraj kanale po</string>
+    <string name="settings_channel_sort_mode_freq">učestalost (prvo omiljeni, a zatim najčešći kanali)</string>
+    <string name="settings_channel_sort_mode_prov">redosled sa plejliste provajdera</string>
+    <string name="settings_channel_sort_mode_name">naziv (prvo omiljeni, a zatim abecedno)</string>
+    <string name="settings_run_at_boot">Pokrenite aplikaciju pri pokretanju uređaja</string>
+
+    <string name="hint_title">Savet</string>
+    <string name="hint_long_tap">Možete dugim pritiskom na stavku u listi dobiti proširen opis (ako je dostupno).</string>
+    <string name="hint_fav_sorting">Aplikacija sortira kanale prema učestalosti gledanja. Kanale koje ste označili kao omiljene će uvek biti na vrhu. Možete onemogućiti automatsko sortiranje omogućavanjem redosleda prema provajderu, međutim filter omiljenih kanala neće biti dostupan.</string>
+    <string name="hint_video_codecs">Ako se izvor loše reprodukuje, možete pokušati da povećate veličinu bafera u podešavanjima, prebaciti na neki drugi dekoder prenosa (hardverski ili softverski), ako bilo šta ne uspe, podesite upotrebu eksternog plejera za reprodukciju.</string>
+    <string name="hint_auto_turn_off">Možete podesiti automatsko isključivanje prenosa nakon određenog vremena mirovanja (korisno ako se naplaćuje po minutu). Mirovanje podrazumeva nekorišćenje plejera (na primer: meni, premotavanje, pauza, itd).</string>
+
+    <string name="settings_provider_select_type_intro1">NAPOMENA: Potreban vam je OTT/IPTV provajder kako biste koristili aplikaciju.</string>
+    <string name="settings_provider_select_type_intro2">Aplikacija radi samo sa plejlistama koju obezbeđuje korisnik.</string>
+    <string name="settings_provider_select_apply">Primeni</string>
+    <string name="settings_provider_select_return">Povratak</string>
+
+    <string name="settings_provider_select_status_error">Greška konfiguracije. Učitavanje podataka nije uspelo</string>
+    <string name="settings_provider_select_status_success">Podešavanje uspešno primenjeno</string>
+
+    <string name="settings_provider_select_action_playlist">potvrđivanje plejliste</string>
+    <string name="settings_provider_select_action_live">učitavanje uživo kanala</string>
+    <string name="settings_provider_select_error_playlist">plejlista je nevažeća ili ne sadrži podržane kanale</string>
+    <string name="settings_provider_select_error_live">ne sadrži podržane kanale. Proverite Korisničo ime/Ključ/Lozinku/URL.</string>
+
+    <string name="archive_auto_seek_no">Kreni od početka</string>
+    <string name="future_show_sheet_add_wl_title">Podseti me da prebacim na kanal</string>
+    <string name="future_show_sheet_search_title">Pretraži po arhivama</string>
+    <string name="future_show_sheet_search_none">Ovaj video nije pronađen u arhivama vašeg provajdera</string>
+    <string name="notify_live_sheet_title">Video koji ste označili za gledanje kasnije je sada online</string>
+    <string name="notify_live_sheet_text">Prebacite za gledanje videa</string>
+    <string name="feature_requires_premium">Ova funkcija zahteva premijum</string>
+    <string name="feature_requires_restart">Restart aplikacije je neophodan</string>
+    <string name="no_teleguide">Nema Teleteksta (EPG)</string>
+    <string name="vod_root_title_playlist">Prilagođena plejlista</string>
+    <string name="play_switch_codec">Promeni kodek</string>
+    <string name="play_switch_codec_details">Učitaj prenos sa drugim dekoderom</string>
+    <string name="play_switch_codec_hard">Koristi hardverske kodeke</string>
+    <string name="play_switch_codec_vlc">Koristi softver VLC</string>
+    <string name="play_switch_codec_ext">Otvori u eksternom plejeru</string>
+    <string name="disk_is_full">Skladište je puno. Očistite malo prostora.</string>
+    <string name="channel_more_hide_desc">Ukloni sa liste</string>
+    <string name="hud_short_volume">Glasnoća</string>
+    <string name="hud_short_bright">Svetlina</string>
+
+    <string name="settings_provider">Provajder</string>
+    <string name="settings_media_library">Biblioteka medija</string>
+    <string name="settings_media_library_dnla">Skeniraj UPnP/DNLA izvore u lokalnoj mreži</string>
+
+    <string name="settings_player">Plejer</string>
+    <string name="settings_player_hide_ui">Sakrij UI elemente tokom reprodukcije za</string>
+    <string name="settings_player_resize_mode">Režim video skaliranja</string>
+    <string name="settings_player_resize_mode_fit">Ispuni ekran</string>
+    <string name="settings_player_resize_mode_fill">Proširi do širine ekrana</string>
+    <string name="settings_player_resize_mode_zoom">Zumiraj na ekran</string>
+    <string name="settings_player_resize_mode_zoom_in">Umanjivanje ekrana</string>
+    <string name="settings_player_auto_stop_live">Automatski isključi emitovanje u</string>
+
+    <string name="settings_extended">Proširena podešavanja</string>
+    <string name="settings_extended_hide_adult">Sakrij kategorije za odrasle</string>
+    <string name="settings_extended_auto_start_last_channel">Automatski pokreni poslednje gledani kanal</string>
+    <string name="settings_schedule_epg_reload">Ponovo učitaj Teletekst (EPG)...</string>
+
+    <string name="settings_visual">Vizelni stil</string>
+
+    <string name="settings_live_quick_channel_switch_delay">Odlaganje pre brze promene kanala</string>
+    <string-array name="settings_live_quick_channel_switch_delay_names">
+        <item>promeni odmah</item>
+        <item>dozvoli nastavak listanja kanala za još jednu sekundu</item>
+        <item>normalno(2 sekunde za daljni odabir)</item>
+        <item>sporo (5 sekundi za daljni odabir)</item>
+    </string-array>
+
+    <string name="settings_player_buffer_size">Veličina bafera za emitovanje</string>
+    <string-array name="settings_player_buffer_size_names">
+        <item>bez bafera (minimalni trag na memoriji)</item>
+        <item>standardna</item>
+        <item>povećana</item>
+        <item>velika (loš internet, loš stream)</item>
+        <item>ogromna (visoka iskorišćenost memorije za veoma loše uslove)</item>
+    </string-array>
+
+    <string name="settings_show_clock_in_player_always">Prikaži trenutno vreme pri gledanju videa</string>
+
+    <string name="settings_font_style">Veličina teksta</string>
+    <string-array name="settings_font_style_names">
+        <item>Mala</item>
+        <item>Normalna</item>
+        <item>Velika</item>
+        <item>Ogromna</item>
+        <item>Gigantska (može sakriti pojedine opcije)</item>
+    </string-array>
+
+    <string name="settings_palette_style">Šema paleta boja</string>
+
+    <string name="settings_ui_screen_margins">Margine ekrana</string>
+    <string name="settings_ui_language">Jezik (ako nije podešeno, koristi se podrazumevani)</string>
+
+    <string name="settings_codec">Podešavanja kodeka</string>
+    <string name="settings_codec_hard">Uvek koristi hardverske kodeke</string>
+    <string name="settings_codec_soft_vlc">Uvek koristi softverske VLC kodeke</string>
+    <string name="settings_codec_external">Uvek koristi eksterni plejer</string>
+
+    <string name="settings_epg">EPG teletekst</string>
+
+    <string name="settings_external_player">Eksterni plejer</string>
+
+    <string name="settings_premium">Premijum</string>
+    <string name="settings_premium_source_purchase">Premijum kupljen</string>
+    <string name="settings_premium_source_subscription">Premijum pretplaćen</string>
+    <string name="settings_premium_source_unknown">Premijum nije omogućen</string>
+    <string name="settings_premium_what_included">Saznaj više o Premijum funkcijama…</string>
+    <string name="settings_premium_what_included_1">Slika-u-slici režim	pri gledanju uživo prenosa</string>
+    <string name="settings_premium_what_included_2">Opcija za vraćanje na prethodni gledani kanal</string>
+    <string name="settings_premium_what_included_3">Automatska promena osvežavanja da se podudara sa videom</string>
+    <string name="settings_premium_what_included_4">Kontrolisanje brzine reprodukcuje za arhive</string>
+
+    <string name="settings_premium_toggles_try_afr">Automatski promeni osvežavanje da se podudara sa videom</string>
+    <string name="settings_premium_toggles_try_afr_toast">Podržane stope osvežavanja trenutnog ekrana</string>
+
+    <string name="settings_premium_toggle_btn_title">Omogući premijum funkcije</string>
+    <string name="settings_premium_toggle_btn_sub_add">Pretplati se</string>
+    <string name="settings_premium_toggle_btn_sub_add_desc">Omogući premijum malom tekućom nadoknadom</string>
+    <string name="settings_premium_toggle_btn_buy_add">Kupi</string>
+    <string name="settings_premium_toggle_btn_buy_add_desc">Omogući premijum jednim plaćanjem</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads">Kupi paket bez reklama (takođe uključen u svim premijum paketima)</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads_desc">Onemogućite reklame zauvek jednim plaćanjem</string>
+
+    <string name="setting_list_view_title">Kako bi liste trebale da se prikazuju</string>
+    <string name="setting_list_view1">jednostavna lista</string>
+    <string name="setting_list_view2">tabla (2 kolone) sa opisom</string>
+    <string name="setting_list_view3">tabla (3 kolone)</string>
+    <string name="setting_list_view4">tabla (4 kolone)</string>
+    <string name="cfg_play_deny_buffer">Ne prikazuj status učitavanja</string>
+    <string name="copied_clipboard">Kopirano u privremenu memoriju</string>
+    <string name="cfg_play_action_menu">otvori meni</string>
+    <string name="cfg_play_action_timetable">otvori raspored</string>
+    <string name="cfg_play_action_prev">prebaci na prethodni kanal</string>
+    <string name="cfg_play_action_next">prebaci na sledeći kanal</string>
+    <string name="cfg_play_action_last">prebaci na poslednje reprodukovan kanal</string>
+    <string name="cfg_play_action_title">Podesi daljinski upravljač</string>
+    <string name="cfg_play_action_btn_archive_as_live">Koristi isto podešavanje pri gledanju arhiva (premotavanje sa dugmmićima levo i desno će biti onemogućeno)</string>
+    <string name="cfg_trans_wind">Koristi transparentan interfejs</string>
+
+    <string name="do_not_show">ne prikazuj</string>
+    <string name="android_not_genuine">Kupovine možda neće raditi na vašem uređaju.</string>
+    <string name="menu_error_require_status_archive_text">Podaci arhive još nisu dostupni. Ako se ovo odlaže duže vremena obično znači da Teletekst (EPG) nije dostupan. U tom slučaju možete zakazati osvežavanje EPG-a u podešavanjima ili potražiti i podesiti bolje izvore.</string>
+    <string name="spread_title">Sviđa vam se aplikacija? Proširite reč!</string>
+    <string name="spread_btn_rate">Ocenite aplikaciju sa pet zvezdica</string>
+    <string name="spread_btn_share">Podelite link aplikacije sa prijateljem</string>
+    <string name="spread_share_title">Bacite pogled na aplikaciju</string>
+    <string name="settings_premium_what_included_9">Promena kanala preko unosa broja kanala</string>
+    <string name="settings_channel_sort_mode_numb">broj (prema broju kanala, se može promeniti)</string>
+    <string name="ch_opt_change_number">Promeni broj</string>
+    <string name="prov_btn_help">Pomoć</string>
+    <string name="prov_help_telegram">Pridruži se ćaskanju na Telegramu</string>
+    <string name="settings_premium_what_included_5">Bez reklama</string>
+    <string name="invalid_domain">Domen najverovatnije nije validan. Proverite vaš unos</string>
+    <string name="example">Primer</string>
+    <string name="provider_generic">Generički provajder ili plejlista</string>
+    <string name="watched">Odgledano:</string>
+    <string name="btn_search">Pretraži</string>
+    <string name="premium_fea_6">Pošalji stream na udaljeni ekran</string>
+    <string name="wifi_display">Udaljeni ekran</string>
+    <string name="wifi_display_desc">Pusti stream na drugom uređaju</string>
+
+    <string name="cfg_play_action_pp">pauziraj ili nastavi reprodukciju</string>
+    <string name="cfg_play_action_btn_red">Akcija za Crveno dugme</string>
+    <string name="cfg_play_action_btn_green">Akcija za Zeleno dugme</string>
+    <string name="cfg_play_action_btn_yellow">Akcija za Žuto dugme</string>
+    <string name="cfg_play_action_btn_blue">Akcija za Plavo dugme</string>
+    <string name="map_channel_to_epg">Mapiraj kanal na EPG</string>
+    <string name="map_channel_to_epg_after">Promene će biti primenjene na sledećem osvežavanju EPG-a.</string>
+    <string name="cfg_play_action_vol_d">smanji zvuk</string>
+    <string name="cfg_play_action_vol_u">pojačaj zvuk</string>
+    <string name="cfg_ext_player_auto">Sistemski podrazumevani plejer</string>
+    <string name="cfg_ext_player_chooser">Izaberi ručno svaki put</string>
+    <string name="btn_close">Zatvori</string>
+    <string name="prem_sub_add_3m">Pretplati se (naplaćivanje svakih 3 meseca)</string>
+    <string name="prem_sub_add_1y">Pretplati se (naplaćivanje svake godine)</string>
+    <string name="premium_fea_pvsearch">Glasovna pretraga prilikom gledanja. Pretraži kanal po imenu, ili sadržaju arhive.</string>
+    <string name="cfg_play_action_vsearch">glasovna pretraga</string>
+    <string name="settings_premium_source_enabled">Premijum omogućen</string>
+    <string name="cfg_play_action_mute">isključi zvuk</string>
+    <string name="cfg_play_action_unbind">bez obrađivanja (zadrži sistemsko ponašanje)</string>
+    <string name="settings_codec_auto">podrazumevani kodek za provajdera</string>
+    <string name="cfg_ign_last_codec">nemoj zapamtiti poslednji kodek korišćen za reprodukovanje kanala</string>
+    <string name="btn_schedule_epg">zakaži osvežavanje EPG-a</string>
+    <string name="err_archive_is_shorter">Arhiva za ovaj kanal ima kraći životni vek kod vašeg provajdera</string>
+    <string name="cfg_section_backup">Rezervna kopija i povratak</string>
+    <string name="btn_backup_info">Rezervna kopija se čuva pomoću ključa. Zapišite ključ čim rezervna kopija završi sa obradom. Ne postoji garancija koliko dugo će rezervna kopija biti dostupna</string>
+    <string name="btn_backup_data">Rezervna kopija trenutne konfiguracije</string>
+    <string name="btn_backup_load">Učitaj ranije napravljenu rezervnu kopiju konfiguracije</string>
+    <string name="err_need_newer_android">Novija Android verzija je potrebna za ovu funkciju</string>
+    <string name="cfg_play_action_sys_pip">Otvori sistemski PiP mod</string>
+    <string name="cfg_video_cutout">Sakrij gornju i donju liniju videa (u pikselima)</string>
+    <string name="cfg_video_retry">Broj pokušaja ponovnog učitavanja videa nakon greške</string>
+    <string name="cfg_play_action_2live">Prebaci na uživo prenos trenutnog kanala</string>
+    <string name="player_menu_2live">Prebaci na uživoo</string>
+
+    <string name="btn_seek">Premotavanje</string>
+    <string name="cfg_play_action_mseek">Pokreće pregled premotavanja videa</string>
+    <string name="menu_exit">Izađi</string>
+    <string name="hint_try_premium_sub_free">Možete jedanput pretplatu isprobati besplatno na par dana dok odlučujete da li želite da je koristite, ili ne. Proverite detalje pretplatničkih paketa.</string>
+
+    <string name="premium_fea_pre_vid">Prikaži pregled izabranog videa u opisu</string>
+    <string name="vp_audio_shift">Audio pomak</string>
+    <string name="vp_audio_shift_desc">Sinhronizuj audio sa videom</string>
+    <string name="cfg_next_n_desc">Koliko sledećih TV emesija prikazati u opisu kanala</string>
+    <string name="cfg_codec_details_title">Podesite podešavanja kodeka</string>
+    <string name="cfg_codec_vlc_q">kvalitet VLC kodeka</string>
+    <string name="profile_speed_q">preferiraj brzinu</string>
+    <string name="profile_middle_q">preferiraj kvaliter preko brzine</string>
+    <string name="profile_high_q">samo kvalitet je bitan</string>
+    <string name="channel_move_cat">Promeni kategoriju</string>
+    <string name="channel_move_new_cat">Kreiraj novu kategoriju</string>
+    <string name="premium_fea_edit_list">Dopušta editovanje kategorija, sakrivanje kanala, itd</string>
+    <string name="prov_help_bug">Prijavite problem ili grešku</string>
+    <string name="prov_help_tpl">Prijavi problem sa šablonom provajdera</string>
+    <string name="prov_help_feature">Predloži novu funkciju</string>
+    <string name="prov_help_premium">Prijavi problem sa pretplatom ili premijumom</string>
+    <string name="prov_help_contact_via_chat">kontaktiraj programera preko ćaskanja</string>
+    <string name="prov_help_contact_via_email">kontaktiraj programera preko imejla</string>
+    <string name="prov_help_provide_more_info">Napiši poruku programeru</string>
+    <string name="cfg_time_imp">Koristi imperijalni format vremena (am/pm)</string>
+    <string name="hud_short_seeking">Premotavanje</string>
+    <string name="cfg_player_clock_tr">gornji desni ugao</string>
+    <string name="cfg_player_clock_br">donji desni ugao</string>
+    <string name="cfg_player_clock_bl">donji levi ugao</string>
+    <string name="cfg_player_clock_tl">gornji levi ugao</string>
+    <string name="cat_vr_continue">Nastavi gledanje</string>
+    <string name="cat_vr_continue_prem">Nedavni gledani videi, koji su dostupni sada</string>
+    <string name="premium_fea_continue">Prikazuje sve nedavno gledane videe, koji su trenutno dostupni u Nastavi filteru</string>
+    <string name="menu_swap_pip_sound">Zamenite zvuk između glavnog ekrana i PiP</string>
+    <string name="premium_fea_pre_vid_wp">Dozvoli pregled videa da se prikazuje prilikom gledanja drugog videa</string>
+    <string name="hint_click_icon">Klikom na ikonicu kanala ili grupe otvara se kontekstni meni (ako je dostupan).</string>
+    <string name="hint_right_jump">Pritiskom desnog dugmeta na mnogim abecedno poređanih listi otvara brzi pregled</string>
+    <string name="category_recent_channels">Nedavno</string>
+    <string name="category_all_channels">Svi kanali</string>
+    <string name="cfg_no_categories">Koristi običnu listu kanala (bez kategorija)</string>
+    <string name="cfg_section_desc">Opis stavke</string>
+    <string name="cfg_section_lists">Podešavanje lista</string>
+
+    <string name="cfg_no_hints">Ne prikazuj savete</string>
+    <string name="setting_list_view_auto">tabla (ogromne ikonice, ispuni ekran)</string>
+    <string name="child_mode_unlock_cfg">Unesite kôd dečijeg režima da otključate podešavanja</string>
+    <string name="cfg_child_mode">Dečiji režim</string>
+    <string name="cfg_child_mode_number">kôd za izlaz dečijeg režima (4 cifre)</string>
+    <string name="cfg_play_deny_status">Ne prikazuj status strem-a</string>
+    <string name="cfg_player_hud">Stil heads-up interfejsa</string>
+    <string name="cfg_player_hud_1">Gornji i donji</string>
+    <string name="cfg_player_hide_menu">Istek vremena za skrivanje menija (u sekundama)</string>
+    <string name="choose_auto">Izaberi automatski</string>
+    <string name="cfg_stream_tech">Tehnologija stream-a (ako je dostupno)</string>
+
+    <string name="cfg_show_ch_numbers">Prikaži brojeve kanala</string>
+    <string name="always">uvek</string>
+    <string name="menu_tv_guide">TV Vodič</string>
+    <string name="cfg_stream_q">Prikaži kvalitet stream-a</string>
+    <string name="ext_player_copy_clipboard">Kopiraj link samo u privremenu memoriju</string>
+    <string name="premium_fea_mult_prov">Dozvoli više provajdera da se koriste u isto vreme</string>
+    <string name="btn_add_provider">Dodaj provajdera</string>
+    <string name="btn_provider_edit">Uredi</string>
+    <string name="btn_provider_delete">Izbriši</string>
+    <string name="provider_playlist">Plejlista</string>
+    <string name="provider_playlist_file">Plejlista od fajla</string>
+    <string name="premium_fea_tv_guide">Vidi TV program kao tabelu</string>
+    <string name="provider_field_name">Ime</string>
+    <string name="provider_field_url">URL adresa</string>
+    <string name="provider_field_login">Prijava</string>
+    <string name="provider_field_pass">Lozinka</string>
+    <string name="provider_field_token">Pristupni token</string>
+    <string name="provider_field_server">Server</string>
+    <string name="provider_field_active">Aktivan</string>
+    <string name="cfg_prov_categories_merge">Kategorije od drugih provajdera</string>
+    <string name="cfg_prov_categories_merge_prepend">Dodajte kategoriju sa imenom provajdera</string>
+    <string name="cfg_prov_categories_merge_mix">Spoji kategorije ako se ime podudara</string>
+    <string name="cfg_prov_categories_merge_append">Dodaj ime provajdera na ime kategorije</string>
+    <string name="cfg_codec_exo_q">Kvalitet hardverskog kodeka</string>
+    <string name="cfg_codec_exo_max">najbolji rezultat</string>
+    <string name="cfg_codec_exo_compat">režim kompatibilnosti</string>
+
+    <string name="suggest_better_prov_tpl">Čini se da postoji bolji šablon za vašeg provajdera</string>
+    <string name="place_pl_to_downloads">Nije pronađena validna plejlista u podešavanjima</string>
+    <string name="only_1_active">Premijum je neophodan za više aktivnih provajdera u isto vreme</string>
+    <string name="menu_qs_provider">Promeni provajdera</string>
+    <string name="menu_qs_provider_cfg">Prikaži brzu promenu između aktivnih provajdera</string>
+    <string name="menu_qs_provider_all">Svi aktivni provajderi</string>
+    <string name="menu_tv_guide_cfg">Prikaži TV vodič dugme</string>
+    <string name="cfg_video_preview_sound">Omogući zvuk u pregledu videa u opisu</string>
+    <string name="provider_generic_middleware">Generički centralni server</string>
+    <string name="provider_generic_list">Lista provajdera</string>
+    <string name="provider_generic_list_desc">Uobičajeni šabloni u blizini (jezik i region)</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="cfg_zoom_shrink">umanjiti</string>
+    <string name="cfg_channel_manager">Upravljaj kanalima</string>
+    <string name="cfg_channel_manager_categories">Kategorije</string>
+    <string name="cfg_channel_manager_channels">Kanali</string>
+    <string name="ch_manage_show">Prikaži u listi</string>
+    <string name="ch_manage_child_on">Omogući u dečijem režimu</string>
+    <string name="ch_manage_child_off">Onemogući u dečijem režimu</string>
+    <string name="ch_manage_status_favorite">omiljen</string>
+    <string name="ch_manage_status_hidden">sakriven</string>
+    <string name="ch_manage_status_child">dečiji</string>
+    <string name="show_future_search_in_other">Pretraži u eksternim aplikacijama</string>
+
+    <string name="cfg_channel_manager_filters">Filteri</string>
+    <string name="menu_suggest_premium">Spremni da istražite zanimljive premijum funkcije?</string>
+    <string name="cfg_epg_update_frequency">Učestalost osvežavanja (u satima)</string>
+    <string name="cfg_vod_merge">Spoji biblioteke medija sa više izvora u jednu listu (zahteva ponovno učitavanje)</string>
+    <string name="ch_manage_rename">Preimenuj</string>
+    <string name="pla_timeshift_from_current">Počnite od trenutnog momenta</string>
+    <string name="cfg_play_action_timeshift_start">otvori arhiviranu TV emisiju od početka</string>
+    <string name="cfg_play_action_timeshift_now">otvori arhiviranu TV emisiju od trenutnog vremena</string>
+    <string name="cfg_cat_recent">Kategorija nedavnih kanala</string>
+    <string name="enable">omogući</string>
+    <string name="save_between_launch">sačuvaj između otvaranja</string>
+    <string name="cfg_no_teleguide">Generiši virtuelni EPG zapise kada TV program nije dostupan</string>
+    <string name="menu_qs_provider_multiple">Označi ručno</string>
+    <string name="category_recently_added">Nedavno dodato</string>
+    <string name="ask_finish_update">Restartuj aplikaciju i ažuriraj na noviju verziju?</string>
+    <string name="cfg_premium_etc">I mnoge druge vredne funkcije</string>
+    <string name="cfg_fine_tune_volume">Ručno fino podešavanje audio glasnoće (limitirano sistemskom glasnoćom) </string>
+
+    <string name="cfg_arch_unp">Automatski ponovo tvori arhivu pri poništavanju pauze live stream-a</string>
+    <string name="cfg_ch_more_epg">Prikaži ime kanala većim od EPG-a</string>
+    <string name="show_menu_add_to_cont_watching">Nastavi gledanje kasnije</string>
+    <string name="cfg_exit_child_mode">Izađi iz dečijeg režima</string>
+    <string name="cfg_enter_child_mode">Uđi u dečiji režim</string>
+    <string name="cfg_child_categories">Prikaži kategorije kanala</string>
+    <string name="btn_provider_attrs">Svojstva provajdera</string>
+    <string name="btn_provider_activate">Aktiviraj</string>
+    <string name="btn_provider_deactivate">Onemogući</string>
+    <string name="btn_provider_attr_epg">EPG izvor</string>
+    <string name="change_pip_size">Promeni veličinu</string>
+    <string name="change_pip_place">Pomeri na ekran</string>
+
+    <string name="only_manually_added">samo ručno dodato</string>
+    <string name="check_for_updates">Proveri ažuriranja</string>
+    <string name="has_updates_starting">Ažuriranje je dostupno i započeće uskoro</string>
+    <string name="no_updates_avail">Ažuriranja nisu dostupna</string>
+    <string name="access_restricted">pristup ograničen</string>
+    <string name="ch_man_restrict_access">Ograniči pristup</string>
+    <string name="ch_man_allow_access">Dozvoli pristup</string>
+    <string name="cat_man_mass_action">Akcija sa svim kanalima</string>
+    <string name="cfg_set_restricted_code">Postavi kôd za ograničen sadržaj (4 cifre)</string>
+    <string name="ch_restricted_unlock">Unesite kôd da pristupite ograničenom sadržaju</string>
+    <string name="player_menu_manage_ch">Upravljaj kanalom</string>
+    <string name="player_menu_manage_epg">Upravljaj TV emisijom</string>
+    <string name="help_faq">Često postavljena pitanja</string>
+    <string name="pla_menu_item_visibility">Vidljivost meni dugmića</string>
+    <string name="pla_menu_type">Vizuelni stil menija</string>
+    <string name="pla_menu_type_list">lista</string>
+    <string name="pla_menu_type_grid">mreža</string>
+    <string name="ch_manage_use_internal">Koristi interni plejer</string>
+    <string name="cat_manage_start_this_cat_on">Počni od ove kategorije</string>
+
+    <string name="cfg_show_ch_desc">Prikaži opis emisije</string>
+    <string name="cfg_show_archive_marker">Prikaži oznaku dostupnosti arhive</string>
+    <string name="studio_mode_open_in">Otvori u Studio Režimu</string>
+    <string name="studio_mode_title">Studio Režim</string>
+    <string name="studio_mode_remove">Ukloni ekran</string>
+    <string name="studio_mode_set_sound">Omogući zvuk</string>
+    <string name="studio_mode_add">Dodaj ekran</string>
+    <string name="studio_mode_minimize">Umanji</string>
+    <string name="studio_mode_maximize">Uvećaj</string>
+    <string name="cfg_codec_system">sistemski video prikaz</string>
+    <string name="provider_connections_reached">Vaš provajder ne dozvoljava toliko konekcija</string>
+    <string name="max_connections">Maksimum dozvoljenih konekcija</string>
+    <string name="pro_sub_expiring">Vaša pretplata ističe. Obnovi</string>
+    <string name="mark_all_viewed">Označi sve kao odgledano</string>
+    <string name="pos_rearrange">Prerasporedi u listi</string>
+    <string name="pos_rearrange_clear">Očisti ručne pozicije u listi</string>
+    <string name="restart">Restartuj</string>
+    <string name="cfg_prov_settings">Podešavanja provajdera</string>
+    <string name="cfg_prov_settings_desc">Utiče na učitavanje podataka provajdera</string>
+    <string name="cfg_prov_remove_sd">Ukloni SD kanale</string>
+    <string name="cfg_prov_remove_sd_hd">Ukloni SD kanale ako su više rezolucije detektovane</string>
+    <string name="cfg_prov_remove_tz">Ukloni kanale iz različitih vremenskih zona</string>
+    <string name="cfg_prov_follow_includes">Praćenje u plejlisti uključuje</string>
+    <string name="cfg_sys_settings">Sistemska podešavanja</string>
+    <string name="cfg_pla_hud_settings">Interfejs plejera</string>
+    <string name="cfg_tv_guide_transparency">Transparentnost pozadine</string>
+    <string name="on_top">iznad</string>
+    <string name="on_bottom">ispod</string>
+    <string name="hint_long_ok_menu">Dugi pritisak na OK u najvećem broju slučaja otvara ekran sa svojstvima</string>
+    <string name="save_state">Sačuvaj stanje</string>
+    <string name="restore_state">Vrati stanje</string>
+
+    <string name="pro_studio">Studio režim, omogućava gledanje više stream-ova u isto vreme</string>
+    <string name="cfg_prov_channel_name">Prikaži ime provajdera na mestu imena kanala pri korišćenju više provajdera</string>
+    <string name="increase_text_size">uvećaj veličinu teksta</string>
+    <string name="hint_long_up_down">Dugi pritisak na strelice gore i dole omogućuje bržu navigaciju u listama</string>
+    <string name="pla_act_quick_seek_back_20">premotaj unazad 20 sekundi</string>
+    <string name="pla_act_quick_seek_fwd_20">premotaj unapred 20 sekundi</string>
+    <string name="cfg_touch_control">Konfiguracija dodirnih zona</string>
+    <string name="double_tap">Dupli dodir</string>
+    <string name="pos_center_top">centar gore</string>
+    <string name="pos_center_left">centar levo</string>
+    <string name="pos_center_center">centar</string>
+    <string name="pos_center_right">centar desno</string>
+    <string name="pos_center_bottom">centar dole</string>
+    <string name="cfg_studio_maximize_size">Dimenzije uvećanog prozora</string>
+    <string name="pro_desc_try_free">Možete pregledati premijum funkcije pretplatom na mesečni plan. Ima nekoliko početnih dana besplatno osim ako niste već imali plaćanja.</string>
+    <string name="cfg_auto_start_system_pip">Automatski otvori sistemski slika-u-slici režim pri promeni sa plejera na početni ekran</string>
+    <string name="pla_act_hud">prikaži interfejs plejera sa detaljima emisije</string>
+    <string name="pla_act_prop_channel">svojstva kanala</string>
+    <string name="pla_act_prop_broadcast">trenutna svojstva emisije</string>
+    <string name="long_press">dugi pritiask</string>
+    <string name="hours">sati</string>
+    <string name="parental_control">roditeljska kontrola</string>
+    <string name="show_different_time_frame_guide">Prikaži raniji ili kasniji raspored</string>
+    <string name="cfg_list_long_arrow_pg_down">Tretiraj dugi pritisak na strelicama navigacijom po stranicama</string>
+    <string name="seconds">sekundi</string>
+    <string name="not_limited">nije ograničen</string>
+    <string name="auto_detected">automatski detektovano</string>
+    <string name="remove">ukloni</string>
+    <string name="video_unsupported">Ni jedan od video zapisa se ne može reprodukovati na ovom uređaju</string>
+    <string name="audio_unsupported">Ni jedan od audio zapisa se ne može reprodukovati na ovom uređaju</string>
+    <string name="try_other_codecs">Probajte sa drugim kodekom ili eksternim plejerom</string>
+    <string name="media_tracks">Medija zapisi</string>
+    <string name="media_tracks_video">Video</string>
+    <string name="media_tracks_audio">Audio</string>
+    <string name="media_tracks_sub">Titlovi</string>
+    <string name="cfg_lists_auto_scroll_to_last_touch">Automatski skroluj do posljednje stavke (u režima dodira)</string>
+    <string name="hint_right_archives">Možete pritisnuti DESNO dugme prilikom pretraživanja kanala da otvorite listu arhiva</string>
+    <string name="switch_audio_hw">Koristi hardverski audio dekoder</string>
+    <string name="switch_audio_sw">Koristi softverski audio dekoder</string>
+    <string name="afr_mode_scale">rezolucija ekrana trebala bi da bude promenjena</string>
+    <string name="cfg_ch_icons_dir">Lokacija sa ikonicama kanala</string>
+    <string name="cfg_ch_remove_dups">Ukloni duplirane kanale (sa istim imenom)</string>
+    <string name="codecs_hardware">hardverski kodeci</string>
+    <string name="ch_man_map_to_logo">Izaberi logo kanala</string>
+    <string name="cfg_tvguide_large_preview">Prikaži veći opis sa pregledom</string>
+    <string name="cfg_time_shift_from_utc">Razlika od sistemskog vremena</string>
+    <string name="internal_value">interna vrednost</string>
+    <string name="displayed_value">prikazana vrednost</string>
+    <string name="cfg_play_action_ch_list">otvori listu kanala</string>
+    <string name="cfg_enable_resolution_fix">Omogući popravku rezolucije</string>
+    <string name="minutes">minuta</string>
+    <string name="cfg_ban_bad_channels_qs">Ukloni pokvarene kanale iz brzog prebacivanja</string>
+    <string name="loading_data">Učitavanje podataka</string>
+    <string name="cfg_list_ch_no_country">Ukloni državu iz imena kanala</string>
+    <string name="cfg_network">Mreža</string>
+    <string name="select_sort_order">Izaberi redosled sortiranja</string>
+    <string name="sort_order_abc">Abecedno</string>
+    <string name="sort_order_cba">Abecedno (obrnuto)</string>
+    <string name="sort_order_uploaded">Datum objavljivanja</string>
+    <string name="cfg_video_effect">Video efekt</string>
+    <string name="cfg_video_effect_grain">Filmska zrnatost</string>
+    <string name="cfg_logo_prefer">Preferirani izvor ikonica kanala</string>
+    <string name="cfg_logo_from_provider">Ikonica od provajdera</string>
+    <string name="cfg_logo_from_file">Ikonica iz lokalnog direktorijuma</string>
+    <string name="cfg_logo_from_epg">Ikonica iz EPG-a</string>
+    <string name="cfg_pla_act_ui_brightness">Promeni svetlinu ekrana (dodir)</string>
+    <string name="cfg_pla_act_ui_volume">Promeni jačinu zvuka (dodir)</string>
+    <string name="swipe_vertical">vertikalno pomicanje</string>
+    <string name="swipe_horizontal">horizontalno pomicanje</string>
+    <string name="cfg_max_epg_load_back">Maksimalni broj dana učitavanja EPG-a u istoriju</string>
+    <string name="expiration">Istek</string>
+    <string name="trial_account">Probni nalog</string>
+    <string name="premium_google_account">Sve kupovine odnose se na sve uređaje koji dele isti nalog.</string>
+    <string name="player_live_recent_archive">Nastavi reprodukciju nedavno gledanog arhiviranog videa?</string>
+    <string name="player_live_recent_archive_archive">Nastavi reprodukciju?</string>
+    <string name="player_live_recent_archive_live">Uživo prenos</string>
+    <string name="pos_on_left">na levoj strani</string>
+    <string name="pos_on_right">na desnoj strani</string>
+    <string name="cfg_list_pos_on_screen">Pozicija liste na ekranu</string>
+    <string name="cfg_list_size_on_screen">Veličina liste na ekranu</string>
+    <string name="cfg_list_desc_allow">Dozvoli opis da bude prikazan na listama</string>
+    <string name="cfg_ext_app_on_home">Prikaži eksternu aplikaciju na početnom ekranu</string>
+    <string name="player_select_screen_main">Glavni ekran</string>
+    <string name="never">nikad</string>
+    <string name="by_default">podrazumevano</string>
+    <string name="sleep_timer">Tajmer spavanja</string>
+    <string name="err_need_provider">IPTV provajder je neophodan</string>
+    <string name="err_need_provider_text">Morate podesiti vašeg IPTV provajdera. Otvorite podešavanja i dodajte provajdera (ili plejlistu).</string>
+    <string name="unlock_premium">Otključaj premijum</string>
+    <string name="about_app">O aplikaciji</string>
+    <string name="contact_dev">Kontaktirajte programera</string>
+    <string name="with_stats">Dozvoli slanje anonimne statistike radi unaprađenja aplikacije</string>
+    <string name="last_epg_load_ok">Info poslednjeg uspešnog učitavanja EPG-a</string>
+    <string name="mass_add_chls_to_this_cat">Dodajte kanale u ovu kategoriju</string>
+    <string name="minutes_ago_10">Pre 10 minuta</string>
+    <string name="time_warp">Vremensko iskrivljenje</string>
+    <string name="show_dir_sep_from_videos">Prikaži direktorijume odvojeno od videa</string>
+    <string name="epg_warn_search_by_name_custom">Generički izvori su pretraživani samo po imenima kanala. Ako imate izvor napravljen isključivo za vašeg provajdera, onda ga konfigurišite u svojstvima provajdera.</string>
+    <string name="show_archive_playback_marker">Prikaži oznaku ako se reprodukuje snimani video</string>
+    <string name="user_vod_sources">Izvor biblioteke medija koje obezbeđuje korisnik</string>
+    <string name="append_user_source">Dodaj izvor koju je obezbedio korisnik</string>
+    <string name="black_screen_on_ch_switch">Prikaži crn ekran prilikom promena kanala</string>
+    <string name="clear_custom_ch_order">Vrati originalni redosled kanala</string>
+    <string name="channels_processed">Kanala obrađeno</string>
+    <string name="atv_split_to_different_channels">Podelite više vrsta sadržaja u različite redove</string>
+    <string name="number_already_taken">Ovaj broj je već zauzet</string>
+    <string name="fold_duplicate_channels">Preklopi duplikate kanala u jedan element</string>
+    <string name="select_another_media_source">Prebaci na drugi izvor medija</string>
+    <string name="user_epg_sources">EPG izvori koje obezbeđuje korisnik</string>
+    <string name="reload_data">Osveži podatke</string>
+    <string name="assume_long_buffering_as_error">Smatraj dugo učitavanje greškom kanala</string>
+    <string name="show_installation_number">Prikaži instalacioni broj</string>
+    <string name="sort_archive_by_date">Sortiraj arhiviranje videe prema datumu</string>
+    <string name="simplified_mode">Pojednostavljeni režim</string>
+    <string name="hide_advanced_features">Sakrij napredne funkcije</string>
+    <string name="select_player_to_use">Izaberi plejer za reproduckiju</string>
+    <string name="auto_unfold_current_element_info">Automatski rasklopi trenutno izabran info elementa</string>
+    <string name="error_occurred">Desila se greška</string>
+    <string name="applies_to_provider_loded">Odnosi se na učitavanje provajdera</string>
+    <string name="applies_to_final_ch_list">Odnosi se na finalnu listu kanala</string>
+    <string name="vod_folder_series">TV serije</string>
+    <string name="vod_folder_movies">Filmovi</string>
+    <string name="show_hidden_content">Prikaži sakriveni sadržaj</string>
+    <string name="rewind_speed">Brzina premotavanja unazad</string>
+    <string name="disable_provider_epg">Onemogući izvore EPG-a od provajdera, koristi samo one koje obezbeđuje korisnik</string>
+    <string name="allow_bad_ssl">Dozvoli nevažeće SSL sertifikate</string>
+    <string name="auto_start_next_episode">Automatski pokreni sledeću epizodu</string>
+    <string name="unique_devices">jedinstveni uređaji</string>
+    <string name="sign_in">Prijavi se</string>
+    <string name="register">Registruj se</string>
+    <string name="not_logged_in">Niste prijavljeni</string>
+    <string name="sign_in_to_activate">Prijavite se za aktivaciju</string>
+    <string name="user_account_for_premium">Korisnički nalog za upravljanje premijum funkcijama</string>
+    <string name="logout">Odjavi se</string>
+    <string name="pro_sub_expired">Vaša pretplata je istekla</string>
+    <string name="days">dana</string>
+    <string name="price">Cena</string>
+    <string name="do_not_offer_any_more">Ne nudi više ovo</string>
+    <string name="cfg_offer_to_seek_to_last_pos">Ponudi premotavanje do poslednje pogledane pozicije</string>
+    <string name="best_offer">Najbolja ponuda</string>
+    <string name="popular_offer">Popularna ponuda</string>
+    <string name="favorites_go_top">Omiljene stavke bi trebale prve da se prikazuju</string>
+    <string name="action_lock_screen">blokiraj kontrole ekrana</string>
+    <string name="screen_is_locked">Kontrola ekrana je blokirana</string>
+    <string name="prev_category">Prethodna kategorija</string>
+    <string name="change_category_type">Promeni tip kategorije</string>
+    <string name="scroll_speed_for_desc">Brzina skrolovanja za duge opise</string>
+    <string name="select_value_to_start_from">Odaberite vrednost od koje ćete početi</string>
+    <string name="enabled_modules">Omogućeni moduli</string>
+    <string name="replace_provider_order_abc">Zamenite redosled kanala provajdera redosledom po abecedi</string>
+    <string name="nothing_to_backup">Nema podataka za rezervnu kopiju!</string>
+    <string name="qr_code_desc">Možete skenirarti kôd aplikacijom na telefonu. Ili, sa obzirom da je kopiran u privremenu memoriju, možete ga samo nalepiti u drugoj aplikaciji.</string>
+    <string name="next_page">Sledeća strana</string>
+</resources>

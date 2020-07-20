@@ -9,16 +9,9 @@
     <string name="menu_live">Trasmissione in diretta</string>
     <string name="menu_archive">Mostra archivio</string>
     <string name="menu_settings">impostazioni</string>
-    <string name="menu_error_require_provider_title">È richiesto un provider OTT</string>
-    <string name="menu_error_require_provider_text">Questo distretto è disponibile solo quando è configurato il provider OTT. Seleziona un\'altra opzione o configura un fornitore.</string>
     <string name="menu_error_require_provider_button">Configura provider</string>
-    <string name="menu_error_require_status_title">I dati vengono indicizzati</string>
-    <string name="menu_error_require_status_text">Le informazioni per questa sezione non sono ancora disponibili. Il processo può richiedere diversi minuti. Seleziona un\'altra sezione o aspetta un po.</string>
     <string name="menu_error_require_live_but_no_playlist_title">Impossibile caricare la playlist con canali</string>
     <string name="menu_error_require_live_but_no_playlist_text">Il provider o la playlist configurati non possono essere raggiunti. Si prega di ricontrollare le impostazioni del provider e se sembrano OK, contattare il provider IPTV.</string>
-    <string name="menu_error_provider_no_archive_title">Archivi non supportati</string>
-    <string name="menu_error_provider_no_archive_text">Il fornitore selezionato non supporta gli archivi. Sono disponibili solo flussi live. Passa alle impostazioni per cambiare fornitore o vai al live streaming.</string>
-    <string name="menu_error_provider_no_archive_button">Vai al live streaming</string>
 
 
     <string name="browse_description_series_number">episodio</string>
@@ -52,7 +45,6 @@
     <string name="player_warn_turn_off">Si spegne</string>
     <string name="player_press_to_cancel">Premere OK per annullare</string>
     <string name="player_touch_to_cancel">Touch screen per annullare</string>
-    <string name="player_state_no_media">Stream non selezionato</string>
     <string name="player_state_no_media_ended">Stream non selezionato (terminato)</string>
     <string name="player_state_buffering">buffering</string>
 
@@ -121,17 +113,12 @@
     <string name="settings_provider_select_error_playlist">la playlist sembra non valida o non contiene canali supportati</string>
     <string name="settings_provider_select_error_live">non contiene canali live supportati. Controlla nome utente / chiave / password / url.</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMI scollegato: auto-spegnimento del video</string>
-
-    <string name="archive_auto_seek_title">Cerca l\'ultima posizione memorizzata di questo video?</string>
     <string name="archive_auto_seek_no">No, guarda dall\'inizio</string>
-    <string name="archive_auto_seek_yes">Sì, cerca di</string>
     <string name="future_show_sheet_add_wl_title">Ricordami di passare al canale</string>
     <string name="future_show_sheet_search_title">Cerca negli archivi</string>
     <string name="future_show_sheet_search_none">Questo video non è stato trovato negli archivi del tuo fornitore</string>
     <string name="notify_live_sheet_title">Un video che hai contrassegnato per guardare più tardi ora è online</string>
     <string name="notify_live_sheet_text">Passa per visualizzare il video</string>
-    <string name="vod_root_title_provider">Mediateca di</string>
     <string name="feature_requires_premium">Questa funzione richiede un premio</string>
     <string name="feature_requires_restart">È necessario il riavvio dell\'app</string>
     <string name="no_teleguide">Nessun teleguide EPG</string>
@@ -149,7 +136,6 @@
     <string name="settings_provider">Provider</string>
     <string name="settings_media_library">Libreria multimediale</string>
     <string name="settings_media_library_dnla">Scansiona le fonti UPnP / DNLA nella rete locale</string>
-    <string name="settings_media_library_prov_vod">Il catalogo multimediale del provider di scansione, se esistente</string>
 
     <string name="settings_player">Giocatore</string>
     <string name="settings_player_hide_ui">Nascondi sovrapposizione dell\'interfaccia utente in riproduzione in</string>
@@ -200,10 +186,6 @@
     <string name="settings_ui_screen_margins">Margini dello schermo</string>
     <string name="settings_ui_language">Lingua (se non impostata, utilizza l\'impostazione predefinita)</string>
 
-    <string name="settings_disable_provider_categories">Non obbedire alle categorie di provider per i canali</string>
-
-    <string name="settings_devices_no_hdmi">Non monitorare le modifiche allo stato HDMI</string>
-
     <string name="settings_codec">Impostazioni dei codec</string>
     <string name="settings_codec_hard">Usa sempre i codec hardware</string>
     <string name="settings_codec_soft_vlc">Utilizzare sempre i codec VLC software</string>
@@ -243,16 +225,13 @@
     <string name="cfg_play_deny_buffer">Non mostrare lo stato di buffering</string>
     <string name="copied_clipboard">Copiato negli appunti</string>
     <string name="cfg_play_action_menu">apri il menu</string>
-    <string name="cfg_play_action_another">apri un\'altra selezione di stream</string>
     <string name="cfg_play_action_timetable">orario aperto</string>
     <string name="cfg_play_action_prev">passa al canale precedente</string>
     <string name="cfg_play_action_next">passa al canale successivo</string>
-    <string name="cfg_play_action_params">aprire i parametri di riproduzione</string>
     <string name="cfg_play_action_last">passa all\'ultimo canale riprodotto</string>
     <string name="cfg_play_action_title">Imposta il telecomando</string>
     <string name="cfg_play_action_btn_archive_as_live">Usa la stessa impostazione mentre guardi gli archivi (disabiliterai la ricerca usando i pulsanti sinistro e destro)</string>
     <string name="cfg_trans_wind">Usa l\'interfaccia trasparente</string>
-    <string name="cfg_list_poster_time">Mostra durata del poster (secondi, se disponibili)</string>
 
     <string name="do_not_show">non mostrare</string>
     <string name="android_not_genuine">Gli acquisti potrebbero non funzionare sul tuo dispositivo.</string>
@@ -272,12 +251,10 @@
     <string name="provider_generic">Provider o playlist generici</string>
     <string name="watched">Visti:</string>
     <string name="btn_search">Ricerca</string>
-    <string name="hint_vod_cache">La libreria multimediale memorizza i dati per diversi giorni. Se hai bisogno di nuovi dati per apparire più velocemente, cancella la cache dalle impostazioni e riavvia l\'app.</string>
     <string name="premium_fea_6">Invia stream a un display wireless</string>
     <string name="wifi_display">Display wireless</string>
     <string name="wifi_display_desc">Riproduci lo streaming su un altro dispositivo</string>
 
-    <string name="cfg_play_action_fav">apri la selezione dei canali preferiti</string>
     <string name="cfg_play_action_pp">mettere in pausa o riprendere la riproduzione</string>
     <string name="cfg_play_action_btn_red">Azione per il pulsante rosso</string>
     <string name="cfg_play_action_btn_green">Azione per il pulsante verde</string>
@@ -301,7 +278,6 @@
     <string name="cfg_ign_last_codec">non ricordo l\'ultimo codec usato per riprodurre un canale</string>
     <string name="btn_schedule_epg">pianificare il ricaricamento dell\'EPG</string>
     <string name="err_archive_is_shorter">L\'archivio per questo canale ha una durata inferiore sul tuo provider</string>
-    <string name="cfg_no_seek">Emula la ricerca riaprendo il flusso da una nuova posizione ogni volta</string>
     <string name="cfg_section_backup">Backup e ripristino</string>
     <string name="btn_backup_info">Il backup è segnato da una chiave. Annotarlo non appena il backup è completo. Non è garantito per quanto tempo il backup sarà disponibile.</string>
     <string name="btn_backup_data">Backup configurazione attuale</string>
@@ -356,7 +332,6 @@
     <string name="cfg_section_desc">Descrizione dell\'articolo</string>
     <string name="cfg_section_lists">Elenca le impostazioni</string>
 
-    <string name="cfg_switch_dummy_on">Passa alla modalità impostazioni semplificate</string>
     <string name="cfg_no_hints">Non mostrare suggerimenti</string>
     <string name="setting_list_view_auto">tabella (icone grandi, adattarsi allo schermo)</string>
     <string name="child_mode_unlock_cfg">Inserisci il codice figlio per sbloccare le impostazioni</string>
@@ -365,8 +340,6 @@
     <string name="cfg_play_deny_status">Non mostrare lo stato del flusso</string>
     <string name="cfg_player_hud">Stile dell\'interfaccia heads-up</string>
     <string name="cfg_player_hud_1">Sopra e sotto</string>
-    <string name="cfg_player_hud_2">Combinato in fondo</string>
-    <string name="cfg_player_hud_3">Combinato in cima</string>
     <string name="cfg_player_hide_menu">Timeout per nascondere il menu (in secondi)</string>
     <string name="choose_auto">Scegli automaticamente</string>
     <string name="cfg_stream_tech">Tecnologia streaming (se disponibile)</string>
@@ -406,7 +379,6 @@
     <string name="menu_qs_provider_all">Tutti i fornitori attivi</string>
     <string name="menu_tv_guide_cfg">Mostra il pulsante Guida TV</string>
     <string name="cfg_video_preview_sound">Abilita l\'audio nell\'anteprima video nella descrizione</string>
-    <string name="btn_schedule_upnp_vod_load">Ricarica la libreria multimediale UPnP</string>
     <string name="provider_generic_middleware">Server middleware generico</string>
     <string name="provider_generic_list">Elenco dei fornitori</string>
     <string name="provider_generic_list_desc">Modelli comuni nelle vicinanze (lingua e regione)</string>
@@ -429,7 +401,6 @@
     <string name="cfg_epg_update_frequency">Frequenza di aggiornamento (in ore)</string>
     <string name="cfg_vod_merge">Unisci la libreria multimediale da diverse fonti in un unico elenco (richiede il caricamento)</string>
     <string name="ch_manage_rename">Rinominare</string>
-    <string name="name_already_taken">Il nome è già stato preso</string>
     <string name="pla_timeshift_from_current">Inizia dal momento attuale</string>
     <string name="cfg_play_action_timeshift_start">serie TV aperta da inizio</string>
     <string name="cfg_play_action_timeshift_now">programma TV aperto archiviato dall\'ora corrente</string>
@@ -470,7 +441,6 @@
     <string name="player_menu_manage_epg">Gestisci spettacoli televisivi</string>
     <string name="help_faq">Domande frequenti</string>
     <string name="pla_menu_item_visibility">Visibilità pulsanti menu</string>
-    <string name="pla_menu_item_visibility_desc">nascondere inutile</string>
     <string name="pla_menu_type">Menu stile visivo</string>
     <string name="pla_menu_type_list">elenco</string>
     <string name="pla_menu_type_grid">griglia</string>
@@ -545,7 +515,6 @@
     <string name="media_tracks_sub">Sottotitoli</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">Scorrimento automatico fino all\'ultimo elemento (in modalità touch)</string>
     <string name="hint_right_archives">È possibile premere il pulsante DESTRA durante la navigazione dei canali live per aprire l\'elenco degli archivi</string>
-    <string name="cfg_atv_home_always_reset_favorites">Reimposta sempre l\'elenco dei preferiti nella schermata principale</string>
     <string name="switch_audio_hw">Usa decodificatore audio hardware</string>
     <string name="switch_audio_sw">Utilizzare il decodificatore audio del software</string>
     <string name="afr_mode_scale">la risoluzione dello schermo dovrebbe essere modificata</string>
@@ -555,4 +524,114 @@
     <string name="ch_man_map_to_logo">Seleziona il logo del canale</string>
     <string name="cfg_tvguide_large_preview">Mostra una descrizione più grande con l\'anteprima</string>
     <string name="cfg_time_shift_from_utc">Differenza rispetto all\'ora del sistema</string>
+    <string name="internal_value">valore interno</string>
+    <string name="displayed_value">valore visualizzato</string>
+    <string name="cfg_play_action_ch_list">apri l\'elenco dei canali</string>
+    <string name="cfg_enable_resolution_fix">Abilita correzione risoluzione</string>
+    <string name="minutes">minuti</string>
+    <string name="cfg_ban_bad_channels_qs">Rimuovere i canali interrotti dall\'interruttore rapido</string>
+    <string name="loading_data">Caricamento dati</string>
+    <string name="cfg_list_ch_no_country">Rimuovi il Paese dal nome del canale</string>
+    <string name="cfg_network">Rete</string>
+    <string name="select_sort_order">Seleziona il tipo di ordinamento</string>
+    <string name="sort_order_abc">Alfabetico</string>
+    <string name="sort_order_cba">Alfabetico (invertito)</string>
+    <string name="sort_order_uploaded">data di caricamento</string>
+    <string name="cfg_video_effect">Effetto video</string>
+    <string name="cfg_video_effect_grain">Grana della pellicola</string>
+    <string name="cfg_logo_prefer">Fonte preferita di icone del canale</string>
+    <string name="cfg_logo_from_provider">Icona del provider</string>
+    <string name="cfg_logo_from_file">Icona dalla directory locale</string>
+    <string name="cfg_logo_from_epg">Icona da EPG</string>
+    <string name="cfg_pla_act_ui_brightness">Cambia la luminosità dello schermo (tocco)</string>
+    <string name="cfg_pla_act_ui_volume">Cambia volume audio (tocco)</string>
+    <string name="swipe_vertical">colpo verticale</string>
+    <string name="swipe_horizontal">colpo orizzontale</string>
+    <string name="cfg_max_epg_load_back">Numero massimo di giorni per caricare l\'EPG nella cronologia</string>
+    <string name="expiration">Scadenza</string>
+    <string name="trial_account">Conto di prova</string>
+    <string name="premium_google_account">Tutti gli acquisti si applicano a tutti i dispositivi che condividono lo stesso account.</string>
+    <string name="player_live_recent_archive">Riprendi la riproduzione del video archiviato recentemente riprodotto?</string>
+    <string name="player_live_recent_archive_archive">Riprendi la riproduzione</string>
+    <string name="player_live_recent_archive_live">Trasmissione in diretta</string>
+    <string name="pos_on_left">sul lato sinistro</string>
+    <string name="pos_on_right">dal lato giusto</string>
+    <string name="cfg_list_pos_on_screen">Elenca la posizione sullo schermo</string>
+    <string name="cfg_list_size_on_screen">Elenca le dimensioni sullo schermo</string>
+    <string name="cfg_list_desc_allow">Consenti la descrizione da mostrare negli elenchi</string>
+    <string name="cfg_ext_app_on_home">Mostra applicazione esterna sulla schermata principale</string>
+    <string name="player_select_screen_main">Schermo principale</string>
+    <string name="never">mai</string>
+    <string name="by_default">per impostazione predefinita</string>
+    <string name="sleep_timer">Sveglia</string>
+<string name="err_need_provider">È richiesto il provider IPTV</string>
+    <string name="err_need_provider_text">Devi configurare il tuo provider IPTV. Apri le impostazioni e aggiungi il tuo provider (o una playlist).</string>
+    <string name="unlock_premium">Sblocca premium</string>
+    <string name="about_app">Informazioni sull\'app</string>
+    <string name="contact_dev">Contatta lo sviluppatore</string>
+    <string name="with_stats">Consenti l\'invio di statistiche anonime per migliorare l\'app</string>
+    <string name="last_epg_load_ok">Ultime informazioni di caricamento EPG riuscite</string>
+    <string name="mass_add_chls_to_this_cat">Aggiungi canali a questa categoria</string>
+    <string name="minutes_ago_10">10 minuti fa</string>
+    <string name="time_warp">Distorsione del tempo</string>
+    <string name="show_dir_sep_from_videos">Mostra le directory separatamente dai video</string>
+    <string name="epg_warn_search_by_name_custom">Le fonti generiche vengono cercate solo in base ai nomi dei canali. Se hai creato una fonte appositamente per il tuo provider, configuralo nelle proprietà del provider.</string>
+    <string name="show_archive_playback_marker">Mostra un marker se stai attualmente riproducendo video registrati</string>
+    <string name="user_vod_sources">Fonti della libreria multimediale fornite dall\'utente</string>
+    <string name="append_user_source">Aggiungi la fonte fornita dall\'utente</string>
+    <string name="black_screen_on_ch_switch">Mostra schermo nero mentre si cambia canale</string>
+    <string name="clear_custom_ch_order">Ripristina l\'ordine dei canali originale</string>
+    <string name="channels_processed">Canali elaborati</string>
+    <string name="atv_split_to_different_channels">Dividi più tipi di contenuto in diverse righe</string>
+    <string name="number_already_taken">Questo numero è già occupato</string>
+    <string name="fold_duplicate_channels">Piega i canali duplicati su un singolo elemento</string>
+    <string name="select_another_media_source">Passa a un\'altra fonte multimediale</string>
+    <string name="user_epg_sources">Fonti EPG fornite dall\'utente</string>
+    <string name="reload_data">Ricarica dati</string>
+    <string name="assume_long_buffering_as_error">Supponiamo che il buffering lungo sia un errore del canale</string>
+    <string name="show_installation_number">Mostra il numero di installazione</string>
+    <string name="sort_archive_by_date">Ordina i video archiviati per data</string>
+    <string name="simplified_mode">Modalità semplificata</string>
+    <string name="hide_advanced_features">Nascondi funzionalità avanzate</string>
+    <string name="select_player_to_use">Seleziona il lettore da utilizzare per la riproduzione</string>
+    <string name="auto_unfold_current_element_info">Apri automaticamente le informazioni sugli elementi attualmente selezionati</string>
+    <string name="error_occurred">Errore</string>
+    <string name="applies_to_provider_loded">Si applica al provider che viene caricato</string>
+    <string name="applies_to_final_ch_list">Si applica all\'elenco finale dei canali</string>
+    <string name="vod_folder_series">serie TV</string>
+    <string name="vod_folder_movies">Film</string>
+    <string name="show_hidden_content">Mostra contenuti nascosti</string>
+    <string name="rewind_speed">Velocità di riavvolgimento</string>
+    <string name="disable_provider_epg">Disabilitare le origini EPG del provider, utilizzando solo le informazioni fornite dall\'utente</string>
+    <string name="allow_bad_ssl">Consenti certificati SSL non validi</string>
+    <string name="auto_start_next_episode">Avvia automaticamente il prossimo episodio</string>
+    <string name="unique_devices">dispositivi unici</string>
+    <string name="sign_in">registrati</string>
+    <string name="register">Registrati</string>
+    <string name="not_logged_in">Accesso non effettuato</string>
+    <string name="sign_in_to_activate">Accedi per attivare</string>
+    <string name="user_account_for_premium">Account utente per la gestione delle funzionalità premium</string>
+    <string name="logout">Disconnettersi</string>
+    <string name="pro_sub_expired">Il tuo abbonamento è scaduto</string>
+    <string name="days">giorni</string>
+    <string name="price">Prezzo</string>
+    <string name="do_not_offer_any_more">Non offrirlo più</string>
+    <string name="cfg_offer_to_seek_to_last_pos">Offri di cercare l\'ultima posizione visualizzata</string>
+    <string name="best_offer">Migliore offerta</string>
+    <string name="popular_offer">Offerta popolare</string>
+    <string name="favorites_go_top">Gli elementi dell\'elenco preferiti devono essere elencati per primi</string>
+    <string name="action_lock_screen">blocca i controlli dello schermo</string>
+    <string name="screen_is_locked">Il controllo dello schermo è bloccato</string>
+    <string name="prev_category">Categoria precedente</string>
+    <string name="change_category_type">Cambia tipo di categoria</string>
+    <string name="scroll_speed_for_desc">Velocità di scorrimento per una descrizione lunga</string>
+    <string name="select_value_to_start_from">Seleziona il valore da cui iniziare</string>
+    <string name="enabled_modules">Moduli abilitati</string>
+    <string name="replace_provider_order_abc">Sostituisci l\'ordine dei canali del provider in ordine alfabetico</string>
+    <string name="nothing_to_backup">Nessun dato per il backup!</string>
+    <string name="qr_code_desc">Puoi scansionare il codice usando l\'app della fotocamera sul tuo telefono. Oppure, poiché il codice è stato copiato negli appunti, puoi semplicemente incollarlo in un\'altra app.</string>
+    <string name="next_page">Pagina successiva</string>
+    <string name="user_exp_level">Livello di esperienza dell\'utente</string>
+    <string name="user_exp_mode_normal">Modalità normale</string>
+    <string name="user_exp_mode_expert">Modalità esperto</string>
     </resources>

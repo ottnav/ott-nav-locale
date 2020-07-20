@@ -8,16 +8,9 @@
     <string name="menu_live">Kênh trực tiếp</string>
     <string name="menu_archive">Lưu trữ chương trình</string>
     <string name="menu_settings">Cài đặt</string>
-    <string name="menu_error_require_provider_title">Cần có nhà cung cấp OTT</string>
-    <string name="menu_error_require_provider_text">Khu vực này chỉ khả dụng khi nhà cung cấp OTT được cấu hình. Chọn tùy chọn khác hoặc định cấu hình nhà cung cấp.</string>
     <string name="menu_error_require_provider_button">Cấu hình nhà cung cấp</string>
-    <string name="menu_error_require_status_title">Dữ liệu đang được lập chỉ mục</string>
-    <string name="menu_error_require_status_text">Thông tin cho phần này vẫn chưa có sẵn. Quá trình có thể mất đến vài phút. Hãy chọn một phần khác hoặc chờ một lúc.</string>
     <string name="menu_error_require_live_but_no_playlist_title">Không thể tải danh sách phát với các kênh</string>
     <string name="menu_error_require_live_but_no_playlist_text">Nhà cung cấp được cấu hình hoặc danh sách phát không thể truy cập được. Vui lòng kiểm tra lại cài đặt của nhà cung cấp và nếu mọi thứ có vẻ ổn, hãy liên hệ với nhà cung cấp IPTV của bạn.</string>
-    <string name="menu_error_provider_no_archive_title">Các bản lưu trữ không được hỗ trợ</string>
-    <string name="menu_error_provider_no_archive_text">Nhà cung cấp được chọn không hỗ trợ lưu trữ. Chỉ có các kênh trực tiếp có sẵn. Di chuyển đến cài đặt để thay đổi nhà cung cấp hoặc đi đến kênh trực tiếp.</string>
-    <string name="menu_error_provider_no_archive_button">Đi đến kênh trực tiếp</string>
 
     <string name="browse_description_series_number">tập</string>
     <string name="browse_description_header_live">Kênh trực tiếp</string>
@@ -48,7 +41,6 @@
     <string name="player_warn_turn_off">Sẽ tắt</string>
     <string name="player_press_to_cancel">Bấm OK để huỷ</string>
     <string name="player_touch_to_cancel">Chạm vào màn hình để huỷ</string>
-    <string name="player_state_no_media">Luồng không được chọn</string>
     <string name="player_state_no_media_ended">Luồng không được chọn (đã kết thúc)</string>
     <string name="player_state_buffering">Đang tải bộ nhớ đệm</string>
 
@@ -116,17 +108,12 @@
     <string name="settings_provider_select_error_playlist">danh sách phát có vẻ không hợp lệ hoặc không chứa các kênh được hỗ trợ</string>
     <string name="settings_provider_select_error_live">không chứa các kênh trực tiếp được hỗ trợ. Hãy kiểm tra tên người dùng/khóa /mật khẩu/url.</string>
 
-    <string name="auto_turn_off_since_hdmi_off">Rút dây HDMI: tự động tắt video</string>
-
-    <string name="archive_auto_seek_title">Tua đến vị trí ghi nhớ cuối cùng của video này?</string>
     <string name="archive_auto_seek_no">Không, hãy xem từ đầu</string>
-    <string name="archive_auto_seek_yes">Có, tua đến</string>
     <string name="future_show_sheet_add_wl_title">Nhắc tôi chuyển kênh</string>
     <string name="future_show_sheet_search_title">Tìm kiếm trong các bản lưu trữ</string>
     <string name="future_show_sheet_search_none">Không thể tìm thấy video này trong kho lưu trữ của nhà cung cấp của bạn</string>
     <string name="notify_live_sheet_title">Một video bạn đã đánh dấu để xem sau này hiện đang trực tuyến</string>
     <string name="notify_live_sheet_text">Chuyển đến video</string>
-    <string name="vod_root_title_provider">Thư viện phương tiện của</string>
     <string name="feature_requires_premium">Tính năng này yêu cầu bản cao cấp</string>
     <string name="feature_requires_restart">Yêu cầu khởi động lại ứng dụng</string>
     <string name="no_teleguide">Không có lịch phát sóng</string>
@@ -144,7 +131,6 @@
     <string name="settings_provider">Nhà cung cấp</string>
     <string name="settings_media_library">Thư viện phương tiện</string>
     <string name="settings_media_library_dnla">Quét nguồn UPnP/DLNA trong mạng nôị bộ</string>
-    <string name="settings_media_library_prov_vod">Quét thư viện phương tiện của nhà cung cấp nếu có</string>
 
     <string name="settings_player">Trình phát</string>
     <string name="settings_player_hide_ui">Ẩn giao diện người dùng khi phát lại sau</string>
@@ -195,10 +181,6 @@
     <string name="settings_ui_screen_margins">Lề màn hình</string>
     <string name="settings_ui_language">Ngôn ngữ (nếu không chọn, sử dụng mặc định)</string>
 
-    <string name="settings_disable_provider_categories">Không tuân theo nhóm thể loại của nhà cung cấp cho các kênh</string>
-
-    <string name="settings_devices_no_hdmi">Không theo dõi các thay đổi trạng thái HDMI</string>
-
     <string name="settings_codec">Cài đặt bộ giải mã</string>
     <string name="settings_codec_hard">Luôn sử dụng bộ giải mã phần cứng</string>
     <string name="settings_codec_soft_vlc">Luôn sử dụng bộ giải mã phần mềm VLC</string>
@@ -237,16 +219,13 @@
     <string name="cfg_play_deny_buffer">Không hiển thị trạng thái tải bộ đệm</string>
     <string name="copied_clipboard">Đã sao chép vào khay nhớ tạm</string>
     <string name="cfg_play_action_menu">mở menu</string>
-    <string name="cfg_play_action_another">mở danh sách lựa chọn luồng khác</string>
     <string name="cfg_play_action_timetable">mở thời gian biểu</string>
     <string name="cfg_play_action_prev">chuyển đến kênh trước</string>
     <string name="cfg_play_action_next">chuyển đến kênh tiếp theo</string>
-    <string name="cfg_play_action_params">mở các thông số phát lại</string>
     <string name="cfg_play_action_last">chuyển kênh được mở cuối cùng</string>
     <string name="cfg_play_action_title">Thiết lập điều khiển từ xa</string>
     <string name="cfg_play_action_btn_archive_as_live">Sử dụng cùng một thiết lập trong khi xem các bản lưu trữ (sẽ vô hiệu hóa tua bằng nút trái và phải)</string>
     <string name="cfg_trans_wind">Sử dụng giao diện trong suốt</string>
-    <string name="cfg_list_poster_time">Hiển thị thời lượng (giây, nếu có)</string>
 
     <string name="do_not_show">không hiển thị</string>
     <string name="android_not_genuine">Chức năng Thanh toán có thể không hoạt động trên thiết bị của bạn.</string>
@@ -266,12 +245,10 @@
     <string name="provider_generic">Nhà cung cấp chung hoặc danh sách phát</string>
     <string name="watched">Đã xem:</string>
     <string name="btn_search">Tìm kiếm</string>
-    <string name="hint_vod_cache">Thư viện phương tiện lưu trữ dữ liệu trong vài ngày. Nếu bạn cần dữ liệu mới xuất hiện nhanh hơn, hãy xóa bộ nhớ cache trong cài đặt và khởi động lại ứng dụng.</string>
     <string name="premium_fea_6">Phát luồng trên thiết bị hiển thị không dây</string>
     <string name="wifi_display">Hiển thị không dây</string>
     <string name="wifi_display_desc">Phát luồng trên một thiết bị khác</string>
 
-    <string name="cfg_play_action_fav">mở danh mục kênh yêu thích</string>
     <string name="cfg_play_action_pp">tạm dừng hoặc tiếp tục phát</string>
     <string name="cfg_play_action_btn_red">Hành động cho nút Đỏ</string>
     <string name="cfg_play_action_btn_green">Hành động cho nút Xanh lá</string>
@@ -295,7 +272,6 @@
     <string name="cfg_ign_last_codec">không nhớ bộ giải mã cuối được sử dụng để phát kênh</string>
     <string name="btn_schedule_epg">lên lịch tải lại EPG</string>
     <string name="err_archive_is_shorter">Lưu trữ cho kênh này có tuổi thọ ngắn hơn trên nhà cung cấp của bạn</string>
-    <string name="cfg_no_seek">tìm kiếm bằng cách mở lại luồng từ vị trí mới mỗi lần</string>
     <string name="cfg_section_backup">Sao lưu và khôi phịc</string>
     <string name="btn_backup_info">Bản sao lưu được lưu trữ bởi một mã khóa. Hãy ghi nó lại ngay khi sao lưu xong. Không có gì đảm bảo thời gian sao lưu sẽ có sẵn trong bao lâu.</string>
     <string name="btn_backup_data">Sao lưu cấu hình hiện tại</string>
@@ -350,7 +326,6 @@
     <string name="cfg_section_desc">Mô tả mục</string>
     <string name="cfg_section_lists">Thiết lập danh sách</string>
 
-    <string name="cfg_switch_dummy_on">Chuyển sang chế độ cài đặt đơn giản hóa</string>
     <string name="cfg_no_hints">Không hiển thị các gợi ý</string>
     <string name="setting_list_view_auto">bảng (biểu tượng lớn, vừa màn hình)</string>
     <string name="child_mode_unlock_cfg">Nhập mã khoá chế độ trẻ em đề mở khoá cài đặt</string>
@@ -359,8 +334,6 @@
     <string name="cfg_play_deny_status">Không hiển thị trạng thái luồng</string>
     <string name="cfg_player_hud">Phong cách giao diện nổi</string>
     <string name="cfg_player_hud_1">Trên cùng và dưới cùng</string>
-    <string name="cfg_player_hud_2">Kết hợp ở dưới cùng</string>
-    <string name="cfg_player_hud_3">Kết hợp ở trên cùng</string>
     <string name="cfg_player_hide_menu">Thời gian ẩn menu (giây)</string>
     <string name="choose_auto">Tự động chọn</string>
     <string name="cfg_stream_tech">Giao thức luồng (nếu khả dụng)</string>
@@ -400,7 +373,6 @@
     <string name="menu_qs_provider_all">Tất cả nhà cung cấp đang hoạt động</string>
     <string name="menu_tv_guide_cfg">Hiển thị nút Hướng dẫn TV (TV Guide)</string>
     <string name="cfg_video_preview_sound">Bật âm thanh của video xem trước trong phần mô tả</string>
-    <string name="btn_schedule_upnp_vod_load">Tải lại thư viện truyền thông UPnP</string>
     <string name="provider_generic_middleware">Máy chủ trung gian chung</string>
     <string name="provider_generic_list">Danh sách nhà cung cấp</string>
     <string name="provider_generic_list_desc">Các mẫu phổ biến gần đây (ngôn ngữ và khu vực)</string>
@@ -423,7 +395,6 @@
     <string name="cfg_epg_update_frequency">Tần suất cập nhật (theo giờ)</string>
     <string name="cfg_vod_merge">Hợp nhất thư viện phương tiện từ các nguồn khác nhau trong một danh sách (yêu cầu tải lại)</string>
     <string name="ch_manage_rename">Đổi tên</string>
-    <string name="name_already_taken">Tên đã được đặt</string>
     <string name="pla_timeshift_from_current">Bắt đầu từ thời điểm hiện tại</string>
     <string name="cfg_play_action_timeshift_start">mở CT truyền hình được lưu trữ từ đầu</string>
     <string name="cfg_play_action_timeshift_now">mở CT truyền hình được lưu trữ từ thời gian hiện tại</string>
@@ -464,7 +435,6 @@
     <string name="player_menu_manage_epg">Quản lý chương trình TV</string>
     <string name="help_faq">Câu hỏi thường gặp</string>
     <string name="pla_menu_item_visibility">Hiển thị các nút menu</string>
-    <string name="pla_menu_item_visibility_desc">ẩn những mục không dùng</string>
     <string name="pla_menu_type">Phong cách menu</string>
     <string name="pla_menu_type_list">danh sách</string>
     <string name="pla_menu_type_grid">lưới</string>
@@ -539,7 +509,6 @@
     <string name="media_tracks_sub">Phụ đề</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">Tự động cuộn đến mục cuối cùng (ở chế độ cảm ứng)</string>
     <string name="hint_right_archives">Bạn có thể nhấn nút PHẢI trong khi duyệt các kênh trực tiếp để mở danh sách lưu trữ</string>
-    <string name="cfg_atv_home_always_reset_favorites">Luôn đặt lại danh sách yêu thích trên màn hình chính</string>
     <string name="switch_audio_hw">Sử dụng bộ giải mã âm thanh phần cứng</string>
     <string name="switch_audio_sw">Sử dụng phần mềm giải mã âm thanh</string>
     <string name="afr_mode_scale">độ phân giải màn hình nên được thay đổi</string>
@@ -549,4 +518,114 @@
     <string name="ch_man_map_to_logo">Chọn logo kênh</string>
     <string name="cfg_tvguide_large_preview">Hiển thị mô tả lớn hơn với bản xem trước</string>
     <string name="cfg_time_shift_from_utc">Sự khác biệt so với thời gian hệ thống</string>
+    <string name="internal_value">giá trị nội bộ</string>
+    <string name="displayed_value">giá trị hiển thị</string>
+    <string name="cfg_play_action_ch_list">mở danh sách kênh</string>
+    <string name="cfg_enable_resolution_fix">Cho phép sửa độ phân giải</string>
+    <string name="minutes">phút</string>
+    <string name="cfg_ban_bad_channels_qs">Loại bỏ các kênh bị hỏng khỏi chuyển đổi nhanh</string>
+    <string name="loading_data">Đang tải dữ liệu</string>
+    <string name="cfg_list_ch_no_country">Xóa quốc gia khỏi tên kênh</string>
+    <string name="cfg_network">Mạng</string>
+    <string name="select_sort_order">Chọn thứ tự sắp xếp</string>
+    <string name="sort_order_abc">Bảng chữ cái</string>
+    <string name="sort_order_cba">Bảng chữ cái (đảo ngược)</string>
+    <string name="sort_order_uploaded">Ngày tải lên</string>
+    <string name="cfg_video_effect">Hiệu ứng video</string>
+    <string name="cfg_video_effect_grain">Hạt phim</string>
+    <string name="cfg_logo_prefer">Nguồn ưa thích của các biểu tượng kênh</string>
+    <string name="cfg_logo_from_provider">Biểu tượng từ nhà cung cấp</string>
+    <string name="cfg_logo_from_file">Biểu tượng từ thư mục địa phương</string>
+    <string name="cfg_logo_from_epg">Biểu tượng từ EPG</string>
+    <string name="cfg_pla_act_ui_brightness">Thay đổi độ sáng màn hình (cảm ứng)</string>
+    <string name="cfg_pla_act_ui_volume">Thay đổi âm lượng âm thanh (cảm ứng)</string>
+    <string name="swipe_vertical">vuốt dọc</string>
+    <string name="swipe_horizontal">vuốt ngang</string>
+    <string name="cfg_max_epg_load_back">Số ngày tối đa để tải EPG trong lịch sử</string>
+    <string name="expiration">Hết hạn</string>
+    <string name="trial_account">Tài khoản dùng thử</string>
+    <string name="premium_google_account">Tất cả các giao dịch mua áp dụng cho tất cả các thiết bị chia sẻ cùng một tài khoản.</string>
+    <string name="player_live_recent_archive">Tiếp tục phát lại video lưu trữ được phát gần đây?</string>
+    <string name="player_live_recent_archive_archive">Tiếp tục phát lại</string>
+    <string name="player_live_recent_archive_live">Phát trực tiếp</string>
+    <string name="pos_on_left">ở bên trái</string>
+    <string name="pos_on_right">phía bên phải</string>
+    <string name="cfg_list_pos_on_screen">Liệt kê vị trí trên màn hình</string>
+    <string name="cfg_list_size_on_screen">Danh sách kích thước trên màn hình</string>
+    <string name="cfg_list_desc_allow">Cho phép mô tả được hiển thị trên danh sách</string>
+    <string name="cfg_ext_app_on_home">Hiển thị ứng dụng bên ngoài trên màn hình chính</string>
+    <string name="player_select_screen_main">Màn hình chính</string>
+    <string name="never">không bao giờ</string>
+    <string name="by_default">theo mặc định</string>
+    <string name="sleep_timer">Hẹn giờ ngủ</string>
+<string name="err_need_provider">Nhà cung cấp IPTV là bắt buộc</string>
+    <string name="err_need_provider_text">Bạn cần cấu hình nhà cung cấp IPTV của bạn. Mở cài đặt và thêm nhà cung cấp của bạn (hoặc danh sách phát).</string>
+    <string name="unlock_premium">Mở khóa cao cấp</string>
+    <string name="about_app">Về ứng dụng</string>
+    <string name="contact_dev">Liên hệ với nhà phát triển</string>
+    <string name="with_stats">Cho phép gửi số liệu thống kê ẩn danh để cải thiện ứng dụng</string>
+    <string name="last_epg_load_ok">Thông tin tải EPG thành công cuối cùng</string>
+    <string name="mass_add_chls_to_this_cat">Thêm kênh vào danh mục này</string>
+    <string name="minutes_ago_10">10 phút trước</string>
+    <string name="time_warp">Thời gian chênh vênh</string>
+    <string name="show_dir_sep_from_videos">Hiển thị các thư mục riêng biệt với video</string>
+    <string name="epg_warn_search_by_name_custom">Nguồn chung chỉ được tìm kiếm theo tên kênh. Nếu bạn có nguồn được tạo đặc biệt cho nhà cung cấp của mình, thì hãy định cấu hình nó trong thuộc tính của nhà cung cấp.</string>
+    <string name="show_archive_playback_marker">Hiển thị điểm đánh dấu nếu hiện đang phát video đã ghi</string>
+    <string name="user_vod_sources">Nguồn thư viện phương tiện do người dùng cung cấp</string>
+    <string name="append_user_source">Nối nguồn do người dùng cung cấp</string>
+    <string name="black_screen_on_ch_switch">Hiển thị màn hình đen trong khi chuyển kênh</string>
+    <string name="clear_custom_ch_order">Khôi phục thứ tự kênh gốc</string>
+    <string name="channels_processed">Kênh được xử lý</string>
+    <string name="atv_split_to_different_channels">Chia nhiều loại nội dung thành các hàng khác nhau</string>
+    <string name="number_already_taken">Số này đã bị chiếm dụng</string>
+    <string name="fold_duplicate_channels">Gấp các kênh trùng lặp thành một yếu tố</string>
+    <string name="select_another_media_source">Chuyển sang nguồn phương tiện khác</string>
+    <string name="user_epg_sources">Nguồn EPG do người dùng cung cấp</string>
+    <string name="reload_data">Tải lại dữ liệu</string>
+    <string name="assume_long_buffering_as_error">Giả sử bộ đệm dài là lỗi kênh</string>
+    <string name="show_installation_number">Hiển thị số cài đặt</string>
+    <string name="sort_archive_by_date">Sắp xếp video lưu trữ theo ngày</string>
+    <string name="simplified_mode">Chế độ đơn giản hóa</string>
+    <string name="hide_advanced_features">Ẩn các tính năng nâng cao</string>
+    <string name="select_player_to_use">Chọn trình phát để sử dụng để phát lại</string>
+    <string name="auto_unfold_current_element_info">Tự động mở ra thông tin phần tử hiện được chọn</string>
+    <string name="error_occurred">Xảy ra lỗi</string>
+    <string name="applies_to_provider_loded">Áp dụng cho nhà cung cấp đang được tải</string>
+    <string name="applies_to_final_ch_list">Áp dụng cho danh sách cuối cùng của các kênh</string>
+    <string name="vod_folder_series">truyền hình nhiều tập</string>
+    <string name="vod_folder_movies">Phim</string>
+    <string name="show_hidden_content">Hiển thị nội dung ẩn</string>
+    <string name="rewind_speed">Tua lại tốc độ</string>
+    <string name="disable_provider_epg">Vô hiệu hóa nguồn EPG của nhà cung cấp, chỉ sử dụng do người dùng cung cấp</string>
+    <string name="allow_bad_ssl">Cho phép chứng chỉ SSL không hợp lệ</string>
+    <string name="auto_start_next_episode">Tự động bắt đầu tập tiếp theo</string>
+    <string name="unique_devices">thiết bị độc đáo</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="not_logged_in">Chưa đăng nhập</string>
+    <string name="sign_in_to_activate">Đăng nhập để kích hoạt</string>
+    <string name="user_account_for_premium">Tài khoản người dùng để quản lý các tính năng cao cấp</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="pro_sub_expired">Đăng ký của bạn đã hết hạn</string>
+    <string name="days">ngày</string>
+    <string name="price">Giá bán</string>
+    <string name="do_not_offer_any_more">Đừng cung cấp cái này nữa</string>
+    <string name="cfg_offer_to_seek_to_last_pos">Đề nghị tìm đến vị trí xem cuối cùng</string>
+    <string name="best_offer">Phục vụ tốt nhất</string>
+    <string name="popular_offer">Ưu đãi phổ biến</string>
+    <string name="favorites_go_top">Danh sách yêu thích nên được liệt kê đầu tiên</string>
+    <string name="action_lock_screen">điều khiển màn hình khối</string>
+    <string name="screen_is_locked">Kiểm soát màn hình bị chặn</string>
+    <string name="prev_category">Thể loại trước</string>
+    <string name="change_category_type">Thay đổi loại danh mục</string>
+    <string name="scroll_speed_for_desc">Tốc độ cuộn cho mô tả dài</string>
+    <string name="select_value_to_start_from">Chọn giá trị để bắt đầu từ</string>
+    <string name="enabled_modules">Các mô-đun kích hoạt</string>
+    <string name="replace_provider_order_abc">Thay thế thứ tự kênh nhà cung cấp để đặt hàng theo bảng chữ cái</string>
+    <string name="nothing_to_backup">Không có dữ liệu để sao lưu!</string>
+    <string name="qr_code_desc">Bạn có thể quét mã bằng ứng dụng camera trên điện thoại. Hoặc, vì mã đã được sao chép vào clipboard, bạn chỉ có thể dán nó vào một ứng dụng khác.</string>
+    <string name="next_page">Trang tiếp theo</string>
+    <string name="user_exp_level">Cấp độ trải nghiệm người dùng</string>
+    <string name="user_exp_mode_normal">Chế độ bình thường</string>
+    <string name="user_exp_mode_expert">Chế độ chuyên gia</string>
     </resources>

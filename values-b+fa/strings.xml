@@ -9,16 +9,9 @@
     <string name="menu_live">پخش زنده</string>
     <string name="menu_archive">آرشیو نشان می دهد</string>
     <string name="menu_settings">تنظیمات</string>
-    <string name="menu_error_require_provider_title">ارائه دهنده OTT مورد نیاز است</string>
-    <string name="menu_error_require_provider_text">این ناحیه تنها در زمانی که پیکربندی OTT پیکربندی شده است، در دسترس است. هر گزینه دیگری را انتخاب کنید یا یک ارائه دهنده را پیکربندی کنید.</string>
     <string name="menu_error_require_provider_button">پیکربندی ارائه دهنده</string>
-    <string name="menu_error_require_status_title">داده ها نشان داده می شوند</string>
-    <string name="menu_error_require_status_text">اطلاعات برای این بخش هنوز در دسترس نیست این روند می تواند چندین دقیقه طول بکشد. بخش دیگری را انتخاب کنید یا کمی صبر کنید.</string>
     <string name="menu_error_require_live_but_no_playlist_title">لیست پخش با کانالها بارگیری نشد</string>
     <string name="menu_error_require_live_but_no_playlist_text">ارائه دهنده پیکربندی شده یا لیست پخش قابل دسترسی نیست لطفا تنظیمات ارائه دهنده را دوباره بررسی کنید و اگر به نظر می رسد درست است، با ارائه دهنده IPTV خود تماس بگیرید.</string>
-    <string name="menu_error_provider_no_archive_title">بایگانی پشتیبانی نمی شود</string>
-    <string name="menu_error_provider_no_archive_text">ارائه دهنده انتخاب شده بایگانی را پشتیبانی نمی کند. فقط جریانهای زنده در دسترس هستند به تنظیمات بروید تا یک ارائه دهنده تغییر دهید یا به جریان مستقیم بروید.</string>
-    <string name="menu_error_provider_no_archive_button">به جریان زندگی بروید</string>
 
 
     <string name="browse_description_series_number">قسمت</string>
@@ -52,7 +45,6 @@
     <string name="player_warn_turn_off">خاموش خواهد شد</string>
     <string name="player_press_to_cancel">OK را فشار دهید تا لغو شود</string>
     <string name="player_touch_to_cancel">صفحه نمایش لمسی برای لغو</string>
-    <string name="player_state_no_media">جریان انتخاب نشده است</string>
     <string name="player_state_no_media_ended">جریان انتخاب نشده (پایان یافته)</string>
     <string name="player_state_buffering">بافر</string>
 
@@ -121,17 +113,12 @@
     <string name="settings_provider_select_error_playlist">لیست پخش نامعتبر است یا شامل هیچ کانال پشتیبانی نیست</string>
     <string name="settings_provider_select_error_live">شامل هیچ کانال زنده پشتیبانی نمی شود نام کاربری / کلید / رمز عبور / URL را بررسی کنید.</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMI unplugged: خودکار روشن کردن ویدئو</string>
-
-    <string name="archive_auto_seek_title">به آخرین موقعیت به یاد ماندنی این ویدیو بپردازید؟</string>
     <string name="archive_auto_seek_no">نه، از ابتدا تماشا کنید</string>
-    <string name="archive_auto_seek_yes">بله، دنبالش هستم</string>
     <string name="future_show_sheet_add_wl_title">به من یادآوری کنم که به کانال برگردم</string>
     <string name="future_show_sheet_search_title">جستجو در بایگانی</string>
     <string name="future_show_sheet_search_none">این ویدیو در آرشیو ارائه دهندگان شما یافت نشد</string>
     <string name="notify_live_sheet_title">ویدیویی که بعدا تماشا شده است، اکنون آنلاین است</string>
     <string name="notify_live_sheet_text">برای مشاهده ویدیو تماشا کنید</string>
-    <string name="vod_root_title_provider">کتابخانه رسانه ای</string>
     <string name="feature_requires_premium">این ویژگی نیاز به حق بیمه دارد</string>
     <string name="feature_requires_restart">راه اندازی مجدد برنامه لازم است</string>
     <string name="no_teleguide">هیچ EPG teleguide نیست</string>
@@ -149,7 +136,6 @@
     <string name="settings_provider">ارائه دهنده</string>
     <string name="settings_media_library">کتابخانه ی رسانه</string>
     <string name="settings_media_library_dnla">منابع UPnP / DNLA را در شبکه محلی اسکن کنید</string>
-    <string name="settings_media_library_prov_vod">کتابخانه رسانه ای ارائه دهنده اسکن در صورت وجود دارد</string>
 
     <string name="settings_player">بازیکن</string>
     <string name="settings_player_hide_ui">مخفی کردن پوشش UI در پخش در</string>
@@ -200,10 +186,6 @@
     <string name="settings_ui_screen_margins">حاشیه صفحه</string>
     <string name="settings_ui_language">زبان (اگر تنظیم نشده باشد، از پیش فرض استفاده می کند)</string>
 
-    <string name="settings_disable_provider_categories">از دسته های ارائه دهنده کانال ها اطاعت نکنید</string>
-
-    <string name="settings_devices_no_hdmi">تغییرات حالت HDMI را نظارت نکنید</string>
-
     <string name="settings_codec">تنظیمات کدک ها</string>
     <string name="settings_codec_hard">همیشه از کدک های سخت افزاری استفاده کنید</string>
     <string name="settings_codec_soft_vlc">همیشه از کدک های VLC نرم افزار استفاده کنید</string>
@@ -244,16 +226,13 @@
     <string name="cfg_play_deny_buffer">وضعیت بافر را نشان ندهید</string>
     <string name="copied_clipboard">کپی به کلیپ بورد</string>
     <string name="cfg_play_action_menu">منوی باز</string>
-    <string name="cfg_play_action_another">یک انتخاب جریان دیگر را باز کنید</string>
     <string name="cfg_play_action_timetable">جدول زمانی باز</string>
     <string name="cfg_play_action_prev">رفتن به کانال قبلی</string>
     <string name="cfg_play_action_next">به کانال بعدی بروید</string>
-    <string name="cfg_play_action_params">پارامترهای پخش باز</string>
     <string name="cfg_play_action_last">سوئیچ به آخرین کانال پخش شده</string>
     <string name="cfg_play_action_title">راه اندازی کنترل از راه دور</string>
     <string name="cfg_play_action_btn_archive_as_live">هنگام تماشای آرشیوها از همان تنظیمات استفاده کنید (به دنبال استفاده از دکمه های چپ و راست)</string>
     <string name="cfg_trans_wind">از رابط شفاف استفاده کنید</string>
-    <string name="cfg_list_poster_time">نمایش طول اثر پوستر (ثانیه، در صورت موجود بودن)</string>
 
 
     <string name="do_not_show">نشان نده</string>
@@ -274,12 +253,10 @@
     <string name="provider_generic">ارائه دهنده عمومی یا لیست پخش</string>
     <string name="watched">تماشا کرد:</string>
     <string name="btn_search">جستجو کردن</string>
-    <string name="hint_vod_cache">کتابخانه رسانه چندین روزه را ذخیره می کند. اگر به داده های جدید نیاز دارید تا سریعا ظاهر شوند، حافظه پنهان را از تنظیمات پاک کنید و برنامه را مجددا راه اندازی کنید.</string>
     <string name="premium_fea_6">ارسال جریان به صفحه نمایش بی سیم</string>
     <string name="wifi_display">صفحه نمایش بی سیم</string>
     <string name="wifi_display_desc">پخش یک دستگاه دیگر را پخش کنید</string>
 
-    <string name="cfg_play_action_fav">باز انتخاب کانال مورد علاقه</string>
     <string name="cfg_play_action_pp">مکث یا ادامه بازی</string>
     <string name="cfg_play_action_btn_red">اقدام برای دکمه قرمز</string>
     <string name="cfg_play_action_btn_green">اقدام برای دکمه سبز</string>
@@ -303,7 +280,6 @@
     <string name="cfg_ign_last_codec">آخر کدک مورد استفاده برای پخش یک کانال را به یاد نمی آورید</string>
     <string name="btn_schedule_epg">برنامه بازپرداخت EPG</string>
     <string name="err_archive_is_shorter">بایگانی برای این کانال طول عمر کوتاهتری را در ارائه دهنده شما دارد</string>
-    <string name="cfg_no_seek">تقلید از طریق باز کردن جریان از موقعیت جدید هر بار</string>
     <string name="cfg_section_backup">پشتیبان گیری و بازیابی</string>
     <string name="btn_backup_info">پشتیبان گیری با کلید یک طبقه است. به محض تکمیل پشتیبان، آن را بنویسید. هیچ تضمینی وجود ندارد که چه مدت پشتیبان در دسترس باشد.</string>
     <string name="btn_backup_data">پیکربندی فعلی پشتیبان گیری</string>
@@ -358,7 +334,6 @@
     <string name="cfg_section_desc">توضیحات مورد</string>
     <string name="cfg_section_lists">فهرست تنظیمات</string>
 
-    <string name="cfg_switch_dummy_on">به حالت تنظیمات ساده تغییر دهید</string>
     <string name="cfg_no_hints">نکات را نشان ندهید</string>
     <string name="setting_list_view_auto">جدول (آیکون های بزرگ، متناسب با صفحه نمایش)</string>
     <string name="child_mode_unlock_cfg">کد کودک را برای باز کردن تنظیمات وارد کنید</string>
@@ -367,8 +342,6 @@
     <string name="cfg_play_deny_status">وضعیت جریان را نشان ندهید</string>
     <string name="cfg_player_hud">سبک رابط سرپایی</string>
     <string name="cfg_player_hud_1">بالا و پایین</string>
-    <string name="cfg_player_hud_2">در پایین ترکیب شده است</string>
-    <string name="cfg_player_hud_3">ترکیب بالا</string>
     <string name="cfg_player_hide_menu">زمان برای مخفی کردن منو (در ثانیه)</string>
     <string name="choose_auto">به صورت خودکار انتخاب کنید</string>
     <string name="cfg_stream_tech">تکنولوژی جریان (در صورت وجود)</string>
@@ -408,7 +381,6 @@
     <string name="menu_qs_provider_all">همه ارائه دهندگان فعال</string>
     <string name="menu_tv_guide_cfg">نمایش دکمه راهنمای تلویزیون</string>
     <string name="cfg_video_preview_sound">فعال کردن صدا در پیش نمایش ویدیو در توضیحات</string>
-    <string name="btn_schedule_upnp_vod_load">کتابخانه رسانه UPnP را بارگیری کنید</string>
     <string name="provider_generic_middleware">عمومی سرور middleware</string>
     <string name="provider_generic_list">فهرست ارائه دهندگان</string>
     <string name="provider_generic_list_desc">الگوهای مشترک در این نزدیکی (زبان و منطقه)</string>
@@ -431,7 +403,6 @@
     <string name="cfg_epg_update_frequency">به روز رسانی فرکانس (در ساعت)</string>
     <string name="cfg_vod_merge">ادغام کتابخانه های رسانه ای از منابع مختلف در یک لیست (نیاز به بارگزاری مجدد)</string>
     <string name="ch_manage_rename">تغییر نام دهید</string>
-    <string name="name_already_taken">نام قبلا گرفته شده است</string>
     <string name="pla_timeshift_from_current">از لحظه ای شروع کن</string>
     <string name="cfg_play_action_timeshift_start">بازکردن تلویزیون آرشیو شده از ابتدا</string>
     <string name="cfg_play_action_timeshift_now">نمایش تلویزیون آرشیو شده را از زمان فعلی باز کنید</string>
@@ -472,7 +443,6 @@
     <string name="player_menu_manage_epg">مدیریت تلویزیون نمایش</string>
     <string name="help_faq">سوالات متداول</string>
     <string name="pla_menu_item_visibility">قابلیت مشاهده دکمه های منو</string>
-    <string name="pla_menu_item_visibility_desc">پنهان کردن بی فایده است</string>
     <string name="pla_menu_type">سبک بصری منو</string>
     <string name="pla_menu_type_list">فهرست</string>
     <string name="pla_menu_type_grid">توری</string>
@@ -547,7 +517,6 @@
     <string name="media_tracks_sub">زیرنویس ها</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">پیمایش خودکار به مورد آخر (در حالت لمسی)</string>
     <string name="hint_right_archives">می توانید دکمه RIGHT را هنگام مرور کانالهای زنده فشار دهید تا لیست بایگانی ها باز شود</string>
-    <string name="cfg_atv_home_always_reset_favorites">همیشه لیست موارد دلخواه را در صفحه اصلی بازنشانی کنید</string>
     <string name="switch_audio_hw">از رمزگذار صوتی سخت افزاری استفاده کنید</string>
     <string name="switch_audio_sw">از رمزگذار صوتی نرم افزار استفاده کنید</string>
     <string name="afr_mode_scale">وضوح صفحه باید تغییر کند</string>
@@ -557,4 +526,114 @@
     <string name="ch_man_map_to_logo">آرم کانال را انتخاب کنید</string>
     <string name="cfg_tvguide_large_preview">توضیحات بزرگتر را با پیش نمایش نشان دهید</string>
     <string name="cfg_time_shift_from_utc">تفاوت با زمان سیستم</string>
+    <string name="internal_value">ارزش داخلی</string>
+    <string name="displayed_value">مقدار نمایش داده شده</string>
+    <string name="cfg_play_action_ch_list">لیست کانال های باز</string>
+    <string name="cfg_enable_resolution_fix">رفع وضوح را فعال کنید</string>
+    <string name="minutes">دقایق</string>
+    <string name="cfg_ban_bad_channels_qs">کانال های شکسته را از سوئیچ سریع جدا کنید</string>
+    <string name="loading_data">بارگیری داده ها</string>
+    <string name="cfg_list_ch_no_country">کشور را از نام کانال حذف کنید</string>
+    <string name="cfg_network">شبکه</string>
+    <string name="select_sort_order">ترتیب مرتب سازی را انتخاب کنید</string>
+    <string name="sort_order_abc">الفبایی</string>
+    <string name="sort_order_cba">الفبایی (معکوس)</string>
+    <string name="sort_order_uploaded">تاریخ بارگذاری</string>
+    <string name="cfg_video_effect">جلوه ویدیویی</string>
+    <string name="cfg_video_effect_grain">دانه فیلم</string>
+    <string name="cfg_logo_prefer">منبع ترجیحی آیکون های کانال</string>
+    <string name="cfg_logo_from_provider">نماد ارائه دهنده</string>
+    <string name="cfg_logo_from_file">نماد از فهرست محلی</string>
+    <string name="cfg_logo_from_epg">نماد از EPG</string>
+    <string name="cfg_pla_act_ui_brightness">تغییر روشنایی صفحه (لمس)</string>
+    <string name="cfg_pla_act_ui_volume">تغییر میزان صدا (لمس)</string>
+    <string name="swipe_vertical">کش رفتن عمودی</string>
+    <string name="swipe_horizontal">کش رفتن افقی</string>
+    <string name="cfg_max_epg_load_back">حداکثر تعداد روز برای بارگیری EPG در تاریخ</string>
+    <string name="expiration">انقضاء</string>
+    <string name="trial_account">حساب آزمایشی</string>
+    <string name="premium_google_account">همه خریدها مربوط به همه دستگاههای مشترک با یک حساب مشترک است.</string>
+    <string name="player_live_recent_archive">پخش فیلم ویدیوی بایگانی شده اخیراً از سر گرفته می شود؟</string>
+    <string name="player_live_recent_archive_archive">پخش را از سر بگیرید</string>
+    <string name="player_live_recent_archive_live">پخش زنده</string>
+    <string name="pos_on_left">در سمت چپ</string>
+    <string name="pos_on_right">در سمت راست</string>
+    <string name="cfg_list_pos_on_screen">موقعیت در صفحه نمایش</string>
+    <string name="cfg_list_size_on_screen">اندازه لیست روی صفحه نمایش</string>
+    <string name="cfg_list_desc_allow">اجازه دهید توضیحات در لیست ها نشان داده شود</string>
+    <string name="cfg_ext_app_on_home">نمایش برنامه خارجی در صفحه اصلی</string>
+    <string name="player_select_screen_main">صفحه اصلی</string>
+    <string name="never">هرگز</string>
+    <string name="by_default">به صورت پیش فرض</string>
+    <string name="sleep_timer">تایمر خواب</string>
+<string name="err_need_provider">ارائه دهنده IPTV الزامی است</string>
+    <string name="err_need_provider_text">شما باید ارائه دهنده IPTV خود را پیکربندی کنید. تنظیمات را باز کرده و ارائه دهنده (یا لیست پخش) خود را اضافه کنید.</string>
+    <string name="unlock_premium">حق بیمه را باز کنید</string>
+    <string name="about_app">درباره برنامه</string>
+    <string name="contact_dev">تماس با توسعه دهنده</string>
+    <string name="with_stats">اجازه ارسال آمار ناشناس برای بهبود برنامه</string>
+    <string name="last_epg_load_ok">آخرین اطلاعات بارگیری EPG موفق</string>
+    <string name="mass_add_chls_to_this_cat">کانال ها را به این دسته اضافه کنید</string>
+    <string name="minutes_ago_10">10 دقیقه ی قبل</string>
+    <string name="time_warp">زمان پیچ و تاب</string>
+    <string name="show_dir_sep_from_videos">دایرکتوری ها را به طور جداگانه از فیلم ها نشان دهید</string>
+    <string name="epg_warn_search_by_name_custom">منابع عمومی فقط با نام کانال جستجو می شوند. اگر منبعی را برای ارائه دهنده خود ایجاد کرده اید ، آن را در ویژگی های ارائه دهنده تنظیم کنید.</string>
+    <string name="show_archive_playback_marker">اگر در حال پخش ویدیوی ضبط شده هستید ، نشانگر را نشان دهید</string>
+    <string name="user_vod_sources">منابع کتابخانه رسانه ای ارائه شده توسط کاربر</string>
+    <string name="append_user_source">منبع ارائه شده توسط کاربر را اضافه کنید</string>
+    <string name="black_screen_on_ch_switch">صفحه نمایش سیاه را هنگام تعویض کانال نشان دهید</string>
+    <string name="clear_custom_ch_order">ترتیب اصلی کانال را بازیابی کنید</string>
+    <string name="channels_processed">کانالها پردازش می شوند</string>
+    <string name="atv_split_to_different_channels">چندین نوع محتوا را در ردیف های مختلف تقسیم کنید</string>
+    <string name="number_already_taken">این شماره قبلاً اشغال شده است</string>
+    <string name="fold_duplicate_channels">کانال های کپی شده را تا یک عنصر واحد جمع کنید</string>
+    <string name="select_another_media_source">به منبع رسانه دیگری تغییر دهید</string>
+    <string name="user_epg_sources">منابع EPG ارائه شده توسط کاربر</string>
+    <string name="reload_data">بارگیری مجدد داده ها</string>
+    <string name="assume_long_buffering_as_error">فرض کنید بافر طولانی بودن خطای کانال است</string>
+    <string name="show_installation_number">نمایش شماره نصب</string>
+    <string name="sort_archive_by_date">مرتب کردن فیلم های بایگانی شده بر اساس تاریخ</string>
+    <string name="simplified_mode">حالت ساده شده</string>
+    <string name="hide_advanced_features">ویژگی های پیشرفته را مخفی کنید</string>
+    <string name="select_player_to_use">پخش کننده را انتخاب کنید تا برای پخش استفاده کنید</string>
+    <string name="auto_unfold_current_element_info">به طور خودکار اطلاعات عنصر انتخاب شده در حال حاضر را باز کنید</string>
+    <string name="error_occurred">خطا رخ داده است</string>
+    <string name="applies_to_provider_loded">به بارگیری ارائه دهنده اعمال می شود</string>
+    <string name="applies_to_final_ch_list">در لیست نهایی کانالها اعمال می شود</string>
+    <string name="vod_folder_series">سریال تلویزیونی</string>
+    <string name="vod_folder_movies">فیلم ها</string>
+    <string name="show_hidden_content">نمایش محتوای مخفی</string>
+    <string name="rewind_speed">سرعت عقب</string>
+    <string name="disable_provider_epg">منابع EPG ارائه دهنده را غیرفعال کنید ، فقط با استفاده از کاربر</string>
+    <string name="allow_bad_ssl">اجازه گواهی SSL نامعتبر است</string>
+    <string name="auto_start_next_episode">به طور خودکار قسمت بعدی را شروع کنید</string>
+    <string name="unique_devices">دستگاههای منحصر به فرد</string>
+    <string name="sign_in">ورود</string>
+    <string name="register">ثبت نام</string>
+    <string name="not_logged_in">وارد نشده اید</string>
+    <string name="sign_in_to_activate">برای فعال شدن وارد سیستم شوید</string>
+    <string name="user_account_for_premium">حساب کاربری برای مدیریت ویژگی های حق بیمه</string>
+    <string name="logout">خروج</string>
+    <string name="pro_sub_expired">اشتراک شما منقضی شده است</string>
+    <string name="days">روزها</string>
+    <string name="price">قیمت</string>
+    <string name="do_not_offer_any_more">دیگر این را پیشنهاد نکنید</string>
+    <string name="cfg_offer_to_seek_to_last_pos">پیشنهاد می کنید به دنبال آخرین موقعیت مشاهده شده باشید</string>
+    <string name="best_offer">بهترین پیشنهاد</string>
+    <string name="popular_offer">پیشنهاد محبوب</string>
+    <string name="favorites_go_top">موارد لیست مورد علاقه ابتدا باید لیست شوند</string>
+    <string name="action_lock_screen">کنترل صفحه نمایش بلوک</string>
+    <string name="screen_is_locked">کنترل صفحه نمایش مسدود شده است</string>
+    <string name="prev_category">دسته قبلی</string>
+    <string name="change_category_type">نوع دسته را تغییر دهید</string>
+    <string name="scroll_speed_for_desc">سرعت پیمایش برای توضیحات طولانی</string>
+    <string name="select_value_to_start_from">مقدار را برای شروع انتخاب کنید</string>
+    <string name="enabled_modules">ماژول های فعال شده</string>
+    <string name="replace_provider_order_abc">سفارش کانال ارائه دهنده را به ترتیب با الفبای جایگزین کنید</string>
+    <string name="nothing_to_backup">داده ای برای تهیه نسخه پشتیبان وجود ندارد!</string>
+    <string name="qr_code_desc">می توانید با استفاده از برنامه دوربین روی تلفن ، کد را اسکن کنید. یا از آنجا که کد در کلیپ بورد کپی شده است ، می توانید آن را فقط در برنامه دیگری بچسبانید.</string>
+    <string name="next_page">صفحه بعد</string>
+    <string name="user_exp_level">سطح تجربه کاربر</string>
+    <string name="user_exp_mode_normal">حالت عادی</string>
+    <string name="user_exp_mode_expert">حالت خبره</string>
     </resources>

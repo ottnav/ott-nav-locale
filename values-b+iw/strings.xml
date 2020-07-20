@@ -9,16 +9,9 @@
     <string name="menu_live">שידור חי</string>
     <string name="menu_archive">מציג ארכיון</string>
     <string name="menu_settings">הגדרות</string>
-    <string name="menu_error_require_provider_title">OTT ספק נדרש</string>
-    <string name="menu_error_require_provider_text">אזור זה זמין רק כאשר ספק OTT מוגדר. בחר אפשרות אחרת או הגדר ספק.</string>
     <string name="menu_error_require_provider_button">הגדר ספק</string>
-    <string name="menu_error_require_status_title">הנתונים מוצגים באינדקס</string>
-    <string name="menu_error_require_status_text">עדיין אין מידע עבור קטע זה. התהליך עשוי להימשך עד מספר דקות. בחר קטע אחר או המתן מעט.</string>
     <string name="menu_error_require_live_but_no_playlist_title">רשימת השמעה עם ערוצים נכשלה</string>
     <string name="menu_error_require_live_but_no_playlist_text">לא ניתן להגיע לספק או לפלייליסט שהוגדרו. אנא בדוק שוב את הגדרות ספק אם הם נראים בסדר, פנה לספק ה- IPTV שלך.</string>
-    <string name="menu_error_provider_no_archive_title">הארכיון אינו נתמך</string>
-    <string name="menu_error_provider_no_archive_text">ספק נבחר אינו תומך בארכיונים. רק שידורים חיים זמינים. נווט אל הגדרות כדי לשנות ספק או לעבור לזרם חי.</string>
-    <string name="menu_error_provider_no_archive_button">עבור אל שידור חי</string>
 
 
     <string name="browse_description_series_number">פרק</string>
@@ -52,7 +45,6 @@
     <string name="player_warn_turn_off">יכבה</string>
     <string name="player_press_to_cancel">לחץ על אישור כדי לבטל</string>
     <string name="player_touch_to_cancel">גע במסך כדי לבטל</string>
-    <string name="player_state_no_media">הזרם לא נבחר</string>
     <string name="player_state_no_media_ended">הזרם לא נבחר (הסתיים)</string>
     <string name="player_state_buffering">אגירה</string>
 
@@ -121,17 +113,12 @@
     <string name="settings_provider_select_error_playlist">פלייליסט נראה לא חוקי או שאינו מכיל ערוצים נתמכים</string>
     <string name="settings_provider_select_error_live">לא מכיל ערוצים חיים נתמכים. בדוק שם משתמש / מפתח / סיסמה / כתובת אתר.</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMI מנותק: כיבוי אוטומטי של וידאו</string>
-
-    <string name="archive_auto_seek_title">מחפש את המיקום האחרון שנזכר בסרטון זה?</string>
     <string name="archive_auto_seek_no">לא, תראה מההתחלה</string>
-    <string name="archive_auto_seek_yes">כן, חפשו</string>
     <string name="future_show_sheet_add_wl_title">הזכר לי לעבור לערוץ</string>
     <string name="future_show_sheet_search_title">חיפוש בארכיונים</string>
     <string name="future_show_sheet_search_none">הסרטון הזה לא נמצא בארכיון הספקים שלך</string>
     <string name="notify_live_sheet_title">סרטון שסימנת כדי לצפות בו מאוחר יותר נמצא כעת במצב מקוון</string>
     <string name="notify_live_sheet_text">עבור להצגת הווידאו</string>
-    <string name="vod_root_title_provider">ספריית המדיה של</string>
     <string name="feature_requires_premium">תכונה זו דורשת פרמיה</string>
     <string name="feature_requires_restart">יש צורך בהפעלה מחדש של אפליקציה</string>
     <string name="no_teleguide">אין EPG Teleguide</string>
@@ -149,7 +136,6 @@
     <string name="settings_provider">ספק</string>
     <string name="settings_media_library">ספריית מדיה</string>
     <string name="settings_media_library_dnla">סריקת מקורות UPnP / DNLA ברשת המקומית</string>
-    <string name="settings_media_library_prov_vod">ספריית המדיה של ספק הסריקה אם קיימת</string>
 
     <string name="settings_player">שחקן</string>
     <string name="settings_player_hide_ui">הסתר שכבת ממשק משתמש בהפעלה</string>
@@ -200,10 +186,6 @@
     <string name="settings_ui_screen_margins">שולי מסך</string>
     <string name="settings_ui_language">שפה (אם לא הוגדרה, משתמשת כברירת מחדל)</string>
 
-    <string name="settings_disable_provider_categories">אל תציית לקטגוריות של ספקי ערוצים</string>
-
-    <string name="settings_devices_no_hdmi">אין לפקח על שינויים במצב HDMI</string>
-
     <string name="settings_codec">הגדרות רכיבי Codec</string>
     <string name="settings_codec_hard">השתמש תמיד ב- Codec חומרה</string>
     <string name="settings_codec_soft_vlc">תמיד להשתמש בתוכנות VLC רכיבי codec</string>
@@ -243,16 +225,13 @@
     <string name="cfg_play_deny_buffer">אל תציג מצב חציצה</string>
     <string name="copied_clipboard">הועתק ללוח</string>
     <string name="cfg_play_action_menu">תפריט פתוח</string>
-    <string name="cfg_play_action_another">פתח עוד בחירת זרם</string>
     <string name="cfg_play_action_timetable">לוח זמנים פתוח</string>
     <string name="cfg_play_action_prev">עבור לערוץ הקודם</string>
     <string name="cfg_play_action_next">עבור לערוץ הבא</string>
-    <string name="cfg_play_action_params">פרמטרים השמעה פתוחה</string>
     <string name="cfg_play_action_last">עבור לערוץ האחרון שיחק</string>
     <string name="cfg_play_action_title">הגדרת בקר מרחוק</string>
     <string name="cfg_play_action_btn_archive_as_live">השתמש באותה תוכנית בעת צפייה בארכיונים (יבטל את החיפוש באמצעות לחצנים שמאלה וימינה)</string>
     <string name="cfg_trans_wind">השתמש בממשק שקוף</string>
-    <string name="cfg_list_poster_time">הצג משך כרזה (שניות, אם זמין)</string>
 
     <string name="do_not_show">אל תראה</string>
     <string name="android_not_genuine">ייתכן שהרכישות לא יפעלו במכשיר שלך.</string>
@@ -272,12 +251,10 @@
     <string name="provider_generic">ספק כללי או רשימת השמעה</string>
     <string name="watched">נצפה:</string>
     <string name="btn_search">לחפש</string>
-    <string name="hint_vod_cache">ספריית המדיה שומרת את נתוני המטמון במשך מספר ימים. אם אתה צריך נתונים חדשים כדי להופיע מהר יותר, מטמון ברור מההגדרות מחדש את היישום.</string>
     <string name="premium_fea_6">שלח זרם לתצוגה אלחוטית</string>
     <string name="wifi_display">תצוגה אלחוטית</string>
     <string name="wifi_display_desc">הפעל זרם במכשיר אחר</string>
 
-    <string name="cfg_play_action_fav">לפתוח ערוץ המועדפים הבחירה - -</string>
     <string name="cfg_play_action_pp">להשהות או לחדש את ההפעלה</string>
     <string name="cfg_play_action_btn_red">פעולה עבור כפתור אדום</string>
     <string name="cfg_play_action_btn_green">פעולה עבור כפתור ירוק</string>
@@ -301,7 +278,6 @@
     <string name="cfg_ign_last_codec">לא זוכר קודק האחרון נהג לנגן ערוץ</string>
     <string name="btn_schedule_epg">לוח הזמנים</string>
     <string name="err_archive_is_shorter">בארכיון של ערוץ זה יש חיים קצרים יותר על הספק שלך</string>
-    <string name="cfg_no_seek">לחקות לחפש מחדש על ידי פתיחת זרם ממיקום חדש בכל פעם</string>
     <string name="cfg_section_backup">גיבוי ושחזור</string>
     <string name="btn_backup_info">גיבוי הוא מאוחסן על ידי מפתח. כתוב את זה מיד עם השלמת הגיבוי. אין ערובה כמה זמן הגיבוי יהיה זמין.</string>
     <string name="btn_backup_data">גיבוי תצורה הנוכחית</string>
@@ -356,7 +332,6 @@
     <string name="cfg_section_desc">תיאור פריט</string>
     <string name="cfg_section_lists">מפרט הגדרות</string>
 
-    <string name="cfg_switch_dummy_on">עבור למצב הגדרות פשוטות</string>
     <string name="cfg_no_hints">אל תציג רמזים</string>
     <string name="setting_list_view_auto">טבלה (סמלים גדולים, להתאים את המסך)</string>
     <string name="child_mode_unlock_cfg">הזן קוד צאצא כדי לבטל את הנעילה של ההגדרות</string>
@@ -365,8 +340,6 @@
     <string name="cfg_play_deny_status">אל תציג את סטטוס הזרם</string>
     <string name="cfg_player_hud">סגנון של ממשק ראש</string>
     <string name="cfg_player_hud_1">עליון ותחתון</string>
-    <string name="cfg_player_hud_2">משולב בתחתית</string>
-    <string name="cfg_player_hud_3">משולב למעלה</string>
     <string name="cfg_player_hide_menu">פסק זמן להסתרת התפריט (בשניות)</string>
     <string name="choose_auto">בחר באופן אוטומטי</string>
     <string name="cfg_stream_tech">טכנולוגיית זרם (אם זמינה)</string>
@@ -406,7 +379,6 @@
     <string name="menu_qs_provider_all">כל הספקים הפעילים</string>
     <string name="menu_tv_guide_cfg">הצג לחצן מדריך טלוויזיה</string>
     <string name="cfg_video_preview_sound">הפעל צליל בתצוגה המקדימה של הסרטון בתיאור</string>
-    <string name="btn_schedule_upnp_vod_load">טען מחדש את ספריית המדיה UPnP</string>
     <string name="provider_generic_middleware">שרת תווכה גנרי</string>
     <string name="provider_generic_list">רשימת ספקים</string>
     <string name="provider_generic_list_desc">תבניות נפוצות בקרבת מקום (שפה ואזור)</string>
@@ -429,7 +401,6 @@
     <string name="cfg_epg_update_frequency">תדירות העדכון (בשעות)</string>
     <string name="cfg_vod_merge">מיזוג ספריית מדיה ממקורות שונים ברשימה אחת (דורש טעינה מחדש)</string>
     <string name="ch_manage_rename">שנה שם</string>
-    <string name="name_already_taken">השם כבר בשימוש</string>
     <string name="pla_timeshift_from_current">התחל מהרגע הנוכחי</string>
     <string name="cfg_play_action_timeshift_start">לפתוח ארכיון טלוויזיה להראות מההתחלה</string>
     <string name="cfg_play_action_timeshift_now">לפתוח ארכיון טלוויזיה להראות מהזמן הנוכחי</string>
@@ -470,7 +441,6 @@
     <string name="player_menu_manage_epg">ניהול תוכנית טלוויזיה</string>
     <string name="help_faq">שאלות נפוצות</string>
     <string name="pla_menu_item_visibility">לחצני תפריט</string>
-    <string name="pla_menu_item_visibility_desc">להסתיר חסר תועלת</string>
     <string name="pla_menu_type">תפריט חזותי בסגנון</string>
     <string name="pla_menu_type_list">רשימה</string>
     <string name="pla_menu_type_grid">רשת</string>
@@ -545,7 +515,6 @@
     <string name="media_tracks_sub">כתוביות</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">גלול אוטומטי לפריט האחרון (במצב מגע)</string>
     <string name="hint_right_archives">אתה יכול ללחוץ על כפתור ימינה תוך כדי גלישה בערוצים חיים לפתיחת רשימת הארכיונים</string>
-    <string name="cfg_atv_home_always_reset_favorites">אפס תמיד את רשימת המועדפים במסך הבית</string>
     <string name="switch_audio_hw">השתמש במפענח שמע לחומרה</string>
     <string name="switch_audio_sw">השתמש במפענח שמע לתוכנה</string>
     <string name="afr_mode_scale">יש לשנות את רזולוציית המסך</string>
@@ -555,4 +524,114 @@
     <string name="ch_man_map_to_logo">בחר בלוגו הערוץ</string>
     <string name="cfg_tvguide_large_preview">הצג תיאור גדול יותר בתצוגה מקדימה</string>
     <string name="cfg_time_shift_from_utc">הבדל מזמן המערכת</string>
+    <string name="internal_value">ערך פנימי</string>
+    <string name="displayed_value">ערך מוצג</string>
+    <string name="cfg_play_action_ch_list">רשימת ערוצים פתוחה</string>
+    <string name="cfg_enable_resolution_fix">אפשר תיקון רזולוציה</string>
+    <string name="minutes">דקות</string>
+    <string name="cfg_ban_bad_channels_qs">הסר את הערוצים השבורים מהמתג המהיר</string>
+    <string name="loading_data">טוען נתונים</string>
+    <string name="cfg_list_ch_no_country">הסר את המדינה משם הערוץ</string>
+    <string name="cfg_network">רשת</string>
+    <string name="select_sort_order">בחר סדר מיון</string>
+    <string name="sort_order_abc">אלפביתי</string>
+    <string name="sort_order_cba">אלפביתי (הפוך)</string>
+    <string name="sort_order_uploaded">תאריך העלאה</string>
+    <string name="cfg_video_effect">אפקט וידאו</string>
+    <string name="cfg_video_effect_grain">גרגר סרטים</string>
+    <string name="cfg_logo_prefer">מקור מועדף של סמלי הערוץ</string>
+    <string name="cfg_logo_from_provider">אייקון מהספק</string>
+    <string name="cfg_logo_from_file">אייקון מהספרייה המקומית</string>
+    <string name="cfg_logo_from_epg">אייקון מ- EPG</string>
+    <string name="cfg_pla_act_ui_brightness">שנה את בהירות המסך (מגע)</string>
+    <string name="cfg_pla_act_ui_volume">שינוי עוצמת שמע (מגע)</string>
+    <string name="swipe_vertical">החלק אנכי</string>
+    <string name="swipe_horizontal">החלק אופקי</string>
+    <string name="cfg_max_epg_load_back">המספר המרבי של הימים לטעינת ה- EPG בהיסטוריה</string>
+    <string name="expiration">תפוגה</string>
+    <string name="trial_account">חשבון ניסיון</string>
+    <string name="premium_google_account">כל הרכישות חלות על כל המכשירים החולקים אותו חשבון.</string>
+    <string name="player_live_recent_archive">להמשיך את ההפעלה של וידיאו שהועבר לאחרונה בארכיון?</string>
+    <string name="player_live_recent_archive_archive">המשך את ההפעלה</string>
+    <string name="player_live_recent_archive_live">שידור חי</string>
+    <string name="pos_on_left">בצד השמאלי</string>
+    <string name="pos_on_right">בצד ימין</string>
+    <string name="cfg_list_pos_on_screen">מציג מיקום על המסך</string>
+    <string name="cfg_list_size_on_screen">רשימות בגודל על המסך</string>
+    <string name="cfg_list_desc_allow">אפשר להציג את התיאור ברשימות</string>
+    <string name="cfg_ext_app_on_home">הצג יישום חיצוני במסך הבית</string>
+    <string name="player_select_screen_main">מסך ראשי</string>
+    <string name="never">לעולם לא</string>
+    <string name="by_default">כברירת מחדל</string>
+    <string name="sleep_timer">טיימר שינה</string>
+<string name="err_need_provider">ספק IPTV נדרש</string>
+    <string name="err_need_provider_text">עליך להגדיר את תצורת ספק ה- IPTV שלך. פתח את ההגדרות והוסף את הספק שלך (או רשימת השמעה).</string>
+    <string name="unlock_premium">ביטול נעילת הפרמיה</string>
+    <string name="about_app">אודות אפליקציה</string>
+    <string name="contact_dev">צור קשר עם המפתח</string>
+    <string name="with_stats">אפשר לשלוח סטטיסטיקות אנונימיות כדי לשפר את האפליקציה</string>
+    <string name="last_epg_load_ok">מידע טעינת EPG אחרון מוצלח</string>
+    <string name="mass_add_chls_to_this_cat">הוסף ערוצים לקטגוריה זו</string>
+    <string name="minutes_ago_10">לפני 10 דקות</string>
+    <string name="time_warp">מנהרת זמן</string>
+    <string name="show_dir_sep_from_videos">הצג ספריות בנפרד מסרטונים</string>
+    <string name="epg_warn_search_by_name_custom">מקורות גנריים מחפשים רק לפי שמות ערוצים. אם יצרת מקור במיוחד עבור הספק שלך, הגדר אותו בתכונות ספק.</string>
+    <string name="show_archive_playback_marker">הצג סמן אם כרגע מנגן וידיאו מוקלט</string>
+    <string name="user_vod_sources">מקורות ספריית מדיה המסופקים על ידי משתמשים</string>
+    <string name="append_user_source">הוסף את המקור שסופק על ידי המשתמש</string>
+    <string name="black_screen_on_ch_switch">הצג מסך שחור בזמן מעבר ערוץ</string>
+    <string name="clear_custom_ch_order">שחזר את סדר הערוצים המקורי</string>
+    <string name="channels_processed">ערוצים מעובדים</string>
+    <string name="atv_split_to_different_channels">פיצול סוגי תוכן מרובים לשורות שונות</string>
+    <string name="number_already_taken">המספר הזה כבר תפוס</string>
+    <string name="fold_duplicate_channels">קפלו ערוצים כפולים לאלמנט יחיד</string>
+    <string name="select_another_media_source">עבור למקור מדיה אחר</string>
+    <string name="user_epg_sources">מקורות EPG המסופקים על ידי משתמשים</string>
+    <string name="reload_data">טען מחדש נתונים</string>
+    <string name="assume_long_buffering_as_error">נניח שחציצה ארוכה היא שגיאת ערוץ</string>
+    <string name="show_installation_number">הצג את מספר ההתקנה</string>
+    <string name="sort_archive_by_date">מיין סרטונים שנשמרו בארכיון לפי תאריך</string>
+    <string name="simplified_mode">מצב מפושט</string>
+    <string name="hide_advanced_features">הסתר תכונות מתקדמות</string>
+    <string name="select_player_to_use">בחר נגן שישמש להפעלה</string>
+    <string name="auto_unfold_current_element_info">פרש אוטומטית את פרטי האלמנטים שנבחרו כעת</string>
+    <string name="error_occurred">אירעה שגיאה</string>
+    <string name="applies_to_provider_loded">חל על טעינת הספק</string>
+    <string name="applies_to_final_ch_list">חל על רשימת הערוצים הסופית</string>
+    <string name="vod_folder_series">סדרת טלוויזיה</string>
+    <string name="vod_folder_movies">סרטים</string>
+    <string name="show_hidden_content">הצג תוכן מוסתר</string>
+    <string name="rewind_speed">חזרה במהירות</string>
+    <string name="disable_provider_epg">השבת את מקורות EPG של הספק, רק באמצעות משתמש שסופק על ידי המשתמש</string>
+    <string name="allow_bad_ssl">אפשר אישורי SSL לא חוקיים</string>
+    <string name="auto_start_next_episode">התחל אוטומטית את הפרק הבא</string>
+    <string name="unique_devices">מכשירים ייחודיים</string>
+    <string name="sign_in">להתחבר</string>
+    <string name="register">הירשם</string>
+    <string name="not_logged_in">לא מחובר</string>
+    <string name="sign_in_to_activate">היכנס להפעלה</string>
+    <string name="user_account_for_premium">חשבון משתמש לניהול תכונות פרימיום</string>
+    <string name="logout">להתנתק</string>
+    <string name="pro_sub_expired">המינוי שלך פג</string>
+    <string name="days">ימים</string>
+    <string name="price">מחיר</string>
+    <string name="do_not_offer_any_more">אל תציעו את זה יותר</string>
+    <string name="cfg_offer_to_seek_to_last_pos">הצע לחפש לתפקיד האחרון שנצפה</string>
+    <string name="best_offer">ההצעה הטובה ביותר</string>
+    <string name="popular_offer">הצעה פופולרית</string>
+    <string name="favorites_go_top">יש לרשום תחילה פריטי רשימה מועדפים</string>
+    <string name="action_lock_screen">לחסום פקדי מסך</string>
+    <string name="screen_is_locked">בקרת המסך חסומה</string>
+    <string name="prev_category">קטגוריה קודמת</string>
+    <string name="change_category_type">שנה את סוג הקטגוריה</string>
+    <string name="scroll_speed_for_desc">מהירות הגלילה לתיאור ארוך</string>
+    <string name="select_value_to_start_from">בחר ערך שאפשר להתחיל ממנו</string>
+    <string name="enabled_modules">מודולים מופעלים</string>
+    <string name="replace_provider_order_abc">החלף את סדר הערוץ של הספק לפי סדר לפי אלף-בית</string>
+    <string name="nothing_to_backup">אין נתונים לגיבוי!</string>
+    <string name="qr_code_desc">אתה יכול לסרוק קוד באמצעות אפליקציית המצלמה בטלפון שלך. לחלופין, מכיוון שהקוד הועתק ללוח, אתה יכול פשוט להדביק אותו באפליקציה אחרת.</string>
+    <string name="next_page">עמוד הבא</string>
+    <string name="user_exp_level">רמת חווית משתמש</string>
+    <string name="user_exp_mode_normal">מצב נורמלי</string>
+    <string name="user_exp_mode_expert">מצב מומחה</string>
     </resources>

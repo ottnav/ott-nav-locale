@@ -9,16 +9,9 @@
     <string name="menu_live">Siaran langsung</string>
     <string name="menu_archive">Menunjukkan arkib</string>
     <string name="menu_settings">Tetapan</string>
-    <string name="menu_error_require_provider_title">Pembekal OTT diperlukan</string>
-    <string name="menu_error_require_provider_text">Daerah ini hanya tersedia apabila pembekal OTT dikonfigurasikan. Sama ada pilih pilihan lain, atau konfigurasi pembekal.</string>
     <string name="menu_error_require_provider_button">Konfigurasikan pembekal</string>
-    <string name="menu_error_require_status_title">Data sedang diindeks</string>
-    <string name="menu_error_require_status_text">Maklumat untuk bahagian ini masih belum tersedia. Proses ini boleh mengambil masa beberapa minit. Pilih bahagian lain atau tunggu sebentar.</string>
     <string name="menu_error_require_live_but_no_playlist_title">Senarai main dengan saluran gagal dimuatkan</string>
     <string name="menu_error_require_live_but_no_playlist_text">Penyedia atau senarai main yang dikonfigurasi tidak dapat dicapai. Sila semak semula tetapan pembekal dan jika mereka nampaknya OK, hubungi pembekal IPTV anda.</string>
-    <string name="menu_error_provider_no_archive_title">Arkib tidak disokong</string>
-    <string name="menu_error_provider_no_archive_text">Pembekal terpilih tidak menyokong arkib. Hanya aliran Live sahaja. Navigasi ke tetapan untuk menukar pembekal atau pergi ke strim langsung.</string>
-    <string name="menu_error_provider_no_archive_button">Pergi ke strim langsung</string>
 
 
     <string name="browse_description_series_number">episod</string>
@@ -52,7 +45,6 @@
     <string name="player_warn_turn_off">Akan dimatikan</string>
     <string name="player_press_to_cancel">Tekan OK untuk membatalkan</string>
     <string name="player_touch_to_cancel">Sentuh skrin untuk membatalkannya</string>
-    <string name="player_state_no_media">Strim tidak dipilih</string>
     <string name="player_state_no_media_ended">Stream tidak dipilih (berakhir)</string>
     <string name="player_state_buffering">Buffering</string>
 
@@ -121,17 +113,12 @@
     <string name="settings_provider_select_error_playlist">senarai main yang tidak sah atau tidak mengandungi saluran yang disokong</string>
     <string name="settings_provider_select_error_live">tidak mengandungi saluran live yang disokong. Semak nama pengguna / kunci / kata laluan / url.</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMI dicabut: video auto-matikan</string>
-
-    <string name="archive_auto_seek_title">Dapatkan kedudukan teringat terakhir video ini?</string>
     <string name="archive_auto_seek_no">Tidak, menonton dari awal</string>
-    <string name="archive_auto_seek_yes">Ya, cari</string>
     <string name="future_show_sheet_add_wl_title">Ingatkan saya untuk beralih ke saluran</string>
     <string name="future_show_sheet_search_title">Cari dalam arkib</string>
     <string name="future_show_sheet_search_none">Video ini tidak dijumpai di arkib penyedia anda</string>
     <string name="notify_live_sheet_title">Video yang anda tandakan untuk menonton kemudian kini dalam talian</string>
     <string name="notify_live_sheet_text">Tukar untuk melihat video</string>
-    <string name="vod_root_title_provider">Perpustakaan media dari</string>
     <string name="feature_requires_premium">Ciri ini memerlukan premium</string>
     <string name="feature_requires_restart">Restart aplikasi diperlukan</string>
     <string name="no_teleguide">Tiada teleguide EPG</string>
@@ -149,7 +136,6 @@
     <string name="settings_provider">Pembekal</string>
     <string name="settings_media_library">Perpustakaan media</string>
     <string name="settings_media_library_dnla">Imbas sumber UPnP / DNLA dalam rangkaian tempatan</string>
-    <string name="settings_media_library_prov_vod">Imbas perpustakaan media penyedia jika wujud</string>
 
     <string name="settings_player">Pemain</string>
     <string name="settings_player_hide_ui">Sembunyikan lapisan UI dalam main semula</string>
@@ -200,10 +186,6 @@
     <string name="settings_ui_screen_margins">Margin skrin</string>
     <string name="settings_ui_language">Bahasa (jika tidak ditetapkan, menggunakan lalai)</string>
 
-    <string name="settings_disable_provider_categories">Jangan patuhi kategori penyedia untuk saluran</string>
-
-    <string name="settings_devices_no_hdmi">Jangan memantau perubahan keadaan HDMI</string>
-
     <string name="settings_codec">Tetapan codec</string>
     <string name="settings_codec_hard">Sentiasa gunakan codec perkakasan</string>
     <string name="settings_codec_soft_vlc">Sentiasa gunakan codec VLC perisian</string>
@@ -243,16 +225,13 @@
     <string name="cfg_play_deny_buffer">Jangan tunjukkan status penimbal</string>
     <string name="copied_clipboard">Disalin ke papan keratan</string>
     <string name="cfg_play_action_menu">buka menu</string>
-    <string name="cfg_play_action_another">buka pilihan aliran lain</string>
     <string name="cfg_play_action_timetable">jadual waktu terbuka</string>
     <string name="cfg_play_action_prev">beralih ke saluran sebelumnya</string>
     <string name="cfg_play_action_next">beralih ke saluran seterusnya</string>
-    <string name="cfg_play_action_params">parameter main balik terbuka</string>
     <string name="cfg_play_action_last">beralih ke saluran terakhir yang dimainkan</string>
     <string name="cfg_play_action_title">Persediaan alat kawalan jauh</string>
     <string name="cfg_play_action_btn_archive_as_live">Gunakan persediaan yang sama sambil menonton arkib (akan melumpuhkan mencari menggunakan butang kiri dan kanan)</string>
     <string name="cfg_trans_wind">Gunakan antara muka telus</string>
-    <string name="cfg_list_poster_time">Tunjukkan tempoh poster (saat, jika tersedia)</string>
 
 
     <string name="do_not_show">jangan tunjuk</string>
@@ -273,12 +252,10 @@
     <string name="provider_generic">Pembekal atau senarai main generik</string>
     <string name="watched">Menonton:</string>
     <string name="btn_search">Carian</string>
-    <string name="hint_vod_cache">Perpustakaan media cache data selama beberapa hari. Jika anda memerlukan data baru untuk dipaparkan dengan lebih pantas, cache bersih dari tetapan dan mulakan semula aplikasi.</string>
     <string name="premium_fea_6">Hantar strim ke paparan tanpa wayar</string>
     <string name="wifi_display">Paparan tanpa wayar</string>
     <string name="wifi_display_desc">Main strim pada peranti lain</string>
 
-    <string name="cfg_play_action_fav">pilihan saluran kegemaran terbuka</string>
     <string name="cfg_play_action_pp">jeda atau sambung semula</string>
     <string name="cfg_play_action_btn_red">Tindakan untuk butang Merah</string>
     <string name="cfg_play_action_btn_green">Tindakan untuk butang Hijau</string>
@@ -302,7 +279,6 @@
     <string name="cfg_ign_last_codec">jangan ingat codec terakhir digunakan untuk memainkan saluran</string>
     <string name="btn_schedule_epg">jadual semula EPG</string>
     <string name="err_archive_is_shorter">Arkib untuk saluran ini mempunyai jangka hayat yang lebih pendek pada pembekal anda</string>
-    <string name="cfg_no_seek">Emulate mencari dengan membuka semula aliran dari posisi baru setiap kali</string>
     <string name="cfg_section_backup">Sandaran dan pulihkan</string>
     <string name="btn_backup_info">Cadangan disusun oleh kunci. Tuliskannya sebaik sahaja sandaran selesai. Tidak ada jaminan berapa lama sandaran akan tersedia.</string>
     <string name="btn_backup_data">Menyusun semula konfigurasi semasa</string>
@@ -357,7 +333,6 @@
     <string name="cfg_section_desc">Penerangan item</string>
     <string name="cfg_section_lists">Senarai tetapan</string>
 
-    <string name="cfg_switch_dummy_on">Tukar ke mod tetapan mudah</string>
     <string name="cfg_no_hints">Jangan tunjukkan petunjuk</string>
     <string name="setting_list_view_auto">jadual (ikon besar, muat skrin)</string>
     <string name="child_mode_unlock_cfg">Masukkan kod kanak-kanak untuk membuka kunci tetapan</string>
@@ -366,8 +341,6 @@
     <string name="cfg_play_deny_status">Jangan tunjukkan status aliran</string>
     <string name="cfg_player_hud">Gaya antara muka kepala</string>
     <string name="cfg_player_hud_1">Atas dan bawah</string>
-    <string name="cfg_player_hud_2">Digabungkan di bahagian bawah</string>
-    <string name="cfg_player_hud_3">Digabungkan di atas</string>
     <string name="cfg_player_hide_menu">Waktu untuk menyembunyikan menu (dalam saat)</string>
     <string name="choose_auto">Pilih secara automatik</string>
     <string name="cfg_stream_tech">Teknologi aliran (jika ada)</string>
@@ -407,7 +380,6 @@
     <string name="menu_qs_provider_all">Semua pembekal aktif</string>
     <string name="menu_tv_guide_cfg">Tunjukkan butang Panduan TV</string>
     <string name="cfg_video_preview_sound">Dayakan bunyi dalam pratonton video dalam keterangan</string>
-    <string name="btn_schedule_upnp_vod_load">Muat semula pustaka media UPnP</string>
     <string name="provider_generic_middleware">Pelayan middleware Generik</string>
     <string name="provider_generic_list">Senarai pembekal</string>
     <string name="provider_generic_list_desc">Templat biasa berdekatan (bahasa dan wilayah)</string>
@@ -430,7 +402,6 @@
     <string name="cfg_epg_update_frequency">Kekerapan kemas kini (dalam jam)</string>
     <string name="cfg_vod_merge">Gabungkan pustaka media dari pelbagai sumber dalam satu senarai (memerlukan tambah nilai)</string>
     <string name="ch_manage_rename">Namakan semula</string>
-    <string name="name_already_taken">Nama sudah diambil</string>
     <string name="pla_timeshift_from_current">Mulakan dari saat ini</string>
     <string name="cfg_play_action_timeshift_start">buka arkib tv-pertunjukan dari permulaan</string>
     <string name="cfg_play_action_timeshift_now">buka tayangan televisyen yang diarsipkan dari masa sekarang</string>
@@ -471,7 +442,6 @@
     <string name="player_menu_manage_epg">Urus tv-show</string>
     <string name="help_faq">Soalan yang kerap ditanya</string>
     <string name="pla_menu_item_visibility">Penglihatan butang menu</string>
-    <string name="pla_menu_item_visibility_desc">sembunyikan tidak berguna</string>
     <string name="pla_menu_type">Gaya visual menu</string>
     <string name="pla_menu_type_list">senarai</string>
     <string name="pla_menu_type_grid">grid</string>
@@ -546,7 +516,6 @@
     <string name="media_tracks_sub">Sarikata</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">Tatal auto ke item terakhir (dalam mod sentuh)</string>
     <string name="hint_right_archives">Anda boleh menekan butang KANAN semasa menyemak imbas saluran secara langsung untuk membuka senarai arkib</string>
-    <string name="cfg_atv_home_always_reset_favorites">Selesaikan semula senarai kegemaran pada skrin utama</string>
     <string name="switch_audio_hw">Gunakan penyahkod audio perkakasan</string>
     <string name="switch_audio_sw">Gunakan perisian decoder audio</string>
     <string name="afr_mode_scale">resolusi skrin harus diubah</string>
@@ -556,4 +525,114 @@
     <string name="ch_man_map_to_logo">Pilih logo saluran</string>
     <string name="cfg_tvguide_large_preview">Tunjukkan penerangan yang lebih besar dengan pratonton</string>
     <string name="cfg_time_shift_from_utc">Perbezaan dari masa sistem</string>
+    <string name="internal_value">nilai dalaman</string>
+    <string name="displayed_value">nilai yang dipaparkan</string>
+    <string name="cfg_play_action_ch_list">senarai saluran terbuka</string>
+    <string name="cfg_enable_resolution_fix">Dayakan penyelesaian resolusi</string>
+    <string name="minutes">minit</string>
+    <string name="cfg_ban_bad_channels_qs">Alih keluar saluran yang patah dari suis cepat</string>
+    <string name="loading_data">Memuatkan data</string>
+    <string name="cfg_list_ch_no_country">Alih keluar negara dari nama saluran</string>
+    <string name="cfg_network">Rangkaian</string>
+    <string name="select_sort_order">Pilih urutan jenis</string>
+    <string name="sort_order_abc">Abjad</string>
+    <string name="sort_order_cba">Abjad (dibalikkan)</string>
+    <string name="sort_order_uploaded">tarikh muat-naik</string>
+    <string name="cfg_video_effect">Kesan video</string>
+    <string name="cfg_video_effect_grain">Gandum filem</string>
+    <string name="cfg_logo_prefer">Sumber saluran ikon pilihan</string>
+    <string name="cfg_logo_from_provider">Ikon dari penyedia</string>
+    <string name="cfg_logo_from_file">Ikon dari direktori setempat</string>
+    <string name="cfg_logo_from_epg">Ikon dari EPG</string>
+    <string name="cfg_pla_act_ui_brightness">Tukar kecerahan skrin (sentuhan)</string>
+    <string name="cfg_pla_act_ui_volume">Tukar kelantangan audio (sentuh)</string>
+    <string name="swipe_vertical">sapu menegak</string>
+    <string name="swipe_horizontal">leretan mendatar</string>
+    <string name="cfg_max_epg_load_back">Jumlah maksimum hari untuk memuatkan EPG dalam sejarah</string>
+    <string name="expiration">Tamat</string>
+    <string name="trial_account">Akaun Percubaan</string>
+    <string name="premium_google_account">Semua pembelian terpakai untuk semua peranti yang berkongsi akaun yang sama.</string>
+    <string name="player_live_recent_archive">Sambung semula main balik video yang diarsipkan baru-baru ini?</string>
+    <string name="player_live_recent_archive_archive">Teruskan main semula</string>
+    <string name="player_live_recent_archive_live">Siaran langsung</string>
+    <string name="pos_on_left">di sebelah kiri</string>
+    <string name="pos_on_right">di sebelah kanan</string>
+    <string name="cfg_list_pos_on_screen">Senarai kedudukan di skrin</string>
+    <string name="cfg_list_size_on_screen">Senarai saiz pada skrin</string>
+    <string name="cfg_list_desc_allow">Benarkan penerangan yang akan ditunjukkan pada senarai</string>
+    <string name="cfg_ext_app_on_home">Tunjukkan aplikasi luaran pada skrin utama</string>
+    <string name="player_select_screen_main">Skrin utama</string>
+    <string name="never">tidak pernah</string>
+    <string name="by_default">secara lalai</string>
+    <string name="sleep_timer">Pemasa tidur</string>
+<string name="err_need_provider">Pembekal IPTV diperlukan</string>
+    <string name="err_need_provider_text">Anda perlu mengkonfigurasi pembekal IPTV anda. Buka tetapan dan tambah pembekal anda (atau senarai main).</string>
+    <string name="unlock_premium">Buka kunci premium</string>
+    <string name="about_app">Mengenai aplikasi</string>
+    <string name="contact_dev">Hubungi pembangun</string>
+    <string name="with_stats">Benarkan menghantar statistik tanpa nama untuk meningkatkan aplikasinya</string>
+    <string name="last_epg_load_ok">Maklumat memuatkan EPG yang terakhir</string>
+    <string name="mass_add_chls_to_this_cat">Tambah saluran ke kategori ini</string>
+    <string name="minutes_ago_10">10 minit yang lalu</string>
+    <string name="time_warp">Masa meledingkan</string>
+    <string name="show_dir_sep_from_videos">Tunjukkan direktori secara berasingan daripada video</string>
+    <string name="epg_warn_search_by_name_custom">Sumber generik hanya dicari oleh nama saluran. Sekiranya anda mempunyai sumber yang dibuat khas untuk pembekal anda, kemudian konfigurasikannya dalam harta penyedia.</string>
+    <string name="show_archive_playback_marker">Tunjukkan penanda jika sedang bermain video yang dirakam</string>
+    <string name="user_vod_sources">Sumber-sumber perpustakaan media yang disediakan oleh pengguna</string>
+    <string name="append_user_source">Tambah sumber yang disediakan oleh pengguna</string>
+    <string name="black_screen_on_ch_switch">Paparkan skrin hitam semasa menukar saluran</string>
+    <string name="clear_custom_ch_order">Simpan semula urutan saluran asal</string>
+    <string name="channels_processed">Saluran diproses</string>
+    <string name="atv_split_to_different_channels">Berbagi pelbagai jenis kandungan ke baris yang berbeza</string>
+    <string name="number_already_taken">Nombor ini sudah diduduki</string>
+    <string name="fold_duplicate_channels">Lipat saluran duplikat ke satu elemen</string>
+    <string name="select_another_media_source">Beralih ke sumber media lain</string>
+    <string name="user_epg_sources">Sumber-sumber EPG yang disediakan oleh pengguna</string>
+    <string name="reload_data">Muat semula data</string>
+    <string name="assume_long_buffering_as_error">Anggapkan penimbalan panjang menjadi ralat saluran</string>
+    <string name="show_installation_number">Tunjukkan nombor pemasangan</string>
+    <string name="sort_archive_by_date">Isih video yang diarkib mengikut tarikh</string>
+    <string name="simplified_mode">Mod mudah</string>
+    <string name="hide_advanced_features">Sembunyikan ciri lanjutan</string>
+    <string name="select_player_to_use">Pilih pemain untuk digunakan untuk main balik</string>
+    <string name="auto_unfold_current_element_info">Maklumat elemen yang dipilih secara automatik secara terbuka</string>
+    <string name="error_occurred">Ralat berlaku</string>
+    <string name="applies_to_provider_loded">Terpakai kepada penyedia yang dimuatkan</string>
+    <string name="applies_to_final_ch_list">Terpakai untuk senarai akhir saluran</string>
+    <string name="vod_folder_series">Siri TV</string>
+    <string name="vod_folder_movies">Wayang</string>
+    <string name="show_hidden_content">Tunjukkan kandungan tersembunyi</string>
+    <string name="rewind_speed">Kelajuan semula</string>
+    <string name="disable_provider_epg">Lumpuhkan pembekal sumber EPG, hanya menggunakan pengguna yang disediakan</string>
+    <string name="allow_bad_ssl">Benarkan sijil SSL yang tidak sah</string>
+    <string name="auto_start_next_episode">Secara automatik memulakan episod seterusnya</string>
+    <string name="unique_devices">peranti unik</string>
+    <string name="sign_in">Log masuk</string>
+    <string name="register">Daftar</string>
+    <string name="not_logged_in">Tidak log masuk</string>
+    <string name="sign_in_to_activate">Log masuk untuk mengaktifkan</string>
+    <string name="user_account_for_premium">Akaun pengguna untuk menguruskan ciri premium</string>
+    <string name="logout">Log keluar</string>
+    <string name="pro_sub_expired">Langganan anda telah tamat tempoh</string>
+    <string name="days">hari-hari</string>
+    <string name="price">Harga</string>
+    <string name="do_not_offer_any_more">Jangan tawarkan ini lagi</string>
+    <string name="cfg_offer_to_seek_to_last_pos">Tawaran untuk mencari ke kedudukan terakhir dilihat</string>
+    <string name="best_offer">Tawaran terbaik</string>
+    <string name="popular_offer">Tawaran popular</string>
+    <string name="favorites_go_top">Item senarai kegemaran mesti disenaraikan terlebih dahulu</string>
+    <string name="action_lock_screen">kawalan skrin blok</string>
+    <string name="screen_is_locked">Kawalan skrin disekat</string>
+    <string name="prev_category">Kategori sebelumnya</string>
+    <string name="change_category_type">Tukar jenis kategori</string>
+    <string name="scroll_speed_for_desc">Kelajuan menatal untuk penerangan panjang</string>
+    <string name="select_value_to_start_from">Pilih nilai untuk bermula</string>
+    <string name="enabled_modules">Modul yang diaktifkan</string>
+    <string name="replace_provider_order_abc">Gantikan pesanan saluran penyedia mengikut urutan mengikut abjad</string>
+    <string name="nothing_to_backup">Tiada data untuk disandarkan!</string>
+    <string name="qr_code_desc">Anda boleh mengimbas kod menggunakan aplikasi kamera di telefon anda. Atau, kerana kod tersebut telah disalin ke papan keratan, anda boleh menampalnya di aplikasi lain.</string>
+    <string name="next_page">Muka surat seterusnya</string>
+    <string name="user_exp_level">Tahap pengalaman pengguna</string>
+    <string name="user_exp_mode_normal">Mod biasa</string>
+    <string name="user_exp_mode_expert">Mod pakar</string>
     </resources>

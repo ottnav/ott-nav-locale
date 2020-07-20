@@ -9,16 +9,9 @@
     <string name="menu_live">البث المباشر</string>
     <string name="menu_archive">يظهر أرشيف</string>
     <string name="menu_settings">إعدادات</string>
-    <string name="menu_error_require_provider_title">مطلوب مزود OTT</string>
-    <string name="menu_error_require_provider_text">هذا الحي متاح فقط عندما يتم تكوين مزود OTT. إما تحديد خيار آخر ، أو تكوين مزود.</string>
     <string name="menu_error_require_provider_button">تكوين الموفر</string>
-    <string name="menu_error_require_status_title">يتم فهرسة البيانات</string>
-    <string name="menu_error_require_status_text">المعلومات الخاصة بهذا القسم غير متوفرة حتى الآن. يمكن أن تستغرق العملية عدة دقائق. حدد قسمًا آخر أو انتظر قليلاً.</string>
     <string name="menu_error_require_live_but_no_playlist_title">فشلت قائمة التشغيل مع القنوات في التحميل</string>
     <string name="menu_error_require_live_but_no_playlist_text">لا يمكن الوصول إلى الموفر المكوّن أو قائمة التشغيل. الرجاء إعادة التحقق من إعدادات الموفر وإذا كان يبدو أنه موافق ، اتصل بموفر IPTV الخاص بك.</string>
-    <string name="menu_error_provider_no_archive_title">المحفوظات غير مدعومة</string>
-    <string name="menu_error_provider_no_archive_text">مزود المختار لا يدعم المحفوظات. تتوفر البث المباشر فقط. انتقل إلى الإعدادات لتغيير موفر أو انتقل إلى بث مباشر.</string>
-    <string name="menu_error_provider_no_archive_button">الذهاب إلى البث المباشر</string>
 
 
     <string name="browse_description_series_number">حلقة</string>
@@ -52,7 +45,6 @@
     <string name="player_warn_turn_off">سوف إيقاف</string>
     <string name="player_press_to_cancel">اضغط على "موافق" للإلغاء</string>
     <string name="player_touch_to_cancel">شاشة تعمل باللمس للإلغاء</string>
-    <string name="player_state_no_media">الدفق غير محدد</string>
     <string name="player_state_no_media_ended">الدفق غير محدد (منتهي)</string>
     <string name="player_state_buffering">التخزين المؤقت</string>
 
@@ -122,17 +114,12 @@
     <string name="settings_provider_select_error_playlist">قائمة التشغيل تبدو غير صالحة أو لا تحتوي على قنوات مدعومة</string>
     <string name="settings_provider_select_error_live">لا يحتوي على قنوات حية مدعومة. تحقق من اسم المستخدم / مفتاح / كلمة المرور / رابط.</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMI موصول: إيقاف تشغيل الفيديو تلقائيًا</string>
-
-    <string name="archive_auto_seek_title">اطلب من آخر وضع تم تذكره لهذا الفيديو؟</string>
     <string name="archive_auto_seek_no">لا ، شاهد من البداية</string>
-    <string name="archive_auto_seek_yes">نعم ، تسعى إلى</string>
     <string name="future_show_sheet_add_wl_title">ذكّرني بالانتقال إلى القناة</string>
     <string name="future_show_sheet_search_title">البحث في المحفوظات</string>
     <string name="future_show_sheet_search_none">لم يتم العثور على هذا الفيديو في أرشيفات الموفر</string>
     <string name="notify_live_sheet_title">أصبح الفيديو الذي تم وضع علامة عليه لمشاهدته لاحقًا الآن عبر الإنترنت</string>
     <string name="notify_live_sheet_text">التبديل لعرض الفيديو</string>
-    <string name="vod_root_title_provider">مكتبة الوسائط من</string>
     <string name="feature_requires_premium">هذه الميزة تتطلب قسط</string>
     <string name="feature_requires_restart">مطلوب إعادة تشغيل التطبيق</string>
     <string name="no_teleguide">لا EPG teleguide</string>
@@ -150,7 +137,6 @@
     <string name="settings_provider">مزود</string>
     <string name="settings_media_library">مكتبة الوسائط</string>
     <string name="settings_media_library_dnla">مسح مصادر UPnP / DNLA في الشبكة المحلية</string>
-    <string name="settings_media_library_prov_vod">مسح مكتبة وسائط موفر إذا كان موجودًا</string>
 
     <string name="settings_player">لاعب</string>
     <string name="settings_player_hide_ui">إخفاء تراكب واجهة المستخدم في التشغيل في</string>
@@ -201,10 +187,6 @@
     <string name="settings_ui_screen_margins">هوامش الشاشة</string>
     <string name="settings_ui_language">اللغة (إذا لم يتم التعيين ، يستخدم الافتراضي)</string>
 
-    <string name="settings_disable_provider_categories">لا تطيع فئات مقدمي القنوات</string>
-
-    <string name="settings_devices_no_hdmi">لا تراقب تغييرات حالة HDMI</string>
-
     <string name="settings_codec">إعدادات الترميز</string>
     <string name="settings_codec_hard">استخدم دومًا برامج ترميز</string>
     <string name="settings_codec_soft_vlc">استخدم دومًا برامج ترميز VLC</string>
@@ -244,16 +226,13 @@
     <string name="cfg_play_deny_buffer">لا تظهر حالة التخزين المؤقت</string>
     <string name="copied_clipboard">نسخ إلى الحافظة</string>
     <string name="cfg_play_action_menu">فتح القائمة</string>
-    <string name="cfg_play_action_another">فتح اختيار تيار آخر</string>
     <string name="cfg_play_action_timetable">جدول زمني مفتوح</string>
     <string name="cfg_play_action_prev">التبديل إلى القناة السابقة</string>
     <string name="cfg_play_action_next">التبديل إلى القناة التالية</string>
-    <string name="cfg_play_action_params">فتح معلمات التشغيل</string>
     <string name="cfg_play_action_last">التبديل إلى آخر قناة لعبت</string>
     <string name="cfg_play_action_title">إعداد جهاز تحكم عن بعد</string>
     <string name="cfg_play_action_btn_archive_as_live">استخدم نفس الإعداد أثناء مشاهدة الأرشيفات (سيتم تعطيل البحث باستخدام الأزرار اليمنى واليسرى)</string>
     <string name="cfg_trans_wind">استخدم واجهة شفافة</string>
-    <string name="cfg_list_poster_time">إظهار مدة الملصق (بالثواني ، إن توفر)</string>
 
     <string name="do_not_show">لا تظهر</string>
     <string name="android_not_genuine">قد لا تعمل عمليات الشراء على جهازك.</string>
@@ -273,12 +252,10 @@
     <string name="provider_generic">موفر عام أو قائمة تشغيل</string>
     <string name="watched">شاهد:</string>
     <string name="btn_search">بحث</string>
-    <string name="hint_vod_cache">مكتبة الوسائط وتخزين البيانات لعدة أيام. إذا كنت بحاجة إلى بيانات جديدة لتظهر بشكل أسرع ، فامسح ذاكرة التخزين المؤقت من الإعدادات وأعد تشغيل التطبيق.</string>
     <string name="premium_fea_6">إرسال دفق إلى شاشة لاسلكية</string>
     <string name="wifi_display">عرض لاسلكي</string>
     <string name="wifi_display_desc">تشغيل دفق على جهاز آخر</string>
 
-    <string name="cfg_play_action_fav">فتح اختيار القناة المفضلة</string>
     <string name="cfg_play_action_pp">وقفة أو استئناف اللعب</string>
     <string name="cfg_play_action_btn_red">العمل من أجل الزر الأحمر</string>
     <string name="cfg_play_action_btn_green">العمل من أجل الزر الأخضر</string>
@@ -302,7 +279,6 @@
     <string name="cfg_ign_last_codec">لا تتذكر برنامج الترميز الأخير المستخدم لتشغيل قناة</string>
     <string name="btn_schedule_epg">جدول إعادة تحميل EPG</string>
     <string name="err_archive_is_shorter">إن أرشيف هذه القناة له عمر أقصر على مزودك</string>
-    <string name="cfg_no_seek">محاكاة تسعى عن طريق إعادة فتح تيار من موقع جديد في كل مرة</string>
     <string name="cfg_section_backup">النسخ الاحتياطي واستعادة</string>
     <string name="btn_backup_info">يتم تخزين النسخ الاحتياطي عن طريق مفتاح. اكتبه بمجرد اكتمال النسخ الاحتياطي. لا يوجد ضمان بمدى توفر النسخة الاحتياطية.</string>
     <string name="btn_backup_data">التكوين الحالي النسخ الاحتياطي</string>
@@ -357,7 +333,6 @@
     <string name="cfg_section_desc">وصف السلعة</string>
     <string name="cfg_section_lists">إعدادات القوائم</string>
 
-    <string name="cfg_switch_dummy_on">قم بالتبديل إلى وضع الإعدادات المبسط</string>
     <string name="cfg_no_hints">لا تظهر تلميحات</string>
     <string name="setting_list_view_auto">الجدول (أيقونات كبيرة ، تناسب الشاشة)</string>
     <string name="child_mode_unlock_cfg">أدخل رمز الطفل لفتح الإعدادات</string>
@@ -366,8 +341,6 @@
     <string name="cfg_play_deny_status">لا تعرض حالة البث</string>
     <string name="cfg_player_hud">نمط واجهة المواجهة الفردية</string>
     <string name="cfg_player_hud_1">فوق وتحت</string>
-    <string name="cfg_player_hud_2">مجتمعة في القاع</string>
-    <string name="cfg_player_hud_3">مجتمعة في الأعلى</string>
     <string name="cfg_player_hide_menu">مهلة لإخفاء القائمة (بالثواني)</string>
     <string name="choose_auto">اختر تلقائيا</string>
     <string name="cfg_stream_tech">تقنية دفق (إن وجدت)</string>
@@ -407,7 +380,6 @@
     <string name="menu_qs_provider_all">جميع مقدمي الخدمات النشطين</string>
     <string name="menu_tv_guide_cfg">عرض زر دليل التلفزيون</string>
     <string name="cfg_video_preview_sound">تمكين الصوت في معاينة الفيديو في وصفه</string>
-    <string name="btn_schedule_upnp_vod_load">تحديث مكتبة الوسائط UPnP</string>
     <string name="provider_generic_middleware">خادم الوسيطة العامة</string>
     <string name="provider_generic_list">قائمة مقدمي الخدمات</string>
     <string name="provider_generic_list_desc">القوالب الشائعة القريبة (اللغة والمنطقة)</string>
@@ -430,7 +402,6 @@
     <string name="cfg_epg_update_frequency">تردد التحديث (بالساعات)</string>
     <string name="cfg_vod_merge">دمج مكتبة الوسائط من مصادر مختلفة في قائمة واحدة (يتطلب إعادة التحميل)</string>
     <string name="ch_manage_rename">إعادة تسمية</string>
-    <string name="name_already_taken">يتم أخذ الاسم بالفعل</string>
     <string name="pla_timeshift_from_current">نبدأ من اللحظة الحالية</string>
     <string name="cfg_play_action_timeshift_start">فتح أرشفة برنامج تلفزيوني من البداية</string>
     <string name="cfg_play_action_timeshift_now">فتح أرشفة برنامج تلفزيوني من الوقت الحالي</string>
@@ -471,7 +442,6 @@
     <string name="player_menu_manage_epg">إدارة برنامج تلفزيوني</string>
     <string name="help_faq">أسئلة مكررة</string>
     <string name="pla_menu_item_visibility">أزرار القائمة وضوح</string>
-    <string name="pla_menu_item_visibility_desc">إخفاء عديمة الفائدة</string>
     <string name="pla_menu_type">نمط القائمة البصرية</string>
     <string name="pla_menu_type_list">قائمة</string>
     <string name="pla_menu_type_grid">شبكة</string>
@@ -546,7 +516,6 @@
     <string name="media_tracks_sub">عناوين فرعية</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">التمرير التلقائي إلى العنصر الأخير (في وضع اللمس)</string>
     <string name="hint_right_archives">يمكنك الضغط على الزر الأيمن أثناء تصفح القنوات الحية لفتح قائمة المحفوظات</string>
-    <string name="cfg_atv_home_always_reset_favorites">قم دائمًا بإعادة تعيين قائمة المفضلة على الشاشة الرئيسية</string>
     <string name="switch_audio_hw">استخدام جهاز فك تشفير الصوت</string>
     <string name="switch_audio_sw">استخدام برنامج فك تشفير الصوت</string>
     <string name="afr_mode_scale">يجب تغيير دقة الشاشة</string>
@@ -556,4 +525,114 @@
     <string name="ch_man_map_to_logo">اختر شعار القناة</string>
     <string name="cfg_tvguide_large_preview">عرض وصف أكبر مع المعاينة</string>
     <string name="cfg_time_shift_from_utc">الفرق من وقت النظام</string>
+    <string name="internal_value">القيمة الداخلية</string>
+    <string name="displayed_value">القيمة المعروضة</string>
+    <string name="cfg_play_action_ch_list">قائمة القنوات المفتوحة</string>
+    <string name="cfg_enable_resolution_fix">تمكين دقة الإصلاح</string>
+    <string name="minutes">الدقائق</string>
+    <string name="cfg_ban_bad_channels_qs">إزالة القنوات المكسورة من التبديل السريع</string>
+    <string name="loading_data">تحميل البيانات</string>
+    <string name="cfg_list_ch_no_country">أزل البلد من اسم القناة</string>
+    <string name="cfg_network">شبكة الاتصال</string>
+    <string name="select_sort_order">اختر ترتيب الفرز</string>
+    <string name="sort_order_abc">مرتب حسب الحروف الأبجدية</string>
+    <string name="sort_order_cba">أبجديًا (معكوسًا)</string>
+    <string name="sort_order_uploaded">تاريخ الرفع</string>
+    <string name="cfg_video_effect">تأثير الفيديو</string>
+    <string name="cfg_video_effect_grain">فيلم الحبوب</string>
+    <string name="cfg_logo_prefer">المصدر المفضل لرموز القنوات</string>
+    <string name="cfg_logo_from_provider">أيقونة من مزود</string>
+    <string name="cfg_logo_from_file">أيقونة من الدليل المحلي</string>
+    <string name="cfg_logo_from_epg">أيقونة من EPG</string>
+    <string name="cfg_pla_act_ui_brightness">تغيير سطوع الشاشة (اللمس)</string>
+    <string name="cfg_pla_act_ui_volume">تغيير مستوى الصوت (اللمس)</string>
+    <string name="swipe_vertical">انتقاد عمودي</string>
+    <string name="swipe_horizontal">انتقد الأفقي</string>
+    <string name="cfg_max_epg_load_back">أقصى عدد من الأيام لتحميل EPG في التاريخ</string>
+    <string name="expiration">انتهاء الصلاحية</string>
+    <string name="trial_account">حساب تجريبي</string>
+    <string name="premium_google_account">تنطبق جميع المشتريات على جميع الأجهزة التي تشترك في نفس الحساب.</string>
+    <string name="player_live_recent_archive">استئناف تشغيل الفيديو المؤرشفة الذي تم تشغيله مؤخرًا؟</string>
+    <string name="player_live_recent_archive_archive">استئناف التشغيل</string>
+    <string name="player_live_recent_archive_live">البث المباشر</string>
+    <string name="pos_on_left">على الجانب الأيسر</string>
+    <string name="pos_on_right">على الجانب الأيمن</string>
+    <string name="cfg_list_pos_on_screen">قوائم الموقف على الشاشة</string>
+    <string name="cfg_list_size_on_screen">يسرد الحجم على الشاشة</string>
+    <string name="cfg_list_desc_allow">السماح ليتم عرض الوصف في القوائم</string>
+    <string name="cfg_ext_app_on_home">عرض التطبيق الخارجي على الشاشة الرئيسية</string>
+    <string name="player_select_screen_main">الشاشة الرئيسية</string>
+    <string name="never">أبدا</string>
+    <string name="by_default">بشكل افتراضي</string>
+    <string name="sleep_timer">مؤقت النوم</string>
+<string name="err_need_provider">مطلوب مزود IPTV</string>
+    <string name="err_need_provider_text">تحتاج إلى تكوين مزود IPTV الخاص بك. افتح الإعدادات وأضف مزودك (أو قائمة تشغيل).</string>
+    <string name="unlock_premium">فتح قسط</string>
+    <string name="about_app">حول التطبيق</string>
+    <string name="contact_dev">الاتصال المطور</string>
+    <string name="with_stats">السماح بإرسال إحصائيات مجهولة الهوية لتحسين التطبيق</string>
+    <string name="last_epg_load_ok">آخر معلومات تحميل EPG ناجحة</string>
+    <string name="mass_add_chls_to_this_cat">أضف قنوات لهذه الفئة</string>
+    <string name="minutes_ago_10">منذ 10 دقيقة</string>
+    <string name="time_warp">الوقت الاعوجاج</string>
+    <string name="show_dir_sep_from_videos">عرض الدلائل بشكل منفصل عن مقاطع الفيديو</string>
+    <string name="epg_warn_search_by_name_custom">يتم البحث عن المصادر العامة فقط من خلال أسماء القنوات. إذا كان لديك مصدر صنع خصيصًا لمزود الخدمة ، فقم بتكوينه في خصائص الموفر.</string>
+    <string name="show_archive_playback_marker">إظهار علامة إذا كان يتم تشغيل الفيديو المسجل حاليًا</string>
+    <string name="user_vod_sources">مصادر مكتبة الوسائط التي يوفرها المستخدم</string>
+    <string name="append_user_source">إلحاق مصدر مقدم من المستخدم</string>
+    <string name="black_screen_on_ch_switch">عرض شاشة سوداء أثناء تبديل القناة</string>
+    <string name="clear_custom_ch_order">استعادة ترتيب القناة الأصلي</string>
+    <string name="channels_processed">القنوات معالجتها</string>
+    <string name="atv_split_to_different_channels">قم بتقسيم أنواع محتوى متعددة إلى صفوف مختلفة</string>
+    <string name="number_already_taken">هذا الرقم مشغول بالفعل</string>
+    <string name="fold_duplicate_channels">أضعاف قنوات مكررة لعنصر واحد</string>
+    <string name="select_another_media_source">التبديل إلى مصدر وسائط آخر</string>
+    <string name="user_epg_sources">مصادر EPG المقدمة من قبل المستخدم</string>
+    <string name="reload_data">تحديث البيانات</string>
+    <string name="assume_long_buffering_as_error">تفترض التخزين المؤقت الطويل كونه خطأ قناة</string>
+    <string name="show_installation_number">إظهار رقم التثبيت</string>
+    <string name="sort_archive_by_date">فرز مقاطع الفيديو المؤرشفة حسب التاريخ</string>
+    <string name="simplified_mode">الوضع المبسط</string>
+    <string name="hide_advanced_features">إخفاء الميزات المتقدمة</string>
+    <string name="select_player_to_use">حدد لاعب لاستخدامه في التشغيل</string>
+    <string name="auto_unfold_current_element_info">تكشف معلومات العنصر المحدد حاليًا تلقائيًا</string>
+    <string name="error_occurred">حدث خطأ</string>
+    <string name="applies_to_provider_loded">ينطبق على تحميل المزود</string>
+    <string name="applies_to_final_ch_list">ينطبق على القائمة النهائية للقنوات</string>
+    <string name="vod_folder_series">مسلسل تلفزيونى</string>
+    <string name="vod_folder_movies">أفلام</string>
+    <string name="show_hidden_content">إظهار المحتوى المخفي</string>
+    <string name="rewind_speed">سرعة الترجيع</string>
+    <string name="disable_provider_epg">قم بتعطيل مصادر EPG الخاصة بالموفر باستخدام المستخدم المقدم فقط</string>
+    <string name="allow_bad_ssl">السماح بشهادات SSL غير صالحة</string>
+    <string name="auto_start_next_episode">بدء الحلقة التالية تلقائيًا</string>
+    <string name="unique_devices">أجهزة فريدة</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="register">تسجيل</string>
+    <string name="not_logged_in">لم تقم بتسجيل الدخول</string>
+    <string name="sign_in_to_activate">تسجيل الدخول للتفعيل</string>
+    <string name="user_account_for_premium">حساب المستخدم لإدارة الميزات المميزة</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="pro_sub_expired">اشتراكك منتهي الصلاحية</string>
+    <string name="days">أيام</string>
+    <string name="price">السعر</string>
+    <string name="do_not_offer_any_more">لا تقدم هذا بعد الآن</string>
+    <string name="cfg_offer_to_seek_to_last_pos">عرض للبحث عن آخر موضع تم عرضه</string>
+    <string name="best_offer">أفضل عرض</string>
+    <string name="popular_offer">عرض شعبي</string>
+    <string name="favorites_go_top">يجب إدراج عناصر القائمة المفضلة أولاً</string>
+    <string name="action_lock_screen">ضوابط شاشة كتلة</string>
+    <string name="screen_is_locked">تم حظر التحكم في الشاشة</string>
+    <string name="prev_category">الفئة السابقة</string>
+    <string name="change_category_type">تغيير نوع الفئة</string>
+    <string name="scroll_speed_for_desc">سرعة التمرير لوصف طويل</string>
+    <string name="select_value_to_start_from">حدد القيمة للبدء منها</string>
+    <string name="enabled_modules">الوحدات الممكّنة</string>
+    <string name="replace_provider_order_abc">استبدل ترتيب قناة الموفر للطلب بالأبجدية</string>
+    <string name="nothing_to_backup">لا توجد بيانات للنسخ الاحتياطي!</string>
+    <string name="qr_code_desc">يمكنك مسح الرمز ضوئيًا باستخدام تطبيق الكاميرا على هاتفك. أو ، نظرًا لأنه تم نسخ الرمز إلى الحافظة ، يمكنك فقط لصقه في تطبيق آخر.</string>
+    <string name="next_page">الصفحة التالية</string>
+    <string name="user_exp_level">مستوى تجربة المستخدم</string>
+    <string name="user_exp_mode_normal">الوضع العادي</string>
+    <string name="user_exp_mode_expert">وضع الخبراء</string>
     </resources>

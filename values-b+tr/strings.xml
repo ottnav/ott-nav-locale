@@ -9,16 +9,9 @@
     <string name="menu_live">Canlı yayın</string>
     <string name="menu_archive">Arşivi gösterir</string>
     <string name="menu_settings">Ayarlar</string>
-    <string name="menu_error_require_provider_title">OTT sağlayıcısı gerekli</string>
-    <string name="menu_error_require_provider_text">Bu bölge sadece OTT sağlayıcısı yapılandırıldığında kullanılabilir. Ya başka bir seçenek seçin veya bir sağlayıcı yapılandırın.</string>
     <string name="menu_error_require_provider_button">Sağlayıcıyı yapılandır</string>
-    <string name="menu_error_require_status_title">Veri dizine ekleniyor</string>
-    <string name="menu_error_require_status_text">Bu bölüm için bilgi henüz mevcut değil. İşlem birkaç dakika sürebilir. Başka bir bölüm seçin veya biraz bekleyin.</string>
     <string name="menu_error_require_live_but_no_playlist_title">Kanallı oynatma listesi yüklenemedi</string>
     <string name="menu_error_require_live_but_no_playlist_text">Yapılandırılmış sağlayıcı veya oynatma listesine ulaşılamıyor. Lütfen sağlayıcı ayarlarını tekrar kontrol edin ve sorun yok gibi görünüyorsa, IPTV sağlayıcınıza başvurun.</string>
-    <string name="menu_error_provider_no_archive_title">Arşivler desteklenmiyor</string>
-    <string name="menu_error_provider_no_archive_text">Seçilen sağlayıcı arşivleri desteklemiyor. Sadece Canlı akışlar mevcuttur. Bir sağlayıcıyı değiştirmek veya canlı akışa gitmek için ayarlara gidin.</string>
-    <string name="menu_error_provider_no_archive_button">Canlı yayına git</string>
 
 
     <string name="browse_description_series_number">bölüm</string>
@@ -52,7 +45,6 @@
     <string name="player_warn_turn_off">Kapanacak</string>
     <string name="player_press_to_cancel">İptal etmek için Tamam\'a basın</string>
     <string name="player_touch_to_cancel">İptal etmek için ekrana dokunun</string>
-    <string name="player_state_no_media">Akış seçilmedi</string>
     <string name="player_state_no_media_ended">Akış seçilmedi (sona erdi)</string>
     <string name="player_state_buffering">tamponlama</string>
 
@@ -121,17 +113,12 @@
     <string name="settings_provider_select_error_playlist">oynatma listesi geçersiz görünüyor veya desteklenen kanal içermiyor</string>
     <string name="settings_provider_select_error_live">desteklenen canlı kanal içermiyor. Kullanıcı adı / anahtar / şifre / URL\'yi kontrol edin.</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMI takılı değil: videoyu otomatik kapatma</string>
-
-    <string name="archive_auto_seek_title">Bu videonun en son hatırlanan konumunu mı arıyorsunuz?</string>
     <string name="archive_auto_seek_no">Hayır, başlangıçtan izle</string>
-    <string name="archive_auto_seek_yes">Evet, aramak</string>
     <string name="future_show_sheet_add_wl_title">Kanala geçiş yapmamı hatırlat</string>
     <string name="future_show_sheet_search_title">Arşivlerde ara</string>
     <string name="future_show_sheet_search_none">Bu video sağlayıcı arşivlerinde bulunamadı</string>
     <string name="notify_live_sheet_title">Daha sonra izlemek üzere işaretlediğiniz bir video artık çevrimiçi</string>
     <string name="notify_live_sheet_text">Videoyu görüntülemek için geçiş yap</string>
-    <string name="vod_root_title_provider">Medya kütüphanesi</string>
     <string name="feature_requires_premium">Bu özellik premium gerektirir</string>
     <string name="feature_requires_restart">Uygulama yeniden başlatma gerekli</string>
     <string name="no_teleguide">EPG teleguide yok</string>
@@ -149,7 +136,6 @@
     <string name="settings_provider">sağlayan</string>
     <string name="settings_media_library">Medya kütüphanesi</string>
     <string name="settings_media_library_dnla">Yerel ağdaki UPnP / DNLA kaynaklarını tara</string>
-    <string name="settings_media_library_prov_vod">Varsa sağlayıcı medya kütüphanesini tara</string>
 
     <string name="settings_player">oyuncu</string>
     <string name="settings_player_hide_ui">Oynatmada UI yer paylaşımını gizle</string>
@@ -200,10 +186,6 @@
     <string name="settings_ui_screen_margins">Ekran marjları</string>
     <string name="settings_ui_language">Dil (ayarlanmamışsa, varsayılan kullanır)</string>
 
-    <string name="settings_disable_provider_categories">Kanallar için sağlayıcı kategorilerine uymayın</string>
-
-    <string name="settings_devices_no_hdmi">HDMI durumu değişikliklerini izlemeyin</string>
-
     <string name="settings_codec">Codec ayarları</string>
     <string name="settings_codec_hard">Her zaman donanım kodeklerini kullanın</string>
     <string name="settings_codec_soft_vlc">Her zaman yazılım VLC codec\'lerini kullanın</string>
@@ -243,16 +225,13 @@
     <string name="cfg_play_deny_buffer">Arabelleğe alma durumunu gösterme</string>
     <string name="copied_clipboard">Panoya kopyalandı</string>
     <string name="cfg_play_action_menu">menüyü aç</string>
-    <string name="cfg_play_action_another">başka bir akış seçimi aç</string>
     <string name="cfg_play_action_timetable">açık zaman çizelgesi</string>
     <string name="cfg_play_action_prev">önceki kanala geç</string>
     <string name="cfg_play_action_next">sonraki kanala geç</string>
-    <string name="cfg_play_action_params">oynatma parametrelerini aç</string>
     <string name="cfg_play_action_last">son çalınan kanala geç</string>
     <string name="cfg_play_action_title">Uzaktan kumanda kurulumu</string>
     <string name="cfg_play_action_btn_archive_as_live">Arşivleri izlerken aynı ayarları kullanın (sol ve sağ düğmeleri kullanarak aramayı devre dışı bırakacak)</string>
     <string name="cfg_trans_wind">Şeffaf arayüz kullan</string>
-    <string name="cfg_list_poster_time">Poster süresini göster (varsa, saniyeler)</string>
 
     <string name="do_not_show">gösterme</string>
     <string name="android_not_genuine">Satın alımlar cihazınızda çalışmayabilir.</string>
@@ -272,12 +251,10 @@
     <string name="provider_generic">Genel sağlayıcı veya oynatma listesi</string>
     <string name="watched">İzlenen:</string>
     <string name="btn_search">Arama</string>
-    <string name="hint_vod_cache">Medya kütüphanesi birkaç gün boyunca verileri önbelleğe alır. Daha hızlı görünecek yeni verilere ihtiyacınız varsa, ayarlardan önbelleği temizleyin ve uygulamayı yeniden başlatın.</string>
     <string name="premium_fea_6">Kablosuz bir ekrana yayın gönder</string>
     <string name="wifi_display">Kablosuz Ekran</string>
     <string name="wifi_display_desc">Başka bir cihazda akışı oynat</string>
 
-    <string name="cfg_play_action_fav">favori kanal seçimini aç</string>
     <string name="cfg_play_action_pp">oyunu duraklat veya devam ettir</string>
     <string name="cfg_play_action_btn_red">Kırmızı düğme için eylem</string>
     <string name="cfg_play_action_btn_green">Yeşil düğme için eylem</string>
@@ -301,7 +278,6 @@
     <string name="cfg_ign_last_codec">bir kanalı oynatmak için kullanılan son kodeki hatırlamıyorum</string>
     <string name="btn_schedule_epg">EPG yeniden yükleme zamanlaması</string>
     <string name="err_archive_is_shorter">Bu kanal için arşiv, sağlayıcınızda daha kısa bir süreye sahiptir</string>
-    <string name="cfg_no_seek">Her seferinde yeni konumdan akışı yeniden açarak aramayı öykün</string>
     <string name="cfg_section_backup">Yedekle ve yeniden yükle</string>
     <string name="btn_backup_info">Yedekleme bir anahtar ile hazırlanır. Yedekleme tamamlandığında en kısa sürede yazın. Yedeklemenin ne kadar süreceği garanti edilemez.</string>
     <string name="btn_backup_data">Yedekleme geçerli yapılandırma</string>
@@ -356,7 +332,6 @@
     <string name="cfg_section_desc">Ürün Açıklaması</string>
     <string name="cfg_section_lists">Ayarları listeler</string>
 
-    <string name="cfg_switch_dummy_on">Basitleştirilmiş ayarlar moduna geçin</string>
     <string name="cfg_no_hints">İpuçlarını gösterme</string>
     <string name="setting_list_view_auto">masa (büyük simgeler, ekrana sığacak şekilde)</string>
     <string name="child_mode_unlock_cfg">Ayarların kilidini açmak için alt kodu girin</string>
@@ -365,8 +340,6 @@
     <string name="cfg_play_deny_status">Akış durumunu gösterme</string>
     <string name="cfg_player_hud">Heads-up arayüzü tarzı</string>
     <string name="cfg_player_hud_1">Üst ve alt</string>
-    <string name="cfg_player_hud_2">Alt kombine</string>
-    <string name="cfg_player_hud_3">Üstte kombine</string>
     <string name="cfg_player_hide_menu">Menüyü gizlemek için zaman aşımı (saniye olarak)</string>
     <string name="choose_auto">Otomatik seç</string>
     <string name="cfg_stream_tech">Akış teknolojisi (varsa)</string>
@@ -406,7 +379,6 @@
     <string name="menu_qs_provider_all">Tüm aktif sağlayıcılar</string>
     <string name="menu_tv_guide_cfg">TV Rehberi düğmesini göster</string>
     <string name="cfg_video_preview_sound">Video önizlemesinde sesi etkinleştir tanımında</string>
-    <string name="btn_schedule_upnp_vod_load">UPnP medya kütüphanesini yeniden yükleyin</string>
     <string name="provider_generic_middleware">Genel katman sunucusu</string>
     <string name="provider_generic_list">Tedarikçi listesi</string>
     <string name="provider_generic_list_desc">Yakındaki genel şablonlar (dil ve bölge)</string>
@@ -429,7 +401,6 @@
     <string name="cfg_epg_update_frequency">Güncelleme sıklığı (saat olarak)</string>
     <string name="cfg_vod_merge">Medya kitaplığını farklı kaynaklardan tek bir listede birleştirme (yeniden yükleme gerektirir)</string>
     <string name="ch_manage_rename">Adını değiştirmek</string>
-    <string name="name_already_taken">İsim zaten alınmış</string>
     <string name="pla_timeshift_from_current">Geçerli andan başla</string>
     <string name="cfg_play_action_timeshift_start">arşivden TV şovunu baştan aç</string>
     <string name="cfg_play_action_timeshift_now">şimdiki zamandan itibaren arşivlenmiş TV şovunu aç</string>
@@ -470,7 +441,6 @@
     <string name="player_menu_manage_epg">TV şovunu yönet</string>
     <string name="help_faq">Sık sorulan Sorular</string>
     <string name="pla_menu_item_visibility">Menü düğmeleri görünürlüğü</string>
-    <string name="pla_menu_item_visibility_desc">işe yaramaz</string>
     <string name="pla_menu_type">Menü görsel stili</string>
     <string name="pla_menu_type_list">liste</string>
     <string name="pla_menu_type_grid">Kafes</string>
@@ -545,7 +515,6 @@
     <string name="media_tracks_sub">Altyazı</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">Son öğeye otomatik kaydırma (dokunmatik modda)</string>
     <string name="hint_right_archives">Arşiv listesini açmak için canlı kanalları gezerken SAĞ düğmeye basabilirsiniz.</string>
-    <string name="cfg_atv_home_always_reset_favorites">Sık kullanılanlar listesini daima ana ekranda sıfırla</string>
     <string name="switch_audio_hw">Donanım ses kod çözücüsünü kullanın</string>
     <string name="switch_audio_sw">Yazılım ses kod çözücüsünü kullanın</string>
     <string name="afr_mode_scale">ekran çözünürlüğü değiştirilmeli</string>
@@ -555,4 +524,114 @@
     <string name="ch_man_map_to_logo">Kanal logosunu seç</string>
     <string name="cfg_tvguide_large_preview">Önizlemeli daha büyük açıklama göster</string>
     <string name="cfg_time_shift_from_utc">Sistem zamanından fark</string>
+    <string name="internal_value">iç değer</string>
+    <string name="displayed_value">görüntülenen değer</string>
+    <string name="cfg_play_action_ch_list">kanal listesini aç</string>
+    <string name="cfg_enable_resolution_fix">Çözünürlük düzeltmesini etkinleştir</string>
+    <string name="minutes">dakika</string>
+    <string name="cfg_ban_bad_channels_qs">Bozuk kanalları hızlı anahtardan çıkarın</string>
+    <string name="loading_data">Veri yükleniyor</string>
+    <string name="cfg_list_ch_no_country">Ülkeyi kanal adından kaldır</string>
+    <string name="cfg_network">Ağ</string>
+    <string name="select_sort_order">Sıralama düzenini seçin</string>
+    <string name="sort_order_abc">Alfabetik</string>
+    <string name="sort_order_cba">Alfabetik (ters)</string>
+    <string name="sort_order_uploaded">yükleme tarihi</string>
+    <string name="cfg_video_effect">Video efekti</string>
+    <string name="cfg_video_effect_grain">Film tahıl</string>
+    <string name="cfg_logo_prefer">Tercih edilen kanal simgeleri kaynağı</string>
+    <string name="cfg_logo_from_provider">Sağlayıcıdan gelen simge</string>
+    <string name="cfg_logo_from_file">Yerel dizinden simge</string>
+    <string name="cfg_logo_from_epg">EPG\'den Simge</string>
+    <string name="cfg_pla_act_ui_brightness">Ekran parlaklığını değiştir (dokunma)</string>
+    <string name="cfg_pla_act_ui_volume">Ses seviyesini değiştir (dokunma)</string>
+    <string name="swipe_vertical">dikey kaydırma</string>
+    <string name="swipe_horizontal">yatay kaydırma</string>
+    <string name="cfg_max_epg_load_back">EPG’yi geçmişte yüklemek için maksimum gün sayısı</string>
+    <string name="expiration">Son</string>
+    <string name="trial_account">Deneme hesabı</string>
+    <string name="premium_google_account">Tüm alışverişler aynı hesabı paylaşan tüm cihazlar için geçerlidir.</string>
+    <string name="player_live_recent_archive">Son oynatılan arşivlenmiş videonun oynatılmaya devam edilmesi</string>
+    <string name="player_live_recent_archive_archive">Çalmaya devam et</string>
+    <string name="player_live_recent_archive_live">Canlı yayın</string>
+    <string name="pos_on_left">sol tarafta</string>
+    <string name="pos_on_right">sağ tarafta</string>
+    <string name="cfg_list_pos_on_screen">Ekrandaki konumunu listeler</string>
+    <string name="cfg_list_size_on_screen">Ekrandaki boyutu listeler</string>
+    <string name="cfg_list_desc_allow">Açıklamanın listelerde gösterilmesine izin ver</string>
+    <string name="cfg_ext_app_on_home">Harici uygulamayı ana ekranda göster</string>
+    <string name="player_select_screen_main">Ana ekran</string>
+    <string name="never">asla</string>
+    <string name="by_default">varsayılan olarak</string>
+    <string name="sleep_timer">Uyku zamanlayıcısı</string>
+<string name="err_need_provider">IPTV sağlayıcısı gerekli</string>
+    <string name="err_need_provider_text">IPTV sağlayıcınızı yapılandırmanız gerekir. Ayarları açın ve sağlayıcınızı (veya bir oynatma listesi) ekleyin.</string>
+    <string name="unlock_premium">Premium kilidini aç</string>
+    <string name="about_app">Uygulama hakkında</string>
+    <string name="contact_dev">Geliştiriciyle iletişim kurun</string>
+    <string name="with_stats">Uygulamayı geliştirmek için anonim istatistikler göndermeye izin ver</string>
+    <string name="last_epg_load_ok">Son başarılı EPG yükleme bilgisi</string>
+    <string name="mass_add_chls_to_this_cat">Bu kategoriye kanal ekle</string>
+    <string name="minutes_ago_10">10 dakika önce</string>
+    <string name="time_warp">Zaman tüneli</string>
+    <string name="show_dir_sep_from_videos">Dizinleri videolardan ayrı olarak göster</string>
+    <string name="epg_warn_search_by_name_custom">Genel kaynaklar yalnızca kanal adlarına göre aranır. Sağlayıcınız için özel olarak kaynak oluşturduysanız, sağlayıcı özelliklerinde yapılandırın.</string>
+    <string name="show_archive_playback_marker">Şu anda kaydedilmiş video oynatılıyorsa işaretçi göster</string>
+    <string name="user_vod_sources">Kullanıcı tarafından sağlanan medya kitaplığı kaynakları</string>
+    <string name="append_user_source">Kullanıcı tarafından sağlanan kaynağı ekle</string>
+    <string name="black_screen_on_ch_switch">Kanal değiştirirken siyah ekran göster</string>
+    <string name="clear_custom_ch_order">Orijinal kanal sırasını geri yükle</string>
+    <string name="channels_processed">İşleme koyulan kanallar</string>
+    <string name="atv_split_to_different_channels">Birden çok içerik türünü farklı satırlara bölme</string>
+    <string name="number_already_taken">Bu sayı zaten dolu</string>
+    <string name="fold_duplicate_channels">Yinelenen kanalları tek bir öğeye katlama</string>
+    <string name="select_another_media_source">Başka bir medya kaynağına geçme</string>
+    <string name="user_epg_sources">Kullanıcı tarafından sağlanan EPG kaynakları</string>
+    <string name="reload_data">Verileri yeniden yükle</string>
+    <string name="assume_long_buffering_as_error">Uzun tamponlamanın kanal hatası olduğunu varsayın</string>
+    <string name="show_installation_number">Kurulum numarasını göster</string>
+    <string name="sort_archive_by_date">Arşivlenen videoları tarihe göre sırala</string>
+    <string name="simplified_mode">Basitleştirilmiş mod</string>
+    <string name="hide_advanced_features">Gelişmiş özellikleri gizle</string>
+    <string name="select_player_to_use">Oynatma için kullanılacak oynatıcıyı seçin</string>
+    <string name="auto_unfold_current_element_info">Seçili öğe bilgisini otomatik olarak aç</string>
+    <string name="error_occurred">Hata oluştu</string>
+    <string name="applies_to_provider_loded">Yüklenen sağlayıcı için geçerlidir</string>
+    <string name="applies_to_final_ch_list">Son kanal listesine uygulanır</string>
+    <string name="vod_folder_series">Televizyon dizisi</string>
+    <string name="vod_folder_movies">filmler</string>
+    <string name="show_hidden_content">Gizli içeriği göster</string>
+    <string name="rewind_speed">Geri sarma hızı</string>
+    <string name="disable_provider_epg">Yalnızca kullanıcı tarafından sağlanan sağlayıcı EPG kaynaklarını devre dışı bırakın</string>
+    <string name="allow_bad_ssl">Geçersiz SSL sertifikalarına izin ver</string>
+    <string name="auto_start_next_episode">Bir sonraki bölümü otomatik olarak başlat</string>
+    <string name="unique_devices">benzersiz cihazlar</string>
+    <string name="sign_in">oturum aç</string>
+    <string name="register">Kayıt ol</string>
+    <string name="not_logged_in">Giriş yapmadınız</string>
+    <string name="sign_in_to_activate">Etkinleştirmek için oturum açın</string>
+    <string name="user_account_for_premium">Premium özellikleri yönetmek için kullanıcı hesabı</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="pro_sub_expired">Aboneliğinizin süresi doldu</string>
+    <string name="days">günler</string>
+    <string name="price">Fiyat</string>
+    <string name="do_not_offer_any_more">Bunu artık sunma</string>
+    <string name="cfg_offer_to_seek_to_last_pos">Son görüntülenen pozisyona arama teklifi</string>
+    <string name="best_offer">En iyi teklif</string>
+    <string name="popular_offer">Popüler teklif</string>
+    <string name="favorites_go_top">Favori liste öğeleri önce listelenmelidir</string>
+    <string name="action_lock_screen">ekran denetimlerini engelle</string>
+    <string name="screen_is_locked">Ekran kontrolü engellendi</string>
+    <string name="prev_category">Önceki kategori</string>
+    <string name="change_category_type">Kategori türünü değiştir</string>
+    <string name="scroll_speed_for_desc">Uzun açıklama için kaydırma hızı</string>
+    <string name="select_value_to_start_from">Başlamak için değer seçin</string>
+    <string name="enabled_modules">Etkin modüller</string>
+    <string name="replace_provider_order_abc">Sipariş için sağlayıcı kanalı sırasını alfabe ile değiştir</string>
+    <string name="nothing_to_backup">Yedeklenecek veri yok!</string>
+    <string name="qr_code_desc">Telefonunuzdaki kamera uygulamasını kullanarak kod tarayabilirsiniz. Veya kod panoya kopyalandığından, başka bir uygulamaya yapıştırabilirsiniz.</string>
+    <string name="next_page">Sonraki Sayfa</string>
+    <string name="user_exp_level">Kullanıcı deneyimi seviyesi</string>
+    <string name="user_exp_mode_normal">Normal mod</string>
+    <string name="user_exp_mode_expert">Uzman Modu</string>
     </resources>

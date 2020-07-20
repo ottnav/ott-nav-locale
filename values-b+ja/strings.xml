@@ -9,16 +9,9 @@
     <string name="menu_live">ライブストリーム</string>
     <string name="menu_archive">アーカイブを表示</string>
     <string name="menu_settings">設定</string>
-    <string name="menu_error_require_provider_title">OTTプロバイダが必要です</string>
-    <string name="menu_error_require_provider_text">この地区は、OTTプロバイダが設定されている場合にのみ使用できます。別のオプションを選択するか、プロバイダーを構成します。</string>
     <string name="menu_error_require_provider_button">プロバイダの設定</string>
-    <string name="menu_error_require_status_title">データのインデックスが作成されています</string>
-    <string name="menu_error_require_status_text">このセクションの情報はまだ利用できません。プロセスには数分かかることがあります。別のセクションを選択するか、少し待ってください。</string>
     <string name="menu_error_require_live_but_no_playlist_title">チャンネルのあるプレイリストの読み込みに失敗しました</string>
     <string name="menu_error_require_live_but_no_playlist_text">設定されたプロバイダまたはプレイリストにはアクセスできません。プロバイダの設定をもう一度確認し、問題が解決しない場合は、IPTVプロバイダにお問い合わせください。</string>
-    <string name="menu_error_provider_no_archive_title">アーカイブはサポートされていません</string>
-    <string name="menu_error_provider_no_archive_text">選択したプロバイダはアーカイブをサポートしていません。ライブストリームのみ利用可能です。設定を参照してプロバイダを変更するか、ライブストリームに移動します。</string>
-    <string name="menu_error_provider_no_archive_button">ライブストリームに移動</string>
 
 
     <string name="browse_description_series_number">エピソード</string>
@@ -52,7 +45,6 @@
     <string name="player_warn_turn_off">オフになります</string>
     <string name="player_press_to_cancel">キャンセルするにはOKを押してください</string>
     <string name="player_touch_to_cancel">キャンセルするタッチスクリーン</string>
-    <string name="player_state_no_media">ストリームが選択されていない</string>
     <string name="player_state_no_media_ended">ストリームが選択されていない（終了しました）</string>
     <string name="player_state_buffering">バッファリング</string>
 
@@ -121,17 +113,12 @@
     <string name="settings_provider_select_error_playlist">プレイリストが無効か、サポートされているチャンネルが含まれていないようです</string>
     <string name="settings_provider_select_error_live">サポートされているライブチャンネルはありません。ユーザー名/キー/パスワード/ URLを確認してください。</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMIのプラグが抜かれている：ビデオを自動的にオフにする</string>
-
-    <string name="archive_auto_seek_title">このビデオの最後に記憶された位置に移動しますか？</string>
     <string name="archive_auto_seek_no">いいえ、最初から見てください</string>
-    <string name="archive_auto_seek_yes">はい、求める</string>
     <string name="future_show_sheet_add_wl_title">チャンネルに切り替えるように通知する</string>
     <string name="future_show_sheet_search_title">アーカイブで検索</string>
     <string name="future_show_sheet_search_none">この動画はプロバイダのアーカイブに見つかりませんでした</string>
     <string name="notify_live_sheet_title">後で見るためにマークした動画がオンラインになりました</string>
     <string name="notify_live_sheet_text">ビデオを見るに切り替える</string>
-    <string name="vod_root_title_provider">のメディアライブラリ</string>
     <string name="feature_requires_premium">この機能にはプレミアムが必要</string>
     <string name="feature_requires_restart">アプリの再起動が必要です</string>
     <string name="no_teleguide">EPGテレガイドなし</string>
@@ -149,7 +136,6 @@
     <string name="settings_provider">プロバイダ</string>
     <string name="settings_media_library">メディアライブラリ</string>
     <string name="settings_media_library_dnla">ローカルネットワーク内のUPnP / DNLAソースをスキャンする</string>
-    <string name="settings_media_library_prov_vod">スキャンプロバイダメディアライブラリが存在する場合</string>
 
     <string name="settings_player">プレーヤー</string>
     <string name="settings_player_hide_ui">再生時のUIオーバーレイを非表示にする</string>
@@ -200,10 +186,6 @@
     <string name="settings_ui_screen_margins">画面のマージン</string>
     <string name="settings_ui_language">言語（設定されていない場合はデフォルトを使用）</string>
 
-    <string name="settings_disable_provider_categories">チャネルのプロバイダカテゴリに従わない</string>
-
-    <string name="settings_devices_no_hdmi">HDMIの状態の変化を監視しない</string>
-
     <string name="settings_codec">コーデック設定</string>
     <string name="settings_codec_hard">常にハードウェアコーデックを使用する</string>
     <string name="settings_codec_soft_vlc">常にソフトウェアVLCコーデックを使用する</string>
@@ -244,16 +226,13 @@
     <string name="cfg_play_deny_buffer">バッファリング状態を表示しない</string>
     <string name="copied_clipboard">クリップボードにコピーされました</string>
     <string name="cfg_play_action_menu">メニューを開く</string>
-    <string name="cfg_play_action_another">別のストリーム選択を開く</string>
     <string name="cfg_play_action_timetable">オープンタイムテーブル</string>
     <string name="cfg_play_action_prev">前のチャンネルに切り替える</string>
     <string name="cfg_play_action_next">次のチャンネルに切り替える</string>
-    <string name="cfg_play_action_params">再生パラメータを開く</string>
     <string name="cfg_play_action_last">最後に再生したチャンネルに切り替える</string>
     <string name="cfg_play_action_title">セットアップリモートコントローラ</string>
     <string name="cfg_play_action_btn_archive_as_live">アーカイブを見ながら同じ設定を使用する（左右のボタンを使用して検索を無効にする）</string>
     <string name="cfg_trans_wind">透過的なインターフェイスを使用する</string>
-    <string name="cfg_list_poster_time">ポスターの長さを表示する（使用可能な場合は秒）</string>
 
 
     <string name="do_not_show">見せないで</string>
@@ -274,12 +253,10 @@
     <string name="provider_generic">一般的なプロバイダまたはプレイリスト</string>
     <string name="watched">見た：</string>
     <string name="btn_search">サーチ</string>
-    <string name="hint_vod_cache">メディアライブラリは数日間データをキャッシュします。新しいデータをもっと速く表示する必要がある場合は、設定からキャッシュをクリアしてアプリを再起動します。</string>
     <string name="premium_fea_6">ストリームをワイヤレスディスプレイに送信する</string>
     <string name="wifi_display">ワイヤレスディスプレイ</string>
     <string name="wifi_display_desc">別のデバイスでストリームを再生する</string>
 
-    <string name="cfg_play_action_fav">お気に入りのチャンネル選択を開く</string>
     <string name="cfg_play_action_pp">再生を一時停止または再開する</string>
     <string name="cfg_play_action_btn_red">赤いボタンのアクション</string>
     <string name="cfg_play_action_btn_green">グリーンボタンの操作</string>
@@ -303,7 +280,6 @@
     <string name="cfg_ign_last_codec">チャンネルを再生するために使用された最後のコーデックを覚えていない</string>
     <string name="btn_schedule_epg">EPGリロードをスケジュールする</string>
     <string name="err_archive_is_shorter">このチャンネルのアーカイブは、プロバイダのライフサイクルが短くなっています</string>
-    <string name="cfg_no_seek">毎回新しい位置からストリームを再開してシークをエミュレートする</string>
     <string name="cfg_section_backup">バックアップと復元</string>
     <string name="btn_backup_info">バックアップはキーによって記録されます。バックアップが完了するとすぐに書き留めてください。バックアップの有効期間は保証されません。</string>
     <string name="btn_backup_data">現在の構成をバックアップする</string>
@@ -358,7 +334,6 @@
     <string name="cfg_section_desc">アイテム説明</string>
     <string name="cfg_section_lists">設定を一覧表示する</string>
 
-    <string name="cfg_switch_dummy_on">簡易設定モードに切り替える</string>
     <string name="cfg_no_hints">ヒントを表示しない</string>
     <string name="setting_list_view_auto">テーブル（大きなアイコン、画面にフィット）</string>
     <string name="child_mode_unlock_cfg">設定をロック解除するための子コードを入力してください</string>
@@ -367,8 +342,6 @@
     <string name="cfg_play_deny_status">ストリームステータスを表示しない</string>
     <string name="cfg_player_hud">ヘッドアップインターフェースのスタイル</string>
     <string name="cfg_player_hud_1">上下</string>
-    <string name="cfg_player_hud_2">下に合わせて</string>
-    <string name="cfg_player_hud_3">上に組み合わせる</string>
     <string name="cfg_player_hide_menu">メニューを非表示にするためのタイムアウト（秒）</string>
     <string name="choose_auto">自動的に選択</string>
     <string name="cfg_stream_tech">ストリームテクノロジ（利用可能な場合）</string>
@@ -408,7 +381,6 @@
     <string name="menu_qs_provider_all">すべてのアクティブプロバイダー</string>
     <string name="menu_tv_guide_cfg">テレビガイドを表示ボタン</string>
     <string name="cfg_video_preview_sound">ビデオプレビューでサウンドを有効にする説明の</string>
-    <string name="btn_schedule_upnp_vod_load">UPnPメディアライブラリをリロードする</string>
     <string name="provider_generic_middleware">汎用ミドルウェアサーバー</string>
     <string name="provider_generic_list">プロバイダリスト</string>
     <string name="provider_generic_list_desc">近くにある共通のテンプレート（言語と地域）</string>
@@ -431,7 +403,6 @@
     <string name="cfg_epg_update_frequency">更新頻度（時間単位）</string>
     <string name="cfg_vod_merge">単一のリストに異なるソースからのメディアライブラリをマージする（再読み込みが必要）</string>
     <string name="ch_manage_rename">リネーム</string>
-    <string name="name_already_taken">名前はすでに取られています</string>
     <string name="pla_timeshift_from_current">現時点から開始</string>
     <string name="cfg_play_action_timeshift_start">アーカイブされたテレビ番組を最初から開く</string>
     <string name="cfg_play_action_timeshift_now">現在の時刻からアーカイブされたテレビ番組を開く</string>
@@ -472,7 +443,6 @@
     <string name="player_menu_manage_epg">テレビ番組を管理する</string>
     <string name="help_faq">よくある質問</string>
     <string name="pla_menu_item_visibility">メニューボタンの可視性</string>
-    <string name="pla_menu_item_visibility_desc">役に立たない</string>
     <string name="pla_menu_type">メニューのビジュアルスタイル</string>
     <string name="pla_menu_type_list">リスト</string>
     <string name="pla_menu_type_grid">グリッド</string>
@@ -547,7 +517,6 @@
     <string name="media_tracks_sub">字幕</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">最後のアイテムへの自動スクロール（タッチモード）</string>
     <string name="hint_right_archives">ライブチャンネルを閲覧中に右ボタンを押してアーカイブリストを開くことができます</string>
-    <string name="cfg_atv_home_always_reset_favorites">ホーム画面のお気に入りのリストを常にリセットする</string>
     <string name="switch_audio_hw">ハードウェアオーディオデコーダーを使用する</string>
     <string name="switch_audio_sw">ソフトウェアオーディオデコーダーを使用する</string>
     <string name="afr_mode_scale">画面解像度を変更する必要があります</string>
@@ -557,4 +526,114 @@
     <string name="ch_man_map_to_logo">チャンネルのロゴを選択</string>
     <string name="cfg_tvguide_large_preview">プレビューで詳細な説明を表示</string>
     <string name="cfg_time_shift_from_utc">システム時刻との違い</string>
+    <string name="internal_value">内部価値</string>
+    <string name="displayed_value">表示値</string>
+    <string name="cfg_play_action_ch_list">オープンチャンネルリスト</string>
+    <string name="cfg_enable_resolution_fix">解像度の修正を有効にする</string>
+    <string name="minutes">分</string>
+    <string name="cfg_ban_bad_channels_qs">破損したチャンネルをクイックスイッチから削除する</string>
+    <string name="loading_data">データのロード</string>
+    <string name="cfg_list_ch_no_country">チャンネル名から国を削除</string>
+    <string name="cfg_network">通信網</string>
+    <string name="select_sort_order">ソート順を選択</string>
+    <string name="sort_order_abc">アルファベット順</string>
+    <string name="sort_order_cba">アルファベット順（反転）</string>
+    <string name="sort_order_uploaded">アップロード日</string>
+    <string name="cfg_video_effect">ビデオエフェクト</string>
+    <string name="cfg_video_effect_grain">フィルムグレイン</string>
+    <string name="cfg_logo_prefer">チャンネルアイコンの優先ソース</string>
+    <string name="cfg_logo_from_provider">プロバイダーからのアイコン</string>
+    <string name="cfg_logo_from_file">ローカルディレクトリのアイコン</string>
+    <string name="cfg_logo_from_epg">EPGのアイコン</string>
+    <string name="cfg_pla_act_ui_brightness">画面の明るさを変更する（タッチ）</string>
+    <string name="cfg_pla_act_ui_volume">音量の変更（タッチ）</string>
+    <string name="swipe_vertical">垂直スワイプ</string>
+    <string name="swipe_horizontal">水平スワイプ</string>
+    <string name="cfg_max_epg_load_back">履歴にEPGをロードする最大日数</string>
+    <string name="expiration">有効期限</string>
+    <string name="trial_account">試用アカウント</string>
+    <string name="premium_google_account">すべての購入は、同じアカウントを共有するすべてのデバイスに適用されます。</string>
+    <string name="player_live_recent_archive">最近再生したアーカイブ動画の再生を再開しますか？</string>
+    <string name="player_live_recent_archive_archive">再生を再開する</string>
+    <string name="player_live_recent_archive_live">ライブストリーム</string>
+    <string name="pos_on_left">左側に</string>
+    <string name="pos_on_right">右側に</string>
+    <string name="cfg_list_pos_on_screen">画面上の位置をリストします</string>
+    <string name="cfg_list_size_on_screen">画面上のリストのサイズ</string>
+    <string name="cfg_list_desc_allow">リストに説明を表示することを許可する</string>
+    <string name="cfg_ext_app_on_home">ホーム画面に外部アプリケーションを表示する</string>
+    <string name="player_select_screen_main">メインスクリーン</string>
+    <string name="never">決して</string>
+    <string name="by_default">デフォルトで</string>
+    <string name="sleep_timer">目覚まし時計</string>
+<string name="err_need_provider">IPTVプロバイダーが必要です</string>
+    <string name="err_need_provider_text">IPTVプロバイダーを構成する必要があります。設定を開き、プロバイダー（またはプレイリスト）を追加します。</string>
+    <string name="unlock_premium">プレミアムのロックを解除</string>
+    <string name="about_app">アプリについて</string>
+    <string name="contact_dev">開発者に連絡する</string>
+    <string name="with_stats">アプリを改善するために匿名の統計情報の送信を許可する</string>
+    <string name="last_epg_load_ok">最後に成功したEPGロード情報</string>
+    <string name="mass_add_chls_to_this_cat">このカテゴリにチャンネルを追加</string>
+    <string name="minutes_ago_10">10分前</string>
+    <string name="time_warp">タイムワープ</string>
+    <string name="show_dir_sep_from_videos">ビデオとは別にディレクトリを表示する</string>
+    <string name="epg_warn_search_by_name_custom">汎用ソースは、チャンネル名でのみ検索されます。プロバイダー用に特別に作成されたソースがある場合は、プロバイダーのプロパティで構成します。</string>
+    <string name="show_archive_playback_marker">現在録画したビデオを再生している場合はマーカーを表示します</string>
+    <string name="user_vod_sources">ユーザー提供のメディアライブラリソース</string>
+    <string name="append_user_source">ユーザー提供のソースを追加</string>
+    <string name="black_screen_on_ch_switch">チャンネルの切り替え中に黒い画面を表示する</string>
+    <string name="clear_custom_ch_order">元のチャンネルの順序を復元する</string>
+    <string name="channels_processed">処理されたチャネル</string>
+    <string name="atv_split_to_different_channels">複数のコンテンツタイプを異なる行に分割する</string>
+    <string name="number_already_taken">この番号はすでに使用されています</string>
+    <string name="fold_duplicate_channels">重複するチャネルを単一の要素に折り畳む</string>
+    <string name="select_another_media_source">別のメディアソースに切り替える</string>
+    <string name="user_epg_sources">ユーザー提供のEPGソース</string>
+    <string name="reload_data">データをリロードする</string>
+    <string name="assume_long_buffering_as_error">長いバッファリングがチャネルエラーであると想定する</string>
+    <string name="show_installation_number">インストール番号を表示</string>
+    <string name="sort_archive_by_date">アーカイブされた動画を日付で並べ替える</string>
+    <string name="simplified_mode">簡易モード</string>
+    <string name="hide_advanced_features">高度な機能を隠す</string>
+    <string name="select_player_to_use">再生に使用するプレーヤーを選択します</string>
+    <string name="auto_unfold_current_element_info">現在選択されている要素情報を自動的に展開します</string>
+    <string name="error_occurred">エラーが発生しました</string>
+    <string name="applies_to_provider_loded">ロードされるプロバイダーに適用されます</string>
+    <string name="applies_to_final_ch_list">チャネルの最終リストに適用されます</string>
+    <string name="vod_folder_series">連続テレビ番組</string>
+    <string name="vod_folder_movies">映画</string>
+    <string name="show_hidden_content">非表示のコンテンツを表示</string>
+    <string name="rewind_speed">巻き戻し速度</string>
+    <string name="disable_provider_epg">ユーザー提供のみを使用して、プロバイダーEPGソースを無効にする</string>
+    <string name="allow_bad_ssl">無効なSSL証明書を許可する</string>
+    <string name="auto_start_next_episode">次のエピソードを自動的に開始</string>
+    <string name="unique_devices">ユニークなデバイス</string>
+    <string name="sign_in">サインイン</string>
+    <string name="register">登録</string>
+    <string name="not_logged_in">ログインしていない</string>
+    <string name="sign_in_to_activate">アクティベートするにはサインインしてください</string>
+    <string name="user_account_for_premium">プレミアム機能を管理するためのユーザーアカウント</string>
+    <string name="logout">ログアウト</string>
+    <string name="pro_sub_expired">サブスクリプションの有効期限が切れています</string>
+    <string name="days">日々</string>
+    <string name="price">価格</string>
+    <string name="do_not_offer_any_more">これをもう提供しない</string>
+    <string name="cfg_offer_to_seek_to_last_pos">最後に表示された位置にシークするオファー</string>
+    <string name="best_offer">最高の提案</string>
+    <string name="popular_offer">人気のオファー</string>
+    <string name="favorites_go_top">お気に入りのリストアイテムを最初にリストする必要があります</string>
+    <string name="action_lock_screen">画面制御のブロック</string>
+    <string name="screen_is_locked">画面制御がブロックされています</string>
+    <string name="prev_category">前のカテゴリー</string>
+    <string name="change_category_type">カテゴリタイプを変更</string>
+    <string name="scroll_speed_for_desc">長い説明のスクロール速度</string>
+    <string name="select_value_to_start_from">開始する値を選択</string>
+    <string name="enabled_modules">有効なモジュール</string>
+    <string name="replace_provider_order_abc">プロバイダーチャネルの順序をアルファベット順に置き換える</string>
+    <string name="nothing_to_backup">バックアップするデータがありません！</string>
+    <string name="qr_code_desc">スマートフォンのカメラアプリを使用してコードをスキャンできます。または、コードがクリップボードにコピーされているため、別のアプリに貼り付けることもできます。</string>
+    <string name="next_page">次のページ</string>
+    <string name="user_exp_level">ユーザー経験レベル</string>
+    <string name="user_exp_mode_normal">ノーマルモード</string>
+    <string name="user_exp_mode_expert">エキスパートモード</string>
     </resources>

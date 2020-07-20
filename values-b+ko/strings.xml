@@ -9,16 +9,9 @@
     <string name="menu_live">실시간 스트리밍</string>
     <string name="menu_archive">보관 파일 표시</string>
     <string name="menu_settings">설정</string>
-    <string name="menu_error_require_provider_title">OTT 제공자가 필요합니다.</string>
-    <string name="menu_error_require_provider_text">이 지구는 OTT 제공자가 구성된 경우에만 사용할 수 있습니다. 다른 옵션을 선택하거나 공급자를 구성하십시오.</string>
     <string name="menu_error_require_provider_button">공급자 구성</string>
-    <string name="menu_error_require_status_title">데이터 색인 생성 중</string>
-    <string name="menu_error_require_status_text">이 섹션에 대한 정보는 아직 제공되지 않습니다. 이 과정은 몇 분이 걸릴 수 있습니다. 다른 섹션을 선택하거나 조금 기다리십시오.</string>
     <string name="menu_error_require_live_but_no_playlist_title">채널이있는 재생 목록을로드하지 못했습니다.</string>
     <string name="menu_error_require_live_but_no_playlist_text">구성된 공급자 또는 재생 목록에 도달 할 수 없습니다. 공급자 설정을 다시 확인하고 문제가없는 것으로 확인되면 IPTV 제공 업체에 문의하십시오.</string>
-    <string name="menu_error_provider_no_archive_title">지원되지 않는 아카이브</string>
-    <string name="menu_error_provider_no_archive_text">선택한 제공 업체가 보관 파일을 지원하지 않습니다. 라이브 스트림 만 사용할 수 있습니다. 설정을 탐색하여 제공 업체를 변경하거나 실시간 스트리밍으로 이동하십시오.</string>
-    <string name="menu_error_provider_no_archive_button">실시간 스트리밍으로 이동</string>
 
 
     <string name="browse_description_series_number">삽화</string>
@@ -52,7 +45,6 @@
     <string name="player_warn_turn_off">꺼질거야.</string>
     <string name="player_press_to_cancel">취소하려면 확인을 누릅니다.</string>
     <string name="player_touch_to_cancel">취소하려면 터치 스크린</string>
-    <string name="player_state_no_media">스트림이 선택되지 않았습니다.</string>
     <string name="player_state_no_media_ended">스트림을 선택하지 않았습니다 (종료 됨).</string>
     <string name="player_state_buffering">버퍼링</string>
 
@@ -121,17 +113,12 @@
     <string name="settings_provider_select_error_playlist">재생 목록이 잘못되었거나 지원되는 채널이 없습니다.</string>
     <string name="settings_provider_select_error_live">지원되는 라이브 채널이 없습니다. 사용자 이름 / 키 / 비밀번호 / URL을 확인하십시오.</string>
 
-    <string name="auto_turn_off_since_hdmi_off">HDMI 플러그가 뽑힘 : 비디오 자동 끄기</string>
-
-    <string name="archive_auto_seek_title">이 비디오의 마지막 기억 위치를 찾으십니까?</string>
     <string name="archive_auto_seek_no">아니, 처음부터보기</string>
-    <string name="archive_auto_seek_yes">네, 추구합니다.</string>
     <string name="future_show_sheet_add_wl_title">채널로 전환하도록 알림</string>
     <string name="future_show_sheet_search_title">아카이브에서 검색</string>
     <string name="future_show_sheet_search_none">제공자 기록에이 동영상이 없습니다.</string>
     <string name="notify_live_sheet_title">나중에 보려고 표시 한 비디오가 온라인 상태입니다.</string>
     <string name="notify_live_sheet_text">동영상을 보려면 전환하십시오.</string>
-    <string name="vod_root_title_provider">의 미디어 라이브러리</string>
     <string name="feature_requires_premium">이 기능에는 프리미엄이 필요합니다.</string>
     <string name="feature_requires_restart">앱을 다시 시작해야합니다.</string>
     <string name="no_teleguide">EPG 텔레 가이드 없음</string>
@@ -149,7 +136,6 @@
     <string name="settings_provider">공급자</string>
     <string name="settings_media_library">미디어 라이브러리</string>
     <string name="settings_media_library_dnla">로컬 네트워크에서 UPnP / DNLA 소스 검색</string>
-    <string name="settings_media_library_prov_vod">스캔 공급자 미디어 라이브러리가있는 경우</string>
 
     <string name="settings_player">플레이어</string>
     <string name="settings_player_hide_ui">재생시 UI 오버레이 숨기기</string>
@@ -200,10 +186,6 @@
     <string name="settings_ui_screen_margins">화면 여백</string>
     <string name="settings_ui_language">언어 (설정되지 않은 경우 기본값 사용)</string>
 
-    <string name="settings_disable_provider_categories">채널의 공급자 범주를 따르지 마십시오.</string>
-
-    <string name="settings_devices_no_hdmi">HDMI 상태 변경 사항을 모니터링하지 않음</string>
-
     <string name="settings_codec">코덱 설정</string>
     <string name="settings_codec_hard">항상 하드웨어 코덱 사용</string>
     <string name="settings_codec_soft_vlc">항상 소프트웨어 VLC 코덱 사용</string>
@@ -244,16 +226,13 @@
     <string name="cfg_play_deny_buffer">버퍼링 상태 표시 안 함</string>
     <string name="copied_clipboard">클립 보드에 복사 됨</string>
     <string name="cfg_play_action_menu">메뉴 열기</string>
-    <string name="cfg_play_action_another">다른 스트림 선택 열기</string>
     <string name="cfg_play_action_timetable">시간표를 열어 라.</string>
     <string name="cfg_play_action_prev">이전 채널로 전환</string>
     <string name="cfg_play_action_next">다음 채널로 전환</string>
-    <string name="cfg_play_action_params">재생 매개 변수 열기</string>
     <string name="cfg_play_action_last">마지막으로 재생 된 채널로 전환</string>
     <string name="cfg_play_action_title">원격 제어기 설정</string>
     <string name="cfg_play_action_btn_archive_as_live">아카이브를 보면서 동일한 설정을 사용하십시오 (왼쪽 및 오른쪽 버튼을 사용하여 찾기를 비활성화합니다).</string>
     <string name="cfg_trans_wind">투명한 인터페이스 사용</string>
-    <string name="cfg_list_poster_time">포스터 지속 시간 표시 (가능한 경우 초)</string>
 
 
     <string name="do_not_show">보여주지 마시오</string>
@@ -274,12 +253,10 @@
     <string name="provider_generic">일반 공급자 또는 재생 목록</string>
     <string name="watched">보았다:</string>
     <string name="btn_search">수색</string>
-    <string name="hint_vod_cache">미디어 라이브러리는 며칠 동안 데이터를 캐시합니다. 새로운 데이터가 더 빨리 나타나려면 설정에서 캐시를 지우고 앱을 다시 시작하십시오.</string>
     <string name="premium_fea_6">무선 디스플레이로 스트림 보내기</string>
     <string name="wifi_display">무선 디스플레이</string>
     <string name="wifi_display_desc">다른 기기에서 스트림 재생</string>
 
-    <string name="cfg_play_action_fav">좋아하는 채널 선택 열기</string>
     <string name="cfg_play_action_pp">재생 일시 중지 또는 다시 시작</string>
     <string name="cfg_play_action_btn_red">빨간색 버튼에 대한 작업</string>
     <string name="cfg_play_action_btn_green">녹색 버튼에 대한 작업</string>
@@ -303,7 +280,6 @@
     <string name="cfg_ign_last_codec">채널을 재생하는 데 사용 된 마지막 코덱을 기억하지 못함</string>
     <string name="btn_schedule_epg">EPG 재 장전 일정</string>
     <string name="err_archive_is_shorter">이 채널의 보관 파일은 제공 업체에서 수명이 짧습니다.</string>
-    <string name="cfg_no_seek">매번 새로운 위치에서 스트림을 다시 열어 탐색을 에뮬레이션합니다.</string>
     <string name="cfg_section_backup">백업 및 복원</string>
     <string name="btn_backup_info">백업은 키에 의해 기록됩니다. 백업이 완료되면 바로 기록하십시오. 백업을 사용할 수있는 기간은 보장 할 수 없습니다.</string>
     <string name="btn_backup_data">현재 구성 백업</string>
@@ -358,7 +334,6 @@
     <string name="cfg_section_desc">항목 설명</string>
     <string name="cfg_section_lists">목록 설정</string>
 
-    <string name="cfg_switch_dummy_on">간단한 설정 모드로 전환</string>
     <string name="cfg_no_hints">힌트를 표시하지 않음</string>
     <string name="setting_list_view_auto">테이블 (큰 아이콘, 화면에 맞게)</string>
     <string name="child_mode_unlock_cfg">설정 잠금을 해제하는 하위 코드 입력</string>
@@ -367,8 +342,6 @@
     <string name="cfg_play_deny_status">스트림 상태 표시 안함</string>
     <string name="cfg_player_hud">헤드 업 스타일의 스타일</string>
     <string name="cfg_player_hud_1">상단 및 하단</string>
-    <string name="cfg_player_hud_2">바닥에 결합</string>
-    <string name="cfg_player_hud_3">결합 된 상단</string>
     <string name="cfg_player_hide_menu">메뉴 숨기기 제한 시간 (초)</string>
     <string name="choose_auto">자동 선택</string>
     <string name="cfg_stream_tech">스트림 기술 (사용 가능한 경우)</string>
@@ -408,7 +381,6 @@
     <string name="menu_qs_provider_all">모든 활성 제공 업체</string>
     <string name="menu_tv_guide_cfg">TV 가이드보기 버튼</string>
     <string name="cfg_video_preview_sound">설명에서 동영상 미리보기에서 사운드 사용</string>
-    <string name="btn_schedule_upnp_vod_load">UPnP 미디어 라이브러리 새로 고침</string>
     <string name="provider_generic_middleware">일반 미들웨어 서버</string>
     <string name="provider_generic_list">공급자 목록</string>
     <string name="provider_generic_list_desc">주변의 일반적인 템플릿 (언어 및 지역)</string>
@@ -431,7 +403,6 @@
     <string name="cfg_epg_update_frequency">업데이트 빈도 (시간)</string>
     <string name="cfg_vod_merge">여러 소스의 미디어 라이브러리를 단일 목록에 병합합니다 (다시로드해야 함).</string>
     <string name="ch_manage_rename">이름 바꾸기</string>
-    <string name="name_already_taken">이름이 이미 사용 중입니다.</string>
     <string name="pla_timeshift_from_current">현재 순간부터 시작</string>
     <string name="cfg_play_action_timeshift_start">처음부터 보관 된 tv-show 열기</string>
     <string name="cfg_play_action_timeshift_now">현재 시간부터 보관 된 TV 쇼 열기</string>
@@ -472,7 +443,6 @@
     <string name="player_menu_manage_epg">tv-show 관리</string>
     <string name="help_faq">자주 묻는 질문</string>
     <string name="pla_menu_item_visibility">메뉴 버튼 공개 설정</string>
-    <string name="pla_menu_item_visibility_desc">쓸모없는</string>
     <string name="pla_menu_type">메뉴 비주얼 스타일</string>
     <string name="pla_menu_type_list">명부</string>
     <string name="pla_menu_type_grid">그리드</string>
@@ -547,7 +517,6 @@
     <string name="media_tracks_sub">자막</string>
     <string name="cfg_lists_auto_scroll_to_last_touch">마지막 항목으로 자동 스크롤 (터치 모드)</string>
     <string name="hint_right_archives">라이브 채널을 탐색하는 동안 오른쪽 버튼을 눌러 보관 목록을 열 수 있습니다</string>
-    <string name="cfg_atv_home_always_reset_favorites">홈 화면에서 항상 즐겨 찾기 목록 재설정</string>
     <string name="switch_audio_hw">하드웨어 오디오 디코더 사용</string>
     <string name="switch_audio_sw">소프트웨어 오디오 디코더 사용</string>
     <string name="afr_mode_scale">화면 해상도를 변경해야합니다</string>
@@ -557,4 +526,114 @@
     <string name="ch_man_map_to_logo">채널 로고 선택</string>
     <string name="cfg_tvguide_large_preview">미리보기로 더 큰 설명 표시</string>
     <string name="cfg_time_shift_from_utc">시스템 시간과의 차이</string>
+    <string name="internal_value">내부 가치</string>
+    <string name="displayed_value">표시 값</string>
+    <string name="cfg_play_action_ch_list">열린 채널 목록</string>
+    <string name="cfg_enable_resolution_fix">해결 수정 사용</string>
+    <string name="minutes">의사록</string>
+    <string name="cfg_ban_bad_channels_qs">빠른 스위치에서 깨진 채널 제거</string>
+    <string name="loading_data">데이터 로딩</string>
+    <string name="cfg_list_ch_no_country">채널 이름에서 국가 제거</string>
+    <string name="cfg_network">회로망</string>
+    <string name="select_sort_order">정렬 순서 선택</string>
+    <string name="sort_order_abc">알파벳순</string>
+    <string name="sort_order_cba">알파벳순 (역순)</string>
+    <string name="sort_order_uploaded">업로드 날짜</string>
+    <string name="cfg_video_effect">비디오 효과</string>
+    <string name="cfg_video_effect_grain">필름 그레인</string>
+    <string name="cfg_logo_prefer">선호하는 채널 아이콘 소스</string>
+    <string name="cfg_logo_from_provider">공급자의 아이콘</string>
+    <string name="cfg_logo_from_file">로컬 디렉토리의 아이콘</string>
+    <string name="cfg_logo_from_epg">EPG에서 아이콘</string>
+    <string name="cfg_pla_act_ui_brightness">화면 밝기 변경 (터치)</string>
+    <string name="cfg_pla_act_ui_volume">오디오 볼륨 변경 (터치)</string>
+    <string name="swipe_vertical">수직 스 와이프</string>
+    <string name="swipe_horizontal">가로 스 와이프</string>
+    <string name="cfg_max_epg_load_back">기록에 EPG를로드하는 최대 일수</string>
+    <string name="expiration">만료</string>
+    <string name="trial_account">평가판 계정</string>
+    <string name="premium_google_account">모든 구매는 동일한 계정을 공유하는 모든 장치에 적용됩니다.</string>
+    <string name="player_live_recent_archive">최근에 재생 한 보관 비디오의 재생을 재개 하시겠습니까?</string>
+    <string name="player_live_recent_archive_archive">재생 재개</string>
+    <string name="player_live_recent_archive_live">라이브 스트림</string>
+    <string name="pos_on_left">왼쪽에</string>
+    <string name="pos_on_right">오른쪽에</string>
+    <string name="cfg_list_pos_on_screen">화면상의 위치를 표시합니다</string>
+    <string name="cfg_list_size_on_screen">화면에 크기를 나열합니다</string>
+    <string name="cfg_list_desc_allow">설명이 목록에 표시되도록 허용</string>
+    <string name="cfg_ext_app_on_home">홈 화면에 외부 응용 프로그램 표시</string>
+    <string name="player_select_screen_main">메인 화면</string>
+    <string name="never">못</string>
+    <string name="by_default">기본적으로</string>
+    <string name="sleep_timer">수면 타이머</string>
+<string name="err_need_provider">IPTV 제공 업체가 필요합니다</string>
+    <string name="err_need_provider_text">IPTV 제공자를 구성해야합니다. 설정을 열고 제공 업체 (또는 재생 목록)를 추가하십시오.</string>
+    <string name="unlock_premium">프리미엄 잠금 해제</string>
+    <string name="about_app">앱 정보</string>
+    <string name="contact_dev">개발자에게 문의</string>
+    <string name="with_stats">앱을 개선하기 위해 익명 통계 전송 허용</string>
+    <string name="last_epg_load_ok">마지막으로 성공한 EPG 로딩 정보</string>
+    <string name="mass_add_chls_to_this_cat">이 카테고리에 채널 추가</string>
+    <string name="minutes_ago_10">10 분 전</string>
+    <string name="time_warp">타임 워프</string>
+    <string name="show_dir_sep_from_videos">비디오와 별도로 디렉토리 표시</string>
+    <string name="epg_warn_search_by_name_custom">일반 소스는 채널 이름으로 만 검색됩니다. 공급자를 위해 특별히 만든 소스가있는 경우 공급자 속성에서 구성하십시오.</string>
+    <string name="show_archive_playback_marker">현재 녹화 된 비디오를 재생중인 경우 마커 표시</string>
+    <string name="user_vod_sources">사용자 제공 미디어 라이브러리 소스</string>
+    <string name="append_user_source">사용자 제공 소스 추가</string>
+    <string name="black_screen_on_ch_switch">채널을 전환하는 동안 검은 색 화면 표시</string>
+    <string name="clear_custom_ch_order">원래 채널 순서 복원</string>
+    <string name="channels_processed">처리 된 채널</string>
+    <string name="atv_split_to_different_channels">여러 컨텐츠 유형을 다른 행으로 분할</string>
+    <string name="number_already_taken">이 번호는 이미 사용 중입니다</string>
+    <string name="fold_duplicate_channels">중복 요소를 단일 요소로 접기</string>
+    <string name="select_another_media_source">다른 미디어 소스로 전환</string>
+    <string name="user_epg_sources">사용자 제공 EPG 소스</string>
+    <string name="reload_data">데이터 새로 고침</string>
+    <string name="assume_long_buffering_as_error">긴 버퍼링이 채널 오류라고 가정</string>
+    <string name="show_installation_number">설치 번호 표시</string>
+    <string name="sort_archive_by_date">보관 된 비디오를 날짜별로 정렬</string>
+    <string name="simplified_mode">단순화 된 모드</string>
+    <string name="hide_advanced_features">고급 기능 숨기기</string>
+    <string name="select_player_to_use">재생에 사용할 플레이어를 선택하십시오</string>
+    <string name="auto_unfold_current_element_info">현재 선택된 요소 정보를 자동으로 전개</string>
+    <string name="error_occurred">오류가 발생했습니다</string>
+    <string name="applies_to_provider_loded">로드중인 제공자에 적용</string>
+    <string name="applies_to_final_ch_list">최종 채널 목록에 적용</string>
+    <string name="vod_folder_series">TV 시리즈</string>
+    <string name="vod_folder_movies">영화 산업</string>
+    <string name="show_hidden_content">숨겨진 컨텐츠 표시</string>
+    <string name="rewind_speed">되감기 속도</string>
+    <string name="disable_provider_epg">사용자가 제공 한 것만 사용하여 공급자 EPG 소스 비활성화</string>
+    <string name="allow_bad_ssl">잘못된 SSL 인증서 허용</string>
+    <string name="auto_start_next_episode">다음 에피소드 자동 시작</string>
+    <string name="unique_devices">독특한 장치</string>
+    <string name="sign_in">로그인</string>
+    <string name="register">레지스터</string>
+    <string name="not_logged_in">로그인하지 않았습니다</string>
+    <string name="sign_in_to_activate">로그인하여 활성화</string>
+    <string name="user_account_for_premium">프리미엄 기능 관리를위한 사용자 계정</string>
+    <string name="logout">로그 아웃</string>
+    <string name="pro_sub_expired">가입이 만료되었습니다</string>
+    <string name="days">일</string>
+    <string name="price">가격</string>
+    <string name="do_not_offer_any_more">더 이상 이것을 제공하지 마십시오</string>
+    <string name="cfg_offer_to_seek_to_last_pos">마지막으로 본 포지션을 찾도록 제안</string>
+    <string name="best_offer">최고의 제안</string>
+    <string name="popular_offer">인기있는 제안</string>
+    <string name="favorites_go_top">즐겨 찾기 목록 항목이 먼저 나열되어야합니다</string>
+    <string name="action_lock_screen">화면 차단 차단</string>
+    <string name="screen_is_locked">화면 제어가 차단되었습니다</string>
+    <string name="prev_category">이전 카테고리</string>
+    <string name="change_category_type">카테고리 유형 변경</string>
+    <string name="scroll_speed_for_desc">자세한 설명을위한 스크롤 속도</string>
+    <string name="select_value_to_start_from">시작할 값을 선택하십시오</string>
+    <string name="enabled_modules">활성화 된 모듈</string>
+    <string name="replace_provider_order_abc">제공 업체 채널 주문을 알파벳순으로 교체</string>
+    <string name="nothing_to_backup">백업 할 데이터가 없습니다!</string>
+    <string name="qr_code_desc">휴대 전화에서 카메라 앱을 사용하여 코드를 스캔 할 수 있습니다. 또는 코드가 클립 보드에 복사되었으므로 다른 앱에 붙여 넣기 만하면됩니다.</string>
+    <string name="next_page">다음 페이지</string>
+    <string name="user_exp_level">사용자 경험 수준</string>
+    <string name="user_exp_mode_normal">일반 모드</string>
+    <string name="user_exp_mode_expert">전문가 모드</string>
     </resources>
