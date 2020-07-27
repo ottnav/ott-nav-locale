@@ -161,9 +161,6 @@
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Dezactivați anunțurile pentru totdeauna printr-o singură plată</string>
     <string name="setting_list_view_title">Cum trebuie afișate listele</string>
     <string name="setting_list_view1">listă simplă</string>
-    <string name="setting_list_view2">tabel (2 coloane) cu descriere</string>
-    <string name="setting_list_view3">tabel (3 coloane)</string>
-    <string name="setting_list_view4">tabel (4 coloane)</string>
     <string name="cfg_play_deny_buffer">Nu afișați starea de tamponare</string>
     <string name="copied_clipboard">Copiat în clipboard</string>
     <string name="cfg_play_action_menu">deschide meniul</string>
@@ -270,7 +267,6 @@
     <string name="cfg_section_desc">Descrierea obiectului</string>
     <string name="cfg_section_lists">Listează setările</string>
     <string name="cfg_no_hints">Nu afișați indicii</string>
-    <string name="setting_list_view_auto">tabel (pictograme mari, potriviți ecranul)</string>
     <string name="child_mode_unlock_cfg">Introduceți codul pentru a debloca setările</string>
     <string name="cfg_child_mode">Modul copil</string>
     <string name="cfg_child_mode_number">Cod pentru ieșirea din modul copil (4 cifre)</string>
@@ -379,7 +375,6 @@
     <string name="ch_manage_use_internal">Folosiți playerul intern</string>
     <string name="cat_manage_start_this_cat_on">Începeți din această categorie</string>
     <string name="cfg_show_ch_desc">Arată descrierea difuzării</string>
-    <string name="cfg_show_archive_marker">Afișează markerul de disponibilitate al arhivei</string>
     <string name="studio_mode_open_in">Deschideți în modul Studio</string>
     <string name="studio_mode_title">Mod Studio</string>
     <string name="studio_mode_remove">Scoateți ecranul</string>
@@ -432,7 +427,6 @@
     <string name="hours">ore</string>
     <string name="parental_control">control parental</string>
     <string name="show_different_time_frame_guide">Afișează orarul anterior sau ulterior</string>
-    <string name="cfg_list_long_arrow_pg_down">Tratați săgeata lungă, apăsați navigarea pe pagini</string>
     <string name="seconds">secunde</string>
     <string name="not_limited">nu este limitat</string>
     <string name="auto_detected">detectat automat</string>
@@ -565,4 +559,12 @@
     <string name="user_exp_level">Nivel de experiență al utilizatorului</string>
     <string name="user_exp_mode_normal">Mod normal</string>
     <string name="user_exp_mode_expert">Modul expert</string>
+    <string name="press_to_quick_jump_day">Apăsați pentru a sari într-o altă zi.</string>
+    <string name="left_right_as_pgdown">Folosiți butoanele săgeată stânga / dreapta pentru a derula paginile</string>
+    <string name="wallpaper">Imagine de fundal (tapet)</string>
+    <string name="animations">Animații</string>
+    <string name="less_animations">Mai puține animații</string>
+    <string name="large_cards">Cărți mari</string>
+    <string name="small_cards">Cărți mici</string>
+    <string name="recommend_disabling_item_description">Vă sugerăm să setați dimensiunea listei la 100%, pentru a ocupa întregul ecran</string>
     </resources>

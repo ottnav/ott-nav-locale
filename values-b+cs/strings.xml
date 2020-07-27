@@ -161,9 +161,6 @@
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Zakázat reklamy navždy jedinou platbou</string>
     <string name="setting_list_view_title">Jak by se měly seznamy zobrazovat</string>
     <string name="setting_list_view1">jednoduchý seznam</string>
-    <string name="setting_list_view2">tabulka (2 sloupce) s popisem</string>
-    <string name="setting_list_view3">tabulka (3 sloupce)</string>
-    <string name="setting_list_view4">tabulka (4 sloupce)</string>
     <string name="cfg_play_deny_buffer">Nezobrazovat stav vyrovnávací paměti</string>
     <string name="copied_clipboard">Zkopírováno do schránky</string>
     <string name="cfg_play_action_menu">Otevřete nabídku</string>
@@ -270,7 +267,6 @@
     <string name="cfg_section_desc">Popis položky</string>
     <string name="cfg_section_lists">Nastavení seznamů</string>
     <string name="cfg_no_hints">Nezobrazovat rady</string>
-    <string name="setting_list_view_auto">stůl (velké ikony, vejde na obrazovku)</string>
     <string name="child_mode_unlock_cfg">Chcete-li odemknout nastavení, zadejte podřízený kód</string>
     <string name="cfg_child_mode">Dětský režim</string>
     <string name="cfg_child_mode_number">Kód pro opuštění podřízeného režimu (4 číslice)</string>
@@ -379,7 +375,6 @@
     <string name="ch_manage_use_internal">Použijte interní přehrávač</string>
     <string name="cat_manage_start_this_cat_on">Začněte z této kategorie</string>
     <string name="cfg_show_ch_desc">Zobrazit popis vysílání</string>
-    <string name="cfg_show_archive_marker">Zobrazit značku dostupnosti archivu</string>
     <string name="studio_mode_open_in">Otevřít v režimu Studio</string>
     <string name="studio_mode_title">Studiový režim</string>
     <string name="studio_mode_remove">Odebrat obrazovku</string>
@@ -432,7 +427,6 @@
     <string name="hours">hodin</string>
     <string name="parental_control">rodičovská kontrola</string>
     <string name="show_different_time_frame_guide">Zobrazit dřívější nebo pozdější rozvrh</string>
-    <string name="cfg_list_long_arrow_pg_down">Dopřejte dlouhou šipku stisknutím navigace po stránkách</string>
     <string name="seconds">sekundy</string>
     <string name="not_limited">neomezeno</string>
     <string name="auto_detected">automaticky detekováno</string>
@@ -565,4 +559,12 @@
     <string name="user_exp_level">Úroveň uživatelské zkušenosti</string>
     <string name="user_exp_mode_normal">Normální mód</string>
     <string name="user_exp_mode_expert">Expertní režim</string>
+    <string name="press_to_quick_jump_day">Stisknutím přejdete na další den.</string>
+    <string name="left_right_as_pgdown">Pomocí tlačítek se šipkami doleva / doprava můžete procházet stránkami</string>
+    <string name="wallpaper">Obrázek na pozadí (tapeta)</string>
+    <string name="animations">Animace</string>
+    <string name="less_animations">Méně animací</string>
+    <string name="large_cards">Velké karty</string>
+    <string name="small_cards">Malé karty</string>
+    <string name="recommend_disabling_item_description">Doporučujeme nastavit velikost seznamu na 100%, aby bylo možné obsadit celou obrazovku</string>
     </resources>

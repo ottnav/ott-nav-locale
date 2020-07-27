@@ -215,9 +215,6 @@
 
     <string name="setting_list_view_title">Nimekirjade kuvamine</string>
     <string name="setting_list_view1">lihtne nimekiri</string>
-    <string name="setting_list_view2">tabel (2 veergu) koos kirjeldusega</string>
-    <string name="setting_list_view3">tabel (3 veergu)</string>
-    <string name="setting_list_view4">tabel (4 veergu)</string>
     <string name="cfg_play_deny_buffer">Ära näita puhverdusolekut</string>
     <string name="copied_clipboard">Kopeeritud lõikepuhvrisse</string>
     <string name="cfg_play_action_menu">avatud menüü</string>
@@ -333,7 +330,6 @@
     <string name="cfg_section_lists">Loetleb seadeid</string>
 
     <string name="cfg_no_hints">Ära näita vihjeid</string>
-    <string name="setting_list_view_auto">tabel (suured ikoonid, sobivad ekraanile)</string>
     <string name="child_mode_unlock_cfg">Seadistuste avamiseks sisestage lapse kood</string>
     <string name="cfg_child_mode">Lapse režiim</string>
     <string name="cfg_child_mode_number">Kood lapsrežiimist väljumiseks (4 numbrit)</string>
@@ -450,7 +446,6 @@
     <string name="cat_manage_start_this_cat_on">Alustage sellest kategooriast</string>
 
     <string name="cfg_show_ch_desc">Kuva saate kirjeldus</string>
-    <string name="cfg_show_archive_marker">Kuva arhiivi saadavuse marker</string>
     <string name="studio_mode_open_in">Avage stuudiorežiimis</string>
     <string name="studio_mode_title">Stuudio režiim</string>
     <string name="studio_mode_remove">Eemaldage ekraan</string>
@@ -503,7 +498,6 @@
     <string name="hours">tundi</string>
     <string name="parental_control">vanemlik kontroll</string>
     <string name="show_different_time_frame_guide">Kuva varasem või hilisem sõiduplaan</string>
-    <string name="cfg_list_long_arrow_pg_down">Töödelge pika nooleklahvi abil lehtedel navigeerimist</string>
     <string name="seconds">sekundit</string>
     <string name="not_limited">pole piiratud</string>
     <string name="auto_detected">automaatselt tuvastatud</string>
@@ -636,4 +630,12 @@
     <string name="user_exp_level">Kasutajakogemuse tase</string>
     <string name="user_exp_mode_normal">Tavaline mood</string>
     <string name="user_exp_mode_expert">Ekspertrežiim</string>
+    <string name="press_to_quick_jump_day">Teisele päevale liikumiseks vajutage.</string>
+    <string name="left_right_as_pgdown">Lehtede sirvimiseks kasutage vasakut / paremat noolenuppu</string>
+    <string name="wallpaper">Taustapilt (tapeet)</string>
+    <string name="animations">Animatsioonid</string>
+    <string name="less_animations">Vähem animatsioone</string>
+    <string name="large_cards">Suured kaardid</string>
+    <string name="small_cards">Väikesed kaardid</string>
+    <string name="recommend_disabling_item_description">Kogu ekraani hõivamiseks soovitame seada loendisuuruseks 100%</string>
     </resources>

@@ -215,9 +215,6 @@
     
     <string name="setting_list_view_title">Kā jāparāda saraksti</string>
     <string name="setting_list_view1">vienkāršs saraksts</string>
-    <string name="setting_list_view2">tabula (2 slejas) ar aprakstu</string>
-    <string name="setting_list_view3">tabula (3 slejas)</string>
-    <string name="setting_list_view4">tabula (4 slejas)</string>
     <string name="cfg_play_deny_buffer">Nerādīt buferizācijas statusu</string>
     <string name="copied_clipboard">Kopēts starpliktuvē</string>
     <string name="cfg_play_action_menu">atveriet izvēlni</string>
@@ -331,7 +328,6 @@
     <string name="cfg_section_lists">Sarakstu iestatījumi</string>
 
     <string name="cfg_no_hints">Nerādīt ieteikumus</string>
-    <string name="setting_list_view_auto">tabula (lielas ikonas, atbilst ekrānam)</string>
     <string name="child_mode_unlock_cfg">Ievadiet bērnu kodu, lai atbloķētu iestatījumus</string>
     <string name="cfg_child_mode">Bērnu režīms</string>
     <string name="cfg_child_mode_number">Kods, lai izietu no bērnu režīma (4 cipari)</string>
@@ -448,7 +444,6 @@
     <string name="cat_manage_start_this_cat_on">Sāciet no šīs kategorijas</string>
 
     <string name="cfg_show_ch_desc">Rādīt apraides aprakstu</string>
-    <string name="cfg_show_archive_marker">Rādīt arhīva pieejamības marķieri</string>
     <string name="studio_mode_open_in">Atvērts studijas režīmā</string>
     <string name="studio_mode_title">Studijas režīms</string>
     <string name="studio_mode_remove">Noņemt ekrānu</string>
@@ -501,7 +496,6 @@
     <string name="hours">stundas</string>
     <string name="parental_control">vecāku kontrole</string>
     <string name="show_different_time_frame_guide">Rādīt agrāku vai vēlāku grafiku</string>
-    <string name="cfg_list_long_arrow_pg_down">Apstrādājiet garu bulttaustiņu, nospiežot navigāciju pa lapām</string>
     <string name="seconds">sekundes</string>
     <string name="not_limited">nav ierobežots</string>
     <string name="auto_detected">automātiski atklāts</string>
@@ -634,4 +628,12 @@
     <string name="user_exp_level">Lietotāju pieredzes līmenis</string>
     <string name="user_exp_mode_normal">Normāls režīms</string>
     <string name="user_exp_mode_expert">Ekspertu režīms</string>
+    <string name="press_to_quick_jump_day">Nospiediet, lai pārietu uz citu dienu.</string>
+    <string name="left_right_as_pgdown">Izmantojiet kreiso / labo bulttaustiņu, lai ritinātu pa lappusēm</string>
+    <string name="wallpaper">Fona attēls (fona attēls)</string>
+    <string name="animations">Animācijas</string>
+    <string name="less_animations">Mazāk animāciju</string>
+    <string name="large_cards">Lielas kartes</string>
+    <string name="small_cards">Mazas kartītes</string>
+    <string name="recommend_disabling_item_description">Mēs iesakām iestatīt saraksta lielumu uz 100%, lai tas aizņemtu visu ekrānu</string>
     </resources>

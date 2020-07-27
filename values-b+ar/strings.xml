@@ -220,9 +220,6 @@
 
     <string name="setting_list_view_title">كيف ينبغي عرض القوائم</string>
     <string name="setting_list_view1">قائمة بسيطة</string>
-    <string name="setting_list_view2">الجدول (2 عمود) مع الوصف</string>
-    <string name="setting_list_view3">الجدول (3 أعمدة)</string>
-    <string name="setting_list_view4">الجدول (4 أعمدة)</string>
     <string name="cfg_play_deny_buffer">لا تظهر حالة التخزين المؤقت</string>
     <string name="copied_clipboard">نسخ إلى الحافظة</string>
     <string name="cfg_play_action_menu">فتح القائمة</string>
@@ -334,7 +331,6 @@
     <string name="cfg_section_lists">إعدادات القوائم</string>
 
     <string name="cfg_no_hints">لا تظهر تلميحات</string>
-    <string name="setting_list_view_auto">الجدول (أيقونات كبيرة ، تناسب الشاشة)</string>
     <string name="child_mode_unlock_cfg">أدخل رمز الطفل لفتح الإعدادات</string>
     <string name="cfg_child_mode">حالة الطفل</string>
     <string name="cfg_child_mode_number">رمز للخروج من الوضع الفرعي (4 أرقام)</string>
@@ -449,7 +445,6 @@
     <string name="cat_manage_start_this_cat_on">ابدأ من هذه الفئة</string>
 
     <string name="cfg_show_ch_desc">عرض وصف البث</string>
-    <string name="cfg_show_archive_marker">عرض علامة توافر الأرشيف</string>
     <string name="studio_mode_open_in">فتح في وضع الاستوديو</string>
     <string name="studio_mode_title">وضع الاستوديو</string>
     <string name="studio_mode_remove">إزالة الشاشة</string>
@@ -502,7 +497,6 @@
     <string name="hours">ساعات</string>
     <string name="parental_control">مراقبة اهلية</string>
     <string name="show_different_time_frame_guide">عرض الجدول الزمني في وقت سابق أو في وقت لاحق</string>
-    <string name="cfg_list_long_arrow_pg_down">علاج الملاحة السهم مفتاح الصحافة طويلة من قبل الصفحات</string>
     <string name="seconds">ثواني</string>
     <string name="not_limited">ليس محدودا</string>
     <string name="auto_detected">الكشف التلقائي</string>
@@ -635,4 +629,12 @@
     <string name="user_exp_level">مستوى تجربة المستخدم</string>
     <string name="user_exp_mode_normal">الوضع العادي</string>
     <string name="user_exp_mode_expert">وضع الخبراء</string>
+    <string name="press_to_quick_jump_day">اضغط للقفز إلى يوم آخر.</string>
+    <string name="left_right_as_pgdown">استخدم زري السهم الأيمن / الأيسر للتمرير حسب الصفحات</string>
+    <string name="wallpaper">صورة الخلفية (ورق الحائط)</string>
+    <string name="animations">الرسوم المتحركة</string>
+    <string name="less_animations">رسوم متحركة أقل</string>
+    <string name="large_cards">بطاقات كبيرة</string>
+    <string name="small_cards">بطاقات صغيرة</string>
+    <string name="recommend_disabling_item_description">نقترح تعيين حجم القائمة على 100٪ ، لتحتل الشاشة بأكملها</string>
     </resources>

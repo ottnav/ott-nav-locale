@@ -219,9 +219,6 @@
 
     <string name="setting_list_view_title">Ansicht der Kanalliste</string>
     <string name="setting_list_view1">einfache Liste</string>
-    <string name="setting_list_view2">Tabelle (2 Spalten) mit Beschreibung</string>
-    <string name="setting_list_view3">Tabelle (3 Spalten)</string>
-    <string name="setting_list_view4">Tabelle (4 Spalten)</string>
     <string name="cfg_play_deny_buffer">Pufferstatus nicht anzeigen</string>
     <string name="copied_clipboard">In die Zwischenablage kopiert</string>
     <string name="cfg_play_action_menu">Menü öffnen</string>
@@ -333,7 +330,6 @@
     <string name="cfg_section_lists">Listet die Einstellungen auf</string>
 
     <string name="cfg_no_hints">Keine Hinweise anzeigen</string>
-    <string name="setting_list_view_auto">Tabelle (große Symbole, Bildschirmanpassung)</string>
     <string name="child_mode_unlock_cfg">Geben Sie den untergeordneten Code ein, um die Einstellungen zu entsperren</string>
     <string name="cfg_child_mode">Kindermode</string>
     <string name="cfg_child_mode_number">Code zum Verlassen eines Kindermodus (4 Ziffern)</string>
@@ -448,7 +444,6 @@
     <string name="cat_manage_start_this_cat_on">Beginnen Sie mit dieser Kategorie</string>
 
     <string name="cfg_show_ch_desc">Broadcast-Beschreibung anzeigen</string>
-    <string name="cfg_show_archive_marker">Archivverfügbarkeitsmarkierung anzeigen</string>
     <string name="studio_mode_open_in">Im Studio-Modus öffnen</string>
     <string name="studio_mode_title">Studiomodus</string>
     <string name="studio_mode_remove">Bildschirm entfernen</string>
@@ -501,7 +496,6 @@
     <string name="hours">Std</string>
     <string name="parental_control">elterliche Kontrolle</string>
     <string name="show_different_time_frame_guide">Zeige früheren oder späteren Stundenplan</string>
-    <string name="cfg_list_long_arrow_pg_down">Behandeln Sie lange Pfeiltasten Navigation von Seiten</string>
     <string name="seconds">Sekunden</string>
     <string name="not_limited">nicht limitiert</string>
     <string name="auto_detected">automatisch erkannt</string>
@@ -634,4 +628,12 @@
     <string name="user_exp_level">User Experience Level</string>
     <string name="user_exp_mode_normal">Normaler Modus</string>
     <string name="user_exp_mode_expert">Expertenmodus</string>
+    <string name="press_to_quick_jump_day">Drücken Sie, um zu einem anderen Tag zu springen.</string>
+    <string name="left_right_as_pgdown">Verwenden Sie die Pfeiltasten nach links / rechts, um durch die Seiten zu scrollen</string>
+    <string name="wallpaper">Hintergrundbild (Hintergrundbild)</string>
+    <string name="animations">Animationen</string>
+    <string name="less_animations">Weniger Animationen</string>
+    <string name="large_cards">Große Karten</string>
+    <string name="small_cards">Kleine Karten</string>
+    <string name="recommend_disabling_item_description">Wir empfehlen, die Listengröße auf 100% festzulegen, um den gesamten Bildschirm zu belegen</string>
     </resources>

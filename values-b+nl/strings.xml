@@ -1,5 +1,5 @@
 <resources>
-<string name="press_back_once_more_to_exit">Druk nogmaals om af te sluiten</string>
+    <string name="press_back_once_more_to_exit">Druk nogmaals om af te sluiten</string>
     <string name="search_bar">Zoeken op kanalen of programma\'s</string>
     <string name="search_bar_clue">Probeer film-, tv-series, tv-shownamen of acteursnamen</string>
     <string name="menu_search">Video zoeken</string>
@@ -162,9 +162,6 @@
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Schakel advertenties voor altijd uit met een enkele betaling</string>
     <string name="setting_list_view_title">Hoe lijsten moeten worden weergegeven</string>
     <string name="setting_list_view1">eenvoudige lijst</string>
-    <string name="setting_list_view2">tabel (2 kolommen) met beschrijving</string>
-    <string name="setting_list_view3">tafel (3 kolommen)</string>
-    <string name="setting_list_view4">tafel (4 kolommen)</string>
     <string name="cfg_play_deny_buffer">Toon geen bufferstatus</string>
     <string name="copied_clipboard">Gekopieerd naar het klembord</string>
     <string name="cfg_play_action_menu">open menu</string>
@@ -236,7 +233,7 @@
     <string name="premium_fea_pre_vid">Toon geselecteerde videovoorbeeld in de beschrijving</string>
     <string name="vp_audio_shift">Audio shift</string>
     <string name="vp_audio_shift_desc">Synchroniseer audio met video</string>
-    <string name="cfg_next_n_desc">Hoeveel volgende tv-programma's worden weergegeven in kanaalbeschrijving</string>
+    <string name="cfg_next_n_desc">Hoeveel volgende tv-programma\'s worden weergegeven in kanaalbeschrijving</string>
     <string name="cfg_codec_details_title">Codecs-voorkeuren instellen</string>
     <string name="cfg_codec_vlc_q">VLC codec kwaliteit</string>
     <string name="profile_speed_q">voorkeur snelheid</string>
@@ -256,11 +253,11 @@
     <string name="hud_short_seeking">Op zoek naar</string>
     <string name="cfg_player_clock_tr">rechterbovenhoek</string>
     <string name="cfg_player_clock_br">rechteronderhoek</string>
-    <string name="cfg_player_clock_bl"linkeronderhoek</string>
+    <string name="cfg_player_clock_bl">linkeronderhoek</string>
     <string name="cfg_player_clock_tl">linkerbovenhoek</string>
     <string name="cat_vr_continue">Blijf kijken</string>
-    <string name="cat_vr_continue_prem">Recent bekeken video's, die nu beschikbaar zijn</string>
-    <string name="premium_fea_continue">Toont alle recent bekeken video's die momenteel beschikbaar zijn in het filter Doorgaan</string>
+    <string name="cat_vr_continue_prem">Recent bekeken video\'s, die nu beschikbaar zijn</string>
+    <string name="premium_fea_continue">Toont alle recent bekeken video\'s die momenteel beschikbaar zijn in het filter Doorgaan</string>
     <string name="menu_swap_pip_sound">Wissel geluid tussen hoofdscherm en BiB</string>
     <string name="premium_fea_pre_vid_wp">Toestaan dat een videovoorbeeld wordt getoond tijdens het afspelen van een andere video</string>
     <string name="hint_click_icon">Als u op het pictogram van een kanaal of groep klikt, wordt een contextmenu geopend (indien beschikbaar).</string>
@@ -271,7 +268,6 @@
     <string name="cfg_section_desc">Product beschrijving</string>
     <string name="cfg_section_lists">Lijsten instellingen</string>
     <string name="cfg_no_hints">Toon geen hints</string>
-    <string name="setting_list_view_auto">tafel (grote pictogrammen, passend op het scherm)</string>
     <string name="child_mode_unlock_cfg">Voer de kinderslotcode in om de instellingen te ontgrendelen</string>
     <string name="cfg_child_mode">Kinderslotmodus</string>
     <string name="cfg_child_mode_number">Code om een kinderslotmodus te verlaten (4 cijfers)</string>
@@ -380,7 +376,6 @@
     <string name="ch_manage_use_internal">Gebruik interne speler</string>
     <string name="cat_manage_start_this_cat_on">Begin met deze categorie</string>
     <string name="cfg_show_ch_desc">Toon uitzendbeschrijving</string>
-    <string name="cfg_show_archive_marker">Toon archief beschikbaarheid marker</string>
     <string name="studio_mode_open_in">Open in de studiomodus</string>
     <string name="studio_mode_title">Studio-modus</string>
     <string name="studio_mode_remove">Verwijder scherm</string>
@@ -433,7 +428,6 @@
     <string name="hours">uur</string>
     <string name="parental_control">ouderlijk toezicht</string>
     <string name="show_different_time_frame_guide">Toon eerder of later tijdschema</string>
-    <string name="cfg_list_long_arrow_pg_down">Behandel lange pijltoets indrukken navigatie per pagina</string>
     <string name="seconds">seconden</string>
     <string name="not_limited">niet gelimiteerd</string>
     <string name="auto_detected">automatisch gedetecteerd</string>
@@ -496,7 +490,7 @@
     <string name="never">nooit</string>
     <string name="by_default">standaard</string>
     <string name="sleep_timer">Slaaptimer</string>
-<string name="err_need_provider">IPTV-provider is vereist</string>
+    <string name="err_need_provider">IPTV-provider is vereist</string>
     <string name="err_need_provider_text">U moet uw IPTV-provider configureren. Open de instellingen en voeg uw provider (of een afspeellijst) toe.</string>
     <string name="unlock_premium">Premium ontgrendelen</string>
     <string name="about_app">Over app</string>
@@ -566,4 +560,12 @@
     <string name="user_exp_level">Gebruikerservaringsniveau</string>
     <string name="user_exp_mode_normal">Normale modus</string>
     <string name="user_exp_mode_expert">Expert modus</string>
+    <string name="press_to_quick_jump_day">Druk op om naar een andere dag te springen.</string>
+    <string name="left_right_as_pgdown">Gebruik de pijltoetsen links / rechts om door pagina\'s te bladeren</string>
+    <string name="wallpaper">Achtergrondafbeelding (wallpaper)</string>
+    <string name="animations">Animaties</string>
+    <string name="less_animations">Minder animaties</string>
+    <string name="large_cards">Grote kaarten</string>
+    <string name="small_cards">Kleine kaartjes</string>
+    <string name="recommend_disabling_item_description">We raden aan om de lijstgrootte in te stellen op 100%, om het hele scherm te bezetten</string>
     </resources>

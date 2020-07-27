@@ -223,9 +223,6 @@
     
     <string name="setting_list_view_title">Kaip turi būti atvaizduojamas sąrašas?</string>
     <string name="setting_list_view1">paprastas sąrašas</string>
-    <string name="setting_list_view2">lentelė (2 stulpeliai) su aprašymu</string>
-    <string name="setting_list_view3">lentelė (3 stulpeliai)</string>
-    <string name="setting_list_view4">lentelė (4 stulpeliai)</string>
     <string name="cfg_play_deny_buffer">Nerodyti srauto krovimosi statuso</string>
     <string name="copied_clipboard">Nukopijuota į buferį</string>
     <string name="cfg_play_action_menu">atidaryti meniu</string>
@@ -339,7 +336,6 @@
     <string name="cfg_section_lists">Sąrašų nustatymai</string>
 
     <string name="cfg_no_hints">Nerodyti patarimų</string>
-    <string name="setting_list_view_auto">lentelė (didelės piktogramos, tinka ekranui)</string>
     <string name="child_mode_unlock_cfg">Įveskite vaikų kodą norėdami atrakinti nustatymus</string>
     <string name="cfg_child_mode">Vaiko režimas</string>
     <string name="cfg_child_mode_number">Kodas, jei norite išeiti iš vaikų režimo (4 skaitmenys)</string>
@@ -454,7 +450,6 @@
     <string name="cat_manage_start_this_cat_on">Pradėkite nuo šios kategorijos</string>
 
     <string name="cfg_show_ch_desc">Rodyti transliacijos aprašą</string>
-    <string name="cfg_show_archive_marker">Rodyti archyvo prieinamumo žymeklį</string>
     <string name="studio_mode_open_in">Atidarykite studijos režimu</string>
     <string name="studio_mode_title">Studijos režimas</string>
     <string name="studio_mode_remove">Pašalinti ekraną</string>
@@ -507,7 +502,6 @@
     <string name="hours">valandos</string>
     <string name="parental_control">tėvų kontrolė</string>
     <string name="show_different_time_frame_guide">Rodyti ankstesnį ar vėlesnį tvarkaraštį</string>
-    <string name="cfg_list_long_arrow_pg_down">Apdorokite ilgą rodyklės klavišą, naršydami po puslapius</string>
     <string name="seconds">sekundžių</string>
     <string name="not_limited">neribojamas</string>
     <string name="auto_detected">automatinis aptikimas</string>
@@ -640,4 +634,12 @@
     <string name="user_exp_level">Vartotojo patirties lygis</string>
     <string name="user_exp_mode_normal">Normalus režimas</string>
     <string name="user_exp_mode_expert">Eksperto lygis</string>
+    <string name="press_to_quick_jump_day">Paspauskite, jei norite pereiti į kitą dieną.</string>
+    <string name="left_right_as_pgdown">Norėdami slinkti pagal puslapius, naudokite rodyklės kairėn / dešinėn mygtukus</string>
+    <string name="wallpaper">Fono paveikslėlis (tapetai)</string>
+    <string name="animations">Animacijos</string>
+    <string name="less_animations">Mažiau animacijos</string>
+    <string name="large_cards">Didelės kortelės</string>
+    <string name="small_cards">Mažos kortelės</string>
+    <string name="recommend_disabling_item_description">Siūlome nustatyti 100% sąrašo dydį, kad jis užimtų visą ekraną</string>
     </resources>

@@ -213,9 +213,6 @@
 
     <string name="setting_list_view_title">Kako bi liste trebale da se prikazuju</string>
     <string name="setting_list_view1">jednostavna lista</string>
-    <string name="setting_list_view2">tabla (2 kolone) sa opisom</string>
-    <string name="setting_list_view3">tabla (3 kolone)</string>
-    <string name="setting_list_view4">tabla (4 kolone)</string>
     <string name="cfg_play_deny_buffer">Ne prikazuj status učitavanja</string>
     <string name="copied_clipboard">Kopirano u privremenu memoriju</string>
     <string name="cfg_play_action_menu">otvori meni</string>
@@ -327,7 +324,6 @@
     <string name="cfg_section_lists">Podešavanje lista</string>
 
     <string name="cfg_no_hints">Ne prikazuj savete</string>
-    <string name="setting_list_view_auto">tabla (ogromne ikonice, ispuni ekran)</string>
     <string name="child_mode_unlock_cfg">Unesite kôd dečijeg režima da otključate podešavanja</string>
     <string name="cfg_child_mode">Dečiji režim</string>
     <string name="cfg_child_mode_number">kôd za izlaz dečijeg režima (4 cifre)</string>
@@ -442,7 +438,6 @@
     <string name="cat_manage_start_this_cat_on">Počni od ove kategorije</string>
 
     <string name="cfg_show_ch_desc">Prikaži opis emisije</string>
-    <string name="cfg_show_archive_marker">Prikaži oznaku dostupnosti arhive</string>
     <string name="studio_mode_open_in">Otvori u Studio Režimu</string>
     <string name="studio_mode_title">Studio Režim</string>
     <string name="studio_mode_remove">Ukloni ekran</string>
@@ -496,7 +491,6 @@
     <string name="hours">sati</string>
     <string name="parental_control">roditeljska kontrola</string>
     <string name="show_different_time_frame_guide">Prikaži raniji ili kasniji raspored</string>
-    <string name="cfg_list_long_arrow_pg_down">Tretiraj dugi pritisak na strelicama navigacijom po stranicama</string>
     <string name="seconds">sekundi</string>
     <string name="not_limited">nije ograničen</string>
     <string name="auto_detected">automatski detektovano</string>
@@ -626,4 +620,15 @@
     <string name="nothing_to_backup">Nema podataka za rezervnu kopiju!</string>
     <string name="qr_code_desc">Možete skenirarti kôd aplikacijom na telefonu. Ili, sa obzirom da je kopiran u privremenu memoriju, možete ga samo nalepiti u drugoj aplikaciji.</string>
     <string name="next_page">Sledeća strana</string>
-</resources>
+<string name="user_exp_level">Ниво корисничког искуства</string>
+    <string name="user_exp_mode_normal">Нормал</string>
+    <string name="user_exp_mode_expert">Експертски режим</string>
+    <string name="press_to_quick_jump_day">Притисните да бисте прешли на други дан.</string>
+    <string name="left_right_as_pgdown">Користите се стрелицама улево / удесно да бисте се кретали по страницама</string>
+    <string name="wallpaper">Позадинска слика (позадина)</string>
+    <string name="animations">Анимације</string>
+    <string name="less_animations">Мање анимација</string>
+    <string name="large_cards">Велике карте</string>
+    <string name="small_cards">Мале карте</string>
+    <string name="recommend_disabling_item_description">Предлажемо да величину листе поставите на 100% како би заузели цео екран</string>
+    </resources>

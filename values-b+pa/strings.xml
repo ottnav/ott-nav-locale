@@ -219,9 +219,6 @@
 
     <string name="setting_list_view_title">ਕਿਵੇਂ ਸੂਚੀਆਂ ਪ੍ਰਦਰਸ਼ਿਤ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ</string>
     <string name="setting_list_view1">ਸਧਾਰਨ ਸੂਚੀ</string>
-    <string name="setting_list_view2">ਵੇਰਵੇ ਦੇ ਨਾਲ ਟੇਬਲ (2 ਕਾਲਮ)</string>
-    <string name="setting_list_view3">ਟੇਬਲ (3 ਕਾਲਮ)</string>
-    <string name="setting_list_view4">ਟੇਬਲ (4 ਕਾਲਮ)</string>
     <string name="cfg_play_deny_buffer">ਬਫਰਿੰਗ ਸਥਿਤੀ ਨਾ ਦਿਖਾਓ</string>
     <string name="copied_clipboard">ਕਲਿਪਬੋਰਡ ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
     <string name="cfg_play_action_menu">ਖੁੱਲ੍ਹਾ ਮੀਨੂ</string>
@@ -333,7 +330,6 @@
     <string name="cfg_section_lists">ਸੈਟਿੰਗਾਂ ਦੀ ਸੂਚੀ ਹੈ</string>
 
     <string name="cfg_no_hints">ਸੰਕੇਤ ਨਾ ਦਿਖਾਓ</string>
-    <string name="setting_list_view_auto">ਸਾਰਣੀ (ਵੱਡੇ ਆਈਕਾਨ, ਸਕਰੀਨ ਫਿੱਟ)</string>
     <string name="child_mode_unlock_cfg">ਸੈਟਿੰਗਜ਼ ਨੂੰ ਅਨਲੌਕ ਕਰਨ ਲਈ ਬੱਚੇ ਦਾ ਕੋਡ ਦਰਜ ਕਰੋ</string>
     <string name="cfg_child_mode">ਬਾਲ ਮੋਡ</string>
     <string name="cfg_child_mode_number">ਚਾਈਲਡ ਮੋਡ ਤੋਂ ਬਾਹਰ ਜਾਣ ਲਈ ਕੋਡ (4 ਅੰਕ)</string>
@@ -448,7 +444,6 @@
     <string name="cat_manage_start_this_cat_on">ਇਸ ਸ਼੍ਰੇਣੀ ਤੋਂ ਸ਼ੁਰੂ ਕਰੋ</string>
 
     <string name="cfg_show_ch_desc">ਪ੍ਰਸਾਰਣ ਵੇਰਵਾ ਦਿਖਾਓ</string>
-    <string name="cfg_show_archive_marker">ਪੁਰਾਲੇਖ ਦੀ ਉਪਲਬਧਤਾ ਮਾਰਕਰ ਦਿਖਾਓ</string>
     <string name="studio_mode_open_in">ਸਟੂਡੀਓ ਮੋਡ ਵਿੱਚ ਖੋਲ੍ਹੋ</string>
     <string name="studio_mode_title">ਸਟੂਡੀਓ ਮੋਡ</string>
     <string name="studio_mode_remove">ਸਕ੍ਰੀਨ ਹਟਾਓ</string>
@@ -501,7 +496,6 @@
     <string name="hours">ਘੰਟੇ</string>
     <string name="parental_control">ਮਾਪਿਆਂ ਦਾ ਨਿਯੰਤਰਣ</string>
     <string name="show_different_time_frame_guide">ਪਹਿਲਾਂ ਜਾਂ ਬਾਅਦ ਦਾ ਸਮਾਂ-ਸਾਰਣੀ ਦਿਖਾਓ</string>
-    <string name="cfg_list_long_arrow_pg_down">ਪੰਨਿਆਂ ਦੁਆਰਾ ਲੰਬੇ ਐਰੋ ਕੁੰਜੀ ਪ੍ਰੈਸ ਨੇਵੀਗੇਸ਼ਨ ਦਾ ਇਲਾਜ ਕਰੋ</string>
     <string name="seconds">ਸਕਿੰਟ</string>
     <string name="not_limited">ਸੀਮਤ ਨਹੀਂ</string>
     <string name="auto_detected">ਆਟੋ ਖੋਜਿਆ</string>
@@ -634,4 +628,12 @@
     <string name="user_exp_level">ਉਪਭੋਗਤਾ ਤਜ਼ਰਬੇ ਦਾ ਪੱਧਰ</string>
     <string name="user_exp_mode_normal">ਸਧਾਰਣ .ੰਗ</string>
     <string name="user_exp_mode_expert">ਮਾਹਰ .ੰਗ</string>
+    <string name="press_to_quick_jump_day">ਕਿਸੇ ਹੋਰ ਦਿਨ ਛਾਲ ਮਾਰਨ ਲਈ ਦਬਾਓ.</string>
+    <string name="left_right_as_pgdown">ਪੰਨਿਆਂ ਦੁਆਰਾ ਸਕ੍ਰੌਲ ਕਰਨ ਲਈ ਖੱਬੇ / ਸੱਜੇ ਤੀਰ ਦੇ ਬਟਨਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="wallpaper">ਬੈਕਗ੍ਰਾਉਂਡ ਚਿੱਤਰ (ਵਾਲਪੇਪਰ)</string>
+    <string name="animations">ਐਨੀਮੇਸ਼ਨ</string>
+    <string name="less_animations">ਘੱਟ ਐਨੀਮੇਸ਼ਨ</string>
+    <string name="large_cards">ਵੱਡੇ ਕਾਰਡ</string>
+    <string name="small_cards">ਛੋਟੇ ਕਾਰਡ</string>
+    <string name="recommend_disabling_item_description">ਅਸੀਂ ਪੂਰੀ ਸਕ੍ਰੀਨ ਉੱਤੇ ਕਬਜ਼ਾ ਕਰਨ ਲਈ, ਸੂਚੀ ਦੇ ਆਕਾਰ ਨੂੰ 100% ਨਿਰਧਾਰਤ ਕਰਨ ਦਾ ਸੁਝਾਅ ਦੇ ਰਹੇ ਹਾਂ</string>
     </resources>

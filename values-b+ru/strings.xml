@@ -213,9 +213,6 @@
 
     <string name="setting_list_view_title">Как должны показываться списки</string>
     <string name="setting_list_view1">простым списком</string>
-    <string name="setting_list_view2">таблица (2 колонки) с описанием</string>
-    <string name="setting_list_view3">таблица (3 колонки)</string>
-    <string name="setting_list_view4">таблица (4 колонки)</string>
     <string name="cfg_play_deny_buffer">Не показывать статус буферизации</string>
     <string name="copied_clipboard">Скопировано в буфер</string>
     <string name="cfg_play_action_menu">открыть меню</string>
@@ -327,7 +324,6 @@
     <string name="cfg_section_lists">Настройки списков</string>
 
     <string name="cfg_no_hints">Не показывать подсказки</string>
-    <string name="setting_list_view_auto">таблица (большие иконки, заполнить экран)</string>
     <string name="child_mode_unlock_cfg">Введите детский код для доступа к настройкам</string>
     <string name="cfg_child_mode">Детский режим</string>
     <string name="cfg_child_mode_number">Код для выхода из детского режима (4 цифры)</string>
@@ -442,7 +438,6 @@
     <string name="cat_manage_start_this_cat_on">Начинать с этой категории</string>
 
     <string name="cfg_show_ch_desc">Показывать описание передачи</string>
-    <string name="cfg_show_archive_marker">Показывать метку наличия архива</string>
     <string name="studio_mode_open_in">Открыть в режиме студии</string>
     <string name="studio_mode_title">Студийный режим</string>
     <string name="studio_mode_remove">Убрать экран</string>
@@ -496,7 +491,6 @@
     <string name="hours">часы</string>
     <string name="parental_control">родительский контроль</string>
     <string name="show_different_time_frame_guide">Показать более раннюю или позднюю программу</string>
-    <string name="cfg_list_long_arrow_pg_down">Считать длинное нажатие на стрелки как листание по страницам</string>
     <string name="seconds">секунды</string>
     <string name="not_limited">неограничено</string>
     <string name="auto_detected">автоматическое определение</string>
@@ -629,4 +623,12 @@
     <string name="user_exp_level">Уровень пользовательского опыта</string>
     <string name="user_exp_mode_normal">Нормальный режим</string>
     <string name="user_exp_mode_expert">Экспертный режим</string>
+    <string name="press_to_quick_jump_day">Нажмите, чтобы перейти к другому дню.</string>
+    <string name="left_right_as_pgdown">Используйте кнопки со стрелками влево / вправо для прокрутки по страницам</string>
+    <string name="wallpaper">Фоновое изображение (обои)</string>
+    <string name="animations">Анимации</string>
+    <string name="less_animations">Меньше анимаций</string>
+    <string name="large_cards">Большие карточки</string>
+    <string name="small_cards">Маленькие карточки</string>
+    <string name="recommend_disabling_item_description">Мы предлагаем установить размер списка на 100%, чтобы занимать весь экран</string>
     </resources>

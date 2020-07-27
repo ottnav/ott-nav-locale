@@ -220,9 +220,6 @@
 
     <string name="setting_list_view_title">कैसे सूचियों को प्रदर्शित किया जाना चाहिए</string>
     <string name="setting_list_view1">सरल सूची</string>
-    <string name="setting_list_view2">विवरण के साथ तालिका (2 कॉलम)</string>
-    <string name="setting_list_view3">टेबल (3 कॉलम)</string>
-    <string name="setting_list_view4">टेबल (4 कॉलम)</string>
     <string name="cfg_play_deny_buffer">बफरिंग स्थिति न दिखाएं</string>
     <string name="copied_clipboard">क्लिपबोर्ड पर नकल</string>
     <string name="cfg_play_action_menu">खुला मेनू</string>
@@ -335,7 +332,6 @@
     <string name="cfg_section_lists">सेटिंग्स को सूचीबद्ध करता है</string>
 
     <string name="cfg_no_hints">संकेत मत दिखाओ</string>
-    <string name="setting_list_view_auto">तालिका (बड़े चिह्न, स्क्रीन फिट)</string>
     <string name="child_mode_unlock_cfg">सेटिंग्स अनलॉक करने के लिए चाइल्ड कोड डालें</string>
     <string name="cfg_child_mode">बालक मोड</string>
     <string name="cfg_child_mode_number">बाल मोड से बाहर निकलने के लिए कोड (4 अंक)</string>
@@ -450,7 +446,6 @@
     <string name="cat_manage_start_this_cat_on">इस श्रेणी से शुरू करें</string>
 
     <string name="cfg_show_ch_desc">प्रसारण विवरण दिखाएं</string>
-    <string name="cfg_show_archive_marker">संग्रह उपलब्धता मार्कर दिखाएं</string>
     <string name="studio_mode_open_in">स्टूडियो मोड में खोलें</string>
     <string name="studio_mode_title">स्टूडियो मोड</string>
     <string name="studio_mode_remove">स्क्रीन निकालें</string>
@@ -503,7 +498,6 @@
     <string name="hours">घंटे</string>
     <string name="parental_control">माता पिता का नियंत्रण</string>
     <string name="show_different_time_frame_guide">पहले या बाद में समय सारिणी दिखाएं</string>
-    <string name="cfg_list_long_arrow_pg_down">पृष्ठों द्वारा लंबे तीर कुंजी प्रेस नेविगेशन का इलाज करें</string>
     <string name="seconds">सेकंड</string>
     <string name="not_limited">सीमित नहीं</string>
     <string name="auto_detected">ऑटो का पता चला</string>
@@ -636,4 +630,12 @@
     <string name="user_exp_level">उपयोगकर्ता अनुभव स्तर</string>
     <string name="user_exp_mode_normal">सामान्य स्थिति</string>
     <string name="user_exp_mode_expert">विशेषज्ञ साधन</string>
+    <string name="press_to_quick_jump_day">दूसरे दिन कूदने के लिए दबाएँ।</string>
+    <string name="left_right_as_pgdown">पृष्ठों द्वारा स्क्रॉल करने के लिए बाएँ / दाएँ तीर बटन का उपयोग करें</string>
+    <string name="wallpaper">पृष्ठभूमि छवि (वॉलपेपर)</string>
+    <string name="animations">एनिमेशन</string>
+    <string name="less_animations">कम एनिमेशन</string>
+    <string name="large_cards">बड़े कार्ड</string>
+    <string name="small_cards">छोटे कार्ड</string>
+    <string name="recommend_disabling_item_description">हम पूरी स्क्रीन पर कब्जा करने के लिए, सूची आकार को 100% पर सेट करने का सुझाव दे रहे हैं</string>
     </resources>

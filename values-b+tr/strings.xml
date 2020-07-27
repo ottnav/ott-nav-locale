@@ -219,9 +219,6 @@
 
     <string name="setting_list_view_title">Listeler nasıl görüntülenmeli?</string>
     <string name="setting_list_view1">basit liste</string>
-    <string name="setting_list_view2">açıklaması ile tablo (2 sütun)</string>
-    <string name="setting_list_view3">masa (3 sütun)</string>
-    <string name="setting_list_view4">masa (4 sütun)</string>
     <string name="cfg_play_deny_buffer">Arabelleğe alma durumunu gösterme</string>
     <string name="copied_clipboard">Panoya kopyalandı</string>
     <string name="cfg_play_action_menu">menüyü aç</string>
@@ -333,7 +330,6 @@
     <string name="cfg_section_lists">Ayarları listeler</string>
 
     <string name="cfg_no_hints">İpuçlarını gösterme</string>
-    <string name="setting_list_view_auto">masa (büyük simgeler, ekrana sığacak şekilde)</string>
     <string name="child_mode_unlock_cfg">Ayarların kilidini açmak için alt kodu girin</string>
     <string name="cfg_child_mode">Çocuk Modu</string>
     <string name="cfg_child_mode_number">Bir çocuk modundan çıkmak için kod (4 hane)</string>
@@ -448,7 +444,6 @@
     <string name="cat_manage_start_this_cat_on">Bu kategoriden başla</string>
 
     <string name="cfg_show_ch_desc">Yayın açıklamasını göster</string>
-    <string name="cfg_show_archive_marker">Arşiv kullanılabilirliği işaretçisini göster</string>
     <string name="studio_mode_open_in">Stüdyo Modunda Aç</string>
     <string name="studio_mode_title">Stüdyo modu</string>
     <string name="studio_mode_remove">Ekranı kaldır</string>
@@ -501,7 +496,6 @@
     <string name="hours">saatler</string>
     <string name="parental_control">ebeveyn Kontrolü</string>
     <string name="show_different_time_frame_guide">Daha erken veya daha sonraki zaman çizelgesini göster</string>
-    <string name="cfg_list_long_arrow_pg_down">Uzun ok tuşlarına basarak gezinme sayfalarına göre davranın</string>
     <string name="seconds">saniye</string>
     <string name="not_limited">sınırsız</string>
     <string name="auto_detected">otomatik algılandı</string>
@@ -634,4 +628,12 @@
     <string name="user_exp_level">Kullanıcı deneyimi seviyesi</string>
     <string name="user_exp_mode_normal">Normal mod</string>
     <string name="user_exp_mode_expert">Uzman Modu</string>
+    <string name="press_to_quick_jump_day">Başka bir güne atlamak için tuşuna basın.</string>
+    <string name="left_right_as_pgdown">Sayfalara kaydırmak için sol / sağ ok düğmelerini kullanın</string>
+    <string name="wallpaper">Arka plan resmi (duvar kağıdı)</string>
+    <string name="animations">Animasyonlar</string>
+    <string name="less_animations">Daha az animasyon</string>
+    <string name="large_cards">Büyük kartlar</string>
+    <string name="small_cards">Küçük kartlar</string>
+    <string name="recommend_disabling_item_description">Tüm ekranı kaplamak için liste boyutunu% 100 olarak ayarlamanızı öneririz</string>
     </resources>

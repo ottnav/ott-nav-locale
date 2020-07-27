@@ -219,9 +219,6 @@
 
     <string name="setting_list_view_title">Bagaimana senarai harus dipaparkan</string>
     <string name="setting_list_view1">senarai ringkas</string>
-    <string name="setting_list_view2">jadual (2 tiang) dengan keterangan</string>
-    <string name="setting_list_view3">jadual (3 tiang)</string>
-    <string name="setting_list_view4">jadual (4 tiang)</string>
     <string name="cfg_play_deny_buffer">Jangan tunjukkan status penimbal</string>
     <string name="copied_clipboard">Disalin ke papan keratan</string>
     <string name="cfg_play_action_menu">buka menu</string>
@@ -334,7 +331,6 @@
     <string name="cfg_section_lists">Senarai tetapan</string>
 
     <string name="cfg_no_hints">Jangan tunjukkan petunjuk</string>
-    <string name="setting_list_view_auto">jadual (ikon besar, muat skrin)</string>
     <string name="child_mode_unlock_cfg">Masukkan kod kanak-kanak untuk membuka kunci tetapan</string>
     <string name="cfg_child_mode">Mod kanak-kanak</string>
     <string name="cfg_child_mode_number">Kod untuk keluar mod kanak-kanak (4 digit)</string>
@@ -449,7 +445,6 @@
     <string name="cat_manage_start_this_cat_on">Mulakan dari kategori ini</string>
 
     <string name="cfg_show_ch_desc">Tunjukkan penerangan siaran</string>
-    <string name="cfg_show_archive_marker">Tunjukkan penanda ketersediaan arkib</string>
     <string name="studio_mode_open_in">Terbuka dalam Mod Studio</string>
     <string name="studio_mode_title">Mod studio</string>
     <string name="studio_mode_remove">Keluarkan skrin</string>
@@ -502,7 +497,6 @@
     <string name="hours">Jam</string>
     <string name="parental_control">kawalan ibu bapa</string>
     <string name="show_different_time_frame_guide">Tunjukkan jadual waktu atau lebih awal</string>
-    <string name="cfg_list_long_arrow_pg_down">Rawat navigasi tekan kekunci anak panah yang panjang oleh halaman</string>
     <string name="seconds">detik</string>
     <string name="not_limited">tidak terhad</string>
     <string name="auto_detected">auto dikesan</string>
@@ -635,4 +629,12 @@
     <string name="user_exp_level">Tahap pengalaman pengguna</string>
     <string name="user_exp_mode_normal">Mod biasa</string>
     <string name="user_exp_mode_expert">Mod pakar</string>
+    <string name="press_to_quick_jump_day">Tekan untuk melompat ke hari lain.</string>
+    <string name="left_right_as_pgdown">Gunakan butang anak panah kiri / kanan untuk menatal mengikut halaman</string>
+    <string name="wallpaper">Gambar latar (kertas dinding)</string>
+    <string name="animations">Animasi</string>
+    <string name="less_animations">Kurang animasi</string>
+    <string name="large_cards">Kad besar</string>
+    <string name="small_cards">Kad kecil</string>
+    <string name="recommend_disabling_item_description">Kami menyarankan untuk menetapkan ukuran senarai hingga 100%, untuk memenuhi seluruh layar</string>
     </resources>

@@ -161,9 +161,6 @@
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Деактивирайте рекламите завинаги с едно плащане</string>
     <string name="setting_list_view_title">Как трябва да се показват списъците</string>
     <string name="setting_list_view1">прост списък</string>
-    <string name="setting_list_view2">таблица (2 колони) с описание</string>
-    <string name="setting_list_view3">таблица (3 колони)</string>
-    <string name="setting_list_view4">таблица (4 колони)</string>
     <string name="cfg_play_deny_buffer">Не показвайте състояние на буфериране</string>
     <string name="copied_clipboard">Копирано е в клипборда</string>
     <string name="cfg_play_action_menu">отворено меню</string>
@@ -270,7 +267,6 @@
     <string name="cfg_section_desc">Описание на продукта</string>
     <string name="cfg_section_lists">Изброява настройките</string>
     <string name="cfg_no_hints">Не показвайте намеци</string>
-    <string name="setting_list_view_auto">маса (големи икони, пасват на екрана)</string>
     <string name="child_mode_unlock_cfg">Въведете детски код, за да отключите настройките</string>
     <string name="cfg_child_mode">Детски режим</string>
     <string name="cfg_child_mode_number">Код за излизане от детски режим (4 цифри)</string>
@@ -379,7 +375,6 @@
     <string name="ch_manage_use_internal">Използвайте вътрешен плейър</string>
     <string name="cat_manage_start_this_cat_on">Започнете от тази категория</string>
     <string name="cfg_show_ch_desc">Покажи описание на излъчването</string>
-    <string name="cfg_show_archive_marker">Показване на маркера за наличност на архива</string>
     <string name="studio_mode_open_in">Отваряне в режим на студио</string>
     <string name="studio_mode_title">Студио режим</string>
     <string name="studio_mode_remove">Премахване на екрана</string>
@@ -432,7 +427,6 @@
     <string name="hours">часа</string>
     <string name="parental_control">родителски контрол</string>
     <string name="show_different_time_frame_guide">Показвайте по-рано или по-късно разписание</string>
-    <string name="cfg_list_long_arrow_pg_down">Отнасяйте се с навигация с дълги клавиши със стрелки по страници</string>
     <string name="seconds">секунди</string>
     <string name="not_limited">не се ограничава</string>
     <string name="auto_detected">автоматично открит</string>
@@ -565,4 +559,12 @@
     <string name="user_exp_level">Ниво на потребителско изживяване</string>
     <string name="user_exp_mode_normal">Нормален режим</string>
     <string name="user_exp_mode_expert">Експертен режим</string>
+    <string name="press_to_quick_jump_day">Натиснете, за да преминете към друг ден.</string>
+    <string name="left_right_as_pgdown">Използвайте бутоните със стрелка наляво / надясно за превъртане по страници</string>
+    <string name="wallpaper">Фоново изображение (тапет)</string>
+    <string name="animations">Анимации</string>
+    <string name="less_animations">По-малко анимации</string>
+    <string name="large_cards">Големи карти</string>
+    <string name="small_cards">Малки карти</string>
+    <string name="recommend_disabling_item_description">Предлагаме да зададете размера на списъка на 100%, за да заемете целия екран</string>
     </resources>

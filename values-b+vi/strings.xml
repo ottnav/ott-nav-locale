@@ -213,9 +213,6 @@
 
     <string name="setting_list_view_title">Kiểu hiển thị danh sách</string>
     <string name="setting_list_view1">danh sách đơn giản</string>
-    <string name="setting_list_view2">bảng (2 cột) với mô tả</string>
-    <string name="setting_list_view3">bảng (3 cột)</string>
-    <string name="setting_list_view4">bảng (4 cột)</string>
     <string name="cfg_play_deny_buffer">Không hiển thị trạng thái tải bộ đệm</string>
     <string name="copied_clipboard">Đã sao chép vào khay nhớ tạm</string>
     <string name="cfg_play_action_menu">mở menu</string>
@@ -327,7 +324,6 @@
     <string name="cfg_section_lists">Thiết lập danh sách</string>
 
     <string name="cfg_no_hints">Không hiển thị các gợi ý</string>
-    <string name="setting_list_view_auto">bảng (biểu tượng lớn, vừa màn hình)</string>
     <string name="child_mode_unlock_cfg">Nhập mã khoá chế độ trẻ em đề mở khoá cài đặt</string>
     <string name="cfg_child_mode">Chế độ trẻ em</string>
     <string name="cfg_child_mode_number">Mã khoá để thoát chế độ trẻ em (4 chữ số)</string>
@@ -442,7 +438,6 @@
     <string name="cat_manage_start_this_cat_on">Bắt đầu từ danh mục này</string>
 
     <string name="cfg_show_ch_desc">Hiển thị mô tả phát sóng</string>
-    <string name="cfg_show_archive_marker">Hiển thị đánh dấu khi bản lưu trữ có sẵn</string>
     <string name="studio_mode_open_in">Mở trong chế độ Studio</string>
     <string name="studio_mode_title">Chế độ Studio</string>
     <string name="studio_mode_remove">Gỡ bỏ màn hình</string>
@@ -495,7 +490,6 @@
     <string name="hours">giờ</string>
     <string name="parental_control">kiểm soát của cha mẹ</string>
     <string name="show_different_time_frame_guide">Hiển thị thời gian biểu sớm hơn hoặc muộn hơn</string>
-    <string name="cfg_list_long_arrow_pg_down">Điều trị phím mũi tên dài điều hướng bằng các trang</string>
     <string name="seconds">giây</string>
     <string name="not_limited">không giới hạn</string>
     <string name="auto_detected">tự động phát hiện</string>
@@ -628,4 +622,12 @@
     <string name="user_exp_level">Cấp độ trải nghiệm người dùng</string>
     <string name="user_exp_mode_normal">Chế độ bình thường</string>
     <string name="user_exp_mode_expert">Chế độ chuyên gia</string>
+    <string name="press_to_quick_jump_day">Nhấn để nhảy sang ngày khác.</string>
+    <string name="left_right_as_pgdown">Sử dụng các nút mũi tên trái / phải để cuộn theo trang</string>
+    <string name="wallpaper">Hình nền (hình nền)</string>
+    <string name="animations">Ảnh động</string>
+    <string name="less_animations">Ít hình ảnh động</string>
+    <string name="large_cards">Thẻ lớn</string>
+    <string name="small_cards">Thẻ nhỏ</string>
+    <string name="recommend_disabling_item_description">Chúng tôi khuyên bạn nên đặt kích thước danh sách thành 100%, để chiếm toàn bộ màn hình</string>
     </resources>

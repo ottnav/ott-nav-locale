@@ -214,9 +214,6 @@
 
     <string name="setting_list_view_title">Jak powinny być wyświetlane listy</string>
     <string name="setting_list_view1">prosta lista</string>
-    <string name="setting_list_view2">tabela (2 kolumny) z opisem</string>
-    <string name="setting_list_view3">tabela (3 kolumny)</string>
-    <string name="setting_list_view4">tabela (4 kolumny)</string>
     <string name="cfg_play_deny_buffer">Nie pokazuj statusu buforowania</string>
     <string name="copied_clipboard">Skopiowane do schowka</string>
     <string name="cfg_play_action_menu">otwarte menu</string>
@@ -328,7 +325,6 @@
     <string name="cfg_section_lists">Wyświetla ustawienia</string>
 
     <string name="cfg_no_hints">Nie pokazuj wskazówek</string>
-    <string name="setting_list_view_auto">tabela (duże ikony, dopasuj ekran)</string>
     <string name="child_mode_unlock_cfg">Wprowadź kod podrzędny, aby odblokować ustawienia</string>
     <string name="cfg_child_mode">Tryb dzieciecy</string>
     <string name="cfg_child_mode_number">Kod, aby opuścić tryb potomny (4 cyfry)</string>
@@ -443,7 +439,6 @@
     <string name="cat_manage_start_this_cat_on">Zacznij od tej kategorii</string>
 
     <string name="cfg_show_ch_desc">Pokaż opis transmisji</string>
-    <string name="cfg_show_archive_marker">Pokaż znacznik dostępności archiwum</string>
     <string name="studio_mode_open_in">Otwórz w trybie Studio</string>
     <string name="studio_mode_title">Tryb studyjny</string>
     <string name="studio_mode_remove">Usuń ekran</string>
@@ -496,7 +491,6 @@
     <string name="hours">godziny</string>
     <string name="parental_control">kontrola rodzicielska</string>
     <string name="show_different_time_frame_guide">Pokaż wcześniejszy lub późniejszy harmonogram</string>
-    <string name="cfg_list_long_arrow_pg_down">Traktuj długie naciśnięcie klawisza nawigacyjnego według stron</string>
     <string name="seconds">sekundy</string>
     <string name="not_limited">bez limitu</string>
     <string name="auto_detected">wykryto automatycznie</string>
@@ -629,4 +623,12 @@
     <string name="user_exp_level">Poziom doświadczenia użytkownika</string>
     <string name="user_exp_mode_normal">Tryb normalny</string>
     <string name="user_exp_mode_expert">Tryb ekspercki</string>
+    <string name="press_to_quick_jump_day">Naciśnij, aby przejść do innego dnia.</string>
+    <string name="left_right_as_pgdown">Użyj przycisków strzałek w lewo / w prawo, aby przewijać strony</string>
+    <string name="wallpaper">Obraz tła (tapeta)</string>
+    <string name="animations">Animacje</string>
+    <string name="less_animations">Mniej animacji</string>
+    <string name="large_cards">Duże karty</string>
+    <string name="small_cards">Małe karty</string>
+    <string name="recommend_disabling_item_description">Sugerujemy ustawienie rozmiaru listy na 100%, aby zajmowała cały ekran</string>
     </resources>

@@ -162,9 +162,6 @@
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Απενεργοποιήστε τις διαφημίσεις για πάντα με μία μόνο πληρωμή</string>
     <string name="setting_list_view_title">Πώς θα εμφανίζονται οι λίστες</string>
     <string name="setting_list_view1">απλή λίστα</string>
-    <string name="setting_list_view2">πίνακας (2 στήλες) με περιγραφή</string>
-    <string name="setting_list_view3">πίνακας (3 στήλες)</string>
-    <string name="setting_list_view4">πίνακας (4 στήλες)</string>
     <string name="cfg_play_deny_buffer">Να μην εμφανίζεται η κατάσταση προσωρινής αποθήκευσης</string>
     <string name="copied_clipboard">Αντιγράφηκε στο πρόχειρο</string>
     <string name="cfg_play_action_menu">ανοίξτε το μενού</string>
@@ -271,7 +268,6 @@
     <string name="cfg_section_desc">Περιγραφή αντικειμένου</string>
     <string name="cfg_section_lists">Ρυθμίζει τις λίστες</string>
     <string name="cfg_no_hints">Μην εμφανίσετε συμβουλές</string>
-    <string name="setting_list_view_auto">πίνακα (μεγάλα εικονίδια, ταιριάζει στην οθόνη)</string>
     <string name="child_mode_unlock_cfg">Εισαγάγετε κωδικό παιδιού για να ξεκλειδώσετε τις ρυθμίσεις</string>
     <string name="cfg_child_mode">Παιδική λειτουργία</string>
     <string name="cfg_child_mode_number">Κωδικός για έξοδο από μια κατάσταση παιδιού (4 ψηφία)</string>
@@ -380,7 +376,6 @@
     <string name="ch_manage_use_internal">Χρησιμοποιήστε την εσωτερική συσκευή αναπαραγωγής</string>
     <string name="cat_manage_start_this_cat_on">Ξεκινήστε από αυτήν την κατηγορία</string>
     <string name="cfg_show_ch_desc">Εμφάνιση περιγραφής εκπομπής</string>
-    <string name="cfg_show_archive_marker">Εμφάνιση δείκτη διαθεσιμότητας αρχειοθέτησης</string>
     <string name="studio_mode_open_in">Ανοίξτε τη λειτουργία Studio</string>
     <string name="studio_mode_title">Λειτουργία στούντιο</string>
     <string name="studio_mode_remove">Αφαιρέστε την οθόνη</string>
@@ -433,7 +428,6 @@
     <string name="hours">ώρες</string>
     <string name="parental_control">γονικός έλεγχος</string>
     <string name="show_different_time_frame_guide">Εμφάνιση προγενέστερου ή μεταγενέστερου χρονοδιαγράμματος</string>
-    <string name="cfg_list_long_arrow_pg_down">Αντιμετωπίστε το πλήκτρο μακριού βέλους πατήστε πλοήγηση στις σελίδες</string>
     <string name="seconds">δευτερολέπτων</string>
     <string name="not_limited">μη περιορισμένο</string>
     <string name="auto_detected">αυτόματη ανίχνευση</string>
@@ -566,4 +560,12 @@
     <string name="user_exp_level">Επίπεδο εμπειρίας χρήστη</string>
     <string name="user_exp_mode_normal">Κανονική λειτουργία</string>
     <string name="user_exp_mode_expert">Λειτουργία ειδικών</string>
+    <string name="press_to_quick_jump_day">Πατήστε για μετάβαση σε άλλη μέρα.</string>
+    <string name="left_right_as_pgdown">Χρησιμοποιήστε τα κουμπιά αριστερού / δεξιού βέλους για κύλιση ανά σελίδα</string>
+    <string name="wallpaper">Εικόνα φόντου (ταπετσαρία)</string>
+    <string name="animations">Κινούμενα σχέδια</string>
+    <string name="less_animations">Λιγότερα κινούμενα σχέδια</string>
+    <string name="large_cards">Μεγάλες κάρτες</string>
+    <string name="small_cards">Μικρές κάρτες</string>
+    <string name="recommend_disabling_item_description">Προτείνουμε να ορίσετε το μέγεθος της λίστας στο 100%, για να καταλάβετε ολόκληρη την οθόνη</string>
     </resources>

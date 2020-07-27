@@ -219,9 +219,6 @@
 
     <string name="setting_list_view_title">כיצד להציג רשימות</string>
     <string name="setting_list_view1">רשימה פשוטה</string>
-    <string name="setting_list_view2">טבלה (2 עמודות) עם תיאור</string>
-    <string name="setting_list_view3">טבלה (3 עמודות)</string>
-    <string name="setting_list_view4">טבלה (4 עמודות)</string>
     <string name="cfg_play_deny_buffer">אל תציג מצב חציצה</string>
     <string name="copied_clipboard">הועתק ללוח</string>
     <string name="cfg_play_action_menu">תפריט פתוח</string>
@@ -333,7 +330,6 @@
     <string name="cfg_section_lists">מפרט הגדרות</string>
 
     <string name="cfg_no_hints">אל תציג רמזים</string>
-    <string name="setting_list_view_auto">טבלה (סמלים גדולים, להתאים את המסך)</string>
     <string name="child_mode_unlock_cfg">הזן קוד צאצא כדי לבטל את הנעילה של ההגדרות</string>
     <string name="cfg_child_mode">מצב רוח של ילד</string>
     <string name="cfg_child_mode_number">קוד יציאה ממצב צאצא (4 ספרות)</string>
@@ -448,7 +444,6 @@
     <string name="cat_manage_start_this_cat_on">התחל מקטגוריה זו</string>
 
     <string name="cfg_show_ch_desc">הצג תיאור שידור</string>
-    <string name="cfg_show_archive_marker">הצג סמן זמינות בארכיון</string>
     <string name="studio_mode_open_in">פתח במצב סטודיו</string>
     <string name="studio_mode_title">מצב סטודיו</string>
     <string name="studio_mode_remove">הסר את המסך</string>
@@ -501,7 +496,6 @@
     <string name="hours">שעות</string>
     <string name="parental_control">בקרת הורים</string>
     <string name="show_different_time_frame_guide">הצג לוח זמנים מוקדם יותר או מאוחר יותר</string>
-    <string name="cfg_list_long_arrow_pg_down">התייחס אל מקש החצים הארוך ולחץ על ניווט לפי עמודים</string>
     <string name="seconds">שניות</string>
     <string name="not_limited">לא מוגבל</string>
     <string name="auto_detected">זוהה אוטומטית</string>
@@ -634,4 +628,12 @@
     <string name="user_exp_level">רמת חווית משתמש</string>
     <string name="user_exp_mode_normal">מצב נורמלי</string>
     <string name="user_exp_mode_expert">מצב מומחה</string>
+    <string name="press_to_quick_jump_day">לחץ כדי לקפוץ ליום אחר.</string>
+    <string name="left_right_as_pgdown">השתמש בכפתורי החץ שמאלה / ימינה כדי לגלול לפי עמודים</string>
+    <string name="wallpaper">תמונת רקע (טפט)</string>
+    <string name="animations">אנימציות</string>
+    <string name="less_animations">פחות אנימציות</string>
+    <string name="large_cards">קלפים גדולים</string>
+    <string name="small_cards">קלפים קטנים</string>
+    <string name="recommend_disabling_item_description">אנו מציעים להגדיר את גודל הרשימה ל- 100%, בכדי לכבוש את כל המסך</string>
     </resources>

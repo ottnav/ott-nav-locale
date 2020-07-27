@@ -220,9 +220,6 @@
 
     <string name="setting_list_view_title">목록을 표시하는 방법</string>
     <string name="setting_list_view1">단순한 목록</string>
-    <string name="setting_list_view2">설명이있는 표 (2 열)</string>
-    <string name="setting_list_view3">테이블 (3 열)</string>
-    <string name="setting_list_view4">테이블 (4 열)</string>
     <string name="cfg_play_deny_buffer">버퍼링 상태 표시 안 함</string>
     <string name="copied_clipboard">클립 보드에 복사 됨</string>
     <string name="cfg_play_action_menu">메뉴 열기</string>
@@ -335,7 +332,6 @@
     <string name="cfg_section_lists">목록 설정</string>
 
     <string name="cfg_no_hints">힌트를 표시하지 않음</string>
-    <string name="setting_list_view_auto">테이블 (큰 아이콘, 화면에 맞게)</string>
     <string name="child_mode_unlock_cfg">설정 잠금을 해제하는 하위 코드 입력</string>
     <string name="cfg_child_mode">어린이 모드</string>
     <string name="cfg_child_mode_number">하위 모드 종료 코드 (4 자리)</string>
@@ -450,7 +446,6 @@
     <string name="cat_manage_start_this_cat_on">이 카테고리에서 시작</string>
 
     <string name="cfg_show_ch_desc">브로드 캐스트 설명 표시</string>
-    <string name="cfg_show_archive_marker">보관 파일 사용 가능 여부 표시</string>
     <string name="studio_mode_open_in">스튜디오 모드로 열기</string>
     <string name="studio_mode_title">스튜디오 모드</string>
     <string name="studio_mode_remove">화면 제거</string>
@@ -503,7 +498,6 @@
     <string name="hours">시간</string>
     <string name="parental_control">부모의 통제</string>
     <string name="show_different_time_frame_guide">이전 또는 이후 시간표 표시</string>
-    <string name="cfg_list_long_arrow_pg_down">페이지별로 긴 화살표 키 누르기 탐색 처리</string>
     <string name="seconds">초</string>
     <string name="not_limited">제한되지 않음</string>
     <string name="auto_detected">자동 감지</string>
@@ -636,4 +630,12 @@
     <string name="user_exp_level">사용자 경험 수준</string>
     <string name="user_exp_mode_normal">일반 모드</string>
     <string name="user_exp_mode_expert">전문가 모드</string>
+    <string name="press_to_quick_jump_day">다른 날로 이동하려면 누릅니다.</string>
+    <string name="left_right_as_pgdown">왼쪽 / 오른쪽 화살표 버튼을 사용하여 페이지별로 스크롤</string>
+    <string name="wallpaper">배경 이미지 (배경 무늬)</string>
+    <string name="animations">애니메이션</string>
+    <string name="less_animations">적은 애니메이션</string>
+    <string name="large_cards">큰 카드</string>
+    <string name="small_cards">작은 카드</string>
+    <string name="recommend_disabling_item_description">전체 화면을 차지하기 위해 목록 크기를 100 %로 설정하는 것이 좋습니다.</string>
     </resources>

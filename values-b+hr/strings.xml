@@ -161,9 +161,6 @@
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Onemogućite oglase zauvijek jednim plaćanjem</string>
     <string name="setting_list_view_title">Kako bi trebali biti prikazani popisi</string>
     <string name="setting_list_view1">jednostavan popis</string>
-    <string name="setting_list_view2">tablica (2 stupca) s opisom</string>
-    <string name="setting_list_view3">tablica (3 stupca)</string>
-    <string name="setting_list_view4">tablica (4 stupca)</string>
     <string name="cfg_play_deny_buffer">Ne pokazuje status punjenja</string>
     <string name="copied_clipboard">Kopirano u međuspremnik</string>
     <string name="cfg_play_action_menu">otvorite izbornik</string>
@@ -270,7 +267,6 @@
     <string name="cfg_section_desc">Opis Predmeta</string>
     <string name="cfg_section_lists">Navodi postavke</string>
     <string name="cfg_no_hints">Ne pokazivati nagovještaje</string>
-    <string name="setting_list_view_auto">stol (velike ikone, stane na ekran)</string>
     <string name="child_mode_unlock_cfg">Unesite podređeni kôd za otključavanje postavki</string>
     <string name="cfg_child_mode">Dječji način rada</string>
     <string name="cfg_child_mode_number">Kôd za izlazak iz dječjeg načina (4 znamenke)</string>
@@ -379,7 +375,6 @@
     <string name="ch_manage_use_internal">Koristite interni player</string>
     <string name="cat_manage_start_this_cat_on">Počnite od ove kategorije</string>
     <string name="cfg_show_ch_desc">Prikaži opis emisije</string>
-    <string name="cfg_show_archive_marker">Pokaži označivač dostupnosti arhive</string>
     <string name="studio_mode_open_in">Otvori u načinu rada Studio</string>
     <string name="studio_mode_title">Studio način</string>
     <string name="studio_mode_remove">Ukloni zaslon</string>
@@ -432,7 +427,6 @@
     <string name="hours">sati</string>
     <string name="parental_control">roditeljska kontrola</string>
     <string name="show_different_time_frame_guide">Prikaži raniji ili kasniji vozni red</string>
-    <string name="cfg_list_long_arrow_pg_down">Tretirajte navigaciju dugom tipkom sa strelicom po stranicama</string>
     <string name="seconds">sekundi</string>
     <string name="not_limited">nije ograničeno</string>
     <string name="auto_detected">automatski otkriveno</string>
@@ -565,4 +559,12 @@
     <string name="user_exp_level">Razina korisničkog iskustva</string>
     <string name="user_exp_mode_normal">Normalni mod</string>
     <string name="user_exp_mode_expert">Stručna razina</string>
+    <string name="press_to_quick_jump_day">Pritisnite za prelazak na drugi dan.</string>
+    <string name="left_right_as_pgdown">Upotrijebite tipke sa strelicama ulijevo / udesno za pomicanje po stranicama</string>
+    <string name="wallpaper">Pozadinska slika (pozadina)</string>
+    <string name="animations">Animacije</string>
+    <string name="less_animations">Manje animacija</string>
+    <string name="large_cards">Velike kartice</string>
+    <string name="small_cards">Male kartice</string>
+    <string name="recommend_disabling_item_description">Predlažemo da veličinu popisa postavite na 100%, kako bi zauzeli cijeli zaslon</string>
     </resources>

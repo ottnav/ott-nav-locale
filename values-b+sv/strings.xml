@@ -162,9 +162,6 @@
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Inaktivera annonser för alltid med en enda betalning</string>
     <string name="setting_list_view_title">Hur listor ska visas</string>
     <string name="setting_list_view1">enkel lista</string>
-    <string name="setting_list_view2">tabell (2 kolumner) med beskrivning</string>
-    <string name="setting_list_view3">tabell (3 kolumner)</string>
-    <string name="setting_list_view4">tabell (4 kolumner)</string>
     <string name="cfg_play_deny_buffer">Visa inte buffertstatus</string>
     <string name="copied_clipboard">Kopierade till urklipp</string>
     <string name="cfg_play_action_menu">öppen meny</string>
@@ -271,7 +268,6 @@
     <string name="cfg_section_desc">Föremålsbeskrivning</string>
     <string name="cfg_section_lists">Listar inställningar</string>
     <string name="cfg_no_hints">Visa inte tips</string>
-    <string name="setting_list_view_auto">bord (stora ikoner, passar på skärmen)</string>
     <string name="child_mode_unlock_cfg">Ange barnkod för att låsa upp inställningarna</string>
     <string name="cfg_child_mode">Barnläge</string>
     <string name="cfg_child_mode_number">Kod för att lämna ett barnläge (4 siffror)</string>
@@ -380,7 +376,6 @@
     <string name="ch_manage_use_internal">Använd intern spelare</string>
     <string name="cat_manage_start_this_cat_on">Börja från den här kategorin</string>
     <string name="cfg_show_ch_desc">Visa sändningsbeskrivning</string>
-    <string name="cfg_show_archive_marker">Visa markör för arkivtillgänglighet</string>
     <string name="studio_mode_open_in">Öppna i Studio-läge</string>
     <string name="studio_mode_title">Studioläge</string>
     <string name="studio_mode_remove">Ta bort skärmen</string>
@@ -433,7 +428,6 @@
     <string name="hours">timmar</string>
     <string name="parental_control">föräldrakontroll</string>
     <string name="show_different_time_frame_guide">Visa tidigare eller senare tidtabell</string>
-    <string name="cfg_list_long_arrow_pg_down">Behandla den långa piltangenten genom att trycka på navigering efter sidor</string>
     <string name="seconds">sekunder</string>
     <string name="not_limited">inte begränsad</string>
     <string name="auto_detected">auto upptäckt</string>
@@ -566,4 +560,12 @@
     <string name="user_exp_level">Nivå för användarupplevelse</string>
     <string name="user_exp_mode_normal">Normalt läge</string>
     <string name="user_exp_mode_expert">Expertläge</string>
+    <string name="press_to_quick_jump_day">Tryck för att hoppa till en annan dag.</string>
+    <string name="left_right_as_pgdown">Använd vänster / höger pilknappar för att bläddra efter sidor</string>
+    <string name="wallpaper">Bakgrundsbild (tapet)</string>
+    <string name="animations">animationer</string>
+    <string name="less_animations">Mindre animationer</string>
+    <string name="large_cards">Stora kort</string>
+    <string name="small_cards">Små kort</string>
+    <string name="recommend_disabling_item_description">Vi föreslår att du ställer in liststorlek till 100% för att uppta hela skärmen</string>
     </resources>

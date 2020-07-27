@@ -213,9 +213,6 @@
 
     <string name="setting_list_view_title">How lists should be displayed</string>
     <string name="setting_list_view1">simple list</string>
-    <string name="setting_list_view2">table (2 columns) with description</string>
-    <string name="setting_list_view3">table (3 columns)</string>
-    <string name="setting_list_view4">table (4 columns)</string>
     <string name="cfg_play_deny_buffer">Do not show buffering status</string>
     <string name="copied_clipboard">Copied to clipboard</string>
     <string name="cfg_play_action_menu">open menu</string>
@@ -327,7 +324,6 @@
     <string name="cfg_section_lists">Lists settings</string>
 
     <string name="cfg_no_hints">Do not show hints</string>
-    <string name="setting_list_view_auto">table (large icons, fit the screen)</string>
     <string name="child_mode_unlock_cfg">Enter child code to unlock settings</string>
     <string name="cfg_child_mode">Child mode</string>
     <string name="cfg_child_mode_number">Code to exit a child mode (4 digits)</string>
@@ -442,7 +438,6 @@
     <string name="cat_manage_start_this_cat_on">Start from this category</string>
 
     <string name="cfg_show_ch_desc">Show broadcast description</string>
-    <string name="cfg_show_archive_marker">Show archive availability marker</string>
     <string name="studio_mode_open_in">Open in Studio Mode</string>
     <string name="studio_mode_title">Studio mode</string>
     <string name="studio_mode_remove">Remove screen</string>
@@ -496,7 +491,6 @@
     <string name="hours">hours</string>
     <string name="parental_control">parental control</string>
     <string name="show_different_time_frame_guide">Show earlier or later timetable</string>
-    <string name="cfg_list_long_arrow_pg_down">Treat long arrow key press navigation by pages</string>
     <string name="seconds">seconds</string>
     <string name="not_limited">not limited</string>
     <string name="auto_detected">auto detected</string>
@@ -630,4 +624,11 @@
     <string name="user_exp_mode_normal">Normal mode</string>
     <string name="user_exp_mode_expert">Expert mode</string>
     <string name="press_to_quick_jump_day">Press to jump to another day.</string>
+    <string name="left_right_as_pgdown">Use left/right arrow buttons to scroll by pages</string>
+    <string name="wallpaper">Background image (wallpaper)</string>
+    <string name="animations">Animations</string>
+    <string name="less_animations">Less animations</string>
+    <string name="large_cards">Large cards</string>
+    <string name="small_cards">Small cards</string>
+    <string name="recommend_disabling_item_description">We are suggesting to set list size to 100%, in order to occupy the whole screen</string>
 </resources>

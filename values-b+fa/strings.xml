@@ -220,9 +220,6 @@
 
     <string name="setting_list_view_title">چگونه لیست ها باید نمایش داده شوند</string>
     <string name="setting_list_view1">لیست ساده</string>
-    <string name="setting_list_view2">جدول (2 ستون) با توضیحات</string>
-    <string name="setting_list_view3">جدول (3 ستون)</string>
-    <string name="setting_list_view4">جدول (4 ستون)</string>
     <string name="cfg_play_deny_buffer">وضعیت بافر را نشان ندهید</string>
     <string name="copied_clipboard">کپی به کلیپ بورد</string>
     <string name="cfg_play_action_menu">منوی باز</string>
@@ -335,7 +332,6 @@
     <string name="cfg_section_lists">فهرست تنظیمات</string>
 
     <string name="cfg_no_hints">نکات را نشان ندهید</string>
-    <string name="setting_list_view_auto">جدول (آیکون های بزرگ، متناسب با صفحه نمایش)</string>
     <string name="child_mode_unlock_cfg">کد کودک را برای باز کردن تنظیمات وارد کنید</string>
     <string name="cfg_child_mode">حالت کودک</string>
     <string name="cfg_child_mode_number">کد برای خروج از حالت کودک (4 رقم)</string>
@@ -450,7 +446,6 @@
     <string name="cat_manage_start_this_cat_on">از این دسته شروع کنید</string>
 
     <string name="cfg_show_ch_desc">نمایش توضیحات پخش</string>
-    <string name="cfg_show_archive_marker">نشانگر در دسترس بودن بایگانی را نشان دهید</string>
     <string name="studio_mode_open_in">در حالت استودیو باز کنید</string>
     <string name="studio_mode_title">حالت استودیو</string>
     <string name="studio_mode_remove">صفحه را حذف کنید</string>
@@ -503,7 +498,6 @@
     <string name="hours">ساعت ها</string>
     <string name="parental_control">کنترل والدین</string>
     <string name="show_different_time_frame_guide">جدول زمانی زودتر یا دیرتر نمایش دهید</string>
-    <string name="cfg_list_long_arrow_pg_down">با استفاده از صفحات ، ناوبری مطبوعاتی با کلید فلش طولانی را کنترل کنید</string>
     <string name="seconds">ثانیه</string>
     <string name="not_limited">بدون محدودیت</string>
     <string name="auto_detected">خودکار شناسایی شد</string>
@@ -636,4 +630,12 @@
     <string name="user_exp_level">سطح تجربه کاربر</string>
     <string name="user_exp_mode_normal">حالت عادی</string>
     <string name="user_exp_mode_expert">حالت خبره</string>
+    <string name="press_to_quick_jump_day">برای پرش به روز دیگر فشار دهید.</string>
+    <string name="left_right_as_pgdown">برای پیمایش صفحات از دکمه های پیکان چپ / راست استفاده کنید</string>
+    <string name="wallpaper">تصویر پس زمینه (تصویر زمینه)</string>
+    <string name="animations">تصاوير متحرك</string>
+    <string name="less_animations">کمتر انیمیشن</string>
+    <string name="large_cards">کارتهای بزرگ</string>
+    <string name="small_cards">کارتهای کوچک</string>
+    <string name="recommend_disabling_item_description">ما می خواهیم اندازه اش را 100٪ تنظیم کنیم تا کل صفحه اشغال شود</string>
     </resources>

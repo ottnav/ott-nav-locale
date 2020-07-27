@@ -220,9 +220,6 @@
 
     <string name="setting_list_view_title">リストの表示方法</string>
     <string name="setting_list_view1">単純なリスト</string>
-    <string name="setting_list_view2">説明付きの表（2列）</string>
-    <string name="setting_list_view3">テーブル（3列）</string>
-    <string name="setting_list_view4">テーブル（4列）</string>
     <string name="cfg_play_deny_buffer">バッファリング状態を表示しない</string>
     <string name="copied_clipboard">クリップボードにコピーされました</string>
     <string name="cfg_play_action_menu">メニューを開く</string>
@@ -335,7 +332,6 @@
     <string name="cfg_section_lists">設定を一覧表示する</string>
 
     <string name="cfg_no_hints">ヒントを表示しない</string>
-    <string name="setting_list_view_auto">テーブル（大きなアイコン、画面にフィット）</string>
     <string name="child_mode_unlock_cfg">設定をロック解除するための子コードを入力してください</string>
     <string name="cfg_child_mode">子モード</string>
     <string name="cfg_child_mode_number">子モードを終了するコード（4桁）</string>
@@ -450,7 +446,6 @@
     <string name="cat_manage_start_this_cat_on">このカテゴリから始める</string>
 
     <string name="cfg_show_ch_desc">ブロードキャストの説明を表示</string>
-    <string name="cfg_show_archive_marker">アーカイブの可用性マーカーを表示</string>
     <string name="studio_mode_open_in">スタジオモードで開く</string>
     <string name="studio_mode_title">スタジオモード</string>
     <string name="studio_mode_remove">画面を削除</string>
@@ -503,7 +498,6 @@
     <string name="hours">営業時間</string>
     <string name="parental_control">ペアレンタルコントロール</string>
     <string name="show_different_time_frame_guide">前または後の時刻表を表示</string>
-    <string name="cfg_list_long_arrow_pg_down">ページごとの長い矢印キーを押すナビゲーションを扱う</string>
     <string name="seconds">秒</string>
     <string name="not_limited">無制限</string>
     <string name="auto_detected">自動検出</string>
@@ -636,4 +630,12 @@
     <string name="user_exp_level">ユーザー経験レベル</string>
     <string name="user_exp_mode_normal">ノーマルモード</string>
     <string name="user_exp_mode_expert">エキスパートモード</string>
+    <string name="press_to_quick_jump_day">を押して別の日にジャンプします。</string>
+    <string name="left_right_as_pgdown">左/右矢印ボタンを使用してページごとにスクロール</string>
+    <string name="wallpaper">背景画像（壁紙）</string>
+    <string name="animations">アニメーション</string>
+    <string name="less_animations">少ないアニメーション</string>
+    <string name="large_cards">大きなカード</string>
+    <string name="small_cards">小さなカード</string>
+    <string name="recommend_disabling_item_description">画面全体を占めるように、リストのサイズを100％に設定することをお勧めします</string>
     </resources>
