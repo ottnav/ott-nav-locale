@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">حق بیمه غیر فعال شده است</string>
     <string name="settings_premium_what_included">درباره ویژگی های حق بیمه بیشتر بدانید ...</string>
     <string name="settings_premium_what_included_1">در حال مشاهده جریان پخش تصویر در حالت عکس</string>
-    <string name="settings_premium_what_included_2">گزینه ای برای بازگشت به آخرین کانال پخش شده</string>
     <string name="settings_premium_what_included_3">تغییر فریم نرخ خودکار برای مطابقت با ویدئو</string>
     <string name="settings_premium_what_included_4">کنترل سرعت پخش برای آرشیوها</string>
 
@@ -353,7 +352,6 @@
     <string name="btn_provider_delete">حذف</string>
     <string name="provider_playlist">لیست پخش</string>
     <string name="provider_playlist_file">لیست پخش از فایل</string>
-    <string name="premium_fea_tv_guide">برنامه تلویزیون را به عنوان یک صفحه گسترده مشاهده کنید</string>
     <string name="provider_field_name">نام</string>
     <string name="provider_field_url">نشانی اینترنتی</string>
     <string name="provider_field_login">ورود</string>
@@ -638,4 +636,11 @@
     <string name="large_cards">کارتهای بزرگ</string>
     <string name="small_cards">کارتهای کوچک</string>
     <string name="recommend_disabling_item_description">ما می خواهیم اندازه اش را 100٪ تنظیم کنیم تا کل صفحه اشغال شود</string>
+    <string name="use_jump_seek">فعال کردن روش عقب آهسته تر (سازگاری بیشتری را ارائه می دهد)</string>
+    <string name="random_choice">انتخاب تصادفی</string>
+    <string name="today">امروز</string>
+    <string name="tiny_cards">کوچکترین کارتها</string>
+    <string name="action_with_multiple_channels">اقدام با چندین کانال در این گروه</string>
+    <string name="select_from_gallery">از گالری انتخاب کنید</string>
+    <string name="show_info_before_vod">قبل از راه اندازی اطلاعات ، اطلاعات را نشان دهید</string>
     </resources>

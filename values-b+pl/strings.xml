@@ -197,7 +197,6 @@
     <string name="settings_premium_source_unknown">Brak subkrybcji Premium</string>
     <string name="settings_premium_what_included">Dowiedz się więcej o funkcjach premium …</string>
     <string name="settings_premium_what_included_1">Tryb obrazu w obrazie podczas oglądania transmisji na żywo</string>
-    <string name="settings_premium_what_included_2">Możliwość powrotu do ostatnio odtwarzanego kanału</string>
     <string name="settings_premium_what_included_3">Automatyczne przełączanie szybkości klatek, aby dopasować wideo</string>
     <string name="settings_premium_what_included_4">Kontrolowanie prędkości odtwarzania w archiwach</string>
 
@@ -346,7 +345,6 @@
     <string name="btn_provider_delete">Usuń</string>
     <string name="provider_playlist">Playlista</string>
     <string name="provider_playlist_file">Lista odtwarzania z pliku</string>
-    <string name="premium_fea_tv_guide">Wyświetl program telewizyjny jako arkusz kalkulacyjny</string>
     <string name="provider_field_name">Nazwa</string>
     <string name="provider_field_url">Adres URL</string>
     <string name="provider_field_login">Nazwa użytkownika</string>
@@ -631,4 +629,11 @@
     <string name="large_cards">Duże karty</string>
     <string name="small_cards">Małe karty</string>
     <string name="recommend_disabling_item_description">Sugerujemy ustawienie rozmiaru listy na 100%, aby zajmowała cały ekran</string>
+    <string name="use_jump_seek">Włącz metodę wolniejszego przewijania (zapewnia większą zgodność)</string>
+    <string name="random_choice">losowy wybór</string>
+    <string name="today">dzisiaj</string>
+    <string name="tiny_cards">Najmniejsze karty</string>
+    <string name="action_with_multiple_channels">Działanie z wieloma kanałami w kategorii</string>
+    <string name="select_from_gallery">Wybierz z galerii</string>
+    <string name="show_info_before_vod">Pokaż informacje przed uruchomieniem wideo</string>
     </resources>

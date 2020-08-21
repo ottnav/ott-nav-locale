@@ -196,7 +196,6 @@
     <string name="settings_premium_source_unknown">Bản cao cấp chưa được kích hoạt</string>
     <string name="settings_premium_what_included">Tìm hiểu về các tính năng cao cấp...</string>
     <string name="settings_premium_what_included_1">Chế độ hình trong hình khi xem kênh trực tiếp</string>
-    <string name="settings_premium_what_included_2">Tùy chọn để quay lại kênh đã phát cuối cùng</string>
     <string name="settings_premium_what_included_3">Tự động chuyển tốc độ khung hình để khớp video</string>
     <string name="settings_premium_what_included_4">Điều khiển tốc độ phát lại cho các bản lưu trữ</string>
 
@@ -345,7 +344,6 @@
     <string name="btn_provider_delete">Xoá</string>
     <string name="provider_playlist">Danh sách phát</string>
     <string name="provider_playlist_file">Danh sách phát từ tệp</string>
-    <string name="premium_fea_tv_guide">Xem các chương trình TV dưới dạng bảng</string>
     <string name="provider_field_name">Tên</string>
     <string name="provider_field_url">Địa chỉ URL</string>
     <string name="provider_field_login">Đăng nhập</string>
@@ -630,4 +628,11 @@
     <string name="large_cards">Thẻ lớn</string>
     <string name="small_cards">Thẻ nhỏ</string>
     <string name="recommend_disabling_item_description">Chúng tôi khuyên bạn nên đặt kích thước danh sách thành 100%, để chiếm toàn bộ màn hình</string>
+    <string name="use_jump_seek">Cho phép phương pháp tua chậm hơn (cung cấp nhiều khả năng tương thích hơn)</string>
+    <string name="random_choice">lựa chọn ngẫu nhiên</string>
+    <string name="today">hôm nay</string>
+    <string name="tiny_cards">Thẻ nhỏ nhất</string>
+    <string name="action_with_multiple_channels">Hành động với nhiều kênh trong danh mục</string>
+    <string name="select_from_gallery">Chọn từ thư viện</string>
+    <string name="show_info_before_vod">Hiển thị thông tin trước khi khởi chạy video</string>
     </resources>

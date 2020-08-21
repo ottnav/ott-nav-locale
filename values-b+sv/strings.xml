@@ -148,7 +148,6 @@
     <string name="settings_premium_source_unknown">Premium inte aktiverat</string>
     <string name="settings_premium_what_included">Läs mer om premiumfunktioner ...</string>
     <string name="settings_premium_what_included_1">Bild-i-bild-läge medan du tittar på livestream</string>
-    <string name="settings_premium_what_included_2">Möjlighet att återgå till senast spelade kanal</string>
     <string name="settings_premium_what_included_3">Automatisk bildhastighetsväxling för att matcha video</string>
     <string name="settings_premium_what_included_4">Kontrollera uppspelningshastighet för arkiv</string>
     <string name="settings_premium_toggles_try_afr">Auto-växla bildfrekvens för att matcha video</string>
@@ -288,7 +287,6 @@
     <string name="btn_provider_delete">Radera</string>
     <string name="provider_playlist">Spellista</string>
     <string name="provider_playlist_file">Spellista från fil</string>
-    <string name="premium_fea_tv_guide">Visa TV-program som ett kalkylblad</string>
     <string name="provider_field_name">namn</string>
     <string name="provider_field_url">URL-adress</string>
     <string name="provider_field_login">Logga in</string>
@@ -568,4 +566,11 @@
     <string name="large_cards">Stora kort</string>
     <string name="small_cards">Små kort</string>
     <string name="recommend_disabling_item_description">Vi föreslår att du ställer in liststorlek till 100% för att uppta hela skärmen</string>
+    <string name="use_jump_seek">Aktivera långsammare spolningsmetod (ger mer kompatibilitet)</string>
+    <string name="random_choice">slumpmässigt val</string>
+    <string name="today">i dag</string>
+    <string name="tiny_cards">Minsta kort</string>
+    <string name="action_with_multiple_channels">Åtgärd med flera kanaler i kategorin</string>
+    <string name="select_from_gallery">Välj från galleriet</string>
+    <string name="show_info_before_vod">Visa info innan du startar video</string>
     </resources>

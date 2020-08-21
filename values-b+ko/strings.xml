@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">사용할 수없는 프리미엄</string>
     <string name="settings_premium_what_included">프리미엄 기능에 대해 자세히 알아보기 ...</string>
     <string name="settings_premium_what_included_1">라이브 스트림을 보면서 PIP (Picture-in-Picture) 모드</string>
-    <string name="settings_premium_what_included_2">마지막으로 재생 된 채널로 돌아갈 수있는 옵션</string>
     <string name="settings_premium_what_included_3">비디오와 일치하는 자동 프레임 속도 전환</string>
     <string name="settings_premium_what_included_4">아카이브의 재생 속도 제어</string>
 
@@ -353,7 +352,6 @@
     <string name="btn_provider_delete">지우다</string>
     <string name="provider_playlist">재생 목록</string>
     <string name="provider_playlist_file">파일에서 재생 목록</string>
-    <string name="premium_fea_tv_guide">TV 프로그램을 스프레드 시트로보기</string>
     <string name="provider_field_name">이름</string>
     <string name="provider_field_url">URL 주소</string>
     <string name="provider_field_login">로그인</string>
@@ -638,4 +636,11 @@
     <string name="large_cards">큰 카드</string>
     <string name="small_cards">작은 카드</string>
     <string name="recommend_disabling_item_description">전체 화면을 차지하기 위해 목록 크기를 100 %로 설정하는 것이 좋습니다.</string>
+    <string name="use_jump_seek">되감기 속도를 늦 춥니 다 (더 많은 호환성 제공)</string>
+    <string name="random_choice">무작위 선택</string>
+    <string name="today">오늘</string>
+    <string name="tiny_cards">가장 작은 카드</string>
+    <string name="action_with_multiple_channels">카테고리에 여러 채널이있는 액션</string>
+    <string name="select_from_gallery">갤러리에서 선택</string>
+    <string name="show_info_before_vod">비디오를 시작하기 전에 정보 표시</string>
     </resources>

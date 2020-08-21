@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">Premium non abilitato</string>
     <string name="settings_premium_what_included">Ulteriori informazioni sulle funzioni premium …</string>
     <string name="settings_premium_what_included_1">Modalità picture-in-picture mentre si guarda lo streaming live</string>
-    <string name="settings_premium_what_included_2">Opzione per tornare all\'ultimo canale riprodotto</string>
     <string name="settings_premium_what_included_3">Commutazione automatica della frequenza dei fotogrammi per abbinare il video</string>
     <string name="settings_premium_what_included_4">Controllo della velocità di riproduzione per gli archivi</string>
 
@@ -351,7 +350,6 @@
     <string name="btn_provider_delete">Elimina</string>
     <string name="provider_playlist">elenco di riproduzione</string>
     <string name="provider_playlist_file">Lista da file</string>
-    <string name="premium_fea_tv_guide">Visualizza il programma TV come foglio di calcolo</string>
     <string name="provider_field_name">Nome</string>
     <string name="provider_field_url">Indirizzo URL</string>
     <string name="provider_field_login">Accesso</string>
@@ -636,4 +634,11 @@
     <string name="large_cards">Carte grandi</string>
     <string name="small_cards">Piccole carte</string>
     <string name="recommend_disabling_item_description">Stiamo suggerendo di impostare la dimensione dell\'elenco al 100%, al fine di occupare l\'intero schermo</string>
+    <string name="use_jump_seek">Abilita metodo di riavvolgimento più lento (offre maggiore compatibilità)</string>
+    <string name="random_choice">scelta casuale</string>
+    <string name="today">oggi</string>
+    <string name="tiny_cards">Le carte più piccole</string>
+    <string name="action_with_multiple_channels">Azione con più canali nella categoria</string>
+    <string name="select_from_gallery">Seleziona dalla galleria</string>
+    <string name="show_info_before_vod">Mostra le informazioni prima di avviare il video</string>
     </resources>

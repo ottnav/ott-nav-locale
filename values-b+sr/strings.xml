@@ -196,7 +196,6 @@
     <string name="settings_premium_source_unknown">Premijum nije omogućen</string>
     <string name="settings_premium_what_included">Saznaj više o Premijum funkcijama…</string>
     <string name="settings_premium_what_included_1">Slika-u-slici režim	pri gledanju uživo prenosa</string>
-    <string name="settings_premium_what_included_2">Opcija za vraćanje na prethodni gledani kanal</string>
     <string name="settings_premium_what_included_3">Automatska promena osvežavanja da se podudara sa videom</string>
     <string name="settings_premium_what_included_4">Kontrolisanje brzine reprodukcuje za arhive</string>
 
@@ -345,7 +344,6 @@
     <string name="btn_provider_delete">Izbriši</string>
     <string name="provider_playlist">Plejlista</string>
     <string name="provider_playlist_file">Plejlista od fajla</string>
-    <string name="premium_fea_tv_guide">Vidi TV program kao tabelu</string>
     <string name="provider_field_name">Ime</string>
     <string name="provider_field_url">URL adresa</string>
     <string name="provider_field_login">Prijava</string>
@@ -631,4 +629,11 @@
     <string name="large_cards">Велике карте</string>
     <string name="small_cards">Мале карте</string>
     <string name="recommend_disabling_item_description">Предлажемо да величину листе поставите на 100% како би заузели цео екран</string>
+    <string name="use_jump_seek">Омогући спорији начин премотавања уназад (пружа већу компатибилност)</string>
+    <string name="random_choice">случајни избор</string>
+    <string name="today">данас</string>
+    <string name="tiny_cards">Најмање карте</string>
+    <string name="action_with_multiple_channels">Акција са више канала у категорији</string>
+    <string name="select_from_gallery">Изаберите из галерије</string>
+    <string name="show_info_before_vod">Прикажи информације пре него што покренете видео</string>
     </resources>

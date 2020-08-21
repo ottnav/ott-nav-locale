@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">प्रीमियम सक्षम नहीं है</string>
     <string name="settings_premium_what_included">प्रीमियम सुविधाओं के बारे में और जानें ...</string>
     <string name="settings_premium_what_included_1">लाइव स्ट्रीम देखते समय पिक्चर-इन-पिक्चर मोड</string>
-    <string name="settings_premium_what_included_2">अंतिम खेला चैनल पर वापस जाने का विकल्प</string>
     <string name="settings_premium_what_included_3">वीडियो से मिलान करने के लिए स्वचालित फ्रेम दर स्विचिंग</string>
     <string name="settings_premium_what_included_4">अभिलेखागार के लिए प्लेबैक गति को नियंत्रित करना</string>
 
@@ -353,7 +352,6 @@
     <string name="btn_provider_delete">हटाना</string>
     <string name="provider_playlist">प्लेलिस्ट</string>
     <string name="provider_playlist_file">फ़ाइल से प्लेलिस्ट</string>
-    <string name="premium_fea_tv_guide">एक स्प्रेडशीट के रूप में टीवी कार्यक्रम देखें</string>
     <string name="provider_field_name">नाम</string>
     <string name="provider_field_url">URL पता</string>
     <string name="provider_field_login">लॉग इन करें</string>
@@ -638,4 +636,11 @@
     <string name="large_cards">बड़े कार्ड</string>
     <string name="small_cards">छोटे कार्ड</string>
     <string name="recommend_disabling_item_description">हम पूरी स्क्रीन पर कब्जा करने के लिए, सूची आकार को 100% पर सेट करने का सुझाव दे रहे हैं</string>
+    <string name="use_jump_seek">धीमी रिवाइंड विधि सक्षम करें (अधिक अनुकूलता प्रदान करता है)</string>
+    <string name="random_choice">यादृच्छिक विकल्प</string>
+    <string name="today">आज</string>
+    <string name="tiny_cards">सबसे छोटे कार्ड</string>
+    <string name="action_with_multiple_channels">श्रेणी में कई चैनलों के साथ कार्रवाई</string>
+    <string name="select_from_gallery">गैलरी से चयन करें</string>
+    <string name="show_info_before_vod">वीडियो लॉन्च करने से पहले जानकारी दिखाएं</string>
     </resources>

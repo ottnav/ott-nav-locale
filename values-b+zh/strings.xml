@@ -196,7 +196,6 @@
     <string name="settings_premium_source_unknown">未开通高级会员</string>
     <string name="settings_premium_what_included">了解高级会员详情......</string>
     <string name="settings_premium_what_included_1">直播时开启画中画</string>
-    <string name="settings_premium_what_included_2">自动打开上次观看的频道</string>
     <string name="settings_premium_what_included_3">自动匹配视频播放帧速率</string>
     <string name="settings_premium_what_included_4">播放速度尽在掌控</string>
 
@@ -345,7 +344,6 @@
     <string name="btn_provider_delete">删除</string>
     <string name="provider_playlist">网络播放列表</string>
     <string name="provider_playlist_file">本地播放列表文件</string>
-    <string name="premium_fea_tv_guide">表格式电视节目指南</string>
     <string name="provider_field_name">名称</string>
     <string name="provider_field_url">网址</string>
     <string name="provider_field_login">用户名</string>
@@ -630,4 +628,11 @@
     <string name="large_cards">大卡</string>
     <string name="small_cards">小卡片</string>
     <string name="recommend_disabling_item_description">我们建议将列表大小设置为100％，以占据整个屏幕</string>
+    <string name="use_jump_seek">启用较慢的倒带方法（提供更多兼容性）</string>
+    <string name="random_choice">随机选择</string>
+    <string name="today">今天</string>
+    <string name="tiny_cards">最小的卡</string>
+    <string name="action_with_multiple_channels">类别中具有多个渠道的操作</string>
+    <string name="select_from_gallery">从图库中选择</string>
+    <string name="show_info_before_vod">在启动视频之前显示信息</string>
     </resources>

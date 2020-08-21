@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">Premium não ativado</string>
     <string name="settings_premium_what_included">Saiba mais sobre recursos premium…</string>
     <string name="settings_premium_what_included_1">Modo PiP (Picture-in-Picture) enquanto assiste a transmissão ao vivo</string>
-    <string name="settings_premium_what_included_2">Opção para retornar ao último canal reproduzido</string>
     <string name="settings_premium_what_included_3">Alteração automática da taxa de quadros para corresponder ao vídeo</string>
     <string name="settings_premium_what_included_4">Controle da velocidade de reprodução dos arquivos</string>
 
@@ -351,7 +350,6 @@
     <string name="btn_provider_delete">Excluir</string>
     <string name="provider_playlist">Lista de reprodução</string>
     <string name="provider_playlist_file">Lista de reprodução por arquivo</string>
-    <string name="premium_fea_tv_guide">Visualizar programa de TV como uma tabela</string>
     <string name="provider_field_name">Nome</string>
     <string name="provider_field_url">Endereço URL</string>
     <string name="provider_field_login">Entrar</string>
@@ -636,4 +634,11 @@
     <string name="large_cards">Cartões grandes</string>
     <string name="small_cards">Cartões pequenos</string>
     <string name="recommend_disabling_item_description">Sugerimos definir o tamanho da lista em 100%, para ocupar a tela inteira</string>
+    <string name="use_jump_seek">Ativar o método de rebobinagem mais lento (fornece mais compatibilidade)</string>
+    <string name="random_choice">escolha aleatória</string>
+    <string name="today">hoje</string>
+    <string name="tiny_cards">Cartões menores</string>
+    <string name="action_with_multiple_channels">Ação com vários canais na categoria</string>
+    <string name="select_from_gallery">Selecione na galeria</string>
+    <string name="show_info_before_vod">Mostrar informações antes de lançar o vídeo</string>
     </resources>

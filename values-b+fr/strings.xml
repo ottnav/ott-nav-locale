@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">Premium non activé</string>
     <string name="settings_premium_what_included">En savoir plus sur les fonctionnalités premium…</string>
     <string name="settings_premium_what_included_1">Mode image dans l\'image tout en regardant un flux en direct</string>
-    <string name="settings_premium_what_included_2">Possibilité de revenir au dernier canal joué</string>
     <string name="settings_premium_what_included_3">Changement automatique de la fréquence d\'images en fonction de la vidéo</string>
     <string name="settings_premium_what_included_4">Contrôle de la vitesse de lecture pour les archives</string>
 
@@ -351,7 +350,6 @@
     <string name="btn_provider_delete">Effacer</string>
     <string name="provider_playlist">Playlist</string>
     <string name="provider_playlist_file">Playlist du fichier</string>
-    <string name="premium_fea_tv_guide">Voir le programme TV sous forme de feuille de calcul</string>
     <string name="provider_field_name">Nom</string>
     <string name="provider_field_url">Adresse URL</string>
     <string name="provider_field_login">Identifiant</string>
@@ -636,4 +634,11 @@
     <string name="large_cards">Grandes cartes</string>
     <string name="small_cards">Petites cartes</string>
     <string name="recommend_disabling_item_description">Nous vous proposons de définir la taille de la liste à 100%, afin d\'occuper tout l\'écran</string>
+    <string name="use_jump_seek">Activer la méthode de rembobinage plus lente (offre plus de compatibilité)</string>
+    <string name="random_choice">choix aléatoire</string>
+    <string name="today">aujourd\'hui</string>
+    <string name="tiny_cards">Les plus petites cartes</string>
+    <string name="action_with_multiple_channels">Action avec plusieurs canaux dans la catégorie</string>
+    <string name="select_from_gallery">Sélectionnez dans la galerie</string>
+    <string name="show_info_before_vod">Afficher les informations avant de lancer la vidéo</string>
     </resources>

@@ -197,7 +197,6 @@
     <string name="settings_premium_source_unknown">Premium pole lubatud</string>
     <string name="settings_premium_what_included">Lisateave lisatasu funktsioonide kohta ...</string>
     <string name="settings_premium_what_included_1">Pildistamisrežiim, kui vaatate otseülekannet</string>
-    <string name="settings_premium_what_included_2">Viimati mängitud kanalile naasmise võimalus</string>
     <string name="settings_premium_what_included_3">Automaatne kaadrisageduse vahetamine video sobitamiseks</string>
     <string name="settings_premium_what_included_4">Arhiivide taasesituse kiiruse kontrollimine</string>
 
@@ -351,7 +350,6 @@
     <string name="btn_provider_delete">Kustuta</string>
     <string name="provider_playlist">Esitusloend</string>
     <string name="provider_playlist_file">Esitusloend failist</string>
-    <string name="premium_fea_tv_guide">Vaadake telesaate arvutustabelina</string>
     <string name="provider_field_name">Nimi</string>
     <string name="provider_field_url">URL-aadress</string>
     <string name="provider_field_login">Logi sisse</string>
@@ -638,4 +636,11 @@
     <string name="large_cards">Suured kaardid</string>
     <string name="small_cards">Väikesed kaardid</string>
     <string name="recommend_disabling_item_description">Kogu ekraani hõivamiseks soovitame seada loendisuuruseks 100%</string>
+    <string name="use_jump_seek">Luba aeglasema tagasikerimise meetod (pakub rohkem ühilduvust)</string>
+    <string name="random_choice">juhuslik valik</string>
+    <string name="today">täna</string>
+    <string name="tiny_cards">Väikseimad kaardid</string>
+    <string name="action_with_multiple_channels">Toiming kategooria mitme kanali abil</string>
+    <string name="select_from_gallery">Valige galeriist</string>
+    <string name="show_info_before_vod">Enne video käivitamist kuvage teave</string>
     </resources>

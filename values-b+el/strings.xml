@@ -148,7 +148,6 @@
     <string name="settings_premium_source_unknown">Το Premium δεν είναι ενεργοποιημένο</string>
     <string name="settings_premium_what_included">Μάθετε περισσότερα σχετικά με τις δυνατότητες premium ...</string>
     <string name="settings_premium_what_included_1">Λειτουργία εικόνας σε εικόνα ενώ παρακολουθείτε live stream</string>
-    <string name="settings_premium_what_included_2">Επιλογή για επιστροφή στο τελευταίο κανάλι που αναπαράγεται</string>
     <string name="settings_premium_what_included_3">Αυτόματη εναλλαγή ρυθμού καρέ για αντιστοίχιση βίντεο</string>
     <string name="settings_premium_what_included_4">Έλεγχος ταχύτητας αναπαραγωγής αρχείων</string>
     <string name="settings_premium_toggles_try_afr">Αυτόματη αλλαγή ρυθμού καρέ για να ταιριάζει με το βίντεο</string>
@@ -288,7 +287,6 @@
     <string name="btn_provider_delete">Διαγράφω</string>
     <string name="provider_playlist">Λίστα αναπαραγωγής</string>
     <string name="provider_playlist_file">Λίστα αναπαραγωγής από αρχείο</string>
-    <string name="premium_fea_tv_guide">Προβολή τηλεοπτικού προγράμματος ως υπολογιστικού φύλλου</string>
     <string name="provider_field_name">Ονομα</string>
     <string name="provider_field_url">Διεύθυνση URL</string>
     <string name="provider_field_login">Σύνδεση</string>
@@ -568,4 +566,11 @@
     <string name="large_cards">Μεγάλες κάρτες</string>
     <string name="small_cards">Μικρές κάρτες</string>
     <string name="recommend_disabling_item_description">Προτείνουμε να ορίσετε το μέγεθος της λίστας στο 100%, για να καταλάβετε ολόκληρη την οθόνη</string>
+    <string name="use_jump_seek">Ενεργοποίηση πιο αργής μεθόδου επαναφοράς (παρέχει περισσότερη συμβατότητα)</string>
+    <string name="random_choice">τυχαία επιλογή</string>
+    <string name="today">σήμερα</string>
+    <string name="tiny_cards">Μικρότερες κάρτες</string>
+    <string name="action_with_multiple_channels">Δράση με πολλά κανάλια στην κατηγορία</string>
+    <string name="select_from_gallery">Επιλέξτε από τη συλλογή</string>
+    <string name="show_info_before_vod">Εμφάνιση πληροφοριών πριν από την έναρξη του βίντεο</string>
     </resources>

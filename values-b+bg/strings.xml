@@ -147,7 +147,6 @@
     <string name="settings_premium_source_unknown">Premium не е активиран</string>
     <string name="settings_premium_what_included">Научете повече за премиум функции ...</string>
     <string name="settings_premium_what_included_1">Режим на картина в картина, докато гледате поточно предаване на живо</string>
-    <string name="settings_premium_what_included_2">Възможност за връщане към последно възпроизведен канал</string>
     <string name="settings_premium_what_included_3">Автоматично превключване на честотата на кадрите, за да съответства на видео</string>
     <string name="settings_premium_what_included_4">Контрол на скоростта на възпроизвеждане на архивите</string>
     <string name="settings_premium_toggles_try_afr">Автоматично превключване на честотата на кадрите, за да съответства на видео</string>
@@ -287,7 +286,6 @@
     <string name="btn_provider_delete">Изтрий</string>
     <string name="provider_playlist">плейлист</string>
     <string name="provider_playlist_file">Плейлист от файл</string>
-    <string name="premium_fea_tv_guide">Преглеждайте телевизионната програма като електронна таблица</string>
     <string name="provider_field_name">име</string>
     <string name="provider_field_url">URL адрес</string>
     <string name="provider_field_login">Влизам</string>
@@ -567,4 +565,11 @@
     <string name="large_cards">Големи карти</string>
     <string name="small_cards">Малки карти</string>
     <string name="recommend_disabling_item_description">Предлагаме да зададете размера на списъка на 100%, за да заемете целия екран</string>
+    <string name="use_jump_seek">Активиране на бавен метод за навиване назад (осигурява повече съвместимост)</string>
+    <string name="random_choice">случаен избор</string>
+    <string name="today">днес</string>
+    <string name="tiny_cards">Най-малките карти</string>
+    <string name="action_with_multiple_channels">Действие с няколко канала в категорията</string>
+    <string name="select_from_gallery">Изберете от галерията</string>
+    <string name="show_info_before_vod">Показване на информация преди пускането на видео</string>
     </resources>

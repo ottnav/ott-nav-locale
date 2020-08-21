@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">প্রিমিয়াম সক্রিয় করা হয় না</string>
     <string name="settings_premium_what_included">প্রিমিয়াম বৈশিষ্ট্য সম্পর্কে আরও জানুন ...</string>
     <string name="settings_premium_what_included_1">লাইভ স্ট্রিম পর্যবেক্ষক যখন ছবি-ইন-ছবি মোড</string>
-    <string name="settings_premium_what_included_2">সর্বশেষ খেলে চ্যানেল ফিরে বিকল্প</string>
     <string name="settings_premium_what_included_3">স্বয়ংক্রিয় ফ্রেম রেট সুইচিং ভিডিও মেলে</string>
     <string name="settings_premium_what_included_4">আর্কাইভ জন্য প্লেব্যাক গতি নিয়ন্ত্রণ</string>
 
@@ -353,7 +352,6 @@
     <string name="btn_provider_delete">মুছে ফেলা</string>
     <string name="provider_playlist">প্লেলিস্ট</string>
     <string name="provider_playlist_file">ফাইল থেকে প্লেলিস্ট</string>
-    <string name="premium_fea_tv_guide">একটি স্প্রেডশীট হিসাবে টিভি প্রোগ্রাম দেখুন</string>
     <string name="provider_field_name">নাম</string>
     <string name="provider_field_url">ইউআরএল ঠিকানা</string>
     <string name="provider_field_login">লগইন</string>
@@ -638,4 +636,11 @@
     <string name="large_cards">বড় কার্ড</string>
     <string name="small_cards">ছোট কার্ড</string>
     <string name="recommend_disabling_item_description">পুরো স্ক্রিনটি দখল করতে আমরা তালিকা আকারটি 100% এ সেট করার পরামর্শ দিচ্ছি</string>
+    <string name="use_jump_seek">ধীর রিওয়াইন্ড পদ্ধতি সক্ষম করুন (আরও উপযুক্ততা সরবরাহ করে)</string>
+    <string name="random_choice">এলোমেলো পছন্দ</string>
+    <string name="today">আজ</string>
+    <string name="tiny_cards">সবচেয়ে ছোট কার্ড</string>
+    <string name="action_with_multiple_channels">বিভাগে একাধিক চ্যানেল সহ ক্রিয়া</string>
+    <string name="select_from_gallery">গ্যালারী থেকে নির্বাচন করুন</string>
+    <string name="show_info_before_vod">ভিডিও চালু করার আগে তথ্য প্রদর্শন করুন</string>
     </resources>

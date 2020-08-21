@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">Premium etkin değil</string>
     <string name="settings_premium_what_included">Premium özellikler hakkında daha fazla bilgi edinin…</string>
     <string name="settings_premium_what_included_1">Canlı akışı izlerken resim içinde resim modu</string>
-    <string name="settings_premium_what_included_2">Son oynatılan kanala dönme seçeneği</string>
     <string name="settings_premium_what_included_3">Videoya göre otomatik kare hızı değişimi</string>
     <string name="settings_premium_what_included_4">Arşivler için oynatma hızını kontrol etme</string>
 
@@ -351,7 +350,6 @@
     <string name="btn_provider_delete">silmek</string>
     <string name="provider_playlist">Oynatma Listesi</string>
     <string name="provider_playlist_file">Dosyadan çalma listesi</string>
-    <string name="premium_fea_tv_guide">TV programını elektronik tablo olarak görüntüleme</string>
     <string name="provider_field_name">isim</string>
     <string name="provider_field_url">URL adresi</string>
     <string name="provider_field_login">Oturum aç</string>
@@ -636,4 +634,11 @@
     <string name="large_cards">Büyük kartlar</string>
     <string name="small_cards">Küçük kartlar</string>
     <string name="recommend_disabling_item_description">Tüm ekranı kaplamak için liste boyutunu% 100 olarak ayarlamanızı öneririz</string>
+    <string name="use_jump_seek">Yavaş geri sarma yöntemini etkinleştir (daha fazla uyumluluk sağlar)</string>
+    <string name="random_choice">rastgele seçim</string>
+    <string name="today">bugün</string>
+    <string name="tiny_cards">En küçük kartlar</string>
+    <string name="action_with_multiple_channels">Kategorideki birden çok kanalla eylem</string>
+    <string name="select_from_gallery">Galeriden seçin</string>
+    <string name="show_info_before_vod">Videoyu başlatmadan önce bilgi göster</string>
     </resources>

@@ -205,7 +205,6 @@
     <string name="settings_premium_source_unknown">Premium neįjungtas</string>
     <string name="settings_premium_what_included">Peržiūrėti Premium galimybių sąrašą…</string>
     <string name="settings_premium_what_included_1">Vaizdas vaizde (PIP) režimas, žiūrint tiesioginę transliaciją</string>
-    <string name="settings_premium_what_included_2">Galimybė grįžti į prieš tai žiūrėtą kanalą</string>
     <string name="settings_premium_what_included_3">Automatiškai priderinamas ekrano skleistinės dažnis. Sukuria sklandesnį vaizdo atkūrimą.</string>
     <string name="settings_premium_what_included_4">Archyvo atkūrimo greičio valdymas</string>
 
@@ -357,7 +356,6 @@
     <string name="btn_provider_delete">Ištrinti</string>
     <string name="provider_playlist">Grojaraštis</string>
     <string name="provider_playlist_file">Grojaraštis iš failo</string>
-    <string name="premium_fea_tv_guide">Peržiūrėkite TV programą kaip skaičiuoklę</string>
     <string name="provider_field_name">vardas</string>
     <string name="provider_field_url">URL adresas</string>
     <string name="provider_field_login">Prisijungti</string>
@@ -642,4 +640,11 @@
     <string name="large_cards">Didelės kortelės</string>
     <string name="small_cards">Mažos kortelės</string>
     <string name="recommend_disabling_item_description">Siūlome nustatyti 100% sąrašo dydį, kad jis užimtų visą ekraną</string>
+    <string name="use_jump_seek">Įgalinti lėtesnio atsukimo atgal metodą (suteikia daugiau suderinamumo)</string>
+    <string name="random_choice">atsitiktinis pasirinkimas</string>
+    <string name="today">šiandien</string>
+    <string name="tiny_cards">Mažiausios kortelės</string>
+    <string name="action_with_multiple_channels">Veiksmas naudojant kelis šios kategorijos kanalus</string>
+    <string name="select_from_gallery">Pasirinkite iš galerijos</string>
+    <string name="show_info_before_vod">Parodykite informaciją prieš paleisdami vaizdo įrašą</string>
     </resources>

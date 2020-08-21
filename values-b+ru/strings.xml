@@ -196,7 +196,6 @@
     <string name="settings_premium_source_unknown">Премиум не включен</string>
     <string name="settings_premium_what_included">Посмотреть список возможностей премиума…</string>
     <string name="settings_premium_what_included_1">Режим картинка-в-картинке при просмотре прямого эфира</string>
-    <string name="settings_premium_what_included_2">Возможность вернуться на предыдущий канал</string>
     <string name="settings_premium_what_included_3">Автоматическая подстройка частоты кадров</string>
     <string name="settings_premium_what_included_4">Управление скоростью проигрывания архивов</string>
 
@@ -345,7 +344,6 @@
     <string name="btn_provider_delete">Удалить</string>
     <string name="provider_playlist">Плейлист</string>
     <string name="provider_playlist_file">Файл плейлиста</string>
-    <string name="premium_fea_tv_guide">Просмотр телепрограммы в виде таблицы</string>
     <string name="provider_field_name">Название</string>
     <string name="provider_field_url">URL адрес</string>
     <string name="provider_field_login">Логин</string>
@@ -631,4 +629,11 @@
     <string name="large_cards">Большие карточки</string>
     <string name="small_cards">Маленькие карточки</string>
     <string name="recommend_disabling_item_description">Мы предлагаем установить размер списка на 100%, чтобы занимать весь экран</string>
+    <string name="use_jump_seek">Включить более медленный метод перемотки (обеспечивает большую совместимость)</string>
+    <string name="random_choice">случайный выбор</string>
+    <string name="today">Cегодня</string>
+    <string name="tiny_cards">Самые маленькие карты</string>
+    <string name="action_with_multiple_channels">Действие с несколькими каналами в категории</string>
+    <string name="select_from_gallery">Выбрать из галереи</string>
+    <string name="show_info_before_vod">Показать информацию перед запуском видео</string>
     </resources>

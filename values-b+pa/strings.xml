@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">ਪ੍ਰੀਮੀਅਮ ਸਮਰੱਥ ਨਹੀਂ ਹੈ</string>
     <string name="settings_premium_what_included">ਪ੍ਰੀਮੀਅਮ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ ...</string>
     <string name="settings_premium_what_included_1">ਲਾਈਵ ਸਟ੍ਰੀਮ ਦੇਖਦੇ ਹੋਏ ਤਸਵੀਰ-ਇਨ-ਪਿਕਚਰ ਮੋਡ</string>
-    <string name="settings_premium_what_included_2">ਅਖੀਰ ਖੇਡੇ ਗਏ ਚੈਨਲ ਤੇ ਵਾਪਸ ਜਾਣ ਦਾ ਵਿਕਲਪ</string>
     <string name="settings_premium_what_included_3">ਵੀਡੀਓ ਨੂੰ ਮੇਲ ਕਰਨ ਲਈ ਆਟੋਮੈਟਿਕ ਫ੍ਰੇਮ ਰੇਟ ਸਵਿਚ ਕਰਨਾ</string>
     <string name="settings_premium_what_included_4">ਆਰਕਾਈਵਜ਼ ਲਈ ਪਲੇਬੈਕ ਸਪੀਡ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨਾ</string>
 
@@ -351,7 +350,6 @@
     <string name="btn_provider_delete">ਮਿਟਾਓ</string>
     <string name="provider_playlist">ਪਲੇਲਿਸਟ</string>
     <string name="provider_playlist_file">ਫਾਈਲ ਤੋਂ ਪਲੇਲਿਸਟ</string>
-    <string name="premium_fea_tv_guide">ਇੱਕ ਸਪ੍ਰੈਡਸ਼ੀਟ ਦੇ ਤੌਰ ਤੇ TV ਪ੍ਰੋਗਰਾਮ ਦੇਖੋ</string>
     <string name="provider_field_name">ਨਾਮ</string>
     <string name="provider_field_url">URL ਐਡਰੈੱਸ</string>
     <string name="provider_field_login">ਲਾਗਿਨ</string>
@@ -636,4 +634,11 @@
     <string name="large_cards">ਵੱਡੇ ਕਾਰਡ</string>
     <string name="small_cards">ਛੋਟੇ ਕਾਰਡ</string>
     <string name="recommend_disabling_item_description">ਅਸੀਂ ਪੂਰੀ ਸਕ੍ਰੀਨ ਉੱਤੇ ਕਬਜ਼ਾ ਕਰਨ ਲਈ, ਸੂਚੀ ਦੇ ਆਕਾਰ ਨੂੰ 100% ਨਿਰਧਾਰਤ ਕਰਨ ਦਾ ਸੁਝਾਅ ਦੇ ਰਹੇ ਹਾਂ</string>
+    <string name="use_jump_seek">ਹੌਲੀ ਰਿਵਾਈਡ ਵਿਧੀ ਨੂੰ ਸਮਰੱਥ ਕਰੋ (ਵਧੇਰੇ ਅਨੁਕੂਲਤਾ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ)</string>
+    <string name="random_choice">ਬੇਤਰਤੀਬੇ ਚੋਣ</string>
+    <string name="today">ਅੱਜ</string>
+    <string name="tiny_cards">ਛੋਟੇ ਕਾਰਡ</string>
+    <string name="action_with_multiple_channels">ਸ਼੍ਰੇਣੀ ਦੇ ਕਈ ਚੈਨਲਾਂ ਨਾਲ ਕਾਰਵਾਈ</string>
+    <string name="select_from_gallery">ਗੈਲਰੀ ਤੋਂ ਚੁਣੋ</string>
+    <string name="show_info_before_vod">ਵੀਡੀਓ ਲਾਂਚ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਜਾਣਕਾਰੀ ਦਿਖਾਓ</string>
     </resources>

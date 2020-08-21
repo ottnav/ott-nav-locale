@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">Premium לא מופעל</string>
     <string name="settings_premium_what_included">למידע נוסף על תכונות פרמיום …</string>
     <string name="settings_premium_what_included_1">תמונה במצב תמונה בעת צפייה בזרם חי</string>
-    <string name="settings_premium_what_included_2">אפשרות לחזור לערוץ האחרון שהושמע</string>
     <string name="settings_premium_what_included_3">שינוי קצב מסגרת אוטומטי כדי להתאים את הווידאו</string>
     <string name="settings_premium_what_included_4">שליטה מהירות השמעה עבור הארכיונים</string>
 
@@ -351,7 +350,6 @@
     <string name="btn_provider_delete">מחק</string>
     <string name="provider_playlist">פלייליסט</string>
     <string name="provider_playlist_file">רשימת השמעה מקובץ</string>
-    <string name="premium_fea_tv_guide">הצג תוכנית טלוויזיה כגיליון אלקטרוני</string>
     <string name="provider_field_name">שם</string>
     <string name="provider_field_url">כתובת אתר</string>
     <string name="provider_field_login">התחברות</string>
@@ -636,4 +634,11 @@
     <string name="large_cards">קלפים גדולים</string>
     <string name="small_cards">קלפים קטנים</string>
     <string name="recommend_disabling_item_description">אנו מציעים להגדיר את גודל הרשימה ל- 100%, בכדי לכבוש את כל המסך</string>
+    <string name="use_jump_seek">אפשר שיטת איחור אחורנית איטית יותר (מספק תאימות רבה יותר)</string>
+    <string name="random_choice">בחירה אקראית</string>
+    <string name="today">היום</string>
+    <string name="tiny_cards">קלפים קטנים ביותר</string>
+    <string name="action_with_multiple_channels">פעולה עם מספר ערוצים בקטגוריה</string>
+    <string name="select_from_gallery">בחר מהגלריה</string>
+    <string name="show_info_before_vod">הצג מידע לפני השקת הווידאו</string>
     </resources>

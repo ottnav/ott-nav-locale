@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">Premium no habilitado</string>
     <string name="settings_premium_what_included">Obtenga más información sobre las funciones premium …</string>
     <string name="settings_premium_what_included_1">Modo de imagen dentro de imagen mientras mira transmisión en vivo</string>
-    <string name="settings_premium_what_included_2">Opción para volver al último canal jugado</string>
     <string name="settings_premium_what_included_3">Cambio automático de velocidad de fotogramas para que coincida con el video</string>
     <string name="settings_premium_what_included_4">Controlando la velocidad de reproducción para archivos</string>
 
@@ -351,7 +350,6 @@
     <string name="btn_provider_delete">Borrar</string>
     <string name="provider_playlist">Playlist</string>
     <string name="provider_playlist_file">Lista de reproducción del archivo</string>
-    <string name="premium_fea_tv_guide">Ver el programa de TV como una hoja de cálculo.</string>
     <string name="provider_field_name">Nombre</string>
     <string name="provider_field_url">Dirección URL</string>
     <string name="provider_field_login">Iniciar sesión</string>
@@ -636,4 +634,11 @@
     <string name="large_cards">Tarjetas grandes</string>
     <string name="small_cards">Tarjetas pequeñas</string>
     <string name="recommend_disabling_item_description">Sugerimos establecer el tamaño de la lista al 100%, para ocupar toda la pantalla</string>
+    <string name="use_jump_seek">Habilita el método de rebobinado más lento (proporciona más compatibilidad)</string>
+    <string name="random_choice">elección al azar</string>
+    <string name="today">hoy</string>
+    <string name="tiny_cards">Tarjetas más pequeñas</string>
+    <string name="action_with_multiple_channels">Acción con múltiples canales en la categoría</string>
+    <string name="select_from_gallery">Seleccionar de la galería</string>
+    <string name="show_info_before_vod">Mostrar información antes de iniciar el video</string>
     </resources>

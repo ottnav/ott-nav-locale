@@ -147,7 +147,6 @@
     <string name="settings_premium_source_unknown">Premium nu este activat</string>
     <string name="settings_premium_what_included">Aflați mai multe despre funcțiile premium ...</string>
     <string name="settings_premium_what_included_1">Modul Imagine-în-imagine în timp ce urmăriți transmisia live</string>
-    <string name="settings_premium_what_included_2">Opțiune pentru a reveni la ultimul canal redat</string>
     <string name="settings_premium_what_included_3">Comutarea automată a ratei de cadru pentru a se potrivi cu videoclipul</string>
     <string name="settings_premium_what_included_4">Controlul vitezei de redare pentru arhive</string>
     <string name="settings_premium_toggles_try_afr">Comutarea automată a ratei cadrului pentru a se potrivi video</string>
@@ -287,7 +286,6 @@
     <string name="btn_provider_delete">Șterge</string>
     <string name="provider_playlist">Listă de redare</string>
     <string name="provider_playlist_file">Playlist din fișier</string>
-    <string name="premium_fea_tv_guide">Vizualizați programul TV ca o foaie de calcul</string>
     <string name="provider_field_name">Nume</string>
     <string name="provider_field_url">Adresa URL</string>
     <string name="provider_field_login">Logare</string>
@@ -567,4 +565,11 @@
     <string name="large_cards">Cărți mari</string>
     <string name="small_cards">Cărți mici</string>
     <string name="recommend_disabling_item_description">Vă sugerăm să setați dimensiunea listei la 100%, pentru a ocupa întregul ecran</string>
+    <string name="use_jump_seek">Activați metoda de derulare mai lentă (oferă mai multă compatibilitate)</string>
+    <string name="random_choice">alegere aleatorie</string>
+    <string name="today">azi</string>
+    <string name="tiny_cards">Cele mai mici cărți</string>
+    <string name="action_with_multiple_channels">Acțiune cu mai multe canale din categorie</string>
+    <string name="select_from_gallery">Selectați din galerie</string>
+    <string name="show_info_before_vod">Afișați informații înainte de lansarea videoclipului</string>
     </resources>

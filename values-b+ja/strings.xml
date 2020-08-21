@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">プレミアムが有効</string>
     <string name="settings_premium_what_included">プレミアム機能の詳細...</string>
     <string name="settings_premium_what_included_1">ライブストリームを見ながらピクチャーインピクチャーモード</string>
-    <string name="settings_premium_what_included_2">最後に再生したチャンネルに戻るオプション</string>
     <string name="settings_premium_what_included_3">ビデオと一致する自動フレームレート切り替え</string>
     <string name="settings_premium_what_included_4">アーカイブの再生速度の制御</string>
 
@@ -353,7 +352,6 @@
     <string name="btn_provider_delete">削除する</string>
     <string name="provider_playlist">プレイリスト</string>
     <string name="provider_playlist_file">ファイルからのプレイリスト</string>
-    <string name="premium_fea_tv_guide">スプレッドシートとしてテレビ番組を見る</string>
     <string name="provider_field_name">名</string>
     <string name="provider_field_url">URLアドレス</string>
     <string name="provider_field_login">ログイン</string>
@@ -638,4 +636,11 @@
     <string name="large_cards">大きなカード</string>
     <string name="small_cards">小さなカード</string>
     <string name="recommend_disabling_item_description">画面全体を占めるように、リストのサイズを100％に設定することをお勧めします</string>
+    <string name="use_jump_seek">低速の巻き戻し方法を有効にします（互換性が向上します）</string>
+    <string name="random_choice">ランダム選択</string>
+    <string name="today">今日</string>
+    <string name="tiny_cards">最小のカード</string>
+    <string name="action_with_multiple_channels">カテゴリに複数のチャネルがあるアクション</string>
+    <string name="select_from_gallery">ギャラリーから選択</string>
+    <string name="show_info_before_vod">ビデオを起動する前に情報を表示</string>
     </resources>

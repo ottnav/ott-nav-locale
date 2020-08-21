@@ -196,7 +196,6 @@
     <string name="settings_premium_source_unknown">Premium not enabled</string>
     <string name="settings_premium_what_included">Learn more about premium features…</string>
     <string name="settings_premium_what_included_1">Picture-in-picture mode while watching live stream</string>
-    <string name="settings_premium_what_included_2">Option to return to last played channel</string>
     <string name="settings_premium_what_included_3">Automatic frame rate switching to match video</string>
     <string name="settings_premium_what_included_4">Controlling playback speed for archives</string>
 
@@ -345,7 +344,6 @@
     <string name="btn_provider_delete">Delete</string>
     <string name="provider_playlist">Playlist</string>
     <string name="provider_playlist_file">Playlist from file</string>
-    <string name="premium_fea_tv_guide">View TV program as a spreadsheet</string>
     <string name="provider_field_name">Name</string>
     <string name="provider_field_url">URL address</string>
     <string name="provider_field_login">Login</string>
@@ -630,5 +628,12 @@
     <string name="less_animations">Less animations</string>
     <string name="large_cards">Large cards</string>
     <string name="small_cards">Small cards</string>
+    <string name="tiny_cards">Smallest cards</string>
     <string name="recommend_disabling_item_description">We are suggesting to set list size to 100%, in order to occupy the whole screen</string>
+    <string name="use_jump_seek">Enable slower rewind method (provides more compatibility)</string>
+    <string name="random_choice">random choice</string>
+    <string name="today">today</string>
+    <string name="action_with_multiple_channels">Action with multiple channels in the category</string>
+    <string name="select_from_gallery">Select from gallery</string>
+    <string name="show_info_before_vod">Show info before launching video</string>
 </resources>

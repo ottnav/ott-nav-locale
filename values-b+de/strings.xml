@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">Premium nicht aktiviert</string>
     <string name="settings_premium_what_included">Erfahren Sie mehr über Premium-Funktionen …</string>
     <string name="settings_premium_what_included_1">Bild-in-Bild-Modus bei der Liveübertragung</string>
-    <string name="settings_premium_what_included_2">Option, um zum zuletzt abgespielten Kanal zurückzukehren</string>
     <string name="settings_premium_what_included_3">Automatische Anpassung der Bildwiederholrate </string>
     <string name="settings_premium_what_included_4">Wiedergabegeschwindigkeit für Archive steuern</string>
 
@@ -351,7 +350,6 @@
     <string name="btn_provider_delete">Löschen</string>
     <string name="provider_playlist">Wiedergabeliste</string>
     <string name="provider_playlist_file">Wiedergabeliste aus Datei</string>
-    <string name="premium_fea_tv_guide">Fernsehprogramm als Tabelle anzeigen</string>
     <string name="provider_field_name">Name</string>
     <string name="provider_field_url">URL-Adresse</string>
     <string name="provider_field_login">Anmeldung</string>
@@ -636,4 +634,11 @@
     <string name="large_cards">Große Karten</string>
     <string name="small_cards">Kleine Karten</string>
     <string name="recommend_disabling_item_description">Wir empfehlen, die Listengröße auf 100% festzulegen, um den gesamten Bildschirm zu belegen</string>
+    <string name="use_jump_seek">Aktivieren Sie die langsamere Rückspulmethode (bietet mehr Kompatibilität)</string>
+    <string name="random_choice">zufällige Wahl</string>
+    <string name="today">heute</string>
+    <string name="tiny_cards">Kleinste Karten</string>
+    <string name="action_with_multiple_channels">Aktion mit mehreren Kanälen in der Kategorie</string>
+    <string name="select_from_gallery">Wählen Sie aus der Galerie</string>
+    <string name="show_info_before_vod">Zeigen Sie Informationen an, bevor Sie das Video starten</string>
     </resources>

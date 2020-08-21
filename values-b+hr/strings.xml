@@ -147,7 +147,6 @@
     <string name="settings_premium_source_unknown">Premium nije omogućen</string>
     <string name="settings_premium_what_included">Saznajte više o premium značajkama ...</string>
     <string name="settings_premium_what_included_1">Način rada slika u slici dok gledate prijenos uživo</string>
-    <string name="settings_premium_what_included_2">Mogućnost povratka na posljednji reproducirani kanal</string>
     <string name="settings_premium_what_included_3">Automatska promjena brzine kadra prema videozapisu</string>
     <string name="settings_premium_what_included_4">Kontroliranje brzine reprodukcije za arhive</string>
     <string name="settings_premium_toggles_try_afr">Automatska promjena brzine kadra u skladu s videozapisom</string>
@@ -287,7 +286,6 @@
     <string name="btn_provider_delete">Izbrisati</string>
     <string name="provider_playlist">Popis za reprodukciju</string>
     <string name="provider_playlist_file">Popis za reprodukciju iz datoteke</string>
-    <string name="premium_fea_tv_guide">Pogledajte TV program kao proračunsku tablicu</string>
     <string name="provider_field_name">Ime</string>
     <string name="provider_field_url">URL adresa</string>
     <string name="provider_field_login">Prijaviti se</string>
@@ -567,4 +565,11 @@
     <string name="large_cards">Velike kartice</string>
     <string name="small_cards">Male kartice</string>
     <string name="recommend_disabling_item_description">Predlažemo da veličinu popisa postavite na 100%, kako bi zauzeli cijeli zaslon</string>
+    <string name="use_jump_seek">Omogući sporiji način premotavanja unaprijed (pruža više kompatibilnosti)</string>
+    <string name="random_choice">slučajni izbor</string>
+    <string name="today">danas</string>
+    <string name="tiny_cards">Najmanja karta</string>
+    <string name="action_with_multiple_channels">Akcija s više kanala u kategoriji</string>
+    <string name="select_from_gallery">Odaberite iz galerije</string>
+    <string name="show_info_before_vod">Prikaži informacije prije pokretanja videa</string>
     </resources>

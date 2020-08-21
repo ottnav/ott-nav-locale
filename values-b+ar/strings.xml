@@ -203,7 +203,6 @@
     <string name="settings_premium_source_unknown">قسط غير ممكن</string>
     <string name="settings_premium_what_included">تعرف على المزيد حول الميزات المتميزة …</string>
     <string name="settings_premium_what_included_1">وضع صورة في صورة أثناء مشاهدة البث المباشر</string>
-    <string name="settings_premium_what_included_2">خيار للعودة إلى آخر قناة تم تشغيلها</string>
     <string name="settings_premium_what_included_3">تبديل معدل الإطار التلقائي لمطابقة الفيديو</string>
     <string name="settings_premium_what_included_4">السيطرة على سرعة التشغيل للمحفوظات</string>
 
@@ -352,7 +351,6 @@
     <string name="btn_provider_delete">حذف</string>
     <string name="provider_playlist">قائمة التشغيل</string>
     <string name="provider_playlist_file">قائمة التشغيل من الملف</string>
-    <string name="premium_fea_tv_guide">عرض برنامج تلفزيوني كجدول بيانات</string>
     <string name="provider_field_name">اسم</string>
     <string name="provider_field_url">عنوان URL</string>
     <string name="provider_field_login">تسجيل الدخول</string>
@@ -637,4 +635,11 @@
     <string name="large_cards">بطاقات كبيرة</string>
     <string name="small_cards">بطاقات صغيرة</string>
     <string name="recommend_disabling_item_description">نقترح تعيين حجم القائمة على 100٪ ، لتحتل الشاشة بأكملها</string>
+    <string name="use_jump_seek">تمكين طريقة الترجيع البطيئة (توفر المزيد من التوافق)</string>
+    <string name="random_choice">اختيار عشوائي</string>
+    <string name="today">اليوم</string>
+    <string name="tiny_cards">أصغر بطاقات</string>
+    <string name="action_with_multiple_channels">العمل مع قنوات متعددة في الفئة</string>
+    <string name="select_from_gallery">اختر من المعرض</string>
+    <string name="show_info_before_vod">إظهار المعلومات قبل تشغيل الفيديو</string>
     </resources>

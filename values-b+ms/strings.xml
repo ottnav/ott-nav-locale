@@ -202,7 +202,6 @@
     <string name="settings_premium_source_unknown">Premium tidak didayakan</string>
     <string name="settings_premium_what_included">Ketahui lebih lanjut mengenai ciri premium ...</string>
     <string name="settings_premium_what_included_1">Mod gambar dalam gambar sambil menonton aliran langsung</string>
-    <string name="settings_premium_what_included_2">Pilihan untuk kembali ke saluran terakhir yang dimainkan</string>
     <string name="settings_premium_what_included_3">Menukar kadar bingkai automatik untuk memadankan video</string>
     <string name="settings_premium_what_included_4">Mengawal kelajuan main balik untuk arkib</string>
 
@@ -352,7 +351,6 @@
     <string name="btn_provider_delete">Padam</string>
     <string name="provider_playlist">Senarai main</string>
     <string name="provider_playlist_file">Senarai main dari fail</string>
-    <string name="premium_fea_tv_guide">Lihat program TV sebagai hamparan</string>
     <string name="provider_field_name">Nama</string>
     <string name="provider_field_url">Alamat URL</string>
     <string name="provider_field_login">Log masuk</string>
@@ -637,4 +635,11 @@
     <string name="large_cards">Kad besar</string>
     <string name="small_cards">Kad kecil</string>
     <string name="recommend_disabling_item_description">Kami menyarankan untuk menetapkan ukuran senarai hingga 100%, untuk memenuhi seluruh layar</string>
+    <string name="use_jump_seek">Dayakan kaedah rewind yang lebih perlahan (memberikan lebih banyak keserasian)</string>
+    <string name="random_choice">pilihan rawak</string>
+    <string name="today">hari ini</string>
+    <string name="tiny_cards">Kad terkecil</string>
+    <string name="action_with_multiple_channels">Beraksi dengan pelbagai saluran dalam kategori</string>
+    <string name="select_from_gallery">Pilih dari galeri</string>
+    <string name="show_info_before_vod">Tunjukkan maklumat sebelum melancarkan video</string>
     </resources>

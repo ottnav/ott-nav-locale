@@ -197,7 +197,6 @@
     <string name="settings_premium_source_unknown">Premium nav iespējota</string>
     <string name="settings_premium_what_included">Uzziniet vairāk par piemaksu funkcijām ...</string>
     <string name="settings_premium_what_included_1">Attēla attēlā režīms, skatoties tiešraidi</string>
-    <string name="settings_premium_what_included_2">Iespēja atgriezties pēdējā atskaņotā kanālā</string>
     <string name="settings_premium_what_included_3">Automātiska kadru ātruma pārslēgšana, lai atbilstu video</string>
     <string name="settings_premium_what_included_4">Atskaņošanas ātruma kontrole arhīviem</string>
 
@@ -349,7 +348,6 @@
     <string name="btn_provider_delete">Dzēst</string>
     <string name="provider_playlist">Atskaņošanas saraksts</string>
     <string name="provider_playlist_file">Atskaņošanas saraksts no faila</string>
-    <string name="premium_fea_tv_guide">Skatīt TV programmu kā izklājlapu</string>
     <string name="provider_field_name">Nosaukums</string>
     <string name="provider_field_url">URL adrese</string>
     <string name="provider_field_login">Pieslēgties</string>
@@ -636,4 +634,11 @@
     <string name="large_cards">Lielas kartes</string>
     <string name="small_cards">Mazas kartītes</string>
     <string name="recommend_disabling_item_description">Mēs iesakām iestatīt saraksta lielumu uz 100%, lai tas aizņemtu visu ekrānu</string>
+    <string name="use_jump_seek">Iespējot lēnākas attīšanas metodi (nodrošina lielāku savietojamību)</string>
+    <string name="random_choice">izlases veida izvēle</string>
+    <string name="today">šodien</string>
+    <string name="tiny_cards">Mazākās kārtis</string>
+    <string name="action_with_multiple_channels">Darbība ar vairākiem kanāliem kategorijā</string>
+    <string name="select_from_gallery">Izvēlieties no galerijas</string>
+    <string name="show_info_before_vod">Rādīt informāciju pirms videoklipa palaišanas</string>
     </resources>
