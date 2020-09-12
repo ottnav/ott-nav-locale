@@ -641,4 +641,8 @@
     <string name="action_with_multiple_channels">Action avec plusieurs canaux dans la catégorie</string>
     <string name="select_from_gallery">Sélectionnez dans la galerie</string>
     <string name="show_info_before_vod">Afficher les informations avant de lancer la vidéo</string>
+    <string name="premium_note_dev">L\'abonnement à Premium permet d\'améliorer et de soutenir l\'application</string>
+    <string name="always_single_click">Toujours ouvrir les éléments de la liste en un seul clic (air mouse)</string>
+    <string name="disable_expire_data">Ne pas afficher l\'état d\'expiration</string>
+    <string name="restore_purchases">Restaurer les achats (dépanner)</string>
     </resources>

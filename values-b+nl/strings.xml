@@ -573,4 +573,8 @@
     <string name="action_with_multiple_channels">Actie met meerdere kanalen in de categorie</string>
     <string name="select_from_gallery">Selecteer uit galerij</string>
     <string name="show_info_before_vod">Toon info alvorens video te starten</string>
+    <string name="premium_note_dev">Abonneren op premium helpt bij het verbeteren en ondersteunen van de app</string>
+    <string name="always_single_click">Lijstitems altijd openen met een enkele klik (luchtmuis)</string>
+    <string name="disable_expire_data">Laat de vervalstatus niet zien</string>
+    <string name="restore_purchases">Aankopen herstellen (problemen oplossen)</string>
     </resources>

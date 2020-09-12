@@ -635,4 +635,8 @@
     <string name="action_with_multiple_channels">类别中具有多个渠道的操作</string>
     <string name="select_from_gallery">从图库中选择</string>
     <string name="show_info_before_vod">在启动视频之前显示信息</string>
+    <string name="premium_note_dev">订阅高级版有助于改进和支持该应用程序</string>
+    <string name="always_single_click">始终通过单击（空气鼠标）打开列表项</string>
+    <string name="disable_expire_data">不显示到期状态</string>
+    <string name="restore_purchases">恢复购买（问题排查）</string>
     </resources>

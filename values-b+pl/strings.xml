@@ -636,4 +636,8 @@
     <string name="action_with_multiple_channels">Działanie z wieloma kanałami w kategorii</string>
     <string name="select_from_gallery">Wybierz z galerii</string>
     <string name="show_info_before_vod">Pokaż informacje przed uruchomieniem wideo</string>
+    <string name="premium_note_dev">Subskrypcja premium pomaga ulepszać i wspierać aplikację</string>
+    <string name="always_single_click">Zawsze otwieraj pozycje listy jednym kliknięciem (mysz powietrzna)</string>
+    <string name="disable_expire_data">Nie pokazuj statusu wygaśnięcia</string>
+    <string name="restore_purchases">Przywróć zakupy (rozwiązywanie problemów)</string>
     </resources>

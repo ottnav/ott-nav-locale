@@ -635,4 +635,8 @@
     <string name="action_with_multiple_channels">Hành động với nhiều kênh trong danh mục</string>
     <string name="select_from_gallery">Chọn từ thư viện</string>
     <string name="show_info_before_vod">Hiển thị thông tin trước khi khởi chạy video</string>
+    <string name="premium_note_dev">Đăng ký trả phí giúp cải thiện và hỗ trợ ứng dụng</string>
+    <string name="always_single_click">Luôn mở các mục trong danh sách chỉ bằng một cú nhấp chuột (chuột không)</string>
+    <string name="disable_expire_data">Không hiển thị trạng thái hết hạn</string>
+    <string name="restore_purchases">Khôi phục các giao dịch mua (Khắc phục sự cố)</string>
     </resources>

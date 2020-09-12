@@ -647,4 +647,8 @@
     <string name="action_with_multiple_channels">Veiksmas naudojant kelis šios kategorijos kanalus</string>
     <string name="select_from_gallery">Pasirinkite iš galerijos</string>
     <string name="show_info_before_vod">Parodykite informaciją prieš paleisdami vaizdo įrašą</string>
+    <string name="premium_note_dev">Prenumeravę „premium“, galite patobulinti ir palaikyti programą</string>
+    <string name="always_single_click">Visada atidarykite sąrašo elementus vienu paspaudimu (oro pele)</string>
+    <string name="disable_expire_data">Nerodyti galiojimo būsenos</string>
+    <string name="restore_purchases">Atkurkite pirkinius (trikčių šalinimas)</string>
     </resources>

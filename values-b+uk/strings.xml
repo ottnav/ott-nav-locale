@@ -635,4 +635,8 @@
     <string name="action_with_multiple_channels">Дія з кількома каналами в категорії</string>
     <string name="select_from_gallery">Вибрати з галереї</string>
     <string name="show_info_before_vod">Показати інформацію перед запуском відео</string>
+    <string name="premium_note_dev">Підписка на премію допомагає покращити та підтримувати додаток</string>
+    <string name="always_single_click">Завжди відкривати елементи списку одним клацанням миші (повітряна миша)</string>
+    <string name="disable_expire_data">Не показувати статус закінчення терміну дії</string>
+    <string name="restore_purchases">Відновлення покупок (вирішення проблем)</string>
     </resources>

@@ -636,4 +636,8 @@
     <string name="action_with_multiple_channels">Акција са више канала у категорији</string>
     <string name="select_from_gallery">Изаберите из галерије</string>
     <string name="show_info_before_vod">Прикажи информације пре него што покренете видео</string>
+    <string name="premium_note_dev">Претплата на премиум помаже побољшати и подржати апликацију</string>
+    <string name="always_single_click">Ставке на листи увек отворите једним кликом (ваздушни миш)</string>
+    <string name="disable_expire_data">Не приказуј статус истека</string>
+    <string name="restore_purchases">Вратите куповине (решавање проблема)</string>
     </resources>

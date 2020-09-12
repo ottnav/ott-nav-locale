@@ -643,4 +643,8 @@
     <string name="action_with_multiple_channels">Toiming kategooria mitme kanali abil</string>
     <string name="select_from_gallery">Valige galeriist</string>
     <string name="show_info_before_vod">Enne video käivitamist kuvage teave</string>
+    <string name="premium_note_dev">Lisatasu tellimine aitab rakendust täiustada ja toetada</string>
+    <string name="always_single_click">Ava loendiüksused alati ühe klõpsuga (õhuhiir)</string>
+    <string name="disable_expire_data">Ära näita aegumiskuupäeva</string>
+    <string name="restore_purchases">Taasta ostud (tõrkeotsing)</string>
     </resources>

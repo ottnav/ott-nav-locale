@@ -642,4 +642,8 @@
     <string name="action_with_multiple_channels">Beraksi dengan pelbagai saluran dalam kategori</string>
     <string name="select_from_gallery">Pilih dari galeri</string>
     <string name="show_info_before_vod">Tunjukkan maklumat sebelum melancarkan video</string>
+    <string name="premium_note_dev">Melanggan premium membantu meningkatkan dan menyokong aplikasi</string>
+    <string name="always_single_click">Sentiasa buka item senarai melalui satu klik (tetikus udara)</string>
+    <string name="disable_expire_data">Jangan menunjukkan status luput</string>
+    <string name="restore_purchases">Pulihkan pembelian (Selesaikan Masalah)</string>
     </resources>

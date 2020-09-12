@@ -643,4 +643,8 @@
     <string name="action_with_multiple_channels">श्रेणी में कई चैनलों के साथ कार्रवाई</string>
     <string name="select_from_gallery">गैलरी से चयन करें</string>
     <string name="show_info_before_vod">वीडियो लॉन्च करने से पहले जानकारी दिखाएं</string>
+    <string name="premium_note_dev">प्रीमियम की सदस्यता लेने से ऐप को बेहतर बनाने और समर्थन करने में मदद मिलती है</string>
+    <string name="always_single_click">सिंगल क्लिक (एयर माउस) के माध्यम से हमेशा सूची आइटम खोलें</string>
+    <string name="disable_expire_data">समाप्ति की स्थिति न दिखाएं</string>
+    <string name="restore_purchases">पुनर्स्थापना खरीद (समस्या निवारण)</string>
     </resources>

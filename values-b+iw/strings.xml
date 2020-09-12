@@ -641,4 +641,8 @@
     <string name="action_with_multiple_channels">פעולה עם מספר ערוצים בקטגוריה</string>
     <string name="select_from_gallery">בחר מהגלריה</string>
     <string name="show_info_before_vod">הצג מידע לפני השקת הווידאו</string>
+    <string name="premium_note_dev">הרשמה לפרמיה מסייעת בשיפור והתמיכה באפליקציה</string>
+    <string name="always_single_click">פתח תמיד פריטי רשימה באמצעות לחיצה אחת (עכבר אוויר)</string>
+    <string name="disable_expire_data">אל תציג סטטוס תפוגה</string>
+    <string name="restore_purchases">שחזר רכישות (פתרון בעיות)</string>
     </resources>

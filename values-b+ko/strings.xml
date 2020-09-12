@@ -643,4 +643,8 @@
     <string name="action_with_multiple_channels">카테고리에 여러 채널이있는 액션</string>
     <string name="select_from_gallery">갤러리에서 선택</string>
     <string name="show_info_before_vod">비디오를 시작하기 전에 정보 표시</string>
+    <string name="premium_note_dev">프리미엄에 가입하면 앱 개선 및 지원에 도움이됩니다.</string>
+    <string name="always_single_click">항상 한 번의 클릭으로 목록 항목 열기 (에어 마우스)</string>
+    <string name="disable_expire_data">만료 상태 표시 안함</string>
+    <string name="restore_purchases">구매 복원 (문제 해결)</string>
     </resources>

@@ -573,4 +573,8 @@
     <string name="action_with_multiple_channels">Δράση με πολλά κανάλια στην κατηγορία</string>
     <string name="select_from_gallery">Επιλέξτε από τη συλλογή</string>
     <string name="show_info_before_vod">Εμφάνιση πληροφοριών πριν από την έναρξη του βίντεο</string>
+    <string name="premium_note_dev">Η εγγραφή στο premium συμβάλλει στη βελτίωση και την υποστήριξη της εφαρμογής</string>
+    <string name="always_single_click">Να ανοίγετε πάντα στοιχεία λίστας με ένα μόνο κλικ (ποντίκι αέρα)</string>
+    <string name="disable_expire_data">Να μην εμφανίζεται η κατάσταση λήξης</string>
+    <string name="restore_purchases">Επαναφορά αγορών (Αντιμετώπιση προβλημάτων)</string>
     </resources>

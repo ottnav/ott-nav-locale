@@ -572,4 +572,8 @@
     <string name="action_with_multiple_channels">Acțiune cu mai multe canale din categorie</string>
     <string name="select_from_gallery">Selectați din galerie</string>
     <string name="show_info_before_vod">Afișați informații înainte de lansarea videoclipului</string>
+    <string name="premium_note_dev">Abonarea la premium ajută la îmbunătățirea și sprijinirea aplicației</string>
+    <string name="always_single_click">Deschideți întotdeauna elementele de listă printr-un singur clic (mouse-ul aerian)</string>
+    <string name="disable_expire_data">Nu afișați starea de expirare</string>
+    <string name="restore_purchases">Restabiliți achizițiile (depanare)</string>
     </resources>

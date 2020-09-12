@@ -643,4 +643,8 @@
     <string name="action_with_multiple_channels">カテゴリに複数のチャネルがあるアクション</string>
     <string name="select_from_gallery">ギャラリーから選択</string>
     <string name="show_info_before_vod">ビデオを起動する前に情報を表示</string>
+    <string name="premium_note_dev">プレミアムに登録すると、アプリの改善とサポートに役立ちます</string>
+    <string name="always_single_click">常にシングルクリック（エアマウス）でリストアイテムを開く</string>
+    <string name="disable_expire_data">有効期限ステータスを表示しない</string>
+    <string name="restore_purchases">購入を復元する（トラブルシューティング）</string>
     </resources>

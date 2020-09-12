@@ -642,4 +642,8 @@
     <string name="action_with_multiple_channels">العمل مع قنوات متعددة في الفئة</string>
     <string name="select_from_gallery">اختر من المعرض</string>
     <string name="show_info_before_vod">إظهار المعلومات قبل تشغيل الفيديو</string>
+    <string name="premium_note_dev">يساعد الاشتراك في الإصدار المميز في تحسين التطبيق ودعمه</string>
+    <string name="always_single_click">افتح دائمًا عناصر القائمة بنقرة واحدة (الماوس الهوائي)</string>
+    <string name="disable_expire_data">لا تظهر حالة انتهاء الصلاحية</string>
+    <string name="restore_purchases">استعادة المشتريات (استكشاف الأخطاء وإصلاحها)</string>
     </resources>

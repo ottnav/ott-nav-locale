@@ -641,4 +641,8 @@
     <string name="action_with_multiple_channels">ਸ਼੍ਰੇਣੀ ਦੇ ਕਈ ਚੈਨਲਾਂ ਨਾਲ ਕਾਰਵਾਈ</string>
     <string name="select_from_gallery">ਗੈਲਰੀ ਤੋਂ ਚੁਣੋ</string>
     <string name="show_info_before_vod">ਵੀਡੀਓ ਲਾਂਚ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਜਾਣਕਾਰੀ ਦਿਖਾਓ</string>
+    <string name="premium_note_dev">ਪ੍ਰੀਮੀਅਮ ਦਾ ਗਾਹਕ ਬਣਨਾ ਐਪ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਅਤੇ ਸਮਰਥਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ</string>
+    <string name="always_single_click">ਇਕੱਲੇ ਕਲਿਕ (ਏਅਰ ਮਾ mouseਸ) ਰਾਹੀਂ ਲਿਸਟ ਆਈਟਮਾਂ ਨੂੰ ਹਮੇਸ਼ਾਂ ਖੋਲ੍ਹੋ</string>
+    <string name="disable_expire_data">ਮਿਆਦ ਖਤਮ ਹੋਣ ਦੀ ਸਥਿਤੀ ਨਾ ਦਿਖਾਓ</string>
+    <string name="restore_purchases">ਦੁਬਾਰਾ ਖਰੀਦਦਾਰੀ (ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ)</string>
     </resources>
