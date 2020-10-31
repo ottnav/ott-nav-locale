@@ -541,7 +541,6 @@
     <string name="cfg_pla_act_ui_volume">音量の変更（タッチ）</string>
     <string name="swipe_vertical">垂直スワイプ</string>
     <string name="swipe_horizontal">水平スワイプ</string>
-    <string name="cfg_max_epg_load_back">履歴にEPGをロードする最大日数</string>
     <string name="expiration">有効期限</string>
     <string name="trial_account">試用アカウント</string>
     <string name="premium_google_account">すべての購入は、同じアカウントを共有するすべてのデバイスに適用されます。</string>
@@ -647,4 +646,12 @@
     <string name="always_single_click">常にシングルクリック（エアマウス）でリストアイテムを開く</string>
     <string name="disable_expire_data">有効期限ステータスを表示しない</string>
     <string name="restore_purchases">購入を復元する（トラブルシューティング）</string>
+    <string name="future_show_sheet_autoswitch_wl">ライブになると自動的にチャンネルに切り替わります</string>
+    <string name="reuse_cache_for_quick_start">前回の起動からアプリをすばやく起動するためにキャッシュを再利用します（一部のプロバイダーでは正しく機能しない可能性があります）</string>
+    <string name="use_spacing_between_elem">要素間の間隔を使用する</string>
+    <string name="wait_for_network_live">ネットワーク接続がライブになるのを待ちます</string>
+    <string name="cfg_prev_n_desc">チャンネルの説明に表示する以前のテレビ番組の数</string>
+    <string name="no_not_show_poster">ポスター画像を表示しない</string>
+    <string name="duration_to_keep_access">アクセスのロックを解除したままにする期間</string>
+    <string name="disable_vod_genres">メディアライブラリでジャンルを無効にする</string>
     </resources>

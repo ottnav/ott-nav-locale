@@ -137,7 +137,7 @@
     <string name="settings_media_library">Libreria multimediale</string>
     <string name="settings_media_library_dnla">Scansiona le fonti UPnP / DNLA nella rete locale</string>
 
-    <string name="settings_player">Giocatore</string>
+    <string name="settings_player">Player</string>
     <string name="settings_player_hide_ui">Nascondi sovrapposizione dell\'interfaccia utente in riproduzione in</string>
     <string name="settings_player_resize_mode">Modalità scala video</string>
     <string name="settings_player_resize_mode_fit">Adatta allo schermo</string>
@@ -147,7 +147,7 @@
     <string name="settings_player_auto_stop_live">Spegni automaticamente la trasmissione</string>
 
     <string name="settings_extended">Impostazioni estese</string>
-    <string name="settings_extended_hide_adult">Nascondi categorie di adulti</string>
+    <string name="settings_extended_hide_adult">Nascondi categorie per adulti</string>
     <string name="settings_extended_auto_start_last_channel">Avvia automaticamente l\'ultimo canale riprodotto</string>
     <string name="settings_schedule_epg_reload">Ricarica telegestione EPG …</string>
 
@@ -193,7 +193,7 @@
 
     <string name="settings_epg">Teleguide EPG</string>
 
-    <string name="settings_external_player">Giocatore esterno (prova tutto per impostazione predefinita)</string>
+    <string name="settings_external_player">Player esterno (prova tutto per impostazione predefinita)</string>
 
 
     <string name="settings_premium">premio</string>
@@ -539,7 +539,6 @@
     <string name="cfg_pla_act_ui_volume">Cambia volume audio (tocco)</string>
     <string name="swipe_vertical">colpo verticale</string>
     <string name="swipe_horizontal">colpo orizzontale</string>
-    <string name="cfg_max_epg_load_back">Numero massimo di giorni per caricare l\'EPG nella cronologia</string>
     <string name="expiration">Scadenza</string>
     <string name="trial_account">Conto di prova</string>
     <string name="premium_google_account">Tutti gli acquisti si applicano a tutti i dispositivi che condividono lo stesso account.</string>
@@ -637,7 +636,7 @@
     <string name="use_jump_seek">Abilita metodo di riavvolgimento più lento (offre maggiore compatibilità)</string>
     <string name="random_choice">scelta casuale</string>
     <string name="today">oggi</string>
-    <string name="tiny_cards">Le carte più piccole</string>
+    <string name="tiny_cards">Cards più piccole</string>
     <string name="action_with_multiple_channels">Azione con più canali nella categoria</string>
     <string name="select_from_gallery">Seleziona dalla galleria</string>
     <string name="show_info_before_vod">Mostra le informazioni prima di avviare il video</string>
@@ -645,4 +644,12 @@
     <string name="always_single_click">Apri sempre gli elementi dell\'elenco con un clic (mouse aereo)</string>
     <string name="disable_expire_data">Non mostrare lo stato di scadenza</string>
     <string name="restore_purchases">Ripristina gli acquisti (risoluzione dei problemi)</string>
+    <string name="future_show_sheet_autoswitch_wl">Passa automaticamente al canale quando sarà in diretta</string>
+    <string name="reuse_cache_for_quick_start">Riutilizza la cache per l\'avvio rapido dell\'app dall\'avvio precedente (può funzionare in modo errato per alcuni provider)</string>
+    <string name="use_spacing_between_elem">Usa la spaziatura tra gli elementi</string>
+    <string name="wait_for_network_live">Attendi che la connessione di rete diventi attiva</string>
+    <string name="cfg_prev_n_desc">Quanti programmi televisivi precedenti visualizzare nella descrizione del canale</string>
+    <string name="no_not_show_poster">Non mostrare l\'immagine del poster</string>
+    <string name="duration_to_keep_access">Durata per mantenere l\'accesso sbloccato</string>
+    <string name="disable_vod_genres">Disabilita i generi nella libreria multimediale</string>
     </resources>

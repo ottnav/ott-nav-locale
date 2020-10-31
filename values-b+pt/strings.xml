@@ -1,8 +1,8 @@
 <resources>
-    <string name="press_back_once_more_to_exit">Pressione mais uma vez para sair</string>
+    <string name="press_back_once_more_to_exit">Pressione novamente para sair</string>
 
     <string name="search_bar">Pesquise por canais ou programas</string>
-    <string name="search_bar_clue">tente nomes de filmes, séries de TV, nomes de programas de TV ou nomes de atores</string>
+    <string name="search_bar_clue">Busque por nomes de filmes, séries de TV, nomes de programas de TV ou nomes de atores</string>
 
 
     <string name="menu_search">Pesquisa de vídeos</string>
@@ -11,10 +11,10 @@
     <string name="menu_settings">Configurações</string>
     <string name="menu_error_require_provider_button">Configurar provedor</string>
     <string name="menu_error_require_live_but_no_playlist_title">Não foi possível carregar a lista de reprodução com os canais</string>
-    <string name="menu_error_require_live_but_no_playlist_text">O provedor ou lista de reprodução configurado não pode ser alcançado. Por favor, verifique novamente as configurações do provedor, se elas parecerem corretas, entre em contato com o seu provedor de IPTV.</string>
+    <string name="menu_error_require_live_but_no_playlist_text">O provedor ou a lista de reprodução configurada não pode ser alcançado. Por favor, verifique novamente as configurações do provedor, se elas parecerem corretas, entre em contato com o seu provedor de IPTV.</string>
 
 
-    <string name="browse_description_series_number">episódio</string>
+    <string name="browse_description_series_number">Episódios</string>
     <string name="browse_description_header_live">Canais ao vivo</string>
     <string name="browse_description_header_program">Grade horária do canal</string>
 
@@ -28,20 +28,20 @@
     <string name="category_by_age">Filtrar por classificação etária</string>
     <string name="category_by_country">Filtrar por país de origem</string>
     <string name="category_by_unsorted">Todos</string>
-    <string name="category_by_favorite">Favorito</string>
-    <string name="category_desc_movies">filtro automático de todos os canais</string>
-    <string name="category_desc_tv_series">filtro automático de todos os canais</string>
-    <string name="category_desc_exact_tv_series">séries de TV</string>
-    <string name="category_desc_tv_shows">filtro automático de todos os canais</string>
+    <string name="category_by_favorite">Favoritos</string>
+    <string name="category_desc_movies">Filtro automático de odas as séries</string>
+    <string name="category_desc_tv_series">Filtro automático de todas as séries</string>
+    <string name="category_desc_exact_tv_series">Séries de TV</string>
+    <string name="category_desc_tv_shows">Filtro automático de todos os programas de TV</string>
     <string name="category_desc_exact_tv_shows">Programas de TV</string>
-    <string name="category_desc_tv_channel">canal de TV</string>
-    <string name="category_desc_from_fav">apenas conteúdo dos canais favoritos</string>
+    <string name="category_desc_tv_channel">Canal de TV</string>
+    <string name="category_desc_from_fav">Apenas conteúdo dos canais favoritos</string>
 
 
     <string name="in_1_minute">em 1 minuto</string>
     <string name="in_n_minutes">em 10 minutos</string>
-    <string name="player_episode_details_season">temporada</string>
-    <string name="player_episode_details_series">episódio</string>
+    <string name="player_episode_details_season">Temporada</string>
+    <string name="player_episode_details_series">Episódio</string>
     <string name="player_warn_turn_off">O desligamento ocorrerá</string>
     <string name="player_press_to_cancel">Pressione OK para cancelar</string>
     <string name="player_touch_to_cancel">Toque na tela para cancelar</string>
@@ -539,7 +539,6 @@
     <string name="cfg_pla_act_ui_volume">Alterar o volume (toque)</string>
     <string name="swipe_vertical">deslizar na vertical</string>
     <string name="swipe_horizontal">deslizar na horizontal</string>
-    <string name="cfg_max_epg_load_back">Número máximo de dias para carregar a guia de programação (EPG) no histórico</string>
     <string name="expiration">Expiração</string>
     <string name="trial_account">Conta de teste</string>
     <string name="premium_google_account">todas as compras se aplicam a todos os dispositivos que compartilham a mesma conta.</string>
@@ -645,4 +644,12 @@
     <string name="always_single_click">Sempre abra os itens da lista com um único clique (mouse aéreo)</string>
     <string name="disable_expire_data">Não mostrar status de expiração</string>
     <string name="restore_purchases">Restaurar compras (solucionar problemas)</string>
+    <string name="future_show_sheet_autoswitch_wl">Mudar automaticamente para o canal quando estiver ao vivo</string>
+    <string name="reuse_cache_for_quick_start">Reutilize o cache para o início rápido do aplicativo a partir do lançamento anterior (pode funcionar incorretamente para alguns provedores)</string>
+    <string name="use_spacing_between_elem">Use espaçamento entre os elementos</string>
+    <string name="wait_for_network_live">Espere a conexão de rede ficar ativa</string>
+    <string name="cfg_prev_n_desc">Quantos programas de TV anteriores exibir na descrição do canal</string>
+    <string name="no_not_show_poster">Não mostrar imagem de pôster</string>
+    <string name="duration_to_keep_access">Duração para manter o acesso desbloqueado</string>
+    <string name="disable_vod_genres">Desativar gêneros na biblioteca de mídia</string>
     </resources>

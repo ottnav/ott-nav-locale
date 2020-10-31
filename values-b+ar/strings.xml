@@ -540,7 +540,6 @@
     <string name="cfg_pla_act_ui_volume">تغيير مستوى الصوت (اللمس)</string>
     <string name="swipe_vertical">انتقاد عمودي</string>
     <string name="swipe_horizontal">انتقد الأفقي</string>
-    <string name="cfg_max_epg_load_back">أقصى عدد من الأيام لتحميل EPG في التاريخ</string>
     <string name="expiration">انتهاء الصلاحية</string>
     <string name="trial_account">حساب تجريبي</string>
     <string name="premium_google_account">تنطبق جميع المشتريات على جميع الأجهزة التي تشترك في نفس الحساب.</string>
@@ -646,4 +645,12 @@
     <string name="always_single_click">افتح دائمًا عناصر القائمة بنقرة واحدة (الماوس الهوائي)</string>
     <string name="disable_expire_data">لا تظهر حالة انتهاء الصلاحية</string>
     <string name="restore_purchases">استعادة المشتريات (استكشاف الأخطاء وإصلاحها)</string>
+    <string name="future_show_sheet_autoswitch_wl">قم بالتبديل تلقائيًا إلى القناة عندما تكون مباشرة</string>
+    <string name="reuse_cache_for_quick_start">أعد استخدام ذاكرة التخزين المؤقت لبدء التطبيق السريع من التشغيل السابق (يمكن أن يعمل بشكل غير صحيح مع بعض مقدمي الخدمة)</string>
+    <string name="use_spacing_between_elem">استخدم التباعد بين العناصر</string>
+    <string name="wait_for_network_live">انتظر حتى يتم تفعيل اتصال الشبكة</string>
+    <string name="cfg_prev_n_desc">كم عدد البرامج التلفزيونية السابقة المراد عرضها في وصف القناة</string>
+    <string name="no_not_show_poster">لا تظهر صورة الملصق</string>
+    <string name="duration_to_keep_access">مدة استمرار الوصول غير مقفل</string>
+    <string name="disable_vod_genres">تعطيل الأنواع في مكتبة الوسائط</string>
     </resources>

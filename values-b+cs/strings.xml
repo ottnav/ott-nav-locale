@@ -470,7 +470,6 @@
     <string name="cfg_pla_act_ui_volume">Změna hlasitosti zvuku (dotyk)</string>
     <string name="swipe_vertical">svislé přejetí</string>
     <string name="swipe_horizontal">vodorovné přejetí</string>
-    <string name="cfg_max_epg_load_back">Maximální počet dní pro načtení EPG do historie</string>
     <string name="expiration">Vypršení</string>
     <string name="trial_account">Zkušební účet</string>
     <string name="premium_google_account">Všechny nákupy platí pro všechna zařízení sdílející stejný účet.</string>
@@ -576,4 +575,12 @@
     <string name="always_single_click">Vždy otevírat položky seznamu jediným kliknutím (vzdušná myš)</string>
     <string name="disable_expire_data">Nezobrazovat stav vypršení platnosti</string>
     <string name="restore_purchases">Obnovit nákupy (řešení problémů)</string>
+    <string name="future_show_sheet_autoswitch_wl">Až bude kanál živý, automaticky se přepne</string>
+    <string name="reuse_cache_for_quick_start">Opakované použití mezipaměti pro rychlé spuštění aplikace od předchozího spuštění (u některých poskytovatelů může fungovat nesprávně)</string>
+    <string name="use_spacing_between_elem">Použijte mezery mezi prvky</string>
+    <string name="wait_for_network_live">Počkejte, až bude síťové připojení aktivní</string>
+    <string name="cfg_prev_n_desc">Kolik předchozích televizních pořadů se má zobrazit v popisu kanálu</string>
+    <string name="no_not_show_poster">Nezobrazovat obrázek plakátu</string>
+    <string name="duration_to_keep_access">Doba odemčení přístupu</string>
+    <string name="disable_vod_genres">Zakázat žánry v knihovně médií</string>
     </resources>

@@ -539,7 +539,6 @@
     <string name="cfg_pla_act_ui_volume">Audioਡੀਓ ਵਾਲੀਅਮ ਬਦਲੋ (ਛੋਹਵੋ)</string>
     <string name="swipe_vertical">ਲੰਬਕਾਰੀ ਸਵਾਈਪ</string>
     <string name="swipe_horizontal">ਖਿਤਿਜੀ ਸਵਾਈਪ</string>
-    <string name="cfg_max_epg_load_back">ਇਤਿਹਾਸ ਵਿੱਚ ਈ ਪੀ ਜੀ ਨੂੰ ਲੋਡ ਕਰਨ ਲਈ ਵੱਧ ਤੋਂ ਵੱਧ ਦਿਨ</string>
     <string name="expiration">ਮਿਆਦ</string>
     <string name="trial_account">ਅਜ਼ਮਾਇਸ਼ ਅਕਾ .ਂਟ</string>
     <string name="premium_google_account">ਸਾਰੀਆਂ ਖਰੀਦਦਾਰੀ ਇੱਕੋ ਜਿਹੇ ਖਾਤੇ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਵਾਲੀਆਂ ਸਾਰੀਆਂ ਡਿਵਾਈਸਾਂ ਤੇ ਲਾਗੂ ਹੁੰਦੀਆਂ ਹਨ.</string>
@@ -645,4 +644,12 @@
     <string name="always_single_click">ਇਕੱਲੇ ਕਲਿਕ (ਏਅਰ ਮਾ mouseਸ) ਰਾਹੀਂ ਲਿਸਟ ਆਈਟਮਾਂ ਨੂੰ ਹਮੇਸ਼ਾਂ ਖੋਲ੍ਹੋ</string>
     <string name="disable_expire_data">ਮਿਆਦ ਖਤਮ ਹੋਣ ਦੀ ਸਥਿਤੀ ਨਾ ਦਿਖਾਓ</string>
     <string name="restore_purchases">ਦੁਬਾਰਾ ਖਰੀਦਦਾਰੀ (ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ)</string>
+    <string name="future_show_sheet_autoswitch_wl">ਜਦੋਂ ਇਹ ਲਾਈਵ ਹੋਵੇਗਾ ਤਾਂ ਆਟੋਮੈਟਿਕਲੀ ਚੈਨਲ ਤੇ ਸਵਿਚ ਕਰੋ</string>
+    <string name="reuse_cache_for_quick_start">ਪਿਛਲੇ ਐਪਲੀਕੇਸ਼ ਤੋਂ ਤੁਰੰਤ ਐਪ ਅਰੰਭ ਕਰਨ ਲਈ ਕੈਚੇ ਦਾ ਦੁਬਾਰਾ ਉਪਯੋਗ ਕਰੋ (ਕੁਝ ਪ੍ਰਦਾਤਾਵਾਂ ਲਈ ਗਲਤ ਤਰੀਕੇ ਨਾਲ ਕੰਮ ਕਰ ਸਕਦਾ ਹੈ)</string>
+    <string name="use_spacing_between_elem">ਤੱਤ ਦੇ ਵਿਚਕਾਰ ਦੂਰੀ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="wait_for_network_live">ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਦੇ ਲਾਈਵ ਬਣਨ ਦੀ ਉਡੀਕ ਕਰੋ</string>
+    <string name="cfg_prev_n_desc">ਚੈਨਲ ਦੇ ਵੇਰਵੇ ਵਿੱਚ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਕਿੰਨੇ ਪਿਛਲੇ ਟੀਵੀ-ਸ਼ੋਅ</string>
+    <string name="no_not_show_poster">ਪੋਸਟਰ ਚਿੱਤਰ ਨਾ ਦਿਖਾਓ</string>
+    <string name="duration_to_keep_access">ਪਹੁੰਚ ਨੂੰ ਅਣ-ਲਾੱਕ ਰੱਖਣ ਦੀ ਮਿਆਦ</string>
+    <string name="disable_vod_genres">ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ ਵਿਚ ਸ਼ੈਲੀਆਂ ਨੂੰ ਅਯੋਗ ਕਰੋ</string>
     </resources>

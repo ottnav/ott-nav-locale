@@ -470,7 +470,6 @@
     <string name="cfg_pla_act_ui_volume">Promjena glasnoće zvuka (dodirni)</string>
     <string name="swipe_vertical">okomiti pomak</string>
     <string name="swipe_horizontal">vodoravni prelaz prstom</string>
-    <string name="cfg_max_epg_load_back">Maksimalni broj dana za učitavanje EPG-a u povijesti</string>
     <string name="expiration">izdisanje</string>
     <string name="trial_account">Probni račun</string>
     <string name="premium_google_account">Sve kupnje odnose se na sve uređaje koji imaju isti račun.</string>
@@ -576,4 +575,128 @@
     <string name="always_single_click">Stavke popisa uvijek otvorite jednim klikom (zračni miš)</string>
     <string name="disable_expire_data">Ne prikazuj status isteka</string>
     <string name="restore_purchases">Vraćanje kupnji (rješavanje problema)</string>
+    <string name="future_show_sheet_autoswitch_wl">Automatski se prebacite na kanal kada će biti uživo</string>
+    <string name="reuse_cache_for_quick_start">Ponovna upotreba predmemorije za brzo pokretanje aplikacije od prethodnog pokretanja (kod nekih davatelja usluga može raditi pogrešno)</string>
+    <string name="use_spacing_between_elem">Koristite razmak između elemenata</string>
+    <string name="wait_for_network_live">Pričekajte da mrežna veza postane aktivna</string>
+    <string name="cfg_prev_n_desc">Koliko prethodnih TV emisija za prikaz u opisu kanala</string>
+    <string name="no_not_show_poster">Ne prikazuj sliku postera</string>
+    <string name="duration_to_keep_access">Trajanje da bi pristup bio otključan</string>
+    <string name="disable_vod_genres">html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Google prevoditelj&lt;/title&gt;&lt;meta name="google" content="notranslate"&gt;&lt;link rel="icon" href="//ssl.gstatic.com/translate/favicon.ico" sizes="64x64"&gt;&lt;style nonce="qOzZzVSuV30f0EWwXQ54Zw"&gt;
+    body {
+      margin: 0;
+    }
+    a:link,
+    a:visited,
+    a:active {
+      color: #1a73e8; /* blue 600 */
+      text-decoration: none;
+    }
+    .root-container {
+      font-family: \'Arial\', sans-serif;
+    }
+    .root-container.isRtl {
+      direction: rtl;
+    }
+    .header {
+      background-color: #fff;
+      border-bottom: 1px solid #dadce0; /* grey 300 */
+      box-sizing: border-box;
+      color: #5f6368; /* grey 700 */
+      font-size: 18px;
+      line-height: 21px;
+      padding: 14px 16px;
+    }
+    .logo-image {
+      background-image: url(\'https://ssl.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_68x28px.svg\');
+      background-repeat: no-repeat;
+      height: 48px;
+      width: 68px;
+      position: absolute;
+    }
+    .logo-text {
+      margin-left: 72px;
+      margin-right: 76px;
+      margin-top: 2px;
+    }
+  
+    body {
+      background-color: #f1f3f4; /* grey 100 */
+    }
+    .languages-container {
+      background-color: #fff;
+      border-bottom: 1px solid #dadce0; /* grey 300 */
+      box-sizing: border-box;
+      color: #3c4043; /* grey 800 */
+      font-size: 14px;
+      height: 48px;
+      padding: 14px 16px;
+    }
+    .sl-and-tl {
+      display: inline-block;
+    }
+    .swap-container {
+      float: right;
+    }
+    .root-container.isRtl .swap-container {
+      float: left;
+    }
+    .input-container {
+      background-color: #fff;
+      box-shadow:
+        0px -1px 5px rgba(128, 134, 139, 0.09),
+        0px 3px 5px rgba(128, 134, 139, 0.06),
+        0px 1px 2px rgba(60, 64, 67, 0.3),
+        0px 1px 3px rgba(60, 64, 67, 0.15);
+    }
+    .input-field {
+      border: 0;
+      color: #3c4043; /* grey 800 */
+      font-size: 18px;
+      line-height: 24px;
+      padding: 18px 16px;
+      width: 100%;
+    }
+    .translate-button-container {
+      padding: 16px;
+      text-align: right;
+    }
+    .root-container.isRtl .translate-button-container {
+      text-align: left;
+    }
+    .translate-button {
+      background: #1a73e8; /* blue 600 */
+      border-radius: 4px;
+      color: #fff;
+      font-size: 14px;
+      line-height: 20px;
+      padding: 8px 16px;
+    }
+    .result-container {
+      background: #1a73e8; /* blue 600 */
+      box-shadow:
+        0px -1px 5px rgba(128, 134, 139, 0.09),
+        0px 3px 5px rgba(128, 134, 139, 0.06),
+        0px 1px 2px rgba(60, 64, 67, 0.3),
+        0px 1px 3px rgba(60, 64, 67, 0.15);
+      color: #fff;
+      font-size: 18px;
+      line-height: 24px;
+      margin-bottom: 50px;
+      padding: 16px 16px 40px 16px;
+    }
+    .links-container a {
+      color: #1967d2; /* blue 700 */
+    }
+    .links-container ul {
+      font-size: 12px;
+      line-height: 16px;
+      list-style-type: none;
+      margin: 16px;
+      padding: 0;
+    }
+    .links-container ul li {
+      margin-bottom: 16px;
+    }
+  &lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="root-container"&gt;&lt;div class="header"&gt;&lt;div class="logo-image"&gt;&lt;/div&gt;&lt;div class="logo-text"&gt;Prevedi&lt;/div&gt;&lt;/div&gt;&lt;div class="languages-container"&gt;&lt;div class="sl-and-tl"&gt;&lt;a href="./m?sl=en&amp;tl=hr&amp;q=Disable%20genres%20in%20media%20library&amp;mui=sl&amp;hl=hr"&gt;engleski&lt;/a&gt; → &lt;a href="./m?sl=en&amp;tl=hr&amp;q=Disable%20genres%20in%20media%20library&amp;mui=tl&amp;hl=hr"&gt;hrvatski&lt;/a&gt;&lt;/div&gt;&lt;div class="swap-container"&gt;&lt;a href="./m?sl=hr&amp;tl=en&amp;q=Onemogu%C4%87i%20%C5%BEanrove%20u%20biblioteci%20medija&amp;hl=hr"&gt;Zamijeni&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="input-container"&gt;&lt;form action="/m"&gt;&lt;input type="hidden" name="sl" value="en"&gt;&lt;input type="hidden" name="tl" value="hr"&gt;&lt;input type="hidden" name="hl" value="hr"&gt;&lt;input type="text" aria-label="Izvorni tekst" name="q" class="input-field" maxlength="2048" value="Disable genres in media library"&gt;&lt;div class="translate-button-container"&gt;&lt;input type="submit" value="Prevedi" class="translate-button"&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class="result-container"&gt;Onemogući žanrove u biblioteci medija&lt;/div&gt;&lt;div class="links-container"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.google.com/m?hl=hr"&gt;Google početna&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.google.com/tools/feedback/survey/xhtml?productId=95112&amp;hl=hr"&gt;Pošalji povratne informacije&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.google.com/intl/hr/policies"&gt;Privatnost i uvjeti&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="./full"&gt;Prebaci se na cijelu web-lokaciju&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html</string>
     </resources>

@@ -539,7 +539,6 @@
     <string name="cfg_pla_act_ui_volume">Mainīt audio skaļumu (pieskarties)</string>
     <string name="swipe_vertical">vertikāli pārvelciet</string>
     <string name="swipe_horizontal">horizontāli pārvelciet</string>
-    <string name="cfg_max_epg_load_back">Maksimālais dienu skaits EPG ielādēšanai vēsturē</string>
     <string name="expiration">Derīguma termiņš</string>
     <string name="trial_account">Izmēģinājuma konts</string>
     <string name="premium_google_account">Visi pirkumi attiecas uz visām ierīcēm, kurām ir tas pats konts.</string>
@@ -645,4 +644,12 @@
     <string name="always_single_click">Vienmēr atvērt saraksta vienumus ar vienu klikšķi (gaisa pele)</string>
     <string name="disable_expire_data">Nerādīt derīguma termiņu</string>
     <string name="restore_purchases">Atjaunot pirkumus (problēmu novēršana)</string>
+    <string name="future_show_sheet_autoswitch_wl">Automātiski pārslēdzieties uz kanālu, kad tas tiks rādīts tiešsaistē</string>
+    <string name="reuse_cache_for_quick_start">Atkārtoti izmantojiet kešatmiņu, lai ātri sāktu lietotni no iepriekšējās palaišanas (dažiem pakalpojumu sniedzējiem tā var darboties nepareizi)</string>
+    <string name="use_spacing_between_elem">Izmantojiet atstarpi starp elementiem</string>
+    <string name="wait_for_network_live">Pagaidiet, līdz tīkla savienojums kļūst aktīvs</string>
+    <string name="cfg_prev_n_desc">Cik iepriekšējo TV pārraižu jāparāda kanāla aprakstā</string>
+    <string name="no_not_show_poster">Nerādīt plakāta attēlu</string>
+    <string name="duration_to_keep_access">Ilgums, lai piekļuve netiktu bloķēta</string>
+    <string name="disable_vod_genres">Atspējot žanrus multivides bibliotēkā</string>
     </resources>

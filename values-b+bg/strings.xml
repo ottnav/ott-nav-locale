@@ -470,7 +470,6 @@
     <string name="cfg_pla_act_ui_volume">Промяна на звука на звука (докосване)</string>
     <string name="swipe_vertical">вертикално прекарване на пръст</string>
     <string name="swipe_horizontal">хоризонтално прекарване на пръст</string>
-    <string name="cfg_max_epg_load_back">Максимален брой дни за зареждане на EPG в историята</string>
     <string name="expiration">Изтичане</string>
     <string name="trial_account">Пробен акаунт</string>
     <string name="premium_google_account">Всички покупки се отнасят за всички устройства, споделящи един и същ акаунт.</string>
@@ -576,4 +575,12 @@
     <string name="always_single_click">Винаги отваряйте елементите от списъка с едно щракване (въздушна мишка)</string>
     <string name="disable_expire_data">Не показвайте статуса на изтичане</string>
     <string name="restore_purchases">Възстановяване на покупки (Отстраняване на неизправности)</string>
+    <string name="future_show_sheet_autoswitch_wl">Автоматично превключване към канала, когато той ще бъде на живо</string>
+    <string name="reuse_cache_for_quick_start">Повторно използване на кеша за бързо стартиране на приложението от предишното стартиране (може да работи неправилно за някои доставчици)</string>
+    <string name="use_spacing_between_elem">Използвайте разстоянието между елементите</string>
+    <string name="wait_for_network_live">Изчакайте мрежовата връзка да се активира</string>
+    <string name="cfg_prev_n_desc">Колко предишни телевизионни предавания да се показват в описанието на канала</string>
+    <string name="no_not_show_poster">Не показвайте изображение на плакат</string>
+    <string name="duration_to_keep_access">Продължителност, за да се запази достъпът отключен</string>
+    <string name="disable_vod_genres">Деактивирайте жанровете в медийната библиотека</string>
     </resources>

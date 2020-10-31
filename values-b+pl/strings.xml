@@ -534,7 +534,6 @@
     <string name="cfg_pla_act_ui_volume">Zmień głośność dźwięku (dotknij)</string>
     <string name="swipe_vertical">przesuwanie w pionie</string>
     <string name="swipe_horizontal">przesunięcie w poziomie</string>
-    <string name="cfg_max_epg_load_back">Maksymalna liczba dni ładowania EPG w historii</string>
     <string name="expiration">Wygaśnięcie</string>
     <string name="trial_account">Konto próbne</string>
     <string name="premium_google_account">Wszystkie zakupy dotyczą wszystkich urządzeń korzystających z tego samego konta.</string>
@@ -640,4 +639,12 @@
     <string name="always_single_click">Zawsze otwieraj pozycje listy jednym kliknięciem (mysz powietrzna)</string>
     <string name="disable_expire_data">Nie pokazuj statusu wygaśnięcia</string>
     <string name="restore_purchases">Przywróć zakupy (rozwiązywanie problemów)</string>
+    <string name="future_show_sheet_autoswitch_wl">Automatycznie przełącz się na kanał, gdy będzie on nadawany na żywo</string>
+    <string name="reuse_cache_for_quick_start">Ponownie użyj pamięci podręcznej do szybkiego uruchamiania aplikacji od poprzedniego uruchomienia (może działać nieprawidłowo w przypadku niektórych dostawców)</string>
+    <string name="use_spacing_between_elem">Użyj odstępów między elementami</string>
+    <string name="wait_for_network_live">Poczekaj, aż połączenie sieciowe stanie się aktywne</string>
+    <string name="cfg_prev_n_desc">Ile poprzednich programów telewizyjnych ma być wyświetlonych w opisie kanału</string>
+    <string name="no_not_show_poster">Nie pokazuj obrazu plakatu</string>
+    <string name="duration_to_keep_access">Czas, przez jaki dostęp pozostaje odblokowany</string>
+    <string name="disable_vod_genres">Wyłącz gatunki w bibliotece multimediów</string>
     </resources>

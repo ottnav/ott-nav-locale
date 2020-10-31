@@ -1,10 +1,10 @@
 <resources>
     <string name="press_back_once_more_to_exit">Druk nogmaals om af te sluiten</string>
     <string name="search_bar">Zoeken in kanalen of programma\'s</string>
-    <string name="search_bar_clue">Probeer film-, tv-series, tv-shownamen of acteursnamen</string>
+    <string name="search_bar_clue">Probeer namen van films, tv-series, tv-shows of acteurs</string>
     <string name="menu_search">Video zoeken</string>
     <string name="menu_live">Livestream</string>
-    <string name="menu_archive">Toont archief</string>
+    <string name="menu_archive">Toon archief</string>
     <string name="menu_settings">Instellingen</string>
     <string name="menu_error_require_provider_button">Configureer provider</string>
     <string name="menu_error_require_live_but_no_playlist_title">Afspeellijst met kanalen kan niet worden geladen</string>
@@ -265,7 +265,7 @@
     <string name="category_all_channels">Alle kanalen</string>
     <string name="cfg_no_categories">Gebruik lijst met gewone kanalen (zonder categorieën)</string>
     <string name="cfg_section_desc">Product beschrijving</string>
-    <string name="cfg_section_lists">Lijsten instellingen</string>
+    <string name="cfg_section_lists">Instellingen voor lijsten</string>
     <string name="cfg_no_hints">Toon geen hints</string>
     <string name="child_mode_unlock_cfg">Voer de kinderslotcode in om de instellingen te ontgrendelen</string>
     <string name="cfg_child_mode">Kinderslotmodus</string>
@@ -278,7 +278,7 @@
     <string name="cfg_stream_tech">Stream-technologie (indien beschikbaar)</string>
     <string name="cfg_show_ch_numbers">Toon kanaalnummers</string>
     <string name="always">altijd</string>
-    <string name="menu_tv_guide">tv-gids</string>
+    <string name="menu_tv_guide">TV-gids</string>
     <string name="cfg_stream_q">Toon streamkwaliteit</string>
     <string name="ext_player_copy_clipboard">Kopieer de link alleen naar het klembord</string>
     <string name="premium_fea_mult_prov">Hiermee kunnen meerdere providers tegelijkertijd worden gebruikt</string>
@@ -329,7 +329,7 @@
     <string name="menu_suggest_premium">Klaar om aantrekkelijke premium-functies te verkennen?</string>
     <string name="cfg_epg_update_frequency">Update frequentie (in uren)</string>
     <string name="cfg_vod_merge">PiP schermen uit verschillende bronnen in één lijst samenvoegen (opnieuw laden vereist)</string>
-    <string name="ch_manage_rename">andere naam geven</string>
+    <string name="ch_manage_rename">Andere naam geven</string>
     <string name="pla_timeshift_from_current">Begin vanaf het huidige moment</string>
     <string name="cfg_play_action_timeshift_start">open gearchiveerde tv-show vanaf het begin</string>
     <string name="cfg_play_action_timeshift_now">open gearchiveerde tv-show vanaf het huidige moment</string>
@@ -382,7 +382,7 @@
     <string name="studio_mode_minimize">Verkleinen</string>
     <string name="studio_mode_maximize">Maximaliseren</string>
     <string name="cfg_codec_system">systeem videoweergave</string>
-    <string name="provider_connections_reached">Uw provider staat niet zoveel verbindingen toe.</string>
+    <string name="provider_connections_reached">Uw provider staat niet zoveel verbindingen toe</string>
     <string name="max_connections">Maximaal toegestane verbindingen</string>
     <string name="pro_sub_expiring">Uw abonnement verloopt. Vernieuwen</string>
     <string name="mark_all_viewed">Markeer alles als bekeken</string>
@@ -471,7 +471,6 @@
     <string name="cfg_pla_act_ui_volume">Geluidsvolume wijzigen (aanraken)</string>
     <string name="swipe_vertical">verticale swipe</string>
     <string name="swipe_horizontal">horizontale swipe</string>
-    <string name="cfg_max_epg_load_back">Maximaal aantal dagen om EPG geschiedenis te laden</string>
     <string name="expiration">Vervaltijd</string>
     <string name="trial_account">Proefaccount</string>
     <string name="premium_google_account">Alle aankopen zijn van toepassing op alle apparaten die hetzelfde account delen.</string>
@@ -577,4 +576,12 @@
     <string name="always_single_click">Lijstitems altijd openen met een enkele klik (luchtmuis)</string>
     <string name="disable_expire_data">Laat de vervalstatus niet zien</string>
     <string name="restore_purchases">Aankopen herstellen (problemen oplossen)</string>
+    <string name="future_show_sheet_autoswitch_wl">Schakel automatisch over naar het kanaal wanneer het live is</string>
+    <string name="reuse_cache_for_quick_start">Hergebruik de cache voor een snelle start van de app vanaf de vorige lancering (werkt mogelijk niet correct voor sommige providers)</string>
+    <string name="use_spacing_between_elem">Gebruik afstand tussen elementen</string>
+<string name="wait_for_network_live">Wacht tot de netwerkverbinding actief is</string>
+    <string name="cfg_prev_n_desc">Hoeveel eerdere tv-shows moeten worden weergegeven in de kanaalbeschrijving</string>
+    <string name="no_not_show_poster">Toon geen posterafbeelding</string>
+    <string name="duration_to_keep_access">Duur om toegang ontgrendeld te houden</string>
+    <string name="disable_vod_genres">Schakel genres in mediabibliotheek uit</string>
     </resources>

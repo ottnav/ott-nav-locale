@@ -541,7 +541,6 @@
     <string name="cfg_pla_act_ui_volume">오디오 볼륨 변경 (터치)</string>
     <string name="swipe_vertical">수직 스 와이프</string>
     <string name="swipe_horizontal">가로 스 와이프</string>
-    <string name="cfg_max_epg_load_back">기록에 EPG를로드하는 최대 일수</string>
     <string name="expiration">만료</string>
     <string name="trial_account">평가판 계정</string>
     <string name="premium_google_account">모든 구매는 동일한 계정을 공유하는 모든 장치에 적용됩니다.</string>
@@ -647,4 +646,12 @@
     <string name="always_single_click">항상 한 번의 클릭으로 목록 항목 열기 (에어 마우스)</string>
     <string name="disable_expire_data">만료 상태 표시 안함</string>
     <string name="restore_purchases">구매 복원 (문제 해결)</string>
+    <string name="future_show_sheet_autoswitch_wl">라이브가 시작되면 자동으로 채널로 전환</string>
+    <string name="reuse_cache_for_quick_start">이전 실행에서 빠른 앱 시작을 위해 캐시 재사용 (일부 제공 업체에서는 제대로 작동하지 않을 수 있음)</string>
+    <string name="use_spacing_between_elem">요소 사이에 간격 사용</string>
+    <string name="wait_for_network_live">네트워크 연결이 활성화 될 때까지 기다립니다.</string>
+    <string name="cfg_prev_n_desc">채널 설명에 표시 할 이전 TV 프로그램 수</string>
+    <string name="no_not_show_poster">포스터 이미지 표시 안함</string>
+    <string name="duration_to_keep_access">액세스를 잠금 해제 상태로 유지하는 기간</string>
+    <string name="disable_vod_genres">미디어 라이브러리에서 장르 비활성화</string>
     </resources>

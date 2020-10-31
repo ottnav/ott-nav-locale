@@ -533,7 +533,6 @@
     <string name="cfg_pla_act_ui_volume">更改音量（触摸）</string>
     <string name="swipe_vertical">垂直滑动</string>
     <string name="swipe_horizontal">水平滑动</string>
-    <string name="cfg_max_epg_load_back">历史记录中加载EPG的最大天数</string>
     <string name="expiration">期满</string>
     <string name="trial_account">试用帐号</string>
     <string name="premium_google_account">所有购买均适用于共享同一帐户的所有设备。</string>
@@ -639,4 +638,12 @@
     <string name="always_single_click">始终通过单击（空气鼠标）打开列表项</string>
     <string name="disable_expire_data">不显示到期状态</string>
     <string name="restore_purchases">恢复购买（问题排查）</string>
+    <string name="future_show_sheet_autoswitch_wl">直播时自动切换到频道</string>
+    <string name="reuse_cache_for_quick_start">重用缓存以从上一次启动快速启动应用程序（对于某些提供商可能无法正常工作）</string>
+    <string name="use_spacing_between_elem">在元素之间使用间距</string>
+    <string name="wait_for_network_live">等待网络连接建立</string>
+    <string name="cfg_prev_n_desc">频道说明中要显示多少个以前的电视节目</string>
+    <string name="no_not_show_poster">不显示海报图像</string>
+    <string name="duration_to_keep_access">保持解锁状态的持续时间</string>
+    <string name="disable_vod_genres">禁用媒体库中的流派</string>
     </resources>

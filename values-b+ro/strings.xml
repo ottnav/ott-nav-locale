@@ -470,7 +470,6 @@
     <string name="cfg_pla_act_ui_volume">Modificați volumul audio (atingeți)</string>
     <string name="swipe_vertical">alunecare verticală</string>
     <string name="swipe_horizontal">glisare orizontală</string>
-    <string name="cfg_max_epg_load_back">Numărul maxim de zile pentru încărcarea EPG în istoric</string>
     <string name="expiration">Expirare</string>
     <string name="trial_account">Cont de încercare</string>
     <string name="premium_google_account">Toate achizițiile se aplică tuturor dispozitivelor care distribuie același cont.</string>
@@ -576,4 +575,12 @@
     <string name="always_single_click">Deschideți întotdeauna elementele de listă printr-un singur clic (mouse-ul aerian)</string>
     <string name="disable_expire_data">Nu afișați starea de expirare</string>
     <string name="restore_purchases">Restabiliți achizițiile (depanare)</string>
+    <string name="future_show_sheet_autoswitch_wl">Comutați automat la canal când va fi live</string>
+    <string name="reuse_cache_for_quick_start">Reutilizați memoria cache pentru pornirea rapidă a aplicației de la lansarea anterioară (poate funcționa incorect pentru unii furnizori)</string>
+    <string name="use_spacing_between_elem">Folosiți spațiere între elemente</string>
+    <string name="wait_for_network_live">Așteptați ca conexiunea la rețea să devină live</string>
+    <string name="cfg_prev_n_desc">Câte emisiuni TV anterioare trebuie afișate în descrierea canalului</string>
+    <string name="no_not_show_poster">Nu afișați imaginea posterului</string>
+    <string name="duration_to_keep_access">Durata de păstrare a accesului deblocat</string>
+    <string name="disable_vod_genres">Dezactivați genurile din biblioteca media</string>
     </resources>

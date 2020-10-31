@@ -533,7 +533,6 @@
     <string name="cfg_pla_act_ui_volume">Thay đổi âm lượng âm thanh (cảm ứng)</string>
     <string name="swipe_vertical">vuốt dọc</string>
     <string name="swipe_horizontal">vuốt ngang</string>
-    <string name="cfg_max_epg_load_back">Số ngày tối đa để tải EPG trong lịch sử</string>
     <string name="expiration">Hết hạn</string>
     <string name="trial_account">Tài khoản dùng thử</string>
     <string name="premium_google_account">Tất cả các giao dịch mua áp dụng cho tất cả các thiết bị chia sẻ cùng một tài khoản.</string>
@@ -639,4 +638,12 @@
     <string name="always_single_click">Luôn mở các mục trong danh sách chỉ bằng một cú nhấp chuột (chuột không)</string>
     <string name="disable_expire_data">Không hiển thị trạng thái hết hạn</string>
     <string name="restore_purchases">Khôi phục các giao dịch mua (Khắc phục sự cố)</string>
+    <string name="future_show_sheet_autoswitch_wl">Tự động chuyển sang kênh khi nó phát trực tiếp</string>
+    <string name="reuse_cache_for_quick_start">Sử dụng lại bộ nhớ cache để khởi động nhanh ứng dụng từ lần khởi chạy trước (có thể hoạt động không chính xác đối với một số nhà cung cấp)</string>
+    <string name="use_spacing_between_elem">Sử dụng khoảng cách giữa các phần tử</string>
+    <string name="wait_for_network_live">Chờ kết nối mạng hoạt động</string>
+    <string name="cfg_prev_n_desc">Có bao nhiêu chương trình truyền hình trước đó sẽ hiển thị trong phần mô tả kênh</string>
+    <string name="no_not_show_poster">Không hiển thị hình ảnh áp phích</string>
+    <string name="duration_to_keep_access">Khoảng thời gian duy trì quyền truy cập được mở khóa</string>
+    <string name="disable_vod_genres">Tắt các thể loại trong thư viện phương tiện</string>
     </resources>

@@ -541,7 +541,6 @@
     <string name="cfg_pla_act_ui_volume">تغییر میزان صدا (لمس)</string>
     <string name="swipe_vertical">کش رفتن عمودی</string>
     <string name="swipe_horizontal">کش رفتن افقی</string>
-    <string name="cfg_max_epg_load_back">حداکثر تعداد روز برای بارگیری EPG در تاریخ</string>
     <string name="expiration">انقضاء</string>
     <string name="trial_account">حساب آزمایشی</string>
     <string name="premium_google_account">همه خریدها مربوط به همه دستگاههای مشترک با یک حساب مشترک است.</string>
@@ -647,4 +646,12 @@
     <string name="always_single_click">همیشه موارد لیست را فقط با یک کلیک باز کنید (ماوس هوا)</string>
     <string name="disable_expire_data">وضعیت انقضا نشان داده نشود</string>
     <string name="restore_purchases">بازگرداندن خریدها (عیب یابی)</string>
+    <string name="future_show_sheet_autoswitch_wl">در صورت فعال بودن کانال به طور خودکار به کانال خود بروید</string>
+    <string name="reuse_cache_for_quick_start">استفاده مجدد از حافظه پنهان برای شروع برنامه سریع از راه اندازی قبلی (می تواند برای برخی از ارائه دهندگان به اشتباه کار کند)</string>
+    <string name="use_spacing_between_elem">از فاصله بین عناصر استفاده کنید</string>
+    <string name="wait_for_network_live">منتظر بمانید تا اتصال شبکه فعال شود</string>
+    <string name="cfg_prev_n_desc">چند نمایش تلویزیونی قبلی برای توصیف کانال نشان داده می شود</string>
+    <string name="no_not_show_poster">تصویر پوستر نشان داده نشود</string>
+    <string name="duration_to_keep_access">مدت زمان برای قفل کردن دسترسی</string>
+    <string name="disable_vod_genres">ژانرها را در کتابخانه رسانه غیرفعال کنید</string>
     </resources>

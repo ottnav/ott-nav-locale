@@ -539,7 +539,6 @@
     <string name="cfg_pla_act_ui_volume">Cambiar volumen de audio (táctil)</string>
     <string name="swipe_vertical">deslizamiento vertical</string>
     <string name="swipe_horizontal">deslizamiento horizontal</string>
-    <string name="cfg_max_epg_load_back">Número máximo de días para cargar EPG en el historial</string>
     <string name="expiration">Vencimiento</string>
     <string name="trial_account">Cuenta de prueba</string>
     <string name="premium_google_account">Todas las compras se aplican a todos los dispositivos que comparten la misma cuenta.</string>
@@ -645,4 +644,12 @@
     <string name="always_single_click">Siempre abra los elementos de la lista con un solo clic (mouse aéreo)</string>
     <string name="disable_expire_data">No mostrar el estado de vencimiento</string>
     <string name="restore_purchases">Restaurar compras (solucionar problemas)</string>
+    <string name="future_show_sheet_autoswitch_wl">Cambie automáticamente al canal cuando estará en vivo</string>
+    <string name="reuse_cache_for_quick_start">Reutilice la caché para el inicio rápido de la aplicación desde el lanzamiento anterior (puede funcionar incorrectamente para algunos proveedores)</string>
+    <string name="use_spacing_between_elem">Usar espaciado entre elementos</string>
+    <string name="wait_for_network_live">Espere a que la conexión de red se active</string>
+    <string name="cfg_prev_n_desc">Cuántos programas de televisión anteriores mostrar en la descripción del canal</string>
+    <string name="no_not_show_poster">No mostrar imagen de póster</string>
+    <string name="duration_to_keep_access">Duración para mantener el acceso desbloqueado</string>
+    <string name="disable_vod_genres">Deshabilitar géneros en la biblioteca multimedia</string>
     </resources>

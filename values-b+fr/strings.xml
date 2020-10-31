@@ -539,7 +539,6 @@
     <string name="cfg_pla_act_ui_volume">Changer le volume audio (tactile)</string>
     <string name="swipe_vertical">Balayage vertical</string>
     <string name="swipe_horizontal">Balayage horizontal</string>
-    <string name="cfg_max_epg_load_back">Nombre maximal de jours pour charger EPG dans l\'historique</string>
     <string name="expiration">Expiration</string>
     <string name="trial_account">Compte d\'essai</string>
     <string name="premium_google_account">Tous les achats s\'appliquent à tous les appareils partageant le même compte.</string>
@@ -645,4 +644,12 @@
     <string name="always_single_click">Toujours ouvrir les éléments de la liste en un seul clic (air mouse)</string>
     <string name="disable_expire_data">Ne pas afficher l\'état d\'expiration</string>
     <string name="restore_purchases">Restaurer les achats (dépanner)</string>
+    <string name="future_show_sheet_autoswitch_wl">Passer automatiquement à la chaîne lorsqu\'elle sera en direct</string>
+    <string name="reuse_cache_for_quick_start">Réutiliser le cache pour un démarrage rapide de l\'application à partir du lancement précédent (peut ne pas fonctionner correctement pour certains fournisseurs)</string>
+    <string name="use_spacing_between_elem">Utiliser l\'espacement entre les éléments</string>
+    <string name="wait_for_network_live">Attendez que la connexion réseau devienne active</string>
+    <string name="cfg_prev_n_desc">Combien de séries télévisées précédentes afficher dans la description de la chaîne</string>
+    <string name="no_not_show_poster">Ne pas afficher l\'image de l\'affiche</string>
+    <string name="duration_to_keep_access">Durée pour garder l\'accès déverrouillé</string>
+    <string name="disable_vod_genres">Désactiver les genres dans la bibliothèque multimédia</string>
     </resources>

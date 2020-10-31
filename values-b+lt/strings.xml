@@ -545,7 +545,6 @@
     <string name="cfg_pla_act_ui_volume">Keisti garso stiprumą (paliesti)</string>
     <string name="swipe_vertical">vertikalus perbraukimas</string>
     <string name="swipe_horizontal">horizontalus perbraukimas</string>
-    <string name="cfg_max_epg_load_back">Maksimalus dienų skaičius įkeliant EPG istorijoje</string>
     <string name="expiration">Pasibaigimas</string>
     <string name="trial_account">Bandomoji sąskaita</string>
     <string name="premium_google_account">Visi pirkimai taikomi visiems įrenginiams, turintiems tą pačią sąskaitą.</string>
@@ -651,4 +650,12 @@
     <string name="always_single_click">Visada atidarykite sąrašo elementus vienu paspaudimu (oro pele)</string>
     <string name="disable_expire_data">Nerodyti galiojimo būsenos</string>
     <string name="restore_purchases">Atkurkite pirkinius (trikčių šalinimas)</string>
+    <string name="future_show_sheet_autoswitch_wl">Automatiškai perjunkite kanalą, kai jis bus tiesiogiai rodomas</string>
+    <string name="reuse_cache_for_quick_start">Pakartotinai naudokite talpyklą, kad greitai paleistumėte programą nuo ankstesnio paleidimo (kai kuriems teikėjams ji gali veikti netinkamai)</string>
+    <string name="use_spacing_between_elem">Naudokite tarpus tarp elementų</string>
+    <string name="wait_for_network_live">Palaukite, kol tinklo ryšys taps aktyvus</string>
+    <string name="cfg_prev_n_desc">Kiek ankstesnių televizijos laidų rodyti kanalo apraše</string>
+    <string name="no_not_show_poster">Nerodyti plakato atvaizdo</string>
+    <string name="duration_to_keep_access">Trukmė, kad prieiga būtų atrakinta</string>
+    <string name="disable_vod_genres">Išjungti žanrus medijos bibliotekoje</string>
     </resources>

@@ -541,7 +541,6 @@
     <string name="cfg_pla_act_ui_volume">Helitugevuse muutmine (puudutus)</string>
     <string name="swipe_vertical">vertikaalne pühkimine</string>
     <string name="swipe_horizontal">horisontaalne pühkimine</string>
-    <string name="cfg_max_epg_load_back">EPG ajaloo laadimise maksimaalne päevade arv</string>
     <string name="expiration">Aegumine</string>
     <string name="trial_account">Proovikonto</string>
     <string name="premium_google_account">Kõik ostud kehtivad kõigile sama kontoga seadmetele.</string>
@@ -647,4 +646,12 @@
     <string name="always_single_click">Ava loendiüksused alati ühe klõpsuga (õhuhiir)</string>
     <string name="disable_expire_data">Ära näita aegumiskuupäeva</string>
     <string name="restore_purchases">Taasta ostud (tõrkeotsing)</string>
+    <string name="future_show_sheet_autoswitch_wl">Lülituge automaatselt kanalile, kui see otseülekannet näeb</string>
+    <string name="reuse_cache_for_quick_start">Vahemälu taaskasutamine rakenduse kiireks käivitamiseks eelmisest käivitusest (võib mõne pakkuja puhul valesti töötada)</string>
+    <string name="use_spacing_between_elem">Kasutage elementide vahelist tühikut</string>
+    <string name="wait_for_network_live">Oodake, kuni võrguühendus muutub aktiivseks</string>
+    <string name="cfg_prev_n_desc">Mitu varasemat telesaadet kuvatakse kanali kirjelduses</string>
+    <string name="no_not_show_poster">Ärge näidake plakati pilti</string>
+    <string name="duration_to_keep_access">Kestus juurdepääsu lukustamata hoidmiseks</string>
+    <string name="disable_vod_genres">Keela žanrid meediumiteegis</string>
     </resources>

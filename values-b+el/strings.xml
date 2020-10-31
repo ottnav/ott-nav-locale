@@ -471,7 +471,6 @@
     <string name="cfg_pla_act_ui_volume">Αλλαγή έντασης ήχου (αγγίξτε)</string>
     <string name="swipe_vertical">κατακόρυφο κτύπημα</string>
     <string name="swipe_horizontal">οριζόντια ολίσθηση</string>
-    <string name="cfg_max_epg_load_back">Μέγιστος αριθμός ημερών για την φόρτωση του EPG στο ιστορικό</string>
     <string name="expiration">Λήξη</string>
     <string name="trial_account">Δοκιμαστικός λογαριασμός</string>
     <string name="premium_google_account">Όλες οι αγορές ισχύουν για όλες τις συσκευές που μοιράζονται τον ίδιο λογαριασμό.</string>
@@ -577,4 +576,12 @@
     <string name="always_single_click">Να ανοίγετε πάντα στοιχεία λίστας με ένα μόνο κλικ (ποντίκι αέρα)</string>
     <string name="disable_expire_data">Να μην εμφανίζεται η κατάσταση λήξης</string>
     <string name="restore_purchases">Επαναφορά αγορών (Αντιμετώπιση προβλημάτων)</string>
+    <string name="future_show_sheet_autoswitch_wl">Μεταβείτε αυτόματα στο κανάλι όταν θα είναι ζωντανό</string>
+    <string name="reuse_cache_for_quick_start">Επαναχρησιμοποιήστε την προσωρινή μνήμη για γρήγορη εκκίνηση της εφαρμογής από την προηγούμενη κυκλοφορία (μπορεί να λειτουργήσει λανθασμένα για ορισμένους παρόχους)</string>
+    <string name="use_spacing_between_elem">Χρησιμοποιήστε απόσταση μεταξύ των στοιχείων</string>
+    <string name="wait_for_network_live">Περιμένετε να γίνει ζωντανή η σύνδεση δικτύου</string>
+    <string name="cfg_prev_n_desc">Πόσες προηγούμενες τηλεοπτικές εκπομπές θα εμφανίζονται στην περιγραφή του καναλιού</string>
+    <string name="no_not_show_poster">Να μην εμφανίζεται εικόνα αφίσας</string>
+    <string name="duration_to_keep_access">Διάρκεια για να διατηρείται ξεκλείδωτη η πρόσβαση</string>
+    <string name="disable_vod_genres">Απενεργοποιήστε τα είδη στη βιβλιοθήκη πολυμέσων</string>
     </resources>

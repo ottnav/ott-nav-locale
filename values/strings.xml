@@ -534,7 +534,6 @@
     <string name="cfg_pla_act_ui_volume">Change audio volume (touch)</string>
     <string name="swipe_vertical">vertical swipe</string>
     <string name="swipe_horizontal">horizontal swipe</string>
-    <string name="cfg_max_epg_load_back">Maximal number of days to load EPG in history</string>
     <string name="expiration">Expiration</string>
     <string name="trial_account">Trial Account</string>
     <string name="premium_google_account">All purchases applies to all devices sharing the same account.</string>
@@ -640,4 +639,12 @@
     <string name="always_single_click">Always open list items via single click (air mouse)</string>
     <string name="disable_expire_data">Do not show expiration status</string>
     <string name="restore_purchases">Restore purchases (Troubleshoot)</string>
+    <string name="future_show_sheet_autoswitch_wl">Automatically switch to the channel when it will be live</string>
+    <string name="reuse_cache_for_quick_start">Reuse cache for quick app start from the previous launch (can work incorrectly for some providers)</string>
+    <string name="use_spacing_between_elem">Use spacing between elements</string>
+    <string name="wait_for_network_live">Wait for the network connection to become live</string>
+    <string name="cfg_prev_n_desc">How many previous tv-shows to display in channel description</string>
+    <string name="no_not_show_poster">Do not show poster image</string>
+    <string name="duration_to_keep_access">Duration to keep access unlocked</string>
+    <string name="disable_vod_genres">Disable genres in media library</string>
 </resources>

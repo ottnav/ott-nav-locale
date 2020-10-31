@@ -471,7 +471,6 @@
     <string name="cfg_pla_act_ui_volume">Ändra ljudvolym (touch)</string>
     <string name="swipe_vertical">vertikal svepa</string>
     <string name="swipe_horizontal">horisontellt svepa</string>
-    <string name="cfg_max_epg_load_back">Maximalt antal dagar för att ladda EPG i historiken</string>
     <string name="expiration">Utgång</string>
     <string name="trial_account">Testkonto</string>
     <string name="premium_google_account">Alla inköp gäller alla enheter som delar samma konto.</string>
@@ -577,4 +576,12 @@
     <string name="always_single_click">Öppna alltid listobjekt med ett enda klick (luftmus)</string>
     <string name="disable_expire_data">Visa inte utgångsstatus</string>
     <string name="restore_purchases">Återställ inköp (Felsök)</string>
+    <string name="future_show_sheet_autoswitch_wl">Byt automatiskt till kanalen när den är live</string>
+    <string name="reuse_cache_for_quick_start">Återanvänd cache för snabb appstart från föregående lansering (kan fungera fel för vissa leverantörer)</string>
+    <string name="use_spacing_between_elem">Använd avståndet mellan elementen</string>
+    <string name="wait_for_network_live">Vänta tills nätverksanslutningen blir live</string>
+    <string name="cfg_prev_n_desc">Hur många tidigare tv-program som ska visas i kanalbeskrivningen</string>
+    <string name="no_not_show_poster">Visa inte affischbild</string>
+    <string name="duration_to_keep_access">Längd för att hålla åtkomsten olåst</string>
+    <string name="disable_vod_genres">Inaktivera genrer i mediebiblioteket</string>
     </resources>

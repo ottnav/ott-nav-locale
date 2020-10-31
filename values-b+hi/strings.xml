@@ -541,7 +541,6 @@
     <string name="cfg_pla_act_ui_volume">ऑडियो वॉल्यूम बदलें (स्पर्श करें)</string>
     <string name="swipe_vertical">ऊर्ध्वाधर कड़ी चोट</string>
     <string name="swipe_horizontal">क्षैतिज स्वाइप</string>
-    <string name="cfg_max_epg_load_back">इतिहास में ईपीजी लोड करने के लिए दिनों की अधिकतम संख्या</string>
     <string name="expiration">समय सीमा समाप्ति</string>
     <string name="trial_account">ट्रायल अकाउंट</string>
     <string name="premium_google_account">सभी खरीद एक ही खाते को साझा करने वाले सभी उपकरणों पर लागू होती है।</string>
@@ -647,4 +646,12 @@
     <string name="always_single_click">सिंगल क्लिक (एयर माउस) के माध्यम से हमेशा सूची आइटम खोलें</string>
     <string name="disable_expire_data">समाप्ति की स्थिति न दिखाएं</string>
     <string name="restore_purchases">पुनर्स्थापना खरीद (समस्या निवारण)</string>
+    <string name="future_show_sheet_autoswitch_wl">स्वचालित रूप से चैनल पर स्विच करें जब वह लाइव होगा</string>
+    <string name="reuse_cache_for_quick_start">त्वरित लॉन्च के लिए कैश का पुन: उपयोग पिछले लॉन्च से शुरू करें (कुछ प्रदाताओं के लिए गलत तरीके से काम कर सकता है)</string>
+    <string name="use_spacing_between_elem">तत्वों के बीच रिक्ति का उपयोग करें</string>
+    <string name="wait_for_network_live">नेटवर्क कनेक्शन के लाइव होने की प्रतीक्षा करें</string>
+    <string name="cfg_prev_n_desc">चैनल विवरण में प्रदर्शित करने के लिए कितने पिछले टीवी-शो हैं</string>
+    <string name="no_not_show_poster">पोस्टर छवि न दिखाएं</string>
+    <string name="duration_to_keep_access">एक्सेस को अनलॉक रखने की अवधि</string>
+    <string name="disable_vod_genres">मीडिया लाइब्रेरी में शैलियों को अक्षम करें</string>
     </resources>

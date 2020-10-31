@@ -539,7 +539,6 @@
     <string name="cfg_pla_act_ui_volume">Ses seviyesini değiştir (dokunma)</string>
     <string name="swipe_vertical">dikey kaydırma</string>
     <string name="swipe_horizontal">yatay kaydırma</string>
-    <string name="cfg_max_epg_load_back">EPG’yi geçmişte yüklemek için maksimum gün sayısı</string>
     <string name="expiration">Son</string>
     <string name="trial_account">Deneme hesabı</string>
     <string name="premium_google_account">Tüm alışverişler aynı hesabı paylaşan tüm cihazlar için geçerlidir.</string>
@@ -645,4 +644,12 @@
     <string name="always_single_click">Liste öğelerini her zaman tek tıklama ile aç</string>
     <string name="disable_expire_data">Son kullanma durumunu gösterme</string>
     <string name="restore_purchases">Satın alımları geri yükleyin (Sorun Giderme)</string>
+    <string name="future_show_sheet_autoswitch_wl">Canlı yayına gireceği zaman otomatik olarak kanala geç</string>
+    <string name="reuse_cache_for_quick_start">Önceki lansmandan hızlı uygulama başlatmak için önbelleği yeniden kullanın (bazı sağlayıcılar için yanlış çalışabilir)</string>
+    <string name="use_spacing_between_elem">Öğeler arasında boşluk kullanın</string>
+    <string name="wait_for_network_live">Ağ bağlantısının canlı hale gelmesini bekleyin</string>
+    <string name="cfg_prev_n_desc">Kanal açıklamasında görüntülenecek önceki kaç TV şovu</string>
+    <string name="no_not_show_poster">Poster resmini gösterme</string>
+    <string name="duration_to_keep_access">Erişim kilidinin açık kalması için süre</string>
+    <string name="disable_vod_genres">Medya kitaplığındaki türleri devre dışı bırakın</string>
     </resources>

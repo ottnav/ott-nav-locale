@@ -533,7 +533,6 @@
     <string name="cfg_pla_act_ui_volume">Зміна гучності звуку (дотик)</string>
     <string name="swipe_vertical">вертикальний пальцем</string>
     <string name="swipe_horizontal">горизонтальний потяг пальцем</string>
-    <string name="cfg_max_epg_load_back">Максимальна кількість днів для завантаження EPG в історію</string>
     <string name="expiration">Термін дії</string>
     <string name="trial_account">Пробний рахунок</string>
     <string name="premium_google_account">Усі покупки стосуються всіх пристроїв, які мають один і той же обліковий запис.</string>
@@ -639,4 +638,12 @@
     <string name="always_single_click">Завжди відкривати елементи списку одним клацанням миші (повітряна миша)</string>
     <string name="disable_expire_data">Не показувати статус закінчення терміну дії</string>
     <string name="restore_purchases">Відновлення покупок (вирішення проблем)</string>
+    <string name="future_show_sheet_autoswitch_wl">Автоматично перемикатися на канал, коли він буде в прямому ефірі</string>
+    <string name="reuse_cache_for_quick_start">Повторне використання кешу для швидкого запуску програми з попереднього запуску (для деяких постачальників може працювати некоректно)</string>
+    <string name="use_spacing_between_elem">Використовуйте інтервал між елементами</string>
+    <string name="wait_for_network_live">Зачекайте, поки мережеве з\'єднання стане активним</string>
+    <string name="cfg_prev_n_desc">Скільки попередніх телевізійних шоу для відображення в описі каналу</string>
+    <string name="no_not_show_poster">Не показувати зображення плаката</string>
+    <string name="duration_to_keep_access">Тривалість, щоб доступ залишався розблокованим</string>
+    <string name="disable_vod_genres">Вимкніть жанри в медіатеці</string>
     </resources>
