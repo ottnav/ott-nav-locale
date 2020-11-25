@@ -2,7 +2,7 @@
     <string name="press_back_once_more_to_exit">Naciśnij jeszcze raz, aby wyjść</string>
 
     <string name="search_bar">Wyszukaj według kanałów lub programów</string>
-    <string name="search_bar_clue">spróbuj nazwę filmu, serial, nazwe programu telewizyjnego lub imion aktorów</string>
+    <string name="search_bar_clue">spróbuj wpisać nazwę filmu, seriau, programu telewizyjnego lub imion aktorów</string>
 
     <string name="menu_search">Wyszukiwarka video</string>
     <string name="menu_live">Transmisja na żywo</string>
