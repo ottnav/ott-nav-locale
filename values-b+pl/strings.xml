@@ -205,9 +205,9 @@
 
     <string name="settings_premium_toggle_btn_title">Włącz funkcje premium</string>
     <string name="settings_premium_toggle_btn_sub_add">Subskrybuj</string>
-    <string name="settings_premium_toggle_btn_sub_add_desc">Włącz premię, subskrybując małe płatności cykliczne</string>
+    <string name="settings_premium_toggle_btn_sub_add_desc">Włącz funkcje premium, subskrybując małe płatności cykliczne</string>
     <string name="settings_premium_toggle_btn_buy_add">Zakup</string>
-    <string name="settings_premium_toggle_btn_buy_add_desc">Włącz premię za pomocą pojedynczej płatności</string>
+    <string name="settings_premium_toggle_btn_buy_add_desc">Włącz funkcje premium za pomocą pojedynczej płatności</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Kup pakiet reklam (również we wszystkich pakietach Premium)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Wyłącz reklamy na zawsze za pomocą pojedynczej płatności</string>
 
@@ -552,7 +552,7 @@
     <string name="sleep_timer">Wyłącznik czasowy</string>
 <string name="err_need_provider">Wymagany jest dostawca IPTV</string>
     <string name="err_need_provider_text">Musisz skonfigurować dostawcę IPTV. Otwórz ustawienia i dodaj swojego dostawcę (lub listę odtwarzania).</string>
-    <string name="unlock_premium">Odblokuj premię</string>
+    <string name="unlock_premium">Odblokuj funkcje premium</string>
     <string name="about_app">O aplikacji</string>
     <string name="contact_dev">Skontaktuj się z programistą</string>
     <string name="with_stats">Zezwól na wysyłanie anonimowych statystyk w celu ulepszenia aplikacji</string>
