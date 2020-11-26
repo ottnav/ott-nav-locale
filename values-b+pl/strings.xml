@@ -1,5 +1,5 @@
 <resources>
-    <string name="press_back_once_more_to_exit">Naciśnij jeszcze raz, aby wyjść</string>
+    <string name="press_back_once_more_to_exit">Naciśnij ponownie, aby wyjść</string>
 
     <string name="search_bar">Wyszukaj według kanałów lub programów</string>
     <string name="search_bar_clue">spróbuj wpisać nazwę filmu, seriau, programu telewizyjnego lub imiona aktorów</string>
