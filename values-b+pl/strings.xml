@@ -578,7 +578,7 @@
     <string name="show_installation_number">Pokaż numer instalacji</string>
     <string name="sort_archive_by_date">Sortuj zarchiwizowane filmy według daty</string>
     <string name="simplified_mode">Tryb uproszczony</string>
-    <string name="hide_advanced_features">Ukryj zaawansowane funkcje</string>
+    <string name="hide_advanced_features">Ukrywa zaawansowane funkcje</string>
     <string name="select_player_to_use">Wybierz odtwarzacz, którego chcesz użyć do odtwarzania</string>
     <string name="auto_unfold_current_element_info">Automatycznie rozwijaj aktualnie wybrane informacje o elemencie</string>
     <string name="error_occurred">Wystąpił błąd</string>
