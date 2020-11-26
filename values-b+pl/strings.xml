@@ -320,7 +320,7 @@
     <string name="category_recent_channels">Niedawny</string>
     <string name="category_all_channels">Wszystkie kanały</string>
     <string name="cfg_no_categories">Użyj listy zwykłych kanałów (bez kategorii)</string>
-    <string name="cfg_section_desc">Opis przedmiotu</string>
+    <string name="cfg_section_desc">Opis programu</string>
     <string name="cfg_section_lists">Ustawienia wyświetlania</string>
 
     <string name="cfg_no_hints">Nie pokazuj wskazówek</string>
