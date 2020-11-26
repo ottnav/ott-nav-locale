@@ -336,7 +336,7 @@
 
     <string name="cfg_show_ch_numbers">Pokaż numery kanałów</string>
     <string name="always">zawsze</string>
-    <string name="menu_tv_guide">Program telewizyjny</string>
+    <string name="menu_tv_guide">Przewodnik</string>
     <string name="cfg_stream_q">Pokaż jakość strumienia</string>
     <string name="ext_player_copy_clipboard">Skopiuj link tylko do schowka</string>
     <string name="premium_fea_mult_prov">Umożliwia jednoczesne korzystanie z kilku dostawców</string>
