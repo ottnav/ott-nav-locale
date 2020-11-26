@@ -617,7 +617,7 @@
     <string name="nothing_to_backup">Brak danych do utworzenia kopii zapasowej!</string>
     <string name="qr_code_desc">Możesz skanować kod za pomocą aplikacji aparatu w telefonie. Lub, ponieważ kod został skopiowany do schowka, możesz po prostu wkleić go w innej aplikacji.</string>
     <string name="next_page">Następna strona</string>
-    <string name="user_exp_level">Poziom doświadczenia użytkownika</string>
+    <string name="user_exp_level">Poziom Ustawień</string>
     <string name="user_exp_mode_normal">Tryb normalny</string>
     <string name="user_exp_mode_expert">Tryb ekspercki</string>
     <string name="press_to_quick_jump_day">Naciśnij, aby przejść do innego dnia.</string>
