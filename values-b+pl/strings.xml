@@ -234,7 +234,7 @@
     <string name="settings_premium_what_included_9">Przełączanie kanałów poprzez wprowadzanie numeru kanału</string>
     <string name="settings_channel_sort_mode_numb">numer (według numeru kanału, można zmienić)</string>
     <string name="ch_opt_change_number">Zmienić numer</string>
-    <string name="prov_btn_help">Wsparcie</string>
+    <string name="prov_btn_help">Pomoc</string>
     <string name="prov_help_telegram">Dołącz do czatu w Telegramie</string>
     <string name="settings_premium_what_included_5">Bez reklam</string>
     <string name="invalid_domain">Domena jest prawdopodobnie nieprawidłowa. Sprawdź swoje dane wejściowe</string>
