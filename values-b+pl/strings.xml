@@ -5,7 +5,7 @@
     <string name="search_bar_clue">spróbuj wpisać nazwę filmu, seriau, programu telewizyjnego lub imiona aktorów</string>
 
     <string name="menu_search">Wyszukiwarka video</string>
-    <string name="menu_live">Transmisja na żywo</string>
+    <string name="menu_live">Telewizja</string>
     <string name="menu_archive">Archiwum</string>
     <string name="menu_settings">Ustawienia</string>
     <string name="menu_error_require_provider_button">Skonfiguruj dostawcę</string>
