@@ -394,7 +394,7 @@
     <string name="cfg_play_action_timeshift_start">otwórz zarchiwizowany program telewizyjny od początku</string>
     <string name="cfg_play_action_timeshift_now">otwórz zarchiwizowany program telewizyjny od aktualnego czasu</string>
     <string name="cfg_cat_recent">Kategoria ostatnich kanałów</string>
-    <string name="enable">włączyć</string>
+    <string name="enable">Włącz</string>
     <string name="save_between_launch">zapisać między uruchomieniami</string>
     <string name="cfg_no_teleguide">Generuj wirtualny rekord epg, gdy nie jest dostępny żaden program telewizyjny</string>
     <string name="menu_qs_provider_multiple">Zaznacz ręcznie</string>
@@ -411,7 +411,7 @@
     <string name="cfg_child_categories">Pokaż kategorie kanałów</string>
     <string name="btn_provider_attrs">Właściwości dostawcy</string>
     <string name="btn_provider_activate">Aktywuj</string>
-    <string name="btn_provider_deactivate">Wyłączyć</string>
+    <string name="btn_provider_deactivate">Wyłącz</string>
     <string name="btn_provider_attr_epg">Źródło EPG</string>
     <string name="change_pip_size">Zmień rozmiar</string>
     <string name="change_pip_place">Przesuń na ekranie</string>
