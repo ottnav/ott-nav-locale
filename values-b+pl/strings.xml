@@ -306,10 +306,10 @@
     <string name="prov_help_provide_more_info">Napisz wiadomość do programisty</string>
     <string name="cfg_time_imp">Użyj formatu czasu imperialnego (am / pm)</string>
     <string name="hud_short_seeking">Szukam</string>
-    <string name="cfg_player_clock_tr">prawy górny róg</string>
-    <string name="cfg_player_clock_br">Dolny prawy róg</string>
-    <string name="cfg_player_clock_bl">lewy dolny róg</string>
-    <string name="cfg_player_clock_tl">Górny lewy róg</string>
+    <string name="cfg_player_clock_tr">Górna prawa krawędź</string>
+    <string name="cfg_player_clock_br">Dolna prawa krawędź</string>
+    <string name="cfg_player_clock_bl">Dolna lewa krawędź</string>
+    <string name="cfg_player_clock_tl">Górna lewa krawędź</string>
     <string name="cat_vr_continue">Kontynuuj oglądanie</string>
     <string name="cat_vr_continue_prem">Ostatnio oglądane filmy, które są już dostępne</string>
     <string name="premium_fea_continue">Pokazuje wszystkie ostatnio oglądane filmy, które są obecnie dostępne w opcji Kontynuuj filtrowanie</string>
