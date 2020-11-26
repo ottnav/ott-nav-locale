@@ -257,7 +257,7 @@
     <string name="cfg_play_action_vol_u">zwiększyć głośność</string>
     <string name="cfg_ext_player_auto">Domyślny odtwarzacz systemu</string>
     <string name="cfg_ext_player_chooser">Wybierz ręcznie za każdym razem</string>
-    <string name="btn_close">Blisko</string>
+    <string name="btn_close">Zamknij</string>
     <string name="prem_sub_add_3m">Subskrybuj (rozliczane co 3 miesiące)</string>
     <string name="prem_sub_add_1y">Subskrybuj (rozliczane co roku)</string>
     <string name="premium_fea_pvsearch">Wyszukiwanie głosowe podczas oglądania. Wyszukaj kanał według nazwy lub zawartości archiwum.</string>
