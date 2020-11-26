@@ -158,22 +158,22 @@
 
     <string name="settings_player_buffer_size">Rozmiar bufora</string>
     <string-array name="settings_player_buffer_size_names">
-        <item>brak bufora (minimalne zużycie pamięci)</item>
-        <item>standardowy</item>
-        <item>zwiększony</item>
-        <item>duży (słaby internet, słaby strumień)</item>
-        <item>ogromne (wysokie zużycie pamięci w bardzo złym stanie)</item>
+        <item>Brak bufora (minimalne zużycie pamięci)</item>
+        <item>Standardowy</item>
+        <item>Zwiększony</item>
+        <item>Duży (słaby internet, słaba jakość strumienia)</item>
+        <item>Bardzo duży (wysokie zużycie pamięci, bardzo słaba jakość strumienia)</item>
     </string-array>
 
     <string name="settings_show_clock_in_player_always">Pokaż bieżący czas podczas oglądania</string>
 
     <string name="settings_font_style">Rozmiar czcionki</string>
     <string-array name="settings_font_style_names">
-        <item>Mały</item>
+        <item>Mała</item>
         <item>Normalna</item>
-        <item>Duży</item>
-        <item>Olbrzymi</item>
-        <item>Giant (może ukryć niektóre opcje)</item>
+        <item>Duża</item>
+        <item>Olbrzymia</item>
+        <item>Giant (może ukryć niektóre opcje wyświetlania)</item>
     </string-array>
 
     <string name="settings_palette_style">Schemat kolorów</string>
