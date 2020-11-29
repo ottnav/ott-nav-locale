@@ -1,11 +1,11 @@
 <resources>
-    <string name="press_back_once_more_to_exit">Naciśnij jeszcze raz, aby wyjść</string>
+    <string name="press_back_once_more_to_exit">Naciśnij ponownie, aby wyjść</string>
 
     <string name="search_bar">Wyszukaj według kanałów lub programów</string>
-    <string name="search_bar_clue">spróbuj nazwę filmu, serial, nazwe programu telewizyjnego lub imion aktorów</string>
+    <string name="search_bar_clue">Spróbuj wpisać nazwę filmu, seriau, programu telewizyjnego lub imiona aktorów</string>
 
     <string name="menu_search">Wyszukiwarka video</string>
-    <string name="menu_live">Transmisja na żywo</string>
+    <string name="menu_live">Telewizja</string>
     <string name="menu_archive">Archiwum</string>
     <string name="menu_settings">Ustawienia</string>
     <string name="menu_error_require_provider_button">Skonfiguruj dostawcę</string>
@@ -158,22 +158,22 @@
 
     <string name="settings_player_buffer_size">Rozmiar bufora</string>
     <string-array name="settings_player_buffer_size_names">
-        <item>brak bufora (minimalne zużycie pamięci)</item>
-        <item>standardowy</item>
-        <item>zwiększony</item>
-        <item>duży (słaby internet, słaby strumień)</item>
-        <item>ogromne (wysokie zużycie pamięci w bardzo złym stanie)</item>
+        <item>Brak bufora (minimalne zużycie pamięci)</item>
+        <item>Standardowy</item>
+        <item>Zwiększony</item>
+        <item>Duży (słaby internet, słaba jakość strumienia)</item>
+        <item>Bardzo duży (wysokie zużycie pamięci, bardzo słaba jakość strumienia)</item>
     </string-array>
 
     <string name="settings_show_clock_in_player_always">Pokaż bieżący czas podczas oglądania</string>
 
     <string name="settings_font_style">Rozmiar czcionki</string>
     <string-array name="settings_font_style_names">
-        <item>Mały</item>
+        <item>Mała</item>
         <item>Normalna</item>
-        <item>Duży</item>
-        <item>Olbrzymi</item>
-        <item>Giant (może ukryć niektóre opcje)</item>
+        <item>Duża</item>
+        <item>Olbrzymia</item>
+        <item>Giant (może ukryć niektóre opcje wyświetlania)</item>
     </string-array>
 
     <string name="settings_palette_style">Schemat kolorów</string>
@@ -205,9 +205,9 @@
 
     <string name="settings_premium_toggle_btn_title">Włącz funkcje premium</string>
     <string name="settings_premium_toggle_btn_sub_add">Subskrybuj</string>
-    <string name="settings_premium_toggle_btn_sub_add_desc">Włącz premię, subskrybując małe płatności cykliczne</string>
+    <string name="settings_premium_toggle_btn_sub_add_desc">Włącz funkcje premium, subskrybując małe płatności cykliczne</string>
     <string name="settings_premium_toggle_btn_buy_add">Zakup</string>
-    <string name="settings_premium_toggle_btn_buy_add_desc">Włącz premię za pomocą pojedynczej płatności</string>
+    <string name="settings_premium_toggle_btn_buy_add_desc">Włącz funkcje premium za pomocą pojedynczej płatności</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Kup pakiet reklam (również we wszystkich pakietach Premium)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Wyłącz reklamy na zawsze za pomocą pojedynczej płatności</string>
 
@@ -234,7 +234,7 @@
     <string name="settings_premium_what_included_9">Przełączanie kanałów poprzez wprowadzanie numeru kanału</string>
     <string name="settings_channel_sort_mode_numb">numer (według numeru kanału, można zmienić)</string>
     <string name="ch_opt_change_number">Zmienić numer</string>
-    <string name="prov_btn_help">Wsparcie</string>
+    <string name="prov_btn_help">Pomoc</string>
     <string name="prov_help_telegram">Dołącz do czatu w Telegramie</string>
     <string name="settings_premium_what_included_5">Bez reklam</string>
     <string name="invalid_domain">Domena jest prawdopodobnie nieprawidłowa. Sprawdź swoje dane wejściowe</string>
@@ -257,7 +257,7 @@
     <string name="cfg_play_action_vol_u">zwiększyć głośność</string>
     <string name="cfg_ext_player_auto">Domyślny odtwarzacz systemu</string>
     <string name="cfg_ext_player_chooser">Wybierz ręcznie za każdym razem</string>
-    <string name="btn_close">Blisko</string>
+    <string name="btn_close">Zamknij</string>
     <string name="prem_sub_add_3m">Subskrybuj (rozliczane co 3 miesiące)</string>
     <string name="prem_sub_add_1y">Subskrybuj (rozliczane co roku)</string>
     <string name="premium_fea_pvsearch">Wyszukiwanie głosowe podczas oglądania. Wyszukaj kanał według nazwy lub zawartości archiwum.</string>
@@ -306,10 +306,10 @@
     <string name="prov_help_provide_more_info">Napisz wiadomość do programisty</string>
     <string name="cfg_time_imp">Użyj formatu czasu imperialnego (am / pm)</string>
     <string name="hud_short_seeking">Szukam</string>
-    <string name="cfg_player_clock_tr">prawy górny róg</string>
-    <string name="cfg_player_clock_br">Dolny prawy róg</string>
-    <string name="cfg_player_clock_bl">lewy dolny róg</string>
-    <string name="cfg_player_clock_tl">Górny lewy róg</string>
+    <string name="cfg_player_clock_tr">Górna prawa krawędź</string>
+    <string name="cfg_player_clock_br">Dolna prawa krawędź</string>
+    <string name="cfg_player_clock_bl">Dolna lewa krawędź</string>
+    <string name="cfg_player_clock_tl">Górna lewa krawędź</string>
     <string name="cat_vr_continue">Kontynuuj oglądanie</string>
     <string name="cat_vr_continue_prem">Ostatnio oglądane filmy, które są już dostępne</string>
     <string name="premium_fea_continue">Pokazuje wszystkie ostatnio oglądane filmy, które są obecnie dostępne w opcji Kontynuuj filtrowanie</string>
@@ -320,8 +320,8 @@
     <string name="category_recent_channels">Niedawny</string>
     <string name="category_all_channels">Wszystkie kanały</string>
     <string name="cfg_no_categories">Użyj listy zwykłych kanałów (bez kategorii)</string>
-    <string name="cfg_section_desc">Opis przedmiotu</string>
-    <string name="cfg_section_lists">Wyświetla ustawienia</string>
+    <string name="cfg_section_desc">Opis programu</string>
+    <string name="cfg_section_lists">Ustawienia wyświetlania</string>
 
     <string name="cfg_no_hints">Nie pokazuj wskazówek</string>
     <string name="child_mode_unlock_cfg">Wprowadź kod podrzędny, aby odblokować ustawienia</string>
@@ -336,7 +336,7 @@
 
     <string name="cfg_show_ch_numbers">Pokaż numery kanałów</string>
     <string name="always">zawsze</string>
-    <string name="menu_tv_guide">Program telewizyjny</string>
+    <string name="menu_tv_guide">Przewodnik</string>
     <string name="cfg_stream_q">Pokaż jakość strumienia</string>
     <string name="ext_player_copy_clipboard">Skopiuj link tylko do schowka</string>
     <string name="premium_fea_mult_prov">Umożliwia jednoczesne korzystanie z kilku dostawców</string>
@@ -394,7 +394,7 @@
     <string name="cfg_play_action_timeshift_start">otwórz zarchiwizowany program telewizyjny od początku</string>
     <string name="cfg_play_action_timeshift_now">otwórz zarchiwizowany program telewizyjny od aktualnego czasu</string>
     <string name="cfg_cat_recent">Kategoria ostatnich kanałów</string>
-    <string name="enable">włączyć</string>
+    <string name="enable">Włącz</string>
     <string name="save_between_launch">zapisać między uruchomieniami</string>
     <string name="cfg_no_teleguide">Generuj wirtualny rekord epg, gdy nie jest dostępny żaden program telewizyjny</string>
     <string name="menu_qs_provider_multiple">Zaznacz ręcznie</string>
@@ -411,7 +411,7 @@
     <string name="cfg_child_categories">Pokaż kategorie kanałów</string>
     <string name="btn_provider_attrs">Właściwości dostawcy</string>
     <string name="btn_provider_activate">Aktywuj</string>
-    <string name="btn_provider_deactivate">Wyłączyć</string>
+    <string name="btn_provider_deactivate">Wyłącz</string>
     <string name="btn_provider_attr_epg">Źródło EPG</string>
     <string name="change_pip_size">Zmień rozmiar</string>
     <string name="change_pip_place">Przesuń na ekranie</string>
@@ -552,7 +552,7 @@
     <string name="sleep_timer">Wyłącznik czasowy</string>
 <string name="err_need_provider">Wymagany jest dostawca IPTV</string>
     <string name="err_need_provider_text">Musisz skonfigurować dostawcę IPTV. Otwórz ustawienia i dodaj swojego dostawcę (lub listę odtwarzania).</string>
-    <string name="unlock_premium">Odblokuj premię</string>
+    <string name="unlock_premium">Odblokuj funkcje premium</string>
     <string name="about_app">O aplikacji</string>
     <string name="contact_dev">Skontaktuj się z programistą</string>
     <string name="with_stats">Zezwól na wysyłanie anonimowych statystyk w celu ulepszenia aplikacji</string>
@@ -578,7 +578,7 @@
     <string name="show_installation_number">Pokaż numer instalacji</string>
     <string name="sort_archive_by_date">Sortuj zarchiwizowane filmy według daty</string>
     <string name="simplified_mode">Tryb uproszczony</string>
-    <string name="hide_advanced_features">Ukryj zaawansowane funkcje</string>
+    <string name="hide_advanced_features">Ukrywa zaawansowane funkcje</string>
     <string name="select_player_to_use">Wybierz odtwarzacz, którego chcesz użyć do odtwarzania</string>
     <string name="auto_unfold_current_element_info">Automatycznie rozwijaj aktualnie wybrane informacje o elemencie</string>
     <string name="error_occurred">Wystąpił błąd</string>
@@ -617,7 +617,7 @@
     <string name="nothing_to_backup">Brak danych do utworzenia kopii zapasowej!</string>
     <string name="qr_code_desc">Możesz skanować kod za pomocą aplikacji aparatu w telefonie. Lub, ponieważ kod został skopiowany do schowka, możesz po prostu wkleić go w innej aplikacji.</string>
     <string name="next_page">Następna strona</string>
-    <string name="user_exp_level">Poziom doświadczenia użytkownika</string>
+    <string name="user_exp_level">Poziom Ustawień</string>
     <string name="user_exp_mode_normal">Tryb normalny</string>
     <string name="user_exp_mode_expert">Tryb ekspercki</string>
     <string name="press_to_quick_jump_day">Naciśnij, aby przejść do innego dnia.</string>
