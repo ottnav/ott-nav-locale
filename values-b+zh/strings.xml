@@ -103,9 +103,6 @@
     <string name="settings_provider_select_status_error">配置错误。数据加载失败</string>
     <string name="settings_provider_select_status_success">设置成功</string>
 
-    <string name="settings_provider_select_action_playlist">正在校验播放列表</string>
-    <string name="settings_provider_select_action_live">直播频道加载中</string>
-    <string name="settings_provider_select_error_playlist">播放列表或频道无效</string>
     <string name="settings_provider_select_error_live">不支持这些直播频道。检查用户名/密钥/密码/网址。</string>
 
     <string name="archive_auto_seek_no">从头开始</string>
@@ -646,4 +643,10 @@
     <string name="no_not_show_poster">不显示海报图像</string>
     <string name="duration_to_keep_access">保持解锁状态的持续时间</string>
     <string name="disable_vod_genres">禁用媒体库中的流派</string>
+    <string name="not_supported_by_device">您的设备不支持</string>
+    <string name="delay_before_retrying_video_on_error">尝试重开流错误时延迟</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="editing_is_restricted">您的配置禁止管理频道</string>
+    <string name="lock_editing">锁定编辑（禁止频道管理）</string>
+    <string name="use_fixed_screen_res">使用固定的屏幕分辨率</string>
     </resources>

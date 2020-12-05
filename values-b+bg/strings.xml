@@ -89,9 +89,6 @@
     <string name="settings_provider_select_return">връщане</string>
     <string name="settings_provider_select_status_error">Грешка в конфигурацията. Неуспешно зареждане на данни</string>
     <string name="settings_provider_select_status_success">Настройката е приложена успешно</string>
-    <string name="settings_provider_select_action_playlist">валидиране на плейлиста</string>
-    <string name="settings_provider_select_action_live">зареждане на канали на живо</string>
-    <string name="settings_provider_select_error_playlist">плейлистът изглежда невалиден или не съдържа поддържани канали</string>
     <string name="settings_provider_select_error_live">не съдържа поддържани канали на живо. Проверете потребителско име / ключ / парола / URL адрес.</string>
     <string name="archive_auto_seek_no">Не, гледайте от началото</string>
     <string name="future_show_sheet_add_wl_title">Напомни ми да премина към канала</string>
@@ -583,4 +580,10 @@
     <string name="no_not_show_poster">Не показвайте изображение на плакат</string>
     <string name="duration_to_keep_access">Продължителност, за да се запази достъпът отключен</string>
     <string name="disable_vod_genres">Деактивирайте жанровете в медийната библиотека</string>
+    <string name="not_supported_by_device">Не се поддържа от вашето устройство</string>
+    <string name="delay_before_retrying_video_on_error">Забавяне преди повторен опит за повторно отваряне на потока при грешка</string>
+    <string name="night_mode">Нощен режим</string>
+    <string name="editing_is_restricted">Вашата конфигурация забранява управлението на канали</string>
+    <string name="lock_editing">Заключване на редактирането (забранете управлението на канали)</string>
+    <string name="use_fixed_screen_res">Използвайте фиксирана разделителна способност на екрана</string>
     </resources>

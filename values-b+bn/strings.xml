@@ -108,9 +108,6 @@
     <string name="settings_provider_select_status_error">কনফিগারেশন ত্রুটি। তথ্য লোড করতে ব্যর্থ</string>
     <string name="settings_provider_select_status_success">সেটিং সফলভাবে প্রয়োগ করা হয়েছে</string>
 
-    <string name="settings_provider_select_action_playlist">বৈধতা প্লেলিস্ট</string>
-    <string name="settings_provider_select_action_live">লাইভ চ্যানেল লোড হচ্ছে</string>
-    <string name="settings_provider_select_error_playlist">প্লেলিস্ট অবৈধ বলে মনে হয় না বা কোন সমর্থিত চ্যানেল নেই</string>
     <string name="settings_provider_select_error_live">কোন সমর্থিত লাইভ চ্যানেল রয়েছে। ব্যবহারকারীর নাম / কী / পাসওয়ার্ড / ইউআরএল চেক করুন।</string>
 
     <string name="archive_auto_seek_no">না, শুরু থেকে ঘড়ি</string>
@@ -654,4 +651,10 @@
     <string name="no_not_show_poster">পোস্টার চিত্রটি দেখাবেন না</string>
     <string name="duration_to_keep_access">অ্যাক্সেসকে তালাবন্ধ রাখার সময়কাল</string>
     <string name="disable_vod_genres">মিডিয়া লাইব্রেরিতে জেনারগুলিকে অক্ষম করুন</string>
+    <string name="delay_before_retrying_video_on_error">ত্রুটিতে স্ট্রিমটি আবার খুলতে পুনরায় চেষ্টা করার আগে বিলম্ব করুন</string>
+    <string name="not_supported_by_device">আপনার ডিভাইস দ্বারা সমর্থিত নয়</string>
+    <string name="night_mode">রাত মোড</string>
+    <string name="editing_is_restricted">আপনার কনফিগারেশন চ্যানেল পরিচালনা নিষিদ্ধ</string>
+    <string name="lock_editing">লক সম্পাদনা (চ্যানেল পরিচালনা নিষিদ্ধ)</string>
+    <string name="use_fixed_screen_res">স্থির পর্দার রেজোলিউশন ব্যবহার করুন</string>
     </resources>

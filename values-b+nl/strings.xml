@@ -90,9 +90,6 @@
     <string name="settings_provider_select_return">Terugkeren</string>
     <string name="settings_provider_select_status_error">Configuratiefout. Kan gegevens niet laden</string>
     <string name="settings_provider_select_status_success">Instelling succesvol toegepast</string>
-    <string name="settings_provider_select_action_playlist">afspeellijst valideren</string>
-    <string name="settings_provider_select_action_live">live kanalen laden</string>
-    <string name="settings_provider_select_error_playlist">afspeellijst lijkt ongeldig of bevat geen ondersteunde kanalen</string>
     <string name="settings_provider_select_error_live">bevat geen ondersteunde live kanalen. Controleer gebruikersnaam / sleutel / wachtwoord / url.</string>
     <string name="archive_auto_seek_no">Kijk vanaf het begin</string>
     <string name="future_show_sheet_add_wl_title">Herinner me eraan om over te schakelen naar het kanaal</string>
@@ -584,4 +581,7 @@
     <string name="no_not_show_poster">Toon geen posterafbeelding</string>
     <string name="duration_to_keep_access">Duur om toegang ontgrendeld te houden</string>
     <string name="disable_vod_genres">Schakel genres in mediabibliotheek uit</string>
+    <string name="not_supported_by_device">Niet ondersteund door uw apparaat</string>
+    <string name="delay_before_retrying_video_on_error">Vertraging voordat opnieuw wordt geprobeerd de stream opnieuw te openen bij fout</string>
+    <string name="night_mode">Nachtstand</string>
     </resources>

@@ -108,9 +108,6 @@
     <string name="settings_provider_select_status_error">विन्यास त्रुटि। डेटा लोड करने में विफल</string>
     <string name="settings_provider_select_status_success">सेटिंग सफलतापूर्वक लागू की गई</string>
 
-    <string name="settings_provider_select_action_playlist">प्लेलिस्ट मान्य</string>
-    <string name="settings_provider_select_action_live">लाइव चैनल लोड हो रहा है</string>
-    <string name="settings_provider_select_error_playlist">प्लेलिस्ट अमान्य लगता है या इसमें कोई समर्थित चैनल नहीं है</string>
     <string name="settings_provider_select_error_live">इसमें कोई समर्थित लाइव चैनल नहीं है। उपयोगकर्ता नाम / कुंजी / पासवर्ड / यूआरएल जांचें।</string>
 
     <string name="archive_auto_seek_no">नहीं, शुरुआत से देखो</string>
@@ -654,4 +651,10 @@
     <string name="no_not_show_poster">पोस्टर छवि न दिखाएं</string>
     <string name="duration_to_keep_access">एक्सेस को अनलॉक रखने की अवधि</string>
     <string name="disable_vod_genres">मीडिया लाइब्रेरी में शैलियों को अक्षम करें</string>
+    <string name="not_supported_by_device">आपके डिवाइस द्वारा समर्थित नहीं है</string>
+    <string name="delay_before_retrying_video_on_error">त्रुटि पर स्ट्रीम को फिर से खोलने से पहले विलंब</string>
+    <string name="night_mode">रात्री स्वरुप</string>
+    <string name="editing_is_restricted">आपका कॉन्फ़िगरेशन प्रबंध चैनलों को प्रतिबंधित करता है</string>
+    <string name="lock_editing">लॉक संपादन (चैनल प्रबंधन पर रोक)</string>
+    <string name="use_fixed_screen_res">निश्चित स्क्रीन रिज़ॉल्यूशन का उपयोग करें</string>
     </resources>

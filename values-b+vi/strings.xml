@@ -103,9 +103,6 @@
     <string name="settings_provider_select_status_error">Lỗi cấu hình. Không thể tải dữ liệu</string>
     <string name="settings_provider_select_status_success">Cài đặt được áp dụng thành công</string>
 
-    <string name="settings_provider_select_action_playlist">đang xác thực danh sách phát</string>
-    <string name="settings_provider_select_action_live">đang tải các kênh trực tiếp</string>
-    <string name="settings_provider_select_error_playlist">danh sách phát có vẻ không hợp lệ hoặc không chứa các kênh được hỗ trợ</string>
     <string name="settings_provider_select_error_live">không chứa các kênh trực tiếp được hỗ trợ. Hãy kiểm tra tên người dùng/khóa /mật khẩu/url.</string>
 
     <string name="archive_auto_seek_no">Không, hãy xem từ đầu</string>
@@ -646,4 +643,10 @@
     <string name="no_not_show_poster">Không hiển thị hình ảnh áp phích</string>
     <string name="duration_to_keep_access">Khoảng thời gian duy trì quyền truy cập được mở khóa</string>
     <string name="disable_vod_genres">Tắt các thể loại trong thư viện phương tiện</string>
+    <string name="not_supported_by_device">Không được thiết bị của bạn hỗ trợ</string>
+    <string name="delay_before_retrying_video_on_error">Trì hoãn trước khi thử mở lại luồng do lỗi</string>
+    <string name="night_mode">Chế độ ban đêm</string>
+    <string name="editing_is_restricted">Cấu hình của bạn cấm quản lý kênh</string>
+    <string name="lock_editing">Khóa chỉnh sửa (cấm quản lý kênh)</string>
+    <string name="use_fixed_screen_res">Sử dụng độ phân giải màn hình cố định</string>
     </resources>

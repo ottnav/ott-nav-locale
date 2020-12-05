@@ -108,9 +108,6 @@
     <string name="settings_provider_select_status_error">Konfigurationsfehler. Fehler beim Laden der Daten</string>
     <string name="settings_provider_select_status_success">Die Einstellung wurde erfolgreich angewendet</string>
 
-    <string name="settings_provider_select_action_playlist">Playliste wird überprüft</string>
-    <string name="settings_provider_select_action_live">Laden von Livekanälen</string>
-    <string name="settings_provider_select_error_playlist">Wiedergabeliste scheint ungültig zu sein oder enthält keine unterstützten Kanäle</string>
     <string name="settings_provider_select_error_live">enthält keine unterstützten Livekanäle. Überprüfen Sie Benutzername / Schlüssel / Passwort / URL.</string>
 
     <string name="archive_auto_seek_no">Nein, schau von Anfang an</string>
@@ -651,121 +648,11 @@
     <string name="cfg_prev_n_desc">Wie viele frühere Fernsehsendungen sollen in der Kanalbeschreibung angezeigt werden?</string>
     <string name="no_not_show_poster">Posterbild nicht anzeigen</string>
     <string name="duration_to_keep_access">Dauer, um den Zugriff freigeschaltet zu halten</string>
-    <string name="disable_vod_genres">html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Google Übersetzer&lt;/title&gt;&lt;meta name="google" content="notranslate"&gt;&lt;link rel="icon" href="//ssl.gstatic.com/translate/favicon.ico" sizes="64x64"&gt;&lt;style nonce="O6aj/5QqhcHvpUyZOPkT6w"&gt;
-    body {
-      margin: 0;
-    }
-    a:link,
-    a:visited,
-    a:active {
-      color: #1a73e8; /* blue 600 */
-      text-decoration: none;
-    }
-    .root-container {
-      font-family: \'Arial\', sans-serif;
-    }
-    .root-container.isRtl {
-      direction: rtl;
-    }
-    .header {
-      background-color: #fff;
-      border-bottom: 1px solid #dadce0; /* grey 300 */
-      box-sizing: border-box;
-      color: #5f6368; /* grey 700 */
-      font-size: 18px;
-      line-height: 21px;
-      padding: 14px 16px;
-    }
-    .logo-image {
-      background-image: url(\'https://ssl.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_68x28px.svg\');
-      background-repeat: no-repeat;
-      height: 48px;
-      width: 68px;
-      position: absolute;
-    }
-    .logo-text {
-      margin-left: 72px;
-      margin-right: 76px;
-      margin-top: 2px;
-    }
-  
-    body {
-      background-color: #f1f3f4; /* grey 100 */
-    }
-    .languages-container {
-      background-color: #fff;
-      border-bottom: 1px solid #dadce0; /* grey 300 */
-      box-sizing: border-box;
-      color: #3c4043; /* grey 800 */
-      font-size: 14px;
-      height: 48px;
-      padding: 14px 16px;
-    }
-    .sl-and-tl {
-      display: inline-block;
-    }
-    .swap-container {
-      float: right;
-    }
-    .root-container.isRtl .swap-container {
-      float: left;
-    }
-    .input-container {
-      background-color: #fff;
-      box-shadow:
-        0px -1px 5px rgba(128, 134, 139, 0.09),
-        0px 3px 5px rgba(128, 134, 139, 0.06),
-        0px 1px 2px rgba(60, 64, 67, 0.3),
-        0px 1px 3px rgba(60, 64, 67, 0.15);
-    }
-    .input-field {
-      border: 0;
-      color: #3c4043; /* grey 800 */
-      font-size: 18px;
-      line-height: 24px;
-      padding: 18px 16px;
-      width: 100%;
-    }
-    .translate-button-container {
-      padding: 16px;
-      text-align: right;
-    }
-    .root-container.isRtl .translate-button-container {
-      text-align: left;
-    }
-    .translate-button {
-      background: #1a73e8; /* blue 600 */
-      border-radius: 4px;
-      color: #fff;
-      font-size: 14px;
-      line-height: 20px;
-      padding: 8px 16px;
-    }
-    .result-container {
-      background: #1a73e8; /* blue 600 */
-      box-shadow:
-        0px -1px 5px rgba(128, 134, 139, 0.09),
-        0px 3px 5px rgba(128, 134, 139, 0.06),
-        0px 1px 2px rgba(60, 64, 67, 0.3),
-        0px 1px 3px rgba(60, 64, 67, 0.15);
-      color: #fff;
-      font-size: 18px;
-      line-height: 24px;
-      margin-bottom: 50px;
-      padding: 16px 16px 40px 16px;
-    }
-    .links-container a {
-      color: #1967d2; /* blue 700 */
-    }
-    .links-container ul {
-      font-size: 12px;
-      line-height: 16px;
-      list-style-type: none;
-      margin: 16px;
-      padding: 0;
-    }
-    .links-container ul li {
-      margin-bottom: 16px;
-    }
-  &lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="root-container"&gt;&lt;div class="header"&gt;&lt;div class="logo-image"&gt;&lt;/div&gt;&lt;div class="logo-text"&gt;Übersetzen&lt;/div&gt;&lt;/div&gt;&lt;div class="languages-container"&gt;&lt;div class="sl-and-tl"&gt;&lt;a href="./m?sl=en&amp;tl=de&amp;q=Disable%20genres%20in%20media%20library&amp;mui=sl&amp;hl=de"&gt;Englisch&lt;/a&gt; → &lt;a href="./m?sl=en&amp;tl=de&amp;q=Disable%20genres%20in%20media%20library&amp;mui=tl&amp;hl=de"&gt;Deutsch&lt;/a&gt;&lt;/div&gt;&lt;div class="swap-container"&gt;&lt;a href="./m?sl=de&amp;tl=en&amp;q=Deaktivieren%20Sie%20Genres%20in%20der%20Medienbibliothek&amp;hl=de"&gt;Tauschen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="input-container"&gt;&lt;form action="/m"&gt;&lt;input type="hidden" name="sl" value="en"&gt;&lt;input type="hidden" name="tl" value="de"&gt;&lt;input type="hidden" name="hl" value="de"&gt;&lt;input type="text" aria-label="Ausgangstext" name="q" class="input-field" maxlength="2048" value="Disable genres in media library"&gt;&lt;div class="translate-button-container"&gt;&lt;input type="submit" value="Übersetzen" class="translate-button"&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class="result-container"&gt;Deaktivieren Sie Genres in der Medienbibliothek&lt;/div&gt;&lt;div class="links-container"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.google.com/m?hl=de"&gt;Google-Startseite&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.google.com/tools/feedback/survey/xhtml?productId=95112&amp;hl=de"&gt;Feedback geben&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.google.com/intl/de/policies"&gt;Datenschutzerklärung und Nutzungsbedingungen&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="./full"&gt;Zur vollständigen Seite&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html</string>
+    <string name="not_supported_by_device">Wird von Ihrem Gerät nicht unterstützt</string>
+    <string name="delay_before_retrying_video_on_error">Verzögerung vor dem erneuten Versuch, den Stream bei einem Fehler erneut zu öffnen</string>
+    <string name="disable_vod_genres">Deaktivieren Sie Genres in der Medienbibliothek</string>
+    <string name="night_mode">Nacht-Modus</string>
+    <string name="editing_is_restricted">Ihre Konfiguration verbietet die Verwaltung von Kanälen</string>
+    <string name="lock_editing">Sperren der Bearbeitung (Kanalverwaltung verbieten)</string>
+    <string name="use_fixed_screen_res">Verwenden Sie eine feste Bildschirmauflösung</string>
     </resources>

@@ -89,9 +89,6 @@
     <string name="settings_provider_select_return">Vrátit se</string>
     <string name="settings_provider_select_status_error">Chyba konfigurace. Načtení dat se nezdařilo</string>
     <string name="settings_provider_select_status_success">Nastavení bylo úspěšně použito</string>
-    <string name="settings_provider_select_action_playlist">ověření seznamu skladeb</string>
-    <string name="settings_provider_select_action_live">načítání živých kanálů</string>
-    <string name="settings_provider_select_error_playlist">seznam videí se zdá být neplatný nebo neobsahuje žádné podporované kanály</string>
     <string name="settings_provider_select_error_live">neobsahuje žádné podporované živé kanály. Zkontrolujte uživatelské jméno / klíč / heslo / URL.</string>
     <string name="archive_auto_seek_no">Ne, pozor od začátku</string>
     <string name="future_show_sheet_add_wl_title">Připomeňte mi, abych přepnul na kanál</string>
@@ -583,4 +580,10 @@
     <string name="no_not_show_poster">Nezobrazovat obrázek plakátu</string>
     <string name="duration_to_keep_access">Doba odemčení přístupu</string>
     <string name="disable_vod_genres">Zakázat žánry v knihovně médií</string>
+    <string name="not_supported_by_device">Zařízení nepodporuje</string>
+    <string name="delay_before_retrying_video_on_error">Zpoždění před pokusem o opětovné otevření streamu při chybě</string>
+    <string name="night_mode">Noční režim</string>
+    <string name="editing_is_restricted">Vaše konfigurace zakazuje správu kanálů</string>
+    <string name="lock_editing">Uzamknout úpravy (zakázat správu kanálu)</string>
+    <string name="use_fixed_screen_res">Použijte pevné rozlišení obrazovky</string>
     </resources>

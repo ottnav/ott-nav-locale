@@ -90,9 +90,6 @@
     <string name="settings_provider_select_return">ΕΠΙΣΤΡΟΦΗ</string>
     <string name="settings_provider_select_status_error">Σφάλμα διαμόρφωσης. Αποτυχία φόρτωσης δεδομένων</string>
     <string name="settings_provider_select_status_success">Η ρύθμιση εφαρμόστηκε με επιτυχία</string>
-    <string name="settings_provider_select_action_playlist">επικύρωση της λίστας αναπαραγωγής</string>
-    <string name="settings_provider_select_action_live">φορτώνοντας live κανάλια</string>
-    <string name="settings_provider_select_error_playlist">η λίστα αναπαραγωγής δεν είναι έγκυρη ή δεν περιέχει κανάλια που υποστηρίζονται</string>
     <string name="settings_provider_select_error_live">δεν περιέχει κανάλια που υποστηρίζονται ζωντανά. Ελέγξτε το όνομα χρήστη / κλειδί / κωδικό / url.</string>
     <string name="archive_auto_seek_no">Όχι, προσέξτε από την αρχή</string>
     <string name="future_show_sheet_add_wl_title">Θυμηθείτε να μεταβείτε στο κανάλι</string>
@@ -584,4 +581,10 @@
     <string name="no_not_show_poster">Να μην εμφανίζεται εικόνα αφίσας</string>
     <string name="duration_to_keep_access">Διάρκεια για να διατηρείται ξεκλείδωτη η πρόσβαση</string>
     <string name="disable_vod_genres">Απενεργοποιήστε τα είδη στη βιβλιοθήκη πολυμέσων</string>
+    <string name="not_supported_by_device">Δεν υποστηρίζεται από τη συσκευή σας</string>
+    <string name="delay_before_retrying_video_on_error">Καθυστέρηση πριν προσπαθήσετε ξανά για να ανοίξετε ξανά τη ροή σε σφάλμα</string>
+    <string name="night_mode">Νυχτερινή λειτουργία</string>
+    <string name="editing_is_restricted">Η διαμόρφωσή σας απαγορεύει τη διαχείριση καναλιών</string>
+    <string name="lock_editing">Επεξεργασία κλειδώματος (απαγόρευση διαχείρισης καναλιών)</string>
+    <string name="use_fixed_screen_res">Χρησιμοποιήστε ανάλυση σταθερής οθόνης</string>
     </resources>

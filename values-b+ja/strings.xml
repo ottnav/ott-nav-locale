@@ -108,9 +108,6 @@
     <string name="settings_provider_select_status_error">構成エラー。データの読み込みに失敗しました</string>
     <string name="settings_provider_select_status_success">設定が正常に適用された</string>
 
-    <string name="settings_provider_select_action_playlist">プレイリストの検証</string>
-    <string name="settings_provider_select_action_live">ライブチャンネルを読み込む</string>
-    <string name="settings_provider_select_error_playlist">プレイリストが無効か、サポートされているチャンネルが含まれていないようです</string>
     <string name="settings_provider_select_error_live">サポートされているライブチャンネルはありません。ユーザー名/キー/パスワード/ URLを確認してください。</string>
 
     <string name="archive_auto_seek_no">いいえ、最初から見てください</string>
@@ -654,4 +651,10 @@
     <string name="no_not_show_poster">ポスター画像を表示しない</string>
     <string name="duration_to_keep_access">アクセスのロックを解除したままにする期間</string>
     <string name="disable_vod_genres">メディアライブラリでジャンルを無効にする</string>
+    <string name="not_supported_by_device">お使いのデバイスではサポートされていません</string>
+    <string name="delay_before_retrying_video_on_error">エラー時にストリームを再開する前に遅延する</string>
+    <string name="night_mode">ナイトモード</string>
+    <string name="editing_is_restricted">構成でチャネルの管理が禁止されています</string>
+    <string name="lock_editing">ロック編集（チャネル管理の禁止）</string>
+    <string name="use_fixed_screen_res">固定画面解像度を使用する</string>
     </resources>

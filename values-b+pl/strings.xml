@@ -1,9 +1,7 @@
 <resources>
     <string name="press_back_once_more_to_exit">Naciśnij ponownie, aby wyjść</string>
-
     <string name="search_bar">Wyszukaj według kanałów lub programów</string>
     <string name="search_bar_clue">Spróbuj wpisać nazwę filmu, seriau, programu telewizyjnego lub imiona aktorów</string>
-
     <string name="menu_search">Wyszukiwarka video</string>
     <string name="menu_live">Telewizja</string>
     <string name="menu_archive">Archiwum</string>
@@ -11,11 +9,9 @@
     <string name="menu_error_require_provider_button">Skonfiguruj dostawcę</string>
     <string name="menu_error_require_live_but_no_playlist_title">Nie można wczytać listy odtwarzania</string>
     <string name="menu_error_require_live_but_no_playlist_text">Nie można osiągnąć skonfigurowanego dostawcy lub listy odtwarzania. Ponownie sprawdź ustawienia dostawcy i jeśli wydają się one prawidłowe, skontaktuj się z dostawcą IPTV.</string>
-
     <string name="browse_description_series_number">epizod</string>
     <string name="browse_description_header_live">Kanały na żywo</string>
     <string name="browse_description_header_program">Rozkład kanału</string>
-
     <string name="category_movies">Wszystkie filmy</string>
     <string name="category_tv_series">Wszystkie seriale telewizyjne</string>
     <string name="category_tv_shows">Wszystkie programy telewizyjne</string>
@@ -33,7 +29,6 @@
     <string name="category_desc_exact_tv_shows">program telewizyjny</string>
     <string name="category_desc_tv_channel">kanał TV</string>
     <string name="category_desc_from_fav">tylko treść z ulubionych kanałów</string>
-
     <string name="in_1_minute">za 1 minutę</string>
     <string name="in_n_minutes">w 10 minut</string>
     <string name="player_episode_details_season">pora roku</string>
@@ -43,7 +38,6 @@
     <string name="player_touch_to_cancel">Dotknij ekranu, aby anulować</string>
     <string name="player_state_no_media_ended">Strumień nie wybrany (zakończony)</string>
     <string name="player_state_buffering">Buforowanie</string>
-
     <string name="error_this_video_requires_external_player">Ten film wymaga odtwarzacza zewnętrznego, aby uzyskać jak najlepsze wrażenia</string>
     <string name="error_stream_not_reachable_no_connect">Strumień nieosiągalny (nie można się połączyć). Skontaktuj się ze swoim dostawcą</string>
     <string name="error_stream_not_reachable_no_resource">Strumień nieosiągalny. Skontaktuj się ze swoim dostawcą</string>
@@ -51,9 +45,7 @@
     <string name="error_archive_not_supported_this_channel">Twój dostawca nie udostępnia archiwów dla tego kanału</string>
     <string name="error_search_nothing_found">Nic nie pasowało do zapytania</string>
     <string name="error_require_file_permission_grant_and_try_again">Dostęp do pamięci jest wymagany. Podaj dostęp i ponów operację</string>
-
     <string name="info_teleguide_loaded">Załadowano program telewizyjny (EPG): wpisy</string>
-
     <string name="player_menu_select_channel_title">Kolejny kanał</string>
     <string name="player_menu_select_archive_title">Kolejne wideo</string>
     <string name="player_menu_set_pause_on_title">Wstrzymaj odtwarzanie</string>
@@ -77,7 +69,6 @@
     <string name="player_menu_pip_on_details">Wyjdź z trybu obrazu w obrazie</string>
     <string name="player_menu_pip_swap_details">Zamień główny kanał i jeden PiP</string>
     <string name="player_menu_last_channel">Ostatni kanał</string>
-
     <string name="settings_player_pip_codec">Wybór kodeków Picture-in-Picture</string>
     <string name="settings_player_pip_position_tl">lewy górny</string>
     <string name="settings_player_pip_position_tr">prawy górny</string>
@@ -88,26 +79,18 @@
     <string name="settings_channel_sort_mode_prov">według listy dostawcy</string>
     <string name="settings_channel_sort_mode_name">nazwa (najpierw ulubione, potem alfabetycznie)</string>
     <string name="settings_run_at_boot">Uruchom aplikację na starcie urządzenia</string>
-
     <string name="hint_title">Wskazówka</string>
     <string name="hint_long_tap">Możesz przeciągnąć element listy, aby uzyskać rozszerzony opis (jeśli dotyczy).</string>
     <string name="hint_fav_sorting">Aplikacja sortuje kanały według częstotliwości oglądania. Kanały oznaczone jako ulubione zawsze będą znajdować się u góry. Możesz wyłączyć automatyczne sortowanie, włączając opcję kolejności kanałów dostawcy, jednak filtr ulubionych nie będzie dostępny.</string>
     <string name="hint_video_codecs">Jeśli źródło źle gra, możesz spróbować zwiększyć rozmiar bufora w ustawieniach, przełączyć do innego dekodera strumieniowego (sprzęt lub oprogramowanie) lub jeśli coś się nie powiedzie, skonfiguruj, aby użyć zewnętrznego odtwarzacza do odtwarzania.</string>
     <string name="hint_auto_turn_off">Możesz skonfigurować automatyczne wyłączanie strumienia po pewnym czasie bezczynności (przydatne w przypadku rozliczeń za minutę). Bezczynność oznacza brak działań gracza (na przykład: menu, szukanie, pauza itp.).</string>
-
     <string name="settings_provider_select_type_intro1">UWAGA: Do korzystania z tej aplikacji potrzebny jest dostawca usług OTT / IPTV.</string>
     <string name="settings_provider_select_type_intro2">Aplikacja działa tylko z listami dostarczonymi przez użytkownika.</string>
     <string name="settings_provider_select_apply">Zastosuj</string>
     <string name="settings_provider_select_return">Powrót</string>
-
     <string name="settings_provider_select_status_error">Błąd konfiguracji. Nie udało się wczytać danych</string>
     <string name="settings_provider_select_status_success">Ustawienie zostało pomyślnie zastosowane</string>
-
-    <string name="settings_provider_select_action_playlist">sprawdzanie poprawności listy odtwarzania</string>
-    <string name="settings_provider_select_action_live">ładowanie kanałów na żywo</string>
-    <string name="settings_provider_select_error_playlist">lista odtwarzania wydaje się nieprawidłowa lub nie zawiera obsługiwanych kanałów</string>
     <string name="settings_provider_select_error_live">nie zawiera obsługiwanych kanałów na żywo. Sprawdź nazwę użytkownika / klucz / hasło / adres URL.</string>
-
     <string name="archive_auto_seek_no">Nie, zacznij od początku</string>
     <string name="future_show_sheet_add_wl_title">Przypomnij mi, aby przejść do kanału</string>
     <string name="future_show_sheet_search_title">Wyszukaj w archiwach</string>
@@ -127,11 +110,9 @@
     <string name="channel_more_hide_desc">Usuń z listy</string>
     <string name="hud_short_volume">Głośność</string>
     <string name="hud_short_bright">Jasność</string>
-
     <string name="settings_provider">Dostawca IPTV</string>
     <string name="settings_media_library">Biblioteka multimediów</string>
     <string name="settings_media_library_dnla">Skanuj źródła UPnP / DNLA w sieci lokalnej</string>
-
     <string name="settings_player">Odtwarzacz</string>
     <string name="settings_player_hide_ui">Ukryj interfejs użytkownika podczas odtwarzania</string>
     <string name="settings_player_resize_mode">Tryb skali wideo</string>
@@ -140,14 +121,11 @@
     <string name="settings_player_resize_mode_zoom">Powiększ do ekranu</string>
     <string name="settings_player_resize_mode_zoom_in">Pomniejsz ekran</string>
     <string name="settings_player_auto_stop_live">Automatyczne wyłączanie emisji w</string>
-
     <string name="settings_extended">Rozszerzone ustawienia</string>
     <string name="settings_extended_hide_adult">Ukryj kategorie dla dorosłych</string>
     <string name="settings_extended_auto_start_last_channel">Automatycznie uruchom ostatnio odtwarzany kanał</string>
     <string name="settings_schedule_epg_reload">Przeładuj dane EPG …</string>
-
     <string name="settings_visual">Styl wizualny</string>
-
     <string name="settings_live_quick_channel_switch_delay">Opóźnienie przed szybkim przełączaniem kanałów</string>
     <string-array name="settings_live_quick_channel_switch_delay_names">
         <item>natychmiast przełącz</item>
@@ -155,7 +133,6 @@
         <item>normalny (2 sekundy na dalszy wybór)</item>
         <item>wolno (5 sekund na dalszy wybór)</item>
     </string-array>
-
     <string name="settings_player_buffer_size">Rozmiar bufora</string>
     <string-array name="settings_player_buffer_size_names">
         <item>Brak bufora (minimalne zużycie pamięci)</item>
@@ -164,9 +141,7 @@
         <item>Duży (słaby internet, słaba jakość strumienia)</item>
         <item>Bardzo duży (wysokie zużycie pamięci, bardzo słaba jakość strumienia)</item>
     </string-array>
-
     <string name="settings_show_clock_in_player_always">Pokaż bieżący czas podczas oglądania</string>
-
     <string name="settings_font_style">Rozmiar czcionki</string>
     <string-array name="settings_font_style_names">
         <item>Mała</item>
@@ -175,22 +150,15 @@
         <item>Olbrzymia</item>
         <item>Giant (może ukryć niektóre opcje wyświetlania)</item>
     </string-array>
-
     <string name="settings_palette_style">Schemat kolorów</string>
-
     <string name="settings_ui_screen_margins">Marginesy ekranu</string>
     <string name="settings_ui_language">Język (jeśli nie jest ustawiony, użyj domyślny)</string>
-
     <string name="settings_codec">Ustawienia kodeków</string>
     <string name="settings_codec_hard">Zawsze używaj kodeków sprzętowych</string>
     <string name="settings_codec_soft_vlc">Zawsze używaj kodeków VLC oprogramowania</string>
     <string name="settings_codec_external">Zawsze korzystaj z odtwarzacza zewnętrznego</string>
-
     <string name="settings_epg">Przewodnik EPG</string>
-
     <string name="settings_external_player">Odtwarzacz zewnętrzny (spróbuj wszystkich domyślnie)</string>
-
-
     <string name="settings_premium">Subskrypcja</string>
     <string name="settings_premium_source_purchase">Zakupiono Premium</string>
     <string name="settings_premium_source_subscription">Subkrybcja Premium</string>
@@ -199,10 +167,8 @@
     <string name="settings_premium_what_included_1">Tryb obrazu w obrazie podczas oglądania transmisji na żywo</string>
     <string name="settings_premium_what_included_3">Automatyczne przełączanie szybkości klatek, aby dopasować wideo</string>
     <string name="settings_premium_what_included_4">Kontrolowanie prędkości odtwarzania w archiwach</string>
-
     <string name="settings_premium_toggles_try_afr">Automatycznie przełącz częstotliwość klatek, aby dopasować wideo</string>
     <string name="settings_premium_toggles_try_afr_toast">Bieżące wyświetlanie obsługiwane częstotliwości odświeżania</string>
-
     <string name="settings_premium_toggle_btn_title">Włącz funkcje premium</string>
     <string name="settings_premium_toggle_btn_sub_add">Subskrybuj</string>
     <string name="settings_premium_toggle_btn_sub_add_desc">Włącz funkcje premium, subskrybując małe płatności cykliczne</string>
@@ -210,7 +176,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">Włącz funkcje premium za pomocą pojedynczej płatności</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Kup pakiet reklam (również we wszystkich pakietach Premium)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Wyłącz reklamy na zawsze za pomocą pojedynczej płatności</string>
-
     <string name="setting_list_view_title">Jak powinny być wyświetlane listy</string>
     <string name="setting_list_view1">prosta lista</string>
     <string name="cfg_play_deny_buffer">Nie pokazuj statusu buforowania</string>
@@ -223,7 +188,6 @@
     <string name="cfg_play_action_title">Ustaw zdalny kontroler</string>
     <string name="cfg_play_action_btn_archive_as_live">Użyj tej samej konfiguracji podczas oglądania archiwów (wyłącza wyszukiwanie za pomocą lewego i prawego przycisku)</string>
     <string name="cfg_trans_wind">Użyj przejrzystego interfejsu</string>
-
     <string name="do_not_show">nie pokazuj</string>
     <string name="android_not_genuine">Subskrybcja może nie działać na Twoim urządzeniu.</string>
     <string name="menu_error_require_status_archive_text">Dane archiwalne nie są jeszcze dostępne. Jeśli jest to opóźnione przez długi czas, oznacza to zazwyczaj, że nie są dostępne żadne dane programu telewizyjnego (EPG). W takim przypadku możesz zaplanować ponowne załadowanie EPG w ustawieniach lub wyszukać lepsze źródła EPG i je skonfigurować.</string>
@@ -245,7 +209,6 @@
     <string name="premium_fea_6">Wyślij strumień do wyświetlacza bezprzewodowego</string>
     <string name="wifi_display">Bezprzewodowy wyświetlacz</string>
     <string name="wifi_display_desc">Odtwórz transmisję na innym urządzeniu</string>
-
     <string name="cfg_play_action_pp">wstrzymać lub wznowić odtwarzanie</string>
     <string name="cfg_play_action_btn_red">Akcja dla czerwonego przycisku</string>
     <string name="cfg_play_action_btn_green">Akcja dla przycisku zielony</string>
@@ -279,12 +242,10 @@
     <string name="cfg_video_retry">Razy, by spróbować ponownie załadować wideo po wystąpieniu błędu</string>
     <string name="cfg_play_action_2live">Przełącz na transmisję na żywo z bieżącego kanału</string>
     <string name="player_menu_2live">Przełącz na żywo</string>
-
     <string name="btn_seek">Szukać</string>
     <string name="cfg_play_action_mseek">Uruchamia widok wyszukiwania wideo</string>
     <string name="menu_exit">Wyjście</string>
     <string name="hint_try_premium_sub_free">Możesz wypróbować abonament raz na kilka dni za darmo, decydując o tym, czy go używać, czy nie. Sprawdź szczegóły pakietów subskrypcji.</string>
-
     <string name="premium_fea_pre_vid">Pokaż wybrany podgląd wideo w opisie</string>
     <string name="vp_audio_shift">Przesunięcie dźwięku</string>
     <string name="vp_audio_shift_desc">Synchronizuj audio z wideo</string>
@@ -322,7 +283,6 @@
     <string name="cfg_no_categories">Użyj listy zwykłych kanałów (bez kategorii)</string>
     <string name="cfg_section_desc">Opis programu</string>
     <string name="cfg_section_lists">Ustawienia wyświetlania</string>
-
     <string name="cfg_no_hints">Nie pokazuj wskazówek</string>
     <string name="child_mode_unlock_cfg">Wprowadź kod podrzędny, aby odblokować ustawienia</string>
     <string name="cfg_child_mode">Tryb dzieciecy</string>
@@ -333,7 +293,6 @@
     <string name="cfg_player_hide_menu">Limit czasu, aby ukryć menu (w sekundach)</string>
     <string name="choose_auto">Wybierz automatycznie</string>
     <string name="cfg_stream_tech">Technologia strumieniowa (jeśli jest dostępna)</string>
-
     <string name="cfg_show_ch_numbers">Pokaż numery kanałów</string>
     <string name="always">zawsze</string>
     <string name="menu_tv_guide">Przewodnik</string>
@@ -359,7 +318,6 @@
     <string name="cfg_codec_exo_q">Jakość kodeków sprzętowych</string>
     <string name="cfg_codec_exo_max">Automatycznie</string>
     <string name="cfg_codec_exo_compat">Tryb zgodności</string>
-
     <string name="suggest_better_prov_tpl">Wydaje się, że jest lepszy szablon dla twojego operatora</string>
     <string name="place_pl_to_downloads">Nie znaleziono prawidłowej listy odtwarzania w plikach do pobrania</string>
     <string name="only_1_active">Premium wymagane, aby mieć kilku aktywnych dostawców w tym samym czasie</string>
@@ -384,7 +342,6 @@
     <string name="ch_manage_status_hidden">ukryty</string>
     <string name="ch_manage_status_child">dziecko</string>
     <string name="show_future_search_in_other">Szukaj w aplikacjach zewnętrznych</string>
-
     <string name="cfg_channel_manager_filters">Filtry</string>
     <string name="menu_suggest_premium">Gotowy do odkrywania ekscytujących funkcji premium?</string>
     <string name="cfg_epg_update_frequency">Częstotliwość aktualizacji (w godzinach)</string>
@@ -402,7 +359,6 @@
     <string name="ask_finish_update">Uruchom ponownie aplikację, aby zaktualizować ją do nowszej wersji?</string>
     <string name="cfg_premium_etc">I wiele innych cennych funkcji</string>
     <string name="cfg_fine_tune_volume">Ręczna regulacja głośności dźwięku (ograniczona przez głośność systemu)</string>
-
     <string name="cfg_arch_unp">Automatycznie otwórz ponownie archiwum podczas rozpakowywania strumienia na żywo</string>
     <string name="cfg_ch_more_epg">Pokaż nazwę kanału większą niż EPG</string>
     <string name="show_menu_add_to_cont_watching">Kontynuuj oglądanie później</string>
@@ -415,7 +371,6 @@
     <string name="btn_provider_attr_epg">Źródło EPG</string>
     <string name="change_pip_size">Zmień rozmiar</string>
     <string name="change_pip_place">Przesuń na ekranie</string>
-
     <string name="only_manually_added">tylko ręcznie dodane</string>
     <string name="check_for_updates">Sprawdź aktualizacje</string>
     <string name="has_updates_starting">Aktualizacja jest dostępna i rozpocznie się wkrótce</string>
@@ -435,7 +390,6 @@
     <string name="pla_menu_type_grid">krata</string>
     <string name="ch_manage_use_internal">Użyj wewnętrznego odtwarzacza</string>
     <string name="cat_manage_start_this_cat_on">Zacznij od tej kategorii</string>
-
     <string name="cfg_show_ch_desc">Pokaż opis transmisji</string>
     <string name="studio_mode_open_in">Otwórz w trybie Studio</string>
     <string name="studio_mode_title">Tryb studyjny</string>
@@ -466,7 +420,7 @@
     <string name="hint_long_ok_menu">Długie naciśnięcie przycisku OK otwiera ekran właściwości w większości przypadków</string>
     <string name="save_state">Zapisz stan</string>
     <string name="restore_state">Przywróć stan</string>
-<string name="pro_studio">Tryb Studio, pozwalający oglądać wiele strumieni jednocześnie</string>
+    <string name="pro_studio">Tryb Studio, pozwalający oglądać wiele strumieni jednocześnie</string>
     <string name="cfg_prov_channel_name">Pokaż nazwę dostawcy w nazwie kanału, gdy korzystasz z wielu dostawców</string>
     <string name="increase_text_size">zwiększyć rozmiar tekstu</string>
     <string name="hint_long_up_down">Długie naciśnięcie strzałek w górę i w dół umożliwia szybszą nawigację po liście</string>
@@ -550,7 +504,7 @@
     <string name="never">nigdy</string>
     <string name="by_default">domyślnie</string>
     <string name="sleep_timer">Wyłącznik czasowy</string>
-<string name="err_need_provider">Wymagany jest dostawca IPTV</string>
+    <string name="err_need_provider">Wymagany jest dostawca IPTV</string>
     <string name="err_need_provider_text">Musisz skonfigurować dostawcę IPTV. Otwórz ustawienia i dodaj swojego dostawcę (lub listę odtwarzania).</string>
     <string name="unlock_premium">Odblokuj funkcje premium</string>
     <string name="about_app">O aplikacji</string>
@@ -647,4 +601,10 @@
     <string name="no_not_show_poster">Nie pokazuj obrazu plakatu</string>
     <string name="duration_to_keep_access">Czas, przez jaki dostęp pozostaje odblokowany</string>
     <string name="disable_vod_genres">Wyłącz gatunki w bibliotece multimediów</string>
+    <string name="delay_before_retrying_video_on_error">Opóźnienie przed ponowną próbą ponownego otwarcia transmisji w przypadku błędu</string>
+    <string name="not_supported_by_device">Nieobsługiwane przez Twoje urządzenie</string>
+    <string name="night_mode">Tryb nocny</string>
+    <string name="editing_is_restricted">Twoja konfiguracja nie pozwala na zarządzanie kanałami</string>
+    <string name="lock_editing">Zablokuj edycję (zabroń zarządzania kanałami)</string>
+    <string name="use_fixed_screen_res">Użyj stałej rozdzielczości ekranu</string>
     </resources>

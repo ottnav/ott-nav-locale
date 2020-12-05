@@ -108,9 +108,6 @@
     <string name="settings_provider_select_status_error">Error de configuración. Error al cargar datos</string>
     <string name="settings_provider_select_status_success">Ajuste aplicado con éxito</string>
 
-    <string name="settings_provider_select_action_playlist">validando la lista de reproducción</string>
-    <string name="settings_provider_select_action_live">cargar canales en vivo</string>
-    <string name="settings_provider_select_error_playlist">la lista de reproducción parece no válida o no contiene canales compatibles</string>
     <string name="settings_provider_select_error_live">no contiene canales en vivo compatibles. Compruebe el nombre de usuario / clave / contraseña / url.</string>
 
     <string name="archive_auto_seek_no">No, mira desde el principio</string>
@@ -652,4 +649,10 @@
     <string name="no_not_show_poster">No mostrar imagen de póster</string>
     <string name="duration_to_keep_access">Duración para mantener el acceso desbloqueado</string>
     <string name="disable_vod_genres">Deshabilitar géneros en la biblioteca multimedia</string>
+    <string name="not_supported_by_device">No es compatible con su dispositivo</string>
+    <string name="delay_before_retrying_video_on_error">Retraso antes de volver a intentar abrir la transmisión en caso de error</string>
+    <string name="night_mode">Modo nocturno</string>
+    <string name="editing_is_restricted">Tu configuración prohíbe la gestión de canales</string>
+    <string name="lock_editing">Bloquear la edición (prohibir la gestión de canales)</string>
+    <string name="use_fixed_screen_res">Usar resolución de pantalla fija</string>
     </resources>

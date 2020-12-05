@@ -89,9 +89,6 @@
     <string name="settings_provider_select_return">Întoarcere</string>
     <string name="settings_provider_select_status_error">Eroare de configurare. Nu a putut încărca datele</string>
     <string name="settings_provider_select_status_success">Setarea a fost aplicată cu succes</string>
-    <string name="settings_provider_select_action_playlist">validarea playlistului</string>
-    <string name="settings_provider_select_action_live">încărcarea canalelor live</string>
-    <string name="settings_provider_select_error_playlist">Lista de redare pare nevalidă sau nu conține canale acceptate</string>
     <string name="settings_provider_select_error_live">nu conține canale live acceptate. Verificați numele de utilizator / cheie / parola / url.</string>
     <string name="archive_auto_seek_no">Nu, veghează de la început</string>
     <string name="future_show_sheet_add_wl_title">Amintește-mi să trec la canal</string>
@@ -583,4 +580,10 @@
     <string name="no_not_show_poster">Nu afișați imaginea posterului</string>
     <string name="duration_to_keep_access">Durata de păstrare a accesului deblocat</string>
     <string name="disable_vod_genres">Dezactivați genurile din biblioteca media</string>
+    <string name="not_supported_by_device">Nu este acceptat de dispozitiv</string>
+    <string name="delay_before_retrying_video_on_error">Întârziți înainte de a reîncerca să redeschideți fluxul în caz de eroare</string>
+    <string name="night_mode">Mod de noapte</string>
+    <string name="editing_is_restricted">Configurația dvs. interzice gestionarea canalelor</string>
+    <string name="lock_editing">Editare blocare (interzice gestionarea canalelor)</string>
+    <string name="use_fixed_screen_res">Utilizați rezoluția fixă ​​a ecranului</string>
     </resources>

@@ -103,9 +103,6 @@
     <string name="settings_provider_select_status_error">Greška konfiguracije. Učitavanje podataka nije uspelo</string>
     <string name="settings_provider_select_status_success">Podešavanje uspešno primenjeno</string>
 
-    <string name="settings_provider_select_action_playlist">potvrđivanje plejliste</string>
-    <string name="settings_provider_select_action_live">učitavanje uživo kanala</string>
-    <string name="settings_provider_select_error_playlist">plejlista je nevažeća ili ne sadrži podržane kanale</string>
     <string name="settings_provider_select_error_live">ne sadrži podržane kanale. Proverite Korisničo ime/Ključ/Lozinku/URL.</string>
 
     <string name="archive_auto_seek_no">Kreni od početka</string>
@@ -646,121 +643,11 @@
     <string name="cfg_prev_n_desc">Колико претходних ТВ емисија треба приказати у опису канала</string>
     <string name="no_not_show_poster">Не приказуј слику постера</string>
     <string name="duration_to_keep_access">Трајање да би приступ био откључан</string>
-    <string name="disable_vod_genres">html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Google преводилац&lt;/title&gt;&lt;meta name="google" content="notranslate"&gt;&lt;link rel="icon" href="//ssl.gstatic.com/translate/favicon.ico" sizes="64x64"&gt;&lt;style nonce="nm3AUz5ohpbr0Ig7iW3ggw"&gt;
-    body {
-      margin: 0;
-    }
-    a:link,
-    a:visited,
-    a:active {
-      color: #1a73e8; /* blue 600 */
-      text-decoration: none;
-    }
-    .root-container {
-      font-family: \'Arial\', sans-serif;
-    }
-    .root-container.isRtl {
-      direction: rtl;
-    }
-    .header {
-      background-color: #fff;
-      border-bottom: 1px solid #dadce0; /* grey 300 */
-      box-sizing: border-box;
-      color: #5f6368; /* grey 700 */
-      font-size: 18px;
-      line-height: 21px;
-      padding: 14px 16px;
-    }
-    .logo-image {
-      background-image: url(\'https://ssl.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_68x28px.svg\');
-      background-repeat: no-repeat;
-      height: 48px;
-      width: 68px;
-      position: absolute;
-    }
-    .logo-text {
-      margin-left: 72px;
-      margin-right: 76px;
-      margin-top: 2px;
-    }
-  
-    body {
-      background-color: #f1f3f4; /* grey 100 */
-    }
-    .languages-container {
-      background-color: #fff;
-      border-bottom: 1px solid #dadce0; /* grey 300 */
-      box-sizing: border-box;
-      color: #3c4043; /* grey 800 */
-      font-size: 14px;
-      height: 48px;
-      padding: 14px 16px;
-    }
-    .sl-and-tl {
-      display: inline-block;
-    }
-    .swap-container {
-      float: right;
-    }
-    .root-container.isRtl .swap-container {
-      float: left;
-    }
-    .input-container {
-      background-color: #fff;
-      box-shadow:
-        0px -1px 5px rgba(128, 134, 139, 0.09),
-        0px 3px 5px rgba(128, 134, 139, 0.06),
-        0px 1px 2px rgba(60, 64, 67, 0.3),
-        0px 1px 3px rgba(60, 64, 67, 0.15);
-    }
-    .input-field {
-      border: 0;
-      color: #3c4043; /* grey 800 */
-      font-size: 18px;
-      line-height: 24px;
-      padding: 18px 16px;
-      width: 100%;
-    }
-    .translate-button-container {
-      padding: 16px;
-      text-align: right;
-    }
-    .root-container.isRtl .translate-button-container {
-      text-align: left;
-    }
-    .translate-button {
-      background: #1a73e8; /* blue 600 */
-      border-radius: 4px;
-      color: #fff;
-      font-size: 14px;
-      line-height: 20px;
-      padding: 8px 16px;
-    }
-    .result-container {
-      background: #1a73e8; /* blue 600 */
-      box-shadow:
-        0px -1px 5px rgba(128, 134, 139, 0.09),
-        0px 3px 5px rgba(128, 134, 139, 0.06),
-        0px 1px 2px rgba(60, 64, 67, 0.3),
-        0px 1px 3px rgba(60, 64, 67, 0.15);
-      color: #fff;
-      font-size: 18px;
-      line-height: 24px;
-      margin-bottom: 50px;
-      padding: 16px 16px 40px 16px;
-    }
-    .links-container a {
-      color: #1967d2; /* blue 700 */
-    }
-    .links-container ul {
-      font-size: 12px;
-      line-height: 16px;
-      list-style-type: none;
-      margin: 16px;
-      padding: 0;
-    }
-    .links-container ul li {
-      margin-bottom: 16px;
-    }
-  &lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="root-container"&gt;&lt;div class="header"&gt;&lt;div class="logo-image"&gt;&lt;/div&gt;&lt;div class="logo-text"&gt;Преведи&lt;/div&gt;&lt;/div&gt;&lt;div class="languages-container"&gt;&lt;div class="sl-and-tl"&gt;&lt;a href="./m?sl=en&amp;tl=sr&amp;q=Disable%20genres%20in%20media%20library&amp;mui=sl&amp;hl=sr"&gt;енглески&lt;/a&gt; → &lt;a href="./m?sl=en&amp;tl=sr&amp;q=Disable%20genres%20in%20media%20library&amp;mui=tl&amp;hl=sr"&gt;српски&lt;/a&gt;&lt;/div&gt;&lt;div class="swap-container"&gt;&lt;a href="./m?sl=sr&amp;tl=en&amp;q=%D0%9E%D0%BD%D0%B5%D0%BC%D0%BE%D0%B3%D1%83%D1%9B%D0%B8%20%D0%B6%D0%B0%D0%BD%D1%80%D0%BE%D0%B2%D0%B5%20%D1%83%20%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D1%86%D0%B8%20%D0%BC%D0%B5%D0%B4%D0%B8%D1%98%D0%B0&amp;hl=sr"&gt;Замени&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="input-container"&gt;&lt;form action="/m"&gt;&lt;input type="hidden" name="sl" value="en"&gt;&lt;input type="hidden" name="tl" value="sr"&gt;&lt;input type="hidden" name="hl" value="sr"&gt;&lt;input type="text" aria-label="Изворни текст" name="q" class="input-field" maxlength="2048" value="Disable genres in media library"&gt;&lt;div class="translate-button-container"&gt;&lt;input type="submit" value="Преведи" class="translate-button"&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class="result-container"&gt;Онемогући жанрове у библиотеци медија&lt;/div&gt;&lt;div class="links-container"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.google.com/m?hl=sr"&gt;Google почетна&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.google.com/tools/feedback/survey/xhtml?productId=95112&amp;hl=sr"&gt;Пошаљи повратне информације&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.google.com/intl/sr/policies"&gt;Приватност и услови&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="./full"&gt;Пређи на цео сајт&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html</string>
+    <string name="not_supported_by_device">Ваш уређај не подржава</string>
+    <string name="delay_before_retrying_video_on_error">Одложите пре поновног покушаја да бисте поново отворили ток грешке</string>
+    <string name="disable_vod_genres">Онемогући жанрове у библиотеци медија</string>
+    <string name="night_mode">Ноћни режим</string>
+    <string name="editing_is_restricted">Ваша конфигурација забрањује управљање каналима</string>
+    <string name="lock_editing">Уређивање закључавања (забранити управљање каналом)</string>
+    <string name="use_fixed_screen_res">Користите фиксну резолуцију екрана</string>
     </resources>

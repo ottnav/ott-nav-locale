@@ -1,4 +1,5 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="en">
     <string name="press_back_once_more_to_exit">Press once more to exit</string>
 
     <string name="search_bar">Search by channels or programs</string>
@@ -103,9 +104,6 @@
     <string name="settings_provider_select_status_error">Configuration error. Failed to load data</string>
     <string name="settings_provider_select_status_success">Setting applied successfully</string>
 
-    <string name="settings_provider_select_action_playlist">validating playlist</string>
-    <string name="settings_provider_select_action_live">loading live channels</string>
-    <string name="settings_provider_select_error_playlist">playlist seems invalid or contains no supported channels</string>
     <string name="settings_provider_select_error_live">contains no supported live channels. Check username/key/password/url.</string>
 
     <string name="archive_auto_seek_no">Start from the beginning</string>
@@ -647,4 +645,10 @@
     <string name="no_not_show_poster">Do not show poster image</string>
     <string name="duration_to_keep_access">Duration to keep access unlocked</string>
     <string name="disable_vod_genres">Disable genres in media library</string>
+    <string name="not_supported_by_device">Not supported by your device</string>
+    <string name="delay_before_retrying_video_on_error">Delay before retrying to reopen stream on error</string>
+    <string name="night_mode">Night mode</string>
+    <string name="editing_is_restricted">Your configuration prohibits managing channels</string>
+    <string name="lock_editing">Lock editing (prohibit channel management)</string>
+    <string name="use_fixed_screen_res">Use fixed screen resolution</string>
 </resources>

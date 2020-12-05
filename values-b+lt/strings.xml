@@ -111,9 +111,6 @@
     <string name="settings_provider_select_status_error">Nustatymų klaida. Nepavyko parsisiųsti duomenų.</string>
     <string name="settings_provider_select_status_success">Nustatymai priimti sėkmingai.</string>
 
-    <string name="settings_provider_select_action_playlist">tikrinamas grojaraštis</string>
-    <string name="settings_provider_select_action_live">gaunami tiesioginio žiūrėjimo kanalai</string>
-    <string name="settings_provider_select_error_playlist">grojaraštis su klaidomis arba nepalaikomas formatas. Patikrinkite vartotojo vardą/slaptažodį/raktą/nuorodą.</string>
     <string name="settings_provider_select_error_live">grojaraštis nepalaiko tiesioginių kanalų</string>
 
     <string name="archive_auto_seek_no">Ne, žiūrėti iš pradžių</string>
@@ -658,4 +655,10 @@
     <string name="no_not_show_poster">Nerodyti plakato atvaizdo</string>
     <string name="duration_to_keep_access">Trukmė, kad prieiga būtų atrakinta</string>
     <string name="disable_vod_genres">Išjungti žanrus medijos bibliotekoje</string>
+    <string name="not_supported_by_device">Nepalaiko jūsų įrenginys</string>
+    <string name="delay_before_retrying_video_on_error">Vėluokite prieš bandydami iš naujo atidaryti srautą per klaidą</string>
+    <string name="night_mode">Nakties rėžimas</string>
+    <string name="editing_is_restricted">Pagal konfigūraciją draudžiama tvarkyti kanalus</string>
+    <string name="lock_editing">Užrakinti redagavimą (uždrausti kanalo valdymą)</string>
+    <string name="use_fixed_screen_res">Naudokite fiksuotą ekrano skiriamąją gebą</string>
     </resources>

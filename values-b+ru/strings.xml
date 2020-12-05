@@ -103,9 +103,6 @@
     <string name="settings_provider_select_status_error">Ошибка настройки. Не получилось подгрузить данные</string>
     <string name="settings_provider_select_status_success">Настройка успешно применена</string>
 
-    <string name="settings_provider_select_action_playlist">валидируется плейлист</string>
-    <string name="settings_provider_select_action_live">грузятся каналы прямого эфира</string>
-    <string name="settings_provider_select_error_playlist">плейлист неверен или не содержит поддерживаемые каналы. Проверьте пользователя/ключ/пароль/ссылку.</string>
     <string name="settings_provider_select_error_live">не содержит поддерживаемые каналы</string>
 
     <string name="archive_auto_seek_no">Смотреть сначала</string>
@@ -647,4 +644,10 @@
     <string name="no_not_show_poster">Не показывать изображение плаката</string>
     <string name="duration_to_keep_access">Продолжительность, чтобы доступ был разблокирован</string>
     <string name="disable_vod_genres">Отключить жанры в медиатеке</string>
+    <string name="not_supported_by_device">Не поддерживается вашим устройством</string>
+    <string name="delay_before_retrying_video_on_error">Задержка перед повторной попыткой открытия потока в случае ошибки</string>
+    <string name="night_mode">Ночной режим</string>
+    <string name="editing_is_restricted">Ваша конфигурация запрещает управление каналами</string>
+    <string name="lock_editing">Заблокировать редактирование (запретить управление каналами)</string>
+    <string name="use_fixed_screen_res">Использовать фиксированное разрешение экрана</string>
     </resources>

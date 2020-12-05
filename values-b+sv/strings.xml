@@ -90,9 +90,6 @@
     <string name="settings_provider_select_return">Lämna tillbaka</string>
     <string name="settings_provider_select_status_error">Konfigurationsfel. Det gick inte att ladda data</string>
     <string name="settings_provider_select_status_success">Inställningen tillämpades framgångsrikt</string>
-    <string name="settings_provider_select_action_playlist">validera spellista</string>
-    <string name="settings_provider_select_action_live">laddar live kanaler</string>
-    <string name="settings_provider_select_error_playlist">spellistan verkar ogiltig eller innehåller inga kanaler som stöds</string>
     <string name="settings_provider_select_error_live">innehåller inga stöttade livekanaler. Kontrollera användarnamn / nyckel / lösenord / url.</string>
     <string name="archive_auto_seek_no">Nej, se från början</string>
     <string name="future_show_sheet_add_wl_title">Påminn mig att växla till kanalen</string>
@@ -584,4 +581,7 @@
     <string name="no_not_show_poster">Visa inte affischbild</string>
     <string name="duration_to_keep_access">Längd för att hålla åtkomsten olåst</string>
     <string name="disable_vod_genres">Inaktivera genrer i mediebiblioteket</string>
+    <string name="not_supported_by_device">Stöds inte av din enhet</string>
+    <string name="delay_before_retrying_video_on_error">Fördröja innan du försöker återöppna strömmen vid fel</string>
+    <string name="night_mode">Nattläge</string>
     </resources>

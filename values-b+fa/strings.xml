@@ -108,9 +108,6 @@
     <string name="settings_provider_select_status_error">خطای پیکربندی داده بارگیری نشد</string>
     <string name="settings_provider_select_status_success">تنظیم با موفقیت انجام شد</string>
 
-    <string name="settings_provider_select_action_playlist">اعتبار لیست پخش</string>
-    <string name="settings_provider_select_action_live">بارگیری کانال های زنده</string>
-    <string name="settings_provider_select_error_playlist">لیست پخش نامعتبر است یا شامل هیچ کانال پشتیبانی نیست</string>
     <string name="settings_provider_select_error_live">شامل هیچ کانال زنده پشتیبانی نمی شود نام کاربری / کلید / رمز عبور / URL را بررسی کنید.</string>
 
     <string name="archive_auto_seek_no">نه، از ابتدا تماشا کنید</string>
@@ -654,4 +651,10 @@
     <string name="no_not_show_poster">تصویر پوستر نشان داده نشود</string>
     <string name="duration_to_keep_access">مدت زمان برای قفل کردن دسترسی</string>
     <string name="disable_vod_genres">ژانرها را در کتابخانه رسانه غیرفعال کنید</string>
+    <string name="not_supported_by_device">توسط دستگاه شما پشتیبانی نمی شود</string>
+    <string name="delay_before_retrying_video_on_error">تأخیر قبل از تلاش مجدد برای بازگشایی جریان با خطا</string>
+    <string name="night_mode">حالت شب</string>
+    <string name="editing_is_restricted">پیکربندی شما مدیریت کانال ها را منع می کند</string>
+    <string name="lock_editing">ویرایش قفل (منع مدیریت کانال)</string>
+    <string name="use_fixed_screen_res">از وضوح صفحه نمایش ثابت استفاده کنید</string>
     </resources>

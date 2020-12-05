@@ -108,9 +108,6 @@
     <string name="settings_provider_select_status_error">Kesilapan konfigurasi. Gagal memuatkan data</string>
     <string name="settings_provider_select_status_success">Menetapkan diterapkan dengan jayanya</string>
 
-    <string name="settings_provider_select_action_playlist">mengesahkan senarai main</string>
-    <string name="settings_provider_select_action_live">memuatkan saluran langsung</string>
-    <string name="settings_provider_select_error_playlist">senarai main yang tidak sah atau tidak mengandungi saluran yang disokong</string>
     <string name="settings_provider_select_error_live">tidak mengandungi saluran live yang disokong. Semak nama pengguna / kunci / kata laluan / url.</string>
 
     <string name="archive_auto_seek_no">Tidak, menonton dari awal</string>
@@ -652,121 +649,8 @@
     <string name="cfg_prev_n_desc">Berapa banyak rancangan tv sebelumnya untuk dipaparkan dalam perihalan saluran</string>
     <string name="no_not_show_poster">Jangan tunjukkan gambar poster</string>
     <string name="duration_to_keep_access">Tempoh untuk memastikan akses tidak terkunci</string>
-    <string name="disable_vod_genres">html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Google Terjemah&lt;/title&gt;&lt;meta name="google" content="notranslate"&gt;&lt;link rel="icon" href="//ssl.gstatic.com/translate/favicon.ico" sizes="64x64"&gt;&lt;style nonce="JKMF0PJtu3IIZ1hgsoxxhw"&gt;
-    body {
-      margin: 0;
-    }
-    a:link,
-    a:visited,
-    a:active {
-      color: #1a73e8; /* blue 600 */
-      text-decoration: none;
-    }
-    .root-container {
-      font-family: \'Arial\', sans-serif;
-    }
-    .root-container.isRtl {
-      direction: rtl;
-    }
-    .header {
-      background-color: #fff;
-      border-bottom: 1px solid #dadce0; /* grey 300 */
-      box-sizing: border-box;
-      color: #5f6368; /* grey 700 */
-      font-size: 18px;
-      line-height: 21px;
-      padding: 14px 16px;
-    }
-    .logo-image {
-      background-image: url(\'https://ssl.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_68x28px.svg\');
-      background-repeat: no-repeat;
-      height: 48px;
-      width: 68px;
-      position: absolute;
-    }
-    .logo-text {
-      margin-left: 72px;
-      margin-right: 76px;
-      margin-top: 2px;
-    }
-  
-    body {
-      background-color: #f1f3f4; /* grey 100 */
-    }
-    .languages-container {
-      background-color: #fff;
-      border-bottom: 1px solid #dadce0; /* grey 300 */
-      box-sizing: border-box;
-      color: #3c4043; /* grey 800 */
-      font-size: 14px;
-      height: 48px;
-      padding: 14px 16px;
-    }
-    .sl-and-tl {
-      display: inline-block;
-    }
-    .swap-container {
-      float: right;
-    }
-    .root-container.isRtl .swap-container {
-      float: left;
-    }
-    .input-container {
-      background-color: #fff;
-      box-shadow:
-        0px -1px 5px rgba(128, 134, 139, 0.09),
-        0px 3px 5px rgba(128, 134, 139, 0.06),
-        0px 1px 2px rgba(60, 64, 67, 0.3),
-        0px 1px 3px rgba(60, 64, 67, 0.15);
-    }
-    .input-field {
-      border: 0;
-      color: #3c4043; /* grey 800 */
-      font-size: 18px;
-      line-height: 24px;
-      padding: 18px 16px;
-      width: 100%;
-    }
-    .translate-button-container {
-      padding: 16px;
-      text-align: right;
-    }
-    .root-container.isRtl .translate-button-container {
-      text-align: left;
-    }
-    .translate-button {
-      background: #1a73e8; /* blue 600 */
-      border-radius: 4px;
-      color: #fff;
-      font-size: 14px;
-      line-height: 20px;
-      padding: 8px 16px;
-    }
-    .result-container {
-      background: #1a73e8; /* blue 600 */
-      box-shadow:
-        0px -1px 5px rgba(128, 134, 139, 0.09),
-        0px 3px 5px rgba(128, 134, 139, 0.06),
-        0px 1px 2px rgba(60, 64, 67, 0.3),
-        0px 1px 3px rgba(60, 64, 67, 0.15);
-      color: #fff;
-      font-size: 18px;
-      line-height: 24px;
-      margin-bottom: 50px;
-      padding: 16px 16px 40px 16px;
-    }
-    .links-container a {
-      color: #1967d2; /* blue 700 */
-    }
-    .links-container ul {
-      font-size: 12px;
-      line-height: 16px;
-      list-style-type: none;
-      margin: 16px;
-      padding: 0;
-    }
-    .links-container ul li {
-      margin-bottom: 16px;
-    }
-  &lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class="root-container"&gt;&lt;div class="header"&gt;&lt;div class="logo-image"&gt;&lt;/div&gt;&lt;div class="logo-text"&gt;Terjemah&lt;/div&gt;&lt;/div&gt;&lt;div class="languages-container"&gt;&lt;div class="sl-and-tl"&gt;&lt;a href="./m?sl=en&amp;tl=en&amp;q=Disable%20genres%20in%20media%20library&amp;mui=sl&amp;hl=ms"&gt;Inggeris&lt;/a&gt; → &lt;a href="./m?sl=en&amp;tl=en&amp;q=Disable%20genres%20in%20media%20library&amp;mui=tl&amp;hl=ms"&gt;Inggeris&lt;/a&gt;&lt;/div&gt;&lt;div class="swap-container"&gt;&lt;a href="./m?sl=en&amp;tl=en&amp;q=Disable%20genres%20in%20media%20library&amp;hl=ms"&gt;Tukar&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="input-container"&gt;&lt;form action="/m"&gt;&lt;input type="hidden" name="sl" value="en"&gt;&lt;input type="hidden" name="tl" value="en"&gt;&lt;input type="hidden" name="hl" value="ms"&gt;&lt;input type="text" aria-label="Teks sumber" name="q" class="input-field" maxlength="2048" value="Disable genres in media library"&gt;&lt;div class="translate-button-container"&gt;&lt;input type="submit" value="Terjemah" class="translate-button"&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;&lt;div class="result-container"&gt;Disable genres in media library&lt;/div&gt;&lt;div class="links-container"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.google.com/m?hl=ms"&gt;Laman utama Google&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.google.com/tools/feedback/survey/xhtml?productId=95112&amp;hl=ms"&gt;Hantar maklum balas&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.google.com/intl/ms/policies"&gt;Privasi dan syarat&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="./full"&gt;Tukar kepada tapak penuh&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html</string>
+    <string name="not_supported_by_device">Tidak disokong oleh peranti anda</string>
+    <string name="delay_before_retrying_video_on_error">Kelewatan sebelum mencuba untuk membuka semula aliran jika berlaku kesilapan</string>
+    <string name="disable_vod_genres">Lumpuhkan genre di perpustakaan media</string>
+    <string name="night_mode">Mod malam</string>
     </resources>

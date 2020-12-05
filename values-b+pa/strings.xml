@@ -108,9 +108,6 @@
     <string name="settings_provider_select_status_error">ਸੰਰਚਨਾ ਗਲਤੀ. ਡਾਟਾ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
     <string name="settings_provider_select_status_success">ਸੈੱਟ ਕਰਨਾ ਸਫਲਤਾਪੂਰਵਕ ਲਾਗੂ ਕੀਤਾ ਗਿਆ</string>
 
-    <string name="settings_provider_select_action_playlist">ਪਲੇਲਿਸਟ ਪ੍ਰਮਾਣਿਤ</string>
-    <string name="settings_provider_select_action_live">ਲਾਈਵ ਚੈਨਲ ਲੋਡ ਕਰ ਰਿਹਾ ਹੈ</string>
-    <string name="settings_provider_select_error_playlist">ਪਲੇਲਿਸਟ ਅਯੋਗ ਜਾਪਦੀ ਹੈ ਜਾਂ ਕੋਈ ਸਮਰਥਿਤ ਚੈਨਲ ਨਹੀਂ ਹੁੰਦੇ ਹਨ</string>
     <string name="settings_provider_select_error_live">ਵਿੱਚ ਕੋਈ ਸਮਰਥਿਤ ਲਾਈਵ ਚੈਨਲਾਂ ਨਹੀਂ ਹਨ ਉਪਭੋਗਤਾ ਨਾਮ / ਕੁੰਜੀ / ਪਾਸਵਰਡ / url ਨੂੰ ਚੈਕ ਕਰੋ.</string>
 
     <string name="archive_auto_seek_no">ਨਹੀਂ, ਸ਼ੁਰੂ ਤੋਂ ਦੇਖੋ</string>
@@ -652,4 +649,10 @@
     <string name="no_not_show_poster">ਪੋਸਟਰ ਚਿੱਤਰ ਨਾ ਦਿਖਾਓ</string>
     <string name="duration_to_keep_access">ਪਹੁੰਚ ਨੂੰ ਅਣ-ਲਾੱਕ ਰੱਖਣ ਦੀ ਮਿਆਦ</string>
     <string name="disable_vod_genres">ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ ਵਿਚ ਸ਼ੈਲੀਆਂ ਨੂੰ ਅਯੋਗ ਕਰੋ</string>
+    <string name="not_supported_by_device">ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਦੁਆਰਾ ਸਮਰਥਤ ਨਹੀਂ ਹੈ</string>
+    <string name="delay_before_retrying_video_on_error">ਗਲਤੀ ਤੇ ਸਟ੍ਰੀਮ ਨੂੰ ਦੁਬਾਰਾ ਖੋਲ੍ਹਣ ਲਈ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਦੇਰੀ ਕਰੋ</string>
+    <string name="night_mode">ਰਾਤ ਦਾ ਮੋਡ</string>
+    <string name="editing_is_restricted">ਤੁਹਾਡੀ ਕੌਂਫਿਗਰੇਸ਼ਨ ਵਿੱਚ ਚੈਨਲਾਂ ਦੇ ਪ੍ਰਬੰਧਨ ਦੀ ਮਨਾਹੀ ਹੈ</string>
+    <string name="lock_editing">ਲੌਕ ਸੰਪਾਦਨ (ਚੈਨਲ ਪ੍ਰਬੰਧਨ ਦੀ ਮਨਾਹੀ)</string>
+    <string name="use_fixed_screen_res">ਫਿਕਸਡ ਸਕ੍ਰੀਨ ਰੈਜ਼ੋਲਿ .ਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     </resources>

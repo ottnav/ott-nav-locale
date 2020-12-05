@@ -108,9 +108,6 @@
     <string name="settings_provider_select_status_error">Erreur de configuration. Échec du chargement des données</string>
     <string name="settings_provider_select_status_success">Paramètre appliqué avec succès</string>
 
-    <string name="settings_provider_select_action_playlist">Validation de la playlist</string>
-    <string name="settings_provider_select_action_live">Chargement des chaînes en direct</string>
-    <string name="settings_provider_select_error_playlist">La liste de lecture semble invalide ou ne contient aucun canal pris en charge</string>
     <string name="settings_provider_select_error_live">Ne contient aucun canal live pris en charge. Vérifiez le nom d\'utilisateur / clé / mot de passe / URL.</string>
 
     <string name="archive_auto_seek_no">Non, je veux regarder depuis le début</string>
@@ -652,4 +649,10 @@
     <string name="no_not_show_poster">Ne pas afficher l\'image de l\'affiche</string>
     <string name="duration_to_keep_access">Durée pour garder l\'accès déverrouillé</string>
     <string name="disable_vod_genres">Désactiver les genres dans la bibliothèque multimédia</string>
+    <string name="not_supported_by_device">Non pris en charge par votre appareil</string>
+    <string name="delay_before_retrying_video_on_error">Délai avant de réessayer de rouvrir le flux en cas d\'erreur</string>
+    <string name="night_mode">Mode nuit</string>
+    <string name="editing_is_restricted">Votre configuration interdit la gestion des canaux</string>
+    <string name="lock_editing">Verrouiller l\'édition (interdire la gestion des chaînes)</string>
+    <string name="use_fixed_screen_res">Utiliser une résolution d\'écran fixe</string>
     </resources>

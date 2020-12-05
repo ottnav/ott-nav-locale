@@ -109,9 +109,6 @@
     <string name="settings_provider_select_status_error">خطأ في تكوين. فشل تحميل البيانات</string>
     <string name="settings_provider_select_status_success">تم تطبيق الإعداد بنجاح</string>
 
-    <string name="settings_provider_select_action_playlist">التحقق من قائمة التشغيل</string>
-    <string name="settings_provider_select_action_live">تحميل قنوات حية</string>
-    <string name="settings_provider_select_error_playlist">قائمة التشغيل تبدو غير صالحة أو لا تحتوي على قنوات مدعومة</string>
     <string name="settings_provider_select_error_live">لا يحتوي على قنوات حية مدعومة. تحقق من اسم المستخدم / مفتاح / كلمة المرور / رابط.</string>
 
     <string name="archive_auto_seek_no">لا ، شاهد من البداية</string>
@@ -653,4 +650,10 @@
     <string name="no_not_show_poster">لا تظهر صورة الملصق</string>
     <string name="duration_to_keep_access">مدة استمرار الوصول غير مقفل</string>
     <string name="disable_vod_genres">تعطيل الأنواع في مكتبة الوسائط</string>
+    <string name="not_supported_by_device">لا يدعمه جهازك</string>
+    <string name="delay_before_retrying_video_on_error">تأخر قبل إعادة المحاولة لإعادة فتح البث عند حدوث خطأ</string>
+    <string name="night_mode">وضع الليل</string>
+    <string name="editing_is_restricted">التكوين الخاص بك يمنع إدارة القنوات</string>
+    <string name="lock_editing">تحرير القفل (حظر إدارة القناة)</string>
+    <string name="use_fixed_screen_res">استخدم دقة الشاشة الثابتة</string>
     </resources>

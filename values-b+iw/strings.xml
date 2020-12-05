@@ -108,9 +108,6 @@
     <string name="settings_provider_select_status_error">שגיאת תצורה. טעינת הנתונים נכשלה</string>
     <string name="settings_provider_select_status_success">ההגדרה הוחלה בהצלחה</string>
 
-    <string name="settings_provider_select_action_playlist">אימות רשימת השמעה - -</string>
-    <string name="settings_provider_select_action_live">טוען ערוצים חיים - -</string>
-    <string name="settings_provider_select_error_playlist">פלייליסט נראה לא חוקי או שאינו מכיל ערוצים נתמכים</string>
     <string name="settings_provider_select_error_live">לא מכיל ערוצים חיים נתמכים. בדוק שם משתמש / מפתח / סיסמה / כתובת אתר.</string>
 
     <string name="archive_auto_seek_no">לא, תראה מההתחלה</string>
@@ -652,4 +649,7 @@
     <string name="no_not_show_poster">אל תציג תמונת פוסטר</string>
     <string name="duration_to_keep_access">משך זמן הנעילה</string>
     <string name="disable_vod_genres">השבת ז\'אנרים בספריית המדיה</string>
+    <string name="not_supported_by_device">לא נתמך על ידי המכשיר שלך</string>
+    <string name="delay_before_retrying_video_on_error">השהה לפני שתנסה שוב לפתוח את הזרם בשגיאה</string>
+    <string name="night_mode">מצב לילה</string>
     </resources>

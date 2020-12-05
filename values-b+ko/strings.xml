@@ -108,9 +108,6 @@
     <string name="settings_provider_select_status_error">구성 오류. 데이터를로드하지 못했습니다.</string>
     <string name="settings_provider_select_status_success">설정이 성공적으로 적용되었습니다.</string>
 
-    <string name="settings_provider_select_action_playlist">유효성 검사 재생 목록</string>
-    <string name="settings_provider_select_action_live">라이브 채널로드 중</string>
-    <string name="settings_provider_select_error_playlist">재생 목록이 잘못되었거나 지원되는 채널이 없습니다.</string>
     <string name="settings_provider_select_error_live">지원되는 라이브 채널이 없습니다. 사용자 이름 / 키 / 비밀번호 / URL을 확인하십시오.</string>
 
     <string name="archive_auto_seek_no">아니, 처음부터보기</string>
@@ -654,4 +651,10 @@
     <string name="no_not_show_poster">포스터 이미지 표시 안함</string>
     <string name="duration_to_keep_access">액세스를 잠금 해제 상태로 유지하는 기간</string>
     <string name="disable_vod_genres">미디어 라이브러리에서 장르 비활성화</string>
+    <string name="delay_before_retrying_video_on_error">오류시 스트림을 다시 열기 전에 지연</string>
+    <string name="not_supported_by_device">장치에서 지원되지 않음</string>
+    <string name="night_mode">야간 모드</string>
+    <string name="editing_is_restricted">구성으로 인해 채널 관리가 금지됩니다.</string>
+    <string name="lock_editing">편집 잠금 (채널 관리 금지)</string>
+    <string name="use_fixed_screen_res">고정 화면 해상도 사용</string>
     </resources>
