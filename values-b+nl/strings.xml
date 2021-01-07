@@ -170,7 +170,6 @@
     <string name="cfg_trans_wind">Gebruik transparante interface</string>
     <string name="do_not_show">niet laten zien</string>
     <string name="android_not_genuine">Aankopen werken mogelijk niet op uw apparaat.</string>
-    <string name="menu_error_require_status_archive_text">Archiefgegevens zijn nog niet beschikbaar. Als dit lange tijd wordt uitgesteld, betekent dit meestal dat er geen tv-programmagegevens (EPG) beschikbaar zijn. In dit geval kunt u de EPG herladen bij Instellingen of vervangen door betere EPG bronnen.</string>
     <string name="spread_title">Ben je tevreden over deze app? Vertel het verder!</string>
     <string name="spread_btn_rate">Beoordeel app met vijf sterren</string>
     <string name="spread_btn_share">Deel de app-link met een vriend</string>
@@ -210,7 +209,6 @@
     <string name="cfg_play_action_unbind">niet verwerken (systeemgedrag behouden)</string>
     <string name="settings_codec_auto">standaard codec voor provider</string>
     <string name="cfg_ign_last_codec">onthoud de laatste codec die werd gebruikt om een kanaal af te spelen</string>
-    <string name="btn_schedule_epg">EPG schema herladen</string>
     <string name="err_archive_is_shorter">Het archief voor dit kanaal heeft een kortere levensduur bij uw provider</string>
     <string name="cfg_section_backup">back-up en herstellen</string>
     <string name="btn_backup_info">Back-up wordt opgeslagen met een sleutel. Schrijf het op zodra de back-up is voltooid. Er is geen garantie hoe lang de back-up beschikbaar zal zijn.</string>
@@ -576,7 +574,7 @@
     <string name="future_show_sheet_autoswitch_wl">Schakel automatisch over naar het kanaal wanneer het live is</string>
     <string name="reuse_cache_for_quick_start">Hergebruik de cache voor een snelle start van de app vanaf de vorige lancering (werkt mogelijk niet correct voor sommige providers)</string>
     <string name="use_spacing_between_elem">Gebruik afstand tussen elementen</string>
-<string name="wait_for_network_live">Wacht tot de netwerkverbinding actief is</string>
+    <string name="wait_for_network_live">Wacht tot de netwerkverbinding actief is</string>
     <string name="cfg_prev_n_desc">Hoeveel eerdere tv-shows moeten worden weergegeven in de kanaalbeschrijving</string>
     <string name="no_not_show_poster">Toon geen posterafbeelding</string>
     <string name="duration_to_keep_access">Duur om toegang ontgrendeld te houden</string>
@@ -584,4 +582,15 @@
     <string name="not_supported_by_device">Niet ondersteund door uw apparaat</string>
     <string name="delay_before_retrying_video_on_error">Vertraging voordat opnieuw wordt geprobeerd de stream opnieuw te openen bij fout</string>
     <string name="night_mode">Nachtstand</string>
+    <string name="editing_is_restricted">Uw configuratie verbiedt het beheren van kanalen</string>
+    <string name="lock_editing">Bewerken vergrendelen (kanaalbeheer verbieden)</string>
+    <string name="use_fixed_screen_res">Gebruik een vaste schermresolutie</string>
+    <string name="use_local_ch_numbers">Gebruik kanaalpositie in categorie als kanaalnummer</string>
+    <string name="check_faq">Raadpleeg FAQ voor de mogelijke oplossingen voor uw probleem.</string>
+<string name="arch_ask_leave_cfg">Vraag bij het verlaten van het afspelen van gearchiveerde video</string>
+    <string name="arch_ask_leave_ask">Wilt u het afspelen van archiefvideo stopzetten?</string>
+    <string name="compact_list">compacte lijst</string>
+    <string name="lock_settings">Beperk de toegang tot app-instellingen</string>
+    <string name="mass_hide_offer">Wil je ook de zichtbaarheid van andere elementen veranderen?</string>
+    <string name="mass_hide_header">Zichtbare entiteiten</string>
     </resources>

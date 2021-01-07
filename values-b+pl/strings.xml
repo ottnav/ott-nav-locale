@@ -30,7 +30,7 @@
     <string name="category_desc_tv_channel">kanał TV</string>
     <string name="category_desc_from_fav">tylko treść z ulubionych kanałów</string>
     <string name="in_1_minute">za 1 minutę</string>
-    <string name="in_n_minutes">w 10 minut</string>
+    <string name="in_n_minutes">za 10 minut</string>
     <string name="player_episode_details_season">pora roku</string>
     <string name="player_episode_details_series">epizod</string>
     <string name="player_warn_turn_off">Wyłącza się</string>
@@ -190,7 +190,6 @@
     <string name="cfg_trans_wind">Użyj przejrzystego interfejsu</string>
     <string name="do_not_show">nie pokazuj</string>
     <string name="android_not_genuine">Subskrybcja może nie działać na Twoim urządzeniu.</string>
-    <string name="menu_error_require_status_archive_text">Dane archiwalne nie są jeszcze dostępne. Jeśli jest to opóźnione przez długi czas, oznacza to zazwyczaj, że nie są dostępne żadne dane programu telewizyjnego (EPG). W takim przypadku możesz zaplanować ponowne załadowanie EPG w ustawieniach lub wyszukać lepsze źródła EPG i je skonfigurować.</string>
     <string name="spread_title">Podobnie jak w aplikacji? Szerz nowinę!</string>
     <string name="spread_btn_rate">Oceń aplikację z pięcioma gwiazdkami</string>
     <string name="spread_btn_share">Udostępnij link do aplikacji znajomemu</string>
@@ -230,7 +229,6 @@
     <string name="cfg_play_action_unbind">nie przetwarzaj (zachowaj zachowanie systemu)</string>
     <string name="settings_codec_auto">domyślny kodek dla dostawcy</string>
     <string name="cfg_ign_last_codec">nie pamiętam ostatniego kodeku używanego do odtwarzania kanału</string>
-    <string name="btn_schedule_epg">zaplanuj ponowne załadowanie EPG</string>
     <string name="err_archive_is_shorter">Archiwum tego kanału ma krótszy okres ważności u Twojego dostawcy</string>
     <string name="cfg_section_backup">Kopia zapasowa i przywracanie</string>
     <string name="btn_backup_info">Kopia zapasowa jest przechowywana przez klucz. Zapisz go, gdy tylko zakończy się tworzenie kopii zapasowej. Nie ma gwarancji, jak długo będzie dostępna kopia zapasowa.</string>
@@ -607,4 +605,12 @@
     <string name="editing_is_restricted">Twoja konfiguracja nie pozwala na zarządzanie kanałami</string>
     <string name="lock_editing">Zablokuj edycję (zabroń zarządzania kanałami)</string>
     <string name="use_fixed_screen_res">Użyj stałej rozdzielczości ekranu</string>
+    <string name="use_local_ch_numbers">Użyj pozycji kanału w kategorii jako numeru kanału</string>
+    <string name="check_faq">Sprawdź często zadawane pytania, aby znaleźć możliwe rozwiązania problemu.</string>
+    <string name="arch_ask_leave_cfg">Pytaj przy opuszczaniu odtwarzania zarchiwizowanego wideo</string>
+    <string name="arch_ask_leave_ask">Czy chcesz zatrzymać aktualnie odtwarzane archiwalne wideo?</string>
+    <string name="compact_list">lista kompaktowa</string>
+    <string name="lock_settings">Ogranicz dostęp do ustawień aplikacji</string>
+    <string name="mass_hide_offer">Chcesz zmienić widoczność także innych elementów?</string>
+    <string name="mass_hide_header">Widoczne byty</string>
     </resources>

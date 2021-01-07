@@ -228,7 +228,6 @@
 
     <string name="do_not_show">gösterme</string>
     <string name="android_not_genuine">Satın alımlar cihazınızda çalışmayabilir.</string>
-    <string name="menu_error_require_status_archive_text">Arşiv verileri henüz mevcut değil. Bu uzun bir süre ertelenirse, genellikle TV programı verilerinin (EPG) mevcut olmadığı anlamına gelir. Bu durumda EPG\'yi yeniden ayarlayabilir veya daha iyi bir EPG kaynağı arayabilir ve bunları yapılandırabilirsiniz.</string>
     <string name="spread_title">App gibi mi? Kelimeyi yay!</string>
     <string name="spread_btn_rate">Uygulamayı beş yıldızla değerlendirin</string>
     <string name="spread_btn_share">Uygulama bağlantısını arkadaşınızla paylaş</string>
@@ -269,7 +268,6 @@
     <string name="cfg_play_action_unbind">işlem yapmayın (sistem davranışını koruyun)</string>
     <string name="settings_codec_auto">sağlayıcı için varsayılan kodek</string>
     <string name="cfg_ign_last_codec">bir kanalı oynatmak için kullanılan son kodeki hatırlamıyorum</string>
-    <string name="btn_schedule_epg">EPG yeniden yükleme zamanlaması</string>
     <string name="err_archive_is_shorter">Bu kanal için arşiv, sağlayıcınızda daha kısa bir süreye sahiptir</string>
     <string name="cfg_section_backup">Yedekle ve yeniden yükle</string>
     <string name="btn_backup_info">Yedekleme bir anahtar ile hazırlanır. Yedekleme tamamlandığında en kısa sürede yazın. Yedeklemenin ne kadar süreceği garanti edilemez.</string>
@@ -655,4 +653,12 @@
     <string name="editing_is_restricted">Yapılandırmanız kanalların yönetilmesini yasaklıyor</string>
     <string name="lock_editing">Düzenlemeyi kilitle (kanal yönetimini yasakla)</string>
     <string name="use_fixed_screen_res">Sabit ekran çözünürlüğü kullan</string>
+    <string name="use_local_ch_numbers">Kategorideki kanal konumunu kanal numarası olarak kullanın</string>
+    <string name="check_faq">Sorununuz için olası çözümler için SSS\'ye bakın.</string>
+    <string name="arch_ask_leave_cfg">Arşivlenmiş videonun oynatılmasından ayrılırken sor</string>
+    <string name="arch_ask_leave_ask">Şu anda arşiv videosunu oynatmayı durdurmak istiyor musunuz?</string>
+    <string name="compact_list">kompakt liste</string>
+    <string name="lock_settings">Uygulama ayarlarına erişimi kısıtlayın</string>
+    <string name="mass_hide_offer">Diğer öğelerin görünürlüğünü de değiştirmek istiyor musunuz?</string>
+    <string name="mass_hide_header">Görünür varlıklar</string>
     </resources>

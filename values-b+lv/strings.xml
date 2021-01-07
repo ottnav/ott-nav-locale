@@ -224,7 +224,6 @@
 
     <string name="do_not_show">nerādi</string>
     <string name="android_not_genuine">Pirkumi var nedarboties jūsu ierīcē.</string>
-    <string name="menu_error_require_status_archive_text">Arhīva dati vēl nav pieejami. Ja tas ilgstoši aizkavējas, tas parasti nozīmē, ka nav pieejami TV programmu dati (EPG). Šādā gadījumā jūs varat ieplānot EPG pārlādēšanu iestatījumos vai meklēt labākus EPG avotus un konfigurēt tos.</string>
     <string name="spread_title">Tāpat kā lietotne? Izplatiet vārdu!</string>
     <string name="spread_btn_rate">Novērtējiet lietotni ar piecām zvaigznēm</string>
     <string name="spread_btn_share">Koplietojiet lietotnes saiti ar draugu</string>
@@ -265,7 +264,6 @@
     <string name="cfg_play_action_unbind">neapstrādā (saglabājiet sistēmas uzvedību)</string>
     <string name="settings_codec_auto">noklusējuma kodeku pakalpojumu sniedzējam</string>
     <string name="cfg_ign_last_codec">neaizmirstiet pēdējo kodeku, ko izmantoja, lai atskaņotu kanālu</string>
-    <string name="btn_schedule_epg">ieplānot EPG pārlādēšanu</string>
     <string name="err_archive_is_shorter">Šā kanāla arhīvam ir īsāks kalpošanas laiks</string>
     <string name="cfg_section_backup">Dublēšana un atjaunošana</string>
     <string name="btn_backup_info">Backup tiek glabāts ar taustiņu. Uzrakstiet to uz leju, tiklīdz dublējums ir pabeigts. Nav garantijas, cik ilgi būs pieejams dublējums.</string>
@@ -655,4 +653,12 @@
     <string name="editing_is_restricted">Jūsu konfigurācija aizliedz kanālu pārvaldību</string>
     <string name="lock_editing">Bloķēt rediģēšanu (aizliegt kanālu pārvaldību)</string>
     <string name="use_fixed_screen_res">Izmantojiet fiksētu ekrāna izšķirtspēju</string>
+    <string name="use_local_ch_numbers">Izmantojiet kanāla pozīciju kategorijā kā kanāla numuru</string>
+    <string name="check_faq">Pārbaudiet bieži uzdotos jautājumus par iespējamiem problēmas risinājumiem.</string>
+    <string name="arch_ask_leave_cfg">Jautājiet, atstājot arhivētā videoklipa atskaņošanu</string>
+    <string name="arch_ask_leave_ask">Vai vēlaties pārtraukt arhīva video atskaņošanu?</string>
+    <string name="compact_list">kompakts saraksts</string>
+    <string name="lock_settings">Ierobežojiet piekļuvi lietotnes iestatījumiem</string>
+    <string name="mass_hide_offer">Vai vēlaties mainīt arī citu elementu redzamību?</string>
+    <string name="mass_hide_header">Redzamas vienības</string>
     </resources>

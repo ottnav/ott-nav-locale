@@ -230,7 +230,6 @@
 
     <string name="do_not_show">मत दिखाओ</string>
     <string name="android_not_genuine">खरीद आपके डिवाइस पर काम नहीं कर सकती हैं।</string>
-    <string name="menu_error_require_status_archive_text">पुरालेख डेटा अभी तक उपलब्ध नहीं है। यदि यह लंबे समय तक देरी हो रही है तो आमतौर पर इसका मतलब है कि कोई टीवी-प्रोग्राम डेटा (ईपीजी) उपलब्ध नहीं है। इस मामले में आप सेटिंग्स में ईपीजी रीलोड शेड्यूल कर सकते हैं या बेहतर ईपीजी स्रोतों की खोज कर सकते हैं और उन्हें कॉन्फ़िगर कर सकते हैं।</string>
     <string name="spread_title">ऐप की तरह? प्रचार कीजिये!</string>
     <string name="spread_btn_rate">पांच सितारों के साथ ऐप रेट करें</string>
     <string name="spread_btn_share">एक दोस्त के साथ ऐप लिंक साझा करें</string>
@@ -271,7 +270,6 @@
     <string name="cfg_play_action_unbind">संसाधित न करें (सिस्टम व्यवहार रखें)</string>
     <string name="settings_codec_auto">प्रदाता के लिए डिफ़ॉल्ट कोडेक</string>
     <string name="cfg_ign_last_codec">एक चैनल चलाने के लिए इस्तेमाल किया गया अंतिम कोडेक याद नहीं है</string>
-    <string name="btn_schedule_epg">अनुसूची ईपीजी रीलोड</string>
     <string name="err_archive_is_shorter">इस चैनल के लिए पुरालेख आपके प्रदाता पर कम जीवनकाल है</string>
     <string name="cfg_section_backup">बैकअप और पुनर्स्थापना</string>
     <string name="btn_backup_info">बैकअप एक कुंजी द्वारा है। जैसे ही बैकअप पूरा हो जाता है इसे नीचे लिखें। इस बात की कोई गारंटी नहीं है कि बैकअप कब तक उपलब्ध होगा।</string>
@@ -657,4 +655,12 @@
     <string name="editing_is_restricted">आपका कॉन्फ़िगरेशन प्रबंध चैनलों को प्रतिबंधित करता है</string>
     <string name="lock_editing">लॉक संपादन (चैनल प्रबंधन पर रोक)</string>
     <string name="use_fixed_screen_res">निश्चित स्क्रीन रिज़ॉल्यूशन का उपयोग करें</string>
+    <string name="use_local_ch_numbers">चैनल नंबर के रूप में श्रेणी में चैनल की स्थिति का उपयोग करें</string>
+    <string name="check_faq">अपनी समस्या के संभावित समाधान के लिए अक्सर पूछे जाने वाले प्रश्न देखें।</string>
+    <string name="arch_ask_leave_cfg">संग्रहित वीडियो का प्लेबैक छोड़ते समय पूछें</string>
+    <string name="arch_ask_leave_ask">क्या आप वर्तमान में संग्रह वीडियो खेलना बंद करना चाहते हैं?</string>
+    <string name="compact_list">कॉम्पैक्ट सूची</string>
+    <string name="lock_settings">एप्लिकेशन सेटिंग तक पहुंच प्रतिबंधित करें</string>
+    <string name="mass_hide_offer">क्या आप अन्य तत्वों की दृश्यता को भी बदलना चाहते हैं?</string>
+    <string name="mass_hide_header">दर्शनीय संस्थाएँ</string>
     </resources>

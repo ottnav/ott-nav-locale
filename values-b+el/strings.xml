@@ -170,7 +170,6 @@
     <string name="cfg_trans_wind">Χρησιμοποιήστε διαφανή διεπαφή</string>
     <string name="do_not_show">μην δείξεις</string>
     <string name="android_not_genuine">Οι αγορές ενδέχεται να μην λειτουργούν στη συσκευή σας.</string>
-    <string name="menu_error_require_status_archive_text">Τα δεδομένα αρχείου δεν είναι διαθέσιμα ακόμα. Εάν αυτό καθυστερήσει για μεγάλο χρονικό διάστημα, συνήθως σημαίνει ότι δεν υπάρχουν διαθέσιμα δεδομένα τηλεοπτικών προγραμμάτων (EPG). Σε αυτή την περίπτωση μπορείτε να προγραμματίσετε την επαναφόρτωση του EPG στις ρυθμίσεις ή να αναζητήσετε καλύτερες πηγές EPG και να τις ρυθμίσετε.</string>
     <string name="spread_title">Όπως και η εφαρμογή; Διέδωσέ το!</string>
     <string name="spread_btn_rate">Αξιολογήστε την εφαρμογή με πέντε αστέρια</string>
     <string name="spread_btn_share">Μοιραστείτε τη σύνδεση εφαρμογής με έναν φίλο</string>
@@ -210,7 +209,6 @@
     <string name="cfg_play_action_unbind">δεν επεξεργάζεστε (κρατήστε τη συμπεριφορά του συστήματος)</string>
     <string name="settings_codec_auto">προεπιλεγμένο κωδικοποιητή για παροχέα</string>
     <string name="cfg_ign_last_codec">δεν θυμάμαι τον τελευταίο κωδικοποιητή που χρησιμοποιείται για την αναπαραγωγή καναλιού</string>
-    <string name="btn_schedule_epg">προγραμματισμός EPG reload</string>
     <string name="err_archive_is_shorter">Η αρχειοθέτηση για αυτό το κανάλι έχει μικρότερη διάρκεια ζωής στον παροχέα σας</string>
     <string name="cfg_section_backup">Δημιουργία αντιγράφων ασφαλείας και επαναφορά</string>
     <string name="btn_backup_info">Το αντίγραφο ασφαλείας αποθηκεύεται με ένα κλειδί. Γράψτε το αμέσως μόλις ολοκληρωθεί η δημιουργία αντιγράφων ασφαλείας. Δεν υπάρχει εγγύηση για πόσο διάστημα θα είναι διαθέσιμο το αντίγραφο ασφαλείας.</string>
@@ -587,4 +585,12 @@
     <string name="editing_is_restricted">Η διαμόρφωσή σας απαγορεύει τη διαχείριση καναλιών</string>
     <string name="lock_editing">Επεξεργασία κλειδώματος (απαγόρευση διαχείρισης καναλιών)</string>
     <string name="use_fixed_screen_res">Χρησιμοποιήστε ανάλυση σταθερής οθόνης</string>
+    <string name="use_local_ch_numbers">Χρησιμοποιήστε τη θέση καναλιού στην κατηγορία ως αριθμό καναλιού</string>
+    <string name="check_faq">Ελέγξτε τις Συχνές Ερωτήσεις για τις πιθανές λύσεις για το πρόβλημά σας.</string>
+    <string name="arch_ask_leave_cfg">Ρωτήστε όταν αφήνετε την αναπαραγωγή του αρχειοθετημένου βίντεο</string>
+    <string name="arch_ask_leave_ask">Θέλετε να σταματήσετε την αναπαραγωγή βίντεο αρχειοθέτησης;</string>
+    <string name="compact_list">συμπαγής λίστα</string>
+    <string name="lock_settings">Περιορίστε την πρόσβαση στις ρυθμίσεις της εφαρμογής</string>
+    <string name="mass_hide_offer">Θέλετε επίσης να αλλάξετε την ορατότητα και άλλων στοιχείων;</string>
+    <string name="mass_hide_header">Ορατές οντότητες</string>
     </resources>

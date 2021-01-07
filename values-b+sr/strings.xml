@@ -222,7 +222,6 @@
 
     <string name="do_not_show">ne prikazuj</string>
     <string name="android_not_genuine">Kupovine možda neće raditi na vašem uređaju.</string>
-    <string name="menu_error_require_status_archive_text">Podaci arhive još nisu dostupni. Ako se ovo odlaže duže vremena obično znači da Teletekst (EPG) nije dostupan. U tom slučaju možete zakazati osvežavanje EPG-a u podešavanjima ili potražiti i podesiti bolje izvore.</string>
     <string name="spread_title">Sviđa vam se aplikacija? Proširite reč!</string>
     <string name="spread_btn_rate">Ocenite aplikaciju sa pet zvezdica</string>
     <string name="spread_btn_share">Podelite link aplikacije sa prijateljem</string>
@@ -263,7 +262,6 @@
     <string name="cfg_play_action_unbind">bez obrađivanja (zadrži sistemsko ponašanje)</string>
     <string name="settings_codec_auto">podrazumevani kodek za provajdera</string>
     <string name="cfg_ign_last_codec">nemoj zapamtiti poslednji kodek korišćen za reprodukovanje kanala</string>
-    <string name="btn_schedule_epg">zakaži osvežavanje EPG-a</string>
     <string name="err_archive_is_shorter">Arhiva za ovaj kanal ima kraći životni vek kod vašeg provajdera</string>
     <string name="cfg_section_backup">Rezervna kopija i povratak</string>
     <string name="btn_backup_info">Rezervna kopija se čuva pomoću ključa. Zapišite ključ čim rezervna kopija završi sa obradom. Ne postoji garancija koliko dugo će rezervna kopija biti dostupna</string>
@@ -650,4 +648,12 @@
     <string name="editing_is_restricted">Ваша конфигурација забрањује управљање каналима</string>
     <string name="lock_editing">Уређивање закључавања (забранити управљање каналом)</string>
     <string name="use_fixed_screen_res">Користите фиксну резолуцију екрана</string>
+    <string name="use_local_ch_numbers">Користите положај канала у категорији као број канала</string>
+    <string name="check_faq">Проверите ФАК за могућа решења за ваш проблем.</string>
+    <string name="arch_ask_leave_cfg">Питајте када напуштате репродукцију архивираног видео записа</string>
+    <string name="arch_ask_leave_ask">Да ли желите да зауставите тренутно репродуковање архивског видео записа?</string>
+    <string name="compact_list">компактна листа</string>
+    <string name="lock_settings">Ограничите приступ подешавањима апликације</string>
+    <string name="mass_hide_offer">Да ли желите да промените видљивост и осталих елемената?</string>
+    <string name="mass_hide_header">Видљиви ентитети</string>
     </resources>

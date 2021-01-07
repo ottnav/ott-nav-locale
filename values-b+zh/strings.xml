@@ -222,7 +222,6 @@
 
     <string name="do_not_show">不再显示</string>
     <string name="android_not_genuine">您的设备无法完成支付。</string>
-    <string name="menu_error_require_status_archive_text">暂时无法回看。如果长时间无法回看，通常是电视节目单问题。您可以在设置中选择定期更新节目单或替换成更准确的节目单资源。</string>
     <string name="spread_title">喜欢本应用程序？放肆宣传吧！</string>
     <string name="spread_btn_rate">记得给5星好评！</string>
     <string name="spread_btn_share">将应用分享给好友</string>
@@ -263,7 +262,6 @@
     <string name="cfg_play_action_unbind">忽略</string>
     <string name="settings_codec_auto">使用默认解码器</string>
     <string name="cfg_ign_last_codec">无需记住该频道上次使用的解码器</string>
-    <string name="btn_schedule_epg">定期更新节目单</string>
     <string name="err_archive_is_shorter">供应商缩短了该频道的回看期限</string>
     <string name="cfg_section_backup">备份与恢复</string>
     <string name="btn_backup_info">备份完成后系统将生成此备份的恢复密钥。请保存好备份及密钥，否则无法恢复。</string>
@@ -649,4 +647,12 @@
     <string name="editing_is_restricted">您的配置禁止管理频道</string>
     <string name="lock_editing">锁定编辑（禁止频道管理）</string>
     <string name="use_fixed_screen_res">使用固定的屏幕分辨率</string>
+    <string name="use_local_ch_numbers">使用类别中的频道位置作为频道号</string>
+    <string name="check_faq">检查常见问题解答，以解决您的问题。</string>
+    <string name="arch_ask_leave_cfg">在离开播放已存档视频时询问</string>
+    <string name="arch_ask_leave_ask">您是否要停止当前播放存档视频？</string>
+    <string name="compact_list">紧凑清单</string>
+    <string name="lock_settings">限制对应用程序设置的访问</string>
+    <string name="mass_hide_offer">您是否还想更改其他元素的可见性？</string>
+    <string name="mass_hide_header">可见实体</string>
     </resources>

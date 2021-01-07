@@ -227,7 +227,6 @@
 
     <string name="do_not_show">no mostrar</string>
     <string name="android_not_genuine">Las compras podrían no funcionar en su dispositivo.</string>
-    <string name="menu_error_require_status_archive_text">Los datos de archivo no están disponibles todavía. Si esto se retrasa mucho tiempo, significaría que no hay datos de programas de televisión (EPG) disponibles. En este caso, puede programar la recarga de la EPG en la configuración o buscar una fuente de EPG mejor y configurarla.</string>
     <string name="spread_title">¿Te gusta la aplicación? ¡Corre la voz!</string>
     <string name="spread_btn_rate">Califica la aplicación con cinco estrellas.</string>
     <string name="spread_btn_share">Compartir enlace de la aplicación con un amigo</string>
@@ -268,7 +267,6 @@
     <string name="cfg_play_action_unbind">no procesar (mantener el comportamiento del sistema)</string>
     <string name="settings_codec_auto">codec predeterminado para el proveedor</string>
     <string name="cfg_ign_last_codec">No recordar el último codec utilizado para reproducir un canal.</string>
-    <string name="btn_schedule_epg">programar la recarga de EPG</string>
     <string name="err_archive_is_shorter">El archivo de este canal tiene una vida más corta en su proveedor</string>
     <string name="cfg_section_backup">Copia de seguridad y restaurar</string>
     <string name="btn_backup_info">La copia de seguridad se guarda con una llave. Escríbelo tan pronto como la copia de seguridad esté completa. No hay garantía de cuánto tiempo estará disponible la copia de seguridad.</string>
@@ -466,7 +464,7 @@
     <string name="hint_long_ok_menu">Mantener presionado el botón OK abre la pantalla de propiedades en la mayoría de los casos</string>
     <string name="save_state">Guardar Estado</string>
     <string name="restore_state">Restaurar estado</string>
-<string name="pro_studio">Modo estudio, que permite ver múltiples transmisiones al mismo tiempo</string>
+    <string name="pro_studio">Modo estudio, que permite ver múltiples transmisiones al mismo tiempo</string>
     <string name="cfg_prov_channel_name">Mostrar el nombre del proveedor en el nombre del canal cuando se usan múltiples proveedores</string>
     <string name="increase_text_size">aumentar el tamaño del texto</string>
     <string name="hint_long_up_down">Presionar prolongadamente las flechas hacia arriba y hacia abajo permite una navegación más rápida</string>
@@ -550,7 +548,7 @@
     <string name="never">Nunca</string>
     <string name="by_default">por defecto</string>
     <string name="sleep_timer">Temporizador para dormir</string>
-<string name="err_need_provider">Se requiere proveedor de IPTV</string>
+    <string name="err_need_provider">Se requiere proveedor de IPTV</string>
     <string name="err_need_provider_text">Necesita configurar su proveedor de IPTV. Abra la configuración y agregue su proveedor (o una lista de reproducción).</string>
     <string name="unlock_premium">Desbloquear premium</string>
     <string name="about_app">Acerca de la aplicación</string>
@@ -599,7 +597,7 @@
     <string name="user_account_for_premium">Cuenta de usuario para administrar funciones premium</string>
     <string name="logout">Cerrar sesión</string>
     <string name="pro_sub_expired">Su suscripción ha expirado</string>
-    <string name="days">dias</string>
+    <string name="days">días</string>
     <string name="price">Precio</string>
     <string name="do_not_offer_any_more">No ofrecer esto nunca más.</string>
     <string name="cfg_offer_to_seek_to_last_pos">Ofrecer buscar la última posición vista</string>
@@ -653,4 +651,12 @@
     <string name="editing_is_restricted">Tu configuración prohíbe la gestión de canales</string>
     <string name="lock_editing">Bloquear la edición (prohibir la gestión de canales)</string>
     <string name="use_fixed_screen_res">Usar resolución de pantalla fija</string>
+    <string name="use_local_ch_numbers">Utilice la posición del canal en la categoría como número de canal</string>
+    <string name="check_faq">Consulte las preguntas frecuentes para conocer las posibles soluciones a su problema.</string>
+    <string name="arch_ask_leave_cfg">Preguntar al salir de la reproducción de un video archivado</string>
+    <string name="arch_ask_leave_ask">¿Desea dejar de reproducir el video de archivo actualmente?</string>
+    <string name="compact_list">lista compacta</string>
+    <string name="lock_settings">Restringir el acceso a la configuración de la aplicación</string>
+    <string name="mass_hide_offer">¿Quieres cambiar la visibilidad de otros elementos también?</string>
+    <string name="mass_hide_header">Entidades visibles</string>
     </resources>

@@ -230,7 +230,6 @@
 
     <string name="do_not_show">見せないで</string>
     <string name="android_not_genuine">お使いの端末で購入が動作しない可能性があります。</string>
-    <string name="menu_error_require_status_archive_text">アーカイブデータはまだ利用できません。これが長時間遅れると、通常、テレビ番組データ（EPG）が利用できないことを意味します。この場合、設定でEPGのリロードをスケジュールするか、より良いEPGソースを検索して設定することができます。</string>
     <string name="spread_title">アプリのように？言葉を広める！</string>
     <string name="spread_btn_rate">5つ星の評価アプリ</string>
     <string name="spread_btn_share">友達とアプリリンクを共有する</string>
@@ -271,7 +270,6 @@
     <string name="cfg_play_action_unbind">処理しない（システムの動作を維持する）</string>
     <string name="settings_codec_auto">プロバイダーのデフォルトのコーデック</string>
     <string name="cfg_ign_last_codec">チャンネルを再生するために使用された最後のコーデックを覚えていない</string>
-    <string name="btn_schedule_epg">EPGリロードをスケジュールする</string>
     <string name="err_archive_is_shorter">このチャンネルのアーカイブは、プロバイダのライフサイクルが短くなっています</string>
     <string name="cfg_section_backup">バックアップと復元</string>
     <string name="btn_backup_info">バックアップはキーによって記録されます。バックアップが完了するとすぐに書き留めてください。バックアップの有効期間は保証されません。</string>
@@ -657,4 +655,12 @@
     <string name="editing_is_restricted">構成でチャネルの管理が禁止されています</string>
     <string name="lock_editing">ロック編集（チャネル管理の禁止）</string>
     <string name="use_fixed_screen_res">固定画面解像度を使用する</string>
+    <string name="use_local_ch_numbers">カテゴリ内のチャネル位置をチャネル番号として使用する</string>
+    <string name="check_faq">問題の可能な解決策については、FAQを確認してください。</string>
+    <string name="arch_ask_leave_cfg">アーカイブされたビデオの再生を終了するときに尋ねる</string>
+    <string name="arch_ask_leave_ask">現在アーカイブビデオの再生を停止しますか？</string>
+    <string name="compact_list">コンパクトリスト</string>
+    <string name="lock_settings">アプリ設定へのアクセスを制限する</string>
+    <string name="mass_hide_offer">他の要素の可視性も変更しますか？</string>
+    <string name="mass_hide_header">目に見えるエンティティ</string>
     </resources>

@@ -169,7 +169,6 @@
     <string name="cfg_trans_wind">Използвайте прозрачен интерфейс</string>
     <string name="do_not_show">не показвай</string>
     <string name="android_not_genuine">Покупките може да не работят на вашето устройство.</string>
-    <string name="menu_error_require_status_archive_text">Данните за архива все още не са налични. Ако това се забави за дълго време, това обикновено означава, че няма данни за телевизионна програма (EPG). В този случай можете да планирате презареждането на EPG в настройките или да търсите по-добри източници на EPG и да ги конфигурирате.</string>
     <string name="spread_title">Харесва ли ви приложението? Разпространете думата!</string>
     <string name="spread_btn_rate">Оценете приложението с пет звезди</string>
     <string name="spread_btn_share">Споделете връзка с приложението с приятел</string>
@@ -209,7 +208,6 @@
     <string name="cfg_play_action_unbind">не обработвайте (запазвайте поведението на системата)</string>
     <string name="settings_codec_auto">стандартен кодек за доставчик</string>
     <string name="cfg_ign_last_codec">не помня последния кодек, използван за възпроизвеждане на канал</string>
-    <string name="btn_schedule_epg">планирайте презареждане на EPG</string>
     <string name="err_archive_is_shorter">Архивът за този канал има по-кратък живот на вашия доставчик</string>
     <string name="cfg_section_backup">Архивиране и възстановяване</string>
     <string name="btn_backup_info">Резервното копие се съхранява от ключ. Запишете го веднага, когато архивирането приключи. Няма гаранция колко дълго ще бъде налично архивирането.</string>
@@ -586,4 +584,12 @@
     <string name="editing_is_restricted">Вашата конфигурация забранява управлението на канали</string>
     <string name="lock_editing">Заключване на редактирането (забранете управлението на канали)</string>
     <string name="use_fixed_screen_res">Използвайте фиксирана разделителна способност на екрана</string>
+    <string name="use_local_ch_numbers">Използвайте позицията на канала в категорията като номер на канал</string>
+    <string name="check_faq">Проверете често задавани въпроси за възможните решения за вашия проблем.</string>
+    <string name="arch_ask_leave_cfg">Попитайте, когато напускате възпроизвеждането на архивирано видео</string>
+    <string name="arch_ask_leave_ask">Искате ли да спрете възпроизвеждането на архивно видео в момента?</string>
+    <string name="compact_list">компактен списък</string>
+    <string name="lock_settings">Ограничете достъпа до настройките на приложението</string>
+    <string name="mass_hide_offer">Искате ли да промените видимостта и на други елементи?</string>
+    <string name="mass_hide_header">Видими обекти</string>
     </resources>

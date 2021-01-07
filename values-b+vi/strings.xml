@@ -222,7 +222,6 @@
 
     <string name="do_not_show">không hiển thị</string>
     <string name="android_not_genuine">Chức năng Thanh toán có thể không hoạt động trên thiết bị của bạn.</string>
-    <string name="menu_error_require_status_archive_text">Dữ liệu lưu trữ chưa có sẵn. Nếu điều này diễn ra trong một thời gian dài, điều đó thường có nghĩa là không có dữ liệu chương trình TV (EPG). Trong trường hợp này, bạn có thể lên lịch tải lại EPG trong cài đặt hoặc tìm kiếm nguồn EPG tốt hơn và định cấu hình chúng.</string>
     <string name="spread_title">Bạn thích ứng dụng này? Hãy lan toả nó!</string>
     <string name="spread_btn_rate">Đánh giá 5 sao cho ứng dụng này</string>
     <string name="spread_btn_share">Chia sẻ đường liên kết cho bạn bè</string>
@@ -263,7 +262,6 @@
     <string name="cfg_play_action_unbind">không áp dụng (chức năng mặc định của hệ thống)</string>
     <string name="settings_codec_auto">bộ giải mã mặc định cho nhà cung cấp</string>
     <string name="cfg_ign_last_codec">không nhớ bộ giải mã cuối được sử dụng để phát kênh</string>
-    <string name="btn_schedule_epg">lên lịch tải lại EPG</string>
     <string name="err_archive_is_shorter">Lưu trữ cho kênh này có tuổi thọ ngắn hơn trên nhà cung cấp của bạn</string>
     <string name="cfg_section_backup">Sao lưu và khôi phịc</string>
     <string name="btn_backup_info">Bản sao lưu được lưu trữ bởi một mã khóa. Hãy ghi nó lại ngay khi sao lưu xong. Không có gì đảm bảo thời gian sao lưu sẽ có sẵn trong bao lâu.</string>
@@ -649,4 +647,12 @@
     <string name="editing_is_restricted">Cấu hình của bạn cấm quản lý kênh</string>
     <string name="lock_editing">Khóa chỉnh sửa (cấm quản lý kênh)</string>
     <string name="use_fixed_screen_res">Sử dụng độ phân giải màn hình cố định</string>
+    <string name="use_local_ch_numbers">Sử dụng vị trí kênh trong danh mục làm số kênh</string>
+    <string name="check_faq">Kiểm tra Câu hỏi thường gặp để biết các giải pháp khả thi cho vấn đề của bạn.</string>
+    <string name="arch_ask_leave_cfg">Hỏi khi thoát phát lại video đã lưu trữ</string>
+    <string name="arch_ask_leave_ask">Bạn có muốn dừng phát video lưu trữ hiện tại không?</string>
+    <string name="compact_list">danh sách nhỏ gọn</string>
+    <string name="lock_settings">Hạn chế quyền truy cập vào cài đặt ứng dụng</string>
+    <string name="mass_hide_offer">Bạn có muốn thay đổi khả năng hiển thị của các phần tử khác không?</string>
+    <string name="mass_hide_header">Thực thể hiển thị</string>
     </resources>

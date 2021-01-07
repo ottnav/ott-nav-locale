@@ -225,7 +225,6 @@
 
     <string name="do_not_show">ära näita</string>
     <string name="android_not_genuine">Ostud ei pruugi teie seadmes töötada.</string>
-    <string name="menu_error_require_status_archive_text">Arhiiviandmed pole veel saadaval. Kui see viibib pikka aega, tähendab see tavaliselt, et TV-programmi andmeid (EPG) pole saadaval. Sellisel juhul saate ajastada EPG uuesti laadimise seadedesse või otsida paremaid EPG allikaid ja neid konfigureerida.</string>
     <string name="spread_title">Nagu rakendus? Levita sõna!</string>
     <string name="spread_btn_rate">Hinda rakendust viie tärniga</string>
     <string name="spread_btn_share">Jagage rakenduse linki sõbraga</string>
@@ -267,7 +266,6 @@
     <string name="cfg_play_action_unbind">ei töötle (hoia süsteemi käitumist)</string>
     <string name="settings_codec_auto">vaikimisi koodekit pakkujale</string>
     <string name="cfg_ign_last_codec">ärge unustage viimast kanalit mängides</string>
-    <string name="btn_schedule_epg">ajastage EPG uuesti laadimine</string>
     <string name="err_archive_is_shorter">Selle kanali arhiivil on teie teenusepakkuja eluiga lühem</string>
     <string name="cfg_section_backup">Varundada ja taastada</string>
     <string name="btn_backup_info">Varukoopia salvestatakse võtme poolt. Kirjutage see alla kohe, kui varukoopia on valmis. Puudub garantii, kui kaua varukoopia on saadaval.</string>
@@ -657,4 +655,12 @@
     <string name="editing_is_restricted">Teie konfiguratsioon keelab kanalite haldamise</string>
     <string name="lock_editing">Lukusta redigeerimine (kanali haldamise keelamine)</string>
     <string name="use_fixed_screen_res">Kasutage fikseeritud ekraani eraldusvõimet</string>
+    <string name="use_local_ch_numbers">Kanali numbrina kasutage kategoorias kanali asukohta</string>
+    <string name="check_faq">Probleemi võimalike lahenduste kohta vaadake KKK-d.</string>
+    <string name="arch_ask_leave_cfg">Küsi arhiivitud video taasesitusest lahkumisel</string>
+    <string name="arch_ask_leave_ask">Kas soovite praegu arhiivivideo esitamise lõpetada?</string>
+    <string name="compact_list">kompaktne nimekiri</string>
+    <string name="lock_settings">Piirake juurdepääsu rakenduse seadetele</string>
+    <string name="mass_hide_offer">Kas soovite muuta ka teiste elementide nähtavust?</string>
+    <string name="mass_hide_header">Nähtavad üksused</string>
     </resources>

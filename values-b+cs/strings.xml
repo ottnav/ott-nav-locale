@@ -169,7 +169,6 @@
     <string name="cfg_trans_wind">Použijte průhledné rozhraní</string>
     <string name="do_not_show">neukazuj</string>
     <string name="android_not_genuine">Nákupy na vašem zařízení nemusí fungovat.</string>
-    <string name="menu_error_require_status_archive_text">Archivní data zatím nejsou k dispozici. Pokud je toto zpoždění delší dobu, obvykle to znamená, že nejsou k dispozici žádná data televizních programů (EPG). V takovém případě můžete naplánovat opětovné načtení EPG v nastavení nebo vyhledat lepší zdroje EPG a nakonfigurovat je.</string>
     <string name="spread_title">Líbí se vám aplikace? Šírejte slovo!</string>
     <string name="spread_btn_rate">Ohodnoťte aplikaci pěti hvězdičkami</string>
     <string name="spread_btn_share">Sdílet odkaz na aplikaci s přítelem</string>
@@ -209,7 +208,6 @@
     <string name="cfg_play_action_unbind">nezpracovávat (udržovat chování systému)</string>
     <string name="settings_codec_auto">výchozí kodek pro poskytovatele</string>
     <string name="cfg_ign_last_codec">nepamatujte si poslední kodek použitý k přehrání kanálu</string>
-    <string name="btn_schedule_epg">naplánovat opětovné načtení EPG</string>
     <string name="err_archive_is_shorter">Archiv pro tento kanál má u vašeho poskytovatele kratší životnost</string>
     <string name="cfg_section_backup">Zálohování a obnovení</string>
     <string name="btn_backup_info">Záloha je uložena klíčem. Zapište si ji, jakmile je záloha dokončena. Neexistuje žádná záruka, jak dlouho bude záloha k dispozici.</string>
@@ -586,4 +584,12 @@
     <string name="editing_is_restricted">Vaše konfigurace zakazuje správu kanálů</string>
     <string name="lock_editing">Uzamknout úpravy (zakázat správu kanálu)</string>
     <string name="use_fixed_screen_res">Použijte pevné rozlišení obrazovky</string>
+    <string name="use_local_ch_numbers">Jako číslo kanálu použijte pozici kanálu v kategorii</string>
+    <string name="check_faq">V části Časté dotazy najdete možná řešení vašeho problému.</string>
+    <string name="arch_ask_leave_cfg">Zeptat se při opuštění přehrávání archivovaného videa</string>
+    <string name="arch_ask_leave_ask">Přejete si zastavit právě přehrávané archivní video?</string>
+    <string name="compact_list">kompaktní seznam</string>
+    <string name="lock_settings">Omezte přístup k nastavení aplikace</string>
+    <string name="mass_hide_offer">Chcete změnit viditelnost i dalších prvků?</string>
+    <string name="mass_hide_header">Viditelné entity</string>
     </resources>

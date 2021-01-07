@@ -169,7 +169,6 @@
     <string name="cfg_trans_wind">Folosiți o interfață transparentă</string>
     <string name="do_not_show">nu arata</string>
     <string name="android_not_genuine">Este posibil ca achizițiile să nu funcționeze pe dispozitivul dvs.</string>
-    <string name="menu_error_require_status_archive_text">Datele arhivării nu sunt încă disponibile. Dacă acest lucru este întârziat pentru o lungă perioadă de timp, înseamnă de obicei că nu sunt disponibile date despre programele TV (EPG). În acest caz, puteți programa reîncărcarea EPG în setări sau căutați surse EPG mai bune și configurați-le.</string>
     <string name="spread_title">Îți place aplicația? Imprastie vestea!</string>
     <string name="spread_btn_rate">Evaluează aplicația cu cinci stele</string>
     <string name="spread_btn_share">Distribuie link-ul aplicației cu un prieten</string>
@@ -209,7 +208,6 @@
     <string name="cfg_play_action_unbind">nu prelucrați (păstrați comportamentul sistemului)</string>
     <string name="settings_codec_auto">codec implicit pentru furnizor</string>
     <string name="cfg_ign_last_codec">nu vă amintiți ultimul codec folosit pentru a reda un canal</string>
-    <string name="btn_schedule_epg">programa reîncărcare EPG</string>
     <string name="err_archive_is_shorter">Arhiva pentru acest canal are o durată de viață mai scurtă pe furnizorul dvs.</string>
     <string name="cfg_section_backup">Backup și restaurare</string>
     <string name="btn_backup_info">Backup-ul este stocat de o cheie. Notează-l imediat ce copia de rezervă este finalizată. Nu există nicio garanție cât timp va fi disponibil backup-ul.</string>
@@ -586,4 +584,12 @@
     <string name="editing_is_restricted">Configurația dvs. interzice gestionarea canalelor</string>
     <string name="lock_editing">Editare blocare (interzice gestionarea canalelor)</string>
     <string name="use_fixed_screen_res">Utilizați rezoluția fixă ​​a ecranului</string>
+    <string name="use_local_ch_numbers">Utilizați poziția canalului în categorie ca număr de canal</string>
+    <string name="check_faq">Consultați întrebările frecvente pentru soluțiile posibile pentru problema dvs.</string>
+    <string name="arch_ask_leave_cfg">Întrebați când părăsiți redarea videoclipului arhivat</string>
+    <string name="arch_ask_leave_ask">Doriți să opriți redarea în prezent a videoclipului arhivă?</string>
+    <string name="compact_list">listă compactă</string>
+    <string name="lock_settings">Limitați accesul la setările aplicației</string>
+    <string name="mass_hide_offer">Doriți să schimbați și vizibilitatea altor elemente?</string>
+    <string name="mass_hide_header">Entități vizibile</string>
     </resources>

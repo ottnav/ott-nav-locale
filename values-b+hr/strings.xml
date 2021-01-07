@@ -169,7 +169,6 @@
     <string name="cfg_trans_wind">Koristite transparentno sučelje</string>
     <string name="do_not_show">nemoj pokazati</string>
     <string name="android_not_genuine">Kupnje možda neće raditi na vašem uređaju.</string>
-    <string name="menu_error_require_status_archive_text">Arhivski podaci još nisu dostupni. Ako se to odgađa duže vrijeme, obično znači da nisu dostupni podaci TV programa (EPG). U ovom slučaju možete zakazati ponovno punjenje EPG-a u postavkama ili potražiti bolje izvore EPG-a i konfigurirati ih.</string>
     <string name="spread_title">Sviđa vam se aplikacija? Širite riječ!</string>
     <string name="spread_btn_rate">Ocijenite aplikaciju s pet zvjezdica</string>
     <string name="spread_btn_share">Podijelite vezu s prijateljem s prijateljem</string>
@@ -209,7 +208,6 @@
     <string name="cfg_play_action_unbind">ne obrađivati (zadrži ponašanje sustava)</string>
     <string name="settings_codec_auto">zadani kodek za davatelja usluga</string>
     <string name="cfg_ign_last_codec">ne sjeća se posljednjeg kodeka koji se koristio za reprodukciju kanala</string>
-    <string name="btn_schedule_epg">zakazati ponovno učitavanje EPG-a</string>
     <string name="err_archive_is_shorter">Arhiva za ovaj kanal ima kraći vijek trajanja vašeg davatelja</string>
     <string name="cfg_section_backup">Izrada sigurnosne kopije i vraćanja</string>
     <string name="btn_backup_info">Rezervna kopija pohranjuje se pomoću ključa. Zapišite ga čim sigurnosna kopija bude gotova. Ne postoji jamstvo koliko dugo će sigurnosna kopija biti dostupna.</string>
@@ -586,4 +584,12 @@
     <string name="editing_is_restricted">Vaša konfiguracija zabranjuje upravljanje kanalima</string>
     <string name="lock_editing">Uređivanje zaključavanja (zabraniti upravljanje kanalom)</string>
     <string name="use_fixed_screen_res">Koristite fiksnu razlučivost zaslona</string>
+    <string name="use_local_ch_numbers">Kao broj kanala koristite položaj kanala u kategoriji</string>
+    <string name="check_faq">Provjerite FAQ da biste pronašli moguća rješenja za svoj problem.</string>
+    <string name="arch_ask_leave_cfg">Pitajte kad napuštate reprodukciju arhiviranog videozapisa</string>
+    <string name="arch_ask_leave_ask">Želite li zaustaviti trenutno reproduciranje arhivskog videozapisa?</string>
+    <string name="compact_list">kompaktni popis</string>
+    <string name="lock_settings">Ograničite pristup postavkama aplikacije</string>
+    <string name="mass_hide_offer">Želite li promijeniti vidljivost i ostalih elemenata?</string>
+    <string name="mass_hide_header">Vidljivi entiteti</string>
     </resources>

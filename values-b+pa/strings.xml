@@ -228,7 +228,6 @@
 
     <string name="do_not_show">ਨਾ ਦਿਖਾਓ</string>
     <string name="android_not_genuine">ਖਰੀਦਦਾਰ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਤੇ ਕੰਮ ਨਹੀਂ ਕਰਨਗੇ.</string>
-    <string name="menu_error_require_status_archive_text">ਆਰਕਾਈਵ ਡੇਟਾ ਅਜੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ. ਜੇ ਇਹ ਲੰਬੇ ਸਮੇਂ ਲਈ ਦੇਰੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਇਸਦਾ ਆਮ ਤੌਰ ਤੇ ਮਤਲਬ ਹੁੰਦਾ ਹੈ ਕਿ ਕੋਈ ਟੀ ਵੀ ਪ੍ਰੋਗਰਾਮ ਪ੍ਰੋਗਰਾਮ (ਈਪੀਜੀ) ਉਪਲਬਧ ਨਹੀਂ ਹੈ. ਇਸ ਮਾਮਲੇ ਵਿੱਚ ਤੁਸੀਂ ਸੈਟਿੰਗ ਵਿੱਚ EPG ਰੀਲੋਡ ਨੂੰ ਅਨੁਸੂਚਿਤ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਇੱਕ ਬਿਹਤਰ ਈਪੀਜੀ ਸਰੋਤ ਲੱਭ ਸਕਦੇ ਹੋ ਅਤੇ ਉਹਨਾਂ ਦੀ ਸੰਰਚਨਾ ਕਰ ਸਕਦੇ ਹੋ.</string>
     <string name="spread_title">ਐਪ ਦੀ ਤਰ੍ਹਾਂ? ਸ਼ਬਦ ਨੂੰ ਫੈਲਾਓ!</string>
     <string name="spread_btn_rate">ਪੰਜ ਸਟਾਰ ਨਾਲ ਐਪ ਨੂੰ ਦਰਜਾ ਦਿਓ</string>
     <string name="spread_btn_share">ਕਿਸੇ ਦੋਸਤ ਨਾਲ ਐਪ ਲਿੰਕ ਸਾਂਝੇ ਕਰੋ</string>
@@ -269,7 +268,6 @@
     <string name="cfg_play_action_unbind">ਪ੍ਰਕਿਰਿਆ ਨਾ ਕਰੋ (ਸਿਸਟਮ ਵਿਵਹਾਰ ਨੂੰ ਜਾਰੀ ਰੱਖੋ)</string>
     <string name="settings_codec_auto">ਪ੍ਰਦਾਤਾ ਲਈ ਡਿਫਾਲਟ ਕੋਡਕ</string>
     <string name="cfg_ign_last_codec">ਇੱਕ ਚੈਨਲ ਨੂੰ ਚਲਾਉਣ ਲਈ ਪਿਛਲੇ ਕੋਡੈਕ ਨੂੰ ਯਾਦ ਨਾ ਕਰੋ</string>
-    <string name="btn_schedule_epg">ਅਨੁਸੂਚੀ EPG ਰੀਲੋਡ ਕਰੋ</string>
     <string name="err_archive_is_shorter">ਤੁਹਾਡੇ ਪ੍ਰਦਾਤਾ ਲਈ ਇਸ ਚੈਨਲ ਲਈ ਆਰਕਾਈਵ ਘੱਟ ਉਮਰ ਭਰ ਹੈ</string>
     <string name="cfg_section_backup">ਬੈਕਅਪ ਅਤੇ ਰੀਸਟੋਰ ਕਰੋ</string>
     <string name="btn_backup_info">ਬੈਕਅੱਪ ਇੱਕ ਕੁੰਜੀ ਦੁਆਰਾ ਸਟੋਰ ਕੀਤੀ ਗਈ ਹੈ ਜਿਵੇਂ ਹੀ ਬੈਕਅੱਪ ਪੂਰਾ ਹੁੰਦਾ ਹੈ, ਇਸ ਨੂੰ ਲਿਖੋ. ਇਸ ਗੱਲ ਦੀ ਕੋਈ ਗਾਰੰਟੀ ਨਹੀਂ ਹੈ ਕਿ ਬੈਕਅੱਪ ਕਿੰਨਾ ਚਿਰ ਉਪਲਬਧ ਹੋਵੇਗਾ.</string>
@@ -655,4 +653,12 @@
     <string name="editing_is_restricted">ਤੁਹਾਡੀ ਕੌਂਫਿਗਰੇਸ਼ਨ ਵਿੱਚ ਚੈਨਲਾਂ ਦੇ ਪ੍ਰਬੰਧਨ ਦੀ ਮਨਾਹੀ ਹੈ</string>
     <string name="lock_editing">ਲੌਕ ਸੰਪਾਦਨ (ਚੈਨਲ ਪ੍ਰਬੰਧਨ ਦੀ ਮਨਾਹੀ)</string>
     <string name="use_fixed_screen_res">ਫਿਕਸਡ ਸਕ੍ਰੀਨ ਰੈਜ਼ੋਲਿ .ਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="use_local_ch_numbers">ਚੈਨਲ ਨੰਬਰ ਦੇ ਤੌਰ ਤੇ ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਚੈਨਲ ਸਥਿਤੀ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="check_faq">ਆਪਣੇ ਮੁੱਦੇ ਦੇ ਸੰਭਾਵਤ ਹੱਲਾਂ ਲਈ ਅਕਸਰ ਪੁੱਛੇ ਜਾਂਦੇ ਸਵਾਲਾਂ ਦੀ ਜਾਂਚ ਕਰੋ.</string>
+    <string name="arch_ask_leave_cfg">ਆਰਕਾਈਵ ਕੀਤੀ ਵੀਡੀਓ ਦਾ ਪਲੇਬੈਕ ਛੱਡਣ ਵੇਲੇ ਪੁੱਛੋ</string>
+    <string name="arch_ask_leave_ask">ਕੀ ਤੁਸੀਂ ਇਸ ਸਮੇਂ ਪੁਰਾਲੇਖ ਵੀਡੀਓ ਚਲਾਉਣਾ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="compact_list">ਸੰਖੇਪ ਸੂਚੀ</string>
+    <string name="lock_settings">ਐਪ ਸੈਟਿੰਗਜ਼ ਤੱਕ ਪਹੁੰਚ ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ</string>
+    <string name="mass_hide_offer">ਕੀ ਤੁਸੀਂ ਵੀ ਹੋਰ ਤੱਤਾਂ ਦੀ ਦਿੱਖ ਨੂੰ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="mass_hide_header">ਵੇਖਣਯੋਗ ਸੰਸਥਾਵਾਂ</string>
     </resources>

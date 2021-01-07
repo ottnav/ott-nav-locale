@@ -1,5 +1,5 @@
 <resources>
-<string name="press_back_once_more_to_exit">Tryck en gång till för att avsluta</string>
+    <string name="press_back_once_more_to_exit">Tryck en gång till för att avsluta</string>
     <string name="search_bar">Sök efter kanaler eller program</string>
     <string name="search_bar_clue">prova film, tv-serier, tv-programnamn eller namn på skådespelare</string>
     <string name="menu_search">Videosökning</string>
@@ -170,7 +170,6 @@
     <string name="cfg_trans_wind">Använd transparent gränssnitt</string>
     <string name="do_not_show">visa inte</string>
     <string name="android_not_genuine">Köp fungerar kanske inte på din enhet.</string>
-    <string name="menu_error_require_status_archive_text">Arkivdata är inte tillgängliga än. Om detta försenas under lång tid betyder det vanligtvis att inga TV-programdata (EPG) är tillgängliga. I detta fall kan du schemalägga omladdning av EPG i inställningar eller söka efter bättre EPG-källor och konfigurera dem.</string>
     <string name="spread_title">Gillar appen? Sprid ordet!</string>
     <string name="spread_btn_rate">Betygsätt appen med fem stjärnor</string>
     <string name="spread_btn_share">Dela applänk med en vän</string>
@@ -210,7 +209,6 @@
     <string name="cfg_play_action_unbind">bearbeta inte (behålla systemets beteende)</string>
     <string name="settings_codec_auto">standardkodek för leverantör</string>
     <string name="cfg_ign_last_codec">kommer inte ihåg den senaste codec som användes för att spela en kanal</string>
-    <string name="btn_schedule_epg">schema EPG ladda om</string>
     <string name="err_archive_is_shorter">Arkivet för den här kanalen har kortare livslängd hos din leverantör</string>
     <string name="cfg_section_backup">Säkerhetskopiering och återställning</string>
     <string name="btn_backup_info">Säkerhetskopiering lagras med en nyckel. Skriv ner det så snart säkerhetskopian är klar. Det finns ingen garanti hur länge säkerhetskopian är tillgänglig.</string>
@@ -484,7 +482,7 @@
     <string name="never">aldrig</string>
     <string name="by_default">som standard</string>
     <string name="sleep_timer">Sleep timer</string>
-<string name="err_need_provider">IPTV-leverantör krävs</string>
+    <string name="err_need_provider">IPTV-leverantör krävs</string>
     <string name="err_need_provider_text">Du måste konfigurera din IPTV-leverantör. Öppna inställningarna och lägg till din leverantör (eller en spellista).</string>
     <string name="unlock_premium">Lås upp premium</string>
     <string name="about_app">Om app</string>
@@ -584,4 +582,15 @@
     <string name="not_supported_by_device">Stöds inte av din enhet</string>
     <string name="delay_before_retrying_video_on_error">Fördröja innan du försöker återöppna strömmen vid fel</string>
     <string name="night_mode">Nattläge</string>
+    <string name="editing_is_restricted">Din konfiguration förbjuder hantering av kanaler</string>
+    <string name="lock_editing">Låsredigering (förbjud kanalhantering)</string>
+    <string name="use_fixed_screen_res">Använd fast skärmupplösning</string>
+    <string name="use_local_ch_numbers">Använd kanalposition i kategori som kanalnummer</string>
+    <string name="check_faq">Kolla FAQ för möjliga lösningar för ditt problem.</string>
+<string name="arch_ask_leave_cfg">Fråga när du lämnar uppspelning av arkiverad video</string>
+    <string name="arch_ask_leave_ask">Vill du sluta spela upp arkivvideo just nu?</string>
+    <string name="compact_list">kompakt lista</string>
+    <string name="lock_settings">Begränsa åtkomsten till appinställningar</string>
+    <string name="mass_hide_offer">Vill du också ändra synligheten för andra element?</string>
+    <string name="mass_hide_header">Synliga enheter</string>
     </resources>

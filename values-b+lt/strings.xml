@@ -233,7 +233,6 @@
 
     <string name="do_not_show">ne rodyti</string>
     <string name="android_not_genuine">Pirkiniai gali būti nesuderinami su Jūsų įrenginiu.</string>
-    <string name="menu_error_require_status_archive_text">Archyvo duomenys kolkas nepasiekiami. Jei jie ilgai nepasirodo, dažnai tai reiškia, kad EPG programa nepasiekiama. Šioje situacijoje paieškokite labiau patikimo EPG šaltinio.</string>
     <string name="spread_title">Patinka programa? Papasakokite kitiems!</string>
     <string name="spread_btn_rate">Įvertinti 5 žvaigždutėmis</string>
     <string name="spread_btn_share">Pasidalinti programa su draugu</string>
@@ -275,7 +274,6 @@
     <string name="cfg_play_action_unbind">ne apdoroti (palikti sistemos darbą)</string>
     <string name="settings_codec_auto">kodekas pagal nutylėjimą</string>
     <string name="cfg_ign_last_codec">neprisiminti paskutinio naudoto kodeko kanalui</string>
-    <string name="btn_schedule_epg">suplanuoti EPG atnaujinimus</string>
     <string name="err_archive_is_shorter">archyvas pasirinktam kanalui prieinamas trumpesniam laikui</string>
     <string name="cfg_section_backup">Išsaugojimas ir įkėlimas</string>
     <string name="btn_backup_info">Išsaugoma naudojant raktą. Užsirašyk jį iš karto po išsaugojimo, vėliau nebus garantijų dėl jo veikimo.</string>
@@ -661,4 +659,12 @@
     <string name="editing_is_restricted">Pagal konfigūraciją draudžiama tvarkyti kanalus</string>
     <string name="lock_editing">Užrakinti redagavimą (uždrausti kanalo valdymą)</string>
     <string name="use_fixed_screen_res">Naudokite fiksuotą ekrano skiriamąją gebą</string>
+    <string name="use_local_ch_numbers">Naudokite kanalo padėtį kategorijoje kaip kanalo numerį</string>
+    <string name="check_faq">Patikrinkite DUK apie galimus jūsų problemos sprendimus.</string>
+    <string name="arch_ask_leave_cfg">Paklauskite palikdami archyvuoto vaizdo įrašo atkūrimą</string>
+    <string name="arch_ask_leave_ask">Ar norite sustabdyti šiuo metu rodomą archyvo vaizdo įrašą?</string>
+    <string name="compact_list">kompaktiškas sąrašas</string>
+    <string name="lock_settings">Apriboti prieigą prie programos nustatymų</string>
+    <string name="mass_hide_offer">Ar norite pakeisti ir kitų elementų matomumą?</string>
+    <string name="mass_hide_header">Matomi subjektai</string>
     </resources>

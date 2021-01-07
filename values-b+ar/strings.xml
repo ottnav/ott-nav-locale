@@ -229,7 +229,6 @@
 
     <string name="do_not_show">لا تظهر</string>
     <string name="android_not_genuine">قد لا تعمل عمليات الشراء على جهازك.</string>
-    <string name="menu_error_require_status_archive_text">بيانات الأرشيف غير متاحة حتى الآن. إذا تأخر هذا لفترة طويلة ، فعادةً ما يعني ذلك أنه لا تتوفر بيانات برنامج تلفزيوني (EPG). في هذه الحالة ، يمكنك جدولة إعادة تحميل EPG في الإعدادات أو البحث عن مصادر EPG أفضل وتكوينها.</string>
     <string name="spread_title">هل أعجبك التطبيق؟ انشر الكلمة!</string>
     <string name="spread_btn_rate">تقييم التطبيق مع خمس نجوم</string>
     <string name="spread_btn_share">مشاركة رابط التطبيق مع صديق</string>
@@ -270,7 +269,6 @@
     <string name="cfg_play_action_unbind">لا تتم المعالجة (الحفاظ على سلوك النظام)</string>
     <string name="settings_codec_auto">برنامج الترميز الافتراضي للموفر</string>
     <string name="cfg_ign_last_codec">لا تتذكر برنامج الترميز الأخير المستخدم لتشغيل قناة</string>
-    <string name="btn_schedule_epg">جدول إعادة تحميل EPG</string>
     <string name="err_archive_is_shorter">إن أرشيف هذه القناة له عمر أقصر على مزودك</string>
     <string name="cfg_section_backup">النسخ الاحتياطي واستعادة</string>
     <string name="btn_backup_info">يتم تخزين النسخ الاحتياطي عن طريق مفتاح. اكتبه بمجرد اكتمال النسخ الاحتياطي. لا يوجد ضمان بمدى توفر النسخة الاحتياطية.</string>
@@ -656,4 +654,12 @@
     <string name="editing_is_restricted">التكوين الخاص بك يمنع إدارة القنوات</string>
     <string name="lock_editing">تحرير القفل (حظر إدارة القناة)</string>
     <string name="use_fixed_screen_res">استخدم دقة الشاشة الثابتة</string>
+    <string name="use_local_ch_numbers">استخدم موضع القناة في الفئة كرقم قناة</string>
+    <string name="check_faq">تحقق من الأسئلة الشائعة لمعرفة الحلول الممكنة لمشكلتك.</string>
+    <string name="arch_ask_leave_cfg">اسأل عند مغادرة تشغيل الفيديو المؤرشف</string>
+    <string name="arch_ask_leave_ask">هل ترغب في إيقاف تشغيل فيديو الأرشيف حاليًا؟</string>
+    <string name="compact_list">ﺔﻃﻮﻐﻀﻣ ﺔﻤﺋﺎﻗ</string>
+    <string name="lock_settings">ﻖﻴﺒﻄﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺪﻴﻴﻘﺗ</string>
+    <string name="mass_hide_offer">؟ﺎﻀًﻳﺃ ﻯﺮﺧﻷ﻿ﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺔﻳﺅﺭ ﺮﻴﻴﻐﺗ ﺪﻳﺮﺗ ﻞﻫ</string>
+    <string name="mass_hide_header">ﺔﻴﺋﺮﻣ ﺕﺎﻧﺎﻴﻛ</string>
     </resources>

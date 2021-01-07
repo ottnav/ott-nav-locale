@@ -229,7 +229,6 @@
 
     <string name="do_not_show">jangan tunjuk</string>
     <string name="android_not_genuine">Pembelian mungkin tidak berfungsi pada peranti anda.</string>
-    <string name="menu_error_require_status_archive_text">Data arkib belum tersedia lagi. Sekiranya ini tertangguh untuk jangka masa yang panjang, biasanya tidak ada data program TV (EPG) yang tersedia. Dalam kes ini, anda boleh menjadualkan semula nilai EPG dalam tetapan atau mencari sumber EPG yang lebih baik dan konfigurasikannya.</string>
     <string name="spread_title">Seperti aplikasinya? Sebarkan!</string>
     <string name="spread_btn_rate">Rate aplikasi dengan lima bintang</string>
     <string name="spread_btn_share">Kongsi pautan aplikasi dengan rakan</string>
@@ -270,7 +269,6 @@
     <string name="cfg_play_action_unbind">tidak memproses (pastikan tingkah laku sistem)</string>
     <string name="settings_codec_auto">codec lalai untuk pembekal</string>
     <string name="cfg_ign_last_codec">jangan ingat codec terakhir digunakan untuk memainkan saluran</string>
-    <string name="btn_schedule_epg">jadual semula EPG</string>
     <string name="err_archive_is_shorter">Arkib untuk saluran ini mempunyai jangka hayat yang lebih pendek pada pembekal anda</string>
     <string name="cfg_section_backup">Sandaran dan pulihkan</string>
     <string name="btn_backup_info">Cadangan disusun oleh kunci. Tuliskannya sebaik sahaja sandaran selesai. Tidak ada jaminan berapa lama sandaran akan tersedia.</string>
@@ -469,7 +467,7 @@
     <string name="hint_long_ok_menu">Butang OK menekan butang membuka skrin sifat dalam kebanyakan kes</string>
     <string name="save_state">Simpan keadaan</string>
     <string name="restore_state">Pulihkan keadaan</string>
-<string name="pro_studio">Mod studio, membolehkan menonton pelbagai aliran pada masa yang sama</string>
+    <string name="pro_studio">Mod studio, membolehkan menonton pelbagai aliran pada masa yang sama</string>
     <string name="cfg_prov_channel_name">Tunjukkan nama penyedia dalam nama saluran apabila menggunakan berbilang pembekal</string>
     <string name="increase_text_size">meningkatkan saiz teks</string>
     <string name="hint_long_up_down">Anak panah menekan ke atas dan ke bawah membolehkan navigasi senarai lebih cepat</string>
@@ -553,7 +551,7 @@
     <string name="never">tidak pernah</string>
     <string name="by_default">secara lalai</string>
     <string name="sleep_timer">Pemasa tidur</string>
-<string name="err_need_provider">Pembekal IPTV diperlukan</string>
+    <string name="err_need_provider">Pembekal IPTV diperlukan</string>
     <string name="err_need_provider_text">Anda perlu mengkonfigurasi pembekal IPTV anda. Buka tetapan dan tambah pembekal anda (atau senarai main).</string>
     <string name="unlock_premium">Buka kunci premium</string>
     <string name="about_app">Mengenai aplikasi</string>
@@ -653,4 +651,15 @@
     <string name="delay_before_retrying_video_on_error">Kelewatan sebelum mencuba untuk membuka semula aliran jika berlaku kesilapan</string>
     <string name="disable_vod_genres">Lumpuhkan genre di perpustakaan media</string>
     <string name="night_mode">Mod malam</string>
+    <string name="editing_is_restricted">Konfigurasi anda melarang menguruskan saluran</string>
+    <string name="lock_editing">Penyuntingan kunci (melarang pengurusan saluran)</string>
+    <string name="use_fixed_screen_res">Gunakan resolusi skrin tetap</string>
+    <string name="use_local_ch_numbers">Gunakan kedudukan saluran dalam kategori sebagai nombor saluran</string>
+    <string name="check_faq">Lihat Soalan Lazim untuk kemungkinan penyelesaian masalah anda.</string>
+<string name="arch_ask_leave_cfg">Tanya semasa meninggalkan main balik video yang diarkibkan</string>
+    <string name="arch_ask_leave_ask">Adakah anda ingin berhenti bermain video arkib pada masa ini?</string>
+    <string name="compact_list">senarai padat</string>
+    <string name="lock_settings">Hadkan akses ke tetapan aplikasi</string>
+    <string name="mass_hide_offer">Adakah anda mahu mengubah keterlihatan elemen lain juga?</string>
+    <string name="mass_hide_header">Entiti yang dapat dilihat</string>
     </resources>

@@ -228,7 +228,6 @@
 
     <string name="do_not_show">Ne pas montrer</string>
     <string name="android_not_genuine">Les achats pourraient ne pas fonctionner sur votre appareil.</string>
-    <string name="menu_error_require_status_archive_text">Les données d\'archives ne sont pas encore disponibles. Si cela est retardé pendant une longue période, cela signifie généralement qu\'aucune donnée de programme TV (EPG) n\'est disponible. Dans ce cas, vous pouvez programmer le rechargement EPG dans les paramètres ou rechercher de meilleures sources EPG et les configurer.</string>
     <string name="spread_title">Vous aimez l\'application? Passez le mot!</string>
     <string name="spread_btn_rate">Évaluez l\'application avec cinq étoiles</string>
     <string name="spread_btn_share">Partager le lien de l\'application avec un ami</string>
@@ -269,7 +268,6 @@
     <string name="cfg_play_action_unbind">Ne pas traiter (garder le comportement du système)</string>
     <string name="settings_codec_auto">Codec par défaut pour le fournisseur</string>
     <string name="cfg_ign_last_codec">Ne me souviens pas du dernier codec utilisé pour lire une chaîne</string>
-    <string name="btn_schedule_epg">Planifier le rechargement de l\'EPG</string>
     <string name="err_archive_is_shorter">Les archives de ce canal ont une durée de vie plus courte chez votre fournisseur.</string>
     <string name="cfg_section_backup">Sauvegarde et restauration</string>
     <string name="btn_backup_info">La sauvegarde est stockée par clé. Ecrivez-la dès que la sauvegarde est terminée. Il n\'y a aucune garantie sur la durée de la sauvegarde.</string>
@@ -655,4 +653,12 @@
     <string name="editing_is_restricted">Votre configuration interdit la gestion des canaux</string>
     <string name="lock_editing">Verrouiller l\'édition (interdire la gestion des chaînes)</string>
     <string name="use_fixed_screen_res">Utiliser une résolution d\'écran fixe</string>
+    <string name="use_local_ch_numbers">Utiliser la position du canal dans la catégorie comme numéro de canal</string>
+    <string name="check_faq">Consultez la FAQ pour les solutions possibles à votre problème.</string>
+    <string name="arch_ask_leave_cfg">Demander en quittant la lecture de la vidéo archivée</string>
+    <string name="arch_ask_leave_ask">Souhaitez-vous arrêter la lecture de la vidéo d\'archive en cours?</string>
+    <string name="compact_list">liste compacte</string>
+    <string name="lock_settings">Restreindre l\'accès aux paramètres de l\'application</string>
+    <string name="mass_hide_offer">Souhaitez-vous également modifier la visibilité d\'autres éléments?</string>
+    <string name="mass_hide_header">Entités visibles</string>
     </resources>

@@ -228,7 +228,6 @@
 
     <string name="do_not_show">nicht zeigen</string>
     <string name="android_not_genuine">Käufe funktionieren möglicherweise nicht auf Ihrem Gerät.</string>
-    <string name="menu_error_require_status_archive_text">Archivdaten sind noch nicht verfügbar. Sollte es zu lange dauern, bedeutet dies , dass keine EPG Daten verfügbar sind. In diesem Fall können Sie den EPG-Neuladevorgang in den Einstellungen planen oder nach besseren EPG-Quellen suchen und diese hinzufügen.</string>
     <string name="spread_title">Gefällt Dir OTT-Navigator? Teile weiter :)</string>
     <string name="spread_btn_rate">Bewerte App mit fünf Sternen</string>
     <string name="spread_btn_share">App-Link mit einem Freund teilen</string>
@@ -269,7 +268,6 @@
     <string name="cfg_play_action_unbind">nicht verarbeiten (Systemverhalten beibehalten)</string>
     <string name="settings_codec_auto">Standard-Codec für Provider</string>
     <string name="cfg_ign_last_codec">zuletzt verwendeten Codec nicht merken, der zum abspielen dieses Kanals verwendetet wurde</string>
-    <string name="btn_schedule_epg">EPG neu laden</string>
     <string name="err_archive_is_shorter">Das Archiv für diesen Kanal hat bei Ihrem Provider eine kürzere Lebensdauer</string>
     <string name="cfg_section_backup">Sichern und Wiederherstellen</string>
     <string name="btn_backup_info">Die Sicherung wird von einem Schlüssel gespeichert. Notieren Sie es, sobald die Sicherung abgeschlossen ist. Es gibt keine Garantie dafür, wie lange das Backup verfügbar ist.</string>
@@ -655,4 +653,12 @@
     <string name="editing_is_restricted">Ihre Konfiguration verbietet die Verwaltung von Kanälen</string>
     <string name="lock_editing">Sperren der Bearbeitung (Kanalverwaltung verbieten)</string>
     <string name="use_fixed_screen_res">Verwenden Sie eine feste Bildschirmauflösung</string>
+    <string name="use_local_ch_numbers">Verwenden Sie die Kanalposition in der Kategorie als Kanalnummer</string>
+    <string name="check_faq">In den häufig gestellten Fragen finden Sie mögliche Lösungen für Ihr Problem.</string>
+    <string name="arch_ask_leave_cfg">Fragen Sie beim Verlassen der Wiedergabe des archivierten Videos</string>
+    <string name="arch_ask_leave_ask">Möchten Sie die Wiedergabe von Archivvideos beenden?</string>
+    <string name="compact_list">kompakte Liste</string>
+    <string name="lock_settings">Beschränken Sie den Zugriff auf App-Einstellungen</string>
+    <string name="mass_hide_offer">Möchten Sie auch die Sichtbarkeit anderer Elemente ändern?</string>
+    <string name="mass_hide_header">Sichtbare Einheiten</string>
     </resources>

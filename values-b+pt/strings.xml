@@ -228,7 +228,6 @@
 
     <string name="do_not_show">não exibir</string>
     <string name="android_not_genuine">As compras podem não funcionar no seu dispositivo.</string>
-    <string name="menu_error_require_status_archive_text">Os dados do arquivo ainda não estão disponíveis. Se o tempo de espera for elevado, normalmente significa que nenhum dado do programa de TV (EPG) está disponível. Nesse caso, você pode programar o recarregamento da guia de programação (EPG) nas configurações ou procurar fontes melhores e configurá-las.</string>
     <string name="spread_title">Gostou do aplicativo? Divulgue!</string>
     <string name="spread_btn_rate">Avaliar aplicativo com cinco estrelas</string>
     <string name="spread_btn_share">Compartilhar o link do aplicativo com um amigo</string>
@@ -269,7 +268,6 @@
     <string name="cfg_play_action_unbind">não processar (manter comportamento do sistema)</string>
     <string name="settings_codec_auto">codec padrão para o provedor</string>
     <string name="cfg_ign_last_codec">Não lembrar o último codec utilizado para reproduzir um canal</string>
-    <string name="btn_schedule_epg">agendar carregamento da guia de programação (EPG)</string>
     <string name="err_archive_is_shorter">A gravação deste canal tem tempo menor no seu provedor</string>
     <string name="cfg_section_backup">Backup e Restauração</string>
     <string name="btn_backup_info">O backup é armazenado por uma chave. Anote-a assim que o backup for concluído. Não há garantia de quanto tempo o backup estará disponível.</string>
@@ -655,4 +653,12 @@
     <string name="editing_is_restricted">Sua configuração proíbe o gerenciamento de canais</string>
     <string name="lock_editing">Edição de bloqueio (proibir gerenciamento de canal)</string>
     <string name="use_fixed_screen_res">Use resolução de tela fixa</string>
+    <string name="use_local_ch_numbers">Use a posição do canal na categoria como número do canal</string>
+    <string name="check_faq">Verifique as Perguntas frequentes para obter as soluções possíveis para o seu problema.</string>
+    <string name="arch_ask_leave_cfg">Pergunte ao sair da reprodução do vídeo arquivado</string>
+    <string name="arch_ask_leave_ask">Deseja parar de reproduzir o vídeo de arquivo no momento?</string>
+    <string name="compact_list">lista compacta</string>
+    <string name="lock_settings">Restringir o acesso às configurações do aplicativo</string>
+    <string name="mass_hide_offer">Você deseja alterar a visibilidade de outros elementos também?</string>
+    <string name="mass_hide_header">Entidades visíveis</string>
     </resources>

@@ -221,7 +221,6 @@
 
     <string name="do_not_show">не показувати</string>
     <string name="android_not_genuine">Покупки можуть не працювати на вашому пристрої.</string>
-    <string name="menu_error_require_status_archive_text">Архівні дані ще недоступні. Якщо вони довго не з\'являтимуться, зазвичай це означає, що телепрограма (EPG) не доступна. У цьому випадку ви можете запланувати перезавантаження EPG в налаштуваннях або шукати кращі джерела EPG і налаштувати їх.</string>
     <string name="spread_title">Подобається додаток? Розкажіть про нього!</string>
     <string name="spread_btn_rate">Оцініть додаток п\'ятьма зірками</string>
     <string name="spread_btn_share">Поділіться посиланням на програму з другом</string>
@@ -262,7 +261,6 @@
     <string name="cfg_play_action_unbind">не обробляти (залишити системну поведінку)</string>
     <string name="settings_codec_auto">кодек для провайдера</string>
     <string name="cfg_ign_last_codec">не запам\'ятовувати останній використаний для каналу кодек</string>
-    <string name="btn_schedule_epg">запланувати перезавантаження EPG</string>
     <string name="err_archive_is_shorter">Архів для цього каналу доступний на менший час у вашого провайдера</string>
     <string name="cfg_section_backup">Резервне копіювання і відновлення</string>
     <string name="btn_backup_info">Резервне копіювання зберігається ключем. Запишіть його, як тільки резервне копіювання буде завершено. Немає гарантії того, як довго буде доступна резервна копія.</string>
@@ -646,4 +644,15 @@
     <string name="not_supported_by_device">Не підтримується вашим пристроєм</string>
     <string name="delay_before_retrying_video_on_error">Затримка перед повторною спробою, щоб знову відкрити потік при помилці</string>
     <string name="night_mode">Нічний режим</string>
-</resources>
+    <string name="editing_is_restricted">Ваша конфігурація забороняє керувати каналами</string>
+    <string name="lock_editing">Редагування блокування (заборона управління каналом)</string>
+    <string name="use_fixed_screen_res">Використовуйте фіксовану роздільну здатність екрану</string>
+    <string name="use_local_ch_numbers">Використовувати позицію каналу в категорії як номер каналу</string>
+    <string name="check_faq">Перевірте поширені запитання щодо можливих рішень для вашої проблеми.</string>
+<string name="arch_ask_leave_cfg">Запитувати, коли залишаєте відтворення заархівованого відео</string>
+    <string name="arch_ask_leave_ask">Ви хочете зупинити поточне відтворення архівного відео?</string>
+    <string name="compact_list">компактний список</string>
+    <string name="lock_settings">Обмежте доступ до налаштувань програми</string>
+    <string name="mass_hide_offer">Ви хочете змінити видимість інших елементів?</string>
+    <string name="mass_hide_header">Видимі сутності</string>
+    </resources>

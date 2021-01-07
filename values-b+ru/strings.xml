@@ -222,7 +222,6 @@
 
     <string name="do_not_show">не показывать</string>
     <string name="android_not_genuine">Покупки могут не работать на вашем устройстве.</string>
-    <string name="menu_error_require_status_archive_text">Архивные данные пока недоступны. Если они долго не появляются, обычно означает, что телепрограмма (EPG) недоступна. В этом случае вы можете запланировать загрузку EPG в настройках или найти и настроить более подходящие источники EPG.</string>
     <string name="spread_title">Нравится приложение? Расскажите о нём!</string>
     <string name="spread_btn_rate">Поставить рейтинг в пять звёзд</string>
     <string name="spread_btn_share">Поделиться приложением с другом</string>
@@ -263,7 +262,6 @@
     <string name="cfg_play_action_unbind">не обрабатывать (оставить системное поведение)</string>
     <string name="settings_codec_auto">кодек по умолчанию для провайдера</string>
     <string name="cfg_ign_last_codec">не запоминать последний использованный кодек для канала</string>
-    <string name="btn_schedule_epg">запланировать загрузку EPG</string>
     <string name="err_archive_is_shorter">Архив данного канала доступен на меньшее время у вашего провайдера</string>
     <string name="cfg_section_backup">Сохранение и загрузка</string>
     <string name="btn_backup_info">Сохранение хранится по ключу. Запиши его как только сохранение завершено. Нет гарантий, как долго сохранение будет доступно для загрузки.</string>
@@ -650,4 +648,12 @@
     <string name="editing_is_restricted">Ваша конфигурация запрещает управление каналами</string>
     <string name="lock_editing">Заблокировать редактирование (запретить управление каналами)</string>
     <string name="use_fixed_screen_res">Использовать фиксированное разрешение экрана</string>
+    <string name="use_local_ch_numbers">Использовать позицию канала в категории как номер канала</string>
+    <string name="check_faq">Ознакомьтесь с FAQ, чтобы узнать о возможных решениях вашей проблемы.</string>
+    <string name="arch_ask_leave_cfg">Спрашивать при выходе из воспроизведения архивного видео</string>
+    <string name="arch_ask_leave_ask">Вы хотите остановить воспроизведение архивного видео?</string>
+    <string name="compact_list">компактный список</string>
+    <string name="lock_settings">Ограничить доступ к настройкам приложения</string>
+    <string name="mass_hide_offer">Вы хотите изменить видимость и других элементов?</string>
+    <string name="mass_hide_header">Видимые объекты</string>
     </resources>

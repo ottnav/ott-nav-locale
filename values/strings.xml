@@ -223,7 +223,6 @@
 
     <string name="do_not_show">do not show</string>
     <string name="android_not_genuine">Purchases might not work on your device.</string>
-    <string name="menu_error_require_status_archive_text">Archive data is not available yet. If this is delayed for a long time it usually means that no TV-program data (EPG) is available. In this case you can schedule EPG reload in settings or search for a better EPG sources and configure them.</string>
     <string name="spread_title">Like the app? Spread the word!</string>
     <string name="spread_btn_rate">Rate app with five stars</string>
     <string name="spread_btn_share">Share app link with a friend</string>
@@ -264,7 +263,6 @@
     <string name="cfg_play_action_unbind">do not process (keep system behavior)</string>
     <string name="settings_codec_auto">default codec for provider</string>
     <string name="cfg_ign_last_codec">do not remember last codec used to play a channel</string>
-    <string name="btn_schedule_epg">schedule EPG reload</string>
     <string name="err_archive_is_shorter">Archive for this channel has shorter lifetime on your provider</string>
     <string name="cfg_section_backup">Backup and restore</string>
     <string name="btn_backup_info">Backup is stored by a key. Write it down as soon as the backup is complete. There is no guarantee how long the backup will be available.</string>
@@ -651,4 +649,12 @@
     <string name="editing_is_restricted">Your configuration prohibits managing channels</string>
     <string name="lock_editing">Lock editing (prohibit channel management)</string>
     <string name="use_fixed_screen_res">Use fixed screen resolution</string>
+    <string name="use_local_ch_numbers">Use channel position in category as channel number</string>
+    <string name="check_faq">Check FAQ for the possible solutions for your issue.</string>
+    <string name="arch_ask_leave_cfg">Ask when leaving playback of archived video</string>
+    <string name="arch_ask_leave_ask">Do you wish to stop currently playing archive video?</string>
+    <string name="compact_list">compact list</string>
+    <string name="lock_settings">Restrict access to app settings</string>
+    <string name="mass_hide_offer">Do you want to change visibility of other elements as well?</string>
+    <string name="mass_hide_header">Visible entities</string>
 </resources>

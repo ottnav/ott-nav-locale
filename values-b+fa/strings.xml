@@ -230,7 +230,6 @@
 
     <string name="do_not_show">نشان نده</string>
     <string name="android_not_genuine">خرید ممکن است بر روی دستگاه شما کار نکند.</string>
-    <string name="menu_error_require_status_archive_text">داده های بایگانی هنوز در دسترس نیست اگر این مدت طولانی به تعویق افتاد، معمولا این بدان معنی است که هیچ اطلاعات برنامه تلویزیونی (EPG) در دسترس نیست. در این حالت می توانید برنامه را دوباره در تنظیمات EPG برنامه ریزی کنید یا برای منابع بهتر EPG جستجو کنید و آنها را پیکربندی کنید.</string>
     <string name="spread_title">مانند برنامه؟ کلمه را پخش کنید</string>
     <string name="spread_btn_rate">برنامه را با پنج ستاره مقایسه کنید</string>
     <string name="spread_btn_share">پیوند برنامه را با یک دوست به اشتراک بگذارید</string>
@@ -271,7 +270,6 @@
     <string name="cfg_play_action_unbind">پردازش نکنید (رفتار سیستم را ادامه دهید)</string>
     <string name="settings_codec_auto">کدک پیش فرض برای ارائه دهنده</string>
     <string name="cfg_ign_last_codec">آخر کدک مورد استفاده برای پخش یک کانال را به یاد نمی آورید</string>
-    <string name="btn_schedule_epg">برنامه بازپرداخت EPG</string>
     <string name="err_archive_is_shorter">بایگانی برای این کانال طول عمر کوتاهتری را در ارائه دهنده شما دارد</string>
     <string name="cfg_section_backup">پشتیبان گیری و بازیابی</string>
     <string name="btn_backup_info">پشتیبان گیری با کلید یک طبقه است. به محض تکمیل پشتیبان، آن را بنویسید. هیچ تضمینی وجود ندارد که چه مدت پشتیبان در دسترس باشد.</string>
@@ -657,4 +655,12 @@
     <string name="editing_is_restricted">پیکربندی شما مدیریت کانال ها را منع می کند</string>
     <string name="lock_editing">ویرایش قفل (منع مدیریت کانال)</string>
     <string name="use_fixed_screen_res">از وضوح صفحه نمایش ثابت استفاده کنید</string>
+    <string name="use_local_ch_numbers">از موقعیت کانال در گروه به عنوان شماره کانال استفاده کنید</string>
+    <string name="check_faq">سQالات متداول را برای یافتن راه حل های ممکن برای مسئله خود بررسی کنید.</string>
+    <string name="arch_ask_leave_cfg">هنگام ترک پخش فیلم بایگانی شده ، س Askال کنید</string>
+    <string name="arch_ask_leave_ask">آیا می خواهید پخش بایگانی ویدیو را متوقف کنید؟</string>
+    <string name="compact_list">ﺭﻮﺟ ﻭ ﻊﻤﺟ ﺖﺴﯿﻟ</string>
+    <string name="lock_settings">ﺪﯿﻨﮐ ﺩﻭﺪﺤﻣ ﺍﺭ ﻪﻣﺎﻧﺮﺑ ﺕﺎﻤﯿﻈﻨﺗ ﻪﺑ ﯽﺳﺮﺘﺳﺩ</string>
+    <string name="mass_hide_offer">؟ﺪﯿﻫﺩ ﺮﯿﯿﻐﺗ ﺰﯿﻧ ﺍﺭ ﺮﺻﺎﻨﻋ ﺮﯾﺎﺳ ﻩﺪﻫﺎﺸﻣ ﺖﯿﻠﺑﺎﻗ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﺎﯾﺁ</string>
+    <string name="mass_hide_header">ﻩﺪﻫﺎﺸﻣ ﻞﺑﺎﻗ ﯼﺎﻫﺩﺎﻬﻧ</string>
     </resources>

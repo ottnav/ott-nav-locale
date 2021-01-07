@@ -228,7 +228,6 @@
 
     <string name="do_not_show">אל תראה</string>
     <string name="android_not_genuine">ייתכן שהרכישות לא יפעלו במכשיר שלך.</string>
-    <string name="menu_error_require_status_archive_text">נתוני הארכיון אינם זמינים עדיין. אם זה מתעכב במשך זמן רב זה בדרך כלל אומר כי אין נתונים תוכנית טלוויזיה (EPG) זמין. במקרה זה ניתן לתזמן מחדש את EPG מחדש בהגדרות או לחפש מקורות EPG טובים יותר ולהגדיר אותם.</string>
     <string name="spread_title">כמו האפליקציה? תפיץ את המילה!</string>
     <string name="spread_btn_rate">דרג האפליקציה עם חמישה כוכבים</string>
     <string name="spread_btn_share">שתף קישור לאפליקציה עם חבר</string>
@@ -269,7 +268,6 @@
     <string name="cfg_play_action_unbind">אל תעבד (לשמור על התנהגות המערכת)</string>
     <string name="settings_codec_auto">ברירת המחדל של codec עבור ספק</string>
     <string name="cfg_ign_last_codec">לא זוכר קודק האחרון נהג לנגן ערוץ</string>
-    <string name="btn_schedule_epg">לוח הזמנים</string>
     <string name="err_archive_is_shorter">בארכיון של ערוץ זה יש חיים קצרים יותר על הספק שלך</string>
     <string name="cfg_section_backup">גיבוי ושחזור</string>
     <string name="btn_backup_info">גיבוי הוא מאוחסן על ידי מפתח. כתוב את זה מיד עם השלמת הגיבוי. אין ערובה כמה זמן הגיבוי יהיה זמין.</string>
@@ -468,7 +466,7 @@
     <string name="hint_long_ok_menu">לחיצה ארוכה על כפתור OK פותחת את מסך המאפיינים ברוב המקרים</string>
     <string name="save_state">שמור מדינה</string>
     <string name="restore_state">שחזר מצב</string>
-<string name="pro_studio">מצב סטודיו, מאפשר לצפות בזרמים מרובים בו זמנית</string>
+    <string name="pro_studio">מצב סטודיו, מאפשר לצפות בזרמים מרובים בו זמנית</string>
     <string name="cfg_prov_channel_name">הצג שם ספק בשם הערוץ בעת שימוש במספר ספקים</string>
     <string name="increase_text_size">הגדלת גודל הטקסט</string>
     <string name="hint_long_up_down">לחיצה ארוכה על חיצים למעלה ולמטה מאפשרת ניווט מהיר יותר ברשימה</string>
@@ -552,7 +550,7 @@
     <string name="never">לעולם לא</string>
     <string name="by_default">כברירת מחדל</string>
     <string name="sleep_timer">טיימר שינה</string>
-<string name="err_need_provider">ספק IPTV נדרש</string>
+    <string name="err_need_provider">ספק IPTV נדרש</string>
     <string name="err_need_provider_text">עליך להגדיר את תצורת ספק ה- IPTV שלך. פתח את ההגדרות והוסף את הספק שלך (או רשימת השמעה).</string>
     <string name="unlock_premium">ביטול נעילת הפרמיה</string>
     <string name="about_app">אודות אפליקציה</string>
@@ -652,4 +650,15 @@
     <string name="not_supported_by_device">לא נתמך על ידי המכשיר שלך</string>
     <string name="delay_before_retrying_video_on_error">השהה לפני שתנסה שוב לפתוח את הזרם בשגיאה</string>
     <string name="night_mode">מצב לילה</string>
+    <string name="editing_is_restricted">התצורה שלך אוסרת על ניהול ערוצים</string>
+    <string name="lock_editing">עריכת נעילה (אוסרת על ניהול ערוצים)</string>
+    <string name="use_fixed_screen_res">השתמש ברזולוציית מסך קבועה</string>
+    <string name="use_local_ch_numbers">השתמש במיקום הערוץ בקטגוריה כמספר ערוץ</string>
+    <string name="check_faq">עיין בשאלות נפוצות לגבי הפתרונות האפשריים לבעיה שלך.</string>
+<string name="arch_ask_leave_cfg">ןויכראב ןוטרסה תעמשה תא בזוע התא רשאכ לאש</string>
+    <string name="arch_ask_leave_ask">עגרכ ןויכראה ןוטרס תלעפה תא קיספהל ךנוצרב םאה?</string>
+    <string name="compact_list">תיטקפמוק המישר</string>
+    <string name="lock_settings">היצקילפאה תורדגהל השיג לבגה</string>
+    <string name="mass_hide_offer">ןכ םג םירחא םיטנמלא לש תוארנה תא תונשל הצור התא םאה?</string>
+    <string name="mass_hide_header">תויולג תויושי</string>
     </resources>
