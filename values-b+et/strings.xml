@@ -127,7 +127,7 @@
 
     <string name="settings_provider">Pakkuja</string>
     <string name="settings_media_library">Meediumiteek</string>
-    <string name="settings_media_library_dnla">Skannige UPnP / DNLA allikaid kohalikus võrgus</string>
+    <string name="settings_media_library_dnla">Skannige UPnP / DLNA allikaid kohalikus võrgus</string>
 
     <string name="settings_player">Mängija</string>
     <string name="settings_player_hide_ui">Peida taasesituse ajal kasutajaliidese ülekate</string>
@@ -146,33 +146,11 @@
     <string name="settings_visual">Visuaalne stiil</string>
 
     <string name="settings_live_quick_channel_switch_delay">Viivitus enne kiirvahetust</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>vahetada koheselt</item>
-        <item>võimaldada jätkata kanali valimist ühe sekundi jooksul</item>
-        <item>tavaline (2 sekundit edasiseks valikuks)</item>
-        <item>aeglane (5 sekundit edasiseks valikuks)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Broadcast-puhvri suurus</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>puhvrit ei ole (minimaalne mälu jalajälg)</item>
-        <item>standard</item>
-        <item>suurenenud</item>
-        <item>suur (vaene internet, halb voog)</item>
-        <item>tohutu (kõrge mälu kasutamine väga halbates tingimustes)</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">Kuva video vaatamise ajal praegune aeg</string>
 
     <string name="settings_font_style">Teksti suurus</string>
-    <string-array name="settings_font_style_names">
-        <item>Väike</item>
-        <item>Tavaline</item>
-        <item>Suur</item>
-        <item>Suur</item>
-        <item>Hiiglane (võib peita mõned valikud)</item>
-    </string-array>
-
     <string name="settings_palette_style">Värvipaleti skeem</string>
 
     <string name="settings_ui_screen_margins">Ekraani marginaalid</string>
@@ -663,4 +641,25 @@
     <string name="lock_settings">Piirake juurdepääsu rakenduse seadetele</string>
     <string name="mass_hide_offer">Kas soovite muuta ka teiste elementide nähtavust?</string>
     <string name="mass_hide_header">Nähtavad üksused</string>
+    <string name="xt_compact_card">Eriti kitsad kaardid</string>
+    <string name="clear_downloaded_data">Allalaaditud andmete kustutamine</string>
+    <string name="epg_multi_threaded">EPG värskendamisel kasutage mitut lõime. Muudab laadimise kiiremaks, kuid võib värskendamise ajal mõjutada rakenduse toimivust.</string>
+    <string name="switch_instantly">vahetada koheselt</string>
+    <string name="buffer_size_no">Taasesituse puhver puudub. Kasutab vähem mälu ja soovitatav, kui vaatate puhverserveriga sisu.</string>
+    <string name="buffer_size_p1">Suurendatud puhvri suurus</string>
+    <string name="buffer_size_p2">Suur puhvri suurus</string>
+    <string name="buffer_size_p3">Tohutu puhvri suurus</string>
+    <string name="font_size_sm">Väike</string>
+    <string name="font_size_lr">Suur</string>
+    <string name="font_size_hg">Suur+</string>
+    <string name="font_size_gi">Hiiglane (võib peita mõned valikud)</string>
+    <string name="max_results_to_show">Maksimaalne tulemuste arv, mida tuleks näidata</string>
+    <string name="set_scale_x">Määra kohandatud X-koordinaatide skaleerimine</string>
+    <string name="record_activity_history">Salvestage tegevuse ajalugu</string>
+    <string name="use_local_search">Kasutage ainult kohalikku otsingut</string>
+    <string name="prefer_cloud_storage">Failide kasutamine ei ole soovitatav, kuna neid ei varundata ja need võivad tulevastes versioonides olla piiratud. Kasutage selle asemel hüperlinke või pilvemälu.</string>
+    <string name="use_system_picker">Valige süsteemi pakutava valija abil</string>
+    <string name="selection_bitrate">Rajavalimine bitikiiruse järgi</string>
+    <string name="selection_bitrate_lowest">Eelistage madalaimat bitikiirust</string>
+    <string name="selection_bitrate_highest">Eelistage suurimat bitikiirust</string>
     </resources>

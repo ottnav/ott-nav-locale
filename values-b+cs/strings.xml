@@ -111,7 +111,7 @@
     <string name="hud_short_bright">Jas</string>
     <string name="settings_provider">Poskytovatel</string>
     <string name="settings_media_library">Knihovna médií</string>
-    <string name="settings_media_library_dnla">Prohledejte zdroje UPnP / DNLA v místní síti</string>
+    <string name="settings_media_library_dnla">Prohledejte zdroje UPnP / DLNA v místní síti</string>
     <string name="settings_player">Hráč</string>
     <string name="settings_player_hide_ui">Skrýt překrytí uživatelského rozhraní při přehrávání v systému Windows</string>
     <string name="settings_player_resize_mode">Režim měřítka videa</string>
@@ -592,4 +592,25 @@
     <string name="lock_settings">Omezte přístup k nastavení aplikace</string>
     <string name="mass_hide_offer">Chcete změnit viditelnost i dalších prvků?</string>
     <string name="mass_hide_header">Viditelné entity</string>
+    <string name="xt_compact_card">Extra úzké karty</string>
+    <string name="clear_downloaded_data">Vymazat stažená data</string>
+    <string name="epg_multi_threaded">Při aktualizaci EPG použijte více vláken. Zrychluje načítání, ale může ovlivnit výkon aplikace při aktualizaci.</string>
+    <string name="switch_instantly">přepnout okamžitě</string>
+    <string name="buffer_size_no">Žádná vyrovnávací paměť pro přehrávání. Využívá méně paměti a doporučuje se při sledování proxy obsahu.</string>
+    <string name="buffer_size_p1">Zvýšená velikost vyrovnávací paměti</string>
+    <string name="buffer_size_p2">Velká velikost vyrovnávací paměti</string>
+    <string name="buffer_size_p3">Obrovská velikost pufru</string>
+    <string name="font_size_sm">Malý</string>
+    <string name="font_size_lr">Velký</string>
+    <string name="font_size_hg">Obrovský</string>
+    <string name="font_size_gi">Giant (může skrýt některé možnosti)</string>
+    <string name="max_results_to_show">Maximální počet výsledků, které by se měly zobrazit</string>
+    <string name="set_scale_x">Nastavte vlastní měřítko souřadnic X.</string>
+    <string name="record_activity_history">Zaznamenejte historii aktivity</string>
+    <string name="use_local_search">Použít pouze místní vyhledávání</string>
+    <string name="prefer_cloud_storage">Používání souborů se nedoporučuje, protože nejsou předmětem zálohování a v budoucích verzích mohou být omezeny. Místo toho použijte hypertextové odkazy nebo cloudové úložiště.</string>
+    <string name="use_system_picker">Vyberte pomocí výběru poskytnutého systémem</string>
+    <string name="selection_bitrate">Sledovat výběr podle bitrate</string>
+    <string name="selection_bitrate_lowest">Upřednostňovat nejnižší přenosovou rychlost</string>
+    <string name="selection_bitrate_highest">Upřednostňovat nejvyšší datový tok</string>
     </resources>

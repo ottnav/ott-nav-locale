@@ -111,7 +111,7 @@
     <string name="hud_short_bright">яркост</string>
     <string name="settings_provider">доставчик</string>
     <string name="settings_media_library">Медийна библиотека</string>
-    <string name="settings_media_library_dnla">Сканирайте UPnP / DNLA източници в локалната мрежа</string>
+    <string name="settings_media_library_dnla">Сканирайте UPnP / DLNA източници в локалната мрежа</string>
     <string name="settings_player">плейър</string>
     <string name="settings_player_hide_ui">Скриване на наслагването на потребителския интерфейс при възпроизвеждане в</string>
     <string name="settings_player_resize_mode">Режим на мащаб на видео</string>
@@ -592,4 +592,25 @@
     <string name="lock_settings">Ограничете достъпа до настройките на приложението</string>
     <string name="mass_hide_offer">Искате ли да промените видимостта и на други елементи?</string>
     <string name="mass_hide_header">Видими обекти</string>
+    <string name="xt_compact_card">Изключително тесни карти</string>
+    <string name="clear_downloaded_data">Изчистване на изтеглените данни</string>
+    <string name="epg_multi_threaded">Използвайте множество нишки, когато актуализирате EPG. Ускорява зареждането, но може да повлияе на ефективността на приложението, докато се актуализира.</string>
+    <string name="switch_instantly">превключете незабавно</string>
+    <string name="buffer_size_no">Няма буфер за възпроизвеждане. Използва по-малко памет и се препоръчва при гледане на прокси съдържание.</string>
+    <string name="buffer_size_p1">Увеличен размер на буфера</string>
+    <string name="buffer_size_p2">Голям размер на буфера</string>
+    <string name="buffer_size_p3">Огромен размер на буфера</string>
+    <string name="font_size_sm">Малък</string>
+    <string name="font_size_lr">Голям</string>
+    <string name="font_size_hg">Огромно</string>
+    <string name="font_size_gi">Гигант (може да скрие някои опции)</string>
+    <string name="max_results_to_show">Максимален брой резултати, които трябва да бъдат показани</string>
+    <string name="set_scale_x">Задайте персонализирано мащабиране на X-координати</string>
+    <string name="record_activity_history">Записвайте историята на активността</string>
+    <string name="use_local_search">Използвайте само локално търсене</string>
+    <string name="prefer_cloud_storage">Използването на файлове не се препоръчва, тъй като те не са обект на архивиране и може да бъдат ограничени в бъдещите версии. Вместо това използвайте хипервръзки или облачно хранилище.</string>
+    <string name="use_system_picker">Изберете с помощта на инструмент за избор, предоставен от системата</string>
+    <string name="selection_bitrate">Проследяване на избора по битрейт</string>
+    <string name="selection_bitrate_lowest">Предпочитайте най-ниската битрейт</string>
+    <string name="selection_bitrate_highest">Предпочитайте най-високата битрейт</string>
     </resources>

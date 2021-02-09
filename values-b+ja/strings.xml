@@ -132,7 +132,7 @@
 
     <string name="settings_provider">プロバイダ</string>
     <string name="settings_media_library">メディアライブラリ</string>
-    <string name="settings_media_library_dnla">ローカルネットワーク内のUPnP / DNLAソースをスキャンする</string>
+    <string name="settings_media_library_dnla">ローカルネットワーク内のUPnP / DLNAソースをスキャンする</string>
 
     <string name="settings_player">プレーヤー</string>
     <string name="settings_player_hide_ui">再生時のUIオーバーレイを非表示にする</string>
@@ -151,33 +151,11 @@
     <string name="settings_visual">ビジュアルスタイル</string>
 
     <string name="settings_live_quick_channel_switch_delay">クイックスイッチングチャネルの前の遅延</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>即座に切り替える</item>
-        <item>1秒間チャンネルの選択を続けることができます</item>
-        <item>標準（さらに選択するには2秒）</item>
-        <item>遅い（さらなる選択のために5秒）</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">ブロードキャストバッファサイズ</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>バッファなし（最小メモリ占有量）</item>
-        <item>標準</item>
-        <item>増加した</item>
-        <item>大規模（インターネット不足、ストリーム不足）</item>
-        <item>巨大（非常に悪い状態のために高いメモリ使用量）</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">ビデオを見ながら現在の時間を表示する</string>
 
     <string name="settings_font_style">文字サイズ</string>
-    <string-array name="settings_font_style_names">
-        <item>小さい</item>
-        <item>ノーマル</item>
-        <item>大</item>
-        <item>巨大</item>
-        <item>ジャイアント（いくつかのオプションを隠すかもしれない）</item>
-    </string-array>
-
     <string name="settings_palette_style">カラーパレット方式</string>
 
     <string name="settings_ui_screen_margins">画面のマージン</string>
@@ -663,4 +641,25 @@
     <string name="lock_settings">アプリ設定へのアクセスを制限する</string>
     <string name="mass_hide_offer">他の要素の可視性も変更しますか？</string>
     <string name="mass_hide_header">目に見えるエンティティ</string>
+    <string name="xt_compact_card">極細カード</string>
+    <string name="clear_downloaded_data">ダウンロードしたデータを消去する</string>
+    <string name="epg_multi_threaded">EPGを更新するときは、複数のスレッドを使用してください。ロードを高速化しますが、更新中にアプリのパフォーマンスに影響を与える可能性があります。</string>
+    <string name="switch_instantly">即座に切り替える</string>
+    <string name="buffer_size_no">再生バッファがありません。使用するメモリが少なく、プロキシされたコンテンツを視聴する場合に推奨されます。</string>
+    <string name="buffer_size_p1">バッファサイズの増加</string>
+    <string name="buffer_size_p2">大きなバッファサイズ</string>
+    <string name="buffer_size_p3">巨大なバッファサイズ</string>
+    <string name="font_size_sm">小さい</string>
+    <string name="font_size_lr">大</string>
+    <string name="font_size_hg">巨大</string>
+    <string name="font_size_gi">ジャイアント（いくつかのオプションを隠すかもしれない）</string>
+    <string name="max_results_to_show">表示する必要のある結果の最大数</string>
+    <string name="set_scale_x">カスタムX座標スケーリングを設定する</string>
+    <string name="record_activity_history">活動履歴を記録する</string>
+    <string name="use_local_search">ローカル検索のみを使用</string>
+    <string name="prefer_cloud_storage">ファイルはバックアップの対象ではなく、将来のバージョンで制限される可能性があるため、ファイルの使用はお勧めしません。代わりに、ハイパーリンクまたはクラウドストレージを使用してください。</string>
+    <string name="use_system_picker">システムが提供するピッカーを使用して選択します</string>
+    <string name="selection_bitrate">ビットレートによるトラック選択</string>
+    <string name="selection_bitrate_lowest">最も低いビットレートを優先する</string>
+    <string name="selection_bitrate_highest">最高のビットレートを優先する</string>
     </resources>

@@ -132,7 +132,7 @@
 
     <string name="settings_provider">Pembekal</string>
     <string name="settings_media_library">Perpustakaan media</string>
-    <string name="settings_media_library_dnla">Imbas sumber UPnP / DNLA dalam rangkaian tempatan</string>
+    <string name="settings_media_library_dnla">Imbas sumber UPnP / DLNA dalam rangkaian tempatan</string>
 
     <string name="settings_player">Pemain</string>
     <string name="settings_player_hide_ui">Sembunyikan lapisan UI dalam main semula</string>
@@ -151,33 +151,11 @@
     <string name="settings_visual">Gaya visual</string>
 
     <string name="settings_live_quick_channel_switch_delay">Kelewatan sebelum saluran pantas</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>bertukar dengan serta-merta</item>
-        <item>membenarkan untuk meneruskan pemilihan saluran selama satu saat</item>
-        <item>normal (2 saat untuk pilihan lanjut)</item>
-        <item>lambat (5 saat untuk pemilihan lanjut)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Saiz penimbal penyiaran</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>tiada penampan (jejak memori minima)</item>
-        <item>standard</item>
-        <item>meningkat</item>
-        <item>besar (internet miskin, aliran miskin)</item>
-        <item>besar (penggunaan memori yang tinggi untuk keadaan yang sangat buruk)</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">Tunjukkan masa semasa semasa menonton video</string>
 
     <string name="settings_font_style">Saiz teks</string>
-    <string-array name="settings_font_style_names">
-        <item>Kecil</item>
-        <item>Normal</item>
-        <item>Besar</item>
-        <item>Besar</item>
-        <item>Giant (boleh menyembunyikan beberapa pilihan)</item>
-    </string-array>
-
     <string name="settings_palette_style">Skema palet warna</string>
 
     <string name="settings_ui_screen_margins">Margin skrin</string>
@@ -662,4 +640,25 @@
     <string name="lock_settings">Hadkan akses ke tetapan aplikasi</string>
     <string name="mass_hide_offer">Adakah anda mahu mengubah keterlihatan elemen lain juga?</string>
     <string name="mass_hide_header">Entiti yang dapat dilihat</string>
+    <string name="xt_compact_card">Kad sempit tambahan</string>
+    <string name="clear_downloaded_data">Kosongkan data yang dimuat turun</string>
+    <string name="epg_multi_threaded">Gunakan pelbagai utas semasa mengemas kini EPG. Membuat muat lebih cepat tetapi mungkin mempengaruhi prestasi aplikasi semasa mengemas kini.</string>
+    <string name="switch_instantly">bertukar dengan serta-merta</string>
+    <string name="buffer_size_no">Tiada penampan main balik. Menggunakan memori yang lebih sedikit dan disyorkan jika menonton kandungan proksi.</string>
+    <string name="buffer_size_p1">Peningkatan saiz penyangga</string>
+    <string name="buffer_size_p2">Saiz penyangga yang besar</string>
+    <string name="buffer_size_p3">Saiz penyangga yang besar</string>
+    <string name="font_size_sm">Kecil</string>
+    <string name="font_size_lr">Besar</string>
+    <string name="font_size_hg">Besar+</string>
+    <string name="font_size_gi">Giant (boleh menyembunyikan beberapa pilihan)</string>
+    <string name="max_results_to_show">Kiraan maksimum hasil yang harus ditunjukkan</string>
+    <string name="set_scale_x">Tetapkan penskalaan koordinat X tersuai</string>
+    <string name="record_activity_history">Catat sejarah aktiviti</string>
+    <string name="use_local_search">Gunakan carian tempatan sahaja</string>
+    <string name="prefer_cloud_storage">Penggunaan fail tidak digalakkan, kerana bukan subjek untuk sandaran dan mungkin akan dibatasi pada versi yang akan datang. Sebagai gantinya, gunakan pautan hiper atau storan awan.</string>
+    <string name="use_system_picker">Pilih menggunakan alat pilih yang disediakan oleh sistem</string>
+    <string name="selection_bitrate">Jejak pemilihan mengikut kadar bit</string>
+    <string name="selection_bitrate_lowest">Lebih suka kadar bit terendah</string>
+    <string name="selection_bitrate_highest">Lebih suka kadar bit tertinggi</string>
     </resources>

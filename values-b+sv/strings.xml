@@ -112,7 +112,7 @@
     <string name="hud_short_bright">ljusstyrka</string>
     <string name="settings_provider">provider</string>
     <string name="settings_media_library">Media bibliotek</string>
-    <string name="settings_media_library_dnla">Skanna UPnP / DNLA-källor i lokalt nätverk</string>
+    <string name="settings_media_library_dnla">Skanna UPnP / DLNA-källor i lokalt nätverk</string>
     <string name="settings_player">Spelare</string>
     <string name="settings_player_hide_ui">Dölj UI-överlägg vid uppspelning i</string>
     <string name="settings_player_resize_mode">Videoskalaläge</string>
@@ -593,4 +593,25 @@
     <string name="lock_settings">Begränsa åtkomsten till appinställningar</string>
     <string name="mass_hide_offer">Vill du också ändra synligheten för andra element?</string>
     <string name="mass_hide_header">Synliga enheter</string>
+    <string name="xt_compact_card">Extra smala kort</string>
+    <string name="clear_downloaded_data">Rensa nedladdad data</string>
+    <string name="epg_multi_threaded">Använd flera trådar när du uppdaterar EPG. Laddar snabbare men kan påverka appens prestanda under uppdateringen.</string>
+    <string name="switch_instantly">växla direkt</string>
+    <string name="buffer_size_no">Ingen uppspelningsbuffert. Använder mindre minne och rekommenderas om du tittar på närstående innehåll.</string>
+    <string name="buffer_size_p1">Ökad buffertstorlek</string>
+    <string name="buffer_size_p2">Stor buffertstorlek</string>
+    <string name="buffer_size_p3">Stor buffertstorlek</string>
+    <string name="font_size_sm">Små</string>
+    <string name="font_size_lr">Stor</string>
+    <string name="font_size_hg">Enorm</string>
+    <string name="font_size_gi">Jätte (kan dölja vissa alternativ)</string>
+    <string name="max_results_to_show">Maximalt antal resultat som ska visas</string>
+    <string name="set_scale_x">Ställ in anpassad X-koordinatskalning</string>
+    <string name="record_activity_history">Spela in aktivitetshistorik</string>
+    <string name="use_local_search">Använd endast lokal sökning</string>
+    <string name="prefer_cloud_storage">Användning av filer rekommenderas inte, eftersom de inte är föremål för säkerhetskopiering och kan vara begränsade i framtida versioner. Använd istället hyperlänkar eller ett molnlagring.</string>
+    <string name="use_system_picker">Välj med en plockare som tillhandahålls av systemet</string>
+    <string name="selection_bitrate">Spåra val efter bithastighet</string>
+    <string name="selection_bitrate_lowest">Föredrar lägsta bithastighet</string>
+    <string name="selection_bitrate_highest">Föredrar högsta bithastighet</string>
     </resources>

@@ -151,33 +151,12 @@
     <string name="settings_visual">Visuellen Stil</string>
 
     <string name="settings_live_quick_channel_switch_delay">Verzögerung für die Schnellwahlleiste ( Bildschirmrand )</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>sofort wechseln</item>
-        <item>kurz (1 Sekunde für die weitere Auswahl)</item>
-        <item>normal (2 Sekunden für die weitere Auswahl)</item>
-        <item>langsam (5 Sekunden für die weitere Auswahl)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Videostream-Puffergröße</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>kein Puffer (minimaler Speicherbedarf)</item>
-        <item>Standard</item>
-        <item>erhöht</item>
-        <item>groß (schlechtes Internet, Stream zu langsam)</item>
-        <item>riesig (hoher Speicherverbrauch für sehr schlechtes Internet)</item>
-    </string-array>
 
     <string name="settings_show_clock_in_player_always">Zeigt die aktuelle Zeit während des Videos an</string>
 
     <string name="settings_font_style">Textgröße</string>
-    <string-array name="settings_font_style_names">
-        <item>Klein</item>
-        <item>Normal</item>
-        <item>Groß</item>
-        <item>Enorm</item>
-        <item>Riese (kann einige Optionen verbergen)</item>
-    </string-array>
-
     <string name="settings_palette_style">Farbpaletten-Schema</string>
 
     <string name="settings_ui_screen_margins">Bildschirmrand</string>
@@ -661,4 +640,25 @@
     <string name="lock_settings">Beschränken Sie den Zugriff auf App-Einstellungen</string>
     <string name="mass_hide_offer">Möchten Sie auch die Sichtbarkeit anderer Elemente ändern?</string>
     <string name="mass_hide_header">Sichtbare Einheiten</string>
+    <string name="xt_compact_card">Extra schmale Karten</string>
+    <string name="clear_downloaded_data">Heruntergeladene Daten löschen</string>
+    <string name="epg_multi_threaded">Verwenden Sie beim Aktualisieren des EPG mehrere Threads. Beschleunigt das Laden, kann jedoch die App-Leistung beim Aktualisieren beeinträchtigen.</string>
+    <string name="switch_instantly">sofort wechseln</string>
+    <string name="buffer_size_no">Kein Wiedergabepuffer. Verbraucht weniger Speicher und wird empfohlen, wenn Sie Proxy-Inhalte ansehen.</string>
+    <string name="buffer_size_p1">Erhöhte Puffergröße</string>
+    <string name="buffer_size_p2">Große Puffergröße</string>
+    <string name="buffer_size_p3">Riesige Puffergröße</string>
+    <string name="font_size_sm">Klein</string>
+    <string name="font_size_lr">Groß</string>
+    <string name="font_size_hg">Enorm</string>
+    <string name="font_size_gi">Riese (kann einige Optionen verbergen)</string>
+    <string name="max_results_to_show">Maximale Anzahl der Ergebnisse, die angezeigt werden sollen</string>
+    <string name="set_scale_x">Stellen Sie die benutzerdefinierte X-Koordinaten-Skalierung ein</string>
+    <string name="record_activity_history">Aktivitätsverlauf aufzeichnen</string>
+    <string name="use_local_search">Verwenden Sie nur die lokale Suche</string>
+    <string name="prefer_cloud_storage">Die Verwendung von Dateien wird nicht empfohlen, da sie nicht Gegenstand einer Sicherung sind und in zukünftigen Versionen möglicherweise eingeschränkt sind. Verwenden Sie stattdessen Hyperlinks oder einen Cloud-Speicher.</string>
+    <string name="use_system_picker">Wählen Sie mit einem vom System bereitgestellten Picker</string>
+    <string name="selection_bitrate">Spurauswahl nach Bitrate</string>
+    <string name="selection_bitrate_lowest">Bevorzugen Sie die niedrigste Bitrate</string>
+    <string name="selection_bitrate_highest">Bevorzugen Sie die höchste Bitrate</string>
     </resources>

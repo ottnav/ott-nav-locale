@@ -112,7 +112,7 @@
     <string name="hud_short_bright">Λάμψη</string>
     <string name="settings_provider">Προμηθευτής</string>
     <string name="settings_media_library">Βιβλιοθήκη μέσων</string>
-    <string name="settings_media_library_dnla">Σάρωση πηγών UPnP / DNLA σε τοπικό δίκτυο</string>
+    <string name="settings_media_library_dnla">Σάρωση πηγών UPnP / DLNA σε τοπικό δίκτυο</string>
     <string name="settings_player">Παίχτης</string>
     <string name="settings_player_hide_ui">Απόκρυψη επικάλυψης UI στην αναπαραγωγή σε</string>
     <string name="settings_player_resize_mode">Λειτουργία κλίμακας βίντεο</string>
@@ -593,4 +593,25 @@
     <string name="lock_settings">Περιορίστε την πρόσβαση στις ρυθμίσεις της εφαρμογής</string>
     <string name="mass_hide_offer">Θέλετε επίσης να αλλάξετε την ορατότητα και άλλων στοιχείων;</string>
     <string name="mass_hide_header">Ορατές οντότητες</string>
+    <string name="xt_compact_card">Πολύ στενές κάρτες</string>
+    <string name="clear_downloaded_data">Διαγραφή δεδομένων λήψης</string>
+    <string name="epg_multi_threaded">Χρησιμοποιήστε πολλά νήματα κατά την ενημέρωση του EPG. Κάνει τη φόρτωση πιο γρήγορα, αλλά ενδέχεται να επηρεάσει την απόδοση της εφαρμογής κατά την ενημέρωση.</string>
+    <string name="switch_instantly">εναλλαγή αμέσως</string>
+    <string name="buffer_size_no">Δεν υπάρχει buffer αναπαραγωγής. Χρησιμοποιεί λιγότερη μνήμη και συνιστάται εάν παρακολουθείτε περιεχόμενο μεσολάβησης.</string>
+    <string name="buffer_size_p1">Αυξημένο μέγεθος buffer</string>
+    <string name="buffer_size_p2">Μεγάλο μέγεθος buffer</string>
+    <string name="buffer_size_p3">Τεράστιο μέγεθος buffer</string>
+    <string name="font_size_sm">Μικρό</string>
+    <string name="font_size_lr">Μεγάλο</string>
+    <string name="font_size_hg">Τεράστιος</string>
+    <string name="font_size_gi">Γίγαντας (μπορεί να κρύψει μερικές επιλογές)</string>
+    <string name="max_results_to_show">Μέγιστος αριθμός αποτελεσμάτων που πρέπει να εμφανίζονται</string>
+    <string name="set_scale_x">Ορίστε προσαρμοσμένη κλίμακα συντεταγμένων Χ</string>
+    <string name="record_activity_history">Καταγράψτε το ιστορικό δραστηριότητας</string>
+    <string name="use_local_search">Χρησιμοποιήστε μόνο τοπική αναζήτηση</string>
+    <string name="prefer_cloud_storage">Δεν συνιστάται η χρήση αρχείων, καθώς δεν αποτελούν αντικείμενο δημιουργίας αντιγράφων ασφαλείας και ενδέχεται να περιοριστεί στις μελλοντικές εκδόσεις. Χρησιμοποιήστε τους υπερσυνδέσμους ή έναν αποθηκευτικό χώρο cloud.</string>
+    <string name="use_system_picker">Επιλέξτε χρησιμοποιώντας ένα εργαλείο επιλογής που παρέχεται από το σύστημα</string>
+    <string name="selection_bitrate">Παρακολούθηση επιλογής με ρυθμό bit</string>
+    <string name="selection_bitrate_lowest">Προτιμήστε το χαμηλότερο ρυθμό bit</string>
+    <string name="selection_bitrate_highest">Προτιμήστε το υψηλότερο ρυθμό bit</string>
     </resources>

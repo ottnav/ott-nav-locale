@@ -127,7 +127,7 @@
 
     <string name="settings_provider">供应商</string>
     <string name="settings_media_library">媒体库</string>
-    <string name="settings_media_library_dnla">扫描本地网络中的UPnP/DNLA源</string>
+    <string name="settings_media_library_dnla">扫描本地网络中的UPnP/DLNA源</string>
 
     <string name="settings_player">播放器</string>
     <string name="settings_player_hide_ui">频道信息框显示时长</string>
@@ -146,33 +146,11 @@
     <string name="settings_visual">视觉风格</string>
 
     <string name="settings_live_quick_channel_switch_delay">延迟换台</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>立即切换</item>
-        <item>1秒内可再次换频道</item>
-        <item>正常（2秒内）</item>
-        <item>慢（5秒内）</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">缓冲区大小</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>无（内存占用最小）</item>
-        <item>标准</item>
-        <item>稍大</item>
-        <item>大（适用于网络不佳、断流时）</item>
-        <item>超大（适用于恶劣网络条件情况下，内存占用最大）</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">播放时显示系统时间</string>
 
     <string name="settings_font_style">字体大小</string>
-    <string-array name="settings_font_style_names">
-        <item>小号</item>
-        <item>正常</item>
-        <item>大号</item>
-        <item>超大</item>
-        <item>特大（有些选项会被遮盖）</item>
-    </string-array>
-
     <string name="settings_palette_style">配色方案</string>
 
     <string name="settings_ui_screen_margins">屏幕边距</string>
@@ -460,7 +438,7 @@
     <string name="hint_long_ok_menu">长按遥控器确定键显示属性</string>
     <string name="save_state">状态保存</string>
     <string name="restore_state">状态恢复</string>
-<string name="pro_studio">Studio模式，允许同时观看多个流</string>
+    <string name="pro_studio">Studio模式，允许同时观看多个流</string>
     <string name="cfg_prov_channel_name">使用多个提供程序时在通道名称中显示提供程序名</string>
     <string name="increase_text_size">增加文字大小</string>
     <string name="hint_long_up_down">长按向上和向下箭头可以更快地进行列表导航</string>
@@ -544,7 +522,7 @@
     <string name="never">决不</string>
     <string name="by_default">默认情况下</string>
     <string name="sleep_timer">睡眠定时器</string>
-<string name="err_need_provider">需要IPTV提供商</string>
+    <string name="err_need_provider">需要IPTV提供商</string>
     <string name="err_need_provider_text">您需要配置IPTV提供商。打开设置并添加您的提供者（或播放列表）。</string>
     <string name="unlock_premium">解锁保费</string>
     <string name="about_app">关于应用</string>
@@ -655,4 +633,25 @@
     <string name="lock_settings">限制对应用程序设置的访问</string>
     <string name="mass_hide_offer">您是否还想更改其他元素的可见性？</string>
     <string name="mass_hide_header">可见实体</string>
+    <string name="xt_compact_card">超窄卡</string>
+    <string name="clear_downloaded_data">清除下载的数据</string>
+    <string name="epg_multi_threaded">更新EPG时使用多个线程。使加载速度更快，但在更新时可能会影响应用性能。</string>
+    <string name="switch_instantly">立即切换</string>
+<string name="buffer_size_no">没有播放缓冲区。使用较少的内存，如果观看代理内容，建议使用。</string>
+    <string name="buffer_size_p1">增加缓冲区大小</string>
+    <string name="buffer_size_p2">大缓冲区</string>
+    <string name="buffer_size_p3">巨大的缓冲区大小</string>
+    <string name="font_size_sm">小号</string>
+    <string name="font_size_lr">大号</string>
+    <string name="font_size_hg">超大</string>
+    <string name="font_size_gi">特大（有些选项会被遮盖）</string>
+    <string name="max_results_to_show">应显示的最大结果数</string>
+    <string name="set_scale_x">设置自定义X坐标缩放</string>
+    <string name="record_activity_history">记录活动历史</string>
+    <string name="use_local_search">仅使用本地搜索</string>
+    <string name="prefer_cloud_storage">不建议使用文件，因为它们不是备份的主题，并且在将来的版本中可能会受到限制。请改用超链接或云存储。</string>
+    <string name="use_system_picker">使用系统提供的选择器进行选择</string>
+    <string name="selection_bitrate">按比特率选择曲目</string>
+    <string name="selection_bitrate_lowest">首选最低比特率</string>
+    <string name="selection_bitrate_highest">首选最高比特率</string>
     </resources>

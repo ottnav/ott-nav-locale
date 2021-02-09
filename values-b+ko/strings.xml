@@ -132,7 +132,7 @@
 
     <string name="settings_provider">공급자</string>
     <string name="settings_media_library">미디어 라이브러리</string>
-    <string name="settings_media_library_dnla">로컬 네트워크에서 UPnP / DNLA 소스 검색</string>
+    <string name="settings_media_library_dnla">로컬 네트워크에서 UPnP / DLNA 소스 검색</string>
 
     <string name="settings_player">플레이어</string>
     <string name="settings_player_hide_ui">재생시 UI 오버레이 숨기기</string>
@@ -151,33 +151,12 @@
     <string name="settings_visual">비주얼 스타일</string>
 
     <string name="settings_live_quick_channel_switch_delay">빠른 스위칭 채널 이전의 지연</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>즉시 전환</item>
-        <item>1 초 동안 채널 선택 계속 허용</item>
-        <item>정상 (추가 선택을 위해 2 초)</item>
-        <item>느림 (추가 선택시 5 초)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">브로드 캐스트 버퍼 크기</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>버퍼 없음 (최소 메모리 풋 프린트)</item>
-        <item>표준</item>
-        <item>증가한</item>
-        <item>대형 (빈약 한 인터넷, 빈약 한 시내)</item>
-        <item>거대한 (매우 나쁜 상태에 대해 높은 메모리 사용량)</item>
-    </string-array>
 
     <string name="settings_show_clock_in_player_always">비디오를 보면서 현재 시간 표시</string>
 
     <string name="settings_font_style">텍스트 크기</string>
-    <string-array name="settings_font_style_names">
-        <item>작은</item>
-        <item>표준</item>
-        <item>큰</item>
-        <item>거대한</item>
-        <item>자이언트 (일부 옵션을 숨길 수 있음)</item>
-    </string-array>
-
     <string name="settings_palette_style">색상 표 스키마</string>
 
     <string name="settings_ui_screen_margins">화면 여백</string>
@@ -663,4 +642,25 @@
     <string name="lock_settings">앱 설정에 대한 액세스 제한</string>
     <string name="mass_hide_offer">다른 요소의 가시성도 변경 하시겠습니까?</string>
     <string name="mass_hide_header">보이는 엔티티</string>
+    <string name="xt_compact_card">매우 좁은 카드</string>
+    <string name="clear_downloaded_data">다운로드 한 데이터 지우기</string>
+    <string name="epg_multi_threaded">EPG를 업데이트 할 때 여러 스레드를 사용합니다. 로드 속도는 빨라지지만 업데이트하는 동안 앱 성능에 영향을 미칠 수 있습니다.</string>
+    <string name="switch_instantly">즉시 전환</string>
+    <string name="buffer_size_no">재생 버퍼가 없습니다. 메모리를 적게 사용하며 프록시 된 콘텐츠를 시청하는 경우 권장됩니다.</string>
+    <string name="buffer_size_p1">버퍼 크기 증가</string>
+    <string name="buffer_size_p2">큰 버퍼 크기</string>
+    <string name="buffer_size_p3">거대한 버퍼 크기</string>
+    <string name="font_size_sm">작은</string>
+    <string name="font_size_lr">큰</string>
+    <string name="font_size_hg">거대한</string>
+    <string name="font_size_gi">자이언트 (일부 옵션을 숨길 수 있음)</string>
+    <string name="max_results_to_show">표시되어야하는 최대 결과 수</string>
+    <string name="set_scale_x">사용자 지정 X 좌표 배율 설정</string>
+    <string name="record_activity_history">활동 내역 기록</string>
+    <string name="use_local_search">지역 검색 만 사용</string>
+    <string name="prefer_cloud_storage">파일 사용은 백업 대상이 아니며 향후 버전에서 제한 될 수 있으므로 권장되지 않습니다. 대신 하이퍼 링크 또는 클라우드 스토리지를 사용하십시오.</string>
+    <string name="use_system_picker">시스템에서 제공하는 선택기를 사용하여 선택</string>
+    <string name="selection_bitrate">비트 레이트 별 트랙 선택</string>
+    <string name="selection_bitrate_lowest">가장 낮은 비트 전송률 선호</string>
+    <string name="selection_bitrate_highest">가장 높은 비트 전송률 선호</string>
     </resources>

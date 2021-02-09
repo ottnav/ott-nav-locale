@@ -127,7 +127,7 @@
 
     <string name="settings_provider">Постачальний послуг</string>
     <string name="settings_media_library">Медіатека</string>
-    <string name="settings_media_library_dnla">Сканування джерел UPnP/DNLA у локальній мережі</string>
+    <string name="settings_media_library_dnla">Сканування джерел UPnP/DLNA у локальній мережі</string>
 
     <string name="settings_player">Програвач</string>
     <string name="settings_player_hide_ui">Приховувати інтерфейс керування відео через</string>
@@ -146,33 +146,11 @@
     <string name="settings_visual">Зовнішній вигляд</string>
 
     <string name="settings_live_quick_channel_switch_delay">Затримка перед швидким перемиканням каналів</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>перемикати миттєво</item>
-        <item>дозволити продовжити вибір каналу на одну секунду</item>
-        <item>нормальна (2 секунди на вибір)</item>
-        <item>повільна (5 секунд на вибір)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Розмір буфера трансляції</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>немає буфера (використовується мінімум пам\'яті)</item>
-        <item>стандартний</item>
-        <item>збільшений</item>
-        <item>великий (поганий інтернет, поганий потік)</item>
-        <item>величезний (високе використання пам\'яті для дуже поганого стану)</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">Показувати поточний час під час перегляду відео</string>
 
     <string name="settings_font_style">Розмір тексту</string>
-    <string-array name="settings_font_style_names">
-        <item>дрібний</item>
-        <item>нормальний</item>
-        <item>великий</item>
-        <item>величезний</item>
-        <item>гігантський (може приховувати деякі параметри)</item>
-    </string-array>
-
     <string name="settings_palette_style">Колірна схема</string>
 
     <string name="settings_ui_screen_margins">Поля екрана</string>
@@ -655,4 +633,25 @@
     <string name="lock_settings">Обмежте доступ до налаштувань програми</string>
     <string name="mass_hide_offer">Ви хочете змінити видимість інших елементів?</string>
     <string name="mass_hide_header">Видимі сутності</string>
+    <string name="xt_compact_card">Дуже вузькі картки</string>
+    <string name="clear_downloaded_data">Очистити завантажені дані</string>
+    <string name="epg_multi_threaded">Використовуйте кілька потоків під час оновлення EPG. Пришвидшує завантаження, але може впливати на продуктивність програми під час оновлення.</string>
+    <string name="switch_instantly">перемикати миттєво</string>
+    <string name="buffer_size_no">Немає буфера відтворення. Використовує менше пам\'яті та рекомендується під час перегляду вмісту через проксі-сервер.</string>
+    <string name="buffer_size_p1">Збільшений розмір буфера</string>
+    <string name="buffer_size_p2">Великий розмір буфера</string>
+    <string name="buffer_size_p3">Величезний розмір буфера</string>
+    <string name="font_size_sm">дрібний</string>
+    <string name="font_size_lr">великий</string>
+    <string name="font_size_hg">величезний</string>
+    <string name="font_size_gi">гігантський (може приховувати деякі параметри)</string>
+    <string name="max_results_to_show">Максимальна кількість результатів, які слід показати</string>
+    <string name="set_scale_x">Встановіть власне масштабування координат X</string>
+    <string name="record_activity_history">Запис історії активності</string>
+    <string name="use_local_search">Використовуйте лише локальний пошук</string>
+    <string name="prefer_cloud_storage">Використовувати файли не рекомендується, оскільки вони не є предметом для резервного копіювання і можуть бути обмежені в наступних версіях. Замість цього використовуйте гіперпосилання або хмарне сховище.</string>
+    <string name="use_system_picker">Виберіть за допомогою засобу вибору, наданого системою</string>
+    <string name="selection_bitrate">Вибір доріжки за бітрейтом</string>
+    <string name="selection_bitrate_lowest">Віддайте перевагу найнижчому бітрейту</string>
+    <string name="selection_bitrate_highest">Віддайте перевагу найвищому бітрейту</string>
     </resources>

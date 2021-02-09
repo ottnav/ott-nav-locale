@@ -1,5 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools"
-    tools:locale="en">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="press_back_once_more_to_exit">Press once more to exit</string>
 
     <string name="search_bar">Search by channels or programs</string>
@@ -128,7 +127,7 @@
 
     <string name="settings_provider">Provider</string>
     <string name="settings_media_library">Media library</string>
-    <string name="settings_media_library_dnla">Scan UPnP/DNLA sources in local network</string>
+    <string name="settings_media_library_dnla">Scan UPnP/DLNA sources in local network</string>
 
     <string name="settings_player">Player</string>
     <string name="settings_player_hide_ui">Hide UI overlay in playback in</string>
@@ -147,33 +146,12 @@
     <string name="settings_visual">Visual style</string>
 
     <string name="settings_live_quick_channel_switch_delay">Delay before quick-switching channels</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>switch instantly</item>
-        <item>allow to continue channel selection for one second</item>
-        <item>normal (2 seconds for further selection)</item>
-        <item>slow (5 seconds for further selection)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Broadcast buffer size</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>no buffer (minimal memory footprint)</item>
-        <item>standard</item>
-        <item>increased</item>
-        <item>large (poor internet, poor stream)</item>
-        <item>huge (high memory usage for very bad condition)</item>
-    </string-array>
 
     <string name="settings_show_clock_in_player_always">Show current time while watching video</string>
 
     <string name="settings_font_style">Text size</string>
-    <string-array name="settings_font_style_names">
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
-        <item>Giant (may hide some options)</item>
-    </string-array>
-
     <string name="settings_palette_style">Color palette scheme</string>
 
     <string name="settings_ui_screen_margins">Screen margins</string>
@@ -657,4 +635,25 @@
     <string name="lock_settings">Restrict access to app settings</string>
     <string name="mass_hide_offer">Do you want to change visibility of other elements as well?</string>
     <string name="mass_hide_header">Visible entities</string>
+    <string name="xt_compact_card">Extra narrow cards</string>
+    <string name="clear_downloaded_data">Clear downloaded data</string>
+    <string name="epg_multi_threaded">Use multiple threads when updating EPG. Makes load faster but might impact app performance while updating.</string>
+    <string name="switch_instantly">switch instantly</string>
+    <string name="buffer_size_no">No playback buffer. Uses less memory and recommended if watching proxied content.</string>
+    <string name="buffer_size_p1">Increased buffer size</string>
+    <string name="buffer_size_p2">Large buffer size</string>
+    <string name="buffer_size_p3">Huge buffer size</string>
+    <string name="font_size_sm">Small</string>
+    <string name="font_size_lr">Large</string>
+    <string name="font_size_hg">Huge</string>
+    <string name="font_size_gi">Giant (may hide some options)</string>
+    <string name="max_results_to_show">Maximal count of results that should be shown</string>
+    <string name="set_scale_x">Set custom X-coordinate scaling</string>
+    <string name="record_activity_history">Record activity history</string>
+    <string name="use_local_search">Use local search only</string>
+    <string name="prefer_cloud_storage">Using files is not recommended, since they are not a subject for backup and might be restricted in the future versions. Use hyperlinks or a cloud storage instead.</string>
+    <string name="use_system_picker">Select using a picker provided by system</string>
+    <string name="selection_bitrate">Track selection by bitrate</string>
+    <string name="selection_bitrate_lowest">Prefer lowest bitrate</string>
+    <string name="selection_bitrate_highest">Prefer highest bitrate</string>
 </resources>

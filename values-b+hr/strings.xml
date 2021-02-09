@@ -111,7 +111,7 @@
     <string name="hud_short_bright">svjetlost</string>
     <string name="settings_provider">davatelj</string>
     <string name="settings_media_library">Knjižnica medija</string>
-    <string name="settings_media_library_dnla">Skenirajte UPnP / DNLA izvore u lokalnoj mreži</string>
+    <string name="settings_media_library_dnla">Skenirajte UPnP / DLNA izvore u lokalnoj mreži</string>
     <string name="settings_player">Igrač</string>
     <string name="settings_player_hide_ui">Sakrij prekrivanje UI u reprodukciji u</string>
     <string name="settings_player_resize_mode">Način videozapisa</string>
@@ -592,4 +592,25 @@
     <string name="lock_settings">Ograničite pristup postavkama aplikacije</string>
     <string name="mass_hide_offer">Želite li promijeniti vidljivost i ostalih elemenata?</string>
     <string name="mass_hide_header">Vidljivi entiteti</string>
+    <string name="xt_compact_card">Izuzetno uske karte</string>
+    <string name="clear_downloaded_data">Obriši preuzete podatke</string>
+    <string name="epg_multi_threaded">Koristite više niti pri ažuriranju EPG-a. Ubrzava učitavanje, ali može utjecati na izvedbu aplikacije tijekom ažuriranja.</string>
+    <string name="switch_instantly">prebacite se trenutno</string>
+    <string name="buffer_size_no">Nema međuspremnika reprodukcije. Koristi manje memorije i preporučuje se za gledanje proxy sadržaja.</string>
+    <string name="buffer_size_p1">Povećana veličina međuspremnika</string>
+    <string name="buffer_size_p2">Velika veličina međuspremnika</string>
+    <string name="buffer_size_p3">Ogromna veličina međuspremnika</string>
+    <string name="font_size_sm">Mali</string>
+    <string name="font_size_lr">Veliki</string>
+    <string name="font_size_hg">Ogroman</string>
+    <string name="font_size_gi">Div (može sakriti neke opcije)</string>
+    <string name="max_results_to_show">Maksimalan broj rezultata koji bi trebali biti prikazani</string>
+    <string name="set_scale_x">Postavite prilagođeno skaliranje X-koordinata</string>
+    <string name="record_activity_history">Snimite povijest aktivnosti</string>
+    <string name="use_local_search">Koristite samo lokalno pretraživanje</string>
+    <string name="prefer_cloud_storage">Korištenje datoteka se ne preporučuje jer one nisu predmet sigurnosne kopije i u budućim verzijama mogu biti ograničene. Umjesto toga upotrijebite hiperveze ili pohranu u oblaku.</string>
+    <string name="use_system_picker">Odaberite pomoću birača koji nudi sustav</string>
+    <string name="selection_bitrate">Odabir zapisa brzinom prijenosa</string>
+    <string name="selection_bitrate_lowest">Dajte prednost najnižoj brzini prijenosa</string>
+    <string name="selection_bitrate_highest">Dajte prednost najvećoj brzini prijenosa</string>
     </resources>

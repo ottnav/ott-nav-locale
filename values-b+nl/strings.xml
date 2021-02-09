@@ -112,7 +112,7 @@
     <string name="hud_short_bright">Helderheid</string>
     <string name="settings_provider">Provider</string>
     <string name="settings_media_library">Mediatheek</string>
-    <string name="settings_media_library_dnla">Scan UPnP/DNLA-bronnen in lokaal netwerk</string>
+    <string name="settings_media_library_dnla">Scan UPnP/DLNA-bronnen in lokaal netwerk</string>
     <string name="settings_player">Speler</string>
     <string name="settings_player_hide_ui">UI-overlay verbergen tijdens afspelen in</string>
     <string name="settings_player_resize_mode">Video verschaling modus</string>
@@ -593,4 +593,25 @@
     <string name="lock_settings">Beperk de toegang tot app-instellingen</string>
     <string name="mass_hide_offer">Wil je ook de zichtbaarheid van andere elementen veranderen?</string>
     <string name="mass_hide_header">Zichtbare entiteiten</string>
+    <string name="xt_compact_card">Extra smalle kaartjes</string>
+    <string name="clear_downloaded_data">Wis gedownloade gegevens</string>
+    <string name="epg_multi_threaded">Gebruik meerdere threads bij het bijwerken van EPG. Maakt het laden sneller, maar kan de prestaties van de app beïnvloeden tijdens het updaten.</string>
+    <string name="switch_instantly">schakelen onmiddellijk</string>
+    <string name="buffer_size_no">Geen afspeelbuffer. Gebruikt minder geheugen en wordt aanbevolen bij het bekijken van proxy-inhoud.</string>
+    <string name="buffer_size_p1">Verhoogde buffergrootte</string>
+    <string name="buffer_size_p2">Grote buffergrootte</string>
+    <string name="buffer_size_p3">Enorme buffergrootte</string>
+    <string name="font_size_sm">Klein</string>
+    <string name="font_size_lr">Groot</string>
+    <string name="font_size_hg">Reusachtig</string>
+    <string name="font_size_gi">Reus (kan sommige opties verbergen)</string>
+    <string name="max_results_to_show">Maximaal aantal resultaten dat moet worden weergegeven</string>
+    <string name="set_scale_x">Stel aangepaste X-coördinaten schaal in</string>
+    <string name="record_activity_history">Leg activiteitengeschiedenis vast</string>
+    <string name="use_local_search">Gebruik alleen lokaal zoeken</string>
+    <string name="prefer_cloud_storage">Het gebruik van bestanden wordt niet aanbevolen, aangezien ze geen onderwerp zijn voor back-up en mogelijk beperkt zijn in de toekomstige versies. Gebruik in plaats daarvan hyperlinks of een cloudopslag.</string>
+    <string name="use_system_picker">Selecteer met behulp van een kiezer die door het systeem wordt geleverd</string>
+    <string name="selection_bitrate">Track selectie op bitrate</string>
+    <string name="selection_bitrate_lowest">Geef de voorkeur aan de laagste bitsnelheid</string>
+    <string name="selection_bitrate_highest">Geef de voorkeur aan de hoogste bitsnelheid</string>
     </resources>

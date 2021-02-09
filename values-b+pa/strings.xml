@@ -132,7 +132,7 @@
 
     <string name="settings_provider">ਦੇਣ ਵਾਲੇ</string>
     <string name="settings_media_library">ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ</string>
-    <string name="settings_media_library_dnla">ਸਥਾਨਕ ਨੈਟਵਰਕ ਵਿੱਚ UPnP / DNLA ਸਰੋਤਾਂ ਨੂੰ ਸਕੈਨ ਕਰੋ</string>
+    <string name="settings_media_library_dnla">ਸਥਾਨਕ ਨੈਟਵਰਕ ਵਿੱਚ UPnP / DLNA ਸਰੋਤਾਂ ਨੂੰ ਸਕੈਨ ਕਰੋ</string>
 
     <string name="settings_player">ਪਲੇਅਰ</string>
     <string name="settings_player_hide_ui">ਪਲੇਅਬੈਕ ਵਿੱਚ UI ਓਵਰਲੇ ਓਹਲੇ ਕਰੋ</string>
@@ -151,33 +151,11 @@
     <string name="settings_visual">ਵਿਜ਼ੂਅਲ ਸਟਾਈਲ</string>
 
     <string name="settings_live_quick_channel_switch_delay">ਤੇਜ਼-ਬਦਲਣ ਵਾਲੇ ਚੈਨਲਾਂ ਤੋਂ ਪਹਿਲਾਂ ਦੇਰੀ</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>ਤੁਰੰਤ ਸਵਿੱਚ ਕਰੋ</item>
-        <item>ਇੱਕ ਸਕਿੰਟ ਲਈ ਚੈਨਲ ਚੁਣਨ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦੇ ਹਨ</item>
-        <item>ਸਧਾਰਨ (ਹੋਰ ਚੋਣ ਲਈ 2 ਸਕਿੰਟ)</item>
-        <item>ਹੌਲੀ (ਹੋਰ ਚੋਣ ਲਈ 5 ਸਕਿੰਟ)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">ਪ੍ਰਸਾਰਣ ਬਫਰ ਦਾ ਆਕਾਰ</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>ਕੋਈ ਬਫਰ (ਘੱਟੋ ਘੱਟ ਮੈਮੋਰੀ ਪਦ ਚਿਤਰ)</item>
-        <item>ਮਿਆਰੀ</item>
-        <item>ਵਾਧਾ ਹੋਇਆ</item>
-        <item>ਵੱਡਾ (ਗਰੀਬ ਇੰਟਰਨੈਟ, ਗਰੀਬ ਸਟਰੀਟ)</item>
-        <item>ਵੱਡੀ (ਬਹੁਤ ਹੀ ਮਾੜੀ ਹਾਲਤ ਲਈ ਉੱਚ ਮੈਮੋਰੀ ਵਰਤੋਂ)</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">ਵੀਡੀਓ ਦੇਖਦੇ ਹੋਏ ਮੌਜੂਦਾ ਸਮੇਂ ਦਿਖਾਓ</string>
 
     <string name="settings_font_style">ਟੈਕਸਟ ਦਾ ਆਕਾਰ</string>
-    <string-array name="settings_font_style_names">
-        <item>ਛੋਟਾ</item>
-        <item>ਸਧਾਰਣ</item>
-        <item>ਵੱਡਾ</item>
-        <item>ਵੱਡਾ</item>
-        <item>ਦੈਤ (ਕੁਝ ਵਿਕਲਪ ਲੁਕਾ ਸਕਦੇ ਹਨ)</item>
-    </string-array>
-
     <string name="settings_palette_style">ਰੰਗ ਪੈਲਅਟ ਸਕੀਮ</string>
 
     <string name="settings_ui_screen_margins">ਸਕ੍ਰੀਨ ਮਾਰਜਿਨ</string>
@@ -661,4 +639,25 @@
     <string name="lock_settings">ਐਪ ਸੈਟਿੰਗਜ਼ ਤੱਕ ਪਹੁੰਚ ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ</string>
     <string name="mass_hide_offer">ਕੀ ਤੁਸੀਂ ਵੀ ਹੋਰ ਤੱਤਾਂ ਦੀ ਦਿੱਖ ਨੂੰ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
     <string name="mass_hide_header">ਵੇਖਣਯੋਗ ਸੰਸਥਾਵਾਂ</string>
+    <string name="xt_compact_card">ਵਾਧੂ ਤੰਗ ਕਾਰਡ</string>
+    <string name="clear_downloaded_data">ਡਾedਨਲੋਡ ਕੀਤਾ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="epg_multi_threaded">ਈਪੀਜੀ ਨੂੰ ਅਪਡੇਟ ਕਰਨ ਵੇਲੇ ਕਈ ਥ੍ਰੈਡਸ ਦੀ ਵਰਤੋਂ ਕਰੋ. ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਕਰਦਾ ਹੈ ਪਰ ਅਪਡੇਟ ਕਰਨ ਵੇਲੇ ਐਪ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਪ੍ਰਭਾਵਤ ਕਰ ਸਕਦਾ ਹੈ.</string>
+    <string name="switch_instantly">ਤੁਰੰਤ ਸਵਿੱਚ ਕਰੋ</string>
+    <string name="buffer_size_no">ਕੋਈ ਪਲੇਬੈਕ ਬਫਰ ਨਹੀਂ. ਘੱਟ ਮੈਮੋਰੀ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ ਅਤੇ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਜੇ ਪ੍ਰੌਕਸੀਡ ਸਮੱਗਰੀ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋ.</string>
+    <string name="buffer_size_p1">ਬਫ਼ਰ ਦਾ ਆਕਾਰ ਵਧਿਆ</string>
+    <string name="buffer_size_p2">ਵੱਡਾ ਬਫਰ ਆਕਾਰ</string>
+    <string name="buffer_size_p3">ਭਾਰੀ ਬਫਰ ਦਾ ਆਕਾਰ</string>
+    <string name="font_size_sm">ਛੋਟਾ</string>
+    <string name="font_size_lr">ਵੱਡਾ</string>
+    <string name="font_size_hg">ਵੱਡਾ</string>
+    <string name="font_size_gi">ਦੈਤ (ਕੁਝ ਵਿਕਲਪ ਲੁਕਾ ਸਕਦੇ ਹਨ)</string>
+    <string name="max_results_to_show">ਨਤੀਜੇ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਗਿਣਤੀ ਜੋ ਦਿਖਾਈ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ</string>
+    <string name="set_scale_x">ਕਸਟਮ ਐਕਸ-ਕੋਆਰਡੀਨੇਟ ਸਕੇਲਿੰਗ ਸੈਟ ਕਰੋ</string>
+    <string name="record_activity_history">ਗਤੀਵਿਧੀ ਦਾ ਇਤਿਹਾਸ ਰਿਕਾਰਡ ਕਰੋ</string>
+    <string name="use_local_search">ਸਿਰਫ ਸਥਾਨਕ ਖੋਜ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="prefer_cloud_storage">ਫਾਈਲਾਂ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਸਿਫਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ, ਕਿਉਂਕਿ ਇਹ ਬੈਕਅਪ ਲਈ ਵਿਸ਼ਾ ਨਹੀਂ ਹਨ ਅਤੇ ਭਵਿੱਖ ਦੇ ਸੰਸਕਰਣਾਂ ਵਿੱਚ ਇਸ ਨੂੰ ਸੀਮਿਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ. ਇਸ ਦੀ ਬਜਾਏ ਹਾਈਪਰਲਿੰਕਸ ਜਾਂ ਕਲਾਉਡ ਸਟੋਰੇਜ ਦੀ ਵਰਤੋਂ ਕਰੋ.</string>
+    <string name="use_system_picker">ਸਿਸਟਮ ਦੁਆਰਾ ਦਿੱਤੇ ਗਏ ਇੱਕ ਚੋਣਕਰ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਚੁਣੋ</string>
+    <string name="selection_bitrate">ਬਿੱਟਰੇਟ ਦੁਆਰਾ ਚੋਣ ਨੂੰ ਟਰੈਕ ਕਰੋ</string>
+    <string name="selection_bitrate_lowest">ਘੱਟ ਬਿਟਰੇਟ ਨੂੰ ਤਰਜੀਹ</string>
+    <string name="selection_bitrate_highest">ਸਭ ਤੋਂ ਵੱਧ ਬਿਟਰੇਟ ਨੂੰ ਤਰਜੀਹ ਦਿਓ</string>
     </resources>

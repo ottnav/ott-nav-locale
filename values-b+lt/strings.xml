@@ -135,7 +135,7 @@
 
     <string name="settings_provider">Tiekėjas</string>
     <string name="settings_media_library">Mediateka</string>
-    <string name="settings_media_library_dnla">Ieškoti UPnP/DNLA šaltinių vietiniame tinkle</string>
+    <string name="settings_media_library_dnla">Ieškoti UPnP/DLNA šaltinių vietiniame tinkle</string>
 
     <string name="settings_player">Grotuvas</string>
     <string name="settings_player_hide_ui">Slėpti grotuvo sąsają po</string>
@@ -154,33 +154,11 @@
     <string name="settings_visual">Išorinis vaizdas</string>
 
     <string name="settings_live_quick_channel_switch_delay">Užlaikymas prieš greitą kanalų perjungimą</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>perjungti nedelsiant</item>
-        <item>sulaikyti 1 sekundei</item>
-        <item>sulaikyti 2 sekundėm</item>
-        <item>sulaikyti 5 sekundėm</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Grotuvo buferio dydis</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>be buferio (minimaliai naudojama įrenginio atmintis)</item>
-        <item>standartinis</item>
-        <item>padidintas</item>
-        <item>didelis (lėtas internetas, silpnas šaltinis)</item>
-        <item>labai didelis (maksimaliai naudojama įrenginio atmintis)</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">Rodyti einamą laiką transliacijos metu</string>
 
     <string name="settings_font_style">Teksto dydis</string>
-    <string-array name="settings_font_style_names">
-        <item>mažas</item>
-        <item>normalus</item>
-        <item>didelis</item>
-        <item>labai didelis</item>
-        <item>gigantiškas (gali slėptis keletas programos galimybių)</item>
-    </string-array>
-
     <string name="settings_palette_style">Spalvos</string>
 
     <string name="settings_ui_screen_margins">Ekrano kraštinės</string>
@@ -502,7 +480,7 @@
     <string name="video_unsupported">Šiuo įrenginiu negalima leisti nė vieno vaizdo įrašo takelio</string>
     <string name="audio_unsupported">Šiuo įrenginiu negalima leisti nė vieno garso takelio</string>
     <string name="try_other_codecs">Išbandykite įvairius kodekus ar išorinį grotuvą</string>
-    <string name="media_tracks">Žiniasklaidos takeliai</string>
+    <string name="media_tracks">garso takeliai</string>
     <string name="media_tracks_video">Vaizdo įrašas</string>
     <string name="media_tracks_audio">Garsas</string>
     <string name="media_tracks_sub">Subtitrai</string>
@@ -667,4 +645,25 @@
     <string name="lock_settings">Apriboti prieigą prie programos nustatymų</string>
     <string name="mass_hide_offer">Ar norite pakeisti ir kitų elementų matomumą?</string>
     <string name="mass_hide_header">Matomi subjektai</string>
+    <string name="xt_compact_card">Ypač siauros kortelės</string>
+    <string name="clear_downloaded_data">Išvalykite atsisiųstus duomenis</string>
+    <string name="epg_multi_threaded">Atnaujindami EPG naudokite kelias gijas. Sparčiau įkeliama, tačiau atnaujinant gali pakisti programos našumas.</string>
+    <string name="switch_instantly">perjungti nedelsiant</string>
+    <string name="buffer_size_no">Nėra atkūrimo buferio. Naudoja mažiau atminties ir rekomenduojama, jei žiūrite tarpinį turinį.</string>
+    <string name="buffer_size_p1">Padidėjęs buferio dydis</string>
+    <string name="buffer_size_p2">Didelis buferio dydis</string>
+    <string name="buffer_size_p3">Didžiulis buferio dydis</string>
+    <string name="font_size_sm">mažas</string>
+    <string name="font_size_lr">didelis</string>
+    <string name="font_size_hg">labai didelis</string>
+    <string name="font_size_gi">gigantiškas (gali slėptis keletas programos galimybių)</string>
+    <string name="max_results_to_show">Maksimalus rezultatų, kuriuos reikėtų parodyti, skaičius</string>
+    <string name="set_scale_x">Nustatykite pasirinktinį X koordinačių mastelį</string>
+    <string name="record_activity_history">Įrašykite veiklos istoriją</string>
+    <string name="use_local_search">Naudokite tik vietinę paiešką</string>
+    <string name="prefer_cloud_storage">Naudoti failus nerekomenduojama, nes jie nėra atsarginės kopijos objektas ir būsimose versijose gali būti ribojami. Vietoj to naudokite hipersaitus arba debesies saugyklą.</string>
+    <string name="use_system_picker">Pasirinkite naudodamiesi sistemos pateiktu rinkikliu</string>
+    <string name="selection_bitrate">Takelio pasirinkimas pagal bitų greitį</string>
+    <string name="selection_bitrate_lowest">Pirmenybė teikiama mažiausiam pralaidumui</string>
+    <string name="selection_bitrate_highest">Pageidaujamas didžiausias pralaidumas</string>
     </resources>

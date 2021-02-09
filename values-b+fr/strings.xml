@@ -132,7 +132,7 @@
 
     <string name="settings_provider">Fournisseur</string>
     <string name="settings_media_library">Médiathèque</string>
-    <string name="settings_media_library_dnla">Analyser les sources UPnP / DNLA sur le réseau local</string>
+    <string name="settings_media_library_dnla">Analyser les sources UPnP / DLNA sur le réseau local</string>
 
     <string name="settings_player">Lecteur</string>
     <string name="settings_player_hide_ui">Masquer la superposition de l\'interface dans la lecture dans</string>
@@ -151,33 +151,12 @@
     <string name="settings_visual">Style visuel</string>
 
     <string name="settings_live_quick_channel_switch_delay">Délai des canaux à commutation rapide</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>Changer instantanément</item>
-        <item>Permet de continuer la sélection des canaux pendant une seconde</item>
-        <item>Normal (2 secondes pour la sélection ultérieure)</item>
-        <item>Lent (5 secondes pour une autre sélection)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Taille du tampon de diffusion</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>Pas de tampon (empreinte mémoire minimale)</item>
-        <item>Normal</item>
-        <item>Augmenté</item>
-        <item>Grand (internet médiocre, flux médiocre)</item>
-        <item>Enorme (utilisation de mémoire élevée très mauvais rendu)</item>
-    </string-array>
 
     <string name="settings_show_clock_in_player_always">Afficher l\'heure actuelle tout en regardant la vidéo</string>
 
     <string name="settings_font_style">Taille du texte</string>
-    <string-array name="settings_font_style_names">
-        <item>Petit</item>
-        <item>Normal</item>
-        <item>Grand</item>
-        <item>Énorme</item>
-        <item>Géant (peut cacher certaines options)</item>
-    </string-array>
-
     <string name="settings_palette_style">Schéma de palette de couleurs</string>
 
     <string name="settings_ui_screen_margins">Marges d\'écran</string>
@@ -661,4 +640,25 @@
     <string name="lock_settings">Restreindre l\'accès aux paramètres de l\'application</string>
     <string name="mass_hide_offer">Souhaitez-vous également modifier la visibilité d\'autres éléments?</string>
     <string name="mass_hide_header">Entités visibles</string>
+    <string name="xt_compact_card">Cartes extra-étroites</string>
+    <string name="clear_downloaded_data">Effacer les données téléchargées</string>
+    <string name="epg_multi_threaded">Utilisez plusieurs threads lors de la mise à jour de l\'EPG. Rend le chargement plus rapide mais peut avoir un impact sur les performances de l\'application lors de la mise à jour.</string>
+    <string name="switch_instantly">Changer instantanément</string>
+    <string name="buffer_size_no">Pas de tampon de lecture. Utilise moins de mémoire et recommandé si vous regardez du contenu proxy.</string>
+    <string name="buffer_size_p1">Augmentation de la taille du tampon</string>
+    <string name="buffer_size_p2">Grande taille de tampon</string>
+    <string name="buffer_size_p3">Énorme taille de tampon</string>
+    <string name="font_size_sm">Petit</string>
+    <string name="font_size_lr">Grand</string>
+    <string name="font_size_hg">Énorme</string>
+    <string name="font_size_gi">Géant (peut cacher certaines options)</string>
+    <string name="max_results_to_show">Nombre maximal de résultats à afficher</string>
+    <string name="set_scale_x">Définir une mise à l\'échelle personnalisée des coordonnées X</string>
+    <string name="record_activity_history">Enregistrer l\'historique des activités</string>
+    <string name="use_local_search">Utilisez la recherche locale uniquement</string>
+    <string name="prefer_cloud_storage">L\'utilisation de fichiers n\'est pas recommandée, car ils ne sont pas un sujet de sauvegarde et pourraient être limités dans les versions futures. Utilisez plutôt des hyperliens ou un stockage cloud.</string>
+    <string name="use_system_picker">Sélectionnez à l\'aide d\'un sélecteur fourni par le système</string>
+    <string name="selection_bitrate">Sélection de piste par débit</string>
+    <string name="selection_bitrate_lowest">Préférez le débit binaire le plus bas</string>
+    <string name="selection_bitrate_highest">Préférez le débit binaire le plus élevé</string>
     </resources>

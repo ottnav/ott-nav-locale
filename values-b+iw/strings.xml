@@ -132,7 +132,7 @@
 
     <string name="settings_provider">ספק</string>
     <string name="settings_media_library">ספריית מדיה</string>
-    <string name="settings_media_library_dnla">סריקת מקורות UPnP / DNLA ברשת המקומית</string>
+    <string name="settings_media_library_dnla">סריקת מקורות UPnP / DLNA ברשת המקומית</string>
 
     <string name="settings_player">שחקן</string>
     <string name="settings_player_hide_ui">הסתר שכבת ממשק משתמש בהפעלה</string>
@@ -151,33 +151,12 @@
     <string name="settings_visual">סגנון חזותי</string>
 
     <string name="settings_live_quick_channel_switch_delay">עיכוב לפני ערוצי מיתוג מהירים</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>לעבור מיד</item>
-        <item>אפשר להמשיך את בחירת הערוץ לשנייה אחת</item>
-        <item>רגיל (2 שניות לבחירה נוספת)</item>
-        <item>איטי (5 שניות לבחירה נוספת)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">גודל שידור חיץ</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>לא חיץ (טביעת רגל מינימלית זיכרון)</item>
-        <item>תֶקֶן</item>
-        <item>מוּגדָל</item>
-        <item>גדול (אינטרנט עני, זרם עניים)</item>
-        <item>ענק (שימוש בזיכרון גבוה למצב רע מאוד)</item>
-    </string-array>
 
     <string name="settings_show_clock_in_player_always">הצג את השעה הנוכחית בעת צפייה בסרטון</string>
 
     <string name="settings_font_style">גודל טקסט</string>
-    <string-array name="settings_font_style_names">
-        <item>קָטָן</item>
-        <item>נוֹרמָלִי</item>
-        <item>גָדוֹל</item>
-        <item>עָצוּם</item>
-        <item>ענק (עשוי להסתיר כמה אפשרויות)</item>
-    </string-array>
-
     <string name="settings_palette_style">ערכת הצבעים</string>
 
     <string name="settings_ui_screen_margins">שולי מסך</string>
@@ -661,4 +640,25 @@
     <string name="lock_settings">היצקילפאה תורדגהל השיג לבגה</string>
     <string name="mass_hide_offer">ןכ םג םירחא םיטנמלא לש תוארנה תא תונשל הצור התא םאה?</string>
     <string name="mass_hide_header">תויולג תויושי</string>
+    <string name="xt_compact_card">דחוימב םירצ םיפלק</string>
+    <string name="clear_downloaded_data">ודרוהש םינותנ הקנ</string>
+    <string name="epg_multi_threaded">.ןוכדעה ןמזב היצקילפאה יעוציב לע עיפשהל יושע ךא רתוי רהמ הניעטל םרוג .EPG ןוכדע תעב םיאשונ רפסמב שמתשה</string>
+    <string name="switch_instantly">לעבור מיד</string>
+    <string name="buffer_size_no">.ךומס ןכותב הפוצ םא ץלמומו תוחפ ןורכיזב שמתשמ .הלעפה ץיח ןיא</string>
+    <string name="buffer_size_p1">לדגומ ץיח לדוג</string>
+    <string name="buffer_size_p2">לודג ץיח לדוג</string>
+    <string name="buffer_size_p3">קנע ץיח לדוג</string>
+    <string name="font_size_sm">קָטָן</string>
+    <string name="font_size_lr">גָדוֹל</string>
+    <string name="font_size_hg">עָצוּם</string>
+    <string name="font_size_gi">ענק (עשוי להסתיר כמה אפשרויות)</string>
+    <string name="max_results_to_show">גיצהל שיש תילמיסקמ תואצות תריפס</string>
+    <string name="set_scale_x">X תוטנידרואוק לש תישיא םאתומ הדימ הנק רדגה</string>
+    <string name="record_activity_history">תוליעפה תיירוטסיה תא טלקה</string>
+    <string name="use_local_search">דבלב ימוקמ שופיחב שמתשה</string>
+    <string name="prefer_cloud_storage">.ןנע ןוסחאב וא םירושיק-רפיהב תאז םוקמב שמתשה .תוידיתעה תואסרגב םילבגומ תויהל םילולעו יוביגל אשונ םניא םהש ןוויכמ םיצבקב שמתשהל ץלמומ אל</string>
+    <string name="use_system_picker">תכרעמה ידי לע קפוסמה ררוב תועצמאב רחב</string>
+    <string name="selection_bitrate">תויביס בצק יפל הריחב רחא בוקע</string>
+    <string name="selection_bitrate_lowest">רתויב ךומנה תויביסה בצק תא ףדעה</string>
+    <string name="selection_bitrate_highest">רתויב הובגה תויביסה בצק תא ףדעה</string>
     </resources>

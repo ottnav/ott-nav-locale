@@ -146,33 +146,11 @@
     <string name="settings_visual">Phong cách trực quan</string>
 
     <string name="settings_live_quick_channel_switch_delay">Độ trễ trước khi chuyển kênh</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>chuyển ngay lập tức</item>
-        <item>cho phép tiếp tục lựa chọn kênh trong một giây</item>
-        <item>bình thường (2 giây để lựa chọn thêm)</item>
-        <item>chậm (5 giây để lựa chọn thêm)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Kích cỡ tải trước bộ nhớ đệm</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>không tải trước (tốn ít bộ nhớ)</item>
-        <item>tiêu chuẩn</item>
-        <item>cải thiện</item>
-        <item>lớn (internet chậm, luồng phát chậm)</item>
-        <item>Rất lớn (sử dụng nhiều bộ nhớ trong điều kiện kém)</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">Hiển thị thời gian hiện tại khi xem video</string>
 
     <string name="settings_font_style">Kích cỡ văn bản</string>
-    <string-array name="settings_font_style_names">
-        <item>Nhỏ</item>
-        <item>Bình thường</item>
-        <item>Lớn</item>
-        <item>Rất lớn</item>
-        <item>Khổng lồ (một số mục có thể không hiện hết)</item>
-    </string-array>
-
     <string name="settings_palette_style">Bảng màu</string>
 
     <string name="settings_ui_screen_margins">Lề màn hình</string>
@@ -655,4 +633,25 @@
     <string name="lock_settings">Hạn chế quyền truy cập vào cài đặt ứng dụng</string>
     <string name="mass_hide_offer">Bạn có muốn thay đổi khả năng hiển thị của các phần tử khác không?</string>
     <string name="mass_hide_header">Thực thể hiển thị</string>
+    <string name="xt_compact_card">Thẻ cực hẹp</string>
+    <string name="clear_downloaded_data">Xóa dữ liệu đã tải xuống</string>
+    <string name="epg_multi_threaded">Sử dụng nhiều luồng khi cập nhật EPG. Giúp tải nhanh hơn nhưng có thể ảnh hưởng đến hiệu suất ứng dụng khi cập nhật.</string>
+    <string name="switch_instantly">chuyển ngay lập tức</string>
+    <string name="buffer_size_no">Không có bộ đệm phát lại. Sử dụng ít bộ nhớ hơn và được khuyến nghị nếu xem nội dung được hỗ trợ.</string>
+    <string name="buffer_size_p1">Tăng kích thước bộ đệm</string>
+    <string name="buffer_size_p2">Kích thước đệm lớn</string>
+    <string name="buffer_size_p3">Kích thước bộ đệm lớn</string>
+    <string name="font_size_sm">Nhỏ</string>
+    <string name="font_size_lr">Lớn</string>
+    <string name="font_size_hg">Rất lớn</string>
+    <string name="font_size_gi">Khổng lồ (một số mục có thể không hiện hết)</string>
+    <string name="max_results_to_show">Số lượng tối đa các kết quả sẽ được hiển thị</string>
+    <string name="set_scale_x">Đặt tỷ lệ tọa độ X tùy chỉnh</string>
+    <string name="record_activity_history">Ghi lại lịch sử hoạt động</string>
+    <string name="use_local_search">Chỉ sử dụng tìm kiếm địa phương</string>
+    <string name="prefer_cloud_storage">Việc sử dụng tệp không được khuyến khích, vì chúng không phải là đối tượng để sao lưu và có thể bị hạn chế trong các phiên bản tương lai. Thay vào đó, hãy sử dụng siêu liên kết hoặc một bộ lưu trữ đám mây.</string>
+    <string name="use_system_picker">Chọn bằng bộ chọn do hệ thống cung cấp</string>
+    <string name="selection_bitrate">Theo dõi lựa chọn theo tốc độ bit</string>
+    <string name="selection_bitrate_lowest">Ưu tiên tốc độ bit thấp nhất</string>
+    <string name="selection_bitrate_highest">Ưu tiên tốc độ bit cao nhất</string>
     </resources>

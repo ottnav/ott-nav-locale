@@ -127,7 +127,7 @@
 
     <string name="settings_provider">Provajder</string>
     <string name="settings_media_library">Biblioteka medija</string>
-    <string name="settings_media_library_dnla">Skeniraj UPnP/DNLA izvore u lokalnoj mreži</string>
+    <string name="settings_media_library_dnla">Skeniraj UPnP/DLNA izvore u lokalnoj mreži</string>
 
     <string name="settings_player">Plejer</string>
     <string name="settings_player_hide_ui">Sakrij UI elemente tokom reprodukcije za</string>
@@ -146,33 +146,11 @@
     <string name="settings_visual">Vizelni stil</string>
 
     <string name="settings_live_quick_channel_switch_delay">Odlaganje pre brze promene kanala</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>promeni odmah</item>
-        <item>dozvoli nastavak listanja kanala za još jednu sekundu</item>
-        <item>normalno(2 sekunde za daljni odabir)</item>
-        <item>sporo (5 sekundi za daljni odabir)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Veličina bafera za emitovanje</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>bez bafera (minimalni trag na memoriji)</item>
-        <item>standardna</item>
-        <item>povećana</item>
-        <item>velika (loš internet, loš stream)</item>
-        <item>ogromna (visoka iskorišćenost memorije za veoma loše uslove)</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">Prikaži trenutno vreme pri gledanju videa</string>
 
     <string name="settings_font_style">Veličina teksta</string>
-    <string-array name="settings_font_style_names">
-        <item>Mala</item>
-        <item>Normalna</item>
-        <item>Velika</item>
-        <item>Ogromna</item>
-        <item>Gigantska (može sakriti pojedine opcije)</item>
-    </string-array>
-
     <string name="settings_palette_style">Šema paleta boja</string>
 
     <string name="settings_ui_screen_margins">Margine ekrana</string>
@@ -656,4 +634,25 @@
     <string name="lock_settings">Ограничите приступ подешавањима апликације</string>
     <string name="mass_hide_offer">Да ли желите да промените видљивост и осталих елемената?</string>
     <string name="mass_hide_header">Видљиви ентитети</string>
+    <string name="xt_compact_card">Изузетно уске карте</string>
+    <string name="clear_downloaded_data">Обриши преузете податке</string>
+    <string name="epg_multi_threaded">Користите више нити при ажурирању ЕПГ-а. Убрзава учитавање, али може утицати на перформансе апликације током ажурирања.</string>
+    <string name="switch_instantly">promeni odmah</string>
+    <string name="buffer_size_no">Нема бафера за репродукцију. Користи мање меморије и препоручује се за гледање проки садржаја.</string>
+    <string name="buffer_size_p1">Повећана величина бафера</string>
+    <string name="buffer_size_p2">Велика величина бафера</string>
+    <string name="buffer_size_p3">Огромна величина бафера</string>
+    <string name="font_size_sm">Mala</string>
+    <string name="font_size_lr">Velika</string>
+    <string name="font_size_hg">Ogromna</string>
+    <string name="font_size_gi">Gigantska (može sakriti pojedine opcije)</string>
+    <string name="max_results_to_show">Максималан број резултата који треба приказати</string>
+    <string name="set_scale_x">Подесите прилагођено скалирање Кс-координата</string>
+    <string name="record_activity_history">Снимите историју активности</string>
+    <string name="use_local_search">Користите само локалну претрагу</string>
+    <string name="prefer_cloud_storage">Коришћење датотека се не препоручује, јер оне нису предмет резервне копије и могу бити ограничене у будућим верзијама. Уместо тога користите хипервезе или складиште у облаку.</string>
+    <string name="use_system_picker">Изаберите помоћу бирача који пружа систем</string>
+    <string name="selection_bitrate">Праћење избора брзином преноса</string>
+    <string name="selection_bitrate_lowest">Дајте предност најнижој брзини преноса</string>
+    <string name="selection_bitrate_highest">Дајте предност највећој брзини преноса</string>
     </resources>

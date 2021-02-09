@@ -127,7 +127,7 @@
 
     <string name="settings_provider">Pakalpojumu sniedzējs</string>
     <string name="settings_media_library">Multivides bibliotēka</string>
-    <string name="settings_media_library_dnla">Skenējiet UPnP / DNLA avotus vietējā tīklā</string>
+    <string name="settings_media_library_dnla">Skenējiet UPnP / DLNA avotus vietējā tīklā</string>
 
     <string name="settings_player">Spēlētājs</string>
     <string name="settings_player_hide_ui">Slēpt UI pārklājumu atskaņošanā</string>
@@ -146,33 +146,12 @@
     <string name="settings_visual">Vizuālais stils</string>
 
     <string name="settings_live_quick_channel_switch_delay">Aizkavēšanās pirms ātrās pārslēgšanas kanāliem</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>pārslēgties uzreiz</item>
-        <item>ļaut turpināt kanālu izvēli vienu sekundi</item>
-        <item>normāls (2 sekundes turpmākai izvēlei)</item>
-        <item>lēns (5 sekundes tālākai izvēlei)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Pārraides bufera lielums</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>nav bufera (minimālais atmiņas nospiedums)</item>
-        <item>standarta</item>
-        <item>palielinājās</item>
-        <item>liels (slikts internets, slikta plūsma)</item>
-        <item>milzīgs (liels atmiņas lietojums ļoti sliktiem stāvokļiem)</item>
-    </string-array>
 
     <string name="settings_show_clock_in_player_always">Rādīt pašreizējo laiku, skatoties video</string>
 
     <string name="settings_font_style">Teksta lielums</string>
-    <string-array name="settings_font_style_names">
-        <item>Mazs</item>
-        <item>Normāls</item>
-        <item>Liels</item>
-        <item>Milzīgs</item>
-        <item>Milzu (var paslēpt dažas opcijas)</item>
-    </string-array>
-
     <string name="settings_palette_style">Krāsu palešu shēma</string>
 
     <string name="settings_ui_screen_margins">Ekrāna malas</string>
@@ -661,4 +640,25 @@
     <string name="lock_settings">Ierobežojiet piekļuvi lietotnes iestatījumiem</string>
     <string name="mass_hide_offer">Vai vēlaties mainīt arī citu elementu redzamību?</string>
     <string name="mass_hide_header">Redzamas vienības</string>
+    <string name="xt_compact_card">Īpaši šauras kartes</string>
+    <string name="clear_downloaded_data">Notīrīt lejupielādētos datus</string>
+    <string name="epg_multi_threaded">Atjauninot EPG, izmantojiet vairākus pavedienus. Ļauj ielādēt ātrāk, bet atjaunināšanas laikā tas var ietekmēt lietotnes veiktspēju.</string>
+    <string name="switch_instantly">pārslēgties uzreiz</string>
+    <string name="buffer_size_no">Nav atskaņošanas bufera. Izmanto mazāk atmiņas un ieteicams, ja skatāties tuvinātu saturu.</string>
+    <string name="buffer_size_p1">Palielināts bufera lielums</string>
+    <string name="buffer_size_p2">Liels bufera izmērs</string>
+    <string name="buffer_size_p3">Milzīgs bufera izmērs</string>
+    <string name="font_size_sm">Mazs</string>
+    <string name="font_size_lr">Liels</string>
+    <string name="font_size_hg">Milzīgs</string>
+    <string name="font_size_gi">Milzu (var paslēpt dažas opcijas)</string>
+    <string name="max_results_to_show">Maksimālais parādāmo rezultātu skaits</string>
+    <string name="set_scale_x">Iestatiet pielāgotu X koordinātu mērogošanu</string>
+    <string name="record_activity_history">Reģistrē darbību vēsturi</string>
+    <string name="use_local_search">Izmantojiet tikai vietējo meklēšanu</string>
+    <string name="prefer_cloud_storage">Failu lietošana nav ieteicama, jo tie nav saglabāti backup un nākamajās versijās tos var ierobežot. Tā vietā izmantojiet hipersaites vai cloud glābtūves.</string>
+    <string name="use_system_picker">Atlasiet, izmantojot sistēmas izveli</string>
+    <string name="selection_bitrate">Dziesmas izvēle pēc bitu pārraides ātruma</string>
+    <string name="selection_bitrate_lowest">Dodiet priekšroku zemākajam bitu pārraides ātrumam</string>
+    <string name="selection_bitrate_highest">Dodiet priekšroku augstākajam bitu pārraides ātrumam</string>
     </resources>

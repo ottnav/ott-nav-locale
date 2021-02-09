@@ -111,7 +111,7 @@
     <string name="hud_short_bright">strălucire</string>
     <string name="settings_provider">Furnizor de</string>
     <string name="settings_media_library">Biblioteca media</string>
-    <string name="settings_media_library_dnla">Scanați sursele UPnP / DNLA în rețeaua locală</string>
+    <string name="settings_media_library_dnla">Scanați sursele UPnP / DLNA în rețeaua locală</string>
     <string name="settings_player">Jucător</string>
     <string name="settings_player_hide_ui">Ascundeți suprapunerea UI în redare în</string>
     <string name="settings_player_resize_mode">Modul scara video</string>
@@ -592,4 +592,25 @@
     <string name="lock_settings">Limitați accesul la setările aplicației</string>
     <string name="mass_hide_offer">Doriți să schimbați și vizibilitatea altor elemente?</string>
     <string name="mass_hide_header">Entități vizibile</string>
+    <string name="xt_compact_card">Cărți foarte înguste</string>
+    <string name="clear_downloaded_data">Ștergeți datele descărcate</string>
+    <string name="epg_multi_threaded">Utilizați mai multe fire de actualizare atunci când actualizați EPG. Face încărcarea mai rapidă, dar poate afecta performanța aplicației în timpul actualizării.</string>
+    <string name="switch_instantly">comutați instantaneu</string>
+    <string name="buffer_size_no">Nu există tampon de redare. Folosește mai puțină memorie și se recomandă dacă vizionați conținut proxy.</string>
+    <string name="buffer_size_p1">Dimensiune tampon mărită</string>
+    <string name="buffer_size_p2">Dimensiune tampon mare</string>
+    <string name="buffer_size_p3">Dimensiune tampon imensă</string>
+    <string name="font_size_sm">Mic</string>
+    <string name="font_size_lr">Mare</string>
+    <string name="font_size_hg">Imens</string>
+    <string name="font_size_gi">Giant (poate ascunde unele opțiuni)</string>
+    <string name="max_results_to_show">Numărul maxim de rezultate care ar trebui afișate</string>
+    <string name="set_scale_x">Setați scalarea personalizată a coordonatelor X</string>
+    <string name="record_activity_history">Înregistrați istoricul activității</string>
+    <string name="use_local_search">Folosiți numai căutarea locală</string>
+    <string name="prefer_cloud_storage">Utilizarea fișierelor nu este recomandată, deoarece acestea nu sunt un subiect de rezervă și ar putea fi restricționate în versiunile viitoare. Folosiți în schimb hyperlinkuri sau un spațiu de stocare în cloud.</string>
+    <string name="use_system_picker">Selectați folosind un selector furnizat de sistem</string>
+    <string name="selection_bitrate">Urmăriți selecția după bitrate</string>
+    <string name="selection_bitrate_lowest">Preferă rata de biți cea mai mică</string>
+    <string name="selection_bitrate_highest">Preferă cea mai mare rată de biți</string>
     </resources>

@@ -132,7 +132,7 @@
 
     <string name="settings_provider">sağlayan</string>
     <string name="settings_media_library">Medya kütüphanesi</string>
-    <string name="settings_media_library_dnla">Yerel ağdaki UPnP / DNLA kaynaklarını tara</string>
+    <string name="settings_media_library_dnla">Yerel ağdaki UPnP / DLNA kaynaklarını tara</string>
 
     <string name="settings_player">oyuncu</string>
     <string name="settings_player_hide_ui">Oynatmada UI yer paylaşımını gizle</string>
@@ -151,33 +151,11 @@
     <string name="settings_visual">Görsel stil</string>
 
     <string name="settings_live_quick_channel_switch_delay">Hızlı anahtarlama kanallarından önce gecikme</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>anında geçiş yap</item>
-        <item>bir saniye boyunca kanal seçimine devam etmesine izin ver</item>
-        <item>normal (daha fazla seçim için 2 saniye)</item>
-        <item>yavaş (daha fazla seçim için 5 saniye)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Yayın arabellek boyutu</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>tampon yok (minimum bellek alanı)</item>
-        <item>standart</item>
-        <item>artmış</item>
-        <item>büyük (zayıf internet, zayıf akış)</item>
-        <item>çok büyük (çok kötü durum için yüksek bellek kullanımı)</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">Video izlerken şu anki zamanı göster</string>
 
     <string name="settings_font_style">Yazı Boyutu</string>
-    <string-array name="settings_font_style_names">
-        <item>Küçük</item>
-        <item>Normal</item>
-        <item>Büyük</item>
-        <item>Kocaman</item>
-        <item>Dev (bazı seçenekleri gizleyebilir)</item>
-    </string-array>
-
     <string name="settings_palette_style">Renk paleti düzeni</string>
 
     <string name="settings_ui_screen_margins">Ekran marjları</string>
@@ -661,4 +639,25 @@
     <string name="lock_settings">Uygulama ayarlarına erişimi kısıtlayın</string>
     <string name="mass_hide_offer">Diğer öğelerin görünürlüğünü de değiştirmek istiyor musunuz?</string>
     <string name="mass_hide_header">Görünür varlıklar</string>
+    <string name="xt_compact_card">Ekstra dar kartlar</string>
+    <string name="clear_downloaded_data">İndirilen verileri temizle</string>
+    <string name="epg_multi_threaded">EPG\'yi güncellerken birden çok iş parçacığı kullanın. Daha hızlı yükleme yapar, ancak güncelleme sırasında uygulama performansını etkileyebilir.</string>
+    <string name="switch_instantly">anında geçiş yap</string>
+    <string name="buffer_size_no">Oynatma arabelleği yok. Daha az bellek kullanır ve proxy içeren içerik izliyorsanız önerilir.</string>
+    <string name="buffer_size_p1">Artan arabellek boyutu</string>
+    <string name="buffer_size_p2">Büyük arabellek boyutu</string>
+    <string name="buffer_size_p3">Büyük arabellek boyutu</string>
+    <string name="font_size_sm">Küçük</string>
+    <string name="font_size_lr">Büyük</string>
+    <string name="font_size_hg">Kocaman</string>
+    <string name="font_size_gi">Dev (bazı seçenekleri gizleyebilir)</string>
+    <string name="max_results_to_show">Gösterilmesi gereken maksimum sonuç sayısı</string>
+    <string name="set_scale_x">Özel X koordinatı ölçeklendirmesini ayarlayın</string>
+    <string name="record_activity_history">Etkinlik geçmişini kaydet</string>
+    <string name="use_local_search">Yalnızca yerel aramayı kullan</string>
+    <string name="prefer_cloud_storage">Yedeklemeye konu olmadıklarından ve gelecek sürümlerde kısıtlanabileceklerinden, dosyaların kullanılması önerilmez. Bunun yerine köprüler veya bir bulut depolama kullanın.</string>
+    <string name="use_system_picker">Sistem tarafından sağlanan bir seçiciyi kullanarak seçin</string>
+    <string name="selection_bitrate">Bit hızına göre parça seçimi</string>
+    <string name="selection_bitrate_lowest">En düşük bit hızını tercih et</string>
+    <string name="selection_bitrate_highest">En yüksek bit hızını tercih et</string>
     </resources>

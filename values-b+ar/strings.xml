@@ -133,7 +133,7 @@
 
     <string name="settings_provider">مزود</string>
     <string name="settings_media_library">مكتبة الوسائط</string>
-    <string name="settings_media_library_dnla">مسح مصادر UPnP / DNLA في الشبكة المحلية</string>
+    <string name="settings_media_library_dnla">مسح مصادر UPnP / DLNA في الشبكة المحلية</string>
 
     <string name="settings_player">لاعب</string>
     <string name="settings_player_hide_ui">إخفاء تراكب واجهة المستخدم في التشغيل في</string>
@@ -152,33 +152,12 @@
     <string name="settings_visual">موضة ملفتة للنظر</string>
 
     <string name="settings_live_quick_channel_switch_delay">التأخير قبل التبديل السريع بين القنوات</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>التبديل على الفور</item>
-        <item>السماح بمواصلة اختيار القناة لمدة ثانية واحدة</item>
-        <item>طبيعي (ثانيتان لمزيد من التحديد)</item>
-        <item>بطيء (5 ثوانٍ لمزيد من التحديد)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">حجم المخزن المؤقت للبث</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>لا يوجد مخزن مؤقت (حد أدنى للذاكرة)</item>
-        <item>اساسي</item>
-        <item>زيادة</item>
-        <item>كبير (الإنترنت ضعيف ، تيار ضعيف)</item>
-        <item>ضخمة (استخدام ذاكرة عالية لحالة سيئة للغاية)</item>
-    </string-array>
 
     <string name="settings_show_clock_in_player_always">إظهار الوقت الحالي أثناء مشاهدة الفيديو</string>
 
     <string name="settings_font_style">حجم الخط</string>
-    <string-array name="settings_font_style_names">
-        <item>صغير</item>
-        <item>عادي</item>
-        <item>كبير</item>
-        <item>ضخم</item>
-        <item>عملاق (قد يخفي بعض الخيارات)</item>
-    </string-array>
-
     <string name="settings_palette_style">نظام لوح الألوان</string>
 
     <string name="settings_ui_screen_margins">هوامش الشاشة</string>
@@ -660,6 +639,27 @@
     <string name="arch_ask_leave_ask">هل ترغب في إيقاف تشغيل فيديو الأرشيف حاليًا؟</string>
     <string name="compact_list">ﺔﻃﻮﻐﻀﻣ ﺔﻤﺋﺎﻗ</string>
     <string name="lock_settings">ﻖﻴﺒﻄﺘﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ ﺪﻴﻴﻘﺗ</string>
-    <string name="mass_hide_offer">؟ﺎﻀًﻳﺃ ﻯﺮﺧﻷ﻿ﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺔﻳﺅﺭ ﺮﻴﻴﻐﺗ ﺪﻳﺮﺗ ﻞﻫ</string>
+    <string name="mass_hide_offer">؟ﺎﻀًﻳﺃ ﻯﺮﺧﻷﺍ ﺮﺻﺎﻨﻌﻟﺍ ﺔﻳﺅﺭ ﺮﻴﻴﻐﺗ ﺪﻳﺮﺗ ﻞﻫ</string>
     <string name="mass_hide_header">ﺔﻴﺋﺮﻣ ﺕﺎﻧﺎﻴﻛ</string>
+    <string name="xt_compact_card">ﺔﻳﺎﻐﻠﻟ ﺔﻘﻴﺿ ﺕﺎﻗﺎﻄﺑ</string>
+    <string name="clear_downloaded_data">مسح البيانات التي تم تنزيلها</string>
+    <string name="epg_multi_threaded">.ﺚﻳﺪﺤﺘﻟﺍ ءﺎﻨﺛﺃ ﻖﻴﺒﻄﺘﻟﺍ ءﺍﺩﺃ ﻰﻠﻋ ﺮﺛﺆﻳ ﺪﻗ ﻪﻨﻜﻟﻭ ﻉﺮﺳﺃ ﻞﻴﻤﺤﺘﻟﺍ ﻞﻌﺠﻳ .ﻲﻧﻭﺮﺘﻜﻟﻹﺍ ﺞﻣﺍﺮﺒﻟﺍ ﻞﻴﻟﺩ ﺚﻳﺪﺤﺗ ﺪﻨﻋ ﺓﺩﺪﻌﺘﻣ ﻞﺋﺎﺳﺭ ﻞﺳﻼﺳ ﻡﺪﺨﺘﺳﺍ</string>
+    <string name="switch_instantly">التبديل على الفور</string>
+    <string name="buffer_size_no">.ﻞﻴﻛﻮﻟﺍ ﻯﻮﺘﺤﻤﻟﺍ ﺓﺪﻫﺎﺸﻣ ﺔﻟﺎﺣ ﻲﻓ ﻪﺑ ﻰﺻﻮﻳﻭ ﻞﻗﺃ ﺓﺮﻛﺍﺫ ﻡﺪﺨﺘﺴﻳ .ﻞﻴﻐﺸﺘﻠﻟ ﺖﻗﺆﻣ ﻥﺰﺨﻣ ﺪﺟﻮﻳ ﻻ</string>
+    <string name="buffer_size_p1">ﺖﻗﺆﻤﻟﺍ ﻥﺰﺨﻤﻟﺍ ﻢﺠﺣ ﺓﺩﺎﻳﺯ</string>
+    <string name="buffer_size_p2">ﺮﻴﺒﻜﻟﺍ ﺖﻗﺆﻤﻟﺍ ﻥﺰﺨﻤﻟﺍ ﻢﺠﺣ</string>
+    <string name="buffer_size_p3">ﻢﺨﺿ ﺖﻗﺆﻤﻟﺍ ﻥﺰﺨﻤﻟﺍ ﻢﺠﺣ</string>
+    <string name="font_size_sm">صغير</string>
+    <string name="font_size_lr">كبير</string>
+    <string name="font_size_hg">ضخم</string>
+    <string name="font_size_gi">عملاق (قد يخفي بعض الخيارات)</string>
+    <string name="max_results_to_show">ﺎﻬﺿﺮﻋ ﺐﺠﻳ ﻲﺘﻟﺍ ﺞﺋﺎﺘﻨﻠﻟ ﻰﺼﻗﻷ﻿ﺍ ﺩﺪﻌﻟﺍ</string>
+    <string name="set_scale_x">ﺺﺼﺨﻤﻟﺍ X ﻖﻴﺴﻨﺗ ﺱﺎﻴﻘﻣ ﻦﻴﻴﻌﺘﺑ ﻢﻗ</string>
+    <string name="record_activity_history">ﻁﺎﺸﻨﻟﺍ ﺦﻳﺭﺎﺗ ﻞﺠﺳ</string>
+    <string name="use_local_search">ﻂﻘﻓ ﻲﻠﺤﻤﻟﺍ ﺚﺤﺒﻟﺍ ﻡﺪﺨﺘﺳﺍ</string>
+    <string name="prefer_cloud_storage">.ﻚﻟﺫ ﻦﻣ ﻻً﻿ﺪﺑ ﻲﺑﺎﺤﺴﻟﺍ ﻦﻳﺰﺨﺘﻟﺍ ﻭﺃ ﺔﻴﺒﻌﺸﺘﻟﺍ ﻂﺑﺍﻭﺮﻟﺍ ﻡﺪﺨﺘﺳﺍ .ﺔﻴﻠﺒﻘﺘﺴﻤﻟﺍ ﺕﺍﺭﺍﺪﺻﻹ﻿ﺍ ﻲﻓ ﺓﺪﻴﻘﻣ ﻥﻮﻜﺗ ﺪﻗﻭ ﻲﻃﺎﻴﺘﺣﻻ﻿ﺍ ﺦﺴﻨﻠﻟ ﺎﻋًﻮﺿﻮﻣ ﺖﺴﻴﻟ ﺎﻬﻧﻷ﻿ ، ﺕﺎﻔﻠﻤﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻰﺻﻮﻳ ﻻ﻿</string>
+    <string name="use_system_picker">ﻡﺎﻈﻨﻟﺍ ﻩﺮﻓﻮﻳ ﻲﻘﺘﻨﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺩﺪﺣ</string>
+    <string name="selection_bitrate">ﺖﺒﻟﺍ ﻝﺪﻌﻣ ﺐﺴﺣ ﺭﺎﺴﻤﻟﺍ ﺭﺎﻴﺘﺧﺍ</string>
+    <string name="selection_bitrate_lowest">ﺖﺑ ﻝﺪﻌﻣ ﻰﻧﺩﺃ ﻞﻀﻔﺗ</string>
+    <string name="selection_bitrate_highest">ﺖﺑ ﻝﺪﻌﻣ ﻰﻠﻋﺃ ﻞﻀﻔﺗ</string>
     </resources>

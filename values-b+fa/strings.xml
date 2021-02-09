@@ -132,7 +132,7 @@
 
     <string name="settings_provider">ارائه دهنده</string>
     <string name="settings_media_library">کتابخانه ی رسانه</string>
-    <string name="settings_media_library_dnla">منابع UPnP / DNLA را در شبکه محلی اسکن کنید</string>
+    <string name="settings_media_library_dnla">منابع UPnP / DLNA را در شبکه محلی اسکن کنید</string>
 
     <string name="settings_player">بازیکن</string>
     <string name="settings_player_hide_ui">مخفی کردن پوشش UI در پخش در</string>
@@ -151,33 +151,11 @@
     <string name="settings_visual">سبک بصری</string>
 
     <string name="settings_live_quick_channel_switch_delay">تأخیر قبل از کانالهای سریع تعویض</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>بلافاصله عوض کنید</item>
-        <item>اجازه می دهد تا انتخاب کانال را برای یک ثانیه ادامه دهید</item>
-        <item>طبیعی (2 ثانیه برای انتخاب بیشتر)</item>
-        <item>آهسته (5 ثانیه برای انتخاب بیشتر)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">حجم بافر پخش</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>بدون بافر (حداقل حافظه)</item>
-        <item>استاندارد</item>
-        <item>افزایش یافت</item>
-        <item>بزرگ (اینترنت فقیر، جریان ضعیف)</item>
-        <item>بزرگ (استفاده از حافظه بالا برای وضعیت بسیار بد)</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">زمان نمایش در حال تماشای ویدیو را نشان می دهد</string>
 
     <string name="settings_font_style">اندازه متن</string>
-    <string-array name="settings_font_style_names">
-        <item>کوچک</item>
-        <item>طبیعی</item>
-        <item>بزرگ</item>
-        <item>بزرگ</item>
-        <item>غول پیکر (ممکن است بعضی گزینه ها را پنهان کند)</item>
-    </string-array>
-
     <string name="settings_palette_style">طرح پالت رنگ</string>
 
     <string name="settings_ui_screen_margins">حاشیه صفحه</string>
@@ -663,4 +641,25 @@
     <string name="lock_settings">ﺪﯿﻨﮐ ﺩﻭﺪﺤﻣ ﺍﺭ ﻪﻣﺎﻧﺮﺑ ﺕﺎﻤﯿﻈﻨﺗ ﻪﺑ ﯽﺳﺮﺘﺳﺩ</string>
     <string name="mass_hide_offer">؟ﺪﯿﻫﺩ ﺮﯿﯿﻐﺗ ﺰﯿﻧ ﺍﺭ ﺮﺻﺎﻨﻋ ﺮﯾﺎﺳ ﻩﺪﻫﺎﺸﻣ ﺖﯿﻠﺑﺎﻗ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﺎﯾﺁ</string>
     <string name="mass_hide_header">ﻩﺪﻫﺎﺸﻣ ﻞﺑﺎﻗ ﯼﺎﻫﺩﺎﻬﻧ</string>
+    <string name="xt_compact_card">ﮏﯾﺭﺎﺑ ﻩﺩﺎﻌﻟﺍ ﻕﻮﻓ ﯼﺎﻫ ﺕﺭﺎﮐ</string>
+    <string name="clear_downloaded_data">داده های بارگیری شده را پاک کنید</string>
+    <string name="epg_multi_threaded">.ﺩﺭﺍﺬﮕﺑ ﺮﯿﺛﺄﺗ ﻪﻣﺎﻧﺮﺑ ﺩﺮﮑﻠﻤﻋ ﺮﺑ ﯽﻧﺎﺳﺭﺯﻭﺭ ﻪﺑ ﻡﺎﮕﻨﻫ ﺖﺳﺍ ﻦﮑﻤﻣ ﺎﻣﺍ ﺪﻫﺩ ﯽﻣ ﻡﺎﺠﻧﺍ ﺮﺘﻌﯾﺮﺳ ﺍﺭ ﯼﺮﯿﮔﺭﺎﺑ .ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﻉﻮﺿﻮﻣ ﻦﯾﺪﻨﭼ ﺯﺍ EPG ﯽﻧﺎﺳﺭﺯﻭﺭ ﻪﺑ ﻡﺎﮕﻨﻫ</string>
+    <string name="switch_instantly">بلافاصله عوض کنید</string>
+    <string name="buffer_size_no">.ﺪﻨﮐ ﯽﻣ ﻩﺩﺎﻔﺘﺳﺍ ﯼﺮﺘﻤﮐ ﻪﻈﻓﺎﺣ ﺯﺍ ، ﯽﺴﮐﻭﺮﭘ ﯼﺍﻮﺘﺤﻣ ﻩﺪﻫﺎﺸﻣ ﺕﺭﻮﺻ ﺭﺩ .ﺶﺨﭘ ﺮﻓﺎﺑ ﻥﻭﺪﺑ</string>
+    <string name="buffer_size_p1">ﺮﻓﺎﺑ ﻩﺯﺍﺪﻧﺍ ﺶﯾﺍﺰﻓﺍ</string>
+    <string name="buffer_size_p2">ﮒﺭﺰﺑ ﺮﻓﺎﺑ ﻩﺯﺍﺪﻧﺍ</string>
+    <string name="buffer_size_p3">ﮒﺭﺰﺑ ﺮﻓﺎﺑ ﻩﺯﺍﺪﻧﺍ</string>
+    <string name="font_size_sm">کوچک</string>
+    <string name="font_size_lr">بزرگ</string>
+    <string name="font_size_hg">بزرگ+</string>
+    <string name="font_size_gi">غول پیکر (ممکن است بعضی گزینه ها را پنهان کند)</string>
+    <string name="max_results_to_show">ﺩﻮﺷ ﻩﺩﺍﺩ ﻥﺎﺸﻧ ﺪﯾﺎﺑ ﻪﮐ ﺞﯾﺎﺘﻧ ﺩﺍﺪﻌﺗ ﺮﺜﮐﺍﺪﺣ</string>
+    <string name="set_scale_x">ﺪﯿﻨﮐ ﻢﯿﻈﻨﺗ ﺍﺭ X ﺺﺘﺨﻣ ﯼﺭﺍﺬﮔ ﺱﺎﯿﻘﻣ</string>
+    <string name="record_activity_history">ﺪﯿﻨﮐ ﺖﺒﺛ ﺍﺭ ﺖﯿﻟﺎﻌﻓ ﻪﻘﺑﺎﺳ</string>
+    <string name="use_local_search">ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﯽﻠﺤﻣ ﯼﻮﺠﺘﺴﺟ ﺯﺍ ﻂﻘﻓ</string>
+    <string name="prefer_cloud_storage">.ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﯼﺮﺑﺍ ﯼﺯﺎﺳ ﻩﺮﯿﺧﺫ ﯼﺎﻀﻓ ﺎﯾ ﯼﺪﻧﻮﯿﭘ ﯼﺎﻫ ﮏﻨﯿﻟ ﺯﺍ ﻥﺁ ﯼﺎﺟ ﻪﺑ .ﺪﻧﻮﺷ ﺩﻭﺪﺤﻣ ﯼﺪﻌﺑ ﯼﺎﻫ ﻪﺨﺴﻧ ﺭﺩ ﺖﺳﺍ ﻦﮑﻤﻣ ﻭ ﺪﻨﺘﺴﯿﻧ ﯼﺮﯿﮔ ﻥﺎﺒﯿﺘﺸﭘ ﯼﺍﺮﺑ ﯽﻋﻮﺿﻮﻣ ﺍﺮﯾﺯ ، ﺩﻮﺷ ﯽﻤﻧ ﻪﯿﺻﻮﺗ ﺎﻫ ﻩﺪﻧﻭﺮﭘ ﺯﺍ ﻩﺩﺎﻔﺘﺳﺍ</string>
+    <string name="use_system_picker">ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﻢﺘﺴﯿﺳ ﻂﺳﻮﺗ ﻩﺪﺷ ﻪﺋﺍﺭﺍ ﺮﮕﺑﺎﺨﺘﻧﺍ ﺯﺍ ﻩﺩﺎﻔﺘﺳﺍ ﺎﺑ</string>
+    <string name="selection_bitrate">ﺪﯿﻨﮐ ﯼﺮﯿﮕﯿﭘ ﺖﯿﺑ ﺥﺮﻧ ﺎﺑ ﺍﺭ ﮓﻨﻫﺁ ﺏﺎﺨﺘﻧﺍ</string>
+    <string name="selection_bitrate_lowest">ﻥﺩﺍﺩ ﺢﯿﺟﺮﺗ ﺖﯿﺑ ﺥﺮﻧ ﻦﯾﺮﺗ ﻦﯿﯾﺎﭘ</string>
+    <string name="selection_bitrate_highest">ﺪﯿﻫﺩ ﺢﯿﺟﺮﺗ ﺍﺭ ﺢﯿﺟﺮﺗ ﺖﯿﺑ ﻥﺍﺰﯿﻣ ﻦﯾﺮﺘﺸﯿﺑ</string>
     </resources>

@@ -132,7 +132,7 @@
 
     <string name="settings_provider">Provider</string>
     <string name="settings_media_library">Libreria multimediale</string>
-    <string name="settings_media_library_dnla">Scansiona le fonti UPnP / DNLA nella rete locale</string>
+    <string name="settings_media_library_dnla">Scansiona le fonti UPnP / DLNA nella rete locale</string>
 
     <string name="settings_player">Player</string>
     <string name="settings_player_hide_ui">Nascondi sovrapposizione dell\'interfaccia utente in riproduzione in</string>
@@ -151,33 +151,12 @@
     <string name="settings_visual">Stile visivo</string>
 
     <string name="settings_live_quick_channel_switch_delay">Ritardo prima dei canali di cambio rapido</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>cambia istantaneamente</item>
-        <item>consentire di continuare la selezione del canale per un secondo</item>
-        <item>normale (2 secondi per ulteriori selezioni)</item>
-        <item>lento (5 secondi per ulteriori selezioni)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">Dimensione del buffer di trasmissione</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>nessun buffer (ingombro di memoria minimo)</item>
-        <item>standard</item>
-        <item>è aumentato</item>
-        <item>grande (internet scarso, flusso scarso)</item>
-        <item>enorme (elevato utilizzo della memoria per pessime condizioni)</item>
-    </string-array>
 
     <string name="settings_show_clock_in_player_always">Mostra l\'ora corrente mentre guardi il video</string>
 
     <string name="settings_font_style">Dimensione del testo</string>
-    <string-array name="settings_font_style_names">
-        <item>Piccolo</item>
-        <item>Normale</item>
-        <item>Grande</item>
-        <item>Enorme</item>
-        <item>Gigante (può nascondere alcune opzioni)</item>
-    </string-array>
-
     <string name="settings_palette_style">Schema della tavolozza dei colori</string>
 
     <string name="settings_ui_screen_margins">Margini dello schermo</string>
@@ -661,4 +640,25 @@
     <string name="lock_settings">Limita l\'accesso alle impostazioni dell\'app</string>
     <string name="mass_hide_offer">Vuoi cambiare la visibilità anche di altri elementi?</string>
     <string name="mass_hide_header">Entità visibili</string>
+    <string name="xt_compact_card">Carte extra strette</string>
+    <string name="clear_downloaded_data">Cancella i dati scaricati</string>
+    <string name="epg_multi_threaded">Usa più thread durante l\'aggiornamento di EPG. Rende il caricamento più veloce ma potrebbe influire sulle prestazioni dell\'app durante l\'aggiornamento.</string>
+    <string name="switch_instantly">cambia istantaneamente</string>
+    <string name="buffer_size_no">Nessun buffer di riproduzione. Utilizza meno memoria ed è consigliato se si guardano contenuti proxy.</string>
+    <string name="buffer_size_p1">Dimensione del buffer aumentata</string>
+    <string name="buffer_size_p2">Grande dimensione del buffer</string>
+    <string name="buffer_size_p3">Dimensioni enormi del buffer</string>
+    <string name="font_size_sm">Piccolo</string>
+    <string name="font_size_lr">Grande</string>
+    <string name="font_size_hg">Enorme</string>
+    <string name="font_size_gi">Gigante (può nascondere alcune opzioni)</string>
+    <string name="max_results_to_show">Conteggio massimo dei risultati che dovrebbero essere visualizzati</string>
+    <string name="set_scale_x">Imposta il ridimensionamento personalizzato delle coordinate X.</string>
+    <string name="record_activity_history">Registra la cronologia delle attività</string>
+    <string name="use_local_search">Usa solo la ricerca locale</string>
+    <string name="prefer_cloud_storage">L\'uso dei file non è consigliato, poiché non sono oggetto di backup e potrebbero essere limitati nelle versioni future. Utilizza invece collegamenti ipertestuali o un archivio cloud.</string>
+    <string name="use_system_picker">Selezionare utilizzando un selettore fornito dal sistema</string>
+    <string name="selection_bitrate">Selezione delle tracce in base al bitrate</string>
+    <string name="selection_bitrate_lowest">Preferisci il bitrate più basso</string>
+    <string name="selection_bitrate_highest">Preferisci il bitrate più alto</string>
     </resources>

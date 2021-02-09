@@ -151,33 +151,12 @@
     <string name="settings_visual">ভিজ্যুয়াল শৈলী</string>
 
     <string name="settings_live_quick_channel_switch_delay">দ্রুত সুইচিং চ্যানেলের আগে বিলম্ব</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>অবিলম্বে সুইচ</item>
-        <item>এক সেকেন্ডের জন্য চ্যানেল নির্বাচন চালিয়ে যেতে অনুমতি দেয়</item>
-        <item>স্বাভাবিক (আরও নির্বাচনের জন্য 2 সেকেন্ড)</item>
-        <item>ধীর (আরও নির্বাচনের জন্য 5 সেকেন্ড)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">ব্রডকাস্ট বাফার আকার</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>কোন বাফার (সংক্ষিপ্ত মেমরি পদচিহ্ন)</item>
-        <item>মান</item>
-        <item>বর্ধিত</item>
-        <item>বড় (দরিদ্র ইন্টারনেট, দরিদ্র প্রবাহ)</item>
-        <item>বিশাল (খুব খারাপ অবস্থা জন্য উচ্চ মেমরি ব্যবহার)</item>
-    </string-array>
 
     <string name="settings_show_clock_in_player_always">ভিডিও দেখার সময় বর্তমান সময় দেখান</string>
 
     <string name="settings_font_style">অক্ষরের আকার</string>
-    <string-array name="settings_font_style_names">
-        <item>ছোট</item>
-        <item>সাধারণ</item>
-        <item>বড়</item>
-        <item>বিপুল</item>
-        <item>দৈত্য (কিছু অপশন লুকাতে পারে)</item>
-    </string-array>
-
     <string name="settings_palette_style">রঙ প্যালেট প্রকল্প</string>
 
     <string name="settings_ui_screen_margins">স্ক্রিন মার্জিন</string>
@@ -663,4 +642,25 @@
     <string name="lock_settings">অ্যাপ্লিকেশন সেটিংসে অ্যাক্সেস সীমাবদ্ধ করুন</string>
     <string name="mass_hide_offer">আপনি কি অন্যান্য উপাদানগুলির দৃশ্যমানতাও পরিবর্তন করতে চান?</string>
     <string name="mass_hide_header">দৃশ্যমান সত্তা</string>
+    <string name="xt_compact_card">অতিরিক্ত সরু কার্ড</string>
+    <string name="clear_downloaded_data">ডাউনলোড করা ডেটা সাফ করুন</string>
+    <string name="epg_multi_threaded">ইপিজি আপডেট করার সময় একাধিক থ্রেড ব্যবহার করুন। দ্রুত লোড তৈরি করে তবে আপডেট করার সময় অ্যাপ্লিকেশন কার্যকারিতাটিতে প্রভাব ফেলতে পারে।</string>
+    <string name="switch_instantly">অবিলম্বে সুইচ</string>
+    <string name="buffer_size_no">কোনও প্লেব্যাক বাফার নেই। প্রক্সড কন্টেন্ট দেখলে কম মেমোরি ব্যবহার করা বাঞ্ছনীয়।</string>
+    <string name="buffer_size_p1">বাফারের আকার বৃদ্ধি পেয়েছে</string>
+    <string name="buffer_size_p2">বড় বাফার আকার</string>
+    <string name="buffer_size_p3">বিশাল বাফার আকার</string>
+    <string name="font_size_sm">ছোট</string>
+    <string name="font_size_lr">বড়</string>
+    <string name="font_size_hg">বিপুল</string>
+    <string name="font_size_gi">দৈত্য (কিছু অপশন লুকাতে পারে)</string>
+    <string name="max_results_to_show">প্রদর্শিত ফলাফলের সর্বাধিক গণনা be</string>
+    <string name="set_scale_x">কাস্টম এক্স-সমন্বিত স্কেলিং সেট করুন</string>
+    <string name="record_activity_history">ক্রিয়াকলাপের ইতিহাস রেকর্ড করুন</string>
+    <string name="use_local_search">শুধুমাত্র স্থানীয় অনুসন্ধান ব্যবহার করুন</string>
+    <string name="prefer_cloud_storage">ফাইলগুলি ব্যবহারের প্রস্তাব দেওয়া হয় না, যেহেতু এগুলি ব্যাকআপের বিষয় নয় এবং ভবিষ্যতের সংস্করণগুলিতে এটি সীমাবদ্ধ হতে পারে। পরিবর্তে হাইপারলিঙ্ক বা একটি ক্লাউড স্টোরেজ ব্যবহার করুন।</string>
+    <string name="use_system_picker">সিস্টেম দ্বারা সরবরাহিত একটি পিকার ব্যবহার করে নির্বাচন করুন</string>
+    <string name="selection_bitrate">বিটরেট দ্বারা নির্বাচন ট্র্যাক</string>
+    <string name="selection_bitrate_lowest">সর্বনিম্ন বিটরেট পছন্দ করুন</string>
+    <string name="selection_bitrate_highest">সর্বোচ্চ বিটরেট পছন্দ করুন</string>
     </resources>

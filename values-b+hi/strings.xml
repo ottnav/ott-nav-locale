@@ -151,33 +151,11 @@
     <string name="settings_visual">दृश्य पद्धति</string>
 
     <string name="settings_live_quick_channel_switch_delay">त्वरित स्विचिंग चैनल से पहले देरी</string>
-    <string-array name="settings_live_quick_channel_switch_delay_names">
-        <item>तुरंत स्विच करें</item>
-        <item>एक सेकंड के लिए चैनल चयन जारी रखने की अनुमति दें</item>
-        <item>सामान्य (आगे के चयन के लिए 2 सेकंड)</item>
-        <item>धीमा (आगे चयन के लिए 5 सेकंड)</item>
-    </string-array>
 
     <string name="settings_player_buffer_size">प्रसारण बफर आकार</string>
-    <string-array name="settings_player_buffer_size_names">
-        <item>कोई बफर नहीं (न्यूनतम स्मृति पदचिह्न)</item>
-        <item>मानक</item>
-        <item>बढ़ा हुआ</item>
-        <item>बड़ा (खराब इंटरनेट, खराब धारा)</item>
-        <item>बहुत खराब स्थिति के लिए विशाल (उच्च स्मृति उपयोग)</item>
-    </string-array>
-
     <string name="settings_show_clock_in_player_always">वीडियो देखते समय वर्तमान समय दिखाएं</string>
 
     <string name="settings_font_style">शब्दों का आकर</string>
-    <string-array name="settings_font_style_names">
-        <item>छोटा</item>
-        <item>साधारण</item>
-        <item>विशाल</item>
-        <item>विशाल</item>
-        <item>विशाल (कुछ विकल्प छुपा सकते हैं)</item>
-    </string-array>
-
     <string name="settings_palette_style">रंग पैलेट योजना</string>
 
     <string name="settings_ui_screen_margins">स्क्रीन मार्जिन</string>
@@ -663,4 +641,25 @@
     <string name="lock_settings">एप्लिकेशन सेटिंग तक पहुंच प्रतिबंधित करें</string>
     <string name="mass_hide_offer">क्या आप अन्य तत्वों की दृश्यता को भी बदलना चाहते हैं?</string>
     <string name="mass_hide_header">दर्शनीय संस्थाएँ</string>
+    <string name="xt_compact_card">अतिरिक्त संकीर्ण कार्ड</string>
+    <string name="clear_downloaded_data">डाउनलोड किया गया डेटा साफ़ करें</string>
+    <string name="epg_multi_threaded">EPG अपडेट करते समय कई थ्रेड्स का उपयोग करें। अपडेट करते समय तेज़ी से लोड होता है, लेकिन ऐप के प्रदर्शन पर असर पड़ सकता है।</string>
+    <string name="switch_instantly">तुरंत स्विच करें</string>
+    <string name="buffer_size_no">कोई प्लेबैक बफर नहीं। कम स्मृति का उपयोग करता है और अगर अनुमानित सामग्री देख रहा है तो अनुशंसित है।</string>
+    <string name="buffer_size_p1">बफर आकार में वृद्धि</string>
+    <string name="buffer_size_p2">बड़े बफर आकार</string>
+    <string name="buffer_size_p3">विशाल बफर आकार</string>
+    <string name="font_size_sm">छोटा</string>
+    <string name="font_size_lr">विशाल</string>
+    <string name="font_size_hg">विशाल+</string>
+    <string name="font_size_gi">विशाल (कुछ विकल्प छुपा सकते हैं)</string>
+    <string name="max_results_to_show">परिणामों की अधिकतम गणना जो दर्शाई जानी चाहिए</string>
+    <string name="set_scale_x">कस्टम एक्स-समन्वय स्केलिंग सेट करें</string>
+    <string name="record_activity_history">गतिविधि का इतिहास रिकॉर्ड करें</string>
+    <string name="use_local_search">केवल स्थानीय खोज का उपयोग करें</string>
+    <string name="prefer_cloud_storage">फ़ाइलों का उपयोग करने की अनुशंसा नहीं की जाती है, क्योंकि वे बैकअप के लिए विषय नहीं हैं और भविष्य के संस्करणों में प्रतिबंधित हो सकते हैं। इसके बजाय हाइपरलिंक या क्लाउड स्टोरेज का उपयोग करें।</string>
+    <string name="use_system_picker">सिस्टम द्वारा प्रदान किए गए पिकर का उपयोग करके चयन करें</string>
+    <string name="selection_bitrate">ट्रैक बिटरेट द्वारा</string>
+    <string name="selection_bitrate_lowest">सबसे कम बिटरेट को प्राथमिकता दें</string>
+    <string name="selection_bitrate_highest">उच्चतम बिटरेट को प्राथमिकता दें</string>
     </resources>
