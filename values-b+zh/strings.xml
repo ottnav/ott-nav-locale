@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">再按一次退出</string>
 
     <string name="search_bar">搜索频道或节目</string>
-    <string name="search_bar_clue">试试输入电影、电视剧、电视节目或演员的名字</string>
 
     <string name="menu_search">搜索</string>
     <string name="menu_live">直播</string>
@@ -14,7 +13,6 @@
 
     <string name="browse_description_series_number">集</string>
     <string name="browse_description_header_live">直播频道</string>
-    <string name="browse_description_header_program">节目单</string>
 
     <string name="category_movies">全部电影</string>
     <string name="category_tv_series">全部电视剧</string>
@@ -408,7 +406,6 @@
     <string name="ch_manage_use_internal">使用内置播放器</string>
     <string name="cat_manage_start_this_cat_on">首选分类</string>
 
-    <string name="cfg_show_ch_desc">显示广播说明</string>
     <string name="studio_mode_open_in">以演播室模式打开</string>
     <string name="studio_mode_title">演播室模式</string>
     <string name="studio_mode_remove">删除屏幕</string>
@@ -429,7 +426,6 @@
     <string name="cfg_prov_remove_sd">删除本地加载的频道</string>
     <string name="cfg_prov_remove_sd_hd">自动替换更高清的频道</string>
     <string name="cfg_prov_remove_tz">按时区删除频道</string>
-    <string name="cfg_prov_follow_includes">频道列表动态追踪</string>
     <string name="cfg_sys_settings">系统设置</string>
     <string name="cfg_pla_hud_settings">播放器界面设置</string>
     <string name="cfg_tv_guide_transparency">背景透明</string>
@@ -440,7 +436,6 @@
     <string name="restore_state">状态恢复</string>
     <string name="pro_studio">Studio模式，允许同时观看多个流</string>
     <string name="cfg_prov_channel_name">使用多个提供程序时在通道名称中显示提供程序名</string>
-    <string name="increase_text_size">增加文字大小</string>
     <string name="hint_long_up_down">长按向上和向下箭头可以更快地进行列表导航</string>
     <string name="pla_act_quick_seek_back_20">向后追寻20秒</string>
     <string name="pla_act_quick_seek_fwd_20">向前寻求20秒</string>
@@ -462,7 +457,6 @@
     <string name="parental_control">家长控制</string>
     <string name="show_different_time_frame_guide">显示更早或更晚的时间表</string>
     <string name="seconds">秒</string>
-    <string name="not_limited">不限</string>
     <string name="auto_detected">自动检测到</string>
     <string name="remove">去掉</string>
     <string name="video_unsupported">此设备无法播放任何视频曲目</string>
@@ -472,7 +466,6 @@
     <string name="media_tracks_video">视频</string>
     <string name="media_tracks_audio">音频</string>
     <string name="media_tracks_sub">字幕</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">自动滚动到最后一项（在触摸模式下）</string>
     <string name="hint_right_archives">您可以在浏览实时频道时按向右按钮打开存档列表</string>
     <string name="switch_audio_hw">使用硬件音频解码器</string>
     <string name="switch_audio_sw">使用软件音频解码器</string>
@@ -548,7 +541,6 @@
     <string name="reload_data">重新载入资料</string>
     <string name="assume_long_buffering_as_error">假设长缓冲是通道错误</string>
     <string name="show_installation_number">显示安装编号</string>
-    <string name="sort_archive_by_date">按日期对存档视频进行排序</string>
     <string name="simplified_mode">简化模式</string>
     <string name="hide_advanced_features">隐藏高级功能</string>
     <string name="select_player_to_use">选择要用于播放的播放器</string>
@@ -654,4 +646,21 @@
     <string name="selection_bitrate">按比特率选择曲目</string>
     <string name="selection_bitrate_lowest">首选最低比特率</string>
     <string name="selection_bitrate_highest">首选最高比特率</string>
+    <string name="launcher_mode">启动器模式（不退出应用）</string>
+    <string name="current_epg_info">有关当前广播的信息</string>
+    <string name="change_codec_if_no_playback">如果无法开始播放，则可以尝试使用其他编解码器</string>
+    <string name="player_menu_and_hud">播放器菜单和抬头显示</string>
+    <string name="keep_hud_while_in_menu">菜单开启时保持抬头显示</string>
+    <string name="media_tunneling">媒体轨道直接传输到输出设备</string>
+    <string name="menu_qs_keep_fav">保留所有提供商显示的收藏频道</string>
+    <string name="list_view_side_by_side">并排</string>
+    <string name="list_num_columns">列数</string>
+    <string name="show_on_main_screen">启用在主屏幕上显示此内容</string>
+    <string name="add_temp_stream_link">将流的临时链接添加到库</string>
+    <string name="auto_start_this_ch_on_start">在应用启动时自动开始播放此频道</string>
+    <string name="hint_themes">您是否知道该应用程序具有很多视觉主题，并且可以选择最适合您的主题？</string>
+    <string name="hint_customizing">您是否知道应用程序的几乎每个方面-菜单，列表，颜色都是高度可配置的？</string>
+    <string name="hint_setup_keys">您可以将遥控器按钮配置为任何可取的动作</string>
+    <string name="hint_setup_touch">您可以在不同的屏幕区域中配置双击和滑动，以执行任何可取的操作</string>
+    <string name="delay_before_acting">行动延迟</string>
     </resources>

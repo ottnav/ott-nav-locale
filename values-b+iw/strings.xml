@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">לחץ פעם נוספת כדי לצאת</string>
 
     <string name="search_bar">חפש לפי ערוצים או תוכניות</string>
-    <string name="search_bar_clue">נסה סרט, סדרת טלוויזיה, שם תוכנית טלוויזיה או שמות שחקנים</string>
 
 
     <string name="menu_search">חיפוש וידאו</string>
@@ -16,7 +15,6 @@
 
     <string name="browse_description_series_number">פרק</string>
     <string name="browse_description_header_live">ערוצים חיים</string>
-    <string name="browse_description_header_program">לוח הזמנים של הערוץ</string>
 
 
     <string name="category_movies">כל הסרטים</string>
@@ -415,7 +413,6 @@
     <string name="ch_manage_use_internal">השתמש בנגן פנימי</string>
     <string name="cat_manage_start_this_cat_on">התחל מקטגוריה זו</string>
 
-    <string name="cfg_show_ch_desc">הצג תיאור שידור</string>
     <string name="studio_mode_open_in">פתח במצב סטודיו</string>
     <string name="studio_mode_title">מצב סטודיו</string>
     <string name="studio_mode_remove">הסר את המסך</string>
@@ -436,7 +433,6 @@
     <string name="cfg_prov_remove_sd">הסר ערוצי SD</string>
     <string name="cfg_prov_remove_sd_hd">הסר ערוצי SD אם זוהה איכות גבוהה יותר</string>
     <string name="cfg_prov_remove_tz">הסר ערוצים מאזור זמן שונה</string>
-    <string name="cfg_prov_follow_includes">עקוב כולל בפלייליסט</string>
     <string name="cfg_sys_settings">הגדרות מערכת</string>
     <string name="cfg_pla_hud_settings">ממשק נגן</string>
     <string name="cfg_tv_guide_transparency">שקיפות רקע</string>
@@ -447,7 +443,6 @@
     <string name="restore_state">שחזר מצב</string>
     <string name="pro_studio">מצב סטודיו, מאפשר לצפות בזרמים מרובים בו זמנית</string>
     <string name="cfg_prov_channel_name">הצג שם ספק בשם הערוץ בעת שימוש במספר ספקים</string>
-    <string name="increase_text_size">הגדלת גודל הטקסט</string>
     <string name="hint_long_up_down">לחיצה ארוכה על חיצים למעלה ולמטה מאפשרת ניווט מהיר יותר ברשימה</string>
     <string name="pla_act_quick_seek_back_20">חפש אחורה ב 20 שניות</string>
     <string name="pla_act_quick_seek_fwd_20">לחפש קדימה ב 20 שניות</string>
@@ -469,7 +464,6 @@
     <string name="parental_control">בקרת הורים</string>
     <string name="show_different_time_frame_guide">הצג לוח זמנים מוקדם יותר או מאוחר יותר</string>
     <string name="seconds">שניות</string>
-    <string name="not_limited">לא מוגבל</string>
     <string name="auto_detected">זוהה אוטומטית</string>
     <string name="remove">הסר</string>
     <string name="video_unsupported">אף אחד ממסלולי הווידיאו לא ניתנים להפעלה על ידי מכשיר זה</string>
@@ -479,7 +473,6 @@
     <string name="media_tracks_video">וידאו</string>
     <string name="media_tracks_audio">שמע</string>
     <string name="media_tracks_sub">כתוביות</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">גלול אוטומטי לפריט האחרון (במצב מגע)</string>
     <string name="hint_right_archives">אתה יכול ללחוץ על כפתור ימינה תוך כדי גלישה בערוצים חיים לפתיחת רשימת הארכיונים</string>
     <string name="switch_audio_hw">השתמש במפענח שמע לחומרה</string>
     <string name="switch_audio_sw">השתמש במפענח שמע לתוכנה</string>
@@ -555,7 +548,6 @@
     <string name="reload_data">טען מחדש נתונים</string>
     <string name="assume_long_buffering_as_error">נניח שחציצה ארוכה היא שגיאת ערוץ</string>
     <string name="show_installation_number">הצג את מספר ההתקנה</string>
-    <string name="sort_archive_by_date">מיין סרטונים שנשמרו בארכיון לפי תאריך</string>
     <string name="simplified_mode">מצב מפושט</string>
     <string name="hide_advanced_features">הסתר תכונות מתקדמות</string>
     <string name="select_player_to_use">בחר נגן שישמש להפעלה</string>
@@ -661,4 +653,21 @@
     <string name="selection_bitrate">תויביס בצק יפל הריחב רחא בוקע</string>
     <string name="selection_bitrate_lowest">רתויב ךומנה תויביסה בצק תא ףדעה</string>
     <string name="selection_bitrate_highest">רתויב הובגה תויביסה בצק תא ףדעה</string>
+    <string name="launcher_mode">(היצקילפאהמ אצת לא) רגשמ בצמ</string>
+    <string name="current_epg_info">יחכונה רודישה לע עדימ</string>
+    <string name="change_codec_if_no_playback">רחא קדוק תוסנל לוכי התא הליחתמ אל הלעפהה םא</string>
+    <string name="player_menu_and_hud">הלעמ-שאר תגוצתו ןגנ טירפת</string>
+    <string name="keep_hud_while_in_menu">לעופ טירפתהש ןמזב הלעמל שארה תגצה לע רומש</string>
+    <string name="media_tunneling">טלפה רישכמל תורישי הידמ לולסמ תרהנמ</string>
+    <string name="menu_qs_keep_fav">םיקפסה לכמ םיגצומה םיפדעומ םיצורע לע רומש</string>
+    <string name="list_view_side_by_side">הז דצל הז</string>
+    <string name="list_num_columns">תודומעה רפסמ</string>
+    <string name="show_on_main_screen">ישארה ךסמב תאז גיצהל רשפא</string>
+    <string name="add_temp_stream_link">הירפסל םרזל ינמז רושיק ףסוה</string>
+    <string name="auto_start_this_ch_on_start">הפעל הפעלה אוטומטית של ערוץ זה בהתחלת האפליקציה</string>
+    <string name="hint_themes">רתויב ךל םיאתמה תא רוחבל לוכי התאו םייתוזח םיאשונ ןומה היצקילפאל שיש ת?</string>
+    <string name="hint_customizing">הרדגהל םינתינ םיעבצ ,תומישר ,םיטירפת - היצקילפאב טביה לכ טעמכש תעדי םא?</string>
+    <string name="hint_setup_keys">באפשרותך להגדיר את לחצני השלט הרחוק שלך לכל פעולה עדיפה</string>
+    <string name="hint_setup_touch">אתה יכול להגדיר ברזים כפולים והחלפות באזורי מסך שונים לכל פעולה עדיפה</string>
+    <string name="delay_before_acting">קחשמה ינפל בוכיע</string>
     </resources>

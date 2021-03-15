@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">Bấm phím trở về lần nữa để thoát</string>
 
     <string name="search_bar">Tìm kiếm kênh hoặc chương trình</string>
-    <string name="search_bar_clue">thử tìm tên phim, phim truyền hình hoặc diễn viên</string>
 
     <string name="menu_search">Tìm kiếm video</string>
     <string name="menu_live">Kênh trực tiếp</string>
@@ -14,7 +13,6 @@
 
     <string name="browse_description_series_number">tập</string>
     <string name="browse_description_header_live">Kênh trực tiếp</string>
-    <string name="browse_description_header_program">Lịch phát sóng</string>
 
     <string name="category_movies">Tất cả phim</string>
     <string name="category_tv_series">Tất cả phim truyền hình</string>
@@ -408,7 +406,6 @@
     <string name="ch_manage_use_internal">Sử dụng trình phát ngoài</string>
     <string name="cat_manage_start_this_cat_on">Bắt đầu từ danh mục này</string>
 
-    <string name="cfg_show_ch_desc">Hiển thị mô tả phát sóng</string>
     <string name="studio_mode_open_in">Mở trong chế độ Studio</string>
     <string name="studio_mode_title">Chế độ Studio</string>
     <string name="studio_mode_remove">Gỡ bỏ màn hình</string>
@@ -429,7 +426,6 @@
     <string name="cfg_prov_remove_sd">Xoá các kênh SD</string>
     <string name="cfg_prov_remove_sd_hd">Xóa các kênh SD nếu phát hiện có chất lượng cao hơn</string>
     <string name="cfg_prov_remove_tz">Xoá các kênh từ múi giờ khác</string>
-    <string name="cfg_prov_follow_includes">Theo dõi trong danh sách phát</string>
     <string name="cfg_sys_settings">Cài đặt hệ thống</string>
     <string name="cfg_pla_hud_settings">Giao diện trình phát</string>
     <string name="cfg_tv_guide_transparency">Độ trong suốt nền</string>
@@ -440,7 +436,6 @@
     <string name="restore_state">Khôi phục</string>
 <string name="pro_studio">Chế độ studio, cho phép xem nhiều luồng cùng lúc</string>
     <string name="cfg_prov_channel_name">Hiển thị tên nhà cung cấp trong tên kênh khi sử dụng nhiều nhà cung cấp</string>
-    <string name="increase_text_size">tăng kích thước văn bản</string>
     <string name="hint_long_up_down">Nhấn và nhấn mũi tên dài cho phép điều hướng danh sách nhanh hơn</string>
     <string name="pla_act_quick_seek_back_20">tìm kiếm ngược 20 giây</string>
     <string name="pla_act_quick_seek_fwd_20">tìm kiếm về phía trước 20 giây</string>
@@ -462,7 +457,6 @@
     <string name="parental_control">kiểm soát của cha mẹ</string>
     <string name="show_different_time_frame_guide">Hiển thị thời gian biểu sớm hơn hoặc muộn hơn</string>
     <string name="seconds">giây</string>
-    <string name="not_limited">không giới hạn</string>
     <string name="auto_detected">tự động phát hiện</string>
     <string name="remove">tẩy</string>
     <string name="video_unsupported">Thiết bị này không thể phát được các bản nhạc video</string>
@@ -472,7 +466,6 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Âm thanh</string>
     <string name="media_tracks_sub">Phụ đề</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Tự động cuộn đến mục cuối cùng (ở chế độ cảm ứng)</string>
     <string name="hint_right_archives">Bạn có thể nhấn nút PHẢI trong khi duyệt các kênh trực tiếp để mở danh sách lưu trữ</string>
     <string name="switch_audio_hw">Sử dụng bộ giải mã âm thanh phần cứng</string>
     <string name="switch_audio_sw">Sử dụng phần mềm giải mã âm thanh</string>
@@ -548,7 +541,6 @@
     <string name="reload_data">Tải lại dữ liệu</string>
     <string name="assume_long_buffering_as_error">Giả sử bộ đệm dài là lỗi kênh</string>
     <string name="show_installation_number">Hiển thị số cài đặt</string>
-    <string name="sort_archive_by_date">Sắp xếp video lưu trữ theo ngày</string>
     <string name="simplified_mode">Chế độ đơn giản hóa</string>
     <string name="hide_advanced_features">Ẩn các tính năng nâng cao</string>
     <string name="select_player_to_use">Chọn trình phát để sử dụng để phát lại</string>
@@ -654,4 +646,21 @@
     <string name="selection_bitrate">Theo dõi lựa chọn theo tốc độ bit</string>
     <string name="selection_bitrate_lowest">Ưu tiên tốc độ bit thấp nhất</string>
     <string name="selection_bitrate_highest">Ưu tiên tốc độ bit cao nhất</string>
+    <string name="launcher_mode">Chế độ trình khởi chạy (không thoát ứng dụng)</string>
+    <string name="current_epg_info">Thông tin về chương trình phát sóng hiện tại</string>
+    <string name="change_codec_if_no_playback">Nếu quá trình phát lại không bắt đầu, bạn có thể thử một codec khác</string>
+    <string name="player_menu_and_hud">Menu trình phát và màn hình hiển thị thông báo</string>
+    <string name="keep_hud_while_in_menu">Luôn hiển thị thông báo khi menu đang bật</string>
+    <string name="media_tunneling">Phương tiện truyền thông đường hầm trực tiếp đến thiết bị đầu ra</string>
+    <string name="menu_qs_keep_fav">Giữ các kênh yêu thích được hiển thị từ tất cả các nhà cung cấp</string>
+    <string name="list_view_side_by_side">Cạnh bên nhau</string>
+    <string name="list_num_columns">Số cột</string>
+    <string name="show_on_main_screen">Bật hiển thị điều này trên màn hình chính</string>
+    <string name="add_temp_stream_link">Thêm liên kết tạm thời vào luồng vào thư viện</string>
+    <string name="auto_start_this_ch_on_start">Tự động bắt đầu phát lại kênh này khi khởi động ứng dụng</string>
+    <string name="hint_themes">Bạn có biết rằng ứng dụng có rất nhiều chủ đề trực quan và bạn có thể chọn chủ đề phù hợp với mình nhất?</string>
+    <string name="hint_customizing">Bạn có biết rằng hầu hết mọi khía cạnh của ứng dụng - menu, danh sách, màu sắc đều có thể cấu hình cao?</string>
+    <string name="hint_setup_keys">Bạn có thể định cấu hình các nút điều khiển từ xa của mình thành bất kỳ hành động thích hợp nào</string>
+    <string name="hint_setup_touch">Bạn có thể định cấu hình nhấn đúp và vuốt ở các vùng màn hình khác nhau cho bất kỳ hành động thích hợp nào</string>
+    <string name="delay_before_acting">Trì hoãn trước khi hành động</string>
     </resources>

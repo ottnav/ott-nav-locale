@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">اضغط مرة أخرى للخروج</string>
 
     <string name="search_bar">البحث عن طريق القنوات أو البرامج</string>
-    <string name="search_bar_clue">جرب الفيلم أو المسلسل التلفزيوني أو اسم العرض التلفزيوني أو أسماء الممثل</string>
 
 
     <string name="menu_search">بحث فيديو</string>
@@ -16,7 +15,6 @@
 
     <string name="browse_description_series_number">حلقة</string>
     <string name="browse_description_header_live">قنوات حية</string>
-    <string name="browse_description_header_program">جدول القناة</string>
 
 
     <string name="category_movies">جميع الأفلام</string>
@@ -416,7 +414,6 @@
     <string name="ch_manage_use_internal">استخدام لاعب داخلي</string>
     <string name="cat_manage_start_this_cat_on">ابدأ من هذه الفئة</string>
 
-    <string name="cfg_show_ch_desc">عرض وصف البث</string>
     <string name="studio_mode_open_in">فتح في وضع الاستوديو</string>
     <string name="studio_mode_title">وضع الاستوديو</string>
     <string name="studio_mode_remove">إزالة الشاشة</string>
@@ -437,7 +434,6 @@
     <string name="cfg_prov_remove_sd">إزالة قنوات SD</string>
     <string name="cfg_prov_remove_sd_hd">قم بإزالة قنوات SD إذا تم اكتشاف جودة أعلى</string>
     <string name="cfg_prov_remove_tz">إزالة القنوات من المناطق الزمنية المختلفة</string>
-    <string name="cfg_prov_follow_includes">اتبع يشمل في قائمة التشغيل</string>
     <string name="cfg_sys_settings">اعدادات النظام</string>
     <string name="cfg_pla_hud_settings">واجهة لاعب</string>
     <string name="cfg_tv_guide_transparency">شفافية الخلفية</string>
@@ -448,7 +444,6 @@
     <string name="restore_state">استعادة الدولة</string>
 <string name="pro_studio">وضع الاستوديو ، مما يسمح بمشاهدة تدفقات متعددة في نفس الوقت</string>
     <string name="cfg_prov_channel_name">إظهار اسم المزود في اسم القناة عند استخدام موفري متعددين</string>
-    <string name="increase_text_size">زيادة حجم النص</string>
     <string name="hint_long_up_down">الضغط الطويل لأعلى ولأسفل يسمح بتصفح أسرع</string>
     <string name="pla_act_quick_seek_back_20">تسعى الى الوراء بنسبة 20 ثانية</string>
     <string name="pla_act_quick_seek_fwd_20">السعي إلى الأمام بنسبة 20 ثانية</string>
@@ -470,7 +465,6 @@
     <string name="parental_control">مراقبة اهلية</string>
     <string name="show_different_time_frame_guide">عرض الجدول الزمني في وقت سابق أو في وقت لاحق</string>
     <string name="seconds">ثواني</string>
-    <string name="not_limited">ليس محدودا</string>
     <string name="auto_detected">الكشف التلقائي</string>
     <string name="remove">إزالة</string>
     <string name="video_unsupported">لا يمكن تشغيل أي من مقاطع الفيديو بواسطة هذا الجهاز</string>
@@ -480,7 +474,6 @@
     <string name="media_tracks_video">فيديو</string>
     <string name="media_tracks_audio">سمعي</string>
     <string name="media_tracks_sub">عناوين فرعية</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">التمرير التلقائي إلى العنصر الأخير (في وضع اللمس)</string>
     <string name="hint_right_archives">يمكنك الضغط على الزر الأيمن أثناء تصفح القنوات الحية لفتح قائمة المحفوظات</string>
     <string name="switch_audio_hw">استخدام جهاز فك تشفير الصوت</string>
     <string name="switch_audio_sw">استخدام برنامج فك تشفير الصوت</string>
@@ -556,7 +549,6 @@
     <string name="reload_data">تحديث البيانات</string>
     <string name="assume_long_buffering_as_error">تفترض التخزين المؤقت الطويل كونه خطأ قناة</string>
     <string name="show_installation_number">إظهار رقم التثبيت</string>
-    <string name="sort_archive_by_date">فرز مقاطع الفيديو المؤرشفة حسب التاريخ</string>
     <string name="simplified_mode">الوضع المبسط</string>
     <string name="hide_advanced_features">إخفاء الميزات المتقدمة</string>
     <string name="select_player_to_use">حدد لاعب لاستخدامه في التشغيل</string>
@@ -662,4 +654,21 @@
     <string name="selection_bitrate">ﺖﺒﻟﺍ ﻝﺪﻌﻣ ﺐﺴﺣ ﺭﺎﺴﻤﻟﺍ ﺭﺎﻴﺘﺧﺍ</string>
     <string name="selection_bitrate_lowest">ﺖﺑ ﻝﺪﻌﻣ ﻰﻧﺩﺃ ﻞﻀﻔﺗ</string>
     <string name="selection_bitrate_highest">ﺖﺑ ﻝﺪﻌﻣ ﻰﻠﻋﺃ ﻞﻀﻔﺗ</string>
+    <string name="launcher_mode">(ﻖﻴﺒﻄﺘﻟﺍ ﻦﻣ ﺝﺮﺨﺗ ﻻ﻿) ﻞﻐﺸﻤﻟﺍ ﻊﺿﻭ</string>
+    <string name="current_epg_info">ﻲﻟﺎﺤﻟﺍ ﺚﺒﻟﺍ ﻝﻮﺣ ﺕﺎﻣﻮﻠﻌﻣ</string>
+    <string name="change_codec_if_no_playback">ﻒﻠﺘﺨﻣ ﺰﻴﻣﺮﺗ ﺞﻣﺎﻧﺮﺑ ﺔﺑﺮﺠﺗ ﻚﻨﻜﻤﻳ ، ﻞﻴﻐﺸﺘﻟﺍ ﺃﺪﺒﻳ ﻢﻟ ﺍﺫﺇ</string>
+    <string name="player_menu_and_hud">ﺱﻭﺅﺮﻟﺍ ﺔﺷﺎﺷﻭ ﻞﻐﺸﻤﻟﺍ ﺔﻤﺋﺎﻗ</string>
+    <string name="keep_hud_while_in_menu">ﺔﻤﺋﺎﻘﻟﺍ ﻞﻴﻐﺸﺗ ءﺎﻨﺛﺃ ﺱﻭﺅﺮﻟﺍ ﺽﺮﻋ ﻰﻠﻋ ﻆﻓﺎﺣ</string>
+    <string name="media_tunneling">ﺝﺍﺮﺧﻹ﻿ﺍ ﺯﺎﻬﺟ ﻰﻟﺇ ﺓﺮﺷﺎﺒﻣ ﻂﺋﺎﺳﻮﻟﺍ ﺭﺎﺴﻣ ﻖﻔﻧ</string>
+    <string name="menu_qs_keep_fav">ﺔﻣﺪﺨﻟﺍ ﻲﻣﺪﻘﻣ ﻊﻴﻤﺟ ﻦﻣ ﺔﺿﻭﺮﻌﻣ ﺔﻠﻀﻔﻤﻟﺍ ﺕﺍﻮﻨﻘﻟﺍ ﻰﻠﻋ ﻆﻓﺎﺣ</string>
+    <string name="list_view_side_by_side">ﺐﻨﺟ ﻰﻟﺃﺎﺒﻨﺟ</string>
+    <string name="list_num_columns">ﺓﺪﻤﻋﻷ﻿ﺍ ﺩﺪﻋ</string>
+    <string name="show_on_main_screen">ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﺷﺎﺸﻟﺍ ﻰﻠﻋ ﺍﺬﻫ ﺭﺎﻬﻇﺇ ﻞﻴﻌﻔﺗ</string>
+    <string name="add_temp_stream_link">ﺔﺒﺘﻜﻤﻟﺍ ﻰﻟﺇ ﺭﺎﻴﺗ ﻰﻟﺇ ﺖﻗﺆﻣ ﻁﺎﺒﺗﺭﺍ ﺔﻓﺎﺿﺇ</string>
+    <string name="auto_start_this_ch_on_start">بدء التشغيل التلقائي لهذه القناة عند بدء التطبيق</string>
+    <string name="hint_themes">؟ﺮﺜﻛﺃ ﻚﺒﺳﺎﻨﻳ ﺎﻣ ﺭﺎﻴﺘﺧﺍ ﻚﻨﻜﻤﻳﻭ ﺔﻴﺋﺮﻤﻟﺍ ﺕﺎﻤﺴﻟﺍ ﻦﻣ ﺮﻴﺜﻜﻟﺍ ﻰﻠﻋ ﻱﻮﺘﺤﻳ ﻖﻴﺒﻄﺘﻟ</string>
+    <string name="hint_customizing">؟ﺮﻴﺒﻛ ﻞﻜﺸﺑ ﺔﺌﻴﻬﺘﻠﻟ ﺔﻠﺑﺎﻗ ﻥﺍﻮﻟﻷ﻿ﺍﻭ ﻢﺋﺍﻮﻘﻟﺍﻭ ﻢﺋﺍﻮﻘﻟﺍ - ﺎﺒًﻳﺮﻘﺗ ﻖﻴﺒﻄﺘﻟﺍ ﺐﻧﺍﻮ</string>
+    <string name="hint_setup_keys">يمكنك تكوين أزرار جهاز التحكم عن بعد لأي إجراء مفضل</string>
+    <string name="hint_setup_touch">يمكنك تكوين النقرات المزدوجة والضربات الشديدة في مناطق الشاشة المختلفة لأي إجراء مفضل</string>
+    <string name="delay_before_acting">ﻑﺮﺼﺘﻟﺍ ﻞﺒﻗ ﺮﻴﺧﺄﺘﻟﺍ</string>
     </resources>

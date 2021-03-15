@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">Нажмите ещё раз для выхода</string>
 
     <string name="search_bar">Искать по каналам или передачам</string>
-    <string name="search_bar_clue">попробуйте название фильма, сериала, передачи, имена актеров</string>
 
     <string name="menu_search">Поиск по видео</string>
     <string name="menu_live">Прямой эфир</string>
@@ -14,7 +13,6 @@
 
     <string name="browse_description_series_number">серия</string>
     <string name="browse_description_header_live">Каналы в эфире</string>
-    <string name="browse_description_header_program">Программа канала</string>
 
     <string name="category_movies">Все фильмы</string>
     <string name="category_tv_series">Все сериалы</string>
@@ -408,7 +406,6 @@
     <string name="ch_manage_use_internal">Использовать встроенный плеер</string>
     <string name="cat_manage_start_this_cat_on">Начинать с этой категории</string>
 
-    <string name="cfg_show_ch_desc">Показывать описание передачи</string>
     <string name="studio_mode_open_in">Открыть в режиме студии</string>
     <string name="studio_mode_title">Студийный режим</string>
     <string name="studio_mode_remove">Убрать экран</string>
@@ -429,7 +426,6 @@
     <string name="cfg_prov_remove_sd">Убирать SD каналы</string>
     <string name="cfg_prov_remove_sd_hd">Убирать SD каналы если обнаружено более высокое качество</string>
     <string name="cfg_prov_remove_tz">Убирать каналы из другой временной зоны</string>
-    <string name="cfg_prov_follow_includes">Следовать вложениям в плейлисте</string>
     <string name="cfg_sys_settings">Системные настройки</string>
     <string name="cfg_pla_hud_settings">Интерфейс плеера</string>
     <string name="cfg_tv_guide_transparency">Прозрачность фона</string>
@@ -441,7 +437,6 @@
 
     <string name="pro_studio">Режим студии, позволяющий смотреть множество каналов одновременно</string>
     <string name="cfg_prov_channel_name">Показывать имя провайдера в имени канала при использовании нескольких провайдеров</string>
-    <string name="increase_text_size">увеличить размер текста</string>
     <string name="hint_long_up_down">Долгое нажатие стрелок вверх и вниз позволяет более быструю навигацию в списках</string>
     <string name="pla_act_quick_seek_back_20">перемотать назад на 20 секунд</string>
     <string name="pla_act_quick_seek_fwd_20">перемотать вперёд на 20 секунд</string>
@@ -463,7 +458,6 @@
     <string name="parental_control">родительский контроль</string>
     <string name="show_different_time_frame_guide">Показать более раннюю или позднюю программу</string>
     <string name="seconds">секунды</string>
-    <string name="not_limited">неограничено</string>
     <string name="auto_detected">автоматическое определение</string>
     <string name="remove">убрать</string>
     <string name="video_unsupported">Ни одна из видео дорожек не проигрывается этим устройством</string>
@@ -473,7 +467,6 @@
     <string name="media_tracks_video">Видео</string>
     <string name="media_tracks_audio">Аудио</string>
     <string name="media_tracks_sub">Субтитры</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Автопрокрутка до последнего элемента (в тач режиме)</string>
     <string name="hint_right_archives">Вы можете нажать кнопку ВПРАВО в списке каналов прямого эфира, чтобы открыть список архивов.</string>
     <string name="switch_audio_hw">Использовать аппаратный аудио декодер</string>
     <string name="switch_audio_sw">Использовать программный аудио декодер</string>
@@ -549,7 +542,6 @@
     <string name="reload_data">Перезагрузить данные</string>
     <string name="assume_long_buffering_as_error">Предположим, что длинная буферизация является ошибкой канала</string>
     <string name="show_installation_number">Показать номер установки</string>
-    <string name="sort_archive_by_date">Сортировать заархивированные видео по дате</string>
     <string name="simplified_mode">Упрощенный режим</string>
     <string name="hide_advanced_features">Скрыть расширенные функции</string>
     <string name="select_player_to_use">Выберите плеер для воспроизведения</string>
@@ -655,4 +647,21 @@
     <string name="selection_bitrate">Выбор трека по битрейту</string>
     <string name="selection_bitrate_lowest">Предпочитайте самый низкий битрейт</string>
     <string name="selection_bitrate_highest">Предпочитайте самый высокий битрейт</string>
+    <string name="launcher_mode">Режим запуска (не выходить из приложения)</string>
+    <string name="current_epg_info">Информация о текущей трансляции</string>
+    <string name="change_codec_if_no_playback">Если воспроизведение не начинается, попробуйте другой кодек.</string>
+    <string name="player_menu_and_hud">Меню плеера и подсказка</string>
+    <string name="keep_hud_while_in_menu">Оставлять подсказку при включенном меню</string>
+    <string name="media_tunneling">Туннелирование медиа-треков напрямую на устройство вывода</string>
+    <string name="menu_qs_keep_fav">Сохранять избранные каналы от всех провайдеров</string>
+    <string name="list_view_side_by_side">Бок о бок</string>
+    <string name="list_num_columns">Число столбцов</string>
+    <string name="show_on_main_screen">Включить отображение этого на главном экране</string>
+    <string name="add_temp_stream_link">Добавить временную ссылку на поток в библиотеку</string>
+    <string name="auto_start_this_ch_on_start">Автозапуск воспроизведения этого канала при запуске приложения</string>
+    <string name="hint_themes">Знаете ли вы, что в приложении много визуальных тем, и вы можете выбрать ту, которая вам больше всего подходит?</string>
+    <string name="hint_customizing">Знаете ли вы, что почти каждый аспект приложения - меню, списки, цвета - легко настраивается?</string>
+    <string name="hint_setup_keys">Вы можете настроить кнопки пульта дистанционного управления на любое предпочтительное действие</string>
+    <string name="hint_setup_touch">Вы можете настроить двойное касание и смахивание в разных областях экрана для любого предпочтительного действия</string>
+    <string name="delay_before_acting">Задержка перед действием</string>
     </resources>

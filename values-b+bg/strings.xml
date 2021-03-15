@@ -1,6 +1,5 @@
 <resources><string name="press_back_once_more_to_exit">Натиснете още веднъж, за да излезете</string>
     <string name="search_bar">Търсене по канали или програми</string>
-    <string name="search_bar_clue">опитайте филми, телевизионни серии, име на телевизионно шоу или имена на актьори</string>
     <string name="menu_search">Търсене на видео</string>
     <string name="menu_live">Поток на живо</string>
     <string name="menu_archive">Показва архив</string>
@@ -10,7 +9,6 @@
     <string name="menu_error_require_live_but_no_playlist_text">Конфигурираният доставчик или плейлист не може да бъде достигнат. Моля, проверете отново настройките на доставчика и ако изглеждат добре, свържете се с вашия IPTV доставчик.</string>
     <string name="browse_description_series_number">епизод</string>
     <string name="browse_description_header_live">Канали на живо</string>
-    <string name="browse_description_header_program">График на канала</string>
     <string name="category_movies">Всички филми</string>
     <string name="category_tv_series">Всички телевизионни сериали</string>
     <string name="category_tv_shows">Всички телевизионни предавания</string>
@@ -367,7 +365,6 @@
     <string name="pla_menu_type_grid">решетка</string>
     <string name="ch_manage_use_internal">Използвайте вътрешен плейър</string>
     <string name="cat_manage_start_this_cat_on">Започнете от тази категория</string>
-    <string name="cfg_show_ch_desc">Покажи описание на излъчването</string>
     <string name="studio_mode_open_in">Отваряне в режим на студио</string>
     <string name="studio_mode_title">Студио режим</string>
     <string name="studio_mode_remove">Премахване на екрана</string>
@@ -388,7 +385,6 @@
     <string name="cfg_prov_remove_sd">Премахнете SD каналите</string>
     <string name="cfg_prov_remove_sd_hd">Премахнете SD каналите, ако бъде открито по-високо качество</string>
     <string name="cfg_prov_remove_tz">Премахване на канали от различни часови зони</string>
-    <string name="cfg_prov_follow_includes">Follow включва в плейлист</string>
     <string name="cfg_sys_settings">Системни настройки</string>
     <string name="cfg_pla_hud_settings">Плейър интерфейс</string>
     <string name="cfg_tv_guide_transparency">Фон прозрачност</string>
@@ -399,7 +395,6 @@
     <string name="restore_state">Възстановяване на състоянието</string>
     <string name="pro_studio">Студио режим, позволяващ да гледате няколко потока едновременно</string>
     <string name="cfg_prov_channel_name">Показвайте името на доставчика в името на канала, когато използвате няколко доставчика</string>
-    <string name="increase_text_size">увеличаване на размера на текста</string>
     <string name="hint_long_up_down">Дългото натискане на стрелки нагоре и надолу позволява по-бърза навигация в списъка</string>
     <string name="pla_act_quick_seek_back_20">потърси назад с 20 секунди</string>
     <string name="pla_act_quick_seek_fwd_20">потърси напред с 20 секунди</string>
@@ -421,7 +416,6 @@
     <string name="parental_control">родителски контрол</string>
     <string name="show_different_time_frame_guide">Показвайте по-рано или по-късно разписание</string>
     <string name="seconds">секунди</string>
-    <string name="not_limited">не се ограничава</string>
     <string name="auto_detected">автоматично открит</string>
     <string name="remove">Премахване</string>
     <string name="video_unsupported">Никое от видеозаписите не се възпроизвежда от това устройство</string>
@@ -431,7 +425,6 @@
     <string name="media_tracks_video">Видео</string>
     <string name="media_tracks_audio">звуков</string>
     <string name="media_tracks_sub">Субтитри</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Автоматично превъртане до последния елемент (в режим на докосване)</string>
     <string name="hint_right_archives">Можете да натиснете НАДЯСНО, докато разглеждате каналите на живо, за да отворите списъка с архиви</string>
     <string name="switch_audio_hw">Използвайте хардуерен аудио декодер</string>
     <string name="switch_audio_sw">Използвайте софтуерен аудио декодер</string>
@@ -507,7 +500,6 @@
     <string name="reload_data">Презареждане на данни</string>
     <string name="assume_long_buffering_as_error">Да приемем, че дългото буфериране е грешка в канала</string>
     <string name="show_installation_number">Показване на инсталационния номер</string>
-    <string name="sort_archive_by_date">Сортиране на архивираните видеоклипове по дата</string>
     <string name="simplified_mode">Опростен режим</string>
     <string name="hide_advanced_features">Скриване на разширени функции</string>
     <string name="select_player_to_use">Изберете играч, който да използвате за възпроизвеждане</string>
@@ -613,4 +605,21 @@
     <string name="selection_bitrate">Проследяване на избора по битрейт</string>
     <string name="selection_bitrate_lowest">Предпочитайте най-ниската битрейт</string>
     <string name="selection_bitrate_highest">Предпочитайте най-високата битрейт</string>
+    <string name="launcher_mode">Стартов режим (не излизайте от приложението)</string>
+    <string name="current_epg_info">Информация за текущото излъчване</string>
+    <string name="change_codec_if_no_playback">Ако възпроизвеждането не започне, можете да опитате друг кодек</string>
+    <string name="player_menu_and_hud">Меню на плейъра и хедс-ъп дисплей</string>
+    <string name="keep_hud_while_in_menu">Дръжте хедс-ъп дисплея, докато менюто е включено</string>
+    <string name="media_tunneling">Тунелиране на медийна писта директно към изходното устройство</string>
+    <string name="menu_qs_keep_fav">Запазете любимите канали, показани от всички доставчици</string>
+    <string name="list_view_side_by_side">Един до друг</string>
+    <string name="list_num_columns">Брой колони</string>
+    <string name="show_on_main_screen">Активирайте показването на това на главния екран</string>
+    <string name="add_temp_stream_link">Добавете временна връзка към поток към библиотеката</string>
+    <string name="auto_start_this_ch_on_start">Автоматично стартиране на възпроизвеждането на този канал при стартиране на приложението</string>
+    <string name="hint_themes">Знаете ли, че приложението има много визуални теми и можете да изберете тази, която ви подхожда най-добре?</string>
+    <string name="hint_customizing">Знаете ли, че почти всеки аспект на приложението - менюта, списъци, цветове са силно конфигурируеми?</string>
+    <string name="hint_setup_keys">Можете да конфигурирате бутоните на дистанционното си управление за всяко предпочитано действие</string>
+    <string name="hint_setup_touch">Можете да конфигурирате двойни кранове и плъзгания в различни региони на екрана за всяко предпочитано действие</string>
+    <string name="delay_before_acting">Забавяне преди да действате</string>
     </resources>

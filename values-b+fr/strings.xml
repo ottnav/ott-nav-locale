@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">Appuyez une fois de plus pour quitter</string>
 
     <string name="search_bar">Rechercher par canaux ou programmes</string>
-    <string name="search_bar_clue">Essayer des noms de films, de séries télé, de séries télévisées ou d\'acteurs</string>
 
 
     <string name="menu_search">Rechercher vidéo</string>
@@ -16,7 +15,6 @@
 
     <string name="browse_description_series_number">Episode</string>
     <string name="browse_description_header_live">Chaînes en direct</string>
-    <string name="browse_description_header_program">Programme des chaînes</string>
 
 
     <string name="category_movies">Tous les films</string>
@@ -415,7 +413,6 @@
     <string name="ch_manage_use_internal">Utiliser un lecteur interne</string>
     <string name="cat_manage_start_this_cat_on">Commencer dans cette catégorie</string>
 
-    <string name="cfg_show_ch_desc">Afficher la description de la diffusion</string>
     <string name="studio_mode_open_in">Ouvrir en mode studio</string>
     <string name="studio_mode_title">Mode studio</string>
     <string name="studio_mode_remove">Supprimer l\'écran</string>
@@ -436,7 +433,6 @@
     <string name="cfg_prov_remove_sd">Supprimer les canaux SD</string>
     <string name="cfg_prov_remove_sd_hd">Supprimer les canaux SD si une qualité supérieure est détectée</string>
     <string name="cfg_prov_remove_tz">Supprimer des canaux d\'un fuseau horaire différent</string>
-    <string name="cfg_prov_follow_includes">Suivre ce qui est inclut dans une playlist</string>
     <string name="cfg_sys_settings">Paramètres du système</string>
     <string name="cfg_pla_hud_settings">Interface du lecteur</string>
     <string name="cfg_tv_guide_transparency">Transparence de fond</string>
@@ -447,7 +443,6 @@
     <string name="restore_state">Restaurer l\'état</string>
     <string name="pro_studio">Mode Studio, permettant de regarder plusieurs flux simultanément</string>
     <string name="cfg_prov_channel_name">Afficher le nom du fournisseur dans le nom du canal lors de l’utilisation de plusieurs fournisseurs</string>
-    <string name="increase_text_size">Augmenter la taille du texte</string>
     <string name="hint_long_up_down">Un appui long sur les flèches haut et bas permet une navigation plus rapide dans la liste</string>
     <string name="pla_act_quick_seek_back_20">Rechercher en arrière de 20 secondes</string>
     <string name="pla_act_quick_seek_fwd_20">Rechercher en avant de 20 secondes</string>
@@ -469,7 +464,6 @@
     <string name="parental_control">Contrôle parental</string>
     <string name="show_different_time_frame_guide">Afficher l\'horaire plus tôt ou plus tard</string>
     <string name="seconds">Secondes</string>
-    <string name="not_limited">Non limité</string>
     <string name="auto_detected">Détecté automatiquement</string>
     <string name="remove">Retirer</string>
     <string name="video_unsupported">Aucune des pistes vidéo ne peut être lue par cet appareil.</string>
@@ -479,7 +473,6 @@
     <string name="media_tracks_video">Vidéo</string>
     <string name="media_tracks_audio">Audio</string>
     <string name="media_tracks_sub">Sous-titres</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Défilement automatique jusqu\'au dernier élément (en mode tactile)</string>
     <string name="hint_right_archives">Vous pouvez appuyer sur le bouton DROIT lorsque vous naviguez sur les chaînes en direct pour ouvrir la liste des archives.</string>
     <string name="switch_audio_hw">Utiliser un décodeur audio matériel</string>
     <string name="switch_audio_sw">Utiliser un décodeur audio logiciel</string>
@@ -555,7 +548,6 @@
     <string name="reload_data">Recharger les données</string>
     <string name="assume_long_buffering_as_error">Supposons que la mise en mémoire tampon longue soit une erreur de canal de</string>
 <string name="show_installation_number">Afficher le numéro d\'installation</string>
-    <string name="sort_archive_by_date">Trier les vidéos archivées par date</string>
     <string name="simplified_mode">Mode simplifié</string>
     <string name="hide_advanced_features">Masquer les fonctionnalités avancées</string>
     <string name="select_player_to_use">Sélectionnez le lecteur à utiliser pour la lecture</string>
@@ -661,4 +653,21 @@
     <string name="selection_bitrate">Sélection de piste par débit</string>
     <string name="selection_bitrate_lowest">Préférez le débit binaire le plus bas</string>
     <string name="selection_bitrate_highest">Préférez le débit binaire le plus élevé</string>
+    <string name="launcher_mode">Mode lanceur (ne pas quitter l\'application)</string>
+    <string name="current_epg_info">Informations sur la diffusion actuelle</string>
+    <string name="change_codec_if_no_playback">Si la lecture ne démarre pas, vous pouvez essayer un autre codec</string>
+    <string name="player_menu_and_hud">Menu du lecteur et affichage tête haute</string>
+    <string name="keep_hud_while_in_menu">Gardez l\'affichage tête haute lorsque le menu est activé</string>
+    <string name="media_tunneling">Tunnel de piste multimédia directement vers le périphérique de sortie</string>
+    <string name="menu_qs_keep_fav">Gardez les chaînes préférées de tous les fournisseurs</string>
+    <string name="list_view_side_by_side">Cote à cote</string>
+    <string name="list_num_columns">Le nombre de colonnes</string>
+    <string name="show_on_main_screen">Activer l\'affichage de cela sur l\'écran principal</string>
+    <string name="add_temp_stream_link">Ajouter un lien temporaire vers un flux dans la bibliothèque</string>
+    <string name="auto_start_this_ch_on_start">Démarrage automatique de la lecture de cette chaîne au démarrage de l\'application</string>
+    <string name="hint_themes">Saviez-vous que l\'application propose de nombreux thèmes visuels et que vous pouvez choisir celui qui vous convient le mieux?</string>
+    <string name="hint_customizing">Saviez-vous que presque tous les aspects de l\'application - menus, listes, couleurs sont hautement configurables?</string>
+    <string name="hint_setup_keys">Vous pouvez configurer les boutons de votre télécommande pour n\'importe quelle action préférable</string>
+    <string name="hint_setup_touch">Vous pouvez configurer des doubles taps et des balayages dans différentes régions d\'écran pour n\'importe quelle action préférable</string>
+    <string name="delay_before_acting">Retarder avant d\'agir</string>
     </resources>

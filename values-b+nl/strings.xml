@@ -1,7 +1,6 @@
 <resources>
     <string name="press_back_once_more_to_exit">Druk nogmaals om af te sluiten</string>
     <string name="search_bar">Zoeken in kanalen of programma\'s</string>
-    <string name="search_bar_clue">Probeer namen van films, tv-series, tv-shows of acteurs</string>
     <string name="menu_search">Video zoeken</string>
     <string name="menu_live">Livestream</string>
     <string name="menu_archive">Toon archief</string>
@@ -11,7 +10,6 @@
     <string name="menu_error_require_live_but_no_playlist_text">De geconfigureerde provider of afspeellijst kan niet worden bereikt. Controleer de instellingen van de provider opnieuw en neem contact op met uw IPTV-provider als deze OK lijken.</string>
     <string name="browse_description_series_number">Aflevering</string>
     <string name="browse_description_header_live">Live kanalen</string>
-    <string name="browse_description_header_program">Kanaal rooster</string>
     <string name="category_movies">Alle films</string>
     <string name="category_tv_series">Alle tv-series</string>
     <string name="category_tv_shows">Alle tv-programma\'s</string>
@@ -368,7 +366,6 @@
     <string name="pla_menu_type_grid">rooster</string>
     <string name="ch_manage_use_internal">Gebruik interne speler</string>
     <string name="cat_manage_start_this_cat_on">Begin met deze categorie</string>
-    <string name="cfg_show_ch_desc">Toon uitzendbeschrijving</string>
     <string name="studio_mode_open_in">Open in de studiomodus</string>
     <string name="studio_mode_title">Studio-modus</string>
     <string name="studio_mode_remove">Verwijder scherm</string>
@@ -389,7 +386,6 @@
     <string name="cfg_prov_remove_sd">Verwijder SD-kanalen</string>
     <string name="cfg_prov_remove_sd_hd">Verwijder SD-kanalen als hogere kwaliteit wordt gedetecteerd</string>
     <string name="cfg_prov_remove_tz">Verwijder kanalen uit verschillende tijdzones</string>
-    <string name="cfg_prov_follow_includes">Volg de opnames in een afspeellijst</string>
     <string name="cfg_sys_settings">Systeem instellingen</string>
     <string name="cfg_pla_hud_settings">Speler interface</string>
     <string name="cfg_tv_guide_transparency">Achtergrond transparantie</string>
@@ -400,7 +396,6 @@
     <string name="restore_state">Status herstellen</string>
     <string name="pro_studio">Studiomodus, waardoor meerdere streams tegelijkertijd bekeken kunnen worden</string>
     <string name="cfg_prov_channel_name">Naam provider weergeven bij kanaalnaam bij gebruikmaking van meerdere providers</string>
-    <string name="increase_text_size">tekst vergroten</string>
     <string name="hint_long_up_down">Lang indrukken van de pijltjestoetsen omhoog en omlaag maakt sneller scrollen in de lijst mogelijk</string>
     <string name="pla_act_quick_seek_back_20">20 seconden achteruit zoeken</string>
     <string name="pla_act_quick_seek_fwd_20">20 seconden vooruit zoeken</string>
@@ -422,7 +417,6 @@
     <string name="parental_control">ouderlijk toezicht</string>
     <string name="show_different_time_frame_guide">Toon eerder of later tijdschema</string>
     <string name="seconds">seconden</string>
-    <string name="not_limited">niet gelimiteerd</string>
     <string name="auto_detected">automatisch gedetecteerd</string>
     <string name="remove">verwijderen</string>
     <string name="video_unsupported">Geen van de videotracks kan door dit apparaat worden afgespeeld</string>
@@ -432,7 +426,6 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Audio</string>
     <string name="media_tracks_sub">Ondertitels</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Automatisch naar het laatste item bladeren (in aanraakmodus)</string>
     <string name="hint_right_archives">U kunt op de RECHTER knop drukken terwijl u door live kanalen scrolt om de lijst met archieven te openen</string>
     <string name="switch_audio_hw">Gebruik hardware audio-decoder</string>
     <string name="switch_audio_sw">Gebruik software audio-decoder</string>
@@ -508,7 +501,6 @@
     <string name="reload_data">Gegevens opnieuw laden</string>
     <string name="assume_long_buffering_as_error">Stel dat lang bufferen een kanaalfout is</string>
     <string name="show_installation_number">Toon installatienummer</string>
-    <string name="sort_archive_by_date">Gearchiveerde video\'s sorteren op datum</string>
     <string name="simplified_mode">Vereenvoudigde modus</string>
     <string name="hide_advanced_features">Verberg geavanceerde functies</string>
     <string name="select_player_to_use">Selecteer speler om te gebruiken voor het afspelen</string>
@@ -614,4 +606,21 @@
     <string name="selection_bitrate">Track selectie op bitrate</string>
     <string name="selection_bitrate_lowest">Geef de voorkeur aan de laagste bitsnelheid</string>
     <string name="selection_bitrate_highest">Geef de voorkeur aan de hoogste bitsnelheid</string>
+    <string name="launcher_mode">Launcher-modus (app niet afsluiten)</string>
+    <string name="current_epg_info">Informatie over huidige uitzending</string>
+    <string name="change_codec_if_no_playback">Als het afspelen niet start, kunt u een andere codec proberen</string>
+    <string name="player_menu_and_hud">Spelermenu en heads-up-display</string>
+    <string name="keep_hud_while_in_menu">Houd heads-up-display terwijl het menu is ingeschakeld</string>
+    <string name="media_tunneling">Mediatrack tunneling rechtstreeks naar het uitvoerapparaat</string>
+    <string name="menu_qs_keep_fav">Houd favoriete kanalen van alle providers weergegeven</string>
+    <string name="list_view_side_by_side">Zij aan zij</string>
+    <string name="list_num_columns">Aantal columns</string>
+    <string name="show_on_main_screen">Schakel dit op het hoofdscherm in</string>
+    <string name="add_temp_stream_link">Voeg een tijdelijke link naar een stream toe aan de bibliotheek</string>
+    <string name="auto_start_this_ch_on_start">Start het afspelen van dit kanaal automatisch bij het starten van de app</string>
+    <string name="hint_themes">Wist je dat de app veel visuele thema\'s heeft en dat je degene kunt kiezen die het beste bij je past?</string>
+    <string name="hint_customizing">Wist je dat bijna elk aspect van de app - menu\'s, lijsten, kleuren in hoge mate configureerbaar zijn?</string>
+    <string name="hint_setup_keys">U kunt de knoppen van uw afstandsbediening configureren voor elke gewenste actie</string>
+    <string name="hint_setup_touch">U kunt dubbele tikken en vegen in verschillende schermgebieden configureren voor elke gewenste actie</string>
+    <string name="delay_before_acting">Vertraging voordat u handelt</string>
     </resources>

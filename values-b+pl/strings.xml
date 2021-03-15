@@ -1,7 +1,6 @@
 <resources>
     <string name="press_back_once_more_to_exit">Naciśnij ponownie, aby wyjść</string>
     <string name="search_bar">Wyszukaj według kanałów lub programów</string>
-    <string name="search_bar_clue">Spróbuj wpisać nazwę filmu, seriau, programu telewizyjnego lub imiona aktorów</string>
     <string name="menu_search">Wyszukiwarka video</string>
     <string name="menu_live">Telewizja</string>
     <string name="menu_archive">Archiwum</string>
@@ -11,7 +10,6 @@
     <string name="menu_error_require_live_but_no_playlist_text">Nie można osiągnąć skonfigurowanego dostawcy lub listy odtwarzania. Ponownie sprawdź ustawienia dostawcy i jeśli wydają się one prawidłowe, skontaktuj się z dostawcą IPTV.</string>
     <string name="browse_description_series_number">epizod</string>
     <string name="browse_description_header_live">Kanały na żywo</string>
-    <string name="browse_description_header_program">Rozkład kanału</string>
     <string name="category_movies">Wszystkie filmy</string>
     <string name="category_tv_series">Wszystkie seriale telewizyjne</string>
     <string name="category_tv_shows">Wszystkie programy telewizyjne</string>
@@ -368,7 +366,6 @@
     <string name="pla_menu_type_grid">krata</string>
     <string name="ch_manage_use_internal">Użyj wewnętrznego odtwarzacza</string>
     <string name="cat_manage_start_this_cat_on">Zacznij od tej kategorii</string>
-    <string name="cfg_show_ch_desc">Pokaż opis transmisji</string>
     <string name="studio_mode_open_in">Otwórz w trybie Studio</string>
     <string name="studio_mode_title">Tryb studyjny</string>
     <string name="studio_mode_remove">Usuń ekran</string>
@@ -389,7 +386,6 @@
     <string name="cfg_prov_remove_sd">Usuń kanały SD</string>
     <string name="cfg_prov_remove_sd_hd">Usuń kanały SD, jeśli wykryta zostanie wyższa jakość</string>
     <string name="cfg_prov_remove_tz">Usuń kanały z innej strefy czasowej</string>
-    <string name="cfg_prov_follow_includes">Follow zawiera na liście odtwarzania</string>
     <string name="cfg_sys_settings">Ustawienia systemowe</string>
     <string name="cfg_pla_hud_settings">Interfejs odtwarzacza</string>
     <string name="cfg_tv_guide_transparency">Przezroczystość tła</string>
@@ -400,7 +396,6 @@
     <string name="restore_state">Przywróć stan</string>
     <string name="pro_studio">Tryb Studio, pozwalający oglądać wiele strumieni jednocześnie</string>
     <string name="cfg_prov_channel_name">Pokaż nazwę dostawcy w nazwie kanału, gdy korzystasz z wielu dostawców</string>
-    <string name="increase_text_size">zwiększyć rozmiar tekstu</string>
     <string name="hint_long_up_down">Długie naciśnięcie strzałek w górę i w dół umożliwia szybszą nawigację po liście</string>
     <string name="pla_act_quick_seek_back_20">szukaj wstecz o 20 sekund</string>
     <string name="pla_act_quick_seek_fwd_20">szukaj do przodu o 20 sekund</string>
@@ -422,7 +417,6 @@
     <string name="parental_control">kontrola rodzicielska</string>
     <string name="show_different_time_frame_guide">Pokaż wcześniejszy lub późniejszy harmonogram</string>
     <string name="seconds">sekundy</string>
-    <string name="not_limited">bez limitu</string>
     <string name="auto_detected">wykryto automatycznie</string>
     <string name="remove">usunąć</string>
     <string name="video_unsupported">Żadne ścieżki wideo nie są odtwarzane przez to urządzenie</string>
@@ -432,7 +426,6 @@
     <string name="media_tracks_video">Wideo</string>
     <string name="media_tracks_audio">Audio</string>
     <string name="media_tracks_sub">Napisy na filmie obcojęzycznym</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Automatyczne przewijanie do ostatniego elementu (w trybie dotykowym)</string>
     <string name="hint_right_archives">Możesz nacisnąć PRAWY przycisk podczas przeglądania kanałów na żywo, aby otworzyć listę archiwów</string>
     <string name="switch_audio_hw">Użyj sprzętowego dekodera audio</string>
     <string name="switch_audio_sw">Użyj programowego dekodera audio</string>
@@ -508,7 +501,6 @@
     <string name="reload_data">Załaduj ponownie dane</string>
     <string name="assume_long_buffering_as_error">Załóżmy, że długie buforowanie jest błędem kanału</string>
     <string name="show_installation_number">Pokaż numer instalacji</string>
-    <string name="sort_archive_by_date">Sortuj zarchiwizowane filmy według daty</string>
     <string name="simplified_mode">Tryb uproszczony</string>
     <string name="hide_advanced_features">Ukrywa zaawansowane funkcje</string>
     <string name="select_player_to_use">Wybierz odtwarzacz, którego chcesz użyć do odtwarzania</string>
@@ -614,4 +606,21 @@
     <string name="selection_bitrate">Wybór ścieżki według szybkości transmisji</string>
     <string name="selection_bitrate_lowest">Preferuj najniższą szybkość transmisji</string>
     <string name="selection_bitrate_highest">Preferuj najwyższą szybkość transmisji</string>
+    <string name="launcher_mode">Tryb uruchamiania (nie zamykaj aplikacji)</string>
+    <string name="current_epg_info">Informacje o aktualnej audycji</string>
+    <string name="change_codec_if_no_playback">Jeśli odtwarzanie się nie rozpocznie, możesz wypróbować inny kodek</string>
+    <string name="player_menu_and_hud">Menu gracza i wyświetlacz heads-up</string>
+    <string name="keep_hud_while_in_menu">Utrzymuj wyświetlacz Head-up, gdy menu jest włączone</string>
+    <string name="media_tunneling">Tunelowanie ścieżki multimedialnej bezpośrednio do urządzenia wyjściowego</string>
+    <string name="menu_qs_keep_fav">Pokazuj ulubione kanały wszystkich dostawców</string>
+    <string name="list_view_side_by_side">Obok siebie</string>
+    <string name="list_num_columns">Liczba kolumn</string>
+    <string name="show_on_main_screen">Włącz pokazywanie tego na ekranie głównym</string>
+    <string name="add_temp_stream_link">Dodaj tymczasowe łącze do strumienia do biblioteki</string>
+    <string name="auto_start_this_ch_on_start">Automatyczne uruchamianie odtwarzania tego kanału po uruchomieniu aplikacji</string>
+    <string name="hint_themes">Czy wiesz, że aplikacja ma wiele motywów wizualnych i możesz wybrać ten, który najbardziej Ci odpowiada?</string>
+    <string name="hint_customizing">Czy wiesz, że prawie każdy aspekt aplikacji - menu, listy, kolory są wysoce konfigurowalne?</string>
+    <string name="hint_setup_keys">Możesz skonfigurować przyciski pilota do dowolnego preferowanego działania</string>
+    <string name="hint_setup_touch">Możesz skonfigurować podwójne dotknięcia i przesunięcia w różnych obszarach ekranu do dowolnej preferowanej akcji</string>
+    <string name="delay_before_acting">Opóźnienie przed działaniem</string>
     </resources>

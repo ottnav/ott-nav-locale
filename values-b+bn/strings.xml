@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">প্রস্থান করার জন্য আরো একবার চাপুন</string>
 
     <string name="search_bar">চ্যানেল বা প্রোগ্রাম দ্বারা অনুসন্ধান করুন</string>
-    <string name="search_bar_clue">সিনেমা, টিভি সিরিজ, টিভি শো নাম, বা অভিনেতা নাম চেষ্টা করুন</string>
 
 
     <string name="menu_search">ভিডিও অনুসন্ধান</string>
@@ -16,7 +15,6 @@
 
     <string name="browse_description_series_number">উপাখ্যান</string>
     <string name="browse_description_header_live">লাইভ চ্যানেল</string>
-    <string name="browse_description_header_program">চ্যানেল সময়সূচি</string>
 
 
     <string name="category_movies">সব সিনেমা</string>
@@ -417,7 +415,6 @@
     <string name="ch_manage_use_internal">অভ্যন্তরীণ প্লেয়ার ব্যবহার করুন</string>
     <string name="cat_manage_start_this_cat_on">এই বিভাগ থেকে শুরু করুন</string>
 
-    <string name="cfg_show_ch_desc">সম্প্রচারের বর্ণনা দেখান</string>
     <string name="studio_mode_open_in">স্টুডিও মোডে খুলুন</string>
     <string name="studio_mode_title">স্টুডিও মোড</string>
     <string name="studio_mode_remove">পর্দা সরান</string>
@@ -438,7 +435,6 @@
     <string name="cfg_prov_remove_sd">এসডি চ্যানেলগুলি সরান</string>
     <string name="cfg_prov_remove_sd_hd">উচ্চতর মানের সনাক্ত করা থাকলে এসডি চ্যানেলগুলি সরান</string>
     <string name="cfg_prov_remove_tz">বিভিন্ন সময় অঞ্চল থেকে চ্যানেলগুলি সরান</string>
-    <string name="cfg_prov_follow_includes">একটি প্লেলিস্ট অন্তর্ভুক্ত অনুসরণ করুন</string>
     <string name="cfg_sys_settings">পদ্ধতি নির্ধারণ</string>
     <string name="cfg_pla_hud_settings">প্লেয়ার ইন্টারফেস</string>
     <string name="cfg_tv_guide_transparency">পটভূমি স্বচ্ছতা</string>
@@ -449,7 +445,6 @@
     <string name="restore_state">রাষ্ট্র পুনরুদ্ধার করুন</string>
 <string name="pro_studio">স্টুডিও মোড, একই সাথে একাধিক স্ট্রিম দেখার অনুমতি দেয়</string>
     <string name="cfg_prov_channel_name">একাধিক সরবরাহকারী ব্যবহার করার সময় চ্যানেলের নামে সরবরাহকারীর নাম দেখান</string>
-    <string name="increase_text_size">পাঠ্যের আকার বৃদ্ধি করুন</string>
     <string name="hint_long_up_down">দীর্ঘ এবং উপরের তীরগুলি টিপুন দ্রুত তালিকার জন্য নেভিগেশনের অনুমতি দেয়</string>
     <string name="pla_act_quick_seek_back_20">20 সেকেন্ড পরে পিছনে সন্ধান করুন</string>
     <string name="pla_act_quick_seek_fwd_20">20 সেকেন্ড পরে এগিয়ে যান</string>
@@ -471,7 +466,6 @@
     <string name="parental_control">পিতামাতার নিয়ন্ত্রণ</string>
     <string name="show_different_time_frame_guide">আগের বা পরে সময়সূচি প্রদর্শন করুন</string>
     <string name="seconds">সেকেন্ড</string>
-    <string name="not_limited">সীমানা নেই</string>
     <string name="auto_detected">স্বয়ংক্রিয় সনাক্ত</string>
     <string name="remove">অপসারণ</string>
     <string name="video_unsupported">ভিডিও ট্র্যাকগুলির মধ্যে কোনওটিই এই ডিভাইসটি প্লে করতে পারবেন না</string>
@@ -481,7 +475,6 @@
     <string name="media_tracks_video">ভিডিও</string>
     <string name="media_tracks_audio">অডিও</string>
     <string name="media_tracks_sub">সাবটাইটেল</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">শেষ আইটেমটিতে অটো স্ক্রোল করুন (টাচ মোডে)</string>
     <string name="hint_right_archives">সংরক্ষণাগার তালিকা খুলতে সরাসরি চ্যানেলগুলি ব্রাউজ করার সময় আপনি ডান বোতামটি টিপতে পারেন</string>
     <string name="switch_audio_hw">হার্ডওয়্যার অডিও ডিকোডার ব্যবহার করুন</string>
     <string name="switch_audio_sw">সফ্টওয়্যার অডিও ডিকোডার ব্যবহার করুন</string>
@@ -557,7 +550,6 @@
     <string name="reload_data">ডেটা পুনরায় লোড করুন</string>
     <string name="assume_long_buffering_as_error">দীর্ঘ বাফারিং চ্যানেল ত্রুটি হিসাবে ধরে নেওয়া উচিত</string>
     <string name="show_installation_number">ইনস্টলেশন নম্বরটি দেখান</string>
-    <string name="sort_archive_by_date">আর্কাইভ করা ভিডিওগুলি তারিখ অনুসারে বাছাই করুন</string>
     <string name="simplified_mode">সরলীকৃত মোড</string>
     <string name="hide_advanced_features">উন্নত বৈশিষ্ট্যগুলি লুকান</string>
     <string name="select_player_to_use">প্লেব্যাকের জন্য ব্যবহার করতে প্লেয়ার নির্বাচন করুন</string>
@@ -663,4 +655,21 @@
     <string name="selection_bitrate">বিটরেট দ্বারা নির্বাচন ট্র্যাক</string>
     <string name="selection_bitrate_lowest">সর্বনিম্ন বিটরেট পছন্দ করুন</string>
     <string name="selection_bitrate_highest">সর্বোচ্চ বিটরেট পছন্দ করুন</string>
+    <string name="launcher_mode">লঞ্চার মোড (অ্যাপ্লিকেশন থেকে প্রস্থান করবেন না)</string>
+    <string name="current_epg_info">বর্তমান সম্প্রচার সম্পর্কে তথ্য</string>
+    <string name="change_codec_if_no_playback">প্লেব্যাক শুরু না হলে আপনি একটি ভিন্ন কোডেক চেষ্টা করতে পারেন</string>
+    <string name="player_menu_and_hud">প্লেয়ার মেনু এবং হেড-আপ-ডিসপ্লে</string>
+    <string name="keep_hud_while_in_menu">মেনু চালু থাকাকালীন হেড-আপ-ডিসপ্লে রাখুন</string>
+    <string name="media_tunneling">আউটপুট ডিভাইসে সরাসরি মিডিয়া ট্র্যাক টানেলিং</string>
+    <string name="menu_qs_keep_fav">সমস্ত সরবরাহকারী থেকে দেখানো প্রিয় চ্যানেল রাখুন</string>
+    <string name="list_view_side_by_side">পাশাপাশি</string>
+    <string name="list_num_columns">কলামের সংখ্যা</string>
+    <string name="show_on_main_screen">এটি প্রধান স্ক্রিনে দেখানো সক্ষম করুন</string>
+    <string name="add_temp_stream_link">লাইব্রেরিতে একটি স্ট্রিমের অস্থায়ী লিঙ্ক যুক্ত করুন</string>
+    <string name="auto_start_this_ch_on_start">অ্যাপ্লিকেশন শুরুতে এই চ্যানেলের অটো-স্টার্ট প্লেব্যাক</string>
+    <string name="hint_themes">আপনি কি জানতেন যে অ্যাপটিতে প্রচুর ভিজ্যুয়াল থিম রয়েছে এবং আপনি যেটি আপনার পক্ষে সবচেয়ে উপযুক্ত তা চয়ন করতে পারেন?</string>
+    <string name="hint_customizing">আপনি কি জানেন যে অ্যাপ্লিকেশনটির প্রায় প্রতিটি দিক - মেনু, তালিকা, রঙগুলি অত্যন্ত কনফিগারযোগ্য?</string>
+    <string name="hint_setup_keys">আপনি যেকোন পছন্দসই কর্মে আপনার রিমোট কন্ট্রোলার বোতামগুলি কনফিগার করতে পারেন</string>
+    <string name="hint_setup_touch">আপনি কোনও পছন্দনীয় ক্রিয়ায় বিভিন্ন স্ক্রিন অঞ্চলে ডাবল টেপ এবং সোয়াইপগুলি কনফিগার করতে পারেন</string>
+    <string name="delay_before_acting">অভিনয়ের আগে বিলম্ব</string>
     </resources>

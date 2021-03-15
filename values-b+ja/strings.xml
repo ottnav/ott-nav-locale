@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">もう一度押すと終了します</string>
 
     <string name="search_bar">チャネルまたはプログラムで検索</string>
-    <string name="search_bar_clue">試写映画、テレビシリーズ、テレビ番組名、または俳優名</string>
 
 
     <string name="menu_search">ビデオ検索</string>
@@ -16,7 +15,6 @@
 
     <string name="browse_description_series_number">エピソード</string>
     <string name="browse_description_header_live">ライブチャンネル</string>
-    <string name="browse_description_header_program">チャンネル時刻表</string>
 
 
     <string name="category_movies">すべての映画</string>
@@ -416,7 +414,6 @@
     <string name="ch_manage_use_internal">内部プレーヤーを使用</string>
     <string name="cat_manage_start_this_cat_on">このカテゴリから始める</string>
 
-    <string name="cfg_show_ch_desc">ブロードキャストの説明を表示</string>
     <string name="studio_mode_open_in">スタジオモードで開く</string>
     <string name="studio_mode_title">スタジオモード</string>
     <string name="studio_mode_remove">画面を削除</string>
@@ -437,7 +434,6 @@
     <string name="cfg_prov_remove_sd">SDチャンネルを削除する</string>
     <string name="cfg_prov_remove_sd_hd">高品質が検出された場合、SDチャネルを削除します</string>
     <string name="cfg_prov_remove_tz">別のタイムゾーンからチャンネルを削除する</string>
-    <string name="cfg_prov_follow_includes">プレイリストのインクルードをフォロー</string>
     <string name="cfg_sys_settings">システム設定</string>
     <string name="cfg_pla_hud_settings">プレイヤーインターフェース</string>
     <string name="cfg_tv_guide_transparency">背景の透明度</string>
@@ -448,7 +444,6 @@
     <string name="restore_state">状態を復元する</string>
 <string name="pro_studio">スタジオモード、複数のストリームを同時に視聴可能</string>
     <string name="cfg_prov_channel_name">複数のプロバイダーを使用する場合、チャンネル名にプロバイダー名を表示</string>
-    <string name="increase_text_size">テキストサイズを大きくする</string>
     <string name="hint_long_up_down">上矢印と下矢印を長押しすると、リストのナビゲーションが速くなります</string>
     <string name="pla_act_quick_seek_back_20">20秒後方にシークする</string>
     <string name="pla_act_quick_seek_fwd_20">20秒前にシークする</string>
@@ -470,7 +465,6 @@
     <string name="parental_control">ペアレンタルコントロール</string>
     <string name="show_different_time_frame_guide">前または後の時刻表を表示</string>
     <string name="seconds">秒</string>
-    <string name="not_limited">無制限</string>
     <string name="auto_detected">自動検出</string>
     <string name="remove">取り除く</string>
     <string name="video_unsupported">このデバイスで再生できるビデオトラックはありません</string>
@@ -480,7 +474,6 @@
     <string name="media_tracks_video">ビデオ</string>
     <string name="media_tracks_audio">オーディオ</string>
     <string name="media_tracks_sub">字幕</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">最後のアイテムへの自動スクロール（タッチモード）</string>
     <string name="hint_right_archives">ライブチャンネルを閲覧中に右ボタンを押してアーカイブリストを開くことができます</string>
     <string name="switch_audio_hw">ハードウェアオーディオデコーダーを使用する</string>
     <string name="switch_audio_sw">ソフトウェアオーディオデコーダーを使用する</string>
@@ -556,7 +549,6 @@
     <string name="reload_data">データをリロードする</string>
     <string name="assume_long_buffering_as_error">長いバッファリングがチャネルエラーであると想定する</string>
     <string name="show_installation_number">インストール番号を表示</string>
-    <string name="sort_archive_by_date">アーカイブされた動画を日付で並べ替える</string>
     <string name="simplified_mode">簡易モード</string>
     <string name="hide_advanced_features">高度な機能を隠す</string>
     <string name="select_player_to_use">再生に使用するプレーヤーを選択します</string>
@@ -662,4 +654,21 @@
     <string name="selection_bitrate">ビットレートによるトラック選択</string>
     <string name="selection_bitrate_lowest">最も低いビットレートを優先する</string>
     <string name="selection_bitrate_highest">最高のビットレートを優先する</string>
+    <string name="launcher_mode">ランチャーモード（アプリを終了しないでください）</string>
+    <string name="current_epg_info">現在の放送に関する情報</string>
+    <string name="change_codec_if_no_playback">再生が開始されない場合は、別のコーデックを試すことができます</string>
+    <string name="player_menu_and_hud">プレーヤーメニューとヘッドアップディスプレイ</string>
+    <string name="keep_hud_while_in_menu">メニューがオンの間、ヘッドアップディスプレイを維持します</string>
+    <string name="media_tunneling">メディアトラックトンネリングを出力デバイスに直接</string>
+    <string name="menu_qs_keep_fav">すべてのプロバイダーからのお気に入りのチャンネルを表示し続ける</string>
+    <string name="list_view_side_by_side">並んで</string>
+    <string name="list_num_columns">列の数</string>
+    <string name="show_on_main_screen">これをメイン画面に表示できるようにする</string>
+    <string name="add_temp_stream_link">ストリームへの一時リンクをライブラリに追加します</string>
+    <string name="auto_start_this_ch_on_start">アプリの起動時にこのチャンネルの再生を自動開始します</string>
+    <string name="hint_themes">アプリにはたくさんの視覚的なテーマがあり、自分に最も適したものを選択できることをご存知ですか？</string>
+    <string name="hint_customizing">メニュー、リスト、色など、アプリのほぼすべての側面が高度に構成可能であることをご存知ですか？</string>
+    <string name="hint_setup_keys">リモコンのボタンを任意のアクションに設定できます</string>
+    <string name="hint_setup_touch">さまざまな画面領域でダブルタップとスワイプを設定して、任意のアクションを実行できます</string>
+    <string name="delay_before_acting">行動する前に遅らせる</string>
     </resources>

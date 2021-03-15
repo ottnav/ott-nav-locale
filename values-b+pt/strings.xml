@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">Pressione novamente para sair</string>
 
     <string name="search_bar">Pesquise por canais ou programas</string>
-    <string name="search_bar_clue">Busque por nomes de filmes, séries de TV, nomes de programas de TV ou nomes de atores</string>
 
 
     <string name="menu_search">Pesquisa de vídeos</string>
@@ -16,7 +15,6 @@
 
     <string name="browse_description_series_number">Episódios</string>
     <string name="browse_description_header_live">Canais ao vivo</string>
-    <string name="browse_description_header_program">Grade horária do canal</string>
 
 
     <string name="category_movies">Todos os filmes</string>
@@ -415,7 +413,6 @@
     <string name="ch_manage_use_internal">utilizar player interno</string>
     <string name="cat_manage_start_this_cat_on">Comece nesta categoria</string>
 
-    <string name="cfg_show_ch_desc">Exibir descrição da transmissão</string>
     <string name="studio_mode_open_in">Abrir no modo estúdio</string>
     <string name="studio_mode_title">Modo estúdio</string>
     <string name="studio_mode_remove">Remover tela</string>
@@ -436,7 +433,6 @@
     <string name="cfg_prov_remove_sd">Remover canais SD</string>
     <string name="cfg_prov_remove_sd_hd">Remover canais SD se for detectada qualidade superior</string>
     <string name="cfg_prov_remove_tz">Remover canais de fusos horários diferentes</string>
-    <string name="cfg_prov_follow_includes">Acompanhar inclusões na lista de reprodução</string>
     <string name="cfg_sys_settings">Configurações de sistema</string>
     <string name="cfg_pla_hud_settings">Interface do player</string>
     <string name="cfg_tv_guide_transparency">Transparência de fundo</string>
@@ -447,7 +443,6 @@
     <string name="restore_state">Restaurar posição</string>
     <string name="pro_studio">Modo estúdio, permitindo assistir várias transmissões ao mesmo tempo</string>
     <string name="cfg_prov_channel_name">Exibir o nome do provedor no nome do canal ao utilizar vários provedores</string>
-    <string name="increase_text_size">aumentar o tamanho do texto</string>
     <string name="hint_long_up_down">Pressionar continuamente as setas para cima e para baixo permitem navegação mais rápida nas listas</string>
     <string name="pla_act_quick_seek_back_20">retroceder 20 segundos</string>
     <string name="pla_act_quick_seek_fwd_20">avançar 20 segundos</string>
@@ -469,7 +464,6 @@
     <string name="parental_control">controle dos pais</string>
     <string name="show_different_time_frame_guide">Exibir grade horária anterior ou posterior</string>
     <string name="seconds">segundos</string>
-    <string name="not_limited">ilimitado</string>
     <string name="auto_detected">detectado automaticamente</string>
     <string name="remove">remover</string>
     <string name="video_unsupported">Nenhuma das faixas de vídeo pode ser reproduzida por este dispositivo</string>
@@ -479,7 +473,6 @@
     <string name="media_tracks_video">Vídeo</string>
     <string name="media_tracks_audio">Áudio</string>
     <string name="media_tracks_sub">Legendas</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Rolagem automática para o último item (no modo toque)</string>
     <string name="hint_right_archives">Você pode pressionar o botão DIREITO enquanto navega nos canais ao vivo para abrir a lista de arquivos</string>
     <string name="switch_audio_hw">Utilizar decodificador de áudio de hardware</string>
     <string name="switch_audio_sw">Utilizar decodificador de áudio de software</string>
@@ -555,7 +548,6 @@
     <string name="reload_data">Recarregar dados</string>
     <string name="assume_long_buffering_as_error">Considerar buffer elevado como erro no canal</string>
     <string name="show_installation_number">Exibir número da instalação</string>
-    <string name="sort_archive_by_date">Classificar vídeos gravados por data</string>
     <string name="simplified_mode">modo simplificado</string>
     <string name="hide_advanced_features">Ocultar recursos avançados</string>
     <string name="select_player_to_use">Selecionar o player para utilizar na reprodução</string>
@@ -661,4 +653,21 @@
     <string name="selection_bitrate">Seleção de faixa por taxa de bits</string>
     <string name="selection_bitrate_lowest">Prefira a menor taxa de bits</string>
     <string name="selection_bitrate_highest">Prefere a taxa de bits mais alta</string>
+    <string name="launcher_mode">Modo inicializador (não saia do aplicativo)</string>
+    <string name="current_epg_info">Informações sobre a transmissão atual</string>
+    <string name="change_codec_if_no_playback">Se a reprodução não começar você pode tentar um codec diferente</string>
+    <string name="player_menu_and_hud">Menu do jogador e display de alerta</string>
+    <string name="keep_hud_while_in_menu">Manter heads-up display enquanto o menu estiver ativado</string>
+    <string name="media_tunneling">Tunelamento de faixa de mídia diretamente para o dispositivo de saída</string>
+    <string name="menu_qs_keep_fav">Mantenha os canais favoritos de todos os provedores</string>
+    <string name="list_view_side_by_side">Lado a lado</string>
+    <string name="list_num_columns">Numero de colunas</string>
+    <string name="show_on_main_screen">Habilite a exibição disso na tela principal</string>
+    <string name="add_temp_stream_link">Adicionar link temporário a um fluxo da biblioteca</string>
+    <string name="auto_start_this_ch_on_start">Iniciar automaticamente a reprodução deste canal ao iniciar o aplicativo</string>
+    <string name="hint_themes">Você sabia que o aplicativo tem muitos temas visuais e você pode escolher aquele que mais se adequa a você?</string>
+    <string name="hint_customizing">Você sabia que quase todos os aspectos do aplicativo - menus, listas, cores são altamente configuráveis?</string>
+    <string name="hint_setup_keys">Você pode configurar os botões do controle remoto para qualquer ação preferida</string>
+    <string name="hint_setup_touch">Você pode configurar toques duplos e deslizamentos em diferentes regiões da tela para qualquer ação preferida</string>
+    <string name="delay_before_acting">Atrase antes de agir</string>
     </resources>

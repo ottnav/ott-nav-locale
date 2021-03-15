@@ -1,7 +1,6 @@
 <resources>
 <string name="press_back_once_more_to_exit">Πατήστε άλλη μια φορά για έξοδο</string>
     <string name="search_bar">Αναζήτηση ανά κανάλια ή προγράμματα</string>
-    <string name="search_bar_clue">δοκιμάστε ταινίες, τηλεοπτικές σειρές, ονόματα τηλεοπτικών εκπομπών ή ονόματα ηθοποιών</string>
     <string name="menu_search">Αναζήτηση βίντεο</string>
     <string name="menu_live">Ζωντανή μετάδοση</string>
     <string name="menu_archive">Εμφανίζει αρχείο</string>
@@ -11,7 +10,6 @@
     <string name="menu_error_require_live_but_no_playlist_text">Δεν είναι δυνατή η πρόσβαση στον διαμορφωμένο πάροχο ή λίστα αναπαραγωγής. Ελέγξτε ξανά τις ρυθμίσεις παροχέα και, αν φαίνονται εντάξει, επικοινωνήστε με τον πάροχο IPTV.</string>
     <string name="browse_description_series_number">επεισόδιο</string>
     <string name="browse_description_header_live">Ζωντανά κανάλια</string>
-    <string name="browse_description_header_program">Χρονοδιάγραμμα καναλιών</string>
     <string name="category_movies">Όλες οι ταινίες</string>
     <string name="category_tv_series">Όλες οι τηλεοπτικές σειρές</string>
     <string name="category_tv_shows">Όλες οι τηλεοπτικές εκπομπές</string>
@@ -368,7 +366,6 @@
     <string name="pla_menu_type_grid">πλέγμα</string>
     <string name="ch_manage_use_internal">Χρησιμοποιήστε την εσωτερική συσκευή αναπαραγωγής</string>
     <string name="cat_manage_start_this_cat_on">Ξεκινήστε από αυτήν την κατηγορία</string>
-    <string name="cfg_show_ch_desc">Εμφάνιση περιγραφής εκπομπής</string>
     <string name="studio_mode_open_in">Ανοίξτε τη λειτουργία Studio</string>
     <string name="studio_mode_title">Λειτουργία στούντιο</string>
     <string name="studio_mode_remove">Αφαιρέστε την οθόνη</string>
@@ -389,7 +386,6 @@
     <string name="cfg_prov_remove_sd">Αφαιρέστε τα κανάλια SD</string>
     <string name="cfg_prov_remove_sd_hd">Αφαιρέστε τα κανάλια SD αν εντοπιστεί υψηλότερη ποιότητα</string>
     <string name="cfg_prov_remove_tz">Κατάργηση καναλιών από διαφορετική ζώνη ώρας</string>
-    <string name="cfg_prov_follow_includes">Ακολουθήστε περιλαμβάνει σε μια λίστα αναπαραγωγής</string>
     <string name="cfg_sys_settings">Ρυθμίσεις συστήματος</string>
     <string name="cfg_pla_hud_settings">Διασύνδεση παίκτη</string>
     <string name="cfg_tv_guide_transparency">Διαφάνεια φόντου</string>
@@ -400,7 +396,6 @@
     <string name="restore_state">Επαναφορά της κατάστασης</string>
     <string name="pro_studio">Studio mode, επιτρέποντας την παρακολούθηση πολλαπλών ροών ταυτόχρονα</string>
     <string name="cfg_prov_channel_name">Να εμφανίζεται το όνομα του παροχέα στο όνομα καναλιού όταν χρησιμοποιείτε πολλούς παρόχους</string>
-    <string name="increase_text_size">αύξηση του μεγέθους κειμένου</string>
     <string name="hint_long_up_down">Με το πάτημα των επάνω και κάτω βέλους, μπορείτε να πλοηγηθείτε πιο γρήγορα</string>
     <string name="pla_act_quick_seek_back_20">αναζητήστε προς τα πίσω 20 δευτερόλεπτα</string>
     <string name="pla_act_quick_seek_fwd_20">επιδιώξτε 20 δευτερόλεπτα</string>
@@ -422,7 +417,6 @@
     <string name="parental_control">γονικός έλεγχος</string>
     <string name="show_different_time_frame_guide">Εμφάνιση προγενέστερου ή μεταγενέστερου χρονοδιαγράμματος</string>
     <string name="seconds">δευτερολέπτων</string>
-    <string name="not_limited">μη περιορισμένο</string>
     <string name="auto_detected">αυτόματη ανίχνευση</string>
     <string name="remove">αφαιρώ</string>
     <string name="video_unsupported">Κανένα από τα κομμάτια βίντεο δεν μπορεί να αναπαραχθεί από αυτήν τη συσκευή</string>
@@ -432,7 +426,6 @@
     <string name="media_tracks_video">βίντεο</string>
     <string name="media_tracks_audio">Ήχος</string>
     <string name="media_tracks_sub">Υπότιτλοι</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Αυτόματη κύλιση έως το τελευταίο στοιχείο (σε λειτουργία αφής)</string>
     <string name="hint_right_archives">Μπορείτε να πατήσετε το κουμπί ΔΕΞΙΑ κατά την περιήγηση στα ζωντανά κανάλια για να ανοίξετε τη λίστα αρχείων</string>
     <string name="switch_audio_hw">Χρησιμοποιήστε αποκωδικοποιητή ήχου υλικού</string>
     <string name="switch_audio_sw">Χρησιμοποιήστε αποκωδικοποιητή ήχου λογισμικού</string>
@@ -508,7 +501,6 @@
     <string name="reload_data">Επαναφόρτωση δεδομένων</string>
     <string name="assume_long_buffering_as_error">Υποθέστε ότι το μεγάλο buffer είναι ένα σφάλμα καναλιού</string>
     <string name="show_installation_number">Εμφάνιση αριθμού εγκατάστασης</string>
-    <string name="sort_archive_by_date">Ταξινόμηση αρχείων βίντεο κατά ημερομηνία</string>
     <string name="simplified_mode">Απλοποιημένη λειτουργία</string>
     <string name="hide_advanced_features">Απόκρυψη προηγμένων λειτουργιών</string>
     <string name="select_player_to_use">Επιλέξτε παίκτη που θα χρησιμοποιηθεί για αναπαραγωγή</string>
@@ -614,4 +606,21 @@
     <string name="selection_bitrate">Παρακολούθηση επιλογής με ρυθμό bit</string>
     <string name="selection_bitrate_lowest">Προτιμήστε το χαμηλότερο ρυθμό bit</string>
     <string name="selection_bitrate_highest">Προτιμήστε το υψηλότερο ρυθμό bit</string>
+    <string name="launcher_mode">Λειτουργία εκκίνησης (μην βγείτε από την εφαρμογή)</string>
+    <string name="current_epg_info">Πληροφορίες για την τρέχουσα μετάδοση</string>
+    <string name="change_codec_if_no_playback">Εάν δεν ξεκινήσει η αναπαραγωγή, μπορείτε να δοκιμάσετε έναν διαφορετικό κωδικοποιητή</string>
+    <string name="player_menu_and_hud">Μενού προγράμματος αναπαραγωγής και προβολή κεφαλής</string>
+    <string name="keep_hud_while_in_menu">Διατηρήστε την αρχική οθόνη ενώ το μενού είναι ενεργό</string>
+    <string name="media_tunneling">Media tunneling κατευθείαν στη συσκευή εξόδου</string>
+    <string name="menu_qs_keep_fav">Κρατήστε τα αγαπημένα κανάλια που εμφανίζονται από όλους τους παρόχους</string>
+    <string name="list_view_side_by_side">Δίπλα δίπλα</string>
+    <string name="list_num_columns">Αριθμός στηλών</string>
+    <string name="show_on_main_screen">Ενεργοποίηση εμφάνισης αυτής στην κύρια οθόνη</string>
+    <string name="add_temp_stream_link">Προσθέστε προσωρινό σύνδεσμο σε μια ροή στη βιβλιοθήκη</string>
+    <string name="auto_start_this_ch_on_start">Αυτόματη έναρξη αναπαραγωγής αυτού του καναλιού κατά την έναρξη της εφαρμογής</string>
+    <string name="hint_themes">Γνωρίζατε ότι η εφαρμογή έχει πολλά οπτικά θέματα και μπορείτε να επιλέξετε αυτό που σας ταιριάζει καλύτερα;</string>
+    <string name="hint_customizing">Γνωρίζατε ότι σχεδόν κάθε πτυχή της εφαρμογής - μενού, λίστες, χρώματα είναι εξαιρετικά διαμορφώσιμα;</string>
+    <string name="hint_setup_keys">Μπορείτε να διαμορφώσετε τα κουμπιά του τηλεχειριστηρίου σας σε οποιαδήποτε προτιμώμενη ενέργεια</string>
+    <string name="hint_setup_touch">Μπορείτε να διαμορφώσετε διπλά πατήματα και ολίσθηση σε διαφορετικές περιοχές οθόνης σε οποιαδήποτε προτιμώμενη ενέργεια</string>
+    <string name="delay_before_acting">Καθυστέρηση πριν ενεργήσετε</string>
     </resources>

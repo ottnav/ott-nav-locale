@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">Väljumiseks vajutage veel kord</string>
 
     <string name="search_bar">Otsing kanalite või programmide järgi</string>
-    <string name="search_bar_clue">proovige filmi, teleseriaali, telesaate nime või näitlejate nimesid</string>
 
     <string name="menu_search">Video otsing</string>
     <string name="menu_live">Otseülekanne</string>
@@ -14,7 +13,6 @@
 
     <string name="browse_description_series_number">episood</string>
     <string name="browse_description_header_live">Elavad kanalid</string>
-    <string name="browse_description_header_program">Kanali ajakava</string>
 
     <string name="category_movies">Kõik filmid</string>
     <string name="category_tv_series">Kõik telesarjad</string>
@@ -416,7 +414,6 @@
     <string name="ch_manage_use_internal">Kasutage sisemist mängijat</string>
     <string name="cat_manage_start_this_cat_on">Alustage sellest kategooriast</string>
 
-    <string name="cfg_show_ch_desc">Kuva saate kirjeldus</string>
     <string name="studio_mode_open_in">Avage stuudiorežiimis</string>
     <string name="studio_mode_title">Stuudio režiim</string>
     <string name="studio_mode_remove">Eemaldage ekraan</string>
@@ -437,7 +434,6 @@
     <string name="cfg_prov_remove_sd">Eemaldage SD kanalid</string>
     <string name="cfg_prov_remove_sd_hd">Eemaldage SD-kanalid, kui tuvastatakse kõrgem kvaliteet</string>
     <string name="cfg_prov_remove_tz">Eemaldage kanalid eri ajatsoonist</string>
-    <string name="cfg_prov_follow_includes">Jälgi lisamine esitusloendisse</string>
     <string name="cfg_sys_settings">Süsteemisätted</string>
     <string name="cfg_pla_hud_settings">Mängija liides</string>
     <string name="cfg_tv_guide_transparency">Tausta läbipaistvus</string>
@@ -448,7 +444,6 @@
     <string name="restore_state">Taasta olek</string>
 <string name="pro_studio">Stuudiorežiim, mis võimaldab vaadata mitut voogu korraga</string>
     <string name="cfg_prov_channel_name">Kuva pakkuja nimi kanali nimes, kui kasutate mitut pakkujat</string>
-    <string name="increase_text_size">teksti suuruse suurendamine</string>
     <string name="hint_long_up_down">Pikk üles- ja allanoolte vajutamine võimaldab loendis kiiremat navigeerimist</string>
     <string name="pla_act_quick_seek_back_20">otsige 20 sekundit tagasi</string>
     <string name="pla_act_quick_seek_fwd_20">otsi 20 sekundit edasi</string>
@@ -470,7 +465,6 @@
     <string name="parental_control">vanemlik kontroll</string>
     <string name="show_different_time_frame_guide">Kuva varasem või hilisem sõiduplaan</string>
     <string name="seconds">sekundit</string>
-    <string name="not_limited">pole piiratud</string>
     <string name="auto_detected">automaatselt tuvastatud</string>
     <string name="remove">eemalda</string>
     <string name="video_unsupported">Ükski videorada pole selle seadmega taasesitatav</string>
@@ -480,7 +474,6 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Heli</string>
     <string name="media_tracks_sub">Subtiitrid</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Automaatne kerimine viimase üksuseni (puuterežiimis)</string>
     <string name="hint_right_archives">Arhiivide loendi avamiseks võite otsekanalite sirvimise ajal vajutada paremat nuppu</string>
     <string name="switch_audio_hw">Kasutage riistvara helidekoodrit</string>
     <string name="switch_audio_sw">Kasutage tarkvara helidekoodrit</string>
@@ -556,7 +549,6 @@
     <string name="reload_data">Laadige andmed uuesti</string>
     <string name="assume_long_buffering_as_error">Oletame, et pikk puhverdus on kanali viga</string>
     <string name="show_installation_number">Näita installinumbrit</string>
-    <string name="sort_archive_by_date">Sorteeri arhiveeritud videod kuupäeva järgi</string>
     <string name="simplified_mode">Lihtsustatud režiim</string>
     <string name="hide_advanced_features">Peida täpsemad funktsioonid</string>
     <string name="select_player_to_use">Valige taasesitamiseks kasutatav mängija</string>
@@ -662,4 +654,21 @@
     <string name="selection_bitrate">Rajavalimine bitikiiruse järgi</string>
     <string name="selection_bitrate_lowest">Eelistage madalaimat bitikiirust</string>
     <string name="selection_bitrate_highest">Eelistage suurimat bitikiirust</string>
+    <string name="launcher_mode">Käivitusrežiim (ärge väljuge rakendusest)</string>
+    <string name="current_epg_info">Teave praeguse saate kohta</string>
+    <string name="change_codec_if_no_playback">Kui taasesitust ei alustata, võite proovida mõnda teist koodekit</string>
+    <string name="player_menu_and_hud">Mängija menüü ja heads-up-ekraan</string>
+    <string name="keep_hud_while_in_menu">Hoidke heads-up-ekraani, kuni menüü on sisse lülitatud</string>
+    <string name="media_tunneling">Meediumiraja tunnelimine otse väljundseadmesse</string>
+    <string name="menu_qs_keep_fav">Hoidke kõigi pakkujate lemmikkanalid kuvatud</string>
+    <string name="list_view_side_by_side">Kõrvuti</string>
+    <string name="list_num_columns">Veergude arv</string>
+    <string name="show_on_main_screen">Lubage selle kuvamine põhiekraanil</string>
+    <string name="add_temp_stream_link">Lisage teeki voogule ajutine link</string>
+    <string name="auto_start_this_ch_on_start">Käivitage selle kanali taasesitus automaatselt rakenduse käivitamisel</string>
+    <string name="hint_themes">Kas teadsite, et rakendusel on palju visuaalseid teemasid ja saate valida endale sobivaima?</string>
+    <string name="hint_customizing">Kas teadsite, et peaaegu kõik rakenduse aspektid - menüüd, loendid, värvid on väga konfigureeritavad?</string>
+    <string name="hint_setup_keys">Saate konfigureerida oma kaugjuhtimispuldi nupud mis tahes eelistatava toiminguga</string>
+    <string name="hint_setup_touch">Topeltpuudutusi ja pühkimisi saate konfigureerida erinevates ekraanipiirkondades mis tahes eelistatava toimingu jaoks</string>
+    <string name="delay_before_acting">Viivitage enne tegutsemist</string>
     </resources>

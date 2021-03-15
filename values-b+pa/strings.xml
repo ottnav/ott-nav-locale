@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">ਬਾਹਰ ਜਾਣ ਲਈ ਇਕ ਵਾਰ ਦਬਾਓ</string>
 
     <string name="search_bar">ਚੈਨਲਾਂ ਜਾਂ ਪ੍ਰੋਗਰਾਮਾਂ ਦੁਆਰਾ ਖੋਜ ਕਰੋ</string>
-    <string name="search_bar_clue">ਫਿਲਮ, ਟੀਵੀ-ਲੜੀ, ਟੀਵੀ-ਸ਼ੋਅ ਨਾਂ, ਜਾਂ ਅਦਾਕਾਰ ਦੇ ਨਾਮ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
 
 
     <string name="menu_search">ਵੀਡੀਓ ਖੋਜ</string>
@@ -16,7 +15,6 @@
 
     <string name="browse_description_series_number">ਪ੍ਰਸੰਗ</string>
     <string name="browse_description_header_live">ਲਾਈਵ ਚੈਨਲਾਂ</string>
-    <string name="browse_description_header_program">ਚੈਨਲ ਸਮਾਂ ਸਾਰਣੀ</string>
 
 
     <string name="category_movies">ਸਭ ਫਿਲਮਾਂ</string>
@@ -414,7 +412,6 @@
     <string name="ch_manage_use_internal">ਅੰਦਰੂਨੀ ਖਿਡਾਰੀ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="cat_manage_start_this_cat_on">ਇਸ ਸ਼੍ਰੇਣੀ ਤੋਂ ਸ਼ੁਰੂ ਕਰੋ</string>
 
-    <string name="cfg_show_ch_desc">ਪ੍ਰਸਾਰਣ ਵੇਰਵਾ ਦਿਖਾਓ</string>
     <string name="studio_mode_open_in">ਸਟੂਡੀਓ ਮੋਡ ਵਿੱਚ ਖੋਲ੍ਹੋ</string>
     <string name="studio_mode_title">ਸਟੂਡੀਓ ਮੋਡ</string>
     <string name="studio_mode_remove">ਸਕ੍ਰੀਨ ਹਟਾਓ</string>
@@ -435,7 +432,6 @@
     <string name="cfg_prov_remove_sd">SD ਚੈਨਲ ਹਟਾਓ</string>
     <string name="cfg_prov_remove_sd_hd">SD ਚੈਨਲਸ ਨੂੰ ਹਟਾਓ ਜੇ ਉੱਚ ਗੁਣਵੱਤਾ ਦਾ ਪਤਾ ਲੱਗਿਆ</string>
     <string name="cfg_prov_remove_tz">ਵੱਖਰੇ ਟਾਈਮ ਜ਼ੋਨ ਤੋਂ ਚੈਨਲ ਹਟਾਓ</string>
-    <string name="cfg_prov_follow_includes">ਇੱਕ ਪਲੇਲਿਸਟ ਵਿੱਚ ਸ਼ਾਮਲ ਦੀ ਪਾਲਣਾ ਕਰੋ</string>
     <string name="cfg_sys_settings">ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ</string>
     <string name="cfg_pla_hud_settings">ਪਲੇਅਰ ਇੰਟਰਫੇਸ</string>
     <string name="cfg_tv_guide_transparency">ਪਿਛੋਕੜ ਪਾਰਦਰਸ਼ਤਾ</string>
@@ -446,7 +442,6 @@
     <string name="restore_state">ਸਥਿਤੀ ਨੂੰ ਬਹਾਲ ਕਰੋ</string>
 <string name="pro_studio">ਸਟੂਡੀਓ ਮੋਡ, ਇਕੋ ਸਮੇਂ ਕਈ ਸਟ੍ਰੀਮਾਂ ਨੂੰ ਦੇਖਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ</string>
     <string name="cfg_prov_channel_name">ਜਦੋਂ ਮਲਟੀਪਲ ਪ੍ਰਦਾਤਾ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ ਤਾਂ ਪ੍ਰਦਾਤਾ ਦਾ ਨਾਮ ਚੈਨਲ ਦੇ ਨਾਮ ਵਿੱਚ ਦਿਖਾਓ</string>
-    <string name="increase_text_size">ਟੈਕਸਟ ਦਾ ਅਕਾਰ ਵਧਾਓ</string>
     <string name="hint_long_up_down">ਲੰਬੇ ਦਬਾ ਕੇ ਹੇਠਾਂ ਜਾਣ ਵਾਲੇ ਤੀਰ ਤੇਜ਼ੀ ਨਾਲ ਸੂਚੀ ਨੇਵੀਗੇਸ਼ਨ ਦੀ ਆਗਿਆ ਦਿੰਦੇ ਹਨ</string>
     <string name="pla_act_quick_seek_back_20">20 ਸਕਿੰਟ ਬਾਅਦ ਪਿੱਛੇ ਜਾਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
     <string name="pla_act_quick_seek_fwd_20">ਅੱਗੇ 20 ਸਕਿੰਟ ਦੀ ਭਾਲ ਕਰੋ</string>
@@ -468,7 +463,6 @@
     <string name="parental_control">ਮਾਪਿਆਂ ਦਾ ਨਿਯੰਤਰਣ</string>
     <string name="show_different_time_frame_guide">ਪਹਿਲਾਂ ਜਾਂ ਬਾਅਦ ਦਾ ਸਮਾਂ-ਸਾਰਣੀ ਦਿਖਾਓ</string>
     <string name="seconds">ਸਕਿੰਟ</string>
-    <string name="not_limited">ਸੀਮਤ ਨਹੀਂ</string>
     <string name="auto_detected">ਆਟੋ ਖੋਜਿਆ</string>
     <string name="remove">ਹਟਾਓ</string>
     <string name="video_unsupported">ਕੋਈ ਵੀ ਵੀਡੀਓ ਟਰੈਕ ਇਸ ਡਿਵਾਈਸ ਦੁਆਰਾ ਚਲਾਉਣ ਯੋਗ ਨਹੀਂ ਹਨ</string>
@@ -478,7 +472,6 @@
     <string name="media_tracks_video">ਵੀਡੀਓ</string>
     <string name="media_tracks_audio">ਆਡੀਓ</string>
     <string name="media_tracks_sub">ਉਪਸਿਰਲੇਖ</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">ਆਖਰੀ ਆਈਟਮ ਤੇ ਆਟੋਮੈਟਿਕ ਸਕ੍ਰੌਲ ਕਰੋ (ਟਚ ਮੋਡ ਵਿੱਚ)</string>
     <string name="hint_right_archives">ਪੁਰਾਲੇਖਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਸਿੱਧਾ ਚੈਨਲ ਵੇਖਦੇ ਹੋਏ ਤੁਸੀਂ ਸਹੀ ਬਟਨ ਦਬਾ ਸਕਦੇ ਹੋ</string>
     <string name="switch_audio_hw">ਹਾਰਡਵੇਅਰ ਆਡੀਓ ਡੀਕੋਡਰ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="switch_audio_sw">ਸਾੱਫਟਵੇਅਰ ਆਡੀਓ ਡੀਕੋਡਰ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
@@ -554,7 +547,6 @@
     <string name="reload_data">ਡਾਟਾ ਮੁੜ ਲੋਡ ਕਰੋ</string>
     <string name="assume_long_buffering_as_error">ਮੰਨ ਲਓ ਲੰਬੀ ਬਫਰਿੰਗ ਇੱਕ ਚੈਨਲ ਗਲਤੀ ਹੈ</string>
     <string name="show_installation_number">ਇੰਸਟਾਲੇਸ਼ਨ ਨੰਬਰ ਦਿਖਾਓ</string>
-    <string name="sort_archive_by_date">ਤਾਰੀਖ ਅਨੁਸਾਰ ਪੁਰਾਲੇਖ ਵੀਡਿਓ ਨੂੰ ਕ੍ਰਮਬੱਧ</string>
     <string name="simplified_mode">ਸਧਾਰਣ modeੰਗ</string>
     <string name="hide_advanced_features">ਉੱਨਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਲੁਕਾਓ</string>
     <string name="select_player_to_use">ਪਲੇਬੈਕ ਲਈ ਵਰਤਣ ਲਈ ਖਿਡਾਰੀ ਦੀ ਚੋਣ ਕਰੋ</string>
@@ -660,4 +652,21 @@
     <string name="selection_bitrate">ਬਿੱਟਰੇਟ ਦੁਆਰਾ ਚੋਣ ਨੂੰ ਟਰੈਕ ਕਰੋ</string>
     <string name="selection_bitrate_lowest">ਘੱਟ ਬਿਟਰੇਟ ਨੂੰ ਤਰਜੀਹ</string>
     <string name="selection_bitrate_highest">ਸਭ ਤੋਂ ਵੱਧ ਬਿਟਰੇਟ ਨੂੰ ਤਰਜੀਹ ਦਿਓ</string>
+    <string name="launcher_mode">ਲਾਂਚਰ ਮੋਡ (ਐਪ ਤੋਂ ਬਾਹਰ ਨਾ ਜਾਓ)</string>
+    <string name="current_epg_info">ਮੌਜੂਦਾ ਪ੍ਰਸਾਰਣ ਬਾਰੇ ਜਾਣਕਾਰੀ</string>
+    <string name="change_codec_if_no_playback">ਜੇ ਪਲੇਬੈਕ ਸ਼ੁਰੂ ਨਹੀਂ ਹੁੰਦਾ ਹੈ ਤਾਂ ਤੁਸੀਂ ਇੱਕ ਵੱਖਰੇ ਕੋਡੇਕ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ</string>
+    <string name="player_menu_and_hud">ਪਲੇਅਰ ਮੀਨੂੰ ਅਤੇ ਹੈਡ-ਅਪ-ਡਿਸਪਲੇਅ</string>
+    <string name="keep_hud_while_in_menu">ਮੀਨੂ ਚਾਲੂ ਹੋਣ \'ਤੇ ਹੈਡ-ਅਪ-ਡਿਸਪਲੇਅ ਰੱਖੋ</string>
+    <string name="media_tunneling">ਸਿੱਧੇ ਆਉਟਪੁੱਟ ਜੰਤਰ ਤੇ ਮੀਡੀਆ ਟ੍ਰੈਕ ਸੁਰੰਗ</string>
+    <string name="menu_qs_keep_fav">ਸਾਰੇ ਪ੍ਰਦਾਤਾਵਾਂ ਦੁਆਰਾ ਦਿਖਾਏ ਗਏ ਮਨਪਸੰਦ ਚੈਨਲ ਰੱਖੋ</string>
+    <string name="list_view_side_by_side">ਨਾਲ ਨਾਲ</string>
+    <string name="list_num_columns">ਕਾਲਮਾਂ ਦੀ ਗਿਣਤੀ</string>
+    <string name="show_on_main_screen">ਇਸਨੂੰ ਮੁੱਖ ਸਕ੍ਰੀਨ ਤੇ ਦਿਖਾਉਣ ਦੇ ਯੋਗ ਬਣਾਓ</string>
+    <string name="add_temp_stream_link">ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਇੱਕ ਸਟ੍ਰੀਮ ਵਿੱਚ ਅਸਥਾਈ ਲਿੰਕ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="auto_start_this_ch_on_start">ਐਪ ਸ਼ੁਰੂ ਹੋਣ \'ਤੇ ਇਸ ਚੈਨਲ ਦਾ ਆਟੋਮੈਟਿਕ ਪਲੇਬੈਕ</string>
+    <string name="hint_themes">ਕੀ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਿ ਐਪ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਵਿਜ਼ੂਅਲ ਥੀਮ ਹਨ ਅਤੇ ਤੁਸੀਂ ਇੱਕ ਦੀ ਚੋਣ ਕਰ ਸਕਦੇ ਹੋ ਜੋ ਤੁਹਾਡੇ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਹੈ?</string>
+    <string name="hint_customizing">ਕੀ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਿ ਐਪ ਦੇ ਲਗਭਗ ਹਰ ਪਹਿਲੂ - ਮੀਨੂ, ਸੂਚੀਆਂ, ਰੰਗ ਬਹੁਤ ਜ਼ਿਆਦਾ ਕੌਂਫਿਗਰ ਕਰਨ ਯੋਗ ਹਨ?</string>
+    <string name="hint_setup_keys">ਤੁਸੀਂ ਆਪਣੇ ਰਿਮੋਟ ਕੰਟਰੋਲਰ ਬਟਨਾਂ ਨੂੰ ਕਿਸੇ ਤਰਜੀਹੀ ਕਿਰਿਆ ਲਈ ਕੌਂਫਿਗਰ ਕਰ ਸਕਦੇ ਹੋ</string>
+    <string name="hint_setup_touch">ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਤਰਜੀਹੀ ਕਾਰਵਾਈ ਲਈ ਵੱਖ ਵੱਖ ਸਕ੍ਰੀਨ ਖੇਤਰਾਂ ਵਿੱਚ ਡਬਲ ਟੈਪਸ ਅਤੇ ਸਵਾਈਪਸ ਨੂੰ ਕੌਂਫਿਗਰ ਕਰ ਸਕਦੇ ਹੋ</string>
+    <string name="delay_before_acting">ਅਦਾਕਾਰੀ ਤੋਂ ਪਹਿਲਾਂ ਦੇਰੀ</string>
     </resources>

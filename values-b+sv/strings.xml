@@ -1,7 +1,6 @@
 <resources>
     <string name="press_back_once_more_to_exit">Tryck en gång till för att avsluta</string>
     <string name="search_bar">Sök efter kanaler eller program</string>
-    <string name="search_bar_clue">prova film, tv-serier, tv-programnamn eller namn på skådespelare</string>
     <string name="menu_search">Videosökning</string>
     <string name="menu_live">Direktsändning</string>
     <string name="menu_archive">Visar arkiv</string>
@@ -11,7 +10,6 @@
     <string name="menu_error_require_live_but_no_playlist_text">Den konfigurerade leverantören eller spellistan kan inte nås. Kontrollera leverantörens inställningar igen och om de verkar OK, kontakta din IPTV-leverantör.</string>
     <string name="browse_description_series_number">episod</string>
     <string name="browse_description_header_live">Live kanaler</string>
-    <string name="browse_description_header_program">Kanaltidplan</string>
     <string name="category_movies">Alla filmer</string>
     <string name="category_tv_series">Alla TV-serier</string>
     <string name="category_tv_shows">Alla TV-program</string>
@@ -368,7 +366,6 @@
     <string name="pla_menu_type_grid">rutnät</string>
     <string name="ch_manage_use_internal">Använd intern spelare</string>
     <string name="cat_manage_start_this_cat_on">Börja från den här kategorin</string>
-    <string name="cfg_show_ch_desc">Visa sändningsbeskrivning</string>
     <string name="studio_mode_open_in">Öppna i Studio-läge</string>
     <string name="studio_mode_title">Studioläge</string>
     <string name="studio_mode_remove">Ta bort skärmen</string>
@@ -389,7 +386,6 @@
     <string name="cfg_prov_remove_sd">Ta bort SD-kanaler</string>
     <string name="cfg_prov_remove_sd_hd">Ta bort SD-kanaler om högre kvalitet upptäcks</string>
     <string name="cfg_prov_remove_tz">Ta bort kanaler från olika tidszon</string>
-    <string name="cfg_prov_follow_includes">Följ inkluderar i en spellista</string>
     <string name="cfg_sys_settings">Systeminställningar</string>
     <string name="cfg_pla_hud_settings">Spelargränssnitt</string>
     <string name="cfg_tv_guide_transparency">Bakgrundsöppenhet</string>
@@ -400,7 +396,6 @@
     <string name="restore_state">Återställ tillstånd</string>
     <string name="pro_studio">Studioläge, så att du kan titta på flera strömmar samtidigt</string>
     <string name="cfg_prov_channel_name">Visa leverantörens namn i kanalnamnet när du använder flera leverantörer</string>
-    <string name="increase_text_size">öka textstorleken</string>
     <string name="hint_long_up_down">Lång tryckning på upp- och nedpilarna möjliggör snabbare listnavigation</string>
     <string name="pla_act_quick_seek_back_20">sök bakåt med 20 sekunder</string>
     <string name="pla_act_quick_seek_fwd_20">söka framåt med 20 sekunder</string>
@@ -422,7 +417,6 @@
     <string name="parental_control">föräldrakontroll</string>
     <string name="show_different_time_frame_guide">Visa tidigare eller senare tidtabell</string>
     <string name="seconds">sekunder</string>
-    <string name="not_limited">inte begränsad</string>
     <string name="auto_detected">auto upptäckt</string>
     <string name="remove">ta bort</string>
     <string name="video_unsupported">Inget av videospåren kan spelas av den här enheten</string>
@@ -432,7 +426,6 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Audio</string>
     <string name="media_tracks_sub">undertexter</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Bläddra automatiskt till det sista objektet (i beröringsläge)</string>
     <string name="hint_right_archives">Du kan trycka på HÖGER-knapp medan du surfar på livekanaler för att öppna arkivlistan</string>
     <string name="switch_audio_hw">Använd ljudavkodare för hårdvara</string>
     <string name="switch_audio_sw">Använd programvaruljudavkodare</string>
@@ -508,7 +501,6 @@
     <string name="reload_data">Ladda om data</string>
     <string name="assume_long_buffering_as_error">Antag att lång buffring är ett kanalfel</string>
     <string name="show_installation_number">Visa installationsnummer</string>
-    <string name="sort_archive_by_date">Sortera arkiverade videor efter datum</string>
     <string name="simplified_mode">Förenklat läge</string>
     <string name="hide_advanced_features">Dölj avancerade funktioner</string>
     <string name="select_player_to_use">Välj spelare som ska användas för uppspelning</string>
@@ -614,4 +606,21 @@
     <string name="selection_bitrate">Spåra val efter bithastighet</string>
     <string name="selection_bitrate_lowest">Föredrar lägsta bithastighet</string>
     <string name="selection_bitrate_highest">Föredrar högsta bithastighet</string>
+    <string name="launcher_mode">Startläge (stäng inte appen)</string>
+    <string name="current_epg_info">Information om aktuell sändning</string>
+    <string name="change_codec_if_no_playback">Om uppspelningen inte startar kan du prova en annan codec</string>
+    <string name="player_menu_and_hud">Spelarmeny och head-up-display</string>
+    <string name="keep_hud_while_in_menu">Håll head-up-display medan menyn är på</string>
+    <string name="media_tunneling">Media spår tunnlar direkt till utdataenheten</string>
+    <string name="menu_qs_keep_fav">Se till att favoritkanaler visas från alla leverantörer</string>
+    <string name="list_view_side_by_side">Sida vid sida</string>
+    <string name="list_num_columns">Antal kolumner</string>
+    <string name="show_on_main_screen">Aktivera att visa detta på huvudskärmen</string>
+    <string name="add_temp_stream_link">Lägg till tillfällig länk till en ström till biblioteket</string>
+    <string name="auto_start_this_ch_on_start">Starta automatisk uppspelning av denna kanal vid appstart</string>
+    <string name="hint_themes">Visste du att appen har många visuella teman och att du kan välja det som passar dig bäst?</string>
+    <string name="hint_customizing">Visste du att nästan alla aspekter av appen - menyer, listor, färger är mycket konfigurerbara?</string>
+    <string name="hint_setup_keys">Du kan konfigurera fjärrkontrollens knappar till valfri åtgärd</string>
+    <string name="hint_setup_touch">Du kan konfigurera dubbla kranar och svepa i olika skärmregioner till valfri åtgärd</string>
+    <string name="delay_before_acting">Försena innan du agerar</string>
     </resources>

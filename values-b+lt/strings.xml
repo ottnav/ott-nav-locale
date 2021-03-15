@@ -3,9 +3,8 @@
 
     
     <string name="search_bar">Ieškoti kanalų arba laidų</string>
-    <string name="search_bar_clue">pabandykite filmų, serialų, laidų pavadinimus, aktorių vardus</string>
 
-    
+
     <string name="menu_search">Paieška pagal video</string>
     <string name="menu_live">Tiesiogiai</string>
     <string name="menu_archive">Laidų archyvas</string>
@@ -17,9 +16,8 @@
 
     <string name="browse_description_series_number">serija</string>
     <string name="browse_description_header_live">Kanalai tiesiogiai</string>
-    <string name="browse_description_header_program">Kanalų programa</string>
 
-    
+
     <string name="category_movies">Visi filmai</string>
     <string name="category_tv_series">Visi serialai</string>
     <string name="category_tv_shows">Visos laidos</string>
@@ -269,7 +267,7 @@
     <string name="menu_exit">Išeiti</string>
     <string name="hint_try_premium_sub_free">Jūs galite išbandyti prenumeratą vieną kartą nemokamai kelias dienas, nuspręsdami, ar jį naudoti, ar ne. Patikrinkite prenumeratos paketų informaciją.</string>
 
-    <string name="premium_fea_pre_vid">Rodyti aprašytą vaizdo įrašo peržiūrą</string>
+    <string name="premium_fea_pre_vid">rodyti vaizdą aprašyme</string>
     <string name="vp_audio_shift">Garso perjungimas</string>
     <string name="vp_audio_shift_desc">Sinchronizuokite garsą su vaizdo įrašu</string>
     <string name="cfg_next_n_desc">Kiek sekančių televizorių rodoma kanalo apraše</string>
@@ -304,7 +302,7 @@
     <string name="category_recent_channels">Naujausi</string>
     <string name="category_all_channels">Visi kanalai</string>
     <string name="cfg_no_categories">Naudoti paprasto kanalų sąrašą (be kategorijų)</string>
-    <string name="cfg_section_desc">Prekės Aprašymas</string>
+    <string name="cfg_section_desc">kanalo aprašymas</string>
     <string name="cfg_section_lists">Sąrašų nustatymai</string>
 
     <string name="cfg_no_hints">Nerodyti patarimų</string>
@@ -331,7 +329,7 @@
     <string name="provider_playlist_file">Grojaraštis iš failo</string>
     <string name="provider_field_name">vardas</string>
     <string name="provider_field_url">URL adresas</string>
-    <string name="provider_field_login">Prisijungti</string>
+    <string name="provider_field_login">Vartotojas</string>
     <string name="provider_field_pass">Slaptažodis</string>
     <string name="provider_field_token">Prieigos raktas</string>
     <string name="provider_field_server">Serveris</string>
@@ -420,7 +418,6 @@
     <string name="ch_manage_use_internal">Naudokite vidinį grotuvą</string>
     <string name="cat_manage_start_this_cat_on">Pradėkite nuo šios kategorijos</string>
 
-    <string name="cfg_show_ch_desc">Rodyti transliacijos aprašą</string>
     <string name="studio_mode_open_in">Atidarykite studijos režimu</string>
     <string name="studio_mode_title">Studijos režimas</string>
     <string name="studio_mode_remove">Pašalinti ekraną</string>
@@ -441,7 +438,6 @@
     <string name="cfg_prov_remove_sd">Pašalinkite SD kanalus</string>
     <string name="cfg_prov_remove_sd_hd">Pašalinkite SD kanalus, jei aptikta aukštesnės kokybės</string>
     <string name="cfg_prov_remove_tz">Pašalinkite kanalus iš skirtingos laiko juostos</string>
-    <string name="cfg_prov_follow_includes">Stebėti įtraukiama į grojaraštį</string>
     <string name="cfg_sys_settings">Sistemos nustatymai</string>
     <string name="cfg_pla_hud_settings">Grotuvo sąsaja</string>
     <string name="cfg_tv_guide_transparency">Fono skaidrumas</string>
@@ -452,7 +448,6 @@
     <string name="restore_state">Atkurti būseną</string>
 <string name="pro_studio">Studijos režimas, leidžiantis vienu metu žiūrėti kelis srautus</string>
     <string name="cfg_prov_channel_name">Rodyti tiekėjo pavadinimą kanalo pavadinime, kai naudojate kelis tiekėjus</string>
-    <string name="increase_text_size">padidinti teksto dydį</string>
     <string name="hint_long_up_down">Ilgai paspaudus rodykles aukštyn ir žemyn, galima greičiau naršyti sąrašą</string>
     <string name="pla_act_quick_seek_back_20">20 sekundžių ieškokite atgal</string>
     <string name="pla_act_quick_seek_fwd_20">pirmyn 20 sekundžių</string>
@@ -474,7 +469,6 @@
     <string name="parental_control">tėvų kontrolė</string>
     <string name="show_different_time_frame_guide">Rodyti ankstesnį ar vėlesnį tvarkaraštį</string>
     <string name="seconds">sekundžių</string>
-    <string name="not_limited">neribojamas</string>
     <string name="auto_detected">automatinis aptikimas</string>
     <string name="remove">pašalinti</string>
     <string name="video_unsupported">Šiuo įrenginiu negalima leisti nė vieno vaizdo įrašo takelio</string>
@@ -484,7 +478,6 @@
     <string name="media_tracks_video">Vaizdo įrašas</string>
     <string name="media_tracks_audio">Garsas</string>
     <string name="media_tracks_sub">Subtitrai</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Automatinis slinkimas iki paskutinio elemento (jutikliniame režime)</string>
     <string name="hint_right_archives">Naršydami tiesioginiuose kanaluose galite paspausti dešinę mygtuką, norėdami atidaryti archyvų sąrašą</string>
     <string name="switch_audio_hw">Naudokite aparatinės įrangos garso dekoderį</string>
     <string name="switch_audio_sw">Naudokite programinės įrangos garso dekoderį</string>
@@ -560,7 +553,6 @@
     <string name="reload_data">Perkraukite duomenis</string>
     <string name="assume_long_buffering_as_error">Tarkime, kad ilgas buferizavimas yra kanalo klaida</string>
     <string name="show_installation_number">Rodyti diegimo numerį</string>
-    <string name="sort_archive_by_date">Rūšiuokite archyvuotus vaizdo įrašus pagal datą</string>
     <string name="simplified_mode">Supaprastintas režimas</string>
     <string name="hide_advanced_features">Slėpti išplėstines funkcijas</string>
     <string name="select_player_to_use">Pasirinkite grotuvą, kurį norite naudoti atkūrimui</string>
@@ -666,4 +658,21 @@
     <string name="selection_bitrate">Takelio pasirinkimas pagal bitų greitį</string>
     <string name="selection_bitrate_lowest">Pirmenybė teikiama mažiausiam pralaidumui</string>
     <string name="selection_bitrate_highest">Pageidaujamas didžiausias pralaidumas</string>
+    <string name="launcher_mode">Paleidimo priemonės režimas (neuždarykite programos)</string>
+    <string name="current_epg_info">Informacija apie dabartinę transliaciją</string>
+    <string name="change_codec_if_no_playback">Jei atkūrimas neprasideda, galite išbandyti kitą kodeką</string>
+    <string name="player_menu_and_hud">Leistuvo meniu ir „heads-up“ ekranas</string>
+    <string name="keep_hud_while_in_menu">Laikykite „heads-up“ ekraną, kai meniu yra įjungtas</string>
+    <string name="media_tunneling">Medijos takelio tuneliai tiesiai į išvesties įrenginį</string>
+    <string name="menu_qs_keep_fav">Palikite mėgstamus visų teikėjų kanalus</string>
+    <string name="list_view_side_by_side">Šalia</string>
+    <string name="list_num_columns">Stulpelių skaičius</string>
+    <string name="show_on_main_screen">Įgalinkite tai rodyti pagrindiniame ekrane</string>
+    <string name="add_temp_stream_link">Pridėkite laikiną nuorodą prie bibliotekos srauto</string>
+    <string name="auto_start_this_ch_on_start">Automatiškai paleisti šio kanalo atkūrimą paleidus programą</string>
+    <string name="hint_themes">Ar žinojote, kad programoje yra daug vaizdinių temų ir galite pasirinkti sau tinkamiausią?</string>
+    <string name="hint_customizing">Ar žinojote, kad beveik visi programos aspektai - meniu, sąrašai, spalvos yra labai konfigūruojami?</string>
+    <string name="hint_setup_keys">Nuotolinio valdymo pulto mygtukus galite sukonfigūruoti atlikdami bet kokį pageidaujamą veiksmą</string>
+    <string name="hint_setup_touch">Galite konfigūruoti dvigubus bakstelėjimus ir perbraukimus skirtinguose ekrano regionuose, norėdami atlikti bet kurį pageidaujamą veiksmą</string>
+    <string name="delay_before_acting">Delskite prieš vaidindami</string>
     </resources>

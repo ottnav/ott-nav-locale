@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">한 번 더 눌러 종료하십시오.</string>
 
     <string name="search_bar">채널 또는 프로그램으로 검색</string>
-    <string name="search_bar_clue">영화, TV 시리즈, TV 쇼 이름 또는 배우 이름 시도</string>
 
 
     <string name="menu_search">비디오 검색</string>
@@ -16,7 +15,6 @@
 
     <string name="browse_description_series_number">삽화</string>
     <string name="browse_description_header_live">라이브 채널</string>
-    <string name="browse_description_header_program">채널 시간표</string>
 
 
     <string name="category_movies">모든 영화</string>
@@ -417,7 +415,6 @@
     <string name="ch_manage_use_internal">내부 플레이어 사용</string>
     <string name="cat_manage_start_this_cat_on">이 카테고리에서 시작</string>
 
-    <string name="cfg_show_ch_desc">브로드 캐스트 설명 표시</string>
     <string name="studio_mode_open_in">스튜디오 모드로 열기</string>
     <string name="studio_mode_title">스튜디오 모드</string>
     <string name="studio_mode_remove">화면 제거</string>
@@ -438,7 +435,6 @@
     <string name="cfg_prov_remove_sd">SD 채널 제거</string>
     <string name="cfg_prov_remove_sd_hd">더 높은 품질이 감지되면 SD 채널을 제거하십시오.</string>
     <string name="cfg_prov_remove_tz">다른 시간대에서 채널 제거</string>
-    <string name="cfg_prov_follow_includes">재생 목록에 포함 된 팔로우</string>
     <string name="cfg_sys_settings">환경 설정</string>
     <string name="cfg_pla_hud_settings">플레이어 인터페이스</string>
     <string name="cfg_tv_guide_transparency">배경 투명도</string>
@@ -449,7 +445,6 @@
     <string name="restore_state">복원 상태</string>
 <string name="pro_studio">동시에 여러 스트림을 볼 수있는 스튜디오 모드</string>
     <string name="cfg_prov_channel_name">여러 공급자를 사용할 때 채널 이름에 공급자 이름 표시</string>
-    <string name="increase_text_size">텍스트 크기를 늘리십시오</string>
     <string name="hint_long_up_down">위쪽 및 아래쪽 화살표를 길게 누르면 더 빠른 목록 탐색이 가능합니다</string>
     <string name="pla_act_quick_seek_back_20">20 초 뒤로 탐색</string>
     <string name="pla_act_quick_seek_fwd_20">20 초 앞으로 탐색</string>
@@ -471,7 +466,6 @@
     <string name="parental_control">부모의 통제</string>
     <string name="show_different_time_frame_guide">이전 또는 이후 시간표 표시</string>
     <string name="seconds">초</string>
-    <string name="not_limited">제한되지 않음</string>
     <string name="auto_detected">자동 감지</string>
     <string name="remove">풀다</string>
     <string name="video_unsupported">이 장치에서 비디오 트랙을 재생할 수 없습니다</string>
@@ -481,7 +475,6 @@
     <string name="media_tracks_video">비디오</string>
     <string name="media_tracks_audio">오디오</string>
     <string name="media_tracks_sub">자막</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">마지막 항목으로 자동 스크롤 (터치 모드)</string>
     <string name="hint_right_archives">라이브 채널을 탐색하는 동안 오른쪽 버튼을 눌러 보관 목록을 열 수 있습니다</string>
     <string name="switch_audio_hw">하드웨어 오디오 디코더 사용</string>
     <string name="switch_audio_sw">소프트웨어 오디오 디코더 사용</string>
@@ -557,7 +550,6 @@
     <string name="reload_data">데이터 새로 고침</string>
     <string name="assume_long_buffering_as_error">긴 버퍼링이 채널 오류라고 가정</string>
     <string name="show_installation_number">설치 번호 표시</string>
-    <string name="sort_archive_by_date">보관 된 비디오를 날짜별로 정렬</string>
     <string name="simplified_mode">단순화 된 모드</string>
     <string name="hide_advanced_features">고급 기능 숨기기</string>
     <string name="select_player_to_use">재생에 사용할 플레이어를 선택하십시오</string>
@@ -663,4 +655,21 @@
     <string name="selection_bitrate">비트 레이트 별 트랙 선택</string>
     <string name="selection_bitrate_lowest">가장 낮은 비트 전송률 선호</string>
     <string name="selection_bitrate_highest">가장 높은 비트 전송률 선호</string>
+    <string name="launcher_mode">런처 모드 (앱을 종료하지 마십시오)</string>
+    <string name="current_epg_info">현재 방송에 대한 정보</string>
+    <string name="change_codec_if_no_playback">재생이 시작되지 않으면 다른 코덱을 시도 할 수 있습니다.</string>
+    <string name="player_menu_and_hud">플레이어 메뉴 및 헤드 업 디스플레이</string>
+    <string name="keep_hud_while_in_menu">메뉴가 켜져있는 동안 헤드 업 디스플레이 유지</string>
+    <string name="media_tunneling">출력 장치로 직접 미디어 트랙 터널링</string>
+    <string name="menu_qs_keep_fav">모든 제공 업체에서 즐겨 찾는 채널을 계속 표시합니다.</string>
+    <string name="list_view_side_by_side">나란히</string>
+    <string name="list_num_columns">열 수</string>
+    <string name="show_on_main_screen">메인 화면에 표시 활성화</string>
+    <string name="add_temp_stream_link">라이브러리에 스트림에 대한 임시 링크 추가</string>
+    <string name="auto_start_this_ch_on_start">앱 시작시이 채널 자동 시작 재생</string>
+    <string name="hint_themes">앱에 많은 시각적 테마가 있으며 자신에게 가장 적합한 테마를 선택할 수 있다는 것을 알고 계셨습니까?</string>
+    <string name="hint_customizing">메뉴, 목록, 색상 등 앱의 거의 모든 측면을 고도로 구성 할 수 있다는 사실을 알고 계셨습니까?</string>
+    <string name="hint_setup_keys">원하는 동작으로 조종기 버튼을 구성 할 수 있습니다.</string>
+    <string name="hint_setup_touch">다른 화면 영역에서 원하는 작업으로 두 번 탭하고 스 와이프를 구성 할 수 있습니다.</string>
+    <string name="delay_before_acting">행동 전 지연</string>
     </resources>

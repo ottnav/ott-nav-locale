@@ -1,6 +1,5 @@
 <resources><string name="press_back_once_more_to_exit">Apăsați încă o dată pentru a ieși</string>
     <string name="search_bar">Căutare pe canale sau programe</string>
-    <string name="search_bar_clue">încercați nume de filme, seriale TV, nume de emisiuni TV sau nume de actor</string>
     <string name="menu_search">Căutare video</string>
     <string name="menu_live">Transmitere live</string>
     <string name="menu_archive">Arată arhiva</string>
@@ -10,7 +9,6 @@
     <string name="menu_error_require_live_but_no_playlist_text">Nu poate fi accesat furnizorul sau lista de redare configurată. Vă rugăm să verificați din nou setările furnizorului și, dacă acestea par OK, contactați furnizorul IPTV.</string>
     <string name="browse_description_series_number">episod</string>
     <string name="browse_description_header_live">Canalele live</string>
-    <string name="browse_description_header_program">Orarul canalului</string>
     <string name="category_movies">Toate filmele</string>
     <string name="category_tv_series">Toate serialele TV</string>
     <string name="category_tv_shows">Toate emisiunile TV</string>
@@ -367,7 +365,6 @@
     <string name="pla_menu_type_grid">grilă</string>
     <string name="ch_manage_use_internal">Folosiți playerul intern</string>
     <string name="cat_manage_start_this_cat_on">Începeți din această categorie</string>
-    <string name="cfg_show_ch_desc">Arată descrierea difuzării</string>
     <string name="studio_mode_open_in">Deschideți în modul Studio</string>
     <string name="studio_mode_title">Mod Studio</string>
     <string name="studio_mode_remove">Scoateți ecranul</string>
@@ -388,7 +385,6 @@
     <string name="cfg_prov_remove_sd">Eliminați canalele SD</string>
     <string name="cfg_prov_remove_sd_hd">Înlăturați canalele SD dacă este detectată o calitate superioară</string>
     <string name="cfg_prov_remove_tz">Eliminați canalele din fusul orar diferit</string>
-    <string name="cfg_prov_follow_includes">Urmărirea include într-o listă de redare</string>
     <string name="cfg_sys_settings">Setarile sistemului</string>
     <string name="cfg_pla_hud_settings">Interfața playerului</string>
     <string name="cfg_tv_guide_transparency">Transparență de fundal</string>
@@ -399,7 +395,6 @@
     <string name="restore_state">Restaurare stare</string>
     <string name="pro_studio">Mod Studio, permițând vizionarea mai multor fluxuri în același timp</string>
     <string name="cfg_prov_channel_name">Afișați numele furnizorului în numele canalului atunci când utilizați mai mulți furnizori</string>
-    <string name="increase_text_size">creșteți dimensiunea textului</string>
     <string name="hint_long_up_down">Apăsând lung săgețile în sus și în jos permite navigarea mai rapidă în listă</string>
     <string name="pla_act_quick_seek_back_20">căutați înapoi cu 20 de secunde</string>
     <string name="pla_act_quick_seek_fwd_20">caută înainte cu 20 de secunde</string>
@@ -421,7 +416,6 @@
     <string name="parental_control">control parental</string>
     <string name="show_different_time_frame_guide">Afișează orarul anterior sau ulterior</string>
     <string name="seconds">secunde</string>
-    <string name="not_limited">nu este limitat</string>
     <string name="auto_detected">detectat automat</string>
     <string name="remove">elimina</string>
     <string name="video_unsupported">Niciuna dintre piesele video nu poate fi redată de acest dispozitiv</string>
@@ -431,7 +425,6 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Audio</string>
     <string name="media_tracks_sub">Subtitrare</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Derulare automată până la ultimul articol (în modul atingere)</string>
     <string name="hint_right_archives">Puteți apăsa butonul DREPT în timp ce navigați pe canale live pentru a deschide lista de arhive</string>
     <string name="switch_audio_hw">Folosiți decodificator audio hardware</string>
     <string name="switch_audio_sw">Folosiți decodificator audio software</string>
@@ -507,7 +500,6 @@
     <string name="reload_data">Reîncărcați datele</string>
     <string name="assume_long_buffering_as_error">Presupunem că tamponarea lungă este o eroare de canal</string>
     <string name="show_installation_number">Afișează numărul de instalare</string>
-    <string name="sort_archive_by_date">Sortează videoclipurile arhivate după dată</string>
     <string name="simplified_mode">Mod simplificat</string>
     <string name="hide_advanced_features">Ascundeți funcțiile avansate</string>
     <string name="select_player_to_use">Selectați playerul pentru a fi redat</string>
@@ -613,4 +605,21 @@
     <string name="selection_bitrate">Urmăriți selecția după bitrate</string>
     <string name="selection_bitrate_lowest">Preferă rata de biți cea mai mică</string>
     <string name="selection_bitrate_highest">Preferă cea mai mare rată de biți</string>
+    <string name="launcher_mode">Mod lansator (nu ieși din aplicație)</string>
+    <string name="current_epg_info">Informații despre difuzarea curentă</string>
+    <string name="change_codec_if_no_playback">Dacă redarea nu începe, puteți încerca un alt codec</string>
+    <string name="player_menu_and_hud">Meniul playerului și afișarea heads-up</string>
+    <string name="keep_hud_while_in_menu">Păstrați afișarea cu capul sus în timp ce meniul este activat</string>
+    <string name="media_tunneling">Urmărirea canalelor media direct către dispozitivul de ieșire</string>
+    <string name="menu_qs_keep_fav">Păstrați canalele preferate afișate de la toți furnizorii</string>
+    <string name="list_view_side_by_side">Unul langa altul</string>
+    <string name="list_num_columns">Numar de coloane</string>
+    <string name="show_on_main_screen">Activați afișarea acestuia pe ecranul principal</string>
+    <string name="add_temp_stream_link">Adăugați un link temporar la un flux în bibliotecă</string>
+    <string name="auto_start_this_ch_on_start">Redarea automată a acestui canal la pornirea aplicației</string>
+    <string name="hint_themes">Știați că aplicația are o mulțime de teme vizuale și o puteți alege pe cea care vi se potrivește cel mai bine?</string>
+    <string name="hint_customizing">Știați că aproape fiecare aspect al aplicației - meniuri, liste, culori sunt extrem de configurabile?</string>
+    <string name="hint_setup_keys">Puteți configura butoanele telecomenzii pentru orice acțiune preferabilă</string>
+    <string name="hint_setup_touch">Puteți configura atingeri duble și glisări în diferite regiuni ale ecranului pentru orice acțiune preferată</string>
+    <string name="delay_before_acting">Întârziere înainte de a acționa</string>
     </resources>

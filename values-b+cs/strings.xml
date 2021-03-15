@@ -1,6 +1,5 @@
 <resources><string name="press_back_once_more_to_exit">Stiskněte ještě jednou pro opuštění</string>
     <string name="search_bar">Vyhledávání podle kanálů nebo programů</string>
-    <string name="search_bar_clue">zkuste názvy filmů, televizních seriálů, televizních pořadů nebo herců</string>
     <string name="menu_search">Vyhledávání videa</string>
     <string name="menu_live">Živý přenos</string>
     <string name="menu_archive">Zobrazí archiv</string>
@@ -10,7 +9,6 @@
     <string name="menu_error_require_live_but_no_playlist_text">Konfigurovaného poskytovatele nebo seznamu skladeb nelze dosáhnout. Zkontrolujte znovu nastavení poskytovatele a pokud se zdá, že je v pořádku, kontaktujte svého poskytovatele IPTV.</string>
     <string name="browse_description_series_number">epizoda</string>
     <string name="browse_description_header_live">Živé kanály</string>
-    <string name="browse_description_header_program">Rozvrh kanálů</string>
     <string name="category_movies">Všechny filmy</string>
     <string name="category_tv_series">Všechny televizní seriály</string>
     <string name="category_tv_shows">Všechny televizní pořady</string>
@@ -367,7 +365,6 @@
     <string name="pla_menu_type_grid">mřížka</string>
     <string name="ch_manage_use_internal">Použijte interní přehrávač</string>
     <string name="cat_manage_start_this_cat_on">Začněte z této kategorie</string>
-    <string name="cfg_show_ch_desc">Zobrazit popis vysílání</string>
     <string name="studio_mode_open_in">Otevřít v režimu Studio</string>
     <string name="studio_mode_title">Studiový režim</string>
     <string name="studio_mode_remove">Odebrat obrazovku</string>
@@ -388,7 +385,6 @@
     <string name="cfg_prov_remove_sd">Odstraňte kanály SD</string>
     <string name="cfg_prov_remove_sd_hd">Pokud je detekována vyšší kvalita, odeberte kanály SD</string>
     <string name="cfg_prov_remove_tz">Odstraňte kanály z různých časových pásem</string>
-    <string name="cfg_prov_follow_includes">Sledovat zahrnuje v seznamu skladeb</string>
     <string name="cfg_sys_settings">Nastavení systému</string>
     <string name="cfg_pla_hud_settings">Rozhraní přehrávače</string>
     <string name="cfg_tv_guide_transparency">Průhlednost pozadí</string>
@@ -399,7 +395,6 @@
     <string name="restore_state">Obnovit stav</string>
     <string name="pro_studio">Studiový režim, který umožňuje sledovat více proudů současně</string>
     <string name="cfg_prov_channel_name">Při použití více poskytovatelů zobrazit název poskytovatele v názvu kanálu</string>
-    <string name="increase_text_size">zvětšit velikost textu</string>
     <string name="hint_long_up_down">Dlouhé stisknutí šipek nahoru a dolů umožňuje rychlejší navigaci v seznamu</string>
     <string name="pla_act_quick_seek_back_20">hledat zpět o 20 sekund</string>
     <string name="pla_act_quick_seek_fwd_20">hledejte vpřed o 20 sekund</string>
@@ -421,7 +416,6 @@
     <string name="parental_control">rodičovská kontrola</string>
     <string name="show_different_time_frame_guide">Zobrazit dřívější nebo pozdější rozvrh</string>
     <string name="seconds">sekundy</string>
-    <string name="not_limited">neomezeno</string>
     <string name="auto_detected">automaticky detekováno</string>
     <string name="remove">odstranit</string>
     <string name="video_unsupported">Toto zařízení neumožňuje přehrávání žádné video stopy</string>
@@ -431,7 +425,6 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Zvuk</string>
     <string name="media_tracks_sub">Titulky</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Automatické posouvání na poslední položku (v dotykovém režimu)</string>
     <string name="hint_right_archives">Stisknutím tlačítka VPRAVO během procházení živých kanálů můžete otevřít seznam archivů</string>
     <string name="switch_audio_hw">Použijte hardwarový zvukový dekodér</string>
     <string name="switch_audio_sw">Použijte softwarový zvukový dekodér</string>
@@ -507,7 +500,6 @@
     <string name="reload_data">Znovu načíst data</string>
     <string name="assume_long_buffering_as_error">Předpokládejme, že dlouhé ukládání do vyrovnávací paměti je chyba kanálu</string>
     <string name="show_installation_number">Zobrazit číslo instalace</string>
-    <string name="sort_archive_by_date">Seřadit archivovaná videa podle data</string>
     <string name="simplified_mode">Zjednodušený režim</string>
     <string name="hide_advanced_features">Skrýt pokročilé funkce</string>
     <string name="select_player_to_use">Vyberte přehrávač, který chcete použít pro přehrávání</string>
@@ -613,4 +605,21 @@
     <string name="selection_bitrate">Sledovat výběr podle bitrate</string>
     <string name="selection_bitrate_lowest">Upřednostňovat nejnižší přenosovou rychlost</string>
     <string name="selection_bitrate_highest">Upřednostňovat nejvyšší datový tok</string>
+    <string name="launcher_mode">Režim spouštěče (neopouštějte aplikaci)</string>
+    <string name="current_epg_info">Informace o aktuálním vysílání</string>
+    <string name="change_codec_if_no_playback">Pokud se přehrávání nespustí, můžete zkusit jiný kodek</string>
+    <string name="player_menu_and_hud">Nabídka přehrávače a heads-up displej</string>
+    <string name="keep_hud_while_in_menu">Když je nabídka zapnutá, udržujte heads-up displej</string>
+    <string name="media_tunneling">Tunelování mediálních stop přímo do výstupního zařízení</string>
+    <string name="menu_qs_keep_fav">Udržujte oblíbené kanály zobrazované od všech poskytovatelů</string>
+    <string name="list_view_side_by_side">Vedle sebe</string>
+    <string name="list_num_columns">Počet sloupců</string>
+    <string name="show_on_main_screen">Povolit zobrazování na hlavní obrazovce</string>
+    <string name="add_temp_stream_link">Přidejte dočasný odkaz na stream do knihovny</string>
+    <string name="auto_start_this_ch_on_start">Automatické spuštění přehrávání tohoto kanálu při spuštění aplikace</string>
+    <string name="hint_themes">Věděli jste, že aplikace má spoustu vizuálních témat a můžete si vybrat ten, který vám nejlépe vyhovuje?</string>
+    <string name="hint_customizing">Věděli jste, že téměř každý aspekt aplikace - nabídky, seznamy, barvy jsou vysoce konfigurovatelné?</string>
+    <string name="hint_setup_keys">Tlačítka dálkového ovladače můžete nakonfigurovat na jakoukoli preferovanou akci</string>
+    <string name="hint_setup_touch">Dvojitým klepnutím a přejetím prstem v různých oblastech obrazovky můžete nakonfigurovat libovolnou preferovanou akci</string>
+    <string name="delay_before_acting">Zpoždění před jednáním</string>
     </resources>

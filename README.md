@@ -20,6 +20,7 @@ If you wish to improve translation or add a new one - create a pull request
 + values-b+fa: فارسی
 + values-b+fr: Français
 + values-b+hi: हिंदी
++ values-b+in: Bahasa Indo
 + values-b+it: Italiano
 + values-b+iw: עברית
 + values-b+ja: 日本語

@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">Çıkmak için bir kez daha basın</string>
 
     <string name="search_bar">Kanallara veya programlara göre ara</string>
-    <string name="search_bar_clue">filmi, televizyon dizisini, televizyon şovunu veya oyuncu isimlerini deneyin</string>
 
 
     <string name="menu_search">Video arama</string>
@@ -16,7 +15,6 @@
 
     <string name="browse_description_series_number">bölüm</string>
     <string name="browse_description_header_live">Canlı kanallar</string>
-    <string name="browse_description_header_program">Kanal tarifesi</string>
 
 
     <string name="category_movies">Tüm filmler</string>
@@ -414,7 +412,6 @@
     <string name="ch_manage_use_internal">Dahili oynatıcı kullan</string>
     <string name="cat_manage_start_this_cat_on">Bu kategoriden başla</string>
 
-    <string name="cfg_show_ch_desc">Yayın açıklamasını göster</string>
     <string name="studio_mode_open_in">Stüdyo Modunda Aç</string>
     <string name="studio_mode_title">Stüdyo modu</string>
     <string name="studio_mode_remove">Ekranı kaldır</string>
@@ -435,7 +432,6 @@
     <string name="cfg_prov_remove_sd">SD kanallarını kaldır</string>
     <string name="cfg_prov_remove_sd_hd">Daha yüksek kalite tespit edilirse SD kanalları çıkarın</string>
     <string name="cfg_prov_remove_tz">Kanalları farklı saat diliminden kaldırma</string>
-    <string name="cfg_prov_follow_includes">Bir oynatma listesine dahil etme takibi</string>
     <string name="cfg_sys_settings">Sistem ayarları</string>
     <string name="cfg_pla_hud_settings">Oyuncu arayüzü</string>
     <string name="cfg_tv_guide_transparency">Arka plan saydamlığı</string>
@@ -446,7 +442,6 @@
     <string name="restore_state">Durumu geri yükle</string>
 <string name="pro_studio">Stüdyo modu, aynı anda birden fazla akışı izlemenizi sağlar</string>
     <string name="cfg_prov_channel_name">Birden fazla sağlayıcı kullanırken sağlayıcı adını kanal adında gösterme</string>
-    <string name="increase_text_size">metin boyutunu büyüt</string>
     <string name="hint_long_up_down">Yukarı ve aşağı oklara uzun basıldığında daha hızlı gezinti sağlanır</string>
     <string name="pla_act_quick_seek_back_20">20 saniye geriye doğru arama</string>
     <string name="pla_act_quick_seek_fwd_20">20 saniye ileri gitmek</string>
@@ -468,7 +463,6 @@
     <string name="parental_control">ebeveyn Kontrolü</string>
     <string name="show_different_time_frame_guide">Daha erken veya daha sonraki zaman çizelgesini göster</string>
     <string name="seconds">saniye</string>
-    <string name="not_limited">sınırsız</string>
     <string name="auto_detected">otomatik algılandı</string>
     <string name="remove">Kaldır</string>
     <string name="video_unsupported">Video izlerinin hiçbiri bu cihaz tarafından oynatılamaz</string>
@@ -478,7 +472,6 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Ses</string>
     <string name="media_tracks_sub">Altyazı</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Son öğeye otomatik kaydırma (dokunmatik modda)</string>
     <string name="hint_right_archives">Arşiv listesini açmak için canlı kanalları gezerken SAĞ düğmeye basabilirsiniz.</string>
     <string name="switch_audio_hw">Donanım ses kod çözücüsünü kullanın</string>
     <string name="switch_audio_sw">Yazılım ses kod çözücüsünü kullanın</string>
@@ -554,7 +547,6 @@
     <string name="reload_data">Verileri yeniden yükle</string>
     <string name="assume_long_buffering_as_error">Uzun tamponlamanın kanal hatası olduğunu varsayın</string>
     <string name="show_installation_number">Kurulum numarasını göster</string>
-    <string name="sort_archive_by_date">Arşivlenen videoları tarihe göre sırala</string>
     <string name="simplified_mode">Basitleştirilmiş mod</string>
     <string name="hide_advanced_features">Gelişmiş özellikleri gizle</string>
     <string name="select_player_to_use">Oynatma için kullanılacak oynatıcıyı seçin</string>
@@ -660,4 +652,21 @@
     <string name="selection_bitrate">Bit hızına göre parça seçimi</string>
     <string name="selection_bitrate_lowest">En düşük bit hızını tercih et</string>
     <string name="selection_bitrate_highest">En yüksek bit hızını tercih et</string>
+    <string name="launcher_mode">Başlatıcı modu (uygulamadan çıkmayın)</string>
+    <string name="current_epg_info">Güncel yayın hakkında bilgiler</string>
+    <string name="change_codec_if_no_playback">Oynatma başlamazsa farklı bir kod çözücü deneyebilirsiniz</string>
+    <string name="player_menu_and_hud">Oyuncu menüsü ve uyarı ekranı</string>
+    <string name="keep_hud_while_in_menu">Menü açıkken başınızı yukarıda tutun</string>
+    <string name="media_tunneling">Doğrudan çıkış cihazına medya izleme tüneli</string>
+    <string name="menu_qs_keep_fav">Tüm sağlayıcıların favori kanallarını göstermeye devam edin</string>
+    <string name="list_view_side_by_side">Yan yana</string>
+    <string name="list_num_columns">Sütun sayısı</string>
+    <string name="show_on_main_screen">Bunu ana ekranda göstermeyi etkinleştir</string>
+    <string name="add_temp_stream_link">Kitaplığa giden bir akışa geçici bağlantı ekleyin</string>
+    <string name="auto_start_this_ch_on_start">Uygulama başlangıcında bu kanalı oynatmayı otomatik başlat</string>
+    <string name="hint_themes">Uygulamanın birçok görsel temaya sahip olduğunu ve size en uygun olanı seçebileceğinizi biliyor muydunuz?</string>
+    <string name="hint_customizing">Uygulamanın hemen hemen her yönünün - menüler, listeler, renkler - son derece yapılandırılabilir olduğunu biliyor muydunuz?</string>
+    <string name="hint_setup_keys">Uzaktan kumanda düğmelerinizi tercih ettiğiniz herhangi bir eyleme yapılandırabilirsiniz</string>
+    <string name="hint_setup_touch">Tercih edilen herhangi bir eyleme farklı ekran bölgelerinde çift dokunma ve kaydırma yapılandırabilirsiniz.</string>
+    <string name="delay_before_acting">Oyunculuktan önce gecikme</string>
     </resources>

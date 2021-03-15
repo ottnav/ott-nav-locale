@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">یکبار دیگر برای خروج فشار دهید</string>
 
     <string name="search_bar">جستجو بر اساس کانال ها یا برنامه ها</string>
-    <string name="search_bar_clue">سعی کنید فیلم، سریال تلویزیونی، نام تلویزیون تلویزیونی یا نامزدهای بازیگر</string>
 
 
     <string name="menu_search">جستجو ویدیو</string>
@@ -16,7 +15,6 @@
 
     <string name="browse_description_series_number">قسمت</string>
     <string name="browse_description_header_live">کانال های زنده</string>
-    <string name="browse_description_header_program">جدول زمانی کانال</string>
 
 
     <string name="category_movies">همه فیلم ها</string>
@@ -416,7 +414,6 @@
     <string name="ch_manage_use_internal">از پخش کننده داخلی استفاده کنید</string>
     <string name="cat_manage_start_this_cat_on">از این دسته شروع کنید</string>
 
-    <string name="cfg_show_ch_desc">نمایش توضیحات پخش</string>
     <string name="studio_mode_open_in">در حالت استودیو باز کنید</string>
     <string name="studio_mode_title">حالت استودیو</string>
     <string name="studio_mode_remove">صفحه را حذف کنید</string>
@@ -437,7 +434,6 @@
     <string name="cfg_prov_remove_sd">کانال های SD را حذف کنید</string>
     <string name="cfg_prov_remove_sd_hd">در صورت تشخیص کیفیت بالاتر کانال های SD را حذف کنید</string>
     <string name="cfg_prov_remove_tz">کانال ها را از منطقه زمانی مختلف حذف کنید</string>
-    <string name="cfg_prov_follow_includes">موارد زیر را در یک لیست پخش دنبال کنید</string>
     <string name="cfg_sys_settings">تنظیمات سیستم</string>
     <string name="cfg_pla_hud_settings">رابط پخش کننده</string>
     <string name="cfg_tv_guide_transparency">شفافیت زمینه</string>
@@ -448,7 +444,6 @@
     <string name="restore_state">بازیابی حالت</string>
 <string name="pro_studio">حالت استودیو ، امکان تماشای چندین جریان همزمان</string>
     <string name="cfg_prov_channel_name">هنگام استفاده از چندین ارائه دهنده ، نام ارائه دهنده را به نام کانال نشان دهید</string>
-    <string name="increase_text_size">اندازه متن را افزایش دهید</string>
     <string name="hint_long_up_down">فشار دادن طولانی به بالا و پایین فلش اجازه می دهد تا ناوبری سریعتر در لیست قرار گیرد</string>
     <string name="pla_act_quick_seek_back_20">20 ثانیه به عقب برگردید</string>
     <string name="pla_act_quick_seek_fwd_20">20 ثانیه جلو بروید</string>
@@ -470,7 +465,6 @@
     <string name="parental_control">کنترل والدین</string>
     <string name="show_different_time_frame_guide">جدول زمانی زودتر یا دیرتر نمایش دهید</string>
     <string name="seconds">ثانیه</string>
-    <string name="not_limited">بدون محدودیت</string>
     <string name="auto_detected">خودکار شناسایی شد</string>
     <string name="remove">برداشتن</string>
     <string name="video_unsupported">هیچ یک از آهنگ های ویدیویی توسط این دستگاه قابل پخش نیست</string>
@@ -480,7 +474,6 @@
     <string name="media_tracks_video">فیلم</string>
     <string name="media_tracks_audio">سمعی</string>
     <string name="media_tracks_sub">زیرنویس ها</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">پیمایش خودکار به مورد آخر (در حالت لمسی)</string>
     <string name="hint_right_archives">می توانید دکمه RIGHT را هنگام مرور کانالهای زنده فشار دهید تا لیست بایگانی ها باز شود</string>
     <string name="switch_audio_hw">از رمزگذار صوتی سخت افزاری استفاده کنید</string>
     <string name="switch_audio_sw">از رمزگذار صوتی نرم افزار استفاده کنید</string>
@@ -556,7 +549,6 @@
     <string name="reload_data">بارگیری مجدد داده ها</string>
     <string name="assume_long_buffering_as_error">فرض کنید بافر طولانی بودن خطای کانال است</string>
     <string name="show_installation_number">نمایش شماره نصب</string>
-    <string name="sort_archive_by_date">مرتب کردن فیلم های بایگانی شده بر اساس تاریخ</string>
     <string name="simplified_mode">حالت ساده شده</string>
     <string name="hide_advanced_features">ویژگی های پیشرفته را مخفی کنید</string>
     <string name="select_player_to_use">پخش کننده را انتخاب کنید تا برای پخش استفاده کنید</string>
@@ -662,4 +654,21 @@
     <string name="selection_bitrate">ﺪﯿﻨﮐ ﯼﺮﯿﮕﯿﭘ ﺖﯿﺑ ﺥﺮﻧ ﺎﺑ ﺍﺭ ﮓﻨﻫﺁ ﺏﺎﺨﺘﻧﺍ</string>
     <string name="selection_bitrate_lowest">ﻥﺩﺍﺩ ﺢﯿﺟﺮﺗ ﺖﯿﺑ ﺥﺮﻧ ﻦﯾﺮﺗ ﻦﯿﯾﺎﭘ</string>
     <string name="selection_bitrate_highest">ﺪﯿﻫﺩ ﺢﯿﺟﺮﺗ ﺍﺭ ﺢﯿﺟﺮﺗ ﺖﯿﺑ ﻥﺍﺰﯿﻣ ﻦﯾﺮﺘﺸﯿﺑ</string>
+    <string name="launcher_mode">(ﺪﯾﻮﺸﻧ ﺝﺭﺎﺧ ﻪﻣﺎﻧﺮﺑ ﺯﺍ) ﺯﺍﺪﻧﺍ ﻩﺍﺭ ﺖﻟﺎﺣ</string>
+    <string name="current_epg_info">ﯽﻠﻌﻓ ﺶﺨﭘ ﻪﺑ ﻁﻮﺑﺮﻣ ﺕﺎﻋﻼ﻿ﻃﺍ</string>
+    <string name="change_codec_if_no_playback">ﺪﯿﻨﮐ ﻥﺎﺤﺘﻣﺍ ﺍﺭ ﯼﺮﮕﯾﺩ ﺭﺍﺬﮔﺰﻣﺭ ﺪﯿﻧﺍﻮﺗ ﯽﻣ ، ﺪﺸﻧ ﻉﻭﺮﺷ ﺶﺨﭘ ﺮﮔﺍ</string>
+    <string name="player_menu_and_hud">ﻻ﻿ﺎﺑﺮﺳ ﺮﮕﺸﯾﺎﻤﻧ ﻭ ﻩﺪﻨﻨﮐ ﺶﺨﭘ ﯼﻮﻨﻣ</string>
+    <string name="keep_hud_while_in_menu">ﺪﯿﻫﺩ ﻥﺎﺸﻧ ﻻ﻿ﺎﺑ ﻪﺑ ﺍﺭ ﺖﺳﺪﻫ ، ﺖﺳﺍ ﻦﺷﻭﺭ ﻮﻨﻣ ﻪﮐ ﯽﻣﺎﮕﻨﻫ</string>
+    <string name="media_tunneling">ﺪﻨﮐ ﯽﻣ ﯽﺑﺎﯾﺩﺭ ﯽﺟﻭﺮﺧ ﻩﺎﮕﺘﺳﺩ ﻪﺑ ﺎًﻤﯿﻘﺘﺴﻣ ﺍﺭ ﻪﻧﺎﺳﺭ ﯼﺯﺎﺳ ﻞﻧﻮﺗ</string>
+    <string name="menu_qs_keep_fav">ﺪﯾﺭﺍﺩ ﻪﮕﻧ ﻥﺎﮔﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ ﻪﻤﻫ ﺯﺍ ﺍﺭ ﺩﻮﺧ ﻪﻗﻼ﻿ﻋ ﺩﺭﻮﻣ ﯼﺎﻬﻟﺎﻧﺎﮐ</string>
+    <string name="list_view_side_by_side">ﻢﻫ ﺭﺎﻨﮐ</string>
+    <string name="list_num_columns">ﺎﻫ ﻥﻮﺘﺳ ﺩﺍﺪﻌﺗ</string>
+    <string name="show_on_main_screen">ﺪﯿﻨﮐ ﻝﺎﻌﻓ ﺍﺭ ﯽﻠﺻﺍ ﻪﺤﻔﺻ ﺭﺩ ﺩﺭﻮﻣ ﻦﯾﺍ ﺶﯾﺎﻤﻧ</string>
+    <string name="add_temp_stream_link">ﺪﯿﻨﮐ ﻪﻓﺎﺿﺍ ﻪﻧﺎﺨﺑﺎﺘﮐ ﻪﺑ ﺍﺭ ﻥﺎﯾﺮﺟ ﺖﻗﻮﻣ ﺪﻧﻮﯿﭘ</string>
+    <string name="auto_start_this_ch_on_start">شروع خودکار پخش این کانال در شروع برنامه</string>
+    <string name="hint_themes">؟ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺖﺳﺍ ﺎﻤﺷ ﺐﺳﺎﻨﻣ ﻪﮐ ﺍﺭ ﯼﺩﺭﺍﻮﻣ ﺯﺍ ﯽﮑﯾ ﺪﯿﻧﺍﻮﺗ ﯽﻣ ﺎﻤﺷ ﻭ ﺖﺳﺍ ﯼﺩﺎﯾ</string>
+    <string name="hint_customizing">؟ﺪﻨﺘﺴﻫ ﻢﯿﻈﻨﺗ ﻞﺑﺎﻗ ﺭﺎﯿﺴﺑ ﺎﻫ ﮓﻧﺭ ، ﺎﻫ ﺖﺴﯿﻟ ، ﺎﻫﻮﻨﻣ - ﻪﻣﺎﻧﺮﺑ ﯼﺎﻫ ﻪﺒﻨﺟ ﻪﻤﻫ</string>
+    <string name="hint_setup_keys">شما می توانید دکمه های کنترل از راه دور خود را برای اقدامات ترجیحی پیکربندی کنید</string>
+    <string name="hint_setup_touch">می توانید شیرهای ضربه و کشیدن مضاعف را در مناطق مختلف صفحه برای هر عملکرد دلخواه پیکربندی کنید</string>
+    <string name="delay_before_acting">ﯼﺮﮕﯾﺯﺎﺑ ﺯﺍ ﻞﺒﻗ ﺮﯿﺧﺄﺗ</string>
     </resources>

@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">Vēlreiz nospiediet, lai izietu</string>
 
     <string name="search_bar">Meklēt pēc kanāliem vai programmām</string>
-    <string name="search_bar_clue">izmēģiniet filmu, TV sērijas, TV šovu vai aktieru vārdus</string>
 
     <string name="menu_search">Video meklēšana</string>
     <string name="menu_live">Tiešraide</string>
@@ -14,7 +13,6 @@
 
     <string name="browse_description_series_number">epizode</string>
     <string name="browse_description_header_live">Dzīvi kanāli</string>
-    <string name="browse_description_header_program">Kanāla grafiks</string>
 
     <string name="category_movies">Visas filmas</string>
     <string name="category_tv_series">Visas TV sērijas</string>
@@ -415,7 +413,6 @@
     <string name="ch_manage_use_internal">Izmantojiet iekšējo atskaņotāju</string>
     <string name="cat_manage_start_this_cat_on">Sāciet no šīs kategorijas</string>
 
-    <string name="cfg_show_ch_desc">Rādīt apraides aprakstu</string>
     <string name="studio_mode_open_in">Atvērts studijas režīmā</string>
     <string name="studio_mode_title">Studijas režīms</string>
     <string name="studio_mode_remove">Noņemt ekrānu</string>
@@ -436,7 +433,6 @@
     <string name="cfg_prov_remove_sd">Noņemiet SD kanālus</string>
     <string name="cfg_prov_remove_sd_hd">Noņemiet SD kanālus, ja tiek konstatēta augstāka kvalitāte</string>
     <string name="cfg_prov_remove_tz">Noņemiet kanālus no atšķirīgas laika joslas</string>
-    <string name="cfg_prov_follow_includes">Sekot iekļauj atskaņošanas sarakstā</string>
     <string name="cfg_sys_settings">Sistēmas iestatījumi</string>
     <string name="cfg_pla_hud_settings">Spēlētāja interfeiss</string>
     <string name="cfg_tv_guide_transparency">Fona caurspīdīgums</string>
@@ -447,7 +443,6 @@
     <string name="restore_state">Atjaunot stāvokli</string>
 <string name="pro_studio">Studijas režīms, ļaujot vienlaikus skatīties vairākas straumes</string>
     <string name="cfg_prov_channel_name">Rādiet pakalpojumu sniedzēja vārdu kanāla nosaukumā, ja izmantojat vairākus pakalpojumu sniedzējus</string>
-    <string name="increase_text_size">palielināt teksta lielumu</string>
     <string name="hint_long_up_down">Ilgi nospiežot augšup un lejup vērstās bultiņas, iespējams ātrāk naviģēt sarakstā</string>
     <string name="pla_act_quick_seek_back_20">meklējiet atpakaļ par 20 sekundēm</string>
     <string name="pla_act_quick_seek_fwd_20">virzieties uz priekšu par 20 sekundēm</string>
@@ -469,7 +464,6 @@
     <string name="parental_control">vecāku kontrole</string>
     <string name="show_different_time_frame_guide">Rādīt agrāku vai vēlāku grafiku</string>
     <string name="seconds">sekundes</string>
-    <string name="not_limited">nav ierobežots</string>
     <string name="auto_detected">automātiski atklāts</string>
     <string name="remove">noņemt</string>
     <string name="video_unsupported">Nevienu no video ierakstiem šī ierīce nevar atskaņot</string>
@@ -479,7 +473,6 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Audio</string>
     <string name="media_tracks_sub">Subtitri</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Automātiska ritināšana līdz pēdējam vienumam (kontakta režīmā)</string>
     <string name="hint_right_archives">Lai atvērtu arhīvu sarakstu, tiešraides kanālu pārlūkošanas laikā varat nospiest labo pogu</string>
     <string name="switch_audio_hw">Izmantojiet aparatūras audio dekodētāju</string>
     <string name="switch_audio_sw">Izmantojiet programmatūras audio dekodētāju</string>
@@ -555,7 +548,6 @@
     <string name="reload_data">Pārlādēt datus</string>
     <string name="assume_long_buffering_as_error">Pieņemsim, ka ilga buferizācija ir kanāla kļūda</string>
     <string name="show_installation_number">Rādīt instalācijas numuru</string>
-    <string name="sort_archive_by_date">Kārtojiet arhivētos videoklipus pēc datuma</string>
     <string name="simplified_mode">Vienkāršots režīms</string>
     <string name="hide_advanced_features">Slēpt uzlabotās funkcijas</string>
     <string name="select_player_to_use">Izvēlieties atskaņotāju, kuru izmantot atskaņošanai</string>
@@ -661,4 +653,21 @@
     <string name="selection_bitrate">Dziesmas izvēle pēc bitu pārraides ātruma</string>
     <string name="selection_bitrate_lowest">Dodiet priekšroku zemākajam bitu pārraides ātrumam</string>
     <string name="selection_bitrate_highest">Dodiet priekšroku augstākajam bitu pārraides ātrumam</string>
+    <string name="launcher_mode">Palaidēja režīms (neiziet no lietotnes)</string>
+    <string name="current_epg_info">Informācija par pašreizējo apraidi</string>
+    <string name="change_codec_if_no_playback">Ja atskaņošana nesākas, varat izmēģināt citu kodeku</string>
+    <string name="player_menu_and_hud">Atskaņotāja izvēlne un heads-up displejs</string>
+    <string name="keep_hud_while_in_menu">Turiet heads-up displeju, kamēr izvēlne ir ieslēgta</string>
+    <string name="media_tunneling">Multivides ierakstu kanāls tieši uz izvades ierīci</string>
+    <string name="menu_qs_keep_fav">Saglabājiet visu pakalpojumu sniedzēju iecienītākos kanālus</string>
+    <string name="list_view_side_by_side">Blakus</string>
+    <string name="list_num_columns">Kolonnu skaits</string>
+    <string name="show_on_main_screen">Iespējojiet to rādīt galvenajā ekrānā</string>
+    <string name="add_temp_stream_link">Pievienojiet bibliotēkas straumei pagaidu saiti</string>
+    <string name="auto_start_this_ch_on_start">Automātiski sākt šī kanāla atskaņošanu, startējot lietotni</string>
+    <string name="hint_themes">Vai zinājāt, ka lietotnei ir daudz vizuālu motīvu un varat izvēlēties sev piemērotāko?</string>
+    <string name="hint_customizing">Vai zinājāt, ka gandrīz visi lietotnes aspekti - izvēlnes, saraksti, krāsas ir ļoti konfigurējami?</string>
+    <string name="hint_setup_keys">Tālvadības pults pogas var konfigurēt jebkurai vēlamajai darbībai</string>
+    <string name="hint_setup_touch">Veicot dubulto pieskārienu un vilkšanu dažādos ekrāna reģionos, varat konfigurēt jebkuru vēlamo darbību</string>
+    <string name="delay_before_acting">Kavēšanās pirms rīkoties</string>
     </resources>

@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">Pritisnite još jednom za izlaz</string>
 
     <string name="search_bar">Tražite po kanalima ili programima</string>
-    <string name="search_bar_clue">pokušajte sa imenom filma, TV serije, TV emisije ili imena glumaca</string>
 
     <string name="menu_search">Video pretraga</string>
     <string name="menu_live">Uživo prenos</string>
@@ -14,7 +13,6 @@
 
     <string name="browse_description_series_number">epizoda</string>
     <string name="browse_description_header_live">Uživo kanali</string>
-    <string name="browse_description_header_program">Raspored kanala</string>
 
     <string name="category_movies">Svi filmovi</string>
     <string name="category_tv_series">Sve TV serije</string>
@@ -408,7 +406,6 @@
     <string name="ch_manage_use_internal">Koristi interni plejer</string>
     <string name="cat_manage_start_this_cat_on">Počni od ove kategorije</string>
 
-    <string name="cfg_show_ch_desc">Prikaži opis emisije</string>
     <string name="studio_mode_open_in">Otvori u Studio Režimu</string>
     <string name="studio_mode_title">Studio Režim</string>
     <string name="studio_mode_remove">Ukloni ekran</string>
@@ -429,7 +426,6 @@
     <string name="cfg_prov_remove_sd">Ukloni SD kanale</string>
     <string name="cfg_prov_remove_sd_hd">Ukloni SD kanale ako su više rezolucije detektovane</string>
     <string name="cfg_prov_remove_tz">Ukloni kanale iz različitih vremenskih zona</string>
-    <string name="cfg_prov_follow_includes">Praćenje u plejlisti uključuje</string>
     <string name="cfg_sys_settings">Sistemska podešavanja</string>
     <string name="cfg_pla_hud_settings">Interfejs plejera</string>
     <string name="cfg_tv_guide_transparency">Transparentnost pozadine</string>
@@ -441,7 +437,6 @@
 
     <string name="pro_studio">Studio režim, omogućava gledanje više stream-ova u isto vreme</string>
     <string name="cfg_prov_channel_name">Prikaži ime provajdera na mestu imena kanala pri korišćenju više provajdera</string>
-    <string name="increase_text_size">uvećaj veličinu teksta</string>
     <string name="hint_long_up_down">Dugi pritisak na strelice gore i dole omogućuje bržu navigaciju u listama</string>
     <string name="pla_act_quick_seek_back_20">premotaj unazad 20 sekundi</string>
     <string name="pla_act_quick_seek_fwd_20">premotaj unapred 20 sekundi</string>
@@ -463,7 +458,6 @@
     <string name="parental_control">roditeljska kontrola</string>
     <string name="show_different_time_frame_guide">Prikaži raniji ili kasniji raspored</string>
     <string name="seconds">sekundi</string>
-    <string name="not_limited">nije ograničen</string>
     <string name="auto_detected">automatski detektovano</string>
     <string name="remove">ukloni</string>
     <string name="video_unsupported">Ni jedan od video zapisa se ne može reprodukovati na ovom uređaju</string>
@@ -473,7 +467,6 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Audio</string>
     <string name="media_tracks_sub">Titlovi</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Automatski skroluj do posljednje stavke (u režima dodira)</string>
     <string name="hint_right_archives">Možete pritisnuti DESNO dugme prilikom pretraživanja kanala da otvorite listu arhiva</string>
     <string name="switch_audio_hw">Koristi hardverski audio dekoder</string>
     <string name="switch_audio_sw">Koristi softverski audio dekoder</string>
@@ -549,7 +542,6 @@
     <string name="reload_data">Osveži podatke</string>
     <string name="assume_long_buffering_as_error">Smatraj dugo učitavanje greškom kanala</string>
     <string name="show_installation_number">Prikaži instalacioni broj</string>
-    <string name="sort_archive_by_date">Sortiraj arhiviranje videe prema datumu</string>
     <string name="simplified_mode">Pojednostavljeni režim</string>
     <string name="hide_advanced_features">Sakrij napredne funkcije</string>
     <string name="select_player_to_use">Izaberi plejer za reproduckiju</string>
@@ -655,4 +647,21 @@
     <string name="selection_bitrate">Праћење избора брзином преноса</string>
     <string name="selection_bitrate_lowest">Дајте предност најнижој брзини преноса</string>
     <string name="selection_bitrate_highest">Дајте предност највећој брзини преноса</string>
+    <string name="launcher_mode">Режим покретача (не излази из апликације)</string>
+    <string name="current_epg_info">Информације о тренутном емитовању</string>
+    <string name="change_codec_if_no_playback">Ако репродукција не започне, можете испробати други кодек</string>
+    <string name="player_menu_and_hud">Мени плејера и хеадс-уп приказ</string>
+    <string name="keep_hud_while_in_menu">Држите хеадс-уп приказ док је мени укључен</string>
+    <string name="media_tunneling">Тунелирање медијске стазе директно на излазни уређај</string>
+    <string name="menu_qs_keep_fav">Нека омиљени канали буду приказани од свих добављача</string>
+    <string name="list_view_side_by_side">Раме уз раме</string>
+    <string name="list_num_columns">Број колона</string>
+    <string name="show_on_main_screen">Омогућите приказивање овог на главном екрану</string>
+    <string name="add_temp_stream_link">Додајте привремену везу до тока у библиотеци</string>
+    <string name="auto_start_this_ch_on_start">Аутоматски покрени репродукцију овог канала при покретању апликације</string>
+    <string name="hint_themes">Да ли сте знали да апликација има пуно визуелних тема и да можете одабрати ону која вам највише одговара?</string>
+    <string name="hint_customizing">Да ли сте знали да се готово сваки аспект апликације - менији, листе, боје могу високо конфигурисати?</string>
+    <string name="hint_setup_keys">Дугмад даљинског управљача можете да конфигуришете на било коју пожељнију радњу</string>
+    <string name="hint_setup_touch">Можете да конфигуришете двоструке тапке и превлачења у различитим регионима екрана на било коју пожељнију радњу</string>
+    <string name="delay_before_acting">Кашњење пре глуме</string>
     </resources>

@@ -2,7 +2,6 @@
     <string name="press_back_once_more_to_exit">Tekan sekali lagi untuk keluar</string>
 
     <string name="search_bar">Cari melalui saluran atau program</string>
-    <string name="search_bar_clue">cuba filem, siri tv, nama tayangan tv, atau nama pelakon</string>
 
 
     <string name="menu_search">Carian video</string>
@@ -16,7 +15,6 @@
 
     <string name="browse_description_series_number">episod</string>
     <string name="browse_description_header_live">Saluran langsung</string>
-    <string name="browse_description_header_program">Jadual jadual</string>
 
 
     <string name="category_movies">Semua filem</string>
@@ -415,7 +413,6 @@
     <string name="ch_manage_use_internal">Gunakan pemain dalaman</string>
     <string name="cat_manage_start_this_cat_on">Mulakan dari kategori ini</string>
 
-    <string name="cfg_show_ch_desc">Tunjukkan penerangan siaran</string>
     <string name="studio_mode_open_in">Terbuka dalam Mod Studio</string>
     <string name="studio_mode_title">Mod studio</string>
     <string name="studio_mode_remove">Keluarkan skrin</string>
@@ -436,7 +433,6 @@
     <string name="cfg_prov_remove_sd">Alih keluar saluran SD</string>
     <string name="cfg_prov_remove_sd_hd">Alih keluar saluran SD jika kualiti yang lebih tinggi dikesan</string>
     <string name="cfg_prov_remove_tz">Alih keluar saluran dari zon masa yang berbeza</string>
-    <string name="cfg_prov_follow_includes">Ikut termasuk dalam senarai main</string>
     <string name="cfg_sys_settings">Tetapan sistem</string>
     <string name="cfg_pla_hud_settings">Antara muka pemain</string>
     <string name="cfg_tv_guide_transparency">Ketelusan latar belakang</string>
@@ -447,7 +443,6 @@
     <string name="restore_state">Pulihkan keadaan</string>
     <string name="pro_studio">Mod studio, membolehkan menonton pelbagai aliran pada masa yang sama</string>
     <string name="cfg_prov_channel_name">Tunjukkan nama penyedia dalam nama saluran apabila menggunakan berbilang pembekal</string>
-    <string name="increase_text_size">meningkatkan saiz teks</string>
     <string name="hint_long_up_down">Anak panah menekan ke atas dan ke bawah membolehkan navigasi senarai lebih cepat</string>
     <string name="pla_act_quick_seek_back_20">cari ke belakang dengan 20 saat</string>
     <string name="pla_act_quick_seek_fwd_20">cari ke hadapan sebanyak 20 saat</string>
@@ -469,7 +464,6 @@
     <string name="parental_control">kawalan ibu bapa</string>
     <string name="show_different_time_frame_guide">Tunjukkan jadual waktu atau lebih awal</string>
     <string name="seconds">detik</string>
-    <string name="not_limited">tidak terhad</string>
     <string name="auto_detected">auto dikesan</string>
     <string name="remove">keluarkan</string>
     <string name="video_unsupported">Tiada trek video boleh dimainkan oleh peranti ini</string>
@@ -479,7 +473,6 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Audio</string>
     <string name="media_tracks_sub">Sarikata</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Tatal auto ke item terakhir (dalam mod sentuh)</string>
     <string name="hint_right_archives">Anda boleh menekan butang KANAN semasa menyemak imbas saluran secara langsung untuk membuka senarai arkib</string>
     <string name="switch_audio_hw">Gunakan penyahkod audio perkakasan</string>
     <string name="switch_audio_sw">Gunakan perisian decoder audio</string>
@@ -555,7 +548,6 @@
     <string name="reload_data">Muat semula data</string>
     <string name="assume_long_buffering_as_error">Anggapkan penimbalan panjang menjadi ralat saluran</string>
     <string name="show_installation_number">Tunjukkan nombor pemasangan</string>
-    <string name="sort_archive_by_date">Isih video yang diarkib mengikut tarikh</string>
     <string name="simplified_mode">Mod mudah</string>
     <string name="hide_advanced_features">Sembunyikan ciri lanjutan</string>
     <string name="select_player_to_use">Pilih pemain untuk digunakan untuk main balik</string>
@@ -661,4 +653,21 @@
     <string name="selection_bitrate">Jejak pemilihan mengikut kadar bit</string>
     <string name="selection_bitrate_lowest">Lebih suka kadar bit terendah</string>
     <string name="selection_bitrate_highest">Lebih suka kadar bit tertinggi</string>
+    <string name="launcher_mode">Mod pelancar (jangan keluar aplikasi)</string>
+    <string name="current_epg_info">Maklumat mengenai siaran semasa</string>
+    <string name="change_codec_if_no_playback">Sekiranya main balik tidak bermula, anda boleh mencuba codec yang lain</string>
+    <string name="player_menu_and_hud">Menu pemain dan paparan pendahuluan</string>
+    <string name="keep_hud_while_in_menu">Terus paparkan kepala semasa menu dihidupkan</string>
+    <string name="media_tunneling">Terowong jejak media terus ke peranti output</string>
+    <string name="menu_qs_keep_fav">Pastikan saluran kegemaran ditunjukkan dari semua penyedia</string>
+    <string name="list_view_side_by_side">Sebelah menyebelah</string>
+    <string name="list_num_columns">Bilangan lajur</string>
+    <string name="show_on_main_screen">Dayakan menunjukkan ini di skrin utama</string>
+    <string name="add_temp_stream_link">Tambahkan pautan sementara ke aliran ke perpustakaan</string>
+    <string name="auto_start_this_ch_on_start">Mulakan secara automatik main balik saluran ini pada permulaan aplikasi</string>
+    <string name="hint_themes">Adakah anda tahu bahawa aplikasi ini mempunyai banyak tema visual dan anda boleh memilih yang paling sesuai dengan anda?</string>
+    <string name="hint_customizing">Adakah anda tahu bahawa hampir setiap aspek aplikasi - menu, senarai, warna sangat boleh dikonfigurasi?</string>
+    <string name="hint_setup_keys">Anda boleh mengkonfigurasi butang alat kawalan jauh ke tindakan yang lebih baik</string>
+    <string name="hint_setup_touch">Anda boleh mengkonfigurasi ketukan dua kali dan sapu di kawasan skrin yang berlainan untuk tindakan yang lebih baik</string>
+    <string name="delay_before_acting">Kelewatan sebelum bertindak</string>
     </resources>
