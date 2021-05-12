@@ -1,10 +1,10 @@
-<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="en">
     <string name="press_back_once_more_to_exit">Press once more to exit</string>
 
     <string name="search_bar">Search by channels or programs</string>
-    <string name="search_bar_clue">try movie, tv-series, tv-show name, or actor names</string>
 
-    <string name="menu_search">Video search</string>
+    <string name="menu_search">Search</string>
     <string name="menu_live">Live stream</string>
     <string name="menu_archive">Shows archive</string>
     <string name="menu_settings">Settings</string>
@@ -14,7 +14,6 @@
 
     <string name="browse_description_series_number">episode</string>
     <string name="browse_description_header_live">Live channels</string>
-    <string name="browse_description_header_program">Channel timetable</string>
 
     <string name="category_movies">All movies</string>
     <string name="category_tv_series">All TV-series</string>
@@ -28,7 +27,6 @@
     <string name="category_by_favorite">Favorite</string>
     <string name="category_desc_movies">automatic filter from all channels</string>
     <string name="category_desc_tv_series">automatic filter from all channels</string>
-    <string name="category_desc_exact_tv_series">tv-series</string>
     <string name="category_desc_tv_shows">automatic filter from all channels</string>
     <string name="category_desc_exact_tv_shows">TV-show</string>
     <string name="category_desc_tv_channel">TV channel</string>
@@ -155,7 +153,7 @@
     <string name="settings_palette_style">Color palette scheme</string>
 
     <string name="settings_ui_screen_margins">Screen margins</string>
-    <string name="settings_ui_language">Language (if not set, uses default)</string>
+    <string name="settings_ui_language">App language</string>
 
     <string name="settings_codec">Codecs settings</string>
     <string name="settings_codec_hard">Always use hardware codecs</string>
@@ -200,7 +198,6 @@
     <string name="cfg_trans_wind">Use transparent interface</string>
 
     <string name="do_not_show">do not show</string>
-    <string name="android_not_genuine">Purchases might not work on your device.</string>
     <string name="spread_title">Like the app? Spread the word!</string>
     <string name="spread_btn_rate">Rate app with five stars</string>
     <string name="spread_btn_share">Share app link with a friend</string>
@@ -214,7 +211,6 @@
     <string name="invalid_domain">Domain is probably invalid. Check your input</string>
     <string name="example">Example</string>
     <string name="provider_generic">Generic provider or playlist</string>
-    <string name="watched">Watched:</string>
     <string name="btn_search">Search</string>
     <string name="premium_fea_6">Send stream to a wireless display</string>
     <string name="wifi_display">Wireless display</string>
@@ -303,7 +299,7 @@
     <string name="cfg_play_deny_status">Do not show stream status</string>
     <string name="cfg_player_hud">Style of heads-up interface</string>
     <string name="cfg_player_hud_1">Top and bottom</string>
-    <string name="cfg_player_hide_menu">Timeout to hide menu (in seconds)</string>
+    <string name="cfg_player_hide_menu">Timeout to hide menu</string>
     <string name="choose_auto">Choose automatically</string>
     <string name="cfg_stream_tech">Stream technology (if available)</string>
 
@@ -409,7 +405,6 @@
     <string name="ch_manage_use_internal">Use internal player</string>
     <string name="cat_manage_start_this_cat_on">Start from this category</string>
 
-    <string name="cfg_show_ch_desc">Show broadcast description</string>
     <string name="studio_mode_open_in">Open in Studio Mode</string>
     <string name="studio_mode_title">Studio mode</string>
     <string name="studio_mode_remove">Remove screen</string>
@@ -430,7 +425,6 @@
     <string name="cfg_prov_remove_sd">Remove SD channels</string>
     <string name="cfg_prov_remove_sd_hd">Remove SD channels if higher quality detected</string>
     <string name="cfg_prov_remove_tz">Remove channels from different timezone</string>
-    <string name="cfg_prov_follow_includes">Follow includes in a playlist</string>
     <string name="cfg_sys_settings">System settings</string>
     <string name="cfg_pla_hud_settings">Player interface</string>
     <string name="cfg_tv_guide_transparency">Background transparency</string>
@@ -442,7 +436,6 @@
 
     <string name="pro_studio">Studio mode, allowing to watch multiple streams at the same time</string>
     <string name="cfg_prov_channel_name">Show provider name in channel name when using multiple providers</string>
-    <string name="increase_text_size">increase text size</string>
     <string name="hint_long_up_down">Long pressing up and down arrows allows faster list navigation</string>
     <string name="pla_act_quick_seek_back_20">seek backwards by 20 seconds</string>
     <string name="pla_act_quick_seek_fwd_20">seek forward by 20 seconds</string>
@@ -462,9 +455,7 @@
     <string name="long_press">long pressing</string>
     <string name="hours">hours</string>
     <string name="parental_control">parental control</string>
-    <string name="show_different_time_frame_guide">Show earlier or later timetable</string>
     <string name="seconds">seconds</string>
-    <string name="not_limited">not limited</string>
     <string name="auto_detected">auto detected</string>
     <string name="remove">remove</string>
     <string name="video_unsupported">None of the video tracks are playable by this device</string>
@@ -474,7 +465,6 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Audio</string>
     <string name="media_tracks_sub">Subtitles</string>
-    <string name="cfg_lists_auto_scroll_to_last_touch">Auto scroll to last item (in touch mode)</string>
     <string name="hint_right_archives">You can press RIGHT button while browsing live channels to open archives list</string>
     <string name="switch_audio_hw">Use hardware audio decoder</string>
     <string name="switch_audio_sw">Use software audio decoder</string>
@@ -531,7 +521,6 @@
     <string name="contact_dev">Contact developer</string>
     <string name="with_stats">Allow sending anonymous statistics to improve the app</string>
     <string name="last_epg_load_ok">Last successful EPG loading info</string>
-    <string name="mass_add_chls_to_this_cat">Add channels to this category</string>
     <string name="minutes_ago_10">10 minutes ago</string>
     <string name="time_warp">Time warp</string>
     <string name="show_dir_sep_from_videos">Show directories separately from videos</string>
@@ -550,7 +539,6 @@
     <string name="reload_data">Reload data</string>
     <string name="assume_long_buffering_as_error">Assume long buffering being a channel error</string>
     <string name="show_installation_number">Show installation number</string>
-    <string name="sort_archive_by_date">Sort archived videos by date</string>
     <string name="simplified_mode">Simplified mode</string>
     <string name="hide_advanced_features">Hide advanced features</string>
     <string name="select_player_to_use">Select player to use for playback</string>
@@ -589,7 +577,6 @@
     <string name="enabled_modules">Enabled modules</string>
     <string name="replace_provider_order_abc">Replace provider channel order to order by alphabet</string>
     <string name="nothing_to_backup">No data to backup!</string>
-    <string name="qr_code_desc">You can scan code using camera app on your phone. Or, since the code has been copied to clipboard, you can just paste it in another app.</string>
     <string name="next_page">Next page</string>
     <string name="user_exp_level">User experience level</string>
     <string name="user_exp_mode_normal">Normal mode</string>
@@ -656,4 +643,31 @@
     <string name="selection_bitrate">Track selection by bitrate</string>
     <string name="selection_bitrate_lowest">Prefer lowest bitrate</string>
     <string name="selection_bitrate_highest">Prefer highest bitrate</string>
+    <string name="launcher_mode">Launcher mode (do not exit app)</string>
+    <string name="current_epg_info">Information about current broadcast</string>
+    <string name="change_codec_if_no_playback">If playback does not start you can try a different codec</string>
+    <string name="player_menu_and_hud">Player menu and heads-up-display</string>
+    <string name="keep_hud_while_in_menu">Keep heads-up-display while menu is on</string>
+    <string name="media_tunneling">Media track tunneling directly to output device</string>
+    <string name="menu_qs_keep_fav">Keep favorite channels shown from all providers</string>
+    <string name="list_view_side_by_side">Side-by-side</string>
+    <string name="list_num_columns">Number of columns</string>
+    <string name="show_on_main_screen">Enable showing this on main screen</string>
+    <string name="add_temp_stream_link">Add temporary link to a stream to the library</string>
+    <string name="auto_start_this_ch_on_start">Auto-start playback of this channel on app start</string>
+    <string name="hint_themes">Did you know that the app has lots of visual themes and you can choose the one that suits you best?</string>
+    <string name="hint_customizing">Did you know that almost every aspect of the app - menus, lists, colors are highly configurable?</string>
+    <string name="hint_setup_keys">You can configure your remote controller buttons to any preferable action</string>
+    <string name="hint_setup_touch">You can configure double taps and swipes in different screen regions to any preferable action</string>
+    <string name="delay_before_acting">Delay before acting</string>
+    <string name="select_category">Select category</string>
+    <string name="launcher_button">Launcher buttons</string>
+    <string name="track_language">Track language</string>
+    <string name="track_language_list">Comma-separated list of language codes</string>
+    <string name="fold_ch_pri_suffixes">Preferred name suffixes to be used when folding list of channels</string>
+    <string name="fold_ch_by">What to consider when merging</string>
+    <string name="place_in_other_category">Place into a different category</string>
+    <string name="yesterday">yesterday</string>
+    <string name="tomorrow">tomorrow</string>
+    <string name="show_ip_address">Show IP address</string>
 </resources>

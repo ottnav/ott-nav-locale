@@ -26,7 +26,6 @@
     <string name="category_by_favorite">按收藏分类</string>
     <string name="category_desc_movies">自动分类</string>
     <string name="category_desc_tv_series">自动分类</string>
-    <string name="category_desc_exact_tv_series">电视剧</string>
     <string name="category_desc_tv_shows">自动分类</string>
     <string name="category_desc_exact_tv_shows">电视节目</string>
     <string name="category_desc_tv_channel">电视频道</string>
@@ -197,7 +196,6 @@
     <string name="cfg_trans_wind">透明界面</string>
 
     <string name="do_not_show">不再显示</string>
-    <string name="android_not_genuine">您的设备无法完成支付。</string>
     <string name="spread_title">喜欢本应用程序？放肆宣传吧！</string>
     <string name="spread_btn_rate">记得给5星好评！</string>
     <string name="spread_btn_share">将应用分享给好友</string>
@@ -211,7 +209,6 @@
     <string name="invalid_domain">您输入的域名无效</string>
     <string name="example">示例</string>
     <string name="provider_generic">通用供应商或播放列表</string>
-    <string name="watched">您已看过:</string>
     <string name="btn_search">搜索</string>
     <string name="premium_fea_6">无线投屏</string>
     <string name="wifi_display">无线显示</string>
@@ -455,7 +452,6 @@
     <string name="long_press">长期紧迫</string>
     <string name="hours">小时</string>
     <string name="parental_control">家长控制</string>
-    <string name="show_different_time_frame_guide">显示更早或更晚的时间表</string>
     <string name="seconds">秒</string>
     <string name="auto_detected">自动检测到</string>
     <string name="remove">去掉</string>
@@ -522,7 +518,6 @@
     <string name="contact_dev">与开发者联系</string>
     <string name="with_stats">允许发送匿名统计信息以改善应用程序</string>
     <string name="last_epg_load_ok">上次成功的EPG加载信息</string>
-    <string name="mass_add_chls_to_this_cat">将频道添加到此类别</string>
     <string name="minutes_ago_10">10分钟前</string>
     <string name="time_warp">时间扭曲</string>
     <string name="show_dir_sep_from_videos">与视频分开显示目录</string>
@@ -579,7 +574,6 @@
     <string name="enabled_modules">启用的模块</string>
     <string name="replace_provider_order_abc">将供应商渠道订单替换为按字母排序</string>
     <string name="nothing_to_backup">没有要备份的数据！</string>
-    <string name="qr_code_desc">您可以使用手机上的相机应用程序扫描代码。或者，由于代码已复制到剪贴板，因此您可以将其粘贴到另一个应用程序中。</string>
     <string name="next_page">下一页</string>
     <string name="user_exp_level">用户体验水平</string>
     <string name="user_exp_mode_normal">正常模式</string>
@@ -663,4 +657,14 @@
     <string name="hint_setup_keys">您可以将遥控器按钮配置为任何可取的动作</string>
     <string name="hint_setup_touch">您可以在不同的屏幕区域中配置双击和滑动，以执行任何可取的操作</string>
     <string name="delay_before_acting">行动延迟</string>
+    <string name="select_category">选择类别</string>
+    <string name="launcher_button">启动器按钮</string>
+    <string name="track_language">追踪语言</string>
+    <string name="track_language_list">以逗号分隔的语言代码列表</string>
+    <string name="fold_ch_pri_suffixes">折叠频道列表时使用的首选名称后缀</string>
+    <string name="fold_ch_by">合并时要考虑的事项</string>
+    <string name="place_in_other_category">放入其他类别</string>
+    <string name="yesterday">昨天</string>
+    <string name="tomorrow">明天</string>
+    <string name="show_ip_address">显示IP地址</string>
     </resources>

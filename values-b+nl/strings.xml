@@ -22,7 +22,6 @@
     <string name="category_by_favorite">Favoriete</string>
     <string name="category_desc_movies">Automatisch filteren van alle kanalen</string>
     <string name="category_desc_tv_series">Automatisch filteren van alle kanalen</string>
-    <string name="category_desc_exact_tv_series">TV-series</string>
     <string name="category_desc_tv_shows">Automatisch filter van alle kanalen</string>
     <string name="category_desc_exact_tv_shows">TV-programma\'s</string>
     <string name="category_desc_tv_channel">TV-kanaal</string>
@@ -167,7 +166,6 @@
     <string name="cfg_play_action_btn_archive_as_live">Gebruik dezelfde instelling tijdens het bekijken van archieven (schakelt het zoeken uit met de knoppen links en rechts)</string>
     <string name="cfg_trans_wind">Gebruik transparante interface</string>
     <string name="do_not_show">niet laten zien</string>
-    <string name="android_not_genuine">Aankopen werken mogelijk niet op uw apparaat.</string>
     <string name="spread_title">Ben je tevreden over deze app? Vertel het verder!</string>
     <string name="spread_btn_rate">Beoordeel app met vijf sterren</string>
     <string name="spread_btn_share">Deel de app-link met een vriend</string>
@@ -181,7 +179,6 @@
     <string name="invalid_domain">Domein is waarschijnlijk ongeldig. Controleer je invoer</string>
     <string name="example">Voorbeeld</string>
     <string name="provider_generic">Algemene provider of afspeellijst</string>
-    <string name="watched">Heeft bekeken:</string>
     <string name="btn_search">Zoeken</string>
     <string name="premium_fea_6">Stuur stream naar een draadloos scherm</string>
     <string name="wifi_display">Draadloos beeldscherm</string>
@@ -415,7 +412,6 @@
     <string name="long_press">lang indrukken</string>
     <string name="hours">uur</string>
     <string name="parental_control">ouderlijk toezicht</string>
-    <string name="show_different_time_frame_guide">Toon eerder of later tijdschema</string>
     <string name="seconds">seconden</string>
     <string name="auto_detected">automatisch gedetecteerd</string>
     <string name="remove">verwijderen</string>
@@ -482,7 +478,6 @@
     <string name="contact_dev">Neem contact op met ontwikkelaar</string>
     <string name="with_stats">Sta het verzenden van anonieme statistieken toe om deze app te verbeteren</string>
     <string name="last_epg_load_ok">Laatste succesvolle EPG-laadinformatie</string>
-    <string name="mass_add_chls_to_this_cat">Voeg kanalen toe aan deze categorie</string>
     <string name="minutes_ago_10">10 minuten geleden</string>
     <string name="time_warp">Tijdsprong</string>
     <string name="show_dir_sep_from_videos">Toon mappen afzonderlijk van video\'s</string>
@@ -539,7 +534,6 @@
     <string name="enabled_modules">Ingeschakelde modules</string>
     <string name="replace_provider_order_abc">Vervang de volgorde van het provider-kanaal door alfabetische volgorde</string>
     <string name="nothing_to_backup">Geen gegevens om een back-up van te maken!</string>
-    <string name="qr_code_desc">U kunt code scannen met de camera-app op uw telefoon. Als de code naar het klembord is gekopieerd, kunt u deze gewoon in een andere app plakken.</string>
     <string name="next_page">Volgende bladzijde</string>
     <string name="user_exp_level">Gebruikerservaringsniveau</string>
     <string name="user_exp_mode_normal">Normale modus</string>
@@ -623,4 +617,14 @@
     <string name="hint_setup_keys">U kunt de knoppen van uw afstandsbediening configureren voor elke gewenste actie</string>
     <string name="hint_setup_touch">U kunt dubbele tikken en vegen in verschillende schermgebieden configureren voor elke gewenste actie</string>
     <string name="delay_before_acting">Vertraging voordat u handelt</string>
+    <string name="select_category">Selecteer categorie</string>
+    <string name="launcher_button">Launcher-knoppen</string>
+    <string name="track_language">Track taal</string>
+    <string name="track_language_list">Door komma\'s gescheiden lijst met taalcodes</string>
+    <string name="fold_ch_pri_suffixes">Voorkeursnaamachtervoegsels die worden gebruikt bij het samenvouwen van de lijst met kanalen</string>
+    <string name="fold_ch_by">Waar u op moet letten bij het samenvoegen</string>
+    <string name="place_in_other_category">Plaats in een andere categorie</string>
+    <string name="yesterday">gisteren</string>
+    <string name="tomorrow">morgen</string>
+    <string name="show_ip_address">Toon IP-adres</string>
     </resources>

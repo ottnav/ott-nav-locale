@@ -29,7 +29,6 @@
     <string name="category_by_favorite">Favorit</string>
     <string name="category_desc_movies">automatischer Filter von allen Kanälen</string>
     <string name="category_desc_tv_series">automatischer Filter von allen Kanälen</string>
-    <string name="category_desc_exact_tv_series">Fernsehserie</string>
     <string name="category_desc_tv_shows">automatischer Filter von allen Kanälen</string>
     <string name="category_desc_exact_tv_shows">Fernsehsendung</string>
     <string name="category_desc_tv_channel">Fernsehkanal</string>
@@ -204,7 +203,6 @@
     <string name="cfg_trans_wind">transparente Oberfläche benutzen</string>
 
     <string name="do_not_show">nicht zeigen</string>
-    <string name="android_not_genuine">Käufe funktionieren möglicherweise nicht auf Ihrem Gerät.</string>
     <string name="spread_title">Gefällt Dir OTT-Navigator? Teile weiter :)</string>
     <string name="spread_btn_rate">Bewerte App mit fünf Sternen</string>
     <string name="spread_btn_share">App-Link mit einem Freund teilen</string>
@@ -218,7 +216,6 @@
     <string name="invalid_domain">Domain ist wahrscheinlich ungültig. Eingabe überprüfen</string>
     <string name="example">Beispiel</string>
     <string name="provider_generic">Benutzerdefinierte Anbieter oder Playliste</string>
-    <string name="watched">bereits angesehen</string>
     <string name="btn_search">Suche</string>
     <string name="premium_fea_6">Sende Übertragung an kabelloser Bildschirm</string>
     <string name="wifi_display">Kabelloser Bildschirm</string>
@@ -462,7 +459,6 @@
     <string name="long_press">lang drücken</string>
     <string name="hours">Std</string>
     <string name="parental_control">elterliche Kontrolle</string>
-    <string name="show_different_time_frame_guide">Zeige früheren oder späteren Stundenplan</string>
     <string name="seconds">Sekunden</string>
     <string name="auto_detected">automatisch erkannt</string>
     <string name="remove">Löschen</string>
@@ -529,7 +525,6 @@
     <string name="contact_dev">Entwickler kontaktieren</string>
     <string name="with_stats">Ermöglichen Sie das Senden anonymer Statistiken zur Verbesserung der App</string>
     <string name="last_epg_load_ok">Letzter erfolgreicher EPG-Ladevorgang</string>
-    <string name="mass_add_chls_to_this_cat">Füge Kanäle zu dieser Kategorie hinzu</string>
     <string name="minutes_ago_10">vor 10 Minuten</string>
     <string name="time_warp">Zeitsprung</string>
     <string name="show_dir_sep_from_videos">Verzeichnisse getrennt von Videos anzeigen</string>
@@ -586,7 +581,6 @@
     <string name="enabled_modules">Aktivierte Module</string>
     <string name="replace_provider_order_abc">Ersetzen Sie die Reihenfolge der Anbieterkanäle nach Alphabet</string>
     <string name="nothing_to_backup">Keine Daten zum Sichern!</string>
-    <string name="qr_code_desc">Sie können Code mit der Kamera-App auf Ihrem Telefon scannen. Da der Code in die Zwischenablage kopiert wurde, können Sie ihn einfach in eine andere App einfügen.</string>
     <string name="next_page">Nächste Seite</string>
     <string name="user_exp_level">User Experience Level</string>
     <string name="user_exp_mode_normal">Normaler Modus</string>
@@ -670,4 +664,14 @@
     <string name="hint_setup_keys">Sie können die Tasten Ihrer Fernbedienung für eine beliebige Aktion konfigurieren</string>
     <string name="hint_setup_touch">Sie können doppelte Taps und Swipes in verschiedenen Bildschirmbereichen für jede bevorzugte Aktion konfigurieren</string>
     <string name="delay_before_acting">Verzögerung vor dem Handeln</string>
+    <string name="select_category">Kategorie wählen</string>
+    <string name="launcher_button">Launcher-Schaltflächen</string>
+    <string name="track_language">Sprache verfolgen</string>
+    <string name="track_language_list">Durch Kommas getrennte Liste von Sprachcodes</string>
+    <string name="fold_ch_pri_suffixes">Bevorzugte Namenssuffixe, die beim Falten der Kanalliste verwendet werden</string>
+    <string name="fold_ch_by">Was beim Zusammenführen zu beachten ist</string>
+    <string name="place_in_other_category">In eine andere Kategorie einordnen</string>
+    <string name="yesterday">gestern</string>
+    <string name="tomorrow">Morgen</string>
+    <string name="show_ip_address">IP-Adresse anzeigen</string>
     </resources>

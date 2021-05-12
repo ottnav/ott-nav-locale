@@ -30,7 +30,6 @@
     <string name="category_by_favorite">Mėgstami</string>
     <string name="category_desc_movies">automatinis filtras pagal visus filmus</string>
     <string name="category_desc_tv_series">automatinis filtras pagal visus serialus</string>
-    <string name="category_desc_exact_tv_series">serialas</string>
     <string name="category_desc_tv_shows">automatinis filtras pagal visas laidas</string>
     <string name="category_desc_exact_tv_shows">laida</string>
     <string name="category_desc_tv_channel">kanalas</string>
@@ -208,7 +207,6 @@
 
 
     <string name="do_not_show">ne rodyti</string>
-    <string name="android_not_genuine">Pirkiniai gali būti nesuderinami su Jūsų įrenginiu.</string>
     <string name="spread_title">Patinka programa? Papasakokite kitiems!</string>
     <string name="spread_btn_rate">Įvertinti 5 žvaigždutėmis</string>
     <string name="spread_btn_share">Pasidalinti programa su draugu</string>
@@ -222,7 +220,6 @@
     <string name="invalid_domain">Tikėtina, kad  domenas neteisingas. Patikrinkite savo nustatymus.</string>
     <string name="example">Pavyzdys</string>
     <string name="provider_generic">Bendras tiekėjas arba grojaraštis</string>
-    <string name="watched">Peržiūrėta:</string>
     <string name="btn_search">Paieška</string>
     <string name="premium_fea_6">Perduoti srautą belaidžiu projektavimu</string>
     <string name="wifi_display">Belaidis projektavimas</string>
@@ -467,7 +464,6 @@
     <string name="long_press">ilgai spaudžiant</string>
     <string name="hours">valandos</string>
     <string name="parental_control">tėvų kontrolė</string>
-    <string name="show_different_time_frame_guide">Rodyti ankstesnį ar vėlesnį tvarkaraštį</string>
     <string name="seconds">sekundžių</string>
     <string name="auto_detected">automatinis aptikimas</string>
     <string name="remove">pašalinti</string>
@@ -534,7 +530,6 @@
     <string name="contact_dev">Kreipkitės į kūrėją</string>
     <string name="with_stats">Leisti siųsti anoniminę statistiką, kad patobulintumėte programą</string>
     <string name="last_epg_load_ok">Paskutinė sėkminga informacija apie EPG pakrovimą</string>
-    <string name="mass_add_chls_to_this_cat">Įtraukite kanalus į šią kategoriją</string>
     <string name="minutes_ago_10">Prieš 10 minučių</string>
     <string name="time_warp">Laiko metmenys</string>
     <string name="show_dir_sep_from_videos">Rodyti katalogus atskirai nuo vaizdo įrašų</string>
@@ -591,7 +586,6 @@
     <string name="enabled_modules">Įgalinti moduliai</string>
     <string name="replace_provider_order_abc">Pakeiskite teikėjo kanalo užsakymą, kad užsakytumėte abėcėlės tvarka</string>
     <string name="nothing_to_backup">Nėra atsarginių duomenų!</string>
-    <string name="qr_code_desc">Kodą galite nuskaityti naudodami fotoaparato programą telefone. Arba, kadangi kodas nukopijuotas į mainų sritį, galite tiesiog įklijuoti jį kitoje programoje.</string>
     <string name="next_page">Kitas puslapis</string>
     <string name="user_exp_level">Vartotojo patirties lygis</string>
     <string name="user_exp_mode_normal">Normalus režimas</string>
@@ -675,4 +669,14 @@
     <string name="hint_setup_keys">Nuotolinio valdymo pulto mygtukus galite sukonfigūruoti atlikdami bet kokį pageidaujamą veiksmą</string>
     <string name="hint_setup_touch">Galite konfigūruoti dvigubus bakstelėjimus ir perbraukimus skirtinguose ekrano regionuose, norėdami atlikti bet kurį pageidaujamą veiksmą</string>
     <string name="delay_before_acting">Delskite prieš vaidindami</string>
+    <string name="select_category">Pasirinkite kategoriją</string>
+    <string name="launcher_button">Paleidimo priemonės mygtukai</string>
+    <string name="track_language">Takelio kalba</string>
+    <string name="track_language_list">Kableliais atskirtas kalbos kodų sąrašas</string>
+    <string name="fold_ch_pri_suffixes">Pageidaujamos vardų priesagos, kurios bus naudojamos lankstant kanalų sąrašą</string>
+    <string name="fold_ch_by">Į ką reikėtų atsižvelgti jungiantis</string>
+    <string name="place_in_other_category">Priskirkite kitai kategorijai</string>
+    <string name="yesterday">vakar</string>
+    <string name="tomorrow">rytoj</string>
+    <string name="show_ip_address">Rodyti IP adresą</string>
     </resources>

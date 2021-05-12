@@ -21,7 +21,6 @@
     <string name="category_by_favorite">любим</string>
     <string name="category_desc_movies">автоматичен филтър от всички канали</string>
     <string name="category_desc_tv_series">автоматичен филтър от всички канали</string>
-    <string name="category_desc_exact_tv_series">телевизионен сериал</string>
     <string name="category_desc_tv_shows">автоматичен филтър от всички канали</string>
     <string name="category_desc_exact_tv_shows">ТВ предаване</string>
     <string name="category_desc_tv_channel">ТВ канал</string>
@@ -166,7 +165,6 @@
     <string name="cfg_play_action_btn_archive_as_live">Използвайте същата настройка, докато гледате архиви (ще деактивирате търсенето с левия и десния бутон)</string>
     <string name="cfg_trans_wind">Използвайте прозрачен интерфейс</string>
     <string name="do_not_show">не показвай</string>
-    <string name="android_not_genuine">Покупките може да не работят на вашето устройство.</string>
     <string name="spread_title">Харесва ли ви приложението? Разпространете думата!</string>
     <string name="spread_btn_rate">Оценете приложението с пет звезди</string>
     <string name="spread_btn_share">Споделете връзка с приложението с приятел</string>
@@ -180,7 +178,6 @@
     <string name="invalid_domain">Домейнът вероятно е невалиден. Проверете вашия вход</string>
     <string name="example">пример</string>
     <string name="provider_generic">Общ доставчик или плейлист</string>
-    <string name="watched">Гледах:</string>
     <string name="btn_search">Търсене</string>
     <string name="premium_fea_6">Изпращане на поток към безжичен дисплей</string>
     <string name="wifi_display">Безжичен дисплей</string>
@@ -414,7 +411,6 @@
     <string name="long_press">продължително натискане</string>
     <string name="hours">часа</string>
     <string name="parental_control">родителски контрол</string>
-    <string name="show_different_time_frame_guide">Показвайте по-рано или по-късно разписание</string>
     <string name="seconds">секунди</string>
     <string name="auto_detected">автоматично открит</string>
     <string name="remove">Премахване</string>
@@ -481,7 +477,6 @@
     <string name="contact_dev">Свържете се с програмиста</string>
     <string name="with_stats">Разрешаване на изпращане на анонимни статистически данни за подобряване на приложението</string>
     <string name="last_epg_load_ok">Последна успешна информация за зареждане на EPG</string>
-    <string name="mass_add_chls_to_this_cat">Добавете канали към тази категория</string>
     <string name="minutes_ago_10">Преди 10 минути</string>
     <string name="time_warp">Изкривяване на времето</string>
     <string name="show_dir_sep_from_videos">Показвайте директории отделно от видеоклиповете</string>
@@ -538,7 +533,6 @@
     <string name="enabled_modules">Активирани модули</string>
     <string name="replace_provider_order_abc">Заменете поръчката на канала на доставчика по поръчка по азбука</string>
     <string name="nothing_to_backup">Няма данни за архивиране!</string>
-    <string name="qr_code_desc">Можете да сканирате код с помощта на приложение за камера на телефона си. Или, тъй като кодът е копиран в клипборда, можете просто да го поставите в друго приложение.</string>
     <string name="next_page">Следваща страница</string>
     <string name="user_exp_level">Ниво на потребителско изживяване</string>
     <string name="user_exp_mode_normal">Нормален режим</string>
@@ -622,4 +616,14 @@
     <string name="hint_setup_keys">Можете да конфигурирате бутоните на дистанционното си управление за всяко предпочитано действие</string>
     <string name="hint_setup_touch">Можете да конфигурирате двойни кранове и плъзгания в различни региони на екрана за всяко предпочитано действие</string>
     <string name="delay_before_acting">Забавяне преди да действате</string>
+    <string name="select_category">Избери категория</string>
+    <string name="launcher_button">Бутони за стартиране</string>
+    <string name="track_language">Проследяване на език</string>
+    <string name="track_language_list">Списък на езикови кодове, разделени със запетая</string>
+    <string name="fold_ch_pri_suffixes">Предпочитани суфикси на имена, които да се използват при сгъване на списък с канали</string>
+    <string name="fold_ch_by">Какво да се има предвид при сливане</string>
+    <string name="place_in_other_category">Поставете в различна категория</string>
+    <string name="yesterday">вчера</string>
+    <string name="tomorrow">утре</string>
+    <string name="show_ip_address">Показване на IP адрес</string>
     </resources>

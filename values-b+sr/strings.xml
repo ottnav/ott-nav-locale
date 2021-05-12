@@ -26,7 +26,6 @@
     <string name="category_by_favorite">Omiljen</string>
     <string name="category_desc_movies">automatski filter od svih kanala</string>
     <string name="category_desc_tv_series">automatski filter od svih kanala</string>
-    <string name="category_desc_exact_tv_series">TV serije</string>
     <string name="category_desc_tv_shows">automatski filter od svih kanala</string>
     <string name="category_desc_exact_tv_shows">TV emisija</string>
     <string name="category_desc_tv_channel">TV kanal</string>
@@ -197,7 +196,6 @@
     <string name="cfg_trans_wind">Koristi transparentan interfejs</string>
 
     <string name="do_not_show">ne prikazuj</string>
-    <string name="android_not_genuine">Kupovine možda neće raditi na vašem uređaju.</string>
     <string name="spread_title">Sviđa vam se aplikacija? Proširite reč!</string>
     <string name="spread_btn_rate">Ocenite aplikaciju sa pet zvezdica</string>
     <string name="spread_btn_share">Podelite link aplikacije sa prijateljem</string>
@@ -211,7 +209,6 @@
     <string name="invalid_domain">Domen najverovatnije nije validan. Proverite vaš unos</string>
     <string name="example">Primer</string>
     <string name="provider_generic">Generički provajder ili plejlista</string>
-    <string name="watched">Odgledano:</string>
     <string name="btn_search">Pretraži</string>
     <string name="premium_fea_6">Pošalji stream na udaljeni ekran</string>
     <string name="wifi_display">Udaljeni ekran</string>
@@ -456,7 +453,6 @@
     <string name="long_press">dugi pritiask</string>
     <string name="hours">sati</string>
     <string name="parental_control">roditeljska kontrola</string>
-    <string name="show_different_time_frame_guide">Prikaži raniji ili kasniji raspored</string>
     <string name="seconds">sekundi</string>
     <string name="auto_detected">automatski detektovano</string>
     <string name="remove">ukloni</string>
@@ -523,7 +519,6 @@
     <string name="contact_dev">Kontaktirajte programera</string>
     <string name="with_stats">Dozvoli slanje anonimne statistike radi unaprađenja aplikacije</string>
     <string name="last_epg_load_ok">Info poslednjeg uspešnog učitavanja EPG-a</string>
-    <string name="mass_add_chls_to_this_cat">Dodajte kanale u ovu kategoriju</string>
     <string name="minutes_ago_10">Pre 10 minuta</string>
     <string name="time_warp">Vremensko iskrivljenje</string>
     <string name="show_dir_sep_from_videos">Prikaži direktorijume odvojeno od videa</string>
@@ -580,7 +575,6 @@
     <string name="enabled_modules">Omogućeni moduli</string>
     <string name="replace_provider_order_abc">Zamenite redosled kanala provajdera redosledom po abecedi</string>
     <string name="nothing_to_backup">Nema podataka za rezervnu kopiju!</string>
-    <string name="qr_code_desc">Možete skenirarti kôd aplikacijom na telefonu. Ili, sa obzirom da je kopiran u privremenu memoriju, možete ga samo nalepiti u drugoj aplikaciji.</string>
     <string name="next_page">Sledeća strana</string>
 <string name="user_exp_level">Ниво корисничког искуства</string>
     <string name="user_exp_mode_normal">Нормал</string>
@@ -664,4 +658,14 @@
     <string name="hint_setup_keys">Дугмад даљинског управљача можете да конфигуришете на било коју пожељнију радњу</string>
     <string name="hint_setup_touch">Можете да конфигуришете двоструке тапке и превлачења у различитим регионима екрана на било коју пожељнију радњу</string>
     <string name="delay_before_acting">Кашњење пре глуме</string>
+    <string name="select_category">Изаберите категорију</string>
+    <string name="launcher_button">Дугмад за лансирање</string>
+    <string name="track_language">Трацк лангуаге</string>
+    <string name="track_language_list">Листа језичких кодова одвојена зарезима</string>
+    <string name="fold_ch_pri_suffixes">Жељени суфикси имена који ће се користити при пресавијању листе канала</string>
+    <string name="fold_ch_by">Шта треба узети у обзир приликом спајања</string>
+    <string name="place_in_other_category">Ставите у другу категорију</string>
+    <string name="yesterday">јуче</string>
+    <string name="tomorrow">сутра</string>
+    <string name="show_ip_address">Прикажи ИП адресу</string>
     </resources>

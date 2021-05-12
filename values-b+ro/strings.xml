@@ -21,7 +21,6 @@
     <string name="category_by_favorite">Favorit</string>
     <string name="category_desc_movies">filtru automat din toate canalele</string>
     <string name="category_desc_tv_series">filtru automat din toate canalele</string>
-    <string name="category_desc_exact_tv_series">seriale TV</string>
     <string name="category_desc_tv_shows">filtru automat din toate canalele</string>
     <string name="category_desc_exact_tv_shows">Emisiune TV</string>
     <string name="category_desc_tv_channel">canal TV</string>
@@ -166,7 +165,6 @@
     <string name="cfg_play_action_btn_archive_as_live">Utilizați aceeași configurare în timp ce urmăriți arhive (va dezactiva căutarea cu ajutorul butoanelor din stânga și din dreapta)</string>
     <string name="cfg_trans_wind">Folosiți o interfață transparentă</string>
     <string name="do_not_show">nu arata</string>
-    <string name="android_not_genuine">Este posibil ca achizițiile să nu funcționeze pe dispozitivul dvs.</string>
     <string name="spread_title">Îți place aplicația? Imprastie vestea!</string>
     <string name="spread_btn_rate">Evaluează aplicația cu cinci stele</string>
     <string name="spread_btn_share">Distribuie link-ul aplicației cu un prieten</string>
@@ -180,7 +178,6 @@
     <string name="invalid_domain">Domeniul este probabil nevalid. Verificați-vă intrarea</string>
     <string name="example">Exemplu</string>
     <string name="provider_generic">Furnizor sau listă de redare generică</string>
-    <string name="watched">vizionat:</string>
     <string name="btn_search">Căutare</string>
     <string name="premium_fea_6">Trimiteți un flux pe un afișaj wireless</string>
     <string name="wifi_display">Ecran wireless</string>
@@ -414,7 +411,6 @@
     <string name="long_press">apăsarea îndelungată</string>
     <string name="hours">ore</string>
     <string name="parental_control">control parental</string>
-    <string name="show_different_time_frame_guide">Afișează orarul anterior sau ulterior</string>
     <string name="seconds">secunde</string>
     <string name="auto_detected">detectat automat</string>
     <string name="remove">elimina</string>
@@ -481,7 +477,6 @@
     <string name="contact_dev">Contactați dezvoltatorul</string>
     <string name="with_stats">Permiteți trimiterea de statistici anonime pentru a îmbunătăți aplicația</string>
     <string name="last_epg_load_ok">Ultimele informații de încărcare EPG de succes</string>
-    <string name="mass_add_chls_to_this_cat">Adăugați canale la această categorie</string>
     <string name="minutes_ago_10">acum 10 minute</string>
     <string name="time_warp">Distorsiune temporală</string>
     <string name="show_dir_sep_from_videos">Afișează directoarele separat de videoclipuri</string>
@@ -538,7 +533,6 @@
     <string name="enabled_modules">Module activate</string>
     <string name="replace_provider_order_abc">Înlocuiți comanda canalului furnizorului la comandă după alfabet</string>
     <string name="nothing_to_backup">Nu există date de rezervă!</string>
-    <string name="qr_code_desc">Puteți scana cod folosind aplicația pentru camere de pe telefon. Sau, din moment ce codul a fost copiat în clipboard, puteți doar să-l lipiți în altă aplicație.</string>
     <string name="next_page">Pagina următoare</string>
     <string name="user_exp_level">Nivel de experiență al utilizatorului</string>
     <string name="user_exp_mode_normal">Mod normal</string>
@@ -622,4 +616,14 @@
     <string name="hint_setup_keys">Puteți configura butoanele telecomenzii pentru orice acțiune preferabilă</string>
     <string name="hint_setup_touch">Puteți configura atingeri duble și glisări în diferite regiuni ale ecranului pentru orice acțiune preferată</string>
     <string name="delay_before_acting">Întârziere înainte de a acționa</string>
+    <string name="select_category">Selecteaza categoria</string>
+    <string name="launcher_button">Butoane de lansare</string>
+    <string name="track_language">Limba urmăririi</string>
+    <string name="track_language_list">Listă de coduri de limbă separate prin virgulă</string>
+    <string name="fold_ch_pri_suffixes">Sufixe de nume preferate pentru a fi utilizate la plierea listei de canale</string>
+    <string name="fold_ch_by">Ce trebuie luat în considerare atunci când fuzionează</string>
+    <string name="place_in_other_category">Plasați într-o altă categorie</string>
+    <string name="yesterday">ieri</string>
+    <string name="tomorrow">Mâine</string>
+    <string name="show_ip_address">Afișați adresa IP</string>
     </resources>

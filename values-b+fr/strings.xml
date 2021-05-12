@@ -29,7 +29,6 @@
     <string name="category_by_favorite">Favoris</string>
     <string name="category_desc_movies">Filtre automatique de tous les canaux</string>
     <string name="category_desc_tv_series">Filtre automatique de tous les canaux</string>
-    <string name="category_desc_exact_tv_series">Séries télévisées</string>
     <string name="category_desc_tv_shows">Filtre automatique de tous les canaux</string>
     <string name="category_desc_exact_tv_shows">Émission de télévision</string>
     <string name="category_desc_tv_channel">Chaîne TV</string>
@@ -204,8 +203,7 @@
     <string name="cfg_trans_wind">Utiliser une interface transparente</string>
 
     <string name="do_not_show">Ne pas montrer</string>
-    <string name="android_not_genuine">Les achats pourraient ne pas fonctionner sur votre appareil.</string>
-    <string name="spread_title">Vous aimez l\'application ? Passez le mot !</string>
+    <string name="spread_title">Vous aimez l\'application ? Passez le mot !</string>
     <string name="spread_btn_rate">Donnez cinq étoiles à l\'application</string>
     <string name="spread_btn_share">Partager le lien de l\'application avec un ami</string>
     <string name="spread_share_title">Jetez un coup d\'œil à l\'application</string>
@@ -218,7 +216,6 @@
     <string name="invalid_domain">Le domaine est probablement invalide. Vérifiez votre saisie</string>
     <string name="example">Exemple</string>
     <string name="provider_generic">Fournisseur générique ou playlist</string>
-    <string name="watched">Regarder:</string>
     <string name="btn_search">Chercher</string>
     <string name="premium_fea_6">Envoi de flux sur un écran sans fil</string>
     <string name="wifi_display">Affichage sans fil</string>
@@ -462,7 +459,6 @@
     <string name="long_press">Pressage long</string>
     <string name="hours">heures</string>
     <string name="parental_control">Contrôle parental</string>
-    <string name="show_different_time_frame_guide">Afficher l\'horaire plus tôt ou plus tard</string>
     <string name="seconds">Secondes</string>
     <string name="auto_detected">Détecté automatiquement</string>
     <string name="remove">Retirer</string>
@@ -529,7 +525,6 @@
     <string name="contact_dev">Contacter le développeur</string>
     <string name="with_stats">Autoriser l\'envoi de statistiques anonymes pour améliorer l\'application</string>
     <string name="last_epg_load_ok">Dernières informations de chargement EPG réussies</string>
-    <string name="mass_add_chls_to_this_cat">Ajouter des chaînes à cette catégorie</string>
     <string name="minutes_ago_10">Il y a 10 minutes</string>
     <string name="time_warp">Distorsion temporelle</string>
     <string name="show_dir_sep_from_videos">Afficher les répertoires séparément des vidéos</string>
@@ -586,7 +581,6 @@
     <string name="enabled_modules">Modules activés</string>
     <string name="replace_provider_order_abc">Remplacer l\'ordre des canaux du fournisseur par ordre alphabétique</string>
     <string name="nothing_to_backup">Aucune donnée à sauvegarder!</string>
-    <string name="qr_code_desc">Vous pouvez scanner le code en utilisant l\'application appareil photo sur votre téléphone. Ou, puisque le code a été copié dans le presse-papiers, vous pouvez simplement le coller dans une autre application.</string>
     <string name="next_page">Page suivante</string>
     <string name="user_exp_level">Niveau d\'expérience utilisateur</string>
     <string name="user_exp_mode_normal">Mode normal</string>
@@ -670,4 +664,14 @@
     <string name="hint_setup_keys">Vous pouvez configurer les boutons de votre télécommande pour n\'importe quelle action préférable</string>
     <string name="hint_setup_touch">Vous pouvez configurer des doubles taps et des balayages dans différentes régions d\'écran pour n\'importe quelle action préférable</string>
     <string name="delay_before_acting">Retarder avant d\'agir</string>
+    <string name="select_category">Choisir une catégorie</string>
+    <string name="launcher_button">Boutons du lanceur</string>
+    <string name="track_language">Suivre la langue</string>
+    <string name="track_language_list">Liste des codes de langue séparés par des virgules</string>
+    <string name="fold_ch_pri_suffixes">Suffixes de nom préférés à utiliser lors du pliage de la liste des chaînes</string>
+    <string name="fold_ch_by">Éléments à prendre en compte lors de la fusion</string>
+    <string name="place_in_other_category">Placer dans une catégorie différente</string>
+    <string name="yesterday">hier</string>
+    <string name="tomorrow">demain</string>
+    <string name="show_ip_address">Afficher l\'adresse IP</string>
     </resources>

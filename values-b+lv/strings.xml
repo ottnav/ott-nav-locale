@@ -26,7 +26,6 @@
     <string name="category_by_favorite">Izlase</string>
     <string name="category_desc_movies">automātiskais filtrs no visiem kanāliem</string>
     <string name="category_desc_tv_series">automātiskais filtrs no visiem kanāliem</string>
-    <string name="category_desc_exact_tv_series">TV sērijas</string>
     <string name="category_desc_tv_shows">automātiskais filtrs no visiem kanāliem</string>
     <string name="category_desc_exact_tv_shows">TV šovs</string>
     <string name="category_desc_tv_channel">TV kanāls</string>
@@ -200,7 +199,6 @@
     <string name="cfg_trans_wind">Izmantojiet caurspīdīgu interfeisu</string>
 
     <string name="do_not_show">nerādi</string>
-    <string name="android_not_genuine">Pirkumi var nedarboties jūsu ierīcē.</string>
     <string name="spread_title">Tāpat kā lietotne? Izplatiet vārdu!</string>
     <string name="spread_btn_rate">Novērtējiet lietotni ar piecām zvaigznēm</string>
     <string name="spread_btn_share">Koplietojiet lietotnes saiti ar draugu</string>
@@ -214,7 +212,6 @@
     <string name="invalid_domain">Domēns, iespējams, ir nederīgs. Pārbaudiet ievadi</string>
     <string name="example">Piemērs</string>
     <string name="provider_generic">Vispārējais pakalpojumu sniedzējs vai atskaņošanas saraksts</string>
-    <string name="watched">Skatīts:</string>
     <string name="btn_search">Meklēt</string>
     <string name="premium_fea_6">Sūtīt plūsmu uz bezvadu displeju</string>
     <string name="wifi_display">Bezvadu displejs</string>
@@ -462,7 +459,6 @@
     <string name="long_press">ilgi spiežot</string>
     <string name="hours">stundas</string>
     <string name="parental_control">vecāku kontrole</string>
-    <string name="show_different_time_frame_guide">Rādīt agrāku vai vēlāku grafiku</string>
     <string name="seconds">sekundes</string>
     <string name="auto_detected">automātiski atklāts</string>
     <string name="remove">noņemt</string>
@@ -529,7 +525,6 @@
     <string name="contact_dev">Sazinieties ar izstrādātāju</string>
     <string name="with_stats">Ļaujiet nosūtīt anonīmu statistiku, lai uzlabotu lietotni</string>
     <string name="last_epg_load_ok">Pēdējā veiksmīgā EPG ielādes informācija</string>
-    <string name="mass_add_chls_to_this_cat">Pievienojiet kanālus šai kategorijai</string>
     <string name="minutes_ago_10">Pirms 10 minūtēm</string>
     <string name="time_warp">Laika velku</string>
     <string name="show_dir_sep_from_videos">Rādīt direktorijas atsevišķi no videoklipiem</string>
@@ -586,7 +581,6 @@
     <string name="enabled_modules">Iespējotie moduļi</string>
     <string name="replace_provider_order_abc">Aizstāt pakalpojumu sniedzēja kanāla pasūtījumu, lai pasūtītu pēc alfabēta</string>
     <string name="nothing_to_backup">Nav datu dublēšanai!</string>
-    <string name="qr_code_desc">Kodu var skenēt, izmantojot tālruņa kameras lietotni. Vai arī, tā kā kods ir kopēts starpliktuvē, varat vienkārši ielīmēt to citā lietotnē.</string>
     <string name="next_page">Nākamā lapaspuse</string>
     <string name="user_exp_level">Lietotāju pieredzes līmenis</string>
     <string name="user_exp_mode_normal">Normāls režīms</string>
@@ -670,4 +664,14 @@
     <string name="hint_setup_keys">Tālvadības pults pogas var konfigurēt jebkurai vēlamajai darbībai</string>
     <string name="hint_setup_touch">Veicot dubulto pieskārienu un vilkšanu dažādos ekrāna reģionos, varat konfigurēt jebkuru vēlamo darbību</string>
     <string name="delay_before_acting">Kavēšanās pirms rīkoties</string>
+    <string name="select_category">Atlasiet kategoriju</string>
+    <string name="launcher_button">Palaišanas programmas pogas</string>
+    <string name="track_language">Trases valoda</string>
+    <string name="track_language_list">Ar komatiem atdalīts valodu kodu saraksts</string>
+    <string name="fold_ch_pri_suffixes">Vēlamie nosaukuma sufiksi, kas jāizmanto, salokot kanālu sarakstu</string>
+    <string name="fold_ch_by">Kas jāņem vērā apvienojoties</string>
+    <string name="place_in_other_category">Vieta citā kategorijā</string>
+    <string name="yesterday">vakar</string>
+    <string name="tomorrow">rīt</string>
+    <string name="show_ip_address">Rādīt IP adresi</string>
     </resources>

@@ -29,7 +29,6 @@
     <string name="category_by_favorite">특히 잘하는</string>
     <string name="category_desc_movies">모든 채널의 자동 필터</string>
     <string name="category_desc_tv_series">모든 채널의 자동 필터</string>
-    <string name="category_desc_exact_tv_series">TV 시리즈</string>
     <string name="category_desc_tv_shows">모든 채널의 자동 필터</string>
     <string name="category_desc_exact_tv_shows">티비 쇼</string>
     <string name="category_desc_tv_channel">텔레비전 채널</string>
@@ -206,7 +205,6 @@
 
 
     <string name="do_not_show">보여주지 마시오</string>
-    <string name="android_not_genuine">기기에서 구매 항목이 작동하지 않을 수 있습니다.</string>
     <string name="spread_title">앱처럼? 단어를 퍼뜨려 라!</string>
     <string name="spread_btn_rate">별 5 개를 평가하는 앱</string>
     <string name="spread_btn_share">친구와 앱 링크 공유</string>
@@ -220,7 +218,6 @@
     <string name="invalid_domain">도메인이 유효하지 않은 것 같습니다. 입력 내용을 확인하십시오.</string>
     <string name="example">예</string>
     <string name="provider_generic">일반 공급자 또는 재생 목록</string>
-    <string name="watched">보았다:</string>
     <string name="btn_search">수색</string>
     <string name="premium_fea_6">무선 디스플레이로 스트림 보내기</string>
     <string name="wifi_display">무선 디스플레이</string>
@@ -464,7 +461,6 @@
     <string name="long_press">길게 누르면</string>
     <string name="hours">시간</string>
     <string name="parental_control">부모의 통제</string>
-    <string name="show_different_time_frame_guide">이전 또는 이후 시간표 표시</string>
     <string name="seconds">초</string>
     <string name="auto_detected">자동 감지</string>
     <string name="remove">풀다</string>
@@ -531,7 +527,6 @@
     <string name="contact_dev">개발자에게 문의</string>
     <string name="with_stats">앱을 개선하기 위해 익명 통계 전송 허용</string>
     <string name="last_epg_load_ok">마지막으로 성공한 EPG 로딩 정보</string>
-    <string name="mass_add_chls_to_this_cat">이 카테고리에 채널 추가</string>
     <string name="minutes_ago_10">10 분 전</string>
     <string name="time_warp">타임 워프</string>
     <string name="show_dir_sep_from_videos">비디오와 별도로 디렉토리 표시</string>
@@ -588,7 +583,6 @@
     <string name="enabled_modules">활성화 된 모듈</string>
     <string name="replace_provider_order_abc">제공 업체 채널 주문을 알파벳순으로 교체</string>
     <string name="nothing_to_backup">백업 할 데이터가 없습니다!</string>
-    <string name="qr_code_desc">휴대 전화에서 카메라 앱을 사용하여 코드를 스캔 할 수 있습니다. 또는 코드가 클립 보드에 복사되었으므로 다른 앱에 붙여 넣기 만하면됩니다.</string>
     <string name="next_page">다음 페이지</string>
     <string name="user_exp_level">사용자 경험 수준</string>
     <string name="user_exp_mode_normal">일반 모드</string>
@@ -672,4 +666,14 @@
     <string name="hint_setup_keys">원하는 동작으로 조종기 버튼을 구성 할 수 있습니다.</string>
     <string name="hint_setup_touch">다른 화면 영역에서 원하는 작업으로 두 번 탭하고 스 와이프를 구성 할 수 있습니다.</string>
     <string name="delay_before_acting">행동 전 지연</string>
+    <string name="select_category">카테고리 선택</string>
+    <string name="launcher_button">런처 버튼</string>
+    <string name="track_language">언어 추적</string>
+    <string name="track_language_list">쉼표로 구분 된 언어 코드 목록</string>
+    <string name="fold_ch_pri_suffixes">채널 목록을 접을 때 사용할 기본 이름 접미사</string>
+    <string name="fold_ch_by">병합 할 때 고려해야 할 사항</string>
+    <string name="place_in_other_category">다른 카테고리에 배치</string>
+    <string name="yesterday">어제</string>
+    <string name="tomorrow">내일</string>
+    <string name="show_ip_address">IP 주소 표시</string>
     </resources>

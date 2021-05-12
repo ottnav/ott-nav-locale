@@ -3,7 +3,7 @@
 
     <string name="search_bar">Искать по каналам или передачам</string>
 
-    <string name="menu_search">Поиск по видео</string>
+    <string name="menu_search">Поиск</string>
     <string name="menu_live">Прямой эфир</string>
     <string name="menu_archive">Архив передач</string>
     <string name="menu_settings">Настройки</string>
@@ -26,7 +26,6 @@
     <string name="category_by_favorite">Любимые</string>
     <string name="category_desc_movies">автоматический фильтр со всех каналов</string>
     <string name="category_desc_tv_series">автоматический фильтр со всех каналов</string>
-    <string name="category_desc_exact_tv_series">телесериал</string>
     <string name="category_desc_tv_shows">автоматический фильтр со всех каналов</string>
     <string name="category_desc_exact_tv_shows">телепрограмма</string>
     <string name="category_desc_tv_channel">телеканал</string>
@@ -55,10 +54,10 @@
     <string name="player_menu_select_channel_title">Другой канал</string>
     <string name="player_menu_select_archive_title">Другое видео</string>
     <string name="player_menu_set_pause_on_title">Поставить паузу</string>
-    <string name="player_menu_set_pause_off_title">Продолжить просмотр</string>
+    <string name="player_menu_set_pause_off_title">Продолжить</string>
     <string name="player_menu_set_pause_on_details">проигрывается</string>
     <string name="player_menu_set_pause_off_details">на паузе</string>
-    <string name="player_menu_show_timetable_title">Телепрограмма</string>
+    <string name="player_menu_show_timetable_title">Программа передач</string>
     <string name="player_menu_playback_parameters_title">Параметры</string>
     <string name="player_menu_playback_parameters_speed">Скорость проигрывания</string>
     <string name="player_menu_aspect_ratio_title">Размер картинки</string>
@@ -71,7 +70,7 @@
     <string name="player_menu_timeshift">Таймшифт</string>
     <string name="player_menu_timeshift_on_details">Начать сначала</string>
     <string name="player_menu_timeshift_off_details">В прямой эфир</string>
-    <string name="player_menu_pip_title">Картинка-в-картинке</string>
+    <string name="player_menu_pip_title">Картинка в картинке</string>
     <string name="player_menu_pip_on_details">Выйти из режима картинка-в-картинке</string>
     <string name="player_menu_pip_swap_details">Поменять текущий канал и идущий в PiP</string>
     <string name="player_menu_last_channel">Предыдущий канал</string>
@@ -152,7 +151,7 @@
     <string name="settings_palette_style">Цветовая схема (палитра)</string>
 
     <string name="settings_ui_screen_margins">Границы экрана</string>
-    <string name="settings_ui_language">Язык (если не установлен - системный)</string>
+    <string name="settings_ui_language">Язык приложения</string>
 
     <string name="settings_codec">Настройки кодеков</string>
     <string name="settings_codec_hard">Всегда использовать хардварные кодеки</string>
@@ -179,9 +178,9 @@
     <string name="settings_premium_toggle_btn_sub_add">Подписаться</string>
     <string name="settings_premium_toggle_btn_sub_add_desc">Включить премиум, подписавшись на небольшой регулярный платёж</string>
     <string name="settings_premium_toggle_btn_buy_add">Приобрести</string>
-    <string name="settings_premium_toggle_btn_buy_add_desc">Включить премиум единым платежём</string>
+    <string name="settings_premium_toggle_btn_buy_add_desc">Включить премиум однократным платежём</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Купить отключение рекламы (также включено во все премиум пакеты)</string>
-    <string name="settings_premium_toggle_btn_buy_no_ads_desc">Отключить рекламу навсегда единым платежём</string>
+    <string name="settings_premium_toggle_btn_buy_no_ads_desc">Отключить рекламу навсегда однократным платежём</string>
 
     <string name="setting_list_view_title">Как должны показываться списки</string>
     <string name="setting_list_view1">простым списком</string>
@@ -197,7 +196,6 @@
     <string name="cfg_trans_wind">Использовать прозрачный интерфейс</string>
 
     <string name="do_not_show">не показывать</string>
-    <string name="android_not_genuine">Покупки могут не работать на вашем устройстве.</string>
     <string name="spread_title">Нравится приложение? Расскажите о нём!</string>
     <string name="spread_btn_rate">Поставить рейтинг в пять звёзд</string>
     <string name="spread_btn_share">Поделиться приложением с другом</string>
@@ -211,7 +209,6 @@
     <string name="invalid_domain">Вероятно, домен неверен. Проверьте вашу настройку</string>
     <string name="example">Пример</string>
     <string name="provider_generic">Типичный провайдер или плейлист</string>
-    <string name="watched">Просмотрено:</string>
     <string name="btn_search">Поиск</string>
     <string name="premium_fea_6">Отправить поток на беспроводной дисплей</string>
     <string name="wifi_display">Беспроводной дисплей</string>
@@ -242,7 +239,7 @@
     <string name="cfg_section_backup">Сохранение и загрузка</string>
     <string name="btn_backup_info">Сохранение хранится по ключу. Запиши его как только сохранение завершено. Нет гарантий, как долго сохранение будет доступно для загрузки.</string>
     <string name="btn_backup_data">Сохранить текущую конфигурацию</string>
-    <string name="btn_backup_load">Загрузить предварительно сохранённую конфигурацию</string>
+    <string name="btn_backup_load">Восстановить сохранённые данные</string>
     <string name="err_need_newer_android">Эта возможность требует более новой версии Android</string>
     <string name="cfg_play_action_sys_pip">Войти в системный режим PiP</string>
     <string name="cfg_video_cutout">Прятать верхние и нижние линии видео (в пикселях)</string>
@@ -300,7 +297,7 @@
     <string name="cfg_play_deny_status">Не показывать статус потока</string>
     <string name="cfg_player_hud">Стиль наэкранного интерфейса</string>
     <string name="cfg_player_hud_1">Сверху и снизу</string>
-    <string name="cfg_player_hide_menu">Таймаут до скрывания меню (в секундах)</string>
+    <string name="cfg_player_hide_menu">Таймаут до скрытия меню</string>
     <string name="choose_auto">Выбирать автоматически</string>
     <string name="cfg_stream_tech">Технология потока (если доступно)</string>
 
@@ -456,7 +453,6 @@
     <string name="long_press">долгое нажатие</string>
     <string name="hours">часы</string>
     <string name="parental_control">родительский контроль</string>
-    <string name="show_different_time_frame_guide">Показать более раннюю или позднюю программу</string>
     <string name="seconds">секунды</string>
     <string name="auto_detected">автоматическое определение</string>
     <string name="remove">убрать</string>
@@ -479,7 +475,7 @@
     <string name="cfg_time_shift_from_utc">Отличие от системного времени</string>
     <string name="internal_value">системное значение</string>
     <string name="displayed_value">отображаемое значение</string>
-<string name="cfg_play_action_ch_list">открыть список каналов</string>
+    <string name="cfg_play_action_ch_list">открыть список каналов</string>
     <string name="cfg_enable_resolution_fix">Включить исправление разрешения</string>
     <string name="minutes">минут</string>
     <string name="cfg_ban_bad_channels_qs">Удалить сломанные каналы из быстрого переключения</string>
@@ -511,7 +507,7 @@
     <string name="cfg_list_pos_on_screen">Положение списков на экране</string>
     <string name="cfg_list_size_on_screen">Размер списков на экране</string>
     <string name="cfg_list_desc_allow">Разрешить описанию отображаться в списках</string>
-    <string name="cfg_ext_app_on_home">Показать внешнее приложение на главном экране</string>
+    <string name="cfg_ext_app_on_home">Показывать внешние приложения на главном экране</string>
     <string name="player_select_screen_main">Главный экран</string>
     <string name="never">никогда</string>
     <string name="by_default">по умолчанию</string>
@@ -523,7 +519,6 @@
     <string name="contact_dev">Связаться с разработчиком</string>
     <string name="with_stats">Разрешить отправку анонимной статистики для улучшения приложения</string>
     <string name="last_epg_load_ok">Последняя успешная загрузка EPG</string>
-    <string name="mass_add_chls_to_this_cat">Добавить каналы в эту категорию</string>
     <string name="minutes_ago_10">10 минут назад</string>
     <string name="time_warp">Искажение времени</string>
     <string name="show_dir_sep_from_videos">Показывать каталоги отдельно от видео</string>
@@ -580,7 +575,6 @@
     <string name="enabled_modules">Включенные модули</string>
     <string name="replace_provider_order_abc">Заменить порядок каналов провайдера на порядок по алфавиту</string>
     <string name="nothing_to_backup">Нет данных для резервного копирования!</string>
-    <string name="qr_code_desc">Вы можете сканировать код с помощью приложения камеры на вашем телефоне. Или, поскольку код был скопирован в буфер обмена, вы можете просто вставить его в другое приложение.</string>
     <string name="next_page">Следующая страница</string>
     <string name="user_exp_level">Уровень пользовательского опыта</string>
     <string name="user_exp_mode_normal">Нормальный режим</string>
@@ -607,7 +601,7 @@
     <string name="future_show_sheet_autoswitch_wl">Автоматически переключаться на канал, когда он будет в прямом эфире</string>
     <string name="reuse_cache_for_quick_start">Повторное использование кеша для быстрого запуска приложения из предыдущего запуска (может работать некорректно у некоторых провайдеров)</string>
     <string name="use_spacing_between_elem">Используйте интервал между элементами</string>
-    <string name="wait_for_network_live">Подождите, пока сетевое соединение станет активным</string>
+    <string name="wait_for_network_live">Ожидание активации сетевого соединения на запуске</string>
     <string name="cfg_prev_n_desc">Сколько предыдущих телешоу отображать в описании канала</string>
     <string name="no_not_show_poster">Не показывать изображение плаката</string>
     <string name="duration_to_keep_access">Продолжительность, чтобы доступ был разблокирован</string>
@@ -647,11 +641,11 @@
     <string name="selection_bitrate">Выбор трека по битрейту</string>
     <string name="selection_bitrate_lowest">Предпочитайте самый низкий битрейт</string>
     <string name="selection_bitrate_highest">Предпочитайте самый высокий битрейт</string>
-    <string name="launcher_mode">Режим запуска (не выходить из приложения)</string>
+    <string name="launcher_mode">Режим лаунчера (не выходить из приложения по кнопке назад)</string>
     <string name="current_epg_info">Информация о текущей трансляции</string>
     <string name="change_codec_if_no_playback">Если воспроизведение не начинается, попробуйте другой кодек.</string>
     <string name="player_menu_and_hud">Меню плеера и подсказка</string>
-    <string name="keep_hud_while_in_menu">Оставлять подсказку при включенном меню</string>
+    <string name="keep_hud_while_in_menu">Не скрывать интерфейс при включенном меню</string>
     <string name="media_tunneling">Туннелирование медиа-треков напрямую на устройство вывода</string>
     <string name="menu_qs_keep_fav">Сохранять избранные каналы от всех провайдеров</string>
     <string name="list_view_side_by_side">Бок о бок</string>
@@ -664,4 +658,14 @@
     <string name="hint_setup_keys">Вы можете настроить кнопки пульта дистанционного управления на любое предпочтительное действие</string>
     <string name="hint_setup_touch">Вы можете настроить двойное касание и смахивание в разных областях экрана для любого предпочтительного действия</string>
     <string name="delay_before_acting">Задержка перед действием</string>
+<string name="select_category">Выберите категорию</string>
+    <string name="launcher_button">Кнопки запуска</string>
+    <string name="track_language">Язык трека</string>
+    <string name="track_language_list">Список кодов языков, разделенных запятыми</string>
+    <string name="fold_ch_pri_suffixes">Предпочтительные суффиксы имен для использования при сворачивании списка каналов</string>
+    <string name="fold_ch_by">Что нужно учитывать при слиянии</string>
+    <string name="place_in_other_category">Поместить в другую категорию</string>
+    <string name="yesterday">вчера</string>
+    <string name="tomorrow">завтра</string>
+    <string name="show_ip_address">Показать IP-адрес</string>
     </resources>

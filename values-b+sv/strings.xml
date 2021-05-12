@@ -22,7 +22,6 @@
     <string name="category_by_favorite">Favorit</string>
     <string name="category_desc_movies">automatisk filter från alla kanaler</string>
     <string name="category_desc_tv_series">automatisk filter från alla kanaler</string>
-    <string name="category_desc_exact_tv_series">TV-serier</string>
     <string name="category_desc_tv_shows">automatisk filter från alla kanaler</string>
     <string name="category_desc_exact_tv_shows">TV program</string>
     <string name="category_desc_tv_channel">TV kanal</string>
@@ -167,7 +166,6 @@
     <string name="cfg_play_action_btn_archive_as_live">Använd samma inställning när du tittar på arkiv (avaktiverar sökning med vänster- och högerknappar)</string>
     <string name="cfg_trans_wind">Använd transparent gränssnitt</string>
     <string name="do_not_show">visa inte</string>
-    <string name="android_not_genuine">Köp fungerar kanske inte på din enhet.</string>
     <string name="spread_title">Gillar appen? Sprid ordet!</string>
     <string name="spread_btn_rate">Betygsätt appen med fem stjärnor</string>
     <string name="spread_btn_share">Dela applänk med en vän</string>
@@ -181,7 +179,6 @@
     <string name="invalid_domain">Domänen är förmodligen ogiltig. Kontrollera din inmatning</string>
     <string name="example">Exempel</string>
     <string name="provider_generic">Generisk leverantör eller spellista</string>
-    <string name="watched">Betraktade:</string>
     <string name="btn_search">Sök</string>
     <string name="premium_fea_6">Skicka ström till en trådlös skärm</string>
     <string name="wifi_display">Trådlös skärm</string>
@@ -415,7 +412,6 @@
     <string name="long_press">långtryckning</string>
     <string name="hours">timmar</string>
     <string name="parental_control">föräldrakontroll</string>
-    <string name="show_different_time_frame_guide">Visa tidigare eller senare tidtabell</string>
     <string name="seconds">sekunder</string>
     <string name="auto_detected">auto upptäckt</string>
     <string name="remove">ta bort</string>
@@ -482,7 +478,6 @@
     <string name="contact_dev">Kontakta utvecklare</string>
     <string name="with_stats">Låt skicka anonym statistik för att förbättra appen</string>
     <string name="last_epg_load_ok">Senaste framgångsrika EPG-laddningsinfo</string>
-    <string name="mass_add_chls_to_this_cat">Lägg till kanaler i denna kategori</string>
     <string name="minutes_ago_10">10 minuter sedan</string>
     <string name="time_warp">Tidsresa</string>
     <string name="show_dir_sep_from_videos">Visa kataloger separat från videor</string>
@@ -539,7 +534,6 @@
     <string name="enabled_modules">Aktiverade moduler</string>
     <string name="replace_provider_order_abc">Byt ut leverantörens kanalordning efter ordning efter alfabetet</string>
     <string name="nothing_to_backup">Inga data att säkerhetskopiera!</string>
-    <string name="qr_code_desc">Du kan skanna kod med kameraprogram på din telefon. Eller eftersom koden har kopierats till urklipp kan du bara klistra in den i en annan app.</string>
     <string name="next_page">Nästa sida</string>
     <string name="user_exp_level">Nivå för användarupplevelse</string>
     <string name="user_exp_mode_normal">Normalt läge</string>
@@ -623,4 +617,14 @@
     <string name="hint_setup_keys">Du kan konfigurera fjärrkontrollens knappar till valfri åtgärd</string>
     <string name="hint_setup_touch">Du kan konfigurera dubbla kranar och svepa i olika skärmregioner till valfri åtgärd</string>
     <string name="delay_before_acting">Försena innan du agerar</string>
+    <string name="select_category">Välj kategori</string>
+    <string name="launcher_button">Startknappar</string>
+    <string name="track_language">Spåra språk</string>
+    <string name="track_language_list">Kommaseparerad lista över språkkoder</string>
+    <string name="fold_ch_pri_suffixes">Föredragna namnsuffixer som ska användas vid fällning av en kanallista</string>
+    <string name="fold_ch_by">Vad man ska tänka på när man slår samman</string>
+    <string name="place_in_other_category">Placera i en annan kategori</string>
+    <string name="yesterday">i går</string>
+    <string name="tomorrow">i morgon</string>
+    <string name="show_ip_address">Visa IP-adress</string>
     </resources>

@@ -26,7 +26,6 @@
     <string name="category_by_favorite">Yêu thích</string>
     <string name="category_desc_movies">tự động lọc từ tất cả các kênh</string>
     <string name="category_desc_tv_series">tự động lọc từ tất cả các kênh</string>
-    <string name="category_desc_exact_tv_series">phim truyền hình</string>
     <string name="category_desc_tv_shows">tự động lọc từ tất cả các kênh</string>
     <string name="category_desc_exact_tv_shows">Chương trình truyền hình</string>
     <string name="category_desc_tv_channel">Kênh TV</string>
@@ -197,7 +196,6 @@
     <string name="cfg_trans_wind">Sử dụng giao diện trong suốt</string>
 
     <string name="do_not_show">không hiển thị</string>
-    <string name="android_not_genuine">Chức năng Thanh toán có thể không hoạt động trên thiết bị của bạn.</string>
     <string name="spread_title">Bạn thích ứng dụng này? Hãy lan toả nó!</string>
     <string name="spread_btn_rate">Đánh giá 5 sao cho ứng dụng này</string>
     <string name="spread_btn_share">Chia sẻ đường liên kết cho bạn bè</string>
@@ -211,7 +209,6 @@
     <string name="invalid_domain">Tên miền không đúng. Hãy kiểm tra lại</string>
     <string name="example">Ví dụ</string>
     <string name="provider_generic">Nhà cung cấp chung hoặc danh sách phát</string>
-    <string name="watched">Đã xem:</string>
     <string name="btn_search">Tìm kiếm</string>
     <string name="premium_fea_6">Phát luồng trên thiết bị hiển thị không dây</string>
     <string name="wifi_display">Hiển thị không dây</string>
@@ -455,7 +452,6 @@
     <string name="long_press">nhấn lâu</string>
     <string name="hours">giờ</string>
     <string name="parental_control">kiểm soát của cha mẹ</string>
-    <string name="show_different_time_frame_guide">Hiển thị thời gian biểu sớm hơn hoặc muộn hơn</string>
     <string name="seconds">giây</string>
     <string name="auto_detected">tự động phát hiện</string>
     <string name="remove">tẩy</string>
@@ -522,7 +518,6 @@
     <string name="contact_dev">Liên hệ với nhà phát triển</string>
     <string name="with_stats">Cho phép gửi số liệu thống kê ẩn danh để cải thiện ứng dụng</string>
     <string name="last_epg_load_ok">Thông tin tải EPG thành công cuối cùng</string>
-    <string name="mass_add_chls_to_this_cat">Thêm kênh vào danh mục này</string>
     <string name="minutes_ago_10">10 phút trước</string>
     <string name="time_warp">Thời gian chênh vênh</string>
     <string name="show_dir_sep_from_videos">Hiển thị các thư mục riêng biệt với video</string>
@@ -579,7 +574,6 @@
     <string name="enabled_modules">Các mô-đun kích hoạt</string>
     <string name="replace_provider_order_abc">Thay thế thứ tự kênh nhà cung cấp để đặt hàng theo bảng chữ cái</string>
     <string name="nothing_to_backup">Không có dữ liệu để sao lưu!</string>
-    <string name="qr_code_desc">Bạn có thể quét mã bằng ứng dụng camera trên điện thoại. Hoặc, vì mã đã được sao chép vào clipboard, bạn chỉ có thể dán nó vào một ứng dụng khác.</string>
     <string name="next_page">Trang tiếp theo</string>
     <string name="user_exp_level">Cấp độ trải nghiệm người dùng</string>
     <string name="user_exp_mode_normal">Chế độ bình thường</string>
@@ -663,4 +657,14 @@
     <string name="hint_setup_keys">Bạn có thể định cấu hình các nút điều khiển từ xa của mình thành bất kỳ hành động thích hợp nào</string>
     <string name="hint_setup_touch">Bạn có thể định cấu hình nhấn đúp và vuốt ở các vùng màn hình khác nhau cho bất kỳ hành động thích hợp nào</string>
     <string name="delay_before_acting">Trì hoãn trước khi hành động</string>
+    <string name="select_category">Chọn danh mục</string>
+    <string name="launcher_button">Các nút khởi chạy</string>
+    <string name="track_language">Theo dõi ngôn ngữ</string>
+    <string name="track_language_list">Danh sách mã ngôn ngữ được phân tách bằng dấu phẩy</string>
+    <string name="fold_ch_pri_suffixes">Các hậu tố tên ưu tiên được sử dụng khi gấp danh sách kênh</string>
+    <string name="fold_ch_by">Những điều cần lưu ý khi hợp nhất</string>
+    <string name="place_in_other_category">Đặt vào một danh mục khác</string>
+    <string name="yesterday">hôm qua</string>
+    <string name="tomorrow">Ngày mai</string>
+    <string name="show_ip_address">Hiển thị địa chỉ IP</string>
     </resources>

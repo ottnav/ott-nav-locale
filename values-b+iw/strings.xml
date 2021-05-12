@@ -29,7 +29,6 @@
     <string name="category_by_favorite">אהוב</string>
     <string name="category_desc_movies">מסנן אוטומטי מכל הערוצים</string>
     <string name="category_desc_tv_series">מסנן אוטומטי מכל הערוצים</string>
-    <string name="category_desc_exact_tv_series">סדרת טלוויזיה</string>
     <string name="category_desc_tv_shows">מסנן אוטומטי מכל הערוצים</string>
     <string name="category_desc_exact_tv_shows">תוכנית טלוויזיה</string>
     <string name="category_desc_tv_channel">ערוץ טלוויזיה</string>
@@ -204,7 +203,6 @@
     <string name="cfg_trans_wind">השתמש בממשק שקוף</string>
 
     <string name="do_not_show">אל תראה</string>
-    <string name="android_not_genuine">ייתכן שהרכישות לא יפעלו במכשיר שלך.</string>
     <string name="spread_title">כמו האפליקציה? תפיץ את המילה!</string>
     <string name="spread_btn_rate">דרג האפליקציה עם חמישה כוכבים</string>
     <string name="spread_btn_share">שתף קישור לאפליקציה עם חבר</string>
@@ -218,7 +216,6 @@
     <string name="invalid_domain">הדומיין הוא כנראה לא חוקי. בדוק את הקלט</string>
     <string name="example">דוגמא</string>
     <string name="provider_generic">ספק כללי או רשימת השמעה</string>
-    <string name="watched">נצפה:</string>
     <string name="btn_search">לחפש</string>
     <string name="premium_fea_6">שלח זרם לתצוגה אלחוטית</string>
     <string name="wifi_display">תצוגה אלחוטית</string>
@@ -462,7 +459,6 @@
     <string name="long_press">לחיצה ארוכה</string>
     <string name="hours">שעות</string>
     <string name="parental_control">בקרת הורים</string>
-    <string name="show_different_time_frame_guide">הצג לוח זמנים מוקדם יותר או מאוחר יותר</string>
     <string name="seconds">שניות</string>
     <string name="auto_detected">זוהה אוטומטית</string>
     <string name="remove">הסר</string>
@@ -529,7 +525,6 @@
     <string name="contact_dev">צור קשר עם המפתח</string>
     <string name="with_stats">אפשר לשלוח סטטיסטיקות אנונימיות כדי לשפר את האפליקציה</string>
     <string name="last_epg_load_ok">מידע טעינת EPG אחרון מוצלח</string>
-    <string name="mass_add_chls_to_this_cat">הוסף ערוצים לקטגוריה זו</string>
     <string name="minutes_ago_10">לפני 10 דקות</string>
     <string name="time_warp">מנהרת זמן</string>
     <string name="show_dir_sep_from_videos">הצג ספריות בנפרד מסרטונים</string>
@@ -586,7 +581,6 @@
     <string name="enabled_modules">מודולים מופעלים</string>
     <string name="replace_provider_order_abc">החלף את סדר הערוץ של הספק לפי סדר לפי אלף-בית</string>
     <string name="nothing_to_backup">אין נתונים לגיבוי!</string>
-    <string name="qr_code_desc">אתה יכול לסרוק קוד באמצעות אפליקציית המצלמה בטלפון שלך. לחלופין, מכיוון שהקוד הועתק ללוח, אתה יכול פשוט להדביק אותו באפליקציה אחרת.</string>
     <string name="next_page">עמוד הבא</string>
     <string name="user_exp_level">רמת חווית משתמש</string>
     <string name="user_exp_mode_normal">מצב נורמלי</string>
@@ -670,4 +664,14 @@
     <string name="hint_setup_keys">באפשרותך להגדיר את לחצני השלט הרחוק שלך לכל פעולה עדיפה</string>
     <string name="hint_setup_touch">אתה יכול להגדיר ברזים כפולים והחלפות באזורי מסך שונים לכל פעולה עדיפה</string>
     <string name="delay_before_acting">קחשמה ינפל בוכיע</string>
+    <string name="select_category">הירוגטק רחב</string>
+    <string name="launcher_button">רגשמ ירותפכ</string>
+    <string name="track_language">הפש רחא בוקע</string>
+    <string name="track_language_list">הפש ידוק לש םיקיספב תדרפומ המישר</string>
+    <string name="fold_ch_pri_suffixes">םיצורעה תמישר לופיק תעב ושמשיש תופדעומ םש תומויס</string>
+    <string name="fold_ch_by">מה לקחת בחשבון בעת מיזוג</string>
+    <string name="place_in_other_category">תרחא הירוגטקל בצה</string>
+    <string name="yesterday">לומתא</string>
+    <string name="tomorrow">רחָמָ</string>
+    <string name="show_ip_address">IP תבותכ גצה</string>
     </resources>

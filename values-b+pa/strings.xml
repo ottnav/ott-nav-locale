@@ -29,7 +29,6 @@
     <string name="category_by_favorite">ਮਨਪਸੰਦ</string>
     <string name="category_desc_movies">ਸਾਰੇ ਚੈਨਲਸ ਤੋਂ ਆਟੋਮੈਟਿਕ ਫਿਲਟਰ</string>
     <string name="category_desc_tv_series">ਸਾਰੇ ਚੈਨਲਸ ਤੋਂ ਆਟੋਮੈਟਿਕ ਫਿਲਟਰ</string>
-    <string name="category_desc_exact_tv_series">ਟੀਵੀ ਲੜੀ</string>
     <string name="category_desc_tv_shows">ਸਾਰੇ ਚੈਨਲਸ ਤੋਂ ਆਟੋਮੈਟਿਕ ਫਿਲਟਰ</string>
     <string name="category_desc_exact_tv_shows">ਟੀਵੀ ਤੇ ਆਉਣ ਆਲਾ ਨਾਟਕ</string>
     <string name="category_desc_tv_channel">ਟੀਵੀ ਚੈਨਲ</string>
@@ -203,7 +202,6 @@
     <string name="cfg_trans_wind">ਪਾਰਦਰਸ਼ੀ ਇੰਟਰਫੇਸ ਵਰਤੋ</string>
 
     <string name="do_not_show">ਨਾ ਦਿਖਾਓ</string>
-    <string name="android_not_genuine">ਖਰੀਦਦਾਰ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਤੇ ਕੰਮ ਨਹੀਂ ਕਰਨਗੇ.</string>
     <string name="spread_title">ਐਪ ਦੀ ਤਰ੍ਹਾਂ? ਸ਼ਬਦ ਨੂੰ ਫੈਲਾਓ!</string>
     <string name="spread_btn_rate">ਪੰਜ ਸਟਾਰ ਨਾਲ ਐਪ ਨੂੰ ਦਰਜਾ ਦਿਓ</string>
     <string name="spread_btn_share">ਕਿਸੇ ਦੋਸਤ ਨਾਲ ਐਪ ਲਿੰਕ ਸਾਂਝੇ ਕਰੋ</string>
@@ -217,7 +215,6 @@
     <string name="invalid_domain">ਡੋਮੇਨ ਸ਼ਾਇਦ ਅਯੋਗ ਹੈ ਆਪਣੇ ਇਨਪੁਟ ਦੀ ਜਾਂਚ ਕਰੋ</string>
     <string name="example">ਉਦਾਹਰਨ</string>
     <string name="provider_generic">ਆਮ ਪ੍ਰਦਾਤਾ ਜਾਂ ਪਲੇਲਿਸਟ</string>
-    <string name="watched">ਦੇਖੇ ਗਏ:</string>
     <string name="btn_search">ਖੋਜ</string>
     <string name="premium_fea_6">ਇੱਕ ਵਾਇਰਲੈਸ ਡਿਸਪਲੇ ਲਈ ਸਟ੍ਰੀਮ ਭੇਜੋ</string>
     <string name="wifi_display">ਵਾਇਰਲੈਸ ਡਿਸਪਲੇ</string>
@@ -461,7 +458,6 @@
     <string name="long_press">ਲੰਬੇ ਦਬਾਉਣ</string>
     <string name="hours">ਘੰਟੇ</string>
     <string name="parental_control">ਮਾਪਿਆਂ ਦਾ ਨਿਯੰਤਰਣ</string>
-    <string name="show_different_time_frame_guide">ਪਹਿਲਾਂ ਜਾਂ ਬਾਅਦ ਦਾ ਸਮਾਂ-ਸਾਰਣੀ ਦਿਖਾਓ</string>
     <string name="seconds">ਸਕਿੰਟ</string>
     <string name="auto_detected">ਆਟੋ ਖੋਜਿਆ</string>
     <string name="remove">ਹਟਾਓ</string>
@@ -528,7 +524,6 @@
     <string name="contact_dev">ਸੰਪਰਕ ਵਿਕਾਸਕਾਰ</string>
     <string name="with_stats">ਐਪ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਅਗਿਆਤ ਅੰਕੜੇ ਭੇਜਣ ਦੀ ਆਗਿਆ ਦਿਓ</string>
     <string name="last_epg_load_ok">ਆਖਰੀ ਸਫਲ ਈਪੀਜੀ ਲੋਡਿੰਗ ਜਾਣਕਾਰੀ</string>
-    <string name="mass_add_chls_to_this_cat">ਇਸ ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਚੈਨਲ ਸ਼ਾਮਲ ਕਰੋ</string>
     <string name="minutes_ago_10">10 ਮਿੰਟ ਪਹਿਲਾਂ</string>
     <string name="time_warp">ਟਾਈਮ ਵਾਰਪ</string>
     <string name="show_dir_sep_from_videos">ਵਿਡਿਓ ਤੋਂ ਵੱਖ ਡਾਇਰੈਕਟਰੀਆਂ ਦਿਖਾਓ</string>
@@ -585,7 +580,6 @@
     <string name="enabled_modules">ਸਮਰੱਥ ਮੋਡੀulesਲ</string>
     <string name="replace_provider_order_abc">ਵਰਣਮਾਲਾ ਦੁਆਰਾ ਆਰਡਰ ਕਰਨ ਲਈ ਪ੍ਰਦਾਤਾ ਚੈਨਲ ਦੇ ਆਦੇਸ਼ ਨੂੰ ਤਬਦੀਲ ਕਰੋ</string>
     <string name="nothing_to_backup">ਬੈਕਅਪ ਲਈ ਕੋਈ ਡਾਟਾ ਨਹੀਂ!</string>
-    <string name="qr_code_desc">ਤੁਸੀਂ ਆਪਣੇ ਫੋਨ ਤੇ ਕੈਮਰਾ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਕੋਡ ਸਕੈਨ ਕਰ ਸਕਦੇ ਹੋ. ਜਾਂ, ਕਿਉਂਕਿ ਕੋਡ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਨਕਲ ਕੀਤਾ ਗਿਆ ਹੈ, ਤੁਸੀਂ ਇਸਨੂੰ ਕਿਸੇ ਹੋਰ ਐਪ ਵਿੱਚ ਪੇਸਟ ਕਰ ਸਕਦੇ ਹੋ.</string>
     <string name="next_page">ਅਗਲਾ ਪੰਨਾ</string>
     <string name="user_exp_level">ਉਪਭੋਗਤਾ ਤਜ਼ਰਬੇ ਦਾ ਪੱਧਰ</string>
     <string name="user_exp_mode_normal">ਸਧਾਰਣ .ੰਗ</string>
@@ -669,4 +663,14 @@
     <string name="hint_setup_keys">ਤੁਸੀਂ ਆਪਣੇ ਰਿਮੋਟ ਕੰਟਰੋਲਰ ਬਟਨਾਂ ਨੂੰ ਕਿਸੇ ਤਰਜੀਹੀ ਕਿਰਿਆ ਲਈ ਕੌਂਫਿਗਰ ਕਰ ਸਕਦੇ ਹੋ</string>
     <string name="hint_setup_touch">ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਤਰਜੀਹੀ ਕਾਰਵਾਈ ਲਈ ਵੱਖ ਵੱਖ ਸਕ੍ਰੀਨ ਖੇਤਰਾਂ ਵਿੱਚ ਡਬਲ ਟੈਪਸ ਅਤੇ ਸਵਾਈਪਸ ਨੂੰ ਕੌਂਫਿਗਰ ਕਰ ਸਕਦੇ ਹੋ</string>
     <string name="delay_before_acting">ਅਦਾਕਾਰੀ ਤੋਂ ਪਹਿਲਾਂ ਦੇਰੀ</string>
+    <string name="select_category">ਸ਼੍ਰੇਣੀ ਚੁਣੋ</string>
+    <string name="launcher_button">ਲਾਂਚਰ ਬਟਨ</string>
+    <string name="track_language">ਟਰੈਕ ਭਾਸ਼ਾ</string>
+    <string name="track_language_list">ਭਾਸ਼ਾ ਕੋਡਾਂ ਦੀ ਕਾਮੇ ਨਾਲ ਵੱਖ ਕੀਤੀ ਸੂਚੀ</string>
+    <string name="fold_ch_pri_suffixes">ਚੈਨਲਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਫੋਲਡ ਕਰਨ ਵੇਲੇ ਪਸੰਦੀਦਾ ਨਾਮ ਪਿਛੇਤਰ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ</string>
+    <string name="fold_ch_by">ਮਿਲਾਉਣ ਵੇਲੇ ਕੀ ਵਿਚਾਰਨਾ ਹੈ</string>
+    <string name="place_in_other_category">ਇੱਕ ਵੱਖਰੀ ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਰੱਖੋ</string>
+    <string name="yesterday">ਕੱਲ</string>
+    <string name="tomorrow">ਕੱਲ</string>
+    <string name="show_ip_address">IP ਪਤਾ ਦਿਖਾਓ</string>
     </resources>

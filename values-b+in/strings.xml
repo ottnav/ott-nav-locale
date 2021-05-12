@@ -22,7 +22,6 @@
     <string name="category_by_favorite">Favorit</string>
     <string name="category_desc_movies">filter otomatis dari semua saluran</string>
     <string name="category_desc_tv_series">filter otomatis dari semua saluran</string>
-    <string name="category_desc_exact_tv_series">serial tv</string>
     <string name="category_desc_tv_shows">filter otomatis dari semua saluran</string>
     <string name="category_desc_exact_tv_shows">Acara TV</string>
     <string name="category_desc_tv_channel">saluran televisi</string>
@@ -165,7 +164,6 @@
     <string name="cfg_play_action_btn_archive_as_live">Gunakan pengaturan yang sama saat menonton arsip (akan menonaktifkan pencarian menggunakan tombol kiri dan kanan)</string>
     <string name="cfg_trans_wind">Gunakan antarmuka transparan</string>
     <string name="do_not_show">Jangan tunjukan</string>
-    <string name="android_not_genuine">Pembelian mungkin tidak berfungsi di perangkat Anda.</string>
     <string name="spread_title">Suka aplikasinya? Sebarkan beritanya!</string>
     <string name="spread_btn_rate">Beri nilai aplikasi dengan lima bintang</string>
     <string name="spread_btn_share">Bagikan tautan aplikasi dengan teman</string>
@@ -179,7 +177,6 @@
     <string name="invalid_domain">Domain mungkin tidak valid. Periksa masukan Anda</string>
     <string name="example">Contoh</string>
     <string name="provider_generic">Penyedia umum atau playlist</string>
-    <string name="watched">Menonton:</string>
     <string name="btn_search">Cari</string>
     <string name="premium_fea_6">Kirim aliran ke layar nirkabel</string>
     <string name="wifi_display">Layar nirkabel</string>
@@ -415,7 +412,6 @@
     <string name="long_press">menekan lama</string>
     <string name="hours">jam</string>
     <string name="parental_control">bimbingan orang tua</string>
-    <string name="show_different_time_frame_guide">Tunjukkan jadwal sebelumnya atau nanti</string>
     <string name="seconds">detik</string>
     <string name="auto_detected">otomatis terdeteksi</string>
     <string name="remove">menghapus</string>
@@ -482,7 +478,6 @@
     <string name="contact_dev">Hubungi pengembang</string>
     <string name="with_stats">Izinkan pengiriman statistik anonim untuk meningkatkan aplikasi</string>
     <string name="last_epg_load_ok">Info pemuatan EPG terakhir yang berhasil</string>
-    <string name="mass_add_chls_to_this_cat">Tambahkan saluran ke kategori ini</string>
     <string name="minutes_ago_10">10 menit yang lalu</string>
     <string name="show_dir_sep_from_videos">Tampilkan direktori secara terpisah dari video</string>
     <string name="epg_warn_search_by_name_custom">Sumber umum hanya dicari berdasarkan nama saluran. Jika Anda memiliki sumber yang dibuat khusus untuk penyedia Anda, konfigurasikan di properti penyedia.</string>
@@ -538,7 +533,6 @@
     <string name="enabled_modules">Modul yang diaktifkan</string>
     <string name="replace_provider_order_abc">Ganti urutan saluran penyedia untuk mengurutkan menurut alfabet</string>
     <string name="nothing_to_backup">Tidak ada data untuk dicadangkan!</string>
-    <string name="qr_code_desc">Anda dapat memindai kode menggunakan aplikasi kamera di ponsel Anda. Atau, karena kode telah disalin ke papan klip, Anda dapat menempelkannya di aplikasi lain.</string>
     <string name="next_page">Halaman selanjutnya</string>
     <string name="user_exp_level">Tingkat pengalaman pengguna</string>
     <string name="user_exp_mode_normal">Mode normal</string>
@@ -623,4 +617,14 @@
     <string name="hint_setup_keys">Anda dapat mengonfigurasi tombol pengontrol jarak jauh Anda untuk tindakan apa pun yang lebih disukai</string>
     <string name="hint_setup_touch">Anda dapat mengonfigurasi ketukan dan gesekan dua kali di berbagai wilayah layar untuk tindakan yang lebih disukai</string>
     <string name="delay_before_acting">Tunda sebelum bertindak</string>
+    <string name="select_category">Pilih Kategori</string>
+    <string name="launcher_button">Tombol peluncur</string>
+    <string name="track_language">Bahasa trek</string>
+    <string name="track_language_list">Daftar kode bahasa yang dipisahkan koma</string>
+    <string name="fold_ch_pri_suffixes">Sufiks nama yang disukai untuk digunakan saat melipat daftar saluran</string>
+    <string name="fold_ch_by">Apa yang harus dipertimbangkan saat menggabungkan</string>
+    <string name="place_in_other_category">Tempatkan ke dalam kategori yang berbeda</string>
+    <string name="yesterday">kemarin</string>
+    <string name="tomorrow">besok</string>
+    <string name="show_ip_address">Tampilkan alamat IP</string>
     </resources>

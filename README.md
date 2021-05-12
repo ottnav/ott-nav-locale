@@ -10,6 +10,7 @@ If you wish to improve translation or add a new one - create a pull request
 
 + values: English
 + values-b+ar: العربية
++ values-b+be: Белару́ская
 + values-b+bn: বাঙালি
 + values-b+bg: Български
 + values-b+cs: Český

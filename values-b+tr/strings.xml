@@ -29,7 +29,6 @@
     <string name="category_by_favorite">Favori</string>
     <string name="category_desc_movies">tüm kanallardan otomatik filtre</string>
     <string name="category_desc_tv_series">tüm kanallardan otomatik filtre</string>
-    <string name="category_desc_exact_tv_series">Dizi</string>
     <string name="category_desc_tv_shows">tüm kanallardan otomatik filtre</string>
     <string name="category_desc_exact_tv_shows">Televizyon şovu</string>
     <string name="category_desc_tv_channel">TV kanalı</string>
@@ -203,7 +202,6 @@
     <string name="cfg_trans_wind">Şeffaf arayüz kullan</string>
 
     <string name="do_not_show">gösterme</string>
-    <string name="android_not_genuine">Satın alımlar cihazınızda çalışmayabilir.</string>
     <string name="spread_title">App gibi mi? Kelimeyi yay!</string>
     <string name="spread_btn_rate">Uygulamayı beş yıldızla değerlendirin</string>
     <string name="spread_btn_share">Uygulama bağlantısını arkadaşınızla paylaş</string>
@@ -217,7 +215,6 @@
     <string name="invalid_domain">Alan muhtemelen geçersizdir. Girişinizi kontrol edin</string>
     <string name="example">Örnek</string>
     <string name="provider_generic">Genel sağlayıcı veya oynatma listesi</string>
-    <string name="watched">İzlenen:</string>
     <string name="btn_search">Arama</string>
     <string name="premium_fea_6">Kablosuz bir ekrana yayın gönder</string>
     <string name="wifi_display">Kablosuz Ekran</string>
@@ -461,7 +458,6 @@
     <string name="long_press">uzun basma</string>
     <string name="hours">saatler</string>
     <string name="parental_control">ebeveyn Kontrolü</string>
-    <string name="show_different_time_frame_guide">Daha erken veya daha sonraki zaman çizelgesini göster</string>
     <string name="seconds">saniye</string>
     <string name="auto_detected">otomatik algılandı</string>
     <string name="remove">Kaldır</string>
@@ -528,7 +524,6 @@
     <string name="contact_dev">Geliştiriciyle iletişim kurun</string>
     <string name="with_stats">Uygulamayı geliştirmek için anonim istatistikler göndermeye izin ver</string>
     <string name="last_epg_load_ok">Son başarılı EPG yükleme bilgisi</string>
-    <string name="mass_add_chls_to_this_cat">Bu kategoriye kanal ekle</string>
     <string name="minutes_ago_10">10 dakika önce</string>
     <string name="time_warp">Zaman tüneli</string>
     <string name="show_dir_sep_from_videos">Dizinleri videolardan ayrı olarak göster</string>
@@ -585,7 +580,6 @@
     <string name="enabled_modules">Etkin modüller</string>
     <string name="replace_provider_order_abc">Sipariş için sağlayıcı kanalı sırasını alfabe ile değiştir</string>
     <string name="nothing_to_backup">Yedeklenecek veri yok!</string>
-    <string name="qr_code_desc">Telefonunuzdaki kamera uygulamasını kullanarak kod tarayabilirsiniz. Veya kod panoya kopyalandığından, başka bir uygulamaya yapıştırabilirsiniz.</string>
     <string name="next_page">Sonraki Sayfa</string>
     <string name="user_exp_level">Kullanıcı deneyimi seviyesi</string>
     <string name="user_exp_mode_normal">Normal mod</string>
@@ -669,4 +663,14 @@
     <string name="hint_setup_keys">Uzaktan kumanda düğmelerinizi tercih ettiğiniz herhangi bir eyleme yapılandırabilirsiniz</string>
     <string name="hint_setup_touch">Tercih edilen herhangi bir eyleme farklı ekran bölgelerinde çift dokunma ve kaydırma yapılandırabilirsiniz.</string>
     <string name="delay_before_acting">Oyunculuktan önce gecikme</string>
+    <string name="select_category">Kategori seç</string>
+    <string name="launcher_button">Başlatıcı düğmeleri</string>
+    <string name="track_language">İzleme dili</string>
+    <string name="track_language_list">Virgülle ayrılmış dil kodları listesi</string>
+    <string name="fold_ch_pri_suffixes">Kanal listesi katlanırken kullanılacak tercih edilen isim sonekleri</string>
+    <string name="fold_ch_by">Birleştirirken nelere dikkat etmelisiniz</string>
+    <string name="place_in_other_category">Farklı bir kategoriye yerleştirin</string>
+    <string name="yesterday">dün</string>
+    <string name="tomorrow">yarın</string>
+    <string name="show_ip_address">IP adresini göster</string>
     </resources>

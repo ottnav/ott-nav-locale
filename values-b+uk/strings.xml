@@ -26,7 +26,6 @@
     <string name="category_by_favorite">Улюблений</string>
     <string name="category_desc_movies">автоматичний фільтр з усіх каналів</string>
     <string name="category_desc_tv_series">автоматичний фільтр з усіх каналів</string>
-    <string name="category_desc_exact_tv_series">серіал</string>
     <string name="category_desc_tv_shows">автоматичний фільтр з усіх каналів</string>
     <string name="category_desc_exact_tv_shows">Телешоу</string>
     <string name="category_desc_tv_channel">Телеканал</string>
@@ -196,7 +195,6 @@
     <string name="cfg_trans_wind">Використовувати прозорий інтерфейс</string>
 
     <string name="do_not_show">не показувати</string>
-    <string name="android_not_genuine">Покупки можуть не працювати на вашому пристрої.</string>
     <string name="spread_title">Подобається додаток? Розкажіть про нього!</string>
     <string name="spread_btn_rate">Оцініть додаток п\'ятьма зірками</string>
     <string name="spread_btn_share">Поділіться посиланням на програму з другом</string>
@@ -210,7 +208,6 @@
     <string name="invalid_domain">Можливо, домен недійсний. Перевірте свій вхід</string>
     <string name="example">Приклад</string>
     <string name="provider_generic">Типовий провайдер або плейлист</string>
-    <string name="watched">Переглянуто:</string>
     <string name="btn_search">Пошук</string>
     <string name="premium_fea_6">Надіслати потік на безпровідний дисплей</string>
     <string name="wifi_display">Безпровідний дисплей</string>
@@ -455,7 +452,6 @@
     <string name="long_press">тривале натискання</string>
     <string name="hours">години</string>
     <string name="parental_control">батьківський контроль</string>
-    <string name="show_different_time_frame_guide">Показати попередній або подальший розклад</string>
     <string name="seconds">секунди</string>
     <string name="auto_detected">автовизначення</string>
     <string name="remove">видалити</string>
@@ -522,7 +518,6 @@
     <string name="contact_dev">Звернутись до розробника</string>
     <string name="with_stats">Дозволити надсилати анонімні статистичні дані для покращення програми</string>
     <string name="last_epg_load_ok">Інформація про останнє успішне завантаження EPG</string>
-    <string name="mass_add_chls_to_this_cat">Додайте канали до цієї категорії</string>
     <string name="minutes_ago_10">10 хвилин тому</string>
     <string name="time_warp">Викривлення часу</string>
     <string name="show_dir_sep_from_videos">Показувати каталоги окремо від відео</string>
@@ -579,7 +574,6 @@
     <string name="enabled_modules">Увімкнені модулі</string>
     <string name="replace_provider_order_abc">Змінити порядок каналів провайдера на порядок за алфавітом</string>
     <string name="nothing_to_backup">Немає даних для резервного копіювання!</string>
-    <string name="qr_code_desc">Ви можете сканувати код за допомогою програми Камера на телефоні. Або, оскільки код було скопійованой у буфер обміну, ви можете просто вставити його в інший додаток.</string>
     <string name="next_page">Наступна сторінка</string>
     <string name="user_exp_level">Рівень досвіду користувача</string>
     <string name="user_exp_mode_normal">Нормальний режим</string>
@@ -663,4 +657,14 @@
     <string name="hint_setup_keys">Ви можете налаштувати кнопки пульта дистанційного керування на будь-яку бажану дію</string>
     <string name="hint_setup_touch">Ви можете налаштувати подвійні натискання та проведення в різних регіонах екрана на будь-яку бажану дію</string>
     <string name="delay_before_acting">Затримка перед тим, як діяти</string>
+    <string name="select_category">Виберіть категорію</string>
+    <string name="launcher_button">Кнопки запуску</string>
+    <string name="track_language">Мова треку</string>
+    <string name="track_language_list">Список мовних кодів, розділений комами</string>
+    <string name="fold_ch_pri_suffixes">Кращі суфікси імен, які будуть використовуватися при складанні списку каналів</string>
+    <string name="fold_ch_by">Що слід враховувати при об’єднанні</string>
+    <string name="place_in_other_category">Віднести до іншої категорії</string>
+    <string name="yesterday">вчора</string>
+    <string name="tomorrow">завтра</string>
+    <string name="show_ip_address">Показати IP-адресу</string>
     </resources>

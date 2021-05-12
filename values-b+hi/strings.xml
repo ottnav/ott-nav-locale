@@ -29,7 +29,6 @@
     <string name="category_by_favorite">पसंदीदा</string>
     <string name="category_desc_movies">सभी चैनलों से स्वचालित फ़िल्टर</string>
     <string name="category_desc_tv_series">सभी चैनलों से स्वचालित फ़िल्टर</string>
-    <string name="category_desc_exact_tv_series">टीवी श्रृंखला</string>
     <string name="category_desc_tv_shows">सभी चैनलों से स्वचालित फ़िल्टर</string>
     <string name="category_desc_exact_tv_shows">टीवी शो</string>
     <string name="category_desc_tv_channel">टीवी चैनल</string>
@@ -205,7 +204,6 @@
 
 
     <string name="do_not_show">मत दिखाओ</string>
-    <string name="android_not_genuine">खरीद आपके डिवाइस पर काम नहीं कर सकती हैं।</string>
     <string name="spread_title">ऐप की तरह? प्रचार कीजिये!</string>
     <string name="spread_btn_rate">पांच सितारों के साथ ऐप रेट करें</string>
     <string name="spread_btn_share">एक दोस्त के साथ ऐप लिंक साझा करें</string>
@@ -219,7 +217,6 @@
     <string name="invalid_domain">डोमेन शायद अमान्य है। अपना इनपुट जांचें</string>
     <string name="example">उदाहरण</string>
     <string name="provider_generic">जेनेरिक प्रदाता या प्लेलिस्ट</string>
-    <string name="watched">देखा गया:</string>
     <string name="btn_search">खोज</string>
     <string name="premium_fea_6">वायरलेस डिस्प्ले पर स्ट्रीम भेजें</string>
     <string name="wifi_display">बेतार प्रकट करना</string>
@@ -463,7 +460,6 @@
     <string name="long_press">लंबे समय तक दबाने</string>
     <string name="hours">घंटे</string>
     <string name="parental_control">माता पिता का नियंत्रण</string>
-    <string name="show_different_time_frame_guide">पहले या बाद में समय सारिणी दिखाएं</string>
     <string name="seconds">सेकंड</string>
     <string name="auto_detected">ऑटो का पता चला</string>
     <string name="remove">हटाना</string>
@@ -530,7 +526,6 @@
     <string name="contact_dev">डेवलपर से संपर्क करें</string>
     <string name="with_stats">एप्लिकेशन को बेहतर बनाने के लिए अनाम आंकड़े भेजने की अनुमति दें</string>
     <string name="last_epg_load_ok">अंतिम सफल ईपीजी लोडिंग जानकारी</string>
-    <string name="mass_add_chls_to_this_cat">इस श्रेणी में चैनल जोड़ें</string>
     <string name="minutes_ago_10">10 मिनट पहले</string>
     <string name="time_warp">टाइम वार्प</string>
     <string name="show_dir_sep_from_videos">वीडियो से अलग निर्देशिका दिखाएं</string>
@@ -587,7 +582,6 @@
     <string name="enabled_modules">सक्षम मॉड्यूल</string>
     <string name="replace_provider_order_abc">वर्णमाला द्वारा ऑर्डर करने के लिए प्रदाता चैनल ऑर्डर बदलें</string>
     <string name="nothing_to_backup">बैकअप के लिए कोई डेटा नहीं!</string>
-    <string name="qr_code_desc">आप अपने फोन पर कैमरा ऐप का उपयोग करके कोड स्कैन कर सकते हैं। या, चूंकि कोड को क्लिपबोर्ड पर कॉपी किया गया है, इसलिए आप इसे किसी अन्य ऐप में पेस्ट कर सकते हैं।</string>
     <string name="next_page">अगला पृष्ठ</string>
     <string name="user_exp_level">उपयोगकर्ता अनुभव स्तर</string>
     <string name="user_exp_mode_normal">सामान्य स्थिति</string>
@@ -671,4 +665,14 @@
     <string name="hint_setup_keys">आप किसी भी बेहतर कार्रवाई के लिए अपने रिमोट कंट्रोलर बटन को कॉन्फ़िगर कर सकते हैं</string>
     <string name="hint_setup_touch">आप अलग-अलग स्क्रीन क्षेत्रों में डबल टैप और स्वाइप को किसी भी बेहतर कार्रवाई के लिए कॉन्फ़िगर कर सकते हैं</string>
     <string name="delay_before_acting">अभिनय से पहले देरी</string>
+    <string name="select_category">श्रेणी चुनना</string>
+    <string name="launcher_button">लॉन्चर बटन</string>
+    <string name="track_language">ट्रैक भाषा</string>
+    <string name="track_language_list">भाषा कोड की कोमा से अलग सूची</string>
+    <string name="fold_ch_pri_suffixes">चैनलों की सूची तह करते समय उपयोग किया जाने वाला प्रत्यय नाम</string>
+    <string name="fold_ch_by">विलय होने पर क्या विचार करें</string>
+    <string name="place_in_other_category">एक अलग श्रेणी में रखें</string>
+    <string name="yesterday">बिता हुआ कल</string>
+    <string name="tomorrow">आने वाला कल</string>
+    <string name="show_ip_address">IP पता दिखाएं</string>
     </resources>

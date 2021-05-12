@@ -22,7 +22,6 @@
     <string name="category_by_favorite">Αγαπημένη</string>
     <string name="category_desc_movies">αυτόματο φίλτρο από όλα τα κανάλια</string>
     <string name="category_desc_tv_series">αυτόματο φίλτρο από όλα τα κανάλια</string>
-    <string name="category_desc_exact_tv_series">Τηλεοπτική σειρά</string>
     <string name="category_desc_tv_shows">αυτόματο φίλτρο από όλα τα κανάλια</string>
     <string name="category_desc_exact_tv_shows">Τηλεοπτική εκπομπή</string>
     <string name="category_desc_tv_channel">τηλεοπτικό κανάλι</string>
@@ -167,7 +166,6 @@
     <string name="cfg_play_action_btn_archive_as_live">Χρησιμοποιήστε την ίδια ρύθμιση ενώ παρακολουθείτε αρχεία (θα απενεργοποιήσετε την αναζήτηση χρησιμοποιώντας κουμπιά αριστερά και δεξιά)</string>
     <string name="cfg_trans_wind">Χρησιμοποιήστε διαφανή διεπαφή</string>
     <string name="do_not_show">μην δείξεις</string>
-    <string name="android_not_genuine">Οι αγορές ενδέχεται να μην λειτουργούν στη συσκευή σας.</string>
     <string name="spread_title">Όπως και η εφαρμογή; Διέδωσέ το!</string>
     <string name="spread_btn_rate">Αξιολογήστε την εφαρμογή με πέντε αστέρια</string>
     <string name="spread_btn_share">Μοιραστείτε τη σύνδεση εφαρμογής με έναν φίλο</string>
@@ -181,7 +179,6 @@
     <string name="invalid_domain">Ο τομέας είναι πιθανώς άκυρος. Ελέγξτε την είσοδό σας</string>
     <string name="example">Παράδειγμα</string>
     <string name="provider_generic">Γενικός παροχέας ή playlist</string>
-    <string name="watched">Παρακολούθησα:</string>
     <string name="btn_search">Ψάξιμο</string>
     <string name="premium_fea_6">Αποστολή ροής σε μια ασύρματη οθόνη</string>
     <string name="wifi_display">Ασύρματη οθόνη</string>
@@ -415,7 +412,6 @@
     <string name="long_press">μακρύ πάτημα</string>
     <string name="hours">ώρες</string>
     <string name="parental_control">γονικός έλεγχος</string>
-    <string name="show_different_time_frame_guide">Εμφάνιση προγενέστερου ή μεταγενέστερου χρονοδιαγράμματος</string>
     <string name="seconds">δευτερολέπτων</string>
     <string name="auto_detected">αυτόματη ανίχνευση</string>
     <string name="remove">αφαιρώ</string>
@@ -482,7 +478,6 @@
     <string name="contact_dev">Επικοινωνήστε με τον προγραμματιστή</string>
     <string name="with_stats">Να επιτρέπεται η αποστολή ανώνυμων στατιστικών στοιχείων για τη βελτίωση της εφαρμογής</string>
     <string name="last_epg_load_ok">Τελευταίες πληροφορίες σχετικά με την φόρτωση EPG</string>
-    <string name="mass_add_chls_to_this_cat">Προσθέστε κανάλια σε αυτήν την κατηγορία</string>
     <string name="minutes_ago_10">Πριν από 10 λεπτά</string>
     <string name="time_warp">Χρονικό στημόνι</string>
     <string name="show_dir_sep_from_videos">Εμφάνιση των καταλόγων ξεχωριστά από τα βίντεο</string>
@@ -539,7 +534,6 @@
     <string name="enabled_modules">Ενεργοποιημένες ενότητες</string>
     <string name="replace_provider_order_abc">Αντικατάσταση παραγγελίας καναλιού παροχέα για παραγγελία με αλφάβητο</string>
     <string name="nothing_to_backup">Δεν υπάρχουν δεδομένα για δημιουργία αντιγράφων ασφαλείας!</string>
-    <string name="qr_code_desc">Μπορείτε να σαρώσετε κώδικα χρησιμοποιώντας την εφαρμογή κάμερας στο τηλέφωνό σας. Εναλλακτικά, δεδομένου ότι ο κώδικας έχει αντιγραφεί στο πρόχειρο, μπορείτε απλώς να τον επικολλήσετε σε άλλη εφαρμογή.</string>
     <string name="next_page">Επόμενη σελίδα</string>
     <string name="user_exp_level">Επίπεδο εμπειρίας χρήστη</string>
     <string name="user_exp_mode_normal">Κανονική λειτουργία</string>
@@ -623,4 +617,14 @@
     <string name="hint_setup_keys">Μπορείτε να διαμορφώσετε τα κουμπιά του τηλεχειριστηρίου σας σε οποιαδήποτε προτιμώμενη ενέργεια</string>
     <string name="hint_setup_touch">Μπορείτε να διαμορφώσετε διπλά πατήματα και ολίσθηση σε διαφορετικές περιοχές οθόνης σε οποιαδήποτε προτιμώμενη ενέργεια</string>
     <string name="delay_before_acting">Καθυστέρηση πριν ενεργήσετε</string>
+    <string name="select_category">Επιλέξτε Κατηγορία</string>
+    <string name="launcher_button">Κουμπιά εκκίνησης</string>
+    <string name="track_language">Γλώσσα παρακολούθησης</string>
+    <string name="track_language_list">Λίστα κωδικών γλώσσας διαχωρισμένων με κόμμα</string>
+    <string name="fold_ch_pri_suffixes">Προτιμώμενα επιθήματα ονόματος για χρήση κατά την αναδίπλωση λίστας καναλιών</string>
+    <string name="fold_ch_by">Τι πρέπει να λάβετε υπόψη κατά τη συγχώνευση</string>
+    <string name="place_in_other_category">Τοποθετήστε σε διαφορετική κατηγορία</string>
+    <string name="yesterday">εχθές</string>
+    <string name="tomorrow">αύριο</string>
+    <string name="show_ip_address">Εμφάνιση διεύθυνσης IP</string>
     </resources>

@@ -29,7 +29,6 @@
     <string name="category_by_favorite">مفضل</string>
     <string name="category_desc_movies">مرشح تلقائي من جميع القنوات</string>
     <string name="category_desc_tv_series">مرشح تلقائي من جميع القنوات</string>
-    <string name="category_desc_exact_tv_series">مسلسل تلفزيونى</string>
     <string name="category_desc_tv_shows">مرشح تلقائي من جميع القنوات</string>
     <string name="category_desc_exact_tv_shows">برنامج تلفزيوني</string>
     <string name="category_desc_tv_channel">قناة تلفزيونية</string>
@@ -205,7 +204,6 @@
     <string name="cfg_trans_wind">استخدم واجهة شفافة</string>
 
     <string name="do_not_show">لا تظهر</string>
-    <string name="android_not_genuine">قد لا تعمل عمليات الشراء على جهازك.</string>
     <string name="spread_title">هل أعجبك التطبيق؟ انشر الكلمة!</string>
     <string name="spread_btn_rate">تقييم التطبيق مع خمس نجوم</string>
     <string name="spread_btn_share">مشاركة رابط التطبيق مع صديق</string>
@@ -219,7 +217,6 @@
     <string name="invalid_domain">النطاق ربما غير صالح. تحقق من ادخالك</string>
     <string name="example">مثال</string>
     <string name="provider_generic">موفر عام أو قائمة تشغيل</string>
-    <string name="watched">شاهد:</string>
     <string name="btn_search">بحث</string>
     <string name="premium_fea_6">إرسال دفق إلى شاشة لاسلكية</string>
     <string name="wifi_display">عرض لاسلكي</string>
@@ -463,7 +460,6 @@
     <string name="long_press">الضغط لفترة طويلة</string>
     <string name="hours">ساعات</string>
     <string name="parental_control">مراقبة اهلية</string>
-    <string name="show_different_time_frame_guide">عرض الجدول الزمني في وقت سابق أو في وقت لاحق</string>
     <string name="seconds">ثواني</string>
     <string name="auto_detected">الكشف التلقائي</string>
     <string name="remove">إزالة</string>
@@ -530,7 +526,6 @@
     <string name="contact_dev">الاتصال المطور</string>
     <string name="with_stats">السماح بإرسال إحصائيات مجهولة الهوية لتحسين التطبيق</string>
     <string name="last_epg_load_ok">آخر معلومات تحميل EPG ناجحة</string>
-    <string name="mass_add_chls_to_this_cat">أضف قنوات لهذه الفئة</string>
     <string name="minutes_ago_10">منذ 10 دقيقة</string>
     <string name="time_warp">الوقت الاعوجاج</string>
     <string name="show_dir_sep_from_videos">عرض الدلائل بشكل منفصل عن مقاطع الفيديو</string>
@@ -587,7 +582,6 @@
     <string name="enabled_modules">الوحدات الممكّنة</string>
     <string name="replace_provider_order_abc">استبدل ترتيب قناة الموفر للطلب بالأبجدية</string>
     <string name="nothing_to_backup">لا توجد بيانات للنسخ الاحتياطي!</string>
-    <string name="qr_code_desc">يمكنك مسح الرمز ضوئيًا باستخدام تطبيق الكاميرا على هاتفك. أو ، نظرًا لأنه تم نسخ الرمز إلى الحافظة ، يمكنك فقط لصقه في تطبيق آخر.</string>
     <string name="next_page">الصفحة التالية</string>
     <string name="user_exp_level">مستوى تجربة المستخدم</string>
     <string name="user_exp_mode_normal">الوضع العادي</string>
@@ -671,4 +665,14 @@
     <string name="hint_setup_keys">يمكنك تكوين أزرار جهاز التحكم عن بعد لأي إجراء مفضل</string>
     <string name="hint_setup_touch">يمكنك تكوين النقرات المزدوجة والضربات الشديدة في مناطق الشاشة المختلفة لأي إجراء مفضل</string>
     <string name="delay_before_acting">ﻑﺮﺼﺘﻟﺍ ﻞﺒﻗ ﺮﻴﺧﺄﺘﻟﺍ</string>
+    <string name="select_category">ﺔﺌﻔﻟﺍ ﺮﺘﺧﺍ</string>
+    <string name="launcher_button">ﻞﻐﺸﻤﻟﺍ ﺭﺍﺭﺯﺃ</string>
+    <string name="track_language">ﺭﺎﺴﻤﻟﺍ ﺔﻐﻟ</string>
+    <string name="track_language_list">ﻞﺻﺍﻮﻔﺑ ﺔﻟﻮﺼﻔﻣ ﺕﺎﻐﻠﻟﺍ ﺯﻮﻣﺭ ﺔﻤﺋﺎﻗ</string>
+    <string name="fold_ch_pri_suffixes">ﺕﺍﻮﻨﻘﻟﺍ ﺔﻤﺋﺎﻗ ﻲﻃ ﺪﻨﻋ ﺎﻬﻣﺍﺪﺨﺘﺳﻻ﻿ ﺔﻠﻀﻔﻤﻟﺍ ﻢﺳﻻ﻿ﺍ ﻖﺣﺍﻮﻟ</string>
+    <string name="fold_ch_by">ﺞﻣﺪﻟﺍ ﺪﻨﻋ ﻪﺗﺎﻋﺍﺮﻣ ﺐﺠﻳ ﺎﻣ</string>
+    <string name="place_in_other_category">ﺔﻔﻠﺘﺨﻣ ﺔﺌﻓ ﻲﻓ ﻊﺿ</string>
+    <string name="yesterday">ﺲﻣﻻ﻿ﺍ ﻲﻓ</string>
+    <string name="tomorrow">ﺍﺪﻏ</string>
+    <string name="show_ip_address">IP ﻥﺍﻮﻨﻋ ﺭﺎﻬﻇﺇ</string>
     </resources>

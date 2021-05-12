@@ -22,7 +22,6 @@
     <string name="category_by_favorite">Ulubione</string>
     <string name="category_desc_movies">automatyczny filtr ze wszystkich kanałów</string>
     <string name="category_desc_tv_series">automatyczny filtr ze wszystkich kanałów</string>
-    <string name="category_desc_exact_tv_series">serial telewizyjny</string>
     <string name="category_desc_tv_shows">automatyczny filtr ze wszystkich kanałów</string>
     <string name="category_desc_exact_tv_shows">program telewizyjny</string>
     <string name="category_desc_tv_channel">kanał TV</string>
@@ -167,7 +166,6 @@
     <string name="cfg_play_action_btn_archive_as_live">Użyj tej samej konfiguracji podczas oglądania archiwów (wyłącza wyszukiwanie za pomocą lewego i prawego przycisku)</string>
     <string name="cfg_trans_wind">Użyj przejrzystego interfejsu</string>
     <string name="do_not_show">nie pokazuj</string>
-    <string name="android_not_genuine">Subskrybcja może nie działać na Twoim urządzeniu.</string>
     <string name="spread_title">Podobnie jak w aplikacji? Szerz nowinę!</string>
     <string name="spread_btn_rate">Oceń aplikację z pięcioma gwiazdkami</string>
     <string name="spread_btn_share">Udostępnij link do aplikacji znajomemu</string>
@@ -181,7 +179,6 @@
     <string name="invalid_domain">Domena jest prawdopodobnie nieprawidłowa. Sprawdź swoje dane wejściowe</string>
     <string name="example">Przykład</string>
     <string name="provider_generic">Ogólny dostawca lub lista odtwarzania</string>
-    <string name="watched">Oglądał:</string>
     <string name="btn_search">Szukaj</string>
     <string name="premium_fea_6">Wyślij strumień do wyświetlacza bezprzewodowego</string>
     <string name="wifi_display">Bezprzewodowy wyświetlacz</string>
@@ -415,7 +412,6 @@
     <string name="long_press">długie naciśnięcie</string>
     <string name="hours">godziny</string>
     <string name="parental_control">kontrola rodzicielska</string>
-    <string name="show_different_time_frame_guide">Pokaż wcześniejszy lub późniejszy harmonogram</string>
     <string name="seconds">sekundy</string>
     <string name="auto_detected">wykryto automatycznie</string>
     <string name="remove">usunąć</string>
@@ -482,7 +478,6 @@
     <string name="contact_dev">Skontaktuj się z programistą</string>
     <string name="with_stats">Zezwól na wysyłanie anonimowych statystyk w celu ulepszenia aplikacji</string>
     <string name="last_epg_load_ok">Informacje o ostatnim udanym ładowaniu EPG</string>
-    <string name="mass_add_chls_to_this_cat">Dodaj kanały do tej kategorii</string>
     <string name="minutes_ago_10">10 minut temu</string>
     <string name="time_warp">Zakrzywienie czasoprzestrzeni</string>
     <string name="show_dir_sep_from_videos">Pokaż katalogi osobno od filmów</string>
@@ -539,7 +534,6 @@
     <string name="enabled_modules">Włączone moduły</string>
     <string name="replace_provider_order_abc">Zamień kolejność kanałów dostawcy na kolejność alfabetyczną</string>
     <string name="nothing_to_backup">Brak danych do utworzenia kopii zapasowej!</string>
-    <string name="qr_code_desc">Możesz skanować kod za pomocą aplikacji aparatu w telefonie. Lub, ponieważ kod został skopiowany do schowka, możesz po prostu wkleić go w innej aplikacji.</string>
     <string name="next_page">Następna strona</string>
     <string name="user_exp_level">Poziom Ustawień</string>
     <string name="user_exp_mode_normal">Tryb normalny</string>
@@ -623,4 +617,14 @@
     <string name="hint_setup_keys">Możesz skonfigurować przyciski pilota do dowolnego preferowanego działania</string>
     <string name="hint_setup_touch">Możesz skonfigurować podwójne dotknięcia i przesunięcia w różnych obszarach ekranu do dowolnej preferowanej akcji</string>
     <string name="delay_before_acting">Opóźnienie przed działaniem</string>
+    <string name="select_category">Wybierz kategorię</string>
+    <string name="launcher_button">Przyciski uruchamiania</string>
+    <string name="track_language">Język śledzenia</string>
+    <string name="track_language_list">Lista kodów języków oddzielonych przecinkami</string>
+    <string name="fold_ch_pri_suffixes">Preferowane sufiksy nazw, które mają być używane podczas zwijania listy kanałów</string>
+    <string name="fold_ch_by">Co wziąć pod uwagę podczas łączenia</string>
+    <string name="place_in_other_category">Umieść w innej kategorii</string>
+    <string name="yesterday">wczoraj</string>
+    <string name="tomorrow">jutro</string>
+    <string name="show_ip_address">Pokaż adres IP</string>
     </resources>

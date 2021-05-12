@@ -21,7 +21,6 @@
     <string name="category_by_favorite">Oblíbený</string>
     <string name="category_desc_movies">automatický filtr ze všech kanálů</string>
     <string name="category_desc_tv_series">automatický filtr ze všech kanálů</string>
-    <string name="category_desc_exact_tv_series">televizní série</string>
     <string name="category_desc_tv_shows">automatický filtr ze všech kanálů</string>
     <string name="category_desc_exact_tv_shows">Televizní show</string>
     <string name="category_desc_tv_channel">Televizní kanál</string>
@@ -166,7 +165,6 @@
     <string name="cfg_play_action_btn_archive_as_live">Použijte stejné nastavení při sledování archivů (zakáže vyhledávání pomocí levého a pravého tlačítka)</string>
     <string name="cfg_trans_wind">Použijte průhledné rozhraní</string>
     <string name="do_not_show">neukazuj</string>
-    <string name="android_not_genuine">Nákupy na vašem zařízení nemusí fungovat.</string>
     <string name="spread_title">Líbí se vám aplikace? Šírejte slovo!</string>
     <string name="spread_btn_rate">Ohodnoťte aplikaci pěti hvězdičkami</string>
     <string name="spread_btn_share">Sdílet odkaz na aplikaci s přítelem</string>
@@ -180,7 +178,6 @@
     <string name="invalid_domain">Doména je pravděpodobně neplatná. Zkontrolujte svůj vstup</string>
     <string name="example">Příklad</string>
     <string name="provider_generic">Obecný poskytovatel nebo seznam skladeb</string>
-    <string name="watched">Sledováno:</string>
     <string name="btn_search">Vyhledávání</string>
     <string name="premium_fea_6">Odeslat stream na bezdrátový displej</string>
     <string name="wifi_display">Bezdrátový displej</string>
@@ -414,7 +411,6 @@
     <string name="long_press">dlouhé stisknutí</string>
     <string name="hours">hodin</string>
     <string name="parental_control">rodičovská kontrola</string>
-    <string name="show_different_time_frame_guide">Zobrazit dřívější nebo pozdější rozvrh</string>
     <string name="seconds">sekundy</string>
     <string name="auto_detected">automaticky detekováno</string>
     <string name="remove">odstranit</string>
@@ -481,7 +477,6 @@
     <string name="contact_dev">Kontaktujte vývojáře</string>
     <string name="with_stats">Chcete-li aplikaci vylepšit, povolte odesílání anonymních statistik</string>
     <string name="last_epg_load_ok">Poslední úspěšné informace o načítání EPG</string>
-    <string name="mass_add_chls_to_this_cat">Přidejte kanály do této kategorie</string>
     <string name="minutes_ago_10">Před 10 minutami</string>
     <string name="time_warp">Time warp</string>
     <string name="show_dir_sep_from_videos">Zobrazit adresáře odděleně od videí</string>
@@ -538,7 +533,6 @@
     <string name="enabled_modules">Povolené moduly</string>
     <string name="replace_provider_order_abc">Nahraďte pořadí kanálů poskytovatele podle abecedy</string>
     <string name="nothing_to_backup">Žádná data k zálohování!</string>
-    <string name="qr_code_desc">Můžete skenovat kód pomocí aplikace fotoaparátu v telefonu. Nebo protože kód byl zkopírován do schránky, můžete jej vložit do jiné aplikace.</string>
     <string name="next_page">Další strana</string>
     <string name="user_exp_level">Úroveň uživatelské zkušenosti</string>
     <string name="user_exp_mode_normal">Normální mód</string>
@@ -622,4 +616,14 @@
     <string name="hint_setup_keys">Tlačítka dálkového ovladače můžete nakonfigurovat na jakoukoli preferovanou akci</string>
     <string name="hint_setup_touch">Dvojitým klepnutím a přejetím prstem v různých oblastech obrazovky můžete nakonfigurovat libovolnou preferovanou akci</string>
     <string name="delay_before_acting">Zpoždění před jednáním</string>
+    <string name="select_category">Vyberte kategorii</string>
+    <string name="launcher_button">Spouštěcí tlačítka</string>
+    <string name="track_language">Sledovat jazyk</string>
+    <string name="track_language_list">Seznam jazykových kódů oddělených čárkami</string>
+    <string name="fold_ch_pri_suffixes">Upřednostňované přípony jmen, které se mají použít při skládání seznamu kanálů</string>
+    <string name="fold_ch_by">Co je třeba vzít v úvahu při slučování</string>
+    <string name="place_in_other_category">Umístěte do jiné kategorie</string>
+    <string name="yesterday">včera</string>
+    <string name="tomorrow">zítra</string>
+    <string name="show_ip_address">Zobrazit IP adresu</string>
     </resources>

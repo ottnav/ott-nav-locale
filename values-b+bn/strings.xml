@@ -29,7 +29,6 @@
     <string name="category_by_favorite">প্রিয়</string>
     <string name="category_desc_movies">সমস্ত চ্যানেল থেকে স্বয়ংক্রিয় ফিল্টার</string>
     <string name="category_desc_tv_series">সমস্ত চ্যানেল থেকে স্বয়ংক্রিয় ফিল্টার</string>
-    <string name="category_desc_exact_tv_series">টিভি সিরিজ</string>
     <string name="category_desc_tv_shows">সমস্ত চ্যানেল থেকে স্বয়ংক্রিয় ফিল্টার</string>
     <string name="category_desc_exact_tv_shows">টিভি শো</string>
     <string name="category_desc_tv_channel">টিভি চ্যানেল</string>
@@ -206,7 +205,6 @@
 
 
     <string name="do_not_show">দেখিও না</string>
-    <string name="android_not_genuine">ক্রয় আপনার ডিভাইসে কাজ নাও হতে পারে।</string>
     <string name="spread_title">অ্যাপ্লিকেশন লাইক? শব্দ ছড়িয়ে দিন!</string>
     <string name="spread_btn_rate">পাঁচ তারকা সঙ্গে অ্যাপ্লিকেশন রেট</string>
     <string name="spread_btn_share">একটি বন্ধু সঙ্গে অ্যাপ্লিকেশন লিঙ্ক শেয়ার করুন</string>
@@ -220,7 +218,6 @@
     <string name="invalid_domain">ডোমেইন সম্ভবত অবৈধ। আপনার ইনপুট চেক করুন</string>
     <string name="example">উদাহরণ</string>
     <string name="provider_generic">জেনেরিক প্রদানকারী বা প্লেলিস্ট</string>
-    <string name="watched">দেখা হয়েছে:</string>
     <string name="btn_search">অনুসন্ধান</string>
     <string name="premium_fea_6">একটি বেতার প্রদর্শন প্রবাহ পাঠান</string>
     <string name="wifi_display">ওয়্যারলেস প্রদর্শন</string>
@@ -464,7 +461,6 @@
     <string name="long_press">দীর্ঘ চাপ</string>
     <string name="hours">ঘন্টার</string>
     <string name="parental_control">পিতামাতার নিয়ন্ত্রণ</string>
-    <string name="show_different_time_frame_guide">আগের বা পরে সময়সূচি প্রদর্শন করুন</string>
     <string name="seconds">সেকেন্ড</string>
     <string name="auto_detected">স্বয়ংক্রিয় সনাক্ত</string>
     <string name="remove">অপসারণ</string>
@@ -531,7 +527,6 @@
     <string name="contact_dev">যোগাযোগ বিকাশকারী</string>
     <string name="with_stats">অ্যাপ্লিকেশনটি উন্নত করতে বেনামে পরিসংখ্যান প্রেরণের মঞ্জুরি দিন</string>
     <string name="last_epg_load_ok">সর্বশেষ সফল ইপিজি লোডিং তথ্য</string>
-    <string name="mass_add_chls_to_this_cat">এই বিভাগে চ্যানেলগুলি যুক্ত করুন</string>
     <string name="minutes_ago_10">10 মিনিট আগে</string>
     <string name="time_warp">টাইম ওয়ার্প</string>
     <string name="show_dir_sep_from_videos">ভিডিওগুলি থেকে পৃথক ডিরেক্টরিগুলি দেখান</string>
@@ -588,7 +583,6 @@
     <string name="enabled_modules">সক্ষম মডিউল</string>
     <string name="replace_provider_order_abc">বর্ণমালা দ্বারা অর্ডার করতে সরবরাহকারী চ্যানেল আদেশ প্রতিস্থাপন করুন</string>
     <string name="nothing_to_backup">ব্যাকআপ নেওয়ার কোনও তথ্য নেই!</string>
-    <string name="qr_code_desc">আপনি আপনার ফোনে ক্যামেরা অ্যাপ্লিকেশন ব্যবহার করে কোড স্ক্যান করতে পারেন। বা, যেহেতু কোডটি ক্লিপবোর্ডে অনুলিপি করা হয়েছে, আপনি কেবল এটি অন্য কোনও অ্যাপ্লিকেশনে পেস্ট করতে পারেন।</string>
     <string name="next_page">পরবর্তী পৃষ্ঠা</string>
     <string name="user_exp_level">ব্যবহারকারীর অভিজ্ঞতা স্তর</string>
     <string name="user_exp_mode_normal">স্বাভাবিক অবস্থা</string>
@@ -672,4 +666,14 @@
     <string name="hint_setup_keys">আপনি যেকোন পছন্দসই কর্মে আপনার রিমোট কন্ট্রোলার বোতামগুলি কনফিগার করতে পারেন</string>
     <string name="hint_setup_touch">আপনি কোনও পছন্দনীয় ক্রিয়ায় বিভিন্ন স্ক্রিন অঞ্চলে ডাবল টেপ এবং সোয়াইপগুলি কনফিগার করতে পারেন</string>
     <string name="delay_before_acting">অভিনয়ের আগে বিলম্ব</string>
+    <string name="select_category">বিভাগ নির্বাচন করুন</string>
+    <string name="launcher_button">লঞ্চার বোতাম</string>
+    <string name="track_language">ট্র্যাক ভাষা</string>
+    <string name="track_language_list">ভাষা কোডগুলির কমা-বিচ্ছিন্ন তালিকা</string>
+    <string name="fold_ch_pri_suffixes">চ্যানেলগুলির তালিকা ভাঁজ করার সময় পছন্দসই নাম প্রত্যয় ব্যবহার করা উচিত</string>
+    <string name="fold_ch_by">মার্জ করার সময় কী বিবেচনা করা উচিত</string>
+    <string name="place_in_other_category">একটি আলাদা বিভাগে রাখুন</string>
+    <string name="yesterday">গতকাল</string>
+    <string name="tomorrow">আগামীকাল</string>
+    <string name="show_ip_address">আইপি ঠিকানা প্রদর্শন করুন</string>
     </resources>

@@ -29,7 +29,6 @@
     <string name="category_by_favorite">Kegemaran</string>
     <string name="category_desc_movies">penapis automatik dari semua saluran</string>
     <string name="category_desc_tv_series">penapis automatik dari semua saluran</string>
-    <string name="category_desc_exact_tv_series">tv-series</string>
     <string name="category_desc_tv_shows">penapis automatik dari semua saluran</string>
     <string name="category_desc_exact_tv_shows">Rancangan TV</string>
     <string name="category_desc_tv_channel">saluran TV</string>
@@ -204,7 +203,6 @@
 
 
     <string name="do_not_show">jangan tunjuk</string>
-    <string name="android_not_genuine">Pembelian mungkin tidak berfungsi pada peranti anda.</string>
     <string name="spread_title">Seperti aplikasinya? Sebarkan!</string>
     <string name="spread_btn_rate">Rate aplikasi dengan lima bintang</string>
     <string name="spread_btn_share">Kongsi pautan aplikasi dengan rakan</string>
@@ -218,7 +216,6 @@
     <string name="invalid_domain">Domain mungkin tidak sah. Semak input anda</string>
     <string name="example">Contoh</string>
     <string name="provider_generic">Pembekal atau senarai main generik</string>
-    <string name="watched">Menonton:</string>
     <string name="btn_search">Carian</string>
     <string name="premium_fea_6">Hantar strim ke paparan tanpa wayar</string>
     <string name="wifi_display">Paparan tanpa wayar</string>
@@ -462,7 +459,6 @@
     <string name="long_press">tekan lama</string>
     <string name="hours">Jam</string>
     <string name="parental_control">kawalan ibu bapa</string>
-    <string name="show_different_time_frame_guide">Tunjukkan jadual waktu atau lebih awal</string>
     <string name="seconds">detik</string>
     <string name="auto_detected">auto dikesan</string>
     <string name="remove">keluarkan</string>
@@ -529,7 +525,6 @@
     <string name="contact_dev">Hubungi pembangun</string>
     <string name="with_stats">Benarkan menghantar statistik tanpa nama untuk meningkatkan aplikasinya</string>
     <string name="last_epg_load_ok">Maklumat memuatkan EPG yang terakhir</string>
-    <string name="mass_add_chls_to_this_cat">Tambah saluran ke kategori ini</string>
     <string name="minutes_ago_10">10 minit yang lalu</string>
     <string name="time_warp">Masa meledingkan</string>
     <string name="show_dir_sep_from_videos">Tunjukkan direktori secara berasingan daripada video</string>
@@ -586,7 +581,6 @@
     <string name="enabled_modules">Modul yang diaktifkan</string>
     <string name="replace_provider_order_abc">Gantikan pesanan saluran penyedia mengikut urutan mengikut abjad</string>
     <string name="nothing_to_backup">Tiada data untuk disandarkan!</string>
-    <string name="qr_code_desc">Anda boleh mengimbas kod menggunakan aplikasi kamera di telefon anda. Atau, kerana kod tersebut telah disalin ke papan keratan, anda boleh menampalnya di aplikasi lain.</string>
     <string name="next_page">Muka surat seterusnya</string>
     <string name="user_exp_level">Tahap pengalaman pengguna</string>
     <string name="user_exp_mode_normal">Mod biasa</string>
@@ -670,4 +664,14 @@
     <string name="hint_setup_keys">Anda boleh mengkonfigurasi butang alat kawalan jauh ke tindakan yang lebih baik</string>
     <string name="hint_setup_touch">Anda boleh mengkonfigurasi ketukan dua kali dan sapu di kawasan skrin yang berlainan untuk tindakan yang lebih baik</string>
     <string name="delay_before_acting">Kelewatan sebelum bertindak</string>
+    <string name="select_category">Pilih Kategori</string>
+    <string name="launcher_button">Butang pelancar</string>
+    <string name="track_language">Bahasa trek</string>
+    <string name="track_language_list">Senarai kod bahasa yang dipisahkan koma</string>
+    <string name="fold_ch_pri_suffixes">Akhiran nama pilihan untuk digunakan semasa melipat senarai saluran</string>
+    <string name="fold_ch_by">Apa yang perlu dipertimbangkan semasa penggabungan</string>
+    <string name="place_in_other_category">Letakkan ke dalam kategori yang berbeza</string>
+    <string name="yesterday">semalam</string>
+    <string name="tomorrow">esok</string>
+    <string name="show_ip_address">Tunjukkan alamat IP</string>
     </resources>

@@ -29,7 +29,6 @@
     <string name="category_by_favorite">Favorito</string>
     <string name="category_desc_movies">filtro automático de todos los canales</string>
     <string name="category_desc_tv_series">filtro automático de todos los canales</string>
-    <string name="category_desc_exact_tv_series">Series de Televisión</string>
     <string name="category_desc_tv_shows">filtro automático de todos los canales</string>
     <string name="category_desc_exact_tv_shows">Programa de televisión</string>
     <string name="category_desc_tv_channel">canal de televisión</string>
@@ -202,7 +201,6 @@
     <string name="cfg_trans_wind">Usar interfaz transparente</string>
 
     <string name="do_not_show">no mostrar</string>
-    <string name="android_not_genuine">Las compras podrían no funcionar en su dispositivo.</string>
     <string name="spread_title">¿Te gusta la aplicación? ¡Corre la voz!</string>
     <string name="spread_btn_rate">Califica la aplicación con cinco estrellas.</string>
     <string name="spread_btn_share">Compartir enlace de la aplicación con un amigo</string>
@@ -216,7 +214,6 @@
     <string name="invalid_domain">El dominio es probablemente inválido. Compruebe su fuente</string>
     <string name="example">Ejemplo</string>
     <string name="provider_generic">Proveedor genérico o lista de reproducción</string>
-    <string name="watched">Visto:</string>
     <string name="btn_search">Buscar</string>
     <string name="premium_fea_6">Enviar transmisión a una pantalla inalámbrica</string>
     <string name="wifi_display">Pantalla inalámbrica</string>
@@ -459,7 +456,6 @@
     <string name="long_press">Presionar prolongado</string>
     <string name="hours">horas</string>
     <string name="parental_control">control parental</string>
-    <string name="show_different_time_frame_guide">Mostrar horario anterior o posterior</string>
     <string name="seconds">segundos</string>
     <string name="auto_detected">auto detectado</string>
     <string name="remove">quitar</string>
@@ -526,7 +522,6 @@
     <string name="contact_dev">Contactar al desarrollador</string>
     <string name="with_stats">Permitir enviar estadísticas anónimas para mejorar la aplicación</string>
     <string name="last_epg_load_ok">Última información de carga de EPG exitosa</string>
-    <string name="mass_add_chls_to_this_cat">Agregar canales a esta categoría</string>
     <string name="minutes_ago_10">hace 10 minutos</string>
     <string name="time_warp">Túnel del tiempo</string>
     <string name="show_dir_sep_from_videos">Mostrar directorios por separado de los videos</string>
@@ -583,7 +578,6 @@
     <string name="enabled_modules">Módulos habilitados</string>
     <string name="replace_provider_order_abc">Reemplazar orden de canal de proveedor para ordenar por alfabeto</string>
     <string name="nothing_to_backup">¡Sin datos para respaldar!</string>
-    <string name="qr_code_desc">Puede escanear el código usando la aplicación de la cámara en su teléfono. O, dado que el código se ha copiado al portapapeles, puede pegarlo en otra aplicación.</string>
     <string name="next_page">Siguiente página</string>
     <string name="user_exp_level">Nivel de experiencia del usuario</string>
     <string name="user_exp_mode_normal">Modo normal</string>
@@ -667,4 +661,14 @@
     <string name="hint_setup_keys">Puede configurar los botones de su control remoto para cualquier acción preferible</string>
     <string name="hint_setup_touch">Puede configurar toques y deslizamientos dobles en diferentes regiones de la pantalla para cualquier acción preferible</string>
     <string name="delay_before_acting">Retraso antes de actuar</string>
+    <string name="select_category">Selecciona una categoría</string>
+    <string name="launcher_button">Botones del lanzador</string>
+    <string name="track_language">Seguimiento del idioma</string>
+    <string name="track_language_list">Lista de códigos de idioma separados por comas</string>
+    <string name="fold_ch_pri_suffixes">Sufijos de nombre preferidos que se utilizarán al plegar la lista de canales</string>
+    <string name="fold_ch_by">Que considerar al fusionar</string>
+    <string name="place_in_other_category">Colocar en una categoría diferente</string>
+    <string name="yesterday">ayer</string>
+    <string name="tomorrow">mañana</string>
+    <string name="show_ip_address">Mostrar dirección IP</string>
     </resources>

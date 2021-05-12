@@ -29,7 +29,6 @@
     <string name="category_by_favorite">Preferito</string>
     <string name="category_desc_movies">filtro automatico da tutti i canali</string>
     <string name="category_desc_tv_series">filtro automatico da tutti i canali</string>
-    <string name="category_desc_exact_tv_series">serie TV</string>
     <string name="category_desc_tv_shows">filtro automatico da tutti i canali</string>
     <string name="category_desc_exact_tv_shows">Programma televisivo</string>
     <string name="category_desc_tv_channel">canale tv</string>
@@ -204,7 +203,6 @@
     <string name="cfg_trans_wind">Usa l\'interfaccia trasparente</string>
 
     <string name="do_not_show">non mostrare</string>
-    <string name="android_not_genuine">Gli acquisti potrebbero non funzionare sul tuo dispositivo.</string>
     <string name="spread_title">Ti piace l\'app? Diffondere la parola!</string>
     <string name="spread_btn_rate">Valuta l\'app con cinque stelle</string>
     <string name="spread_btn_share">Condividi il collegamento dell\'app con un amico</string>
@@ -218,7 +216,6 @@
     <string name="invalid_domain">Il dominio è probabilmente non valido. Controlla il tuo input</string>
     <string name="example">Esempio</string>
     <string name="provider_generic">Provider o playlist generici</string>
-    <string name="watched">Visti:</string>
     <string name="btn_search">Ricerca</string>
     <string name="premium_fea_6">Invia stream a un display wireless</string>
     <string name="wifi_display">Display wireless</string>
@@ -462,7 +459,6 @@
     <string name="long_press">pressione lunga</string>
     <string name="hours">ore</string>
     <string name="parental_control">Controllo dei genitori</string>
-    <string name="show_different_time_frame_guide">Mostra orario precedente o successivo</string>
     <string name="seconds">secondi</string>
     <string name="auto_detected">auto rilevato</string>
     <string name="remove">rimuovere</string>
@@ -529,7 +525,6 @@
     <string name="contact_dev">Contatta lo sviluppatore</string>
     <string name="with_stats">Consenti l\'invio di statistiche anonime per migliorare l\'app</string>
     <string name="last_epg_load_ok">Ultime informazioni di caricamento EPG riuscite</string>
-    <string name="mass_add_chls_to_this_cat">Aggiungi canali a questa categoria</string>
     <string name="minutes_ago_10">10 minuti fa</string>
     <string name="time_warp">Distorsione del tempo</string>
     <string name="show_dir_sep_from_videos">Mostra le directory separatamente dai video</string>
@@ -586,7 +581,6 @@
     <string name="enabled_modules">Moduli abilitati</string>
     <string name="replace_provider_order_abc">Sostituisci l\'ordine dei canali del provider in ordine alfabetico</string>
     <string name="nothing_to_backup">Nessun dato per il backup!</string>
-    <string name="qr_code_desc">Puoi scansionare il codice usando l\'app della fotocamera sul tuo telefono. Oppure, poiché il codice è stato copiato negli appunti, puoi semplicemente incollarlo in un\'altra app.</string>
     <string name="next_page">Pagina successiva</string>
     <string name="user_exp_level">Livello di esperienza dell\'utente</string>
     <string name="user_exp_mode_normal">Modalità normale</string>
@@ -670,4 +664,14 @@
     <string name="hint_setup_keys">È possibile configurare i pulsanti del telecomando su qualsiasi azione preferibile</string>
     <string name="hint_setup_touch">È possibile configurare doppi tocchi e passaggi in diverse regioni dello schermo per qualsiasi azione preferibile</string>
     <string name="delay_before_acting">Ritardo prima di agire</string>
+    <string name="select_category">Seleziona categoria</string>
+    <string name="launcher_button">Pulsanti di avvio</string>
+    <string name="track_language">Tieni traccia della lingua</string>
+    <string name="track_language_list">Elenco separato da virgole di codici di lingua</string>
+    <string name="fold_ch_pri_suffixes">Suffissi dei nomi preferiti da utilizzare quando si piega l\'elenco dei canali</string>
+    <string name="fold_ch_by">Cosa considerare durante l\'unione</string>
+    <string name="place_in_other_category">Posizionalo in una categoria diversa</string>
+    <string name="yesterday">ieri</string>
+    <string name="tomorrow">Domani</string>
+    <string name="show_ip_address">Mostra indirizzo IP</string>
     </resources>
