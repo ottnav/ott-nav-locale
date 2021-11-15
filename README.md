@@ -2,7 +2,7 @@
 
 Localization data pack for [Ott Navigator](https://ott-nav.com/) for [Android](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator)
 
-English and Russian translations supported by developer, all the rest generated using Google Translate services using [GTranslate-strings-xml](https://github.com/lintax/GTranslate-strings-xml)  
+English and Russian translations supported by developer, all the rest generated using automatic Translate services and help of app users.
 
 If you wish to improve translation or add a new one - create a pull request
 
