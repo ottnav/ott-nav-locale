@@ -192,7 +192,6 @@
     <string name="cfg_play_action_next">chuyển đến kênh tiếp theo</string>
     <string name="cfg_play_action_last">chuyển kênh được mở cuối cùng</string>
     <string name="cfg_play_action_title">Thiết lập điều khiển từ xa</string>
-    <string name="cfg_play_action_btn_archive_as_live">Sử dụng cùng một thiết lập trong khi xem các bản lưu trữ (sẽ vô hiệu hóa tua bằng nút trái và phải)</string>
     <string name="cfg_trans_wind">Sử dụng giao diện trong suốt</string>
 
     <string name="do_not_show">không hiển thị</string>
@@ -350,8 +349,6 @@
     <string name="ch_manage_status_favorite">yêu thích</string>
     <string name="ch_manage_status_hidden">ẩn</string>
     <string name="ch_manage_status_child">trẻ em</string>
-    <string name="show_future_search_in_other">Tìm kiếm trong các ứng dụng ngoài</string>
-
     <string name="cfg_channel_manager_filters">Bộ lọc</string>
     <string name="menu_suggest_premium">Sẵn sàng để khám phá các tính năng cao cấp thú vị?</string>
     <string name="cfg_epg_update_frequency">Tần suất cập nhật (theo giờ)</string>
@@ -594,7 +591,6 @@
     <string name="select_from_gallery">Chọn từ thư viện</string>
     <string name="show_info_before_vod">Hiển thị thông tin trước khi khởi chạy video</string>
     <string name="premium_note_dev">Đăng ký trả phí giúp cải thiện và hỗ trợ ứng dụng</string>
-    <string name="always_single_click">Luôn mở các mục trong danh sách chỉ bằng một cú nhấp chuột (chuột không)</string>
     <string name="disable_expire_data">Không hiển thị trạng thái hết hạn</string>
     <string name="restore_purchases">Khôi phục các giao dịch mua (Khắc phục sự cố)</string>
     <string name="future_show_sheet_autoswitch_wl">Tự động chuyển sang kênh khi nó phát trực tiếp</string>
@@ -667,4 +663,25 @@
     <string name="yesterday">hôm qua</string>
     <string name="tomorrow">Ngày mai</string>
     <string name="show_ip_address">Hiển thị địa chỉ IP</string>
+    <string name="user_profiles">Thông tin người dùng</string>
+    <string name="add_new_item">Thêm mục danh sách mới</string>
+    <string name="change_image">Đổi hình ảnh</string>
+    <string name="also_allow_in_recommendations">Đồng thời cho phép trong các đề xuất</string>
+    <string name="text_shadow_sz">Kích thước bóng văn bản</string>
+    <string name="text_width_sz">Kích thước chiều rộng văn bản</string>
+    <string name="text_narrow">Văn bản hẹp</string>
+    <string name="text_normal">Văn bản thông thường</string>
+    <string name="text_bold">Chữ in đậm</string>
+    <string name="horizontal_gallery_view">Chế độ xem thư viện theo chiều ngang</string>
+    <string name="text_style">Phong cách văn bản</string>
+    <string name="mark_all_visible">Đánh dấu tất cả là hiển thị</string>
+    <string name="mark_all_hidden">Đánh dấu tất cả là ẩn</string>
+    <string name="streams_just_started">Luồng vừa bắt đầu</string>
+    <string name="auto_number_fav_channels">Gán số tự động cho các kênh yêu thích</string>
+    <string name="max_epg_history_to_keep">Số ngày tối đa cần nhớ (hạn chế tính khả dụng của kho lưu trữ)</string>
+    <string name="vertical_gallery_view">Chế độ xem thư viện dọc</string>
+    <string name="if_ch_name_starts_or_ends">Nếu tên kênh bắt đầu hoặc kết thúc bằng những điều sau</string>
+    <string name="max_file_size">Kích thước tệp danh sách phát tối đa được phép</string>
+    <string name="quick_actions">Hành động nhanh chóng</string>
+    <string name="clear_list">Xóa danh sách</string>
     </resources>

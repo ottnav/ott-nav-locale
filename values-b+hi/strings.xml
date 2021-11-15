@@ -199,7 +199,6 @@
     <string name="cfg_play_action_next">अगले चैनल पर स्विच करें</string>
     <string name="cfg_play_action_last">अंतिम खेला चैनल पर स्विच करें</string>
     <string name="cfg_play_action_title">सेटअप रिमोट कंट्रोलर</string>
-    <string name="cfg_play_action_btn_archive_as_live">अभिलेखागार देखते समय एक ही सेटअप का उपयोग करें (बाएं और दाएं बटन का उपयोग करके अक्षम अक्षम हो जाएगा)</string>
     <string name="cfg_trans_wind">पारदर्शी इंटरफेस का प्रयोग करें</string>
 
 
@@ -358,8 +357,6 @@
     <string name="ch_manage_status_favorite">पसंदीदा</string>
     <string name="ch_manage_status_hidden">छिपा हुआ</string>
     <string name="ch_manage_status_child">बच्चा</string>
-    <string name="show_future_search_in_other">बाहरी ऐप्स में खोजें</string>
-
     <string name="cfg_channel_manager_filters">फिल्टर</string>
     <string name="menu_suggest_premium">रोमांचक प्रीमियम सुविधाओं का पता लगाने के लिए तैयार हैं?</string>
     <string name="cfg_epg_update_frequency">अद्यतन आवृत्ति (घंटे में)</string>
@@ -602,7 +599,6 @@
     <string name="select_from_gallery">गैलरी से चयन करें</string>
     <string name="show_info_before_vod">वीडियो लॉन्च करने से पहले जानकारी दिखाएं</string>
     <string name="premium_note_dev">प्रीमियम की सदस्यता लेने से ऐप को बेहतर बनाने और समर्थन करने में मदद मिलती है</string>
-    <string name="always_single_click">सिंगल क्लिक (एयर माउस) के माध्यम से हमेशा सूची आइटम खोलें</string>
     <string name="disable_expire_data">समाप्ति की स्थिति न दिखाएं</string>
     <string name="restore_purchases">पुनर्स्थापना खरीद (समस्या निवारण)</string>
     <string name="future_show_sheet_autoswitch_wl">स्वचालित रूप से चैनल पर स्विच करें जब वह लाइव होगा</string>
@@ -675,4 +671,25 @@
     <string name="yesterday">बिता हुआ कल</string>
     <string name="tomorrow">आने वाला कल</string>
     <string name="show_ip_address">IP पता दिखाएं</string>
+    <string name="user_profiles">उपयोगकर्ता प्रोफ़ाइल्स</string>
+    <string name="add_new_item">नई सूची आइटम जोड़ें</string>
+    <string name="change_image">चित्र को बदलें</string>
+    <string name="also_allow_in_recommendations">अनुशंसाओं में भी अनुमति दें</string>
+    <string name="text_shadow_sz">पाठ छाया आकार</string>
+    <string name="text_width_sz">पाठ चौड़ाई आकार</string>
+    <string name="text_narrow">संकीर्ण पाठ</string>
+    <string name="text_normal">नियमित पाठ</string>
+    <string name="text_bold">मोटा पाठ्यांश</string>
+    <string name="horizontal_gallery_view">क्षैतिज गैलरी दृश्य</string>
+    <string name="text_style">पाठ शैली</string>
+    <string name="mark_all_visible">सभी को दृश्यमान के रूप में चिह्नित करें</string>
+    <string name="mark_all_hidden">सभी को छुपा के रूप में चिह्नित करें</string>
+    <string name="streams_just_started">स्ट्रीम अभी शुरू हुई</string>
+    <string name="auto_number_fav_channels">पसंदीदा चैनलों के लिए स्वचालित नंबर असाइन करें</string>
+    <string name="max_epg_history_to_keep">याद रखने के लिए अधिकतम दिन (संग्रह उपलब्धता को प्रतिबंधित करता है)</string>
+    <string name="vertical_gallery_view">लंबवत गैलरी दृश्य</string>
+    <string name="if_ch_name_starts_or_ends">यदि चैनल का नाम निम्नलिखित के साथ शुरू या समाप्त होता है</string>
+    <string name="max_file_size">अधिकतम अनुमत प्लेलिस्ट फ़ाइल आकार</string>
+    <string name="quick_actions">त्वरित कार्रवाई</string>
+    <string name="clear_list">सूची साफ़ करें</string>
     </resources>

@@ -192,7 +192,6 @@
     <string name="cfg_play_action_next">prebaci na sledeći kanal</string>
     <string name="cfg_play_action_last">prebaci na poslednje reprodukovan kanal</string>
     <string name="cfg_play_action_title">Podesi daljinski upravljač</string>
-    <string name="cfg_play_action_btn_archive_as_live">Koristi isto podešavanje pri gledanju arhiva (premotavanje sa dugmmićima levo i desno će biti onemogućeno)</string>
     <string name="cfg_trans_wind">Koristi transparentan interfejs</string>
 
     <string name="do_not_show">ne prikazuj</string>
@@ -350,8 +349,6 @@
     <string name="ch_manage_status_favorite">omiljen</string>
     <string name="ch_manage_status_hidden">sakriven</string>
     <string name="ch_manage_status_child">dečiji</string>
-    <string name="show_future_search_in_other">Pretraži u eksternim aplikacijama</string>
-
     <string name="cfg_channel_manager_filters">Filteri</string>
     <string name="menu_suggest_premium">Spremni da istražite zanimljive premijum funkcije?</string>
     <string name="cfg_epg_update_frequency">Učestalost osvežavanja (u satima)</string>
@@ -595,7 +592,6 @@
     <string name="select_from_gallery">Изаберите из галерије</string>
     <string name="show_info_before_vod">Прикажи информације пре него што покренете видео</string>
     <string name="premium_note_dev">Претплата на премиум помаже побољшати и подржати апликацију</string>
-    <string name="always_single_click">Ставке на листи увек отворите једним кликом (ваздушни миш)</string>
     <string name="disable_expire_data">Не приказуј статус истека</string>
     <string name="restore_purchases">Вратите куповине (решавање проблема)</string>
     <string name="future_show_sheet_autoswitch_wl">Аутоматски пребаците на канал када ће бити уживо</string>
@@ -668,4 +664,25 @@
     <string name="yesterday">јуче</string>
     <string name="tomorrow">сутра</string>
     <string name="show_ip_address">Прикажи ИП адресу</string>
+    <string name="user_profiles">Кориснички профили</string>
+    <string name="add_new_item">Додајте нову ставку листе</string>
+    <string name="change_image">Промените слику</string>
+    <string name="also_allow_in_recommendations">Такође дозволите у препорукама</string>
+    <string name="text_shadow_sz">Величина сенке текста</string>
+    <string name="text_width_sz">Величина текста</string>
+    <string name="text_narrow">Уски текст</string>
+    <string name="text_normal">Редовни текст</string>
+    <string name="text_bold">Задебљани текст</string>
+    <string name="horizontal_gallery_view">Хоризонтални приказ галерије</string>
+    <string name="text_style">Стил текста</string>
+    <string name="mark_all_visible">Означи све као видљиве</string>
+    <string name="mark_all_hidden">Означи све као скривене</string>
+    <string name="streams_just_started">Стреамови су тек почели</string>
+    <string name="auto_number_fav_channels">Доделите аутоматске бројеве за омиљене канале</string>
+    <string name="max_epg_history_to_keep">Максималан број дана за памћење (ограничава доступност архиве)</string>
+    <string name="vertical_gallery_view">Вертикални приказ галерије</string>
+    <string name="if_ch_name_starts_or_ends">Ако назив канала почиње или завршава са следећим</string>
+    <string name="max_file_size">Максимална дозвољена величина датотеке са листе песама</string>
+    <string name="quick_actions">Brze akcije</string>
+    <string name="clear_list">Обришите листу</string>
     </resources>

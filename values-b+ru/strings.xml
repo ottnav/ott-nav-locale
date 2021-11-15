@@ -192,7 +192,6 @@
     <string name="cfg_play_action_next">переключить на следующий канал</string>
     <string name="cfg_play_action_last">переключить на последний просмотренный канал</string>
     <string name="cfg_play_action_title">Настроить пульт</string>
-    <string name="cfg_play_action_btn_archive_as_live">Использовать эти же кнопки для просмотра архивов (отключит перемотку кнопками влево и вправо)</string>
     <string name="cfg_trans_wind">Использовать прозрачный интерфейс</string>
 
     <string name="do_not_show">не показывать</string>
@@ -350,8 +349,6 @@
     <string name="ch_manage_status_favorite">любимый</string>
     <string name="ch_manage_status_hidden">спрятанный</string>
     <string name="ch_manage_status_child">детский</string>
-    <string name="show_future_search_in_other">Искать в других приложениях</string>
-
     <string name="cfg_channel_manager_filters">Фильтры</string>
     <string name="menu_suggest_premium">Готовы изучить отличные премиум возможности?</string>
     <string name="cfg_epg_update_frequency">Частота обновления (в часах)</string>
@@ -595,7 +592,6 @@
     <string name="select_from_gallery">Выбрать из галереи</string>
     <string name="show_info_before_vod">Показать информацию перед запуском видео</string>
     <string name="premium_note_dev">Подписка на премиум помогает улучшать и поддерживать приложение</string>
-    <string name="always_single_click">Всегда открывать элементы списка одним нажатием (аэромышь)</string>
     <string name="disable_expire_data">Не показывать срок действия</string>
     <string name="restore_purchases">Восстановить покупки (Устранение неполадок)</string>
     <string name="future_show_sheet_autoswitch_wl">Автоматически переключаться на канал, когда он будет в прямом эфире</string>
@@ -668,4 +664,25 @@
     <string name="yesterday">вчера</string>
     <string name="tomorrow">завтра</string>
     <string name="show_ip_address">Показать IP-адрес</string>
+    <string name="user_profiles">Профили пользователей</string>
+    <string name="add_new_item">Добавить новый элемент списка</string>
+    <string name="change_image">Сменить изображение</string>
+    <string name="also_allow_in_recommendations">Также разрешить в рекомендациях</string>
+    <string name="text_shadow_sz">Размер тени текста</string>
+    <string name="text_width_sz">Размер текста по ширине</string>
+    <string name="text_narrow">Узкий текст</string>
+    <string name="text_normal">Обычный текст</string>
+    <string name="text_bold">Жирный текст</string>
+    <string name="horizontal_gallery_view">Горизонтальный вид галереи</string>
+    <string name="text_style">Текстовый стиль</string>
+    <string name="mark_all_visible">Отметить все как видимые</string>
+    <string name="mark_all_hidden">Отметить все как скрытые</string>
+    <string name="streams_just_started">Трансляции только что начались</string>
+    <string name="auto_number_fav_channels">Назначьте автоматические номера избранным каналам</string>
+    <string name="max_epg_history_to_keep">Максимальное количество дней для запоминания (ограничивает доступность архива)</string>
+    <string name="vertical_gallery_view">Вертикальный вид галереи</string>
+    <string name="if_ch_name_starts_or_ends">Если название канала начинается или заканчивается следующим</string>
+    <string name="max_file_size">Максимально допустимый размер файла списка воспроизведения</string>
+    <string name="quick_actions">Быстрые действия</string>
+    <string name="clear_list">Очистить список</string>
     </resources>

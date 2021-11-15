@@ -202,7 +202,6 @@
     <string name="cfg_play_action_next">perjungti į sekantį kanalą</string>
     <string name="cfg_play_action_last">perjungti į paskutinį žiūrėtą kanalą</string>
     <string name="cfg_play_action_title">Nustatyti nuotolinio valdymo pultą</string>
-    <string name="cfg_play_action_btn_archive_as_live">Naudoti tuos pačius mygtukus archyvo peržiūrėjimui (išjungti persukimą mygtukais į kairę ir dešinę)</string>
     <string name="cfg_trans_wind">Naudoti permatomą sąsają</string>
 
 
@@ -362,8 +361,6 @@
     <string name="ch_manage_status_favorite">mėgstamiausia</string>
     <string name="ch_manage_status_hidden">paslėpta</string>
     <string name="ch_manage_status_child">vaikas</string>
-    <string name="show_future_search_in_other">Ieškoti išorinėse programose</string>
-
     <string name="cfg_channel_manager_filters">Filtrai</string>
     <string name="menu_suggest_premium">Pasiruošę ieškoti įdomių papildomų funkcijų?</string>
     <string name="cfg_epg_update_frequency">Atnaujinimo dažnis (valandomis)</string>
@@ -606,7 +603,6 @@
     <string name="select_from_gallery">Pasirinkite iš galerijos</string>
     <string name="show_info_before_vod">Parodykite informaciją prieš paleisdami vaizdo įrašą</string>
     <string name="premium_note_dev">Prenumeravę „premium“, galite patobulinti ir palaikyti programą</string>
-    <string name="always_single_click">Visada atidarykite sąrašo elementus vienu paspaudimu (oro pele)</string>
     <string name="disable_expire_data">Nerodyti galiojimo būsenos</string>
     <string name="restore_purchases">Atkurkite pirkinius (trikčių šalinimas)</string>
     <string name="future_show_sheet_autoswitch_wl">Automatiškai perjunkite kanalą, kai jis bus tiesiogiai rodomas</string>
@@ -679,4 +675,25 @@
     <string name="yesterday">vakar</string>
     <string name="tomorrow">rytoj</string>
     <string name="show_ip_address">Rodyti IP adresą</string>
+    <string name="user_profiles">Vartotojo profiliai</string>
+    <string name="add_new_item">Pridėti naują sąrašo elementą</string>
+    <string name="change_image">Keisti vaizdą</string>
+    <string name="also_allow_in_recommendations">Taip pat leiskite pateikti rekomendacijas</string>
+    <string name="text_shadow_sz">Teksto šešėlio dydis</string>
+    <string name="text_width_sz">Teksto pločio dydis</string>
+    <string name="text_narrow">Siauras tekstas</string>
+    <string name="text_normal">Įprastas tekstas</string>
+    <string name="text_bold">Paryškintas tekstas</string>
+    <string name="horizontal_gallery_view">Horizontalus galerijos vaizdas</string>
+    <string name="text_style">Teksto stilius</string>
+    <string name="mark_all_visible">Pažymėkite viską kaip matomą</string>
+    <string name="mark_all_hidden">Pažymėkite viską kaip paslėptą</string>
+    <string name="streams_just_started">Srautai ką tik prasidėjo</string>
+    <string name="auto_number_fav_channels">Priskirti mėgstamiausių kanalų automatinius numerius</string>
+    <string name="max_epg_history_to_keep">Daugiausia įsiminti dienų (apribojamas archyvo prieinamumas)</string>
+    <string name="vertical_gallery_view">Vertikalus galerijos vaizdas</string>
+    <string name="if_ch_name_starts_or_ends">Jei kanalo pavadinimas prasideda arba baigiasi taip</string>
+    <string name="max_file_size">Didžiausias leistinas grojaraščio failo dydis</string>
+    <string name="quick_actions">Greiti veiksmai</string>
+    <string name="clear_list">Išvalykite sąrašą</string>
     </resources>

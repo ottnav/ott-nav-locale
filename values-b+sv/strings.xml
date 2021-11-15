@@ -121,7 +121,7 @@
     <string name="settings_extended">Utökade inställningar</string>
     <string name="settings_extended_hide_adult">Dölj kategorier för vuxna</string>
     <string name="settings_extended_auto_start_last_channel">Starta den senast uppspelade kanalen automatiskt</string>
-    <string name="settings_schedule_epg_reload">Ladda om EPG-guide ...</string>
+    <string name="settings_schedule_epg_reload">Ladda om EPG-guide…</string>
     <string name="settings_visual">Visuell stil</string>
     <string name="settings_live_quick_channel_switch_delay">Fördröjning innan snabbväxling av kanaler</string>
     <string name="settings_player_buffer_size">Broadcast buffertstorlek</string>
@@ -140,7 +140,7 @@
     <string name="settings_premium_source_purchase">Premium köpt</string>
     <string name="settings_premium_source_subscription">Premium prenumereras</string>
     <string name="settings_premium_source_unknown">Premium inte aktiverat</string>
-    <string name="settings_premium_what_included">Läs mer om premiumfunktioner ...</string>
+    <string name="settings_premium_what_included">Läs mer om premiumfunktioner…</string>
     <string name="settings_premium_what_included_1">Bild-i-bild-läge medan du tittar på livestream</string>
     <string name="settings_premium_what_included_3">Automatisk bildhastighetsväxling för att matcha video</string>
     <string name="settings_premium_what_included_4">Kontrollera uppspelningshastighet för arkiv</string>
@@ -163,7 +163,6 @@
     <string name="cfg_play_action_next">växla till nästa kanal</string>
     <string name="cfg_play_action_last">växla till senast spelade kanal</string>
     <string name="cfg_play_action_title">Ställ in fjärrkontrollen</string>
-    <string name="cfg_play_action_btn_archive_as_live">Använd samma inställning när du tittar på arkiv (avaktiverar sökning med vänster- och högerknappar)</string>
     <string name="cfg_trans_wind">Använd transparent gränssnitt</string>
     <string name="do_not_show">Visa inte</string>
     <string name="spread_title">Gillar du appen? Sprid ordet!</string>
@@ -314,7 +313,6 @@
     <string name="ch_manage_status_favorite">Favorit-</string>
     <string name="ch_manage_status_hidden">Dold</string>
     <string name="ch_manage_status_child">Barn</string>
-    <string name="show_future_search_in_other">Sök i externa appar</string>
     <string name="cfg_channel_manager_filters">Filter</string>
     <string name="menu_suggest_premium">Redo att utforska spännande premiumfunktioner?</string>
     <string name="cfg_epg_update_frequency">Uppdateringsfrekvens (i timmar)</string>
@@ -554,7 +552,6 @@
     <string name="select_from_gallery">Välj från galleriet</string>
     <string name="show_info_before_vod">Visa info innan du startar video</string>
     <string name="premium_note_dev">Prenumerera på premium hjälper till att förbättra och stödja appen</string>
-    <string name="always_single_click">Öppna alltid listobjekt med ett enda klick (luftmus)</string>
     <string name="disable_expire_data">Visa inte utgångsstatus</string>
     <string name="restore_purchases">Återställ inköp (Felsök)</string>
     <string name="future_show_sheet_autoswitch_wl">Byt automatiskt till kanalen när den är live</string>
@@ -627,4 +624,25 @@
     <string name="yesterday">i går</string>
     <string name="tomorrow">i morgon</string>
     <string name="show_ip_address">Visa IP-adress</string>
+    <string name="user_profiles">Användarprofiler</string>
+    <string name="add_new_item">Lägg till nytt listobjekt</string>
+    <string name="change_image">Ändra bild</string>
+    <string name="also_allow_in_recommendations">Tillåt också rekommendationer</string>
+    <string name="text_shadow_sz">Text skuggstorlek</string>
+    <string name="text_width_sz">Storlek på textbredd</string>
+    <string name="text_narrow">Smal text</string>
+    <string name="text_normal">Vanlig text</string>
+    <string name="text_bold">Fettext</string>
+    <string name="horizontal_gallery_view">Horisontell gallerivy</string>
+    <string name="text_style">Textstil</string>
+    <string name="mark_all_visible">Markera alla som synliga</string>
+    <string name="mark_all_hidden">Markera alla som dolda</string>
+    <string name="streams_just_started">Strömmar har precis börjat</string>
+    <string name="auto_number_fav_channels">Tilldela automatiska nummer till favoritkanaler</string>
+    <string name="max_epg_history_to_keep">Max dagar att komma ihåg (begränsar tillgänglighet för arkiv)</string>
+    <string name="vertical_gallery_view">Vertikal gallerivy</string>
+    <string name="if_ch_name_starts_or_ends">Om kanalnamnet börjar eller slutar med följande</string>
+    <string name="max_file_size">Högsta tillåtna filstorlek för spellistan</string>
+    <string name="quick_actions">Snabba åtgärder</string>
+    <string name="clear_list">Rensa listan</string>
     </resources>

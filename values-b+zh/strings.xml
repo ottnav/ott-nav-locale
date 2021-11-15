@@ -192,7 +192,6 @@
     <string name="cfg_play_action_next">下一个频道</string>
     <string name="cfg_play_action_last">切换到上次播放的频道</string>
     <string name="cfg_play_action_title">遥控器设置</string>
-    <string name="cfg_play_action_btn_archive_as_live">回看时使用相同的设置（将禁用左右按钮的定位功能）</string>
     <string name="cfg_trans_wind">透明界面</string>
 
     <string name="do_not_show">不再显示</string>
@@ -350,8 +349,6 @@
     <string name="ch_manage_status_favorite">收藏频道</string>
     <string name="ch_manage_status_hidden">隐藏频道</string>
     <string name="ch_manage_status_child">儿童频道</string>
-    <string name="show_future_search_in_other">在其它应用中搜索</string>
-
     <string name="cfg_channel_manager_filters">筛选</string>
     <string name="menu_suggest_premium">准备好去探索那些激动人心的高级功能了吗？</string>
     <string name="cfg_epg_update_frequency">节目单更新频率</string>
@@ -594,7 +591,6 @@
     <string name="select_from_gallery">从图库中选择</string>
     <string name="show_info_before_vod">在启动视频之前显示信息</string>
     <string name="premium_note_dev">订阅高级版有助于改进和支持该应用程序</string>
-    <string name="always_single_click">始终通过单击（空气鼠标）打开列表项</string>
     <string name="disable_expire_data">不显示到期状态</string>
     <string name="restore_purchases">恢复购买（问题排查）</string>
     <string name="future_show_sheet_autoswitch_wl">直播时自动切换到频道</string>
@@ -667,4 +663,25 @@
     <string name="yesterday">昨天</string>
     <string name="tomorrow">明天</string>
     <string name="show_ip_address">显示IP地址</string>
+    <string name="user_profiles">用户资料</string>
+    <string name="add_new_item">添加新的列表项</string>
+    <string name="change_image">更改图像</string>
+    <string name="also_allow_in_recommendations">也允许推荐</string>
+    <string name="text_shadow_sz">文字阴影大小</string>
+    <string name="text_width_sz">文字宽度大小</string>
+    <string name="text_narrow">窄文本</string>
+    <string name="text_normal">常规文本</string>
+    <string name="text_bold">粗体</string>
+    <string name="horizontal_gallery_view">水平画廊视图</string>
+    <string name="text_style">文字样式</string>
+    <string name="mark_all_visible">全部标记为可见</string>
+    <string name="mark_all_hidden">全部标记为隐藏</string>
+    <string name="streams_just_started">直播刚刚开始</string>
+    <string name="auto_number_fav_channels">为喜爱的频道分配自动编号</string>
+    <string name="max_epg_history_to_keep">要记住的最大天数（限制存档可用性）</string>
+    <string name="vertical_gallery_view">垂直画廊视图</string>
+    <string name="if_ch_name_starts_or_ends">如果频道名称以以下开头或结尾</string>
+    <string name="max_file_size">允许的最大播放列表文件大小</string>
+    <string name="quick_actions">快速操作</string>
+    <string name="clear_list">清除清单</string>
     </resources>

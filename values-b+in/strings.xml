@@ -161,7 +161,6 @@
     <string name="cfg_play_action_next">beralih ke saluran berikutnya</string>
     <string name="cfg_play_action_last">beralih ke saluran yang terakhir diputar</string>
     <string name="cfg_play_action_title">Siapkan pengontrol jarak jauh</string>
-    <string name="cfg_play_action_btn_archive_as_live">Gunakan pengaturan yang sama saat menonton arsip (akan menonaktifkan pencarian menggunakan tombol kiri dan kanan)</string>
     <string name="cfg_trans_wind">Gunakan antarmuka transparan</string>
     <string name="do_not_show">Jangan tunjukan</string>
     <string name="spread_title">Suka aplikasinya? Sebarkan beritanya!</string>
@@ -314,7 +313,6 @@
     <string name="ch_manage_status_favorite">favorit</string>
     <string name="ch_manage_status_hidden">tersembunyi</string>
     <string name="ch_manage_status_child">anak</string>
-    <string name="show_future_search_in_other">Cari di aplikasi eksternal</string>
     <string name="cfg_channel_manager_filters">Filter</string>
     <string name="menu_suggest_premium">Siap menjelajahi fitur premium yang menarik?</string>
     <string name="cfg_epg_update_frequency">Perbarui frekuensi (dalam jam)</string>
@@ -553,7 +551,6 @@
     <string name="select_from_gallery">Pilih dari galeri</string>
     <string name="show_info_before_vod">Tampilkan info sebelum meluncurkan video</string>
     <string name="premium_note_dev">Berlangganan premium membantu meningkatkan dan mendukung aplikasi</string>
-    <string name="always_single_click">Selalu buka item daftar melalui satu klik (mouse udara)</string>
     <string name="disable_expire_data">Jangan tunjukkan status kedaluwarsa</string>
     <string name="restore_purchases">Pulihkan pembelian (Pemecahan Masalah)</string>
     <string name="future_show_sheet_autoswitch_wl">Beralih ke saluran secara otomatis ketika akan disiarkan langsung</string>
@@ -627,4 +624,25 @@
     <string name="yesterday">kemarin</string>
     <string name="tomorrow">besok</string>
     <string name="show_ip_address">Tampilkan alamat IP</string>
+    <string name="user_profiles">Profil pengguna</string>
+    <string name="add_new_item">Tambahkan item daftar baru</string>
+    <string name="change_image">Ganti gambar</string>
+    <string name="also_allow_in_recommendations">Juga izinkan dalam rekomendasi</string>
+    <string name="text_shadow_sz">Ukuran bayangan teks</string>
+    <string name="text_width_sz">Ukuran lebar teks</string>
+    <string name="text_narrow">Teks sempit</string>
+    <string name="text_normal">Teks biasa</string>
+    <string name="text_bold">Teks tebal</string>
+    <string name="horizontal_gallery_view">Tampilan galeri horizontal</string>
+    <string name="text_style">Gaya teks</string>
+    <string name="mark_all_visible">Tandai semua sebagai terlihat</string>
+    <string name="mark_all_hidden">Tandai semua sebagai tersembunyi</string>
+    <string name="streams_just_started">Streaming baru saja dimulai</string>
+    <string name="auto_number_fav_channels">Tetapkan nomor otomatis untuk saluran favorit</string>
+    <string name="max_epg_history_to_keep">Maks hari untuk diingat (membatasi ketersediaan arsip)</string>
+    <string name="vertical_gallery_view">Tampilan galeri vertikal</string>
+    <string name="if_ch_name_starts_or_ends">Jika nama saluran dimulai atau diakhiri dengan yang berikut</string>
+    <string name="max_file_size">Ukuran file daftar putar maksimum yang diizinkan</string>
+    <string name="quick_actions">Tindakan cepat</string>
+    <string name="clear_list">Hapus daftar</string>
     </resources>

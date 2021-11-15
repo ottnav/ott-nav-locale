@@ -200,7 +200,6 @@
     <string name="cfg_play_action_next">التبديل إلى القناة التالية</string>
     <string name="cfg_play_action_last">التبديل إلى آخر قناة لعبت</string>
     <string name="cfg_play_action_title">إعداد جهاز تحكم عن بعد</string>
-    <string name="cfg_play_action_btn_archive_as_live">استخدم نفس الإعداد أثناء مشاهدة الأرشيفات (سيتم تعطيل البحث باستخدام الأزرار اليمنى واليسرى)</string>
     <string name="cfg_trans_wind">استخدم واجهة شفافة</string>
 
     <string name="do_not_show">لا تظهر</string>
@@ -358,8 +357,6 @@
     <string name="ch_manage_status_favorite">مفضل</string>
     <string name="ch_manage_status_hidden">مخفي</string>
     <string name="ch_manage_status_child">طفل</string>
-    <string name="show_future_search_in_other">البحث في التطبيقات الخارجية</string>
-
     <string name="cfg_channel_manager_filters">مرشحات</string>
     <string name="menu_suggest_premium">هل أنت مستعد لاستكشاف ميزات متميزة ومثيرة؟</string>
     <string name="cfg_epg_update_frequency">تردد التحديث (بالساعات)</string>
@@ -602,7 +599,6 @@
     <string name="select_from_gallery">اختر من المعرض</string>
     <string name="show_info_before_vod">إظهار المعلومات قبل تشغيل الفيديو</string>
     <string name="premium_note_dev">يساعد الاشتراك في الإصدار المميز في تحسين التطبيق ودعمه</string>
-    <string name="always_single_click">افتح دائمًا عناصر القائمة بنقرة واحدة (الماوس الهوائي)</string>
     <string name="disable_expire_data">لا تظهر حالة انتهاء الصلاحية</string>
     <string name="restore_purchases">استعادة المشتريات (استكشاف الأخطاء وإصلاحها)</string>
     <string name="future_show_sheet_autoswitch_wl">قم بالتبديل تلقائيًا إلى القناة عندما تكون مباشرة</string>
@@ -675,4 +671,25 @@
     <string name="yesterday">ﺲﻣﻻ﻿ﺍ ﻲﻓ</string>
     <string name="tomorrow">ﺍﺪﻏ</string>
     <string name="show_ip_address">IP ﻥﺍﻮﻨﻋ ﺭﺎﻬﻇﺇ</string>
+    <string name="user_profiles">ﻡﺪﺨﺘﺴﻤﻟﺍ ﻒﻳﺮﻌﺗ ﺕﺎﻔﻠﻣ</string>
+    <string name="add_new_item">ﺪﻳﺪﺟ ﺔﻤﺋﺎﻗ ﺮﺼﻨﻋ ﺔﻓﺎﺿﺇ</string>
+    <string name="change_image">ﺓﺭﻮﺼﻟﺍ ﺮﻴﻴﻐﺗ</string>
+    <string name="also_allow_in_recommendations">ﺕﺎﻴﺻﻮﺘﻟﺎﺑ ﺎﻀًﻳﺃ ﺡﺎﻤﺴﻟﺍ</string>
+    <string name="text_shadow_sz">ﺺﻨﻟﺍ ﻞﻇ ﻢﺠﺣ</string>
+    <string name="text_width_sz">ﺺﻨﻟﺍ ﺽﺮﻋ ﻢﺠﺣ</string>
+    <string name="text_narrow">ﻖﻴﺿ ﺺﻧ</string>
+    <string name="text_normal">ﻱﺩﺎﻋ ﺺﻧ</string>
+    <string name="text_bold">ﺾﻳﺮﻋ ﺺﻧ</string>
+    <string name="horizontal_gallery_view">ﻲﻘﻓﺃ ﺽﺮﻌﻣ ﺽﺮﻋ</string>
+    <string name="text_style">ﺺﻨﻟﺍ ﻂﻤﻧ</string>
+    <string name="mark_all_visible">ﻲﺋﺮﻣ ﻪﻧﺃ ﻰﻠﻋ ﻞﻜﻟﺍ ﻰﻠﻋ ﺔﻣﻼ﻿ﻋ ﻊﺿ</string>
+    <string name="mark_all_hidden">ﻲﻔﺨﻣ ﻪﻧﺃ ﻰﻠﻋ ﻞﻜﻟﺍ ﻰﻠﻋ ﺔﻣﻼ﻿ﻋ ﻊﺿ</string>
+    <string name="streams_just_started">ﻮﺘﻠﻟ ﺕﺍﺭﺎﻴﺗ ﺕﺃﺪﺑ</string>
+    <string name="auto_number_fav_channels">ﺔﻠﻀﻔﻤﻟﺍ ﺕﺍﻮﻨﻘﻠﻟ ﺔﻴﺋﺎﻘﻠﺗ ﻡﺎﻗﺭﺃ ﻦﻴﻴﻌﺘﺑ ﻢﻗ</string>
+    <string name="max_epg_history_to_keep">الحد الأقصى للأيام التي يجب تذكرها (يقيد توفر الأرشيف)</string>
+    <string name="vertical_gallery_view">ﻲﺳﺃﺮﻟﺍ ﺽﺮﻌﻤﻟﺍ ﺽﺮﻋ</string>
+    <string name="if_ch_name_starts_or_ends">ﻲﻠﻳ ﺎﻤﺑ ﻲﻬﺘﻨﻳ ﻭﺃ ﺃﺪﺒﻳ ﺓﺎﻨﻘﻟﺍ ﻢﺳﺍ ﻥﺎﻛ ﺍﺫﺇ</string>
+    <string name="max_file_size">ﻪﺑ ﺡﻮﻤﺴﻤﻟﺍ ﻞﻴﻐﺸﺘﻟﺍ ﺔﻤﺋﺎﻗ ﻒﻠﻣ ﻢﺠﺤﻟ ﻰﺼﻗﻷ﻿ﺍ ﺪﺤﻟﺍ</string>
+    <string name="quick_actions">ﺔﻌﻳﺮﺳ ﺕﺍءﺍﺮﺟﺇ</string>
+    <string name="clear_list">ﺔﻤﺋﺎﻘﻟﺍ ﺢﺴﻣﺍ</string>
     </resources>

@@ -162,7 +162,6 @@
     <string name="cfg_play_action_next">prebacite se na sljedeći kanal</string>
     <string name="cfg_play_action_last">prebaciti na zadnji reproducirani kanal</string>
     <string name="cfg_play_action_title">Postavljanje daljinskog upravljača</string>
-    <string name="cfg_play_action_btn_archive_as_live">Koristite isto postavljanje dok gledate arhive (onemogućit će traženje lijevim i desnim tipkama)</string>
     <string name="cfg_trans_wind">Koristite transparentno sučelje</string>
     <string name="do_not_show">nemoj pokazati</string>
     <string name="spread_title">Sviđa vam se aplikacija? Širite riječ!</string>
@@ -313,7 +312,6 @@
     <string name="ch_manage_status_favorite">favorit</string>
     <string name="ch_manage_status_hidden">skriven</string>
     <string name="ch_manage_status_child">dijete</string>
-    <string name="show_future_search_in_other">Traži u vanjskim aplikacijama</string>
     <string name="cfg_channel_manager_filters">filteri</string>
     <string name="menu_suggest_premium">Spremni ste istražiti uzbudljive premium značajke?</string>
     <string name="cfg_epg_update_frequency">Učestalost ažuriranja (u satima)</string>
@@ -553,7 +551,6 @@
     <string name="select_from_gallery">Odaberite iz galerije</string>
     <string name="show_info_before_vod">Prikaži informacije prije pokretanja videa</string>
     <string name="premium_note_dev">Pretplata na premiju pomaže poboljšanju i podršci aplikacije</string>
-    <string name="always_single_click">Stavke popisa uvijek otvorite jednim klikom (zračni miš)</string>
     <string name="disable_expire_data">Ne prikazuj status isteka</string>
     <string name="restore_purchases">Vraćanje kupnji (rješavanje problema)</string>
     <string name="future_show_sheet_autoswitch_wl">Automatski se prebacite na kanal kada će biti uživo</string>
@@ -626,4 +623,25 @@
     <string name="yesterday">jučer</string>
     <string name="tomorrow">sutra</string>
     <string name="show_ip_address">Prikaži IP adresu</string>
+    <string name="user_profiles">Korisnički profili</string>
+    <string name="add_new_item">Dodajte novu stavku popisa</string>
+    <string name="change_image">Promijenite sliku</string>
+    <string name="also_allow_in_recommendations">Također dopustite u preporukama</string>
+    <string name="text_shadow_sz">Veličina sjene teksta</string>
+    <string name="text_width_sz">Veličina teksta</string>
+    <string name="text_narrow">Uski tekst</string>
+    <string name="text_normal">Redovni tekst</string>
+    <string name="text_bold">Podebljan tekst</string>
+    <string name="horizontal_gallery_view">Horizontalni pogled na galeriju</string>
+    <string name="text_style">Stil teksta</string>
+    <string name="mark_all_visible">Označi sve kao vidljive</string>
+    <string name="mark_all_hidden">Označi sve kao skrivene</string>
+    <string name="streams_just_started">Streamovi su tek počeli</string>
+    <string name="auto_number_fav_channels">Dodijelite automatske brojeve za omiljene kanale</string>
+    <string name="max_epg_history_to_keep">Maksimalan broj dana za pamćenje (ograničava dostupnost arhive)</string>
+    <string name="vertical_gallery_view">Vertikalni prikaz galerije</string>
+    <string name="if_ch_name_starts_or_ends">Ako naziv kanala počinje ili završava sa sljedećim</string>
+    <string name="max_file_size">Maksimalna dopuštena veličina datoteke s popisa za reprodukciju</string>
+    <string name="quick_actions">Brze radnje</string>
+    <string name="clear_list">Očistite popis</string>
     </resources>

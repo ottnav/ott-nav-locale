@@ -199,7 +199,6 @@
     <string name="cfg_play_action_next">mudar para o próximo canal</string>
     <string name="cfg_play_action_last">mudar para o último canal reproduzido</string>
     <string name="cfg_play_action_title">Configurar controle remoto</string>
-    <string name="cfg_play_action_btn_archive_as_live">Utilizar a mesma configuração para assistir os arquivos (a navegação utilizando os botões da esquerda e da direita serão desativados)</string>
     <string name="cfg_trans_wind">Utilizar interface transparente</string>
 
     <string name="do_not_show">não exibir</string>
@@ -357,8 +356,6 @@
     <string name="ch_manage_status_favorite">favorito</string>
     <string name="ch_manage_status_hidden">oculto</string>
     <string name="ch_manage_status_child">controle infantil</string>
-    <string name="show_future_search_in_other">Pesquise em aplicativos externos</string>
-
     <string name="cfg_channel_manager_filters">Filtros</string>
     <string name="menu_suggest_premium">Pronto para explorar os incríveis recursos premium?</string>
     <string name="cfg_epg_update_frequency">Frequência de atualização (em horas)</string>
@@ -601,7 +598,6 @@
     <string name="select_from_gallery">Selecione na galeria</string>
     <string name="show_info_before_vod">Mostrar informações antes de lançar o vídeo</string>
     <string name="premium_note_dev">A assinatura do premium ajuda a melhorar e oferecer suporte ao aplicativo</string>
-    <string name="always_single_click">Sempre abra os itens da lista com um único clique (mouse aéreo)</string>
     <string name="disable_expire_data">Não mostrar status de expiração</string>
     <string name="restore_purchases">Restaurar compras (solucionar problemas)</string>
     <string name="future_show_sheet_autoswitch_wl">Mudar automaticamente para o canal quando estiver ao vivo</string>
@@ -674,4 +670,25 @@
     <string name="yesterday">ontem</string>
     <string name="tomorrow">amanhã</string>
     <string name="show_ip_address">Mostrar endereço IP</string>
+    <string name="user_profiles">Perfis de usuário</string>
+    <string name="add_new_item">Adicionar novo item de lista</string>
+    <string name="change_image">Mudar a imagem</string>
+    <string name="also_allow_in_recommendations">Também permite recomendações</string>
+    <string name="text_shadow_sz">Tamanho da sombra do texto</string>
+    <string name="text_width_sz">Tamanho da largura do texto</string>
+    <string name="text_narrow">Texto estreito</string>
+    <string name="text_normal">Texto normal</string>
+    <string name="text_bold">Texto em negrito</string>
+    <string name="horizontal_gallery_view">Visualização horizontal da galeria</string>
+    <string name="text_style">Estilo de texto</string>
+    <string name="mark_all_visible">Marque tudo como visível</string>
+    <string name="mark_all_hidden">Marcar tudo como oculto</string>
+    <string name="streams_just_started">Streams acabou de começar</string>
+    <string name="auto_number_fav_channels">Atribuir números automáticos para canais favoritos</string>
+    <string name="max_epg_history_to_keep">Máximo de dias para lembrar (restringe a disponibilidade do arquivo)</string>
+    <string name="vertical_gallery_view">Visualização da galeria vertical</string>
+    <string name="if_ch_name_starts_or_ends">Se o nome do canal começar ou terminar com o seguinte</string>
+    <string name="max_file_size">Tamanho máximo permitido do arquivo de lista de reprodução</string>
+    <string name="quick_actions">Ações rápidas</string>
+    <string name="clear_list">Limpe a lista</string>
     </resources>

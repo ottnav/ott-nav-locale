@@ -198,7 +198,6 @@
     <string name="cfg_play_action_next">ਅਗਲੇ ਚੈਨਲ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="cfg_play_action_last">ਪਿਛਲੇ ਖੇਡੇ ਗਏ ਚੈਨਲ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="cfg_play_action_title">ਰਿਮੋਟ ਕੰਟਰੋਲਰ ਸੈੱਟਅੱਪ ਕਰੋ</string>
-    <string name="cfg_play_action_btn_archive_as_live">ਅਕਾਇਵ ਦਿਖਾਉਂਦੇ ਹੋਏ ਉਸੇ ਸੈੱਟਅੱਪ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਖੱਬੇ ਅਤੇ ਸੱਜੇ ਬਟਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਖੋਜ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਉਣਾ)</string>
     <string name="cfg_trans_wind">ਪਾਰਦਰਸ਼ੀ ਇੰਟਰਫੇਸ ਵਰਤੋ</string>
 
     <string name="do_not_show">ਨਾ ਦਿਖਾਓ</string>
@@ -356,8 +355,6 @@
     <string name="ch_manage_status_favorite">ਮਨਪਸੰਦ</string>
     <string name="ch_manage_status_hidden">ਲੁਕਿਆ ਹੋਇਆ</string>
     <string name="ch_manage_status_child">ਬੱਚਾ</string>
-    <string name="show_future_search_in_other">ਬਾਹਰੀ ਐਪਸ ਵਿੱਚ ਖੋਜੋ</string>
-
     <string name="cfg_channel_manager_filters">ਫਿਲਟਰ</string>
     <string name="menu_suggest_premium">ਸ਼ਾਨਦਾਰ ਪ੍ਰੀਮੀਅਮ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਪੜਚੋਲ ਕਰਨ ਲਈ ਤਿਆਰ ਹੋ?</string>
     <string name="cfg_epg_update_frequency">ਅਪਡੇਟ ਵਕਾਲਤ (ਘੰਟੇ ਵਿੱਚ)</string>
@@ -600,7 +597,6 @@
     <string name="select_from_gallery">ਗੈਲਰੀ ਤੋਂ ਚੁਣੋ</string>
     <string name="show_info_before_vod">ਵੀਡੀਓ ਲਾਂਚ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਜਾਣਕਾਰੀ ਦਿਖਾਓ</string>
     <string name="premium_note_dev">ਪ੍ਰੀਮੀਅਮ ਦਾ ਗਾਹਕ ਬਣਨਾ ਐਪ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਅਤੇ ਸਮਰਥਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ</string>
-    <string name="always_single_click">ਇਕੱਲੇ ਕਲਿਕ (ਏਅਰ ਮਾ mouseਸ) ਰਾਹੀਂ ਲਿਸਟ ਆਈਟਮਾਂ ਨੂੰ ਹਮੇਸ਼ਾਂ ਖੋਲ੍ਹੋ</string>
     <string name="disable_expire_data">ਮਿਆਦ ਖਤਮ ਹੋਣ ਦੀ ਸਥਿਤੀ ਨਾ ਦਿਖਾਓ</string>
     <string name="restore_purchases">ਦੁਬਾਰਾ ਖਰੀਦਦਾਰੀ (ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ)</string>
     <string name="future_show_sheet_autoswitch_wl">ਜਦੋਂ ਇਹ ਲਾਈਵ ਹੋਵੇਗਾ ਤਾਂ ਆਟੋਮੈਟਿਕਲੀ ਚੈਨਲ ਤੇ ਸਵਿਚ ਕਰੋ</string>
@@ -673,4 +669,25 @@
     <string name="yesterday">ਕੱਲ</string>
     <string name="tomorrow">ਕੱਲ</string>
     <string name="show_ip_address">IP ਪਤਾ ਦਿਖਾਓ</string>
+    <string name="user_profiles">ਉਪਭੋਗਤਾ ਪ੍ਰੋਫਾਈਲ</string>
+    <string name="add_new_item">ਨਵੀਂ ਸੂਚੀ ਆਈਟਮ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="change_image">ਚਿੱਤਰ ਬਦਲੋ</string>
+    <string name="also_allow_in_recommendations">ਸਿਫਾਰਸ਼ਾਂ ਵਿੱਚ ਵੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="text_shadow_sz">ਟੈਕਸਟ ਸ਼ੈਡੋ ਅਕਾਰ</string>
+    <string name="text_width_sz">ਟੈਕਸਟ ਦੀ ਚੌੜਾਈ ਦਾ ਆਕਾਰ</string>
+    <string name="text_narrow">ਤੰਗ ਪਾਠ</string>
+    <string name="text_normal">ਨਿਯਮਤ ਪਾਠ</string>
+    <string name="text_bold">ਬੋਲਡ ਟੈਕਸਟ</string>
+    <string name="horizontal_gallery_view">ਖਿਤਿਜੀ ਗੈਲਰੀ ਝਲਕ</string>
+    <string name="text_style">ਟੈਕਸਟ ਸ਼ੈਲੀ</string>
+    <string name="mark_all_visible">ਸਭ ਨੂੰ ਦ੍ਰਿਸ਼ਮਾਨ ਵਜੋਂ ਨਿਸ਼ਾਨਦੇਹੀ ਕਰੋ</string>
+    <string name="mark_all_hidden">ਸਭ ਨੂੰ ਲੁਕਵੇਂ ਵਜੋਂ ਮਾਰਕ ਕਰੋ</string>
+    <string name="streams_just_started">ਸਟ੍ਰੀਮਸ ਹੁਣੇ ਸ਼ੁਰੂ ਹੋਈਆਂ</string>
+    <string name="auto_number_fav_channels">ਮਨਪਸੰਦ ਚੈਨਲਾਂ ਲਈ ਆਟੋਮੈਟਿਕ ਨੰਬਰ ਨਿਰਧਾਰਤ ਕਰੋ</string>
+    <string name="max_epg_history_to_keep">ਯਾਦ ਰੱਖਣ ਲਈ ਅਧਿਕਤਮ ਦਿਨ (ਪੁਰਾਲੇਖ ਉਪਲਬਧਤਾ ਨੂੰ ਸੀਮਤ ਕਰਦਾ ਹੈ)</string>
+    <string name="vertical_gallery_view">ਵਰਟੀਕਲ ਗੈਲਰੀ ਦ੍ਰਿਸ਼</string>
+    <string name="if_ch_name_starts_or_ends">ਜੇ ਚੈਨਲ ਦਾ ਨਾਮ ਹੇਠ ਲਿਖੇ ਨਾਲ ਸ਼ੁਰੂ ਜਾਂ ਸਮਾਪਤ ਹੁੰਦਾ ਹੈ</string>
+    <string name="max_file_size">ਅਧਿਕਤਮ ਮਨਜ਼ੂਰ ਪਲੇਲਿਸਟ ਫਾਈਲ ਆਕਾਰ</string>
+    <string name="quick_actions">ਤੇਜ਼ ਕਾਰਵਾਈਆਂ</string>
+    <string name="clear_list">ਸੂਚੀ ਨੂੰ ਸਾਫ਼ ਕਰੋ</string>
     </resources>

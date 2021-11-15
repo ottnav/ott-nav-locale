@@ -200,7 +200,6 @@
     <string name="cfg_play_action_next">다음 채널로 전환</string>
     <string name="cfg_play_action_last">마지막으로 재생 된 채널로 전환</string>
     <string name="cfg_play_action_title">원격 제어기 설정</string>
-    <string name="cfg_play_action_btn_archive_as_live">아카이브를 보면서 동일한 설정을 사용하십시오 (왼쪽 및 오른쪽 버튼을 사용하여 찾기를 비활성화합니다).</string>
     <string name="cfg_trans_wind">투명한 인터페이스 사용</string>
 
 
@@ -359,7 +358,6 @@
     <string name="ch_manage_status_favorite">인기 있는 말</string>
     <string name="ch_manage_status_hidden">숨겨진</string>
     <string name="ch_manage_status_child">어린이</string>
-    <string name="show_future_search_in_other">외부 앱에서 검색</string>
 
     <string name="cfg_channel_manager_filters">필터</string>
     <string name="menu_suggest_premium">흥미로운 프리미엄 기능을 탐색 할 준비가 되셨습니까?</string>
@@ -603,7 +601,6 @@
     <string name="select_from_gallery">갤러리에서 선택</string>
     <string name="show_info_before_vod">비디오를 시작하기 전에 정보 표시</string>
     <string name="premium_note_dev">프리미엄에 가입하면 앱 개선 및 지원에 도움이됩니다.</string>
-    <string name="always_single_click">항상 한 번의 클릭으로 목록 항목 열기 (에어 마우스)</string>
     <string name="disable_expire_data">만료 상태 표시 안함</string>
     <string name="restore_purchases">구매 복원 (문제 해결)</string>
     <string name="future_show_sheet_autoswitch_wl">라이브가 시작되면 자동으로 채널로 전환</string>
@@ -676,4 +673,25 @@
     <string name="yesterday">어제</string>
     <string name="tomorrow">내일</string>
     <string name="show_ip_address">IP 주소 표시</string>
+    <string name="user_profiles">"사용자 프로필"</string>
+    <string name="add_new_item">"새 목록 항목 추가"</string>
+    <string name="change_image">이미지 변경</string>
+    <string name="also_allow_in_recommendations">"권장 사항도 허용"</string>
+    <string name="text_shadow_sz">텍스트 그림자 크기</string>
+    <string name="text_width_sz">텍스트 너비 크기</string>
+    <string name="text_narrow">좁은 텍스트</string>
+    <string name="text_normal">일반 텍스트</string>
+    <string name="text_bold">굵은 텍스트</string>
+    <string name="horizontal_gallery_view">수평 갤러리보기</string>
+    <string name="text_style">텍스트 스타일</string>
+    <string name="mark_all_visible">모두 표시로 표시</string>
+    <string name="mark_all_hidden">모두 숨김으로 표시</string>
+    <string name="streams_just_started">스트림이 방금 시작되었습니다.</string>
+    <string name="auto_number_fav_channels">"즐겨찾는 채널에 자동 번호 할당"</string>
+    <string name="max_epg_history_to_keep">기억할 수 있는 최대 일수(아카이브 가용성 제한)</string>
+    <string name="vertical_gallery_view">수직 갤러리 보기</string>
+    <string name="if_ch_name_starts_or_ends">"채널 이름이 다음으로 시작하거나 끝나는 경우"</string>
+    <string name="max_file_size">"최대 허용 재생 목록 파일 크기"</string>
+    <string name="quick_actions">빠른 작업</string>
+    <string name="clear_list">목록 지우기</string>
     </resources>

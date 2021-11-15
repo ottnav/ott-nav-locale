@@ -200,7 +200,6 @@
     <string name="cfg_play_action_next">পরবর্তী চ্যানেলে স্যুইচ করুন</string>
     <string name="cfg_play_action_last">শেষ খেলা চ্যানেল সুইচ</string>
     <string name="cfg_play_action_title">দূরবর্তী নিয়ামক সেটআপ</string>
-    <string name="cfg_play_action_btn_archive_as_live">সংরক্ষণাগার দেখার সময় একই সেটআপ ব্যবহার করুন (বাম এবং ডান বোতাম ব্যবহার করে অনুসন্ধান নিষ্ক্রিয় করা হবে)</string>
     <string name="cfg_trans_wind">স্বচ্ছ ইন্টারফেস ব্যবহার করুন</string>
 
 
@@ -359,8 +358,6 @@
     <string name="ch_manage_status_favorite">প্রিয়</string>
     <string name="ch_manage_status_hidden">গোপন</string>
     <string name="ch_manage_status_child">শিশু</string>
-    <string name="show_future_search_in_other">বাহ্যিক অ্যাপ্লিকেশন অনুসন্ধান করুন</string>
-
     <string name="cfg_channel_manager_filters">ফিল্টার</string>
     <string name="menu_suggest_premium">উত্তেজনাপূর্ণ প্রিমিয়াম বৈশিষ্ট্য অন্বেষণ করতে প্রস্তুত?</string>
     <string name="cfg_epg_update_frequency">আপডেট ফ্রিকোয়েন্সি (ঘন্টা)</string>
@@ -603,7 +600,6 @@
     <string name="select_from_gallery">গ্যালারী থেকে নির্বাচন করুন</string>
     <string name="show_info_before_vod">ভিডিও চালু করার আগে তথ্য প্রদর্শন করুন</string>
     <string name="premium_note_dev">প্রিমিয়াম সাবস্ক্রাইব করা অ্যাপ্লিকেশনটিকে উন্নত ও সহায়তা করতে সহায়তা করে</string>
-    <string name="always_single_click">সর্বদা একক ক্লিকের মাধ্যমে তালিকা আইটেমগুলি খুলুন (এয়ার মাউস)</string>
     <string name="disable_expire_data">মেয়াদোত্তীর্ণের স্থিতি প্রদর্শন করবেন না</string>
     <string name="restore_purchases">কেনাকাটা পুনরুদ্ধার (সমস্যা সমাধান)</string>
     <string name="future_show_sheet_autoswitch_wl">চ্যানেলটি কখন লাইভ হবে তা স্বয়ংক্রিয়ভাবে স্যুইচ করুন</string>
@@ -676,4 +672,25 @@
     <string name="yesterday">গতকাল</string>
     <string name="tomorrow">আগামীকাল</string>
     <string name="show_ip_address">আইপি ঠিকানা প্রদর্শন করুন</string>
+    <string name="user_profiles">ব্যবহারকারীর প্রোফাইল</string>
+    <string name="add_new_item">নতুন তালিকা আইটেম যুক্ত করুন</string>
+    <string name="change_image">চিত্র পরিবর্তন করুন</string>
+    <string name="also_allow_in_recommendations">সুপারিশগুলিতে অনুমতি দিন</string>
+    <string name="text_shadow_sz">পাঠ্য ছায়ার আকার</string>
+    <string name="text_width_sz">পাঠ্য প্রস্থের আকার</string>
+    <string name="text_narrow">সংক্ষিপ্ত পাঠ্য</string>
+    <string name="text_normal">নিয়মিত পাঠ্য</string>
+    <string name="text_bold">পাঠ্য বোল্ড</string>
+    <string name="horizontal_gallery_view">অনুভূমিক গ্যালারী ভিউ</string>
+    <string name="text_style">পাঠ্য শৈলী</string>
+    <string name="mark_all_visible">সবগুলিকে দৃশ্যমান হিসেবে চিহ্নিত করুন</string>
+    <string name="mark_all_hidden">সব লুকানো হিসাবে চিহ্নিত করুন</string>
+    <string name="streams_just_started">সবেমাত্র শুরু হয়েছে</string>
+    <string name="auto_number_fav_channels">পছন্দের চ্যানেলের জন্য স্বয়ংক্রিয় সংখ্যা বরাদ্দ করুন</string>
+    <string name="max_epg_history_to_keep">মনে রাখার সর্বোচ্চ দিন (আর্কাইভের প্রাপ্যতা সীমিত করে)</string>
+    <string name="vertical_gallery_view">উল্লম্ব গ্যালারি ভিউ</string>
+    <string name="if_ch_name_starts_or_ends">যদি চ্যানেলের নাম নিম্নলিখিত দিয়ে শুরু বা শেষ হয়</string>
+    <string name="max_file_size">সর্বাধিক অনুমোদিত প্লেলিস্ট ফাইলের আকার</string>
+    <string name="quick_actions">দ্রুত কর্ম</string>
+    <string name="clear_list">তালিকা সাফ করুন</string>
     </resources>

@@ -198,7 +198,6 @@
     <string name="cfg_play_action_next">beralih ke saluran seterusnya</string>
     <string name="cfg_play_action_last">beralih ke saluran terakhir yang dimainkan</string>
     <string name="cfg_play_action_title">Persediaan alat kawalan jauh</string>
-    <string name="cfg_play_action_btn_archive_as_live">Gunakan persediaan yang sama sambil menonton arkib (akan melumpuhkan mencari menggunakan butang kiri dan kanan)</string>
     <string name="cfg_trans_wind">Gunakan antara muka telus</string>
 
 
@@ -357,8 +356,6 @@
     <string name="ch_manage_status_favorite">kegemaran</string>
     <string name="ch_manage_status_hidden">tersembunyi</string>
     <string name="ch_manage_status_child">kanak-kanak</string>
-    <string name="show_future_search_in_other">Cari dalam aplikasi luaran</string>
-
     <string name="cfg_channel_manager_filters">Penapis</string>
     <string name="menu_suggest_premium">Bersedia untuk meneroka ciri-ciri premium yang menarik?</string>
     <string name="cfg_epg_update_frequency">Kekerapan kemas kini (dalam jam)</string>
@@ -601,7 +598,6 @@
     <string name="select_from_gallery">Pilih dari galeri</string>
     <string name="show_info_before_vod">Tunjukkan maklumat sebelum melancarkan video</string>
     <string name="premium_note_dev">Melanggan premium membantu meningkatkan dan menyokong aplikasi</string>
-    <string name="always_single_click">Sentiasa buka item senarai melalui satu klik (tetikus udara)</string>
     <string name="disable_expire_data">Jangan menunjukkan status luput</string>
     <string name="restore_purchases">Pulihkan pembelian (Selesaikan Masalah)</string>
     <string name="future_show_sheet_autoswitch_wl">Tukar saluran secara automatik bila ia akan disiarkan secara langsung</string>
@@ -674,4 +670,25 @@
     <string name="yesterday">semalam</string>
     <string name="tomorrow">esok</string>
     <string name="show_ip_address">Tunjukkan alamat IP</string>
+    <string name="user_profiles">Profil pengguna</string>
+    <string name="add_new_item">Tambahkan item senarai baru</string>
+    <string name="change_image">Tukar gambar</string>
+    <string name="also_allow_in_recommendations">Izinkan juga dalam cadangan</string>
+    <string name="text_shadow_sz">Ukuran bayangan teks</string>
+    <string name="text_width_sz">Ukuran lebar teks</string>
+    <string name="text_narrow">Teks sempit</string>
+    <string name="text_normal">Teks biasa</string>
+    <string name="text_bold">Teks tebal</string>
+    <string name="horizontal_gallery_view">Paparan galeri mendatar</string>
+    <string name="text_style">Gaya teks</string>
+    <string name="mark_all_visible">Tandakan semua sebagai kelihatan</string>
+    <string name="mark_all_hidden">Tandakan semua sebagai tersembunyi</string>
+    <string name="streams_just_started">Aliran baru bermula</string>
+    <string name="auto_number_fav_channels">Tetapkan nombor automatik untuk saluran kegemaran</string>
+    <string name="max_epg_history_to_keep">Hari maksimum untuk diingati (mengehadkan ketersediaan arkib)</string>
+    <string name="vertical_gallery_view">Paparan galeri menegak</string>
+    <string name="if_ch_name_starts_or_ends">Sekiranya nama saluran bermula atau berakhir dengan yang berikut</string>
+    <string name="max_file_size">Saiz fail senarai main maksimum yang dibenarkan</string>
+    <string name="quick_actions">Tindakan pantas</string>
+    <string name="clear_list">Kosongkan senarai</string>
     </resources>

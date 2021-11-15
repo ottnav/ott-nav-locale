@@ -163,7 +163,6 @@
     <string name="cfg_play_action_next">μεταβείτε στο επόμενο κανάλι</string>
     <string name="cfg_play_action_last">μεταβείτε στο τελευταίο αναπαραγόμενο κανάλι</string>
     <string name="cfg_play_action_title">Ρυθμίστε το τηλεχειριστήριο</string>
-    <string name="cfg_play_action_btn_archive_as_live">Χρησιμοποιήστε την ίδια ρύθμιση ενώ παρακολουθείτε αρχεία (θα απενεργοποιήσετε την αναζήτηση χρησιμοποιώντας κουμπιά αριστερά και δεξιά)</string>
     <string name="cfg_trans_wind">Χρησιμοποιήστε διαφανή διεπαφή</string>
     <string name="do_not_show">μην δείξεις</string>
     <string name="spread_title">Όπως και η εφαρμογή; Διέδωσέ το!</string>
@@ -314,7 +313,6 @@
     <string name="ch_manage_status_favorite">αγαπημένη</string>
     <string name="ch_manage_status_hidden">κεκρυμμένος</string>
     <string name="ch_manage_status_child">παιδί</string>
-    <string name="show_future_search_in_other">Αναζήτηση σε εξωτερικές εφαρμογές</string>
     <string name="cfg_channel_manager_filters">Φίλτρα</string>
     <string name="menu_suggest_premium">Είστε έτοιμοι να εξερευνήσετε συναρπαστικά χαρακτηριστικά premium;</string>
     <string name="cfg_epg_update_frequency">Συχνότητα ενημέρωσης (σε ώρες)</string>
@@ -554,7 +552,6 @@
     <string name="select_from_gallery">Επιλέξτε από τη συλλογή</string>
     <string name="show_info_before_vod">Εμφάνιση πληροφοριών πριν από την έναρξη του βίντεο</string>
     <string name="premium_note_dev">Η εγγραφή στο premium συμβάλλει στη βελτίωση και την υποστήριξη της εφαρμογής</string>
-    <string name="always_single_click">Να ανοίγετε πάντα στοιχεία λίστας με ένα μόνο κλικ (ποντίκι αέρα)</string>
     <string name="disable_expire_data">Να μην εμφανίζεται η κατάσταση λήξης</string>
     <string name="restore_purchases">Επαναφορά αγορών (Αντιμετώπιση προβλημάτων)</string>
     <string name="future_show_sheet_autoswitch_wl">Μεταβείτε αυτόματα στο κανάλι όταν θα είναι ζωντανό</string>
@@ -627,4 +624,25 @@
     <string name="yesterday">εχθές</string>
     <string name="tomorrow">αύριο</string>
     <string name="show_ip_address">Εμφάνιση διεύθυνσης IP</string>
+    <string name="user_profiles">Προφίλ χρηστών</string>
+    <string name="add_new_item">Προσθήκη νέου στοιχείου λίστας</string>
+    <string name="change_image">Αλλαγή εικόνας</string>
+    <string name="also_allow_in_recommendations">Επιτρέψτε επίσης στις συστάσεις</string>
+    <string name="text_shadow_sz">Μέγεθος σκιάς κειμένου</string>
+    <string name="text_width_sz">Μέγεθος πλάτους κειμένου</string>
+    <string name="text_narrow">Στενό κείμενο</string>
+    <string name="text_normal">Κανονικό κείμενο</string>
+    <string name="text_bold">Εντονο Κείμενο</string>
+    <string name="horizontal_gallery_view">Οριζόντια προβολή γκαλερί</string>
+    <string name="text_style">Στυλ κειμένου</string>
+    <string name="mark_all_visible">Επισήμανση όλων ως ορατών</string>
+    <string name="mark_all_hidden">Επισήμανση όλων ως κρυφών</string>
+    <string name="streams_just_started">Οι ροές μόλις ξεκίνησαν</string>
+    <string name="auto_number_fav_channels">Εκχωρήστε αυτόματους αριθμούς για αγαπημένα κανάλια</string>
+    <string name="max_epg_history_to_keep">Μέγιστες ημέρες για να θυμάστε (περιορίζει τη διαθεσιμότητα αρχείου)</string>
+    <string name="vertical_gallery_view">Κάθετη προβολή γκαλερί</string>
+    <string name="if_ch_name_starts_or_ends">Εάν το όνομα του καναλιού ξεκινά ή τελειώνει με το ακόλουθο</string>
+    <string name="max_file_size">Μέγιστο επιτρεπόμενο μέγεθος αρχείου λίστας αναπαραγωγής</string>
+    <string name="quick_actions">Γρήγορες ενέργειες</string>
+    <string name="clear_list">Εκκαθάριση της λίστας</string>
     </resources>

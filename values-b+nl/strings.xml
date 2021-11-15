@@ -163,7 +163,6 @@
     <string name="cfg_play_action_next">ga naar het volgende kanaal</string>
     <string name="cfg_play_action_last">schakel naar het laatst afgespeelde kanaal</string>
     <string name="cfg_play_action_title">Afstandsbediening instellen</string>
-    <string name="cfg_play_action_btn_archive_as_live">Gebruik dezelfde instelling tijdens het bekijken van archieven (schakelt het zoeken uit met de knoppen links en rechts)</string>
     <string name="cfg_trans_wind">Gebruik transparante interface</string>
     <string name="do_not_show">niet laten zien</string>
     <string name="spread_title">Ben je tevreden over deze app? Vertel het verder!</string>
@@ -314,7 +313,6 @@
     <string name="ch_manage_status_favorite">favoriete</string>
     <string name="ch_manage_status_hidden">verborgen</string>
     <string name="ch_manage_status_child">kind</string>
-    <string name="show_future_search_in_other">Zoeken in externe apps</string>
     <string name="cfg_channel_manager_filters">filters</string>
     <string name="menu_suggest_premium">Klaar om aantrekkelijke premium-functies te verkennen?</string>
     <string name="cfg_epg_update_frequency">Update frequentie (in uren)</string>
@@ -554,7 +552,6 @@
     <string name="select_from_gallery">Selecteer uit galerij</string>
     <string name="show_info_before_vod">Toon info alvorens video te starten</string>
     <string name="premium_note_dev">Abonneren op premium helpt bij het verbeteren en ondersteunen van de app</string>
-    <string name="always_single_click">Lijstitems altijd openen met een enkele klik (luchtmuis)</string>
     <string name="disable_expire_data">Laat de vervalstatus niet zien</string>
     <string name="restore_purchases">Aankopen herstellen (problemen oplossen)</string>
     <string name="future_show_sheet_autoswitch_wl">Schakel automatisch over naar het kanaal wanneer het live is</string>
@@ -627,4 +624,25 @@
     <string name="yesterday">gisteren</string>
     <string name="tomorrow">morgen</string>
     <string name="show_ip_address">Toon IP-adres</string>
+    <string name="user_profiles">Gebruikersprofielen</string>
+    <string name="add_new_item">Nieuw lijstitem toevoegen</string>
+    <string name="change_image">Afbeelding wijzigen</string>
+    <string name="also_allow_in_recommendations">Ook aanbevelingen toestaan</string>
+    <string name="text_shadow_sz">Grootte tekstschaduw shadow</string>
+    <string name="text_width_sz">Grootte tekstbreedte</string>
+    <string name="text_narrow">Smalle tekst</string>
+    <string name="text_normal">gewone tekst</string>
+    <string name="text_bold">Vetgedrukte tekst</string>
+    <string name="horizontal_gallery_view">Horizontale galerijweergave</string>
+    <string name="text_style">Tekststijl</string>
+    <string name="mark_all_visible">Alles markeren als zichtbaar</string>
+    <string name="mark_all_hidden">Alles markeren als verborgen</string>
+    <string name="streams_just_started">Streams zijn net begonnen</string>
+    <string name="auto_number_fav_channels">Automatische nummers toewijzen aan favoriete kanalen</string>
+    <string name="max_epg_history_to_keep">Max dagen om te onthouden (beperkt de beschikbaarheid van het archief)</string>
+    <string name="vertical_gallery_view">Verticale galerijweergave</string>
+    <string name="if_ch_name_starts_or_ends">Als de kanaalnaam begint of eindigt met het volgende:</string>
+    <string name="max_file_size">Maximaal toegestane bestandsgrootte van afspeellijst</string>
+    <string name="quick_actions">Snelle acties</string>
+    <string name="clear_list">Wis de lijst</string>
     </resources>

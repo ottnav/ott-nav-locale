@@ -199,7 +199,6 @@
     <string name="cfg_play_action_next">به کانال بعدی بروید</string>
     <string name="cfg_play_action_last">سوئیچ به آخرین کانال پخش شده</string>
     <string name="cfg_play_action_title">راه اندازی کنترل از راه دور</string>
-    <string name="cfg_play_action_btn_archive_as_live">هنگام تماشای آرشیوها از همان تنظیمات استفاده کنید (به دنبال استفاده از دکمه های چپ و راست)</string>
     <string name="cfg_trans_wind">از رابط شفاف استفاده کنید</string>
 
 
@@ -358,8 +357,6 @@
     <string name="ch_manage_status_favorite">مورد علاقه</string>
     <string name="ch_manage_status_hidden">پنهان</string>
     <string name="ch_manage_status_child">کودک</string>
-    <string name="show_future_search_in_other">جستجو در برنامه های خارجی</string>
-
     <string name="cfg_channel_manager_filters">فیلترها</string>
     <string name="menu_suggest_premium">آماده کشف ویژگی های هیجان انگیز است؟</string>
     <string name="cfg_epg_update_frequency">به روز رسانی فرکانس (در ساعت)</string>
@@ -602,7 +599,6 @@
     <string name="select_from_gallery">از گالری انتخاب کنید</string>
     <string name="show_info_before_vod">قبل از راه اندازی اطلاعات ، اطلاعات را نشان دهید</string>
     <string name="premium_note_dev">عضویت در حق بیمه به بهبود و پشتیبانی برنامه کمک می کند</string>
-    <string name="always_single_click">همیشه موارد لیست را فقط با یک کلیک باز کنید (ماوس هوا)</string>
     <string name="disable_expire_data">وضعیت انقضا نشان داده نشود</string>
     <string name="restore_purchases">بازگرداندن خریدها (عیب یابی)</string>
     <string name="future_show_sheet_autoswitch_wl">در صورت فعال بودن کانال به طور خودکار به کانال خود بروید</string>
@@ -675,4 +671,25 @@
     <string name="yesterday">ﺯﻭﺮﯾﺩ</string>
     <string name="tomorrow">ﺍﺩﺮﻓ</string>
     <string name="show_ip_address">IP ﺱﺭﺩﺁ ﻥﺩﺍﺩ ﻥﺎﺸﻧ</string>
+    <string name="user_profiles">ﺮﺑﺭﺎﮐ ﯼﺎﻫ ﻞﯾﺎﻓﻭﺮﭘ</string>
+    <string name="add_new_item">ﺪﯿﻨﮐ ﻪﻓﺎﺿﺍ ﺖﺴﯿﻟ ﺪﯾﺪﺟ ﺩﺭﻮﻣ</string>
+    <string name="change_image">ﺮﯾﻮﺼﺗ ﺮﯿﯿﻐﺗ</string>
+    <string name="also_allow_in_recommendations">ﺪﯿﻫﺩ ﻩﺯﺎﺟﺍ ﺰﯿﻧ ﺎﻫ ﻪﯿﺻﻮﺗ ﺭﺩ</string>
+    <string name="text_shadow_sz">اندازه سایه متن</string>
+    <string name="text_width_sz">اندازه عرض متن</string>
+    <string name="text_narrow">متن باریک</string>
+    <string name="text_normal">متن منظم</string>
+    <string name="text_bold">متن پررنگ</string>
+    <string name="horizontal_gallery_view">ﯽﻘﻓﺍ ﯼﺮﻟﺎﮔ ﯼﺎﻤﻧ</string>
+    <string name="text_style">ﻦﺘﻣ ﮏﺒﺳ</string>
+    <string name="mark_all_visible">ﺪﯿﻨﮐ ﯼﺭﺍﺬﮔ ﺖﻣﻼ﻿ﻋ ﻥﺎﯾﺎﻤﻧ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﻪﻤﻫ</string>
+    <string name="mark_all_hidden">ﺪﯿﻨﮐ ﯼﺭﺍﺬﮔ ﺖﻣﻼ﻿ﻋ ﻥﺎﻬﻨﭘ ﺍﺭ ﻪﻤﻫ</string>
+    <string name="streams_just_started">ﺖﺳﺍ ﻩﺪﺷ ﻉﻭﺮﺷ ﻩﺯﺎﺗ ﺎﻬﻧﺎﯾﺮﺟ</string>
+    <string name="auto_number_fav_channels">ﺪﯿﻨﮐ ﻦﯿﯿﻌﺗ ﻩﺍﻮﺨﻟﺩ ﯼﺎﻫ ﻝﺎﻧﺎﮐ ﯼﺍﺮﺑ ﺍﺭ ﺭﺎﮐﺩﻮﺧ ﯼﺎﻫ ﻩﺭﺎﻤﺷ</string>
+    <string name="max_epg_history_to_keep">حداکثر روزها برای به خاطر سپردن (محدودیت در دسترس بودن بایگانی)</string>
+    <string name="vertical_gallery_view">ﯼﺮﻟﺎﮔ ﯼﺩﻮﻤﻋ ﯼﺎﻤﻧ</string>
+    <string name="if_ch_name_starts_or_ends">ﺪﺑﺎﯾ ﯽﻣ ﻥﺎﯾﺎﭘ ﺎﯾ ﻉﻭﺮﺷ ﺮﯾﺯ ﺩﺭﺍﻮﻣ ﺎﺑ ﻝﺎﻧﺎﮐ ﻡﺎﻧ ﺮﮔﺍ</string>
+    <string name="max_file_size">ﺯﺎﺠﻣ ﺶﺨﭘ ﺖﺴﯿﻟ ﻞﯾﺎﻓ ﻩﺯﺍﺪﻧﺍ ﺮﺜﮐﺍﺪﺣ</string>
+    <string name="quick_actions">ﻊﯾﺮﺳ ﺕﺎﻣﺍﺪﻗﺍ</string>
+    <string name="clear_list">ﺪﯿﻨﮐ ﮎﺎﭘ ﺍﺭ ﺖﺴﯿﻟ</string>
     </resources>

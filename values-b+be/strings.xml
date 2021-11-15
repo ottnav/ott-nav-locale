@@ -192,7 +192,6 @@
     <string name="cfg_play_action_next">пераключыць на наступны канал</string>
     <string name="cfg_play_action_last">пераключыць на апошні прагледжаны канал</string>
     <string name="cfg_play_action_title">Наладзіць пульт</string>
-    <string name="cfg_play_action_btn_archive_as_live">Выкарыстоўваць гэтыя ж кнопкі для прагляду архіваў (адключыць перамотку кнопкамі налева і направа)</string>
     <string name="cfg_trans_wind">Выкарыстоўваць празрысты інтэрфейс</string>
 
     <string name="do_not_show">не паказваць</string>
@@ -350,8 +349,6 @@
     <string name="ch_manage_status_favorite">любімы</string>
     <string name="ch_manage_status_hidden">схаваны</string>
     <string name="ch_manage_status_child">дзіцячы</string>
-    <string name="show_future_search_in_other">Шукаць у іншых прыкладаннях</string>
-
     <string name="cfg_channel_manager_filters">Фільтры</string>
     <string name="menu_suggest_premium">Ці гатовыя вывучыць выдатныя прэміум магчымасці?</string>
     <string name="cfg_epg_update_frequency">Частата абнаўлення (у гадзінах)</string>
@@ -595,7 +592,6 @@
     <string name="select_from_gallery">Абраць з галерэі</string>
     <string name="show_info_before_vod">Паказаць інфармацыю перад запускам відэа</string>
     <string name="premium_note_dev">Падпіска на прэміум дапамагае паляпшаць і падтрымліваць прыкладанне</string>
-    <string name="always_single_click">Заўсёды адкрываць элементы спісу адным націскам (аэрамыш)</string>
     <string name="disable_expire_data">Не паказваць тэрмін дзеяння</string>
     <string name="restore_purchases">Аднавіць пакупкі (Ухіленне непаладак)</string>
     <string name="future_show_sheet_autoswitch_wl">Аўтаматычна перамыкацца на канал, калі ён будзе ў прамым эфіры</string>
@@ -668,4 +664,25 @@
     <string name="yesterday">учора</string>
     <string name="tomorrow">заўтра</string>
     <string name="show_ip_address">Паказаць IP-адрас</string>
+    <string name="user_profiles">Профіль карыстальніка</string>
+    <string name="add_new_item">Дадаць новы элемент спіса</string>
+    <string name="change_image">Змяніць малюнак</string>
+    <string name="also_allow_in_recommendations">Таксама ўлічыце ў рэкамендацыях</string>
+    <string name="text_shadow_sz">Памер цені тэксту</string>
+    <string name="text_width_sz">Памер шырыні тэксту</string>
+    <string name="text_narrow">Вузкі тэкст</string>
+    <string name="text_normal">Звычайны тэкст</string>
+    <string name="text_bold">Тлусты тэкст</string>
+    <string name="horizontal_gallery_view">Гарызантальны выгляд галерэі</string>
+    <string name="text_style">Стыль тэксту</string>
+    <string name="mark_all_visible">Адзначыць усе як бачныя</string>
+    <string name="mark_all_hidden">Адзначыць усе як схаваныя</string>
+    <string name="streams_just_started">Патокі толькі пачаліся</string>
+    <string name="auto_number_fav_channels">Прызначце аўтаматычныя нумары для любімых каналаў</string>
+    <string name="max_epg_history_to_keep">Максімум дзён, якія трэба запомніць (абмяжоўвае даступнасць архіва)</string>
+    <string name="vertical_gallery_view">Вертыкальны выгляд галерэі</string>
+    <string name="if_ch_name_starts_or_ends">Калі назва канала пачынаецца або заканчваецца наступным</string>
+    <string name="max_file_size">Максімальна дапушчальны памер файла плэйліста</string>
+    <string name="quick_actions">Хуткія дзеянні</string>
+    <string name="clear_list">Ачысціце спіс</string>
     </resources>

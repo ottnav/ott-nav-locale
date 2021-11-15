@@ -194,7 +194,6 @@
     <string name="cfg_play_action_next">minna järgmisele kanalile</string>
     <string name="cfg_play_action_last">lülituda viimati mängitud kanalile</string>
     <string name="cfg_play_action_title">Seadistage kaugjuhtimispult</string>
-    <string name="cfg_play_action_btn_archive_as_live">Kasutage sama seadistust arhiivide vaatamise ajal (keelab otsimise vasak- ja parempoolsete nuppudega)</string>
     <string name="cfg_trans_wind">Kasutage läbipaistvat liidest</string>
 
 
@@ -357,9 +356,6 @@
     <string name="ch_manage_status_favorite">lemmik</string>
     <string name="ch_manage_status_hidden">peidetud</string>
     <string name="ch_manage_status_child">laps</string>
-    <string name="show_future_search_in_other">Otsi välistest rakendustest</string>
-
-
     <string name="cfg_channel_manager_filters">Filtrid</string>
     <string name="menu_suggest_premium">Kas olete valmis avastama põnevaid lisatasusid?</string>
     <string name="cfg_epg_update_frequency">Värskendussagedus (tundides)</string>
@@ -602,7 +598,6 @@
     <string name="select_from_gallery">Valige galeriist</string>
     <string name="show_info_before_vod">Enne video käivitamist kuvage teave</string>
     <string name="premium_note_dev">Lisatasu tellimine aitab rakendust täiustada ja toetada</string>
-    <string name="always_single_click">Ava loendiüksused alati ühe klõpsuga (õhuhiir)</string>
     <string name="disable_expire_data">Ära näita aegumiskuupäeva</string>
     <string name="restore_purchases">Taasta ostud (tõrkeotsing)</string>
     <string name="future_show_sheet_autoswitch_wl">Lülituge automaatselt kanalile, kui see otseülekannet näeb</string>
@@ -675,4 +670,25 @@
     <string name="yesterday">eile</string>
     <string name="tomorrow">homme</string>
     <string name="show_ip_address">Kuva IP-aadress</string>
+    <string name="user_profiles">Kasutajaprofiilid</string>
+    <string name="add_new_item">Lisage uus loendiüksus</string>
+    <string name="change_image">Muuda pilti</string>
+    <string name="also_allow_in_recommendations">Lubage ka soovitused</string>
+    <string name="text_shadow_sz">Teksti varju suurus</string>
+    <string name="text_width_sz">Teksti laiuse suurus</string>
+    <string name="text_narrow">Kitsas tekst</string>
+    <string name="text_normal">Tavaline tekst</string>
+    <string name="text_bold">Paks tekst</string>
+    <string name="horizontal_gallery_view">Horisontaalne galeriivaade</string>
+    <string name="text_style">Teksti stiil</string>
+    <string name="mark_all_visible">Märkige kõik nähtavaks</string>
+    <string name="mark_all_hidden">Märkige kõik peidetuks</string>
+    <string name="streams_just_started">Ojad alles algasid</string>
+    <string name="auto_number_fav_channels">Määrake lemmikkanalitele automaatsed numbrid</string>
+    <string name="max_epg_history_to_keep">Maksimaalne päev meeldejäämiseks (piirab arhiivi kättesaadavust)</string>
+    <string name="vertical_gallery_view">Vertikaalne galeriivaade</string>
+    <string name="if_ch_name_starts_or_ends">Kui kanali nimi algab või lõpeb järgmisega</string>
+    <string name="max_file_size">Esitusloendi faili maksimaalne lubatud suurus</string>
+    <string name="quick_actions">Kiired toimingud</string>
+    <string name="clear_list">Tühjendage loend</string>
     </resources>

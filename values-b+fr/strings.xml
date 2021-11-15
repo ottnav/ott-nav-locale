@@ -199,7 +199,6 @@
     <string name="cfg_play_action_next">Passer au canal suivant</string>
     <string name="cfg_play_action_last">Passer au dernier canal joué</string>
     <string name="cfg_play_action_title">Configuration de la télécommande</string>
-    <string name="cfg_play_action_btn_archive_as_live">Utilisez la même configuration en regardant les archives (désactivez la recherche en utilisant les boutons gauche et droit)</string>
     <string name="cfg_trans_wind">Utiliser une interface transparente</string>
 
     <string name="do_not_show">Ne pas montrer</string>
@@ -357,8 +356,6 @@
     <string name="ch_manage_status_favorite">Favoris</string>
     <string name="ch_manage_status_hidden">Caché</string>
     <string name="ch_manage_status_child">Parental</string>
-    <string name="show_future_search_in_other">Rechercher dans des applications externes</string>
-
     <string name="cfg_channel_manager_filters">Filtres</string>
     <string name="menu_suggest_premium">Prêt à explorer des fonctionnalités premium passionnantes?</string>
     <string name="cfg_epg_update_frequency">Fréquence de mise à jour (en heures)</string>
@@ -601,7 +598,6 @@
     <string name="select_from_gallery">Sélectionnez dans la galerie</string>
     <string name="show_info_before_vod">Afficher les informations avant de lancer la vidéo</string>
     <string name="premium_note_dev">L\'abonnement à Premium permet d\'améliorer et de soutenir l\'application</string>
-    <string name="always_single_click">Toujours ouvrir les éléments de la liste en un seul clic (air mouse)</string>
     <string name="disable_expire_data">Ne pas afficher l\'état d\'expiration</string>
     <string name="restore_purchases">Restaurer les achats (dépanner)</string>
     <string name="future_show_sheet_autoswitch_wl">Passer automatiquement à la chaîne lorsqu\'elle sera en direct</string>
@@ -674,4 +670,25 @@
     <string name="yesterday">hier</string>
     <string name="tomorrow">demain</string>
     <string name="show_ip_address">Afficher l\'adresse IP</string>
+    <string name="user_profiles">Des profils d\'utilisateurs</string>
+    <string name="add_new_item">Ajouter un nouvel élément de liste</string>
+    <string name="change_image">Changer l\'image</string>
+    <string name="also_allow_in_recommendations">Autoriser également dans les recommandations</string>
+    <string name="text_shadow_sz">Taille de l\'ombre du texte</string>
+    <string name="text_width_sz">Taille de la largeur du texte</string>
+    <string name="text_narrow">Texte étroit</string>
+    <string name="text_normal">Texte normal</string>
+    <string name="text_bold">Texte en gras</string>
+    <string name="horizontal_gallery_view">Vue horizontale de la galerie</string>
+    <string name="text_style">Style de texte</string>
+    <string name="mark_all_visible">Marquer tout comme visible</string>
+    <string name="mark_all_hidden">Marquer tout comme masqué</string>
+    <string name="streams_just_started">Les flux viennent de commencer</string>
+    <string name="auto_number_fav_channels">Attribuer des numéros automatiques pour les chaînes préférées</string>
+    <string name="max_epg_history_to_keep">Nombre maximum de jours à retenir (restreint la disponibilité des archives)</string>
+    <string name="vertical_gallery_view">Vue de la galerie verticale</string>
+    <string name="if_ch_name_starts_or_ends">Si le nom de la chaîne commence ou se termine par ce qui suit</string>
+    <string name="max_file_size">Taille maximale autorisée du fichier de liste de lecture</string>
+    <string name="quick_actions">Actions rapides</string>
+    <string name="clear_list">Effacer la liste</string>
     </resources>

@@ -1,5 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools"
-    tools:locale="en">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="press_back_once_more_to_exit">Press once more to exit</string>
 
     <string name="search_bar">Search by channels or programs</string>
@@ -194,7 +193,6 @@
     <string name="cfg_play_action_next">switch to next channel</string>
     <string name="cfg_play_action_last">switch to last played channel</string>
     <string name="cfg_play_action_title">Setup remote controller</string>
-    <string name="cfg_play_action_btn_archive_as_live">Use same setup while watching archives (will disable seeking using left and right buttons)</string>
     <string name="cfg_trans_wind">Use transparent interface</string>
 
     <string name="do_not_show">do not show</string>
@@ -352,8 +350,6 @@
     <string name="ch_manage_status_favorite">favorite</string>
     <string name="ch_manage_status_hidden">hidden</string>
     <string name="ch_manage_status_child">child</string>
-    <string name="show_future_search_in_other">Search in external apps</string>
-
     <string name="cfg_channel_manager_filters">Filters</string>
     <string name="menu_suggest_premium">Ready to explore exciting premium features?</string>
     <string name="cfg_epg_update_frequency">Update frequency (in hours)</string>
@@ -597,7 +593,6 @@
     <string name="select_from_gallery">Select from gallery</string>
     <string name="show_info_before_vod">Show info before launching video</string>
     <string name="premium_note_dev">Subscribing to premium helps improving and supporting the app</string>
-    <string name="always_single_click">Always open list items via single click (air mouse)</string>
     <string name="disable_expire_data">Do not show expiration status</string>
     <string name="restore_purchases">Restore purchases (Troubleshoot)</string>
     <string name="future_show_sheet_autoswitch_wl">Automatically switch to the channel when it will be live</string>
@@ -670,4 +665,25 @@
     <string name="yesterday">yesterday</string>
     <string name="tomorrow">tomorrow</string>
     <string name="show_ip_address">Show IP address</string>
+    <string name="user_profiles">User profiles</string>
+    <string name="add_new_item">Add new list item</string>
+    <string name="change_image">Change image</string>
+    <string name="also_allow_in_recommendations">Also allow in recommendations</string>
+    <string name="text_shadow_sz">Text shadow size</string>
+    <string name="text_width_sz">Text width size</string>
+    <string name="text_narrow">Narrow text</string>
+    <string name="text_normal">Regular text</string>
+    <string name="text_bold">Bold text</string>
+    <string name="horizontal_gallery_view">Horizontal gallery view</string>
+    <string name="text_style">Text style</string>
+    <string name="mark_all_visible">Mark all as visible</string>
+    <string name="mark_all_hidden">Mark all as hidden</string>
+    <string name="streams_just_started">Streams just started</string>
+    <string name="auto_number_fav_channels">Assign automatic numbers for favorite channels</string>
+    <string name="max_epg_history_to_keep">Max days to remember (restricts archive availability)</string>
+    <string name="vertical_gallery_view">Vertical gallery view</string>
+    <string name="if_ch_name_starts_or_ends">If channel name starts or ends with the following</string>
+    <string name="max_file_size">Maximum allowed playlist file size</string>
+    <string name="quick_actions">Quick actions</string>
+    <string name="clear_list">Clear the list</string>
 </resources>

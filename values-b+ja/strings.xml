@@ -199,7 +199,6 @@
     <string name="cfg_play_action_next">次のチャンネルに切り替える</string>
     <string name="cfg_play_action_last">最後に再生したチャンネルに切り替える</string>
     <string name="cfg_play_action_title">セットアップリモートコントローラ</string>
-    <string name="cfg_play_action_btn_archive_as_live">アーカイブを見ながら同じ設定を使用する（左右のボタンを使用して検索を無効にする）</string>
     <string name="cfg_trans_wind">透過的なインターフェイスを使用する</string>
 
 
@@ -358,8 +357,6 @@
     <string name="ch_manage_status_favorite">好きな</string>
     <string name="ch_manage_status_hidden">隠された</string>
     <string name="ch_manage_status_child">子</string>
-    <string name="show_future_search_in_other">外部アプリを検索する</string>
-
     <string name="cfg_channel_manager_filters">フィルター</string>
     <string name="menu_suggest_premium">エキサイティングなプレミアム機能を探索する準備はできましたか？</string>
     <string name="cfg_epg_update_frequency">更新頻度（時間単位）</string>
@@ -602,7 +599,6 @@
     <string name="select_from_gallery">ギャラリーから選択</string>
     <string name="show_info_before_vod">ビデオを起動する前に情報を表示</string>
     <string name="premium_note_dev">プレミアムに登録すると、アプリの改善とサポートに役立ちます</string>
-    <string name="always_single_click">常にシングルクリック（エアマウス）でリストアイテムを開く</string>
     <string name="disable_expire_data">有効期限ステータスを表示しない</string>
     <string name="restore_purchases">購入を復元する（トラブルシューティング）</string>
     <string name="future_show_sheet_autoswitch_wl">ライブになると自動的にチャンネルに切り替わります</string>
@@ -675,4 +671,25 @@
     <string name="yesterday">昨日</string>
     <string name="tomorrow">明日</string>
     <string name="show_ip_address">IPアドレスを表示する</string>
+    <string name="user_profiles">ユーザープロファイル</string>
+    <string name="add_new_item">新しいリストアイテムを追加する</string>
+    <string name="change_image">画像を変更する</string>
+    <string name="also_allow_in_recommendations">推奨事項も許可する</string>
+    <string name="text_shadow_sz">テキストの影のサイズ</string>
+    <string name="text_width_sz">テキスト幅サイズ</string>
+    <string name="text_narrow">狭いテキスト</string>
+    <string name="text_normal">通常のテキスト</string>
+    <string name="text_bold">太字</string>
+    <string name="horizontal_gallery_view">水平ギャラリービュー</string>
+    <string name="text_style">テキストスタイル</string>
+    <string name="mark_all_visible">すべてを表示としてマークします</string>
+    <string name="mark_all_hidden">すべてを非表示としてマーク</string>
+    <string name="streams_just_started">ストリームが始まったばかり</string>
+    <string name="auto_number_fav_channels">お気に入りのチャンネルに自動番号を割り当てる</string>
+    <string name="max_epg_history_to_keep">覚えておくべき最大日数（アーカイブの可用性を制限します）</string>
+    <string name="vertical_gallery_view">垂直ギャラリービュー</string>
+    <string name="if_ch_name_starts_or_ends">チャネル名が次で始まるか終わる場合</string>
+    <string name="max_file_size">プレイリストの最大許容ファイルサイズ</string>
+    <string name="quick_actions">クイックアクション</string>
+    <string name="clear_list">リストをクリアする</string>
     </resources>

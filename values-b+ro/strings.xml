@@ -162,7 +162,6 @@
     <string name="cfg_play_action_next">treceți la canalul următor</string>
     <string name="cfg_play_action_last">comutați la ultimul canal jucat</string>
     <string name="cfg_play_action_title">Configurarea telecomenzii</string>
-    <string name="cfg_play_action_btn_archive_as_live">Utilizați aceeași configurare în timp ce urmăriți arhive (va dezactiva căutarea cu ajutorul butoanelor din stânga și din dreapta)</string>
     <string name="cfg_trans_wind">Folosiți o interfață transparentă</string>
     <string name="do_not_show">nu arata</string>
     <string name="spread_title">Îți place aplicația? Imprastie vestea!</string>
@@ -313,7 +312,6 @@
     <string name="ch_manage_status_favorite">favorit</string>
     <string name="ch_manage_status_hidden">ascuns</string>
     <string name="ch_manage_status_child">copil</string>
-    <string name="show_future_search_in_other">Căutați în aplicații externe</string>
     <string name="cfg_channel_manager_filters">Filtre</string>
     <string name="menu_suggest_premium">Sunteți gata să explorați funcțiile premium interesante?</string>
     <string name="cfg_epg_update_frequency">Frecvența de actualizare (în ore)</string>
@@ -553,7 +551,6 @@
     <string name="select_from_gallery">Selectați din galerie</string>
     <string name="show_info_before_vod">Afișați informații înainte de lansarea videoclipului</string>
     <string name="premium_note_dev">Abonarea la premium ajută la îmbunătățirea și sprijinirea aplicației</string>
-    <string name="always_single_click">Deschideți întotdeauna elementele de listă printr-un singur clic (mouse-ul aerian)</string>
     <string name="disable_expire_data">Nu afișați starea de expirare</string>
     <string name="restore_purchases">Restabiliți achizițiile (depanare)</string>
     <string name="future_show_sheet_autoswitch_wl">Comutați automat la canal când va fi live</string>
@@ -626,4 +623,25 @@
     <string name="yesterday">ieri</string>
     <string name="tomorrow">Mâine</string>
     <string name="show_ip_address">Afișați adresa IP</string>
+    <string name="user_profiles">Profilurile utilizatorilor</string>
+    <string name="add_new_item">Adăugați un nou element de listă</string>
+    <string name="change_image">Schimbați imaginea</string>
+    <string name="also_allow_in_recommendations">Permiteți, de asemenea, în recomandări</string>
+    <string name="text_shadow_sz">Dimensiunea umbrei textului</string>
+    <string name="text_width_sz">Dimensiunea lățimii textului</string>
+    <string name="text_narrow">Text îngust</string>
+    <string name="text_normal">Text regulat</string>
+    <string name="text_bold">Text îndrăzneț</string>
+    <string name="horizontal_gallery_view">Vizualizare orizontală a galeriei</string>
+    <string name="text_style">Stil text</string>
+    <string name="mark_all_visible">Marcați toate ca vizibile</string>
+    <string name="mark_all_hidden">Marcați-le ca ascunse</string>
+    <string name="streams_just_started">Fluxurile abia au început</string>
+    <string name="auto_number_fav_channels">Alocați numere automate pentru canalele preferate</string>
+    <string name="max_epg_history_to_keep">Număr maxim de zile de reținut (restricționează disponibilitatea arhivei)</string>
+    <string name="vertical_gallery_view">Vizualizare verticală a galeriei</string>
+    <string name="if_ch_name_starts_or_ends">Dacă numele canalului începe sau se termină cu următoarele</string>
+    <string name="max_file_size">Dimensiunea maximă permisă a fișierului de redare</string>
+    <string name="quick_actions">Acțiuni rapide</string>
+    <string name="clear_list">Ștergeți lista</string>
     </resources>
