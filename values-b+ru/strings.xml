@@ -678,7 +678,7 @@
     <string name="mark_all_visible">Отметить все как видимые</string>
     <string name="mark_all_hidden">Отметить все как скрытые</string>
     <string name="streams_just_started">Трансляции только что начались</string>
-    <string name="auto_number_fav_channels">Назначьте автоматические номера избранным каналам</string>
+    <string name="auto_number_fav_channels">Назначить автоматически номера избранным каналам</string>
     <string name="max_epg_history_to_keep">Максимальное количество дней для запоминания (ограничивает доступность архива)</string>
     <string name="vertical_gallery_view">Вертикальный вид галереи</string>
     <string name="if_ch_name_starts_or_ends">Если название канала начинается или заканчивается следующим</string>
