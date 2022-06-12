@@ -420,7 +420,6 @@
     <string name="pro_sub_expiring">La tua iscrizione è in scadenza. Rinnovare</string>
     <string name="mark_all_viewed">Segna tutto come visualizzato</string>
     <string name="pos_rearrange">Riorganizzare nell\'elenco</string>
-    <string name="pos_rearrange_clear">Cancella posizioni personalizzate nell\'elenco</string>
     <string name="restart">Ricomincia</string>
     <string name="cfg_prov_settings">Impostazioni del provider</string>
     <string name="cfg_prov_settings_desc">Influisce sul caricamento dei dati dal provider</string>
@@ -691,4 +690,28 @@
     <string name="max_file_size">Dimensione massima consentita per il file della playlist</string>
     <string name="quick_actions">Azioni rapide</string>
     <string name="clear_list">Cancella la lista</string>
+    <string name="ignored_words">parole ignorate</string>
+    <string name="restore_original_state">Ripristina allo stato originale</string>
+    <string name="text_color">Colore del testo</string>
+    <string name="accent_text_color">Colore del testo in accento</string>
+    <string name="hide_name_if_has_poster">Nascondi il nome se il poster è disponibile</string>
+    <string name="use_future_in_search">Usa i record futuri nella ricerca</string>
+    <string name="email_address">Indirizzo email</string>
+    <string name="password">Parola d\'ordine</string>
+    <string name="btn_login">Accesso</string>
+    <string name="btn_register">Iscriviti</string>
+    <string name="add_device">Aggiungi un dispositivo</string>
+    <string name="claim_purchase">Richiedi un acquisto</string>
+    <string name="text_is_case_sensitive">Il testo fa distinzione tra maiuscole e minuscole</string>
+    <string name="password_does_not_match">La password non corrisponde</string>
+    <string name="login_or_password_incorrect">Il login o la password non sono corretti</string>
+    <string name="change_password">Cambiare la password</string>
+    <string name="use_account_for_manage_premium">Crea un account per gestire il tuo account premium</string>
+    <string name="current_device">Dispositivo attualmente utilizzato</string>
+    <string name="import_old_purchase">Attiva il vecchio acquisto</string>
+    <string name="acc_can_no_buy_premium">Il tuo account non può acquistare premium. Dovresti contattare la persona che ti ha fornito questo account.</string>
+    <string name="select_preset">Seleziona una preimpostazione</string>
+    <string name="use_cyclic_category_navigation">Abilita la navigazione ciclica tra le categorie</string>
+    <string name="ask_add_pwd_to_protect_data">Vuoi aggiungere una password per proteggere i dati?</string>
+    <string name="use2click_mode_in_preview">Avvia l\'anteprima del video solo quando viene cliccato. Il secondo clic avvierà la riproduzione del canale a schermo intero.</string>
     </resources>

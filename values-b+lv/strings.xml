@@ -419,7 +419,6 @@
     <string name="pro_sub_expiring">Jūsu abonementa termiņš beidzas. Atjaunot</string>
     <string name="mark_all_viewed">Atzīmēt visus kā skatītos</string>
     <string name="pos_rearrange">Pārkārtot sarakstā</string>
-    <string name="pos_rearrange_clear">Notīriet pielāgotās pozīcijas sarakstā</string>
     <string name="restart">Restartēt</string>
     <string name="cfg_prov_settings">Pakalpojumu sniedzēja iestatījumi</string>
     <string name="cfg_prov_settings_desc">Ietekmē datu ielādēšanu no pakalpojumu sniedzēja</string>
@@ -690,4 +689,28 @@
     <string name="max_file_size">Maksimālais atļautais atskaņošanas saraksta faila lielums</string>
     <string name="quick_actions">Ātras darbības</string>
     <string name="clear_list">Notīriet sarakstu</string>
+    <string name="ignored_words">Ignorēti vārdi</string>
+    <string name="restore_original_state">Atjaunot sākotnējā stāvoklī</string>
+    <string name="text_color">Teksta krāsa</string>
+    <string name="accent_text_color">Akcenta teksta krāsa</string>
+    <string name="hide_name_if_has_poster">Slēpt vārdu, ja ir pieejams plakāts</string>
+    <string name="use_future_in_search">Izmantojiet turpmākos ierakstus meklēšanā</string>
+    <string name="email_address">Epasta adrese</string>
+    <string name="password">Parole</string>
+    <string name="btn_login">Pieslēgties</string>
+    <string name="btn_register">Pierakstīties</string>
+    <string name="add_device">Pievienojiet ierīci</string>
+    <string name="claim_purchase">Pieprasiet pirkumu</string>
+    <string name="text_is_case_sensitive">Tekstā ir reģistrjutīgs</string>
+    <string name="password_does_not_match">Parole neatbilst</string>
+    <string name="login_or_password_incorrect">Pieteikšanās vārds vai parole ir nepareiza</string>
+    <string name="change_password">Mainiet paroli</string>
+    <string name="use_account_for_manage_premium">Izveidojiet kontu, lai pārvaldītu savu premium kontu</string>
+    <string name="current_device">Šobrīd lietota ierīce</string>
+    <string name="import_old_purchase">Aktivizējiet veco pirkumu</string>
+    <string name="acc_can_no_buy_premium">Jūsu kontā nevar iegādāties prēmiju. Jums jāsazinās ar personu, kas jums piešķīra šo kontu.</string>
+    <string name="select_preset">Izvēlieties sākotnējo iestatījumu</string>
+    <string name="use_cyclic_category_navigation">Iespējot ciklisko navigāciju starp kategorijām</string>
+    <string name="ask_add_pwd_to_protect_data">Vai vēlaties pievienot paroli, lai aizsargātu datus?</string>
+    <string name="use2click_mode_in_preview">Sāciet video priekšskatījumu tikai pēc noklikšķināšanas. Ar otro klikšķi tiks sākta kanāla atskaņošana pilnekrāna režīmā.</string>
     </resources>

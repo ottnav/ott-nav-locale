@@ -420,7 +420,6 @@
     <string name="pro_sub_expiring">Votre abonnement expire. Le renouveler ?</string>
     <string name="mark_all_viewed">Tout marquer comme vu</string>
     <string name="pos_rearrange">Réorganiser dans la liste</string>
-    <string name="pos_rearrange_clear">Effacer les positions personnalisées dans la liste</string>
     <string name="restart">Redémarrer</string>
     <string name="cfg_prov_settings">Paramètres du fournisseur</string>
     <string name="cfg_prov_settings_desc">Affecte le chargement des données du fournisseur</string>
@@ -691,4 +690,28 @@
     <string name="max_file_size">Taille maximale autorisée du fichier de liste de lecture</string>
     <string name="quick_actions">Actions rapides</string>
     <string name="clear_list">Effacer la liste</string>
+    <string name="ignored_words">Mots ignorés</string>
+    <string name="restore_original_state">Restaurer à l\'état d\'origine</string>
+    <string name="text_color">Couleur du texte</string>
+    <string name="accent_text_color">Couleur du texte d\'accentuation</string>
+    <string name="hide_name_if_has_poster">Masquer le nom si l\'affiche est disponible</string>
+    <string name="use_future_in_search">Utiliser les enregistrements futurs dans la recherche</string>
+    <string name="email_address">Adresse e-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="btn_login">Connexion</string>
+    <string name="btn_register">S\'inscrire</string>
+    <string name="add_device">Ajouter un périphérique</string>
+    <string name="claim_purchase">Réclamer un achat</string>
+    <string name="text_is_case_sensitive">Le texte est sensible à la casse</string>
+    <string name="password_does_not_match">Le mot de passe ne correspond pas</string>
+    <string name="login_or_password_incorrect">L\'identifiant ou le mot de passe est incorrect</string>
+    <string name="change_password">Changer le mot de passe</string>
+    <string name="use_account_for_manage_premium">Créez un compte pour gérer votre compte premium</string>
+    <string name="current_device">Appareil actuellement utilisé</string>
+    <string name="import_old_purchase">Activer l\'ancien achat</string>
+    <string name="acc_can_no_buy_premium">Votre compte ne peut pas acheter de prime. Vous devez contacter la personne qui vous a donné ce compte.</string>
+    <string name="select_preset">Sélectionnez un préréglage</string>
+    <string name="use_cyclic_category_navigation">Activer la navigation cyclique entre les catégories</string>
+    <string name="ask_add_pwd_to_protect_data">Souhaitez-vous ajouter un mot de passe pour protéger les données ?</string>
+    <string name="use2click_mode_in_preview">Démarrer l\'aperçu vidéo uniquement lorsque vous cliquez dessus. Le deuxième clic lancera la lecture du canal en plein écran.</string>
     </resources>

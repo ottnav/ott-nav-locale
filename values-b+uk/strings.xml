@@ -122,7 +122,7 @@
     <string name="hud_short_volume">Гучність</string>
     <string name="hud_short_bright">Яскравість</string>
 
-    <string name="settings_provider">Постачальний послуг</string>
+    <string name="settings_provider">Постачальник послуг</string>
     <string name="settings_media_library">Медіатека</string>
     <string name="settings_media_library_dnla">Сканування джерел UPnP/DLNA у локальній мережі</string>
 
@@ -412,7 +412,6 @@
     <string name="pro_sub_expiring">Термін дії вашої підписки закінчується. Поновіть</string>
     <string name="mark_all_viewed">Позначити все переглянутим</string>
     <string name="pos_rearrange">Перевпорядкувати список</string>
-    <string name="pos_rearrange_clear">Очистити ручні позиції у списку</string>
     <string name="restart">Перезапустити</string>
     <string name="cfg_prov_settings">Налаштування провайдера</string>
     <string name="cfg_prov_settings_desc">Впливає на завантаження даних від провайдера</string>
@@ -684,4 +683,28 @@
     <string name="max_file_size">Максимально дозволений розмір файлу списку відтворення</string>
     <string name="quick_actions">Швидкі дії</string>
     <string name="clear_list">Очистіть список</string>
+    <string name="ignored_words">Проігноровані слова</string>
+    <string name="restore_original_state">Відновлення до початкового стану</string>
+    <string name="text_color">Колір тексту</string>
+    <string name="accent_text_color">Колір акцентного тексту</string>
+    <string name="hide_name_if_has_poster">Приховати ім’я, якщо плакат доступний</string>
+    <string name="use_future_in_search">Використовуйте майбутні записи в пошуку</string>
+    <string name="email_address">Електронна адреса</string>
+    <string name="password">Пароль</string>
+    <string name="btn_login">Увійти</string>
+    <string name="btn_register">зареєструватися</string>
+    <string name="add_device">Додайте пристрій</string>
+    <string name="claim_purchase">Заявити про покупку</string>
+    <string name="text_is_case_sensitive">Текст чутливий до регістру</string>
+    <string name="password_does_not_match">Пароль не збігається</string>
+    <string name="login_or_password_incorrect">Логін або пароль неправильні</string>
+    <string name="change_password">Змінити пароль</string>
+    <string name="use_account_for_manage_premium">Створіть обліковий запис, щоб керувати своїм преміум-аккаунтом</string>
+    <string name="current_device">На даний момент використовується пристрій</string>
+    <string name="import_old_purchase">Активувати стару покупку</string>
+    <string name="acc_can_no_buy_premium">Ваш обліковий запис не може придбати преміум. Вам слід зв’язатися з особою, яка надала вам цей обліковий запис.</string>
+    <string name="select_preset">Виберіть попередній набір</string>
+    <string name="use_cyclic_category_navigation">Увімкнути циклічну навігацію між категоріями</string>
+    <string name="ask_add_pwd_to_protect_data">Бажаєте додати пароль для захисту даних?</string>
+    <string name="use2click_mode_in_preview">Почніть попередній перегляд відео лише після натискання. Другий клік розпочне повноекранне відтворення каналу.</string>
     </resources>

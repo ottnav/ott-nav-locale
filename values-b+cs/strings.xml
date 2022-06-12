@@ -373,7 +373,6 @@
     <string name="pro_sub_expiring">Vaše předplatné vyprší. Obnovit</string>
     <string name="mark_all_viewed">Označit vše jako zobrazené</string>
     <string name="pos_rearrange">Změna uspořádání v seznamu</string>
-    <string name="pos_rearrange_clear">Vymazání vlastních pozic v seznamu</string>
     <string name="restart">Restartujte</string>
     <string name="cfg_prov_settings">Nastavení poskytovatele</string>
     <string name="cfg_prov_settings_desc">Ovlivňuje načítání dat od poskytovatele</string>
@@ -644,4 +643,28 @@
     <string name="max_file_size">Maximální povolená velikost souboru seznamu stop</string>
     <string name="quick_actions">Rychlé akce</string>
     <string name="clear_list">Vymažte seznam</string>
+    <string name="ignored_words">Ignorovaná slova</string>
+    <string name="restore_original_state">Obnovit do původního stavu</string>
+    <string name="text_color">Barva textu</string>
+    <string name="accent_text_color">Barva textu zvýraznění</string>
+    <string name="hide_name_if_has_poster">Skryjte jméno, pokud je k dispozici plakát</string>
+    <string name="use_future_in_search">Použijte budoucí záznamy při vyhledávání</string>
+    <string name="email_address">Emailová adresa</string>
+    <string name="password">Heslo</string>
+    <string name="btn_login">Přihlásit se</string>
+    <string name="btn_register">Přihlásit se</string>
+    <string name="add_device">Přidat zařízení</string>
+    <string name="claim_purchase">Reklamace nákupu</string>
+    <string name="text_is_case_sensitive">V textu se rozlišují velká a malá písmena</string>
+    <string name="password_does_not_match">Heslo neodpovídá</string>
+    <string name="login_or_password_incorrect">Přihlašovací jméno nebo heslo je nesprávné</string>
+    <string name="change_password">Změnit heslo</string>
+    <string name="use_account_for_manage_premium">Vytvořte si účet pro správu svého prémiového účtu</string>
+    <string name="current_device">Aktuálně používané zařízení</string>
+    <string name="import_old_purchase">Aktivujte starý nákup</string>
+    <string name="acc_can_no_buy_premium">Váš účet nemůže zakoupit prémii. Měli byste kontaktovat osobu, která vám tento účet poskytla.</string>
+    <string name="select_preset">Vyberte předvolbu</string>
+    <string name="use_cyclic_category_navigation">Povolit cyklickou navigaci mezi kategoriemi</string>
+    <string name="ask_add_pwd_to_protect_data">Přejete si přidat heslo pro ochranu dat?</string>
+    <string name="use2click_mode_in_preview">Spustit náhled videa pouze po kliknutí. Druhým kliknutím spustíte přehrávání kanálu na celé obrazovce.</string>
     </resources>

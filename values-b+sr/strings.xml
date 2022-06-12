@@ -413,7 +413,6 @@
     <string name="pro_sub_expiring">Vaša pretplata ističe. Obnovi</string>
     <string name="mark_all_viewed">Označi sve kao odgledano</string>
     <string name="pos_rearrange">Prerasporedi u listi</string>
-    <string name="pos_rearrange_clear">Očisti ručne pozicije u listi</string>
     <string name="restart">Restartuj</string>
     <string name="cfg_prov_settings">Podešavanja provajdera</string>
     <string name="cfg_prov_settings_desc">Utiče na učitavanje podataka provajdera</string>
@@ -685,4 +684,28 @@
     <string name="max_file_size">Максимална дозвољена величина датотеке са листе песама</string>
     <string name="quick_actions">Brze akcije</string>
     <string name="clear_list">Обришите листу</string>
+    <string name="ignored_words">Игнорисане речи</string>
+    <string name="restore_original_state">Вратите се у првобитно стање</string>
+    <string name="text_color">Боја текста</string>
+    <string name="accent_text_color">Боја текста акцента</string>
+    <string name="hide_name_if_has_poster">Сакриј име ако је постер доступан</string>
+    <string name="use_future_in_search">Користите будуће записе у претрази</string>
+    <string name="email_address">Адреса Е-поште</string>
+    <string name="password">Лозинка</string>
+    <string name="btn_login">Пријавите се</string>
+    <string name="btn_register">Пријави се</string>
+    <string name="add_device">Додавање уређаја</string>
+    <string name="claim_purchase">Захтевајте куповину</string>
+    <string name="text_is_case_sensitive">Текст је осетљив на велика и мала слова</string>
+    <string name="password_does_not_match">Лозинка не одговара</string>
+    <string name="login_or_password_incorrect">Пријава или лозинка су нетачни</string>
+    <string name="change_password">Промени лозинку</string>
+    <string name="use_account_for_manage_premium">Направите налог да бисте управљали својим премиум налогом</string>
+    <string name="current_device">Уређај који се тренутно користи</string>
+    <string name="import_old_purchase">Активирајте стару куповину</string>
+    <string name="acc_can_no_buy_premium">Ваш налог не може да купи премиум. Требало би да контактирате особу која вам је дала овај налог.</string>
+    <string name="select_preset">Изаберите унапред подешено</string>
+    <string name="use_cyclic_category_navigation">Омогућите цикличну навигацију између категорија</string>
+    <string name="ask_add_pwd_to_protect_data">Да ли желите да додате лозинку за заштиту података?</string>
+    <string name="use2click_mode_in_preview">Покрени преглед видеа само када се кликне. Други клик ће покренути репродукцију канала преко целог екрана.</string>
     </resources>

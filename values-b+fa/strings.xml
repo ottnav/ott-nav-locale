@@ -143,7 +143,7 @@
     <string name="settings_extended">تنظیمات تمدید شده</string>
     <string name="settings_extended_hide_adult">پنهان کردن دسته های بزرگسال</string>
     <string name="settings_extended_auto_start_last_channel">آخرین کانال پخش شده را به طور خودکار شروع کنید</string>
-    <string name="settings_schedule_epg_reload">بازنگری EPG teleguide ...</string>
+    <string name="settings_schedule_epg_reload">بازنگری EPG teleguide …</string>
 
     <string name="settings_visual">سبک بصری</string>
 
@@ -172,7 +172,7 @@
     <string name="settings_premium_source_purchase">حق بیمه خریداری شد</string>
     <string name="settings_premium_source_subscription">حق بیمه مشترک شده است</string>
     <string name="settings_premium_source_unknown">حق بیمه غیر فعال شده است</string>
-    <string name="settings_premium_what_included">درباره ویژگی های حق بیمه بیشتر بدانید ...</string>
+    <string name="settings_premium_what_included">درباره ویژگی های حق بیمه بیشتر بدانید …</string>
     <string name="settings_premium_what_included_1">در حال مشاهده جریان پخش تصویر در حالت عکس</string>
     <string name="settings_premium_what_included_3">تغییر فریم نرخ خودکار برای مطابقت با ویدئو</string>
     <string name="settings_premium_what_included_4">کنترل سرعت پخش برای آرشیوها</string>
@@ -421,7 +421,6 @@
     <string name="pro_sub_expiring">اشتراک شما منقضی شده است. تجدید</string>
     <string name="mark_all_viewed">علامت گذاری همه به عنوان مشاهده شده است</string>
     <string name="pos_rearrange">تنظیم مجدد در لیست</string>
-    <string name="pos_rearrange_clear">موقعیت های سفارشی را در لیست پاک کنید</string>
     <string name="restart">راه اندازی مجدد</string>
     <string name="cfg_prov_settings">تنظیمات ارائه دهنده</string>
     <string name="cfg_prov_settings_desc">بارگذاری داده ها از ارائه دهنده تأثیر می گذارد</string>
@@ -645,12 +644,12 @@
     <string name="selection_bitrate_lowest">ﻥﺩﺍﺩ ﺢﯿﺟﺮﺗ ﺖﯿﺑ ﺥﺮﻧ ﻦﯾﺮﺗ ﻦﯿﯾﺎﭘ</string>
     <string name="selection_bitrate_highest">ﺪﯿﻫﺩ ﺢﯿﺟﺮﺗ ﺍﺭ ﺢﯿﺟﺮﺗ ﺖﯿﺑ ﻥﺍﺰﯿﻣ ﻦﯾﺮﺘﺸﯿﺑ</string>
     <string name="launcher_mode">(ﺪﯾﻮﺸﻧ ﺝﺭﺎﺧ ﻪﻣﺎﻧﺮﺑ ﺯﺍ) ﺯﺍﺪﻧﺍ ﻩﺍﺭ ﺖﻟﺎﺣ</string>
-    <string name="current_epg_info">ﯽﻠﻌﻓ ﺶﺨﭘ ﻪﺑ ﻁﻮﺑﺮﻣ ﺕﺎﻋﻼ﻿ﻃﺍ</string>
+    <string name="current_epg_info">ﯽﻠﻌﻓ ﺶﺨﭘ ﻪﺑ ﻁﻮﺑﺮﻣ ﺕﺎﻋﻼﻃﺍ</string>
     <string name="change_codec_if_no_playback">ﺪﯿﻨﮐ ﻥﺎﺤﺘﻣﺍ ﺍﺭ ﯼﺮﮕﯾﺩ ﺭﺍﺬﮔﺰﻣﺭ ﺪﯿﻧﺍﻮﺗ ﯽﻣ ، ﺪﺸﻧ ﻉﻭﺮﺷ ﺶﺨﭘ ﺮﮔﺍ</string>
-    <string name="player_menu_and_hud">ﻻ﻿ﺎﺑﺮﺳ ﺮﮕﺸﯾﺎﻤﻧ ﻭ ﻩﺪﻨﻨﮐ ﺶﺨﭘ ﯼﻮﻨﻣ</string>
-    <string name="keep_hud_while_in_menu">ﺪﯿﻫﺩ ﻥﺎﺸﻧ ﻻ﻿ﺎﺑ ﻪﺑ ﺍﺭ ﺖﺳﺪﻫ ، ﺖﺳﺍ ﻦﺷﻭﺭ ﻮﻨﻣ ﻪﮐ ﯽﻣﺎﮕﻨﻫ</string>
+    <string name="player_menu_and_hud">ﻻﺎﺑﺮﺳ ﺮﮕﺸﯾﺎﻤﻧ ﻭ ﻩﺪﻨﻨﮐ ﺶﺨﭘ ﯼﻮﻨﻣ</string>
+    <string name="keep_hud_while_in_menu">ﺪﯿﻫﺩ ﻥﺎﺸﻧ ﻻﺎﺑ ﻪﺑ ﺍﺭ ﺖﺳﺪﻫ ، ﺖﺳﺍ ﻦﺷﻭﺭ ﻮﻨﻣ ﻪﮐ ﯽﻣﺎﮕﻨﻫ</string>
     <string name="media_tunneling">ﺪﻨﮐ ﯽﻣ ﯽﺑﺎﯾﺩﺭ ﯽﺟﻭﺮﺧ ﻩﺎﮕﺘﺳﺩ ﻪﺑ ﺎًﻤﯿﻘﺘﺴﻣ ﺍﺭ ﻪﻧﺎﺳﺭ ﯼﺯﺎﺳ ﻞﻧﻮﺗ</string>
-    <string name="menu_qs_keep_fav">ﺪﯾﺭﺍﺩ ﻪﮕﻧ ﻥﺎﮔﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ ﻪﻤﻫ ﺯﺍ ﺍﺭ ﺩﻮﺧ ﻪﻗﻼ﻿ﻋ ﺩﺭﻮﻣ ﯼﺎﻬﻟﺎﻧﺎﮐ</string>
+    <string name="menu_qs_keep_fav">ﺪﯾﺭﺍﺩ ﻪﮕﻧ ﻥﺎﮔﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ ﻪﻤﻫ ﺯﺍ ﺍﺭ ﺩﻮﺧ ﻪﻗﻼﻋ ﺩﺭﻮﻣ ﯼﺎﻬﻟﺎﻧﺎﮐ</string>
     <string name="list_view_side_by_side">ﻢﻫ ﺭﺎﻨﮐ</string>
     <string name="list_num_columns">ﺎﻫ ﻥﻮﺘﺳ ﺩﺍﺪﻌﺗ</string>
     <string name="show_on_main_screen">ﺪﯿﻨﮐ ﻝﺎﻌﻓ ﺍﺭ ﯽﻠﺻﺍ ﻪﺤﻔﺻ ﺭﺩ ﺩﺭﻮﻣ ﻦﯾﺍ ﺶﯾﺎﻤﻧ</string>
@@ -682,8 +681,8 @@
     <string name="text_bold">متن پررنگ</string>
     <string name="horizontal_gallery_view">ﯽﻘﻓﺍ ﯼﺮﻟﺎﮔ ﯼﺎﻤﻧ</string>
     <string name="text_style">ﻦﺘﻣ ﮏﺒﺳ</string>
-    <string name="mark_all_visible">ﺪﯿﻨﮐ ﯼﺭﺍﺬﮔ ﺖﻣﻼ﻿ﻋ ﻥﺎﯾﺎﻤﻧ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﻪﻤﻫ</string>
-    <string name="mark_all_hidden">ﺪﯿﻨﮐ ﯼﺭﺍﺬﮔ ﺖﻣﻼ﻿ﻋ ﻥﺎﻬﻨﭘ ﺍﺭ ﻪﻤﻫ</string>
+    <string name="mark_all_visible">ﺪﯿﻨﮐ ﯼﺭﺍﺬﮔ ﺖﻣﻼﻋ ﻥﺎﯾﺎﻤﻧ ﻥﺍﻮﻨﻋ ﻪﺑ ﺍﺭ ﻪﻤﻫ</string>
+    <string name="mark_all_hidden">ﺪﯿﻨﮐ ﯼﺭﺍﺬﮔ ﺖﻣﻼﻋ ﻥﺎﻬﻨﭘ ﺍﺭ ﻪﻤﻫ</string>
     <string name="streams_just_started">ﺖﺳﺍ ﻩﺪﺷ ﻉﻭﺮﺷ ﻩﺯﺎﺗ ﺎﻬﻧﺎﯾﺮﺟ</string>
     <string name="auto_number_fav_channels">ﺪﯿﻨﮐ ﻦﯿﯿﻌﺗ ﻩﺍﻮﺨﻟﺩ ﯼﺎﻫ ﻝﺎﻧﺎﮐ ﯼﺍﺮﺑ ﺍﺭ ﺭﺎﮐﺩﻮﺧ ﯼﺎﻫ ﻩﺭﺎﻤﺷ</string>
     <string name="max_epg_history_to_keep">حداکثر روزها برای به خاطر سپردن (محدودیت در دسترس بودن بایگانی)</string>
@@ -692,4 +691,28 @@
     <string name="max_file_size">ﺯﺎﺠﻣ ﺶﺨﭘ ﺖﺴﯿﻟ ﻞﯾﺎﻓ ﻩﺯﺍﺪﻧﺍ ﺮﺜﮐﺍﺪﺣ</string>
     <string name="quick_actions">ﻊﯾﺮﺳ ﺕﺎﻣﺍﺪﻗﺍ</string>
     <string name="clear_list">ﺪﯿﻨﮐ ﮎﺎﭘ ﺍﺭ ﺖﺴﯿﻟ</string>
+    <string name="ignored_words">ﻩﺪﺷ ﻪﺘﻓﺮﮔ ﻩﺪﯾﺩﺎﻧ ﺕﺎﻤﻠﮐ</string>
+    <string name="restore_original_state">ﺪﯿﻧﺍﺩﺮﮔﺯﺎﺑ ﻪﯿﻟﻭﺍ ﺖﻟﺎﺣ ﻪﺑ</string>
+    <string name="text_color">ﻦﺘﻣ ﮓﻧﺭ</string>
+    <string name="accent_text_color">ﯼﺪﯿﮐﺎﺗ ﻦﺘﻣ ﮓﻧﺭ</string>
+    <string name="hide_name_if_has_poster">ﺪﯿﻨﮐ ﻥﺎﻬﻨﭘ ﺍﺭ ﻡﺎﻧ ،ﺖﺳﺍ ﺩﻮﺟﻮﻣ ﺮﺘﺳﻮﭘ ﺮﮔﺍ</string>
+    <string name="use_future_in_search">ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﻮﺠﺘﺴﺟ ﺭﺩ ﻩﺪﻨﯾﺁ ﯼﺎﻫﺩﺭﻮﮐﺭ ﺯﺍ</string>
+    <string name="email_address">ﻞﯿﻤﯾﺍ ﺱﺭﺩﺁ</string>
+    <string name="password">ﺭﻮﺒﻋ ﻪﻤﻠﮐ</string>
+    <string name="btn_login">ﻥﺪﺷ ﺩﺭﺍﻭ</string>
+    <string name="btn_register">ﻡﺎﻧ ﺖﺒﺛ</string>
+    <string name="add_device">ﺪﯿﻨﮐ ﻪﻓﺎﺿﺍ ﻩﺎﮕﺘﺳﺩ ﮏﯾ</string>
+    <string name="claim_purchase">ﺪﯿﻨﮐ ﺪﯾﺮﺧ ﯼﺎﻋﺩﺍ</string>
+    <string name="text_is_case_sensitive">ﺖﺳﺍ ﺱﺎﺴﺣ ﮏﭼﻮﮐ ﻭ ﮒﺭﺰﺑ ﻑﻭﺮﺣ ﻪﺑ ﻦﺘﻣ</string>
+    <string name="password_does_not_match">ﺩﺭﺍﺪﻧ ﺖﻘﺑﺎﻄﻣ ﺭﻮﺒﻋ ﺰﻣﺭ</string>
+    <string name="login_or_password_incorrect">ورود یا رمز عبور نادرست است</string>
+    <string name="change_password">رمز عبور را تغییر دهید</string>
+    <string name="use_account_for_manage_premium">ﺪﯿﻨﮐ ﺩﺎﺠﯾﺍ ﺩﻮﺧ ﻡﻮﯿﻤﯾﺮﭘ ﺏﺎﺴﺣ ﺖﯾﺮﯾﺪﻣ ﯼﺍﺮﺑ ﯼﺮﺑﺭﺎﮐ ﺏﺎﺴﺣ ﮏﯾ</string>
+    <string name="current_device">دستگاهی که در حال حاضر استفاده می شود</string>
+    <string name="import_old_purchase">ﺪﯿﻨﮐ ﻝﺎﻌﻓ ﺍﺭ ﯽﻤﯾﺪﻗ ﺪﯾﺮﺧ</string>
+    <string name="acc_can_no_buy_premium">.ﺪﯾﺮﯿﮕﺑ ﺱﺎﻤﺗ ﺖﺳﺍ ﻩﺩﺍﺩ ﺎﻤﺷ ﻪﺑ ﺍﺭ ﺏﺎﺴﺣ ﻦﯾﺍ ﻪﮐ ﯽﺼﺨﺷ ﺎﺑ ﺪﯾﺎﺑ ﺎﻤﺷ .ﺩﺮﺨﺑ ﻪﻤﯿﺑ ﻖﺣ ﺪﻧﺍﻮﺗ ﯽﻤﻧ ﺎﻤﺷ ﺏﺎﺴﺣ</string>
+    <string name="select_preset">ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺍﺭ ﻢﯿﻈﻨﺗ ﺶﯿﭘ ﮏﯾ</string>
+    <string name="use_cyclic_category_navigation">ﺪﯿﻨﮐ ﻝﺎﻌﻓ ﺍﺭ ﺎﻫ ﻪﺘﺳﺩ ﻦﯿﺑ ﯼﺍ ﻪﺧﺮﭼ ﺶﯾﺎﻤﯿﭘ</string>
+    <string name="ask_add_pwd_to_protect_data">؟ﺪﯿﻨﮐ ﻪﻓﺎﺿﺍ ﺭﻮﺒﻋ ﺰﻣﺭ ﺎﻫ ﻩﺩﺍﺩ ﺯﺍ ﺖﻈﻓﺎﺤﻣ ﯼﺍﺮﺑ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﺎﯾﺁ</string>
+    <string name="use2click_mode_in_preview">.ﺩﻮﺷ ﯽﻣ ﻉﻭﺮﺷ ﻝﺎﻧﺎﮐ ﻪﺤﻔﺻ ﻡﺎﻤﺗ ﺶﺨﭘ ،ﻡﻭﺩ ﮏﯿﻠﮐ ﺎﺑ .ﺪﯿﻨﮐ ﻉﻭﺮﺷ ﻥﺩﺮﮐ ﮏﯿﻠﮐ ﺎﺑ ﻂﻘﻓ ﺍﺭ ﻮﯾﺪﯾﻭ ﺶﯾﺎﻤﻧu200cﺶﯿﭘ</string>
     </resources>

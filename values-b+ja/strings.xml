@@ -421,7 +421,6 @@
     <string name="pro_sub_expiring">サブスクリプションの有効期限が切れています。更新する</string>
     <string name="mark_all_viewed">すべて表示済みとしてマークする</string>
     <string name="pos_rearrange">リスト内で並べ替える</string>
-    <string name="pos_rearrange_clear">リスト内のカスタムポジションをクリアする</string>
     <string name="restart">再起動</string>
     <string name="cfg_prov_settings">プロバイダー設定</string>
     <string name="cfg_prov_settings_desc">プロバイダーからのデータの読み込みに影響します</string>
@@ -692,4 +691,28 @@
     <string name="max_file_size">プレイリストの最大許容ファイルサイズ</string>
     <string name="quick_actions">クイックアクション</string>
     <string name="clear_list">リストをクリアする</string>
+    <string name="ignored_words">無視された言葉</string>
+    <string name="restore_original_state">元の状態に戻す</string>
+    <string name="text_color">テキストの色</string>
+    <string name="accent_text_color">アクセントテキストの色</string>
+    <string name="hide_name_if_has_poster">ポスターが利用できる場合は名前を非表示にする</string>
+    <string name="use_future_in_search">検索で将来のレコードを使用する</string>
+    <string name="email_address">電子メールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="btn_login">ログイン</string>
+    <string name="btn_register">サインアップ</string>
+    <string name="add_device">デバイスを追加する</string>
+    <string name="claim_purchase">購入を請求する</string>
+    <string name="text_is_case_sensitive">テキストでは大文字と小文字が区別されます</string>
+    <string name="password_does_not_match">パスワードが一致しません</string>
+    <string name="login_or_password_incorrect">ログインまたはパスワードが正しくありません</string>
+    <string name="change_password">パスワードを変更する</string>
+    <string name="use_account_for_manage_premium">プレミアムアカウントを管理するためのアカウントを作成します</string>
+    <string name="current_device">現在使用されているデバイス</string>
+    <string name="import_old_purchase">古い購入を有効にする</string>
+    <string name="acc_can_no_buy_premium">アカウントでプレミアムを購入することはできません。このアカウントを提供した人に連絡する必要があります。</string>
+    <string name="select_preset">プリセットを選択</string>
+    <string name="use_cyclic_category_navigation">カテゴリ間の循環ナビゲーションを有効にする</string>
+    <string name="ask_add_pwd_to_protect_data">データを保護するためにパスワードを追加しますか？</string>
+    <string name="use2click_mode_in_preview">クリックしたときにのみビデオプレビューを開始します。 2回クリックすると、フルスクリーンチャンネルの再生が開始されます。</string>
     </resources>

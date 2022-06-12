@@ -374,7 +374,6 @@
     <string name="pro_sub_expiring">Langganan Anda kedaluwarsa. Memperbarui</string>
     <string name="mark_all_viewed">Tandai semua sebagai telah dilihat</string>
     <string name="pos_rearrange">Atur ulang daftar</string>
-    <string name="pos_rearrange_clear">Hapus posisi kustom dalam daftar</string>
     <string name="restart">Mengulang kembali</string>
     <string name="cfg_prov_settings">Pengaturan penyedia</string>
     <string name="cfg_prov_settings_desc">Memengaruhi pemuatan data dari penyedia</string>
@@ -645,4 +644,28 @@
     <string name="max_file_size">Ukuran file daftar putar maksimum yang diizinkan</string>
     <string name="quick_actions">Tindakan cepat</string>
     <string name="clear_list">Hapus daftar</string>
+    <string name="ignored_words">Kata-kata yang diabaikan</string>
+    <string name="restore_original_state">Kembalikan ke keadaan semula</string>
+    <string name="text_color">Warna teks</string>
+    <string name="accent_text_color">Warna teks aksen</string>
+    <string name="hide_name_if_has_poster">Sembunyikan nama jika poster tersedia</string>
+    <string name="use_future_in_search">Gunakan catatan masa depan dalam pencarian</string>
+    <string name="email_address">Alamat email</string>
+    <string name="password">Kata sandi</string>
+    <string name="btn_login">Gabung</string>
+    <string name="btn_register">Daftar</string>
+    <string name="add_device">Tambahkan perangkat</string>
+    <string name="claim_purchase">Klaim pembelian</string>
+    <string name="text_is_case_sensitive">Teks peka huruf besar-kecil</string>
+    <string name="password_does_not_match">Kata sandi tidak cocok</string>
+    <string name="login_or_password_incorrect">Login atau kata sandi salah</string>
+    <string name="change_password">Ganti kata sandi</string>
+    <string name="use_account_for_manage_premium">Buat akun untuk mengelola akun premium Anda</string>
+    <string name="current_device">Perangkat yang saat ini digunakan</string>
+    <string name="import_old_purchase">Aktifkan pembelian lama</string>
+    <string name="acc_can_no_buy_premium">Akun Anda tidak dapat membeli premium. Anda harus menghubungi orang yang memberikan akun ini kepada Anda.</string>
+    <string name="select_preset">Pilih prasetel</string>
+    <string name="use_cyclic_category_navigation">Aktifkan navigasi siklik di antara kategori</string>
+    <string name="ask_add_pwd_to_protect_data">Apakah Anda ingin menambahkan kata sandi untuk melindungi data?</string>
+    <string name="use2click_mode_in_preview">Mulai pratinjau video hanya saat diklik. Klik kedua akan memulai pemutaran saluran layar penuh.</string>
     </resources>

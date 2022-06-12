@@ -420,7 +420,6 @@
     <string name="pro_sub_expiring">Teie tellimus aegub. Uuendage</string>
     <string name="mark_all_viewed">Märgi kõik vaadatutena</string>
     <string name="pos_rearrange">Ümberkorraldamine loendis</string>
-    <string name="pos_rearrange_clear">Kustutage loendist kohandatud positsioonid</string>
     <string name="restart">Taaskäivita</string>
     <string name="cfg_prov_settings">Pakkuja seaded</string>
     <string name="cfg_prov_settings_desc">Mõjutab teenusepakkujalt andmete laadimist</string>
@@ -691,4 +690,28 @@
     <string name="max_file_size">Esitusloendi faili maksimaalne lubatud suurus</string>
     <string name="quick_actions">Kiired toimingud</string>
     <string name="clear_list">Tühjendage loend</string>
+    <string name="ignored_words">Ignoreeritud sõnad</string>
+    <string name="restore_original_state">Taastage algne olek</string>
+    <string name="text_color">Teksti värv</string>
+    <string name="accent_text_color">Aktsentteksti värv</string>
+    <string name="hide_name_if_has_poster">Peida nimi, kui plakat on saadaval</string>
+    <string name="use_future_in_search">Kasutage otsingus tulevasi kirjeid</string>
+    <string name="email_address">E-posti aadress</string>
+    <string name="password">Parool</string>
+    <string name="btn_login">Logi sisse</string>
+    <string name="btn_register">Registreeri</string>
+    <string name="add_device">Lisage seade</string>
+    <string name="claim_purchase">Taotlege ostu</string>
+    <string name="text_is_case_sensitive">Tekst on tõstutundlik</string>
+    <string name="password_does_not_match">Salasõna ei klapi</string>
+    <string name="login_or_password_incorrect">Sisselogimine või parool on vale</string>
+    <string name="change_password">Muuda salasõna</string>
+    <string name="use_account_for_manage_premium">Lisatasu konto haldamiseks looge konto</string>
+    <string name="current_device">Hetkel kasutusel olev seade</string>
+    <string name="import_old_purchase">Aktiveerige vana ost</string>
+    <string name="acc_can_no_buy_premium">Teie konto ei saa lisatasu osta. Peaksite võtma ühendust isikuga, kes teile selle konto andis.</string>
+    <string name="select_preset">Valige eelseadistus</string>
+    <string name="use_cyclic_category_navigation">Lubage kategooriate vahel tsükliline navigeerimine</string>
+    <string name="ask_add_pwd_to_protect_data">Kas soovite andmete kaitsmiseks lisada parooli?</string>
+    <string name="use2click_mode_in_preview">Käivitage video eelvaade ainult siis, kui sellel klõpsate. Teine klõps käivitab kanali täisekraanil taasesituse.</string>
     </resources>

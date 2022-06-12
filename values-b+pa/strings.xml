@@ -419,7 +419,6 @@
     <string name="pro_sub_expiring">ਤੁਹਾਡੀ ਗਾਹਕੀ ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਰਹੀ ਹੈ. ਨਵੀਨੀਕਰਣ</string>
     <string name="mark_all_viewed">ਸਾਰੇ ਵੇਖੇ ਅਨੁਸਾਰ ਮਾਰਕ ਕਰੋ</string>
     <string name="pos_rearrange">ਸੂਚੀ ਵਿੱਚ ਦੁਬਾਰਾ ਪ੍ਰਬੰਧ ਕਰੋ</string>
-    <string name="pos_rearrange_clear">ਸੂਚੀ ਵਿਚ ਕਸਟਮ ਅਹੁਦਿਆਂ ਨੂੰ ਸਾਫ ਕਰੋ</string>
     <string name="restart">ਮੁੜ ਚਾਲੂ ਕਰੋ</string>
     <string name="cfg_prov_settings">ਪ੍ਰਦਾਤਾ ਸੈਟਿੰਗਜ਼</string>
     <string name="cfg_prov_settings_desc">ਪ੍ਰਦਾਤਾ ਤੋਂ ਡਾਟਾ ਲੋਡਿੰਗ ਨੂੰ ਪ੍ਰਭਾਵਤ ਕਰਦਾ ਹੈ</string>
@@ -690,4 +689,28 @@
     <string name="max_file_size">ਅਧਿਕਤਮ ਮਨਜ਼ੂਰ ਪਲੇਲਿਸਟ ਫਾਈਲ ਆਕਾਰ</string>
     <string name="quick_actions">ਤੇਜ਼ ਕਾਰਵਾਈਆਂ</string>
     <string name="clear_list">ਸੂਚੀ ਨੂੰ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="ignored_words">ਅਣਡਿੱਠ ਕੀਤੇ ਸ਼ਬਦ</string>
+    <string name="restore_original_state">ਮੂਲ ਸਥਿਤੀ ਵਿੱਚ ਮੁੜ-ਬਹਾਲ ਕਰੋ</string>
+    <string name="text_color">ਟੈਕਸਟ ਦਾ ਰੰਗ</string>
+    <string name="accent_text_color">ਐਕਸੈਂਟ ਟੈਕਸਟ ਰੰਗ</string>
+    <string name="hide_name_if_has_poster">ਜੇਕਰ ਪੋਸਟਰ ਉਪਲਬਧ ਹੈ ਤਾਂ ਨਾਮ ਲੁਕਾਓ</string>
+    <string name="use_future_in_search">ਖੋਜ ਵਿੱਚ ਭਵਿੱਖ ਦੇ ਰਿਕਾਰਡਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="email_address">ਈਮੇਲ ਖਾਤਾ</string>
+    <string name="password">ਪਾਸਵਰਡ</string>
+    <string name="btn_login">ਲਾਗਿਨ</string>
+    <string name="btn_register">ਸਾਇਨ ਅਪ</string>
+    <string name="add_device">ਇੱਕ ਡਿਵਾਈਸ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="claim_purchase">ਇੱਕ ਖਰੀਦ ਦਾ ਦਾਅਵਾ ਕਰੋ</string>
+    <string name="text_is_case_sensitive">ਟੈਕਸਟ ਕੇਸ-ਸੰਵੇਦਨਸ਼ੀਲ ਹੈ</string>
+    <string name="password_does_not_match">ਪਾਸਵਰਡ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ</string>
+    <string name="login_or_password_incorrect">ਲਾਗਇਨ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ</string>
+    <string name="change_password">ਪਾਸਵਰਡ ਬਦਲੋ</string>
+    <string name="use_account_for_manage_premium">ਆਪਣੇ ਪ੍ਰੀਮੀਅਮ ਖਾਤੇ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਲਈ ਇੱਕ ਖਾਤਾ ਬਣਾਓ</string>
+    <string name="current_device">ਵਰਤਮਾਨ ਵਿੱਚ ਵਰਤਿਆ ਜੰਤਰ</string>
+    <string name="import_old_purchase">ਪੁਰਾਣੀ ਖਰੀਦ ਨੂੰ ਸਰਗਰਮ ਕਰੋ</string>
+    <string name="acc_can_no_buy_premium">ਤੁਹਾਡਾ ਖਾਤਾ ਪ੍ਰੀਮੀਅਮ ਨਹੀਂ ਖਰੀਦ ਸਕਦਾ। ਤੁਹਾਨੂੰ ਉਸ ਵਿਅਕਤੀ ਨਾਲ ਸੰਪਰਕ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ਜਿਸਨੇ ਤੁਹਾਨੂੰ ਇਹ ਖਾਤਾ ਦਿੱਤਾ ਹੈ।</string>
+    <string name="select_preset">ਇੱਕ ਪ੍ਰੀਸੈਟ ਚੁਣੋ</string>
+    <string name="use_cyclic_category_navigation">ਸ਼੍ਰੇਣੀਆਂ ਵਿਚਕਾਰ ਚੱਕਰੀ ਨੈਵੀਗੇਸ਼ਨ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
+    <string name="ask_add_pwd_to_protect_data">ਕੀ ਤੁਸੀਂ ਡੇਟਾ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਇੱਕ ਪਾਸਵਰਡ ਜੋੜਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="use2click_mode_in_preview">ਕਲਿਕ ਕਰਨ \'ਤੇ ਹੀ ਵੀਡੀਓ ਪ੍ਰੀਵਿਊ ਸ਼ੁਰੂ ਕਰੋ। ਦੂਜੀ ਕਲਿੱਕ ਨਾਲ ਪੂਰੀ ਸਕਰੀਨ ਚੈਨਲ ਪਲੇਬੈਕ ਸ਼ੁਰੂ ਹੋ ਜਾਵੇਗਾ।</string>
     </resources>

@@ -374,7 +374,6 @@
     <string name="pro_sub_expiring">Η συνδρομή σας λήγει. Ανανεώνω</string>
     <string name="mark_all_viewed">Σημειώστε όλα όσα βλέπετε</string>
     <string name="pos_rearrange">Επαναδιάταξη στη λίστα</string>
-    <string name="pos_rearrange_clear">Διαγράψτε τις προσαρμοσμένες θέσεις στη λίστα</string>
     <string name="restart">Επανεκκίνηση</string>
     <string name="cfg_prov_settings">Ρυθμίσεις παροχέα</string>
     <string name="cfg_prov_settings_desc">Επηρεάζει τη φόρτωση δεδομένων από τον πάροχο</string>
@@ -645,4 +644,28 @@
     <string name="max_file_size">Μέγιστο επιτρεπόμενο μέγεθος αρχείου λίστας αναπαραγωγής</string>
     <string name="quick_actions">Γρήγορες ενέργειες</string>
     <string name="clear_list">Εκκαθάριση της λίστας</string>
+    <string name="ignored_words">Αγνοημένες λέξεις</string>
+    <string name="restore_original_state">Επαναφορά στην αρχική κατάσταση</string>
+    <string name="text_color">Χρώμα κειμένου</string>
+    <string name="accent_text_color">Χρώμα κειμένου έμφασης</string>
+    <string name="hide_name_if_has_poster">Απόκρυψη ονόματος εάν η αφίσα είναι διαθέσιμη</string>
+    <string name="use_future_in_search">Χρησιμοποιήστε μελλοντικές εγγραφές στην αναζήτηση</string>
+    <string name="email_address">Διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string name="btn_login">Σύνδεση</string>
+    <string name="btn_register">Εγγραφείτε</string>
+    <string name="add_device">Προσθέστε μια συσκευή</string>
+    <string name="claim_purchase">Διεκδικήστε μια αγορά</string>
+    <string name="text_is_case_sensitive">Το κείμενο έχει διάκριση πεζών-κεφαλαίων</string>
+    <string name="password_does_not_match">Ο κωδικός δεν ταιριάζει</string>
+    <string name="login_or_password_incorrect">Η σύνδεση ή ο κωδικός πρόσβασης είναι λανθασμένη</string>
+    <string name="change_password">Αλλαξε κωδικό</string>
+    <string name="use_account_for_manage_premium">Δημιουργήστε έναν λογαριασμό για να διαχειριστείτε τον premium λογαριασμό σας</string>
+    <string name="current_device">Συσκευή που χρησιμοποιείται αυτήν τη στιγμή</string>
+    <string name="import_old_purchase">Ενεργοποίηση παλιάς αγοράς</string>
+    <string name="acc_can_no_buy_premium">Ο λογαριασμός σας δεν μπορεί να αγοράσει premium. Θα πρέπει να επικοινωνήσετε με το άτομο που σας έδωσε αυτόν τον λογαριασμό.</string>
+    <string name="select_preset">Επιλέξτε μια προεπιλογή</string>
+    <string name="use_cyclic_category_navigation">Ενεργοποίηση κυκλικής πλοήγησης μεταξύ κατηγοριών</string>
+    <string name="ask_add_pwd_to_protect_data">Θέλετε να προσθέσετε έναν κωδικό πρόσβασης για την προστασία των δεδομένων;</string>
+    <string name="use2click_mode_in_preview">Έναρξη προεπισκόπησης βίντεο μόνο όταν κάνετε κλικ. Το δεύτερο κλικ θα ξεκινήσει η αναπαραγωγή καναλιού σε πλήρη οθόνη.</string>
     </resources>

@@ -414,7 +414,6 @@
     <string name="pro_sub_expiring">Your subscription is expiring. Renew</string>
     <string name="mark_all_viewed">Mark all as viewed</string>
     <string name="pos_rearrange">Rearrange in the list</string>
-    <string name="pos_rearrange_clear">Clear custom positions in the list</string>
     <string name="restart">Restart</string>
     <string name="cfg_prov_settings">Provider settings</string>
     <string name="cfg_prov_settings_desc">Affects data loading from provider</string>
@@ -686,4 +685,29 @@
     <string name="max_file_size">Maximum allowed playlist file size</string>
     <string name="quick_actions">Quick actions</string>
     <string name="clear_list">Clear the list</string>
+    <string name="ignored_words">Ignored words</string>
+    <string name="hardware_codec_exo1" translatable="false">exo v1</string>
+    <string name="restore_original_state">Restore to original state</string>
+    <string name="text_color">Text color</string>
+    <string name="accent_text_color">Accent text color</string>
+    <string name="hide_name_if_has_poster">Hide name if poster is available</string>
+    <string name="use_future_in_search">Use future records in search</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Log in</string>
+    <string name="btn_register">Sign up</string>
+    <string name="add_device">Add a device</string>
+    <string name="claim_purchase">Claim a purchase</string>
+    <string name="text_is_case_sensitive">Text is case-sensitive</string>
+    <string name="password_does_not_match">Password does not match</string>
+    <string name="login_or_password_incorrect">Login or password is incorrect</string>
+    <string name="change_password">Change password</string>
+    <string name="use_account_for_manage_premium">Create an account to manage your premium account</string>
+    <string name="current_device">Currently used device</string>
+    <string name="import_old_purchase">Activate old purchase</string>
+    <string name="acc_can_no_buy_premium">Your account cannot purchase premium. You should contact the person who gave this account to you.</string>
+    <string name="select_preset">Select a preset</string>
+    <string name="use_cyclic_category_navigation">Enable cyclic navigation between categories</string>
+    <string name="ask_add_pwd_to_protect_data">Do you wish to add a password to protect the data?</string>
+    <string name="use2click_mode_in_preview">Start video preview only when clicked. Second click will start fullscreen channel playback.</string>
 </resources>

@@ -374,7 +374,6 @@
     <string name="pro_sub_expiring">Din prenumeration löper ut. Förnya</string>
     <string name="mark_all_viewed">Markera alla som visade</string>
     <string name="pos_rearrange">Ordna om i listan</string>
-    <string name="pos_rearrange_clear">Rensa anpassade positioner i listan</string>
     <string name="restart">Omstart</string>
     <string name="cfg_prov_settings">Leverantörsinställningar</string>
     <string name="cfg_prov_settings_desc">Påverkar datainlastning från leverantören</string>
@@ -645,4 +644,28 @@
     <string name="max_file_size">Högsta tillåtna filstorlek för spellistan</string>
     <string name="quick_actions">Snabba åtgärder</string>
     <string name="clear_list">Rensa listan</string>
+    <string name="ignored_words">Ignorerade ord</string>
+    <string name="restore_original_state">Återställ till ursprungligt tillstånd</string>
+    <string name="text_color">Text färg</string>
+    <string name="accent_text_color">Accent textfärg</string>
+    <string name="hide_name_if_has_poster">Dölj namn om affischen finns tillgänglig</string>
+    <string name="use_future_in_search">Använd framtida poster i sökningen</string>
+    <string name="email_address">E-postadress</string>
+    <string name="password">Lösenord</string>
+    <string name="btn_login">Logga in</string>
+    <string name="btn_register">Bli Medlem</string>
+    <string name="add_device">Lägg till en enhet</string>
+    <string name="claim_purchase">Gör anspråk på ett köp</string>
+    <string name="text_is_case_sensitive">Texten är skiftlägeskänslig</string>
+    <string name="password_does_not_match">Lösenordet matchar inte</string>
+    <string name="login_or_password_incorrect">Inloggning eller lösenord är felaktigt</string>
+    <string name="change_password">ändra lösenord</string>
+    <string name="use_account_for_manage_premium">Skapa ett konto för att hantera ditt premiumkonto</string>
+    <string name="current_device">För närvarande använd enhet</string>
+    <string name="import_old_purchase">Aktivera gammalt köp</string>
+    <string name="acc_can_no_buy_premium">Ditt konto kan inte köpa premium. Du bör kontakta personen som gav detta konto till dig.</string>
+    <string name="select_preset">Välj en förinställning</string>
+    <string name="use_cyclic_category_navigation">Aktivera cyklisk navigering mellan kategorier</string>
+    <string name="ask_add_pwd_to_protect_data">Vill du lägga till ett lösenord för att skydda data?</string>
+    <string name="use2click_mode_in_preview">Starta videoförhandsgranskning endast när du klickar på den. Andra klicket startar kanaluppspelning i helskärmsläge.</string>
     </resources>

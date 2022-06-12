@@ -413,7 +413,6 @@
     <string name="pro_sub_expiring">Đăng ký của bạn sắp hết hạn. Hãy gia hạn</string>
     <string name="mark_all_viewed">Đánh dấu tất cả là đã xem</string>
     <string name="pos_rearrange">Sắp xếp lại trong danh sách</string>
-    <string name="pos_rearrange_clear">Xóa các vị trí tùy chỉnh trong danh sách</string>
     <string name="restart">Khởi động lại</string>
     <string name="cfg_prov_settings">Cài đặt nhà cung cấp</string>
     <string name="cfg_prov_settings_desc">Ảnh hưởng đến việc tải dữ liệu từ nhà cung cấp</string>
@@ -684,4 +683,28 @@
     <string name="max_file_size">Kích thước tệp danh sách phát tối đa được phép</string>
     <string name="quick_actions">Hành động nhanh chóng</string>
     <string name="clear_list">Xóa danh sách</string>
+    <string name="ignored_words">Các từ bị bỏ qua</string>
+    <string name="restore_original_state">Khôi phục về trạng thái ban đầu</string>
+    <string name="text_color">Văn bản màu</string>
+    <string name="accent_text_color">Màu văn bản nhấn trọng âm</string>
+    <string name="hide_name_if_has_poster">Ẩn tên nếu có áp phích</string>
+    <string name="use_future_in_search">Sử dụng các bản ghi trong tương lai để tìm kiếm</string>
+    <string name="email_address">Địa chỉ email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="btn_register">Đăng ký</string>
+    <string name="add_device">Thêm một thiết bị</string>
+    <string name="claim_purchase">Yêu cầu mua hàng</string>
+    <string name="text_is_case_sensitive">Văn bản phân biệt chữ hoa chữ thường</string>
+    <string name="password_does_not_match">Mật khẩu không hợp lệ</string>
+    <string name="login_or_password_incorrect">Đăng nhập hoặc mật khẩu không chính xác</string>
+    <string name="change_password">Đổi mật khẩu</string>
+    <string name="use_account_for_manage_premium">Tạo tài khoản để quản lý tài khoản trả phí của bạn</string>
+    <string name="current_device">Thiết bị hiện được sử dụng</string>
+    <string name="import_old_purchase">Kích hoạt giao dịch mua cũ</string>
+    <string name="acc_can_no_buy_premium">Tài khoản của bạn không thể mua phí bảo hiểm. Bạn nên liên hệ với người đã cấp tài khoản này cho bạn.</string>
+    <string name="select_preset">Chọn một giá trị đặt trước</string>
+    <string name="use_cyclic_category_navigation">Bật điều hướng tuần hoàn giữa các danh mục</string>
+    <string name="ask_add_pwd_to_protect_data">Bạn có muốn thêm mật khẩu để bảo vệ dữ liệu không?</string>
+    <string name="use2click_mode_in_preview">Chỉ bắt đầu xem trước video khi được nhấp. Nhấp chuột thứ hai sẽ bắt đầu phát lại kênh toàn màn hình.</string>
     </resources>

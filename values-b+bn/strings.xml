@@ -422,7 +422,6 @@
     <string name="pro_sub_expiring">আপনার সদস্যতাটির মেয়াদ শেষ হচ্ছে is পুনরারম্ভ করা</string>
     <string name="mark_all_viewed">সমস্ত দেখা হিসাবে চিহ্নিত করুন</string>
     <string name="pos_rearrange">তালিকায় নতুন করে সাজান</string>
-    <string name="pos_rearrange_clear">তালিকায় কাস্টম অবস্থানগুলি সাফ করুন</string>
     <string name="restart">আবার শুরু</string>
     <string name="cfg_prov_settings">সরবরাহকারী সেটিংস</string>
     <string name="cfg_prov_settings_desc">সরবরাহকারী থেকে ডেটা লোডিং প্রভাবিত করে</string>
@@ -693,4 +692,28 @@
     <string name="max_file_size">সর্বাধিক অনুমোদিত প্লেলিস্ট ফাইলের আকার</string>
     <string name="quick_actions">দ্রুত কর্ম</string>
     <string name="clear_list">তালিকা সাফ করুন</string>
+    <string name="ignored_words">উপেক্ষিত শব্দ</string>
+    <string name="restore_original_state">আসল অবস্থায় পুনরুদ্ধার করুন</string>
+    <string name="text_color">লেখার রঙ</string>
+    <string name="accent_text_color">অ্যাকসেন্ট টেক্সট রঙ</string>
+    <string name="hide_name_if_has_poster">পোস্টার পাওয়া গেলে নাম লুকান</string>
+    <string name="use_future_in_search">অনুসন্ধানে ভবিষ্যতের রেকর্ড ব্যবহার করুন</string>
+    <string name="email_address">ইমেইল ঠিকানা</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="btn_login">প্রবেশ করুন</string>
+    <string name="btn_register">নিবন্ধন করুন</string>
+    <string name="add_device">একটা যন্ত্র সংযোগ কর</string>
+    <string name="claim_purchase">একটি ক্রয় দাবি করুন</string>
+    <string name="text_is_case_sensitive">টেক্সট কেস-সংবেদনশীল</string>
+    <string name="password_does_not_match">পাসওয়ার্ড মেলে না</string>
+    <string name="login_or_password_incorrect">লগইন বা পাসওয়ার্ড ভুল</string>
+    <string name="change_password">পাসওয়ার্ড পরিবর্তন করুন</string>
+    <string name="use_account_for_manage_premium">আপনার প্রিমিয়াম অ্যাকাউন্ট পরিচালনা করতে একটি অ্যাকাউন্ট তৈরি করুন</string>
+    <string name="current_device">বর্তমানে ব্যবহৃত ডিভাইস</string>
+    <string name="import_old_purchase">পুরানো ক্রয় সক্রিয় করুন</string>
+    <string name="acc_can_no_buy_premium">আপনার অ্যাকাউন্ট প্রিমিয়াম ক্রয় করতে পারে না. যে ব্যক্তি আপনাকে এই অ্যাকাউন্টটি দিয়েছে তার সাথে আপনার যোগাযোগ করা উচিত।</string>
+    <string name="select_preset">একটি প্রিসেট নির্বাচন করুন</string>
+    <string name="use_cyclic_category_navigation">বিভাগগুলির মধ্যে চক্রীয় নেভিগেশন সক্ষম করুন৷</string>
+    <string name="ask_add_pwd_to_protect_data">আপনি ডেটা সুরক্ষিত করার জন্য একটি পাসওয়ার্ড যোগ করতে চান?</string>
+    <string name="use2click_mode_in_preview">ক্লিক করলেই ভিডিও প্রিভিউ শুরু করুন। দ্বিতীয় ক্লিক ফুলস্ক্রিন চ্যানেল প্লেব্যাক শুরু হবে.</string>
     </resources>

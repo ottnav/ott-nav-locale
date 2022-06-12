@@ -374,7 +374,6 @@
     <string name="pro_sub_expiring">Uw abonnement verloopt. Vernieuwen</string>
     <string name="mark_all_viewed">Markeer alles als bekeken</string>
     <string name="pos_rearrange">Herschikken in de lijst</string>
-    <string name="pos_rearrange_clear">Wis aangepaste posities in de lijst</string>
     <string name="restart">Herstarten</string>
     <string name="cfg_prov_settings">Provider instellingen</string>
     <string name="cfg_prov_settings_desc">Heeft invloed op het laden van gegevens van de provider</string>
@@ -645,4 +644,28 @@
     <string name="max_file_size">Maximaal toegestane bestandsgrootte van afspeellijst</string>
     <string name="quick_actions">Snelle acties</string>
     <string name="clear_list">Wis de lijst</string>
+    <string name="ignored_words">Genegeerde woorden</string>
+    <string name="restore_original_state">Herstellen naar originele staat</string>
+    <string name="text_color">Tekst kleur</string>
+    <string name="accent_text_color">Kleur accenttekst</string>
+    <string name="hide_name_if_has_poster">Naam verbergen als poster beschikbaar is</string>
+    <string name="use_future_in_search">Toekomstige records gebruiken bij zoeken</string>
+    <string name="email_address">E-mailadres</string>
+    <string name="password">Wachtwoord</string>
+    <string name="btn_login">Log in</string>
+    <string name="btn_register">Inschrijven</string>
+    <string name="add_device">Voeg een apparaat toe</string>
+    <string name="claim_purchase">Claim een aankoop</string>
+    <string name="text_is_case_sensitive">Tekst is hoofdlettergevoelig</string>
+    <string name="password_does_not_match">Wachtwoord komt niet overeen</string>
+    <string name="login_or_password_incorrect">Login of wachtwoord is onjuist</string>
+    <string name="change_password">Wachtwoord wijzigen</string>
+    <string name="use_account_for_manage_premium">Maak een account aan om uw premium account te beheren</string>
+    <string name="current_device">Momenteel gebruikt apparaat</string>
+    <string name="import_old_purchase">Activeer oude aankoop</string>
+    <string name="acc_can_no_buy_premium">Uw account kan geen premium kopen. U dient contact op te nemen met de persoon die u dit account heeft gegeven.</string>
+    <string name="select_preset">Selecteer een voorinstelling</string>
+    <string name="use_cyclic_category_navigation">Schakel cyclische navigatie tussen categorieën in</string>
+    <string name="ask_add_pwd_to_protect_data">Wilt u een wachtwoord toevoegen om de gegevens te beschermen?</string>
+    <string name="use2click_mode_in_preview">Start videovoorbeeld alleen wanneer erop wordt geklikt. Met de tweede klik wordt het afspelen van kanalen op volledig scherm gestart.</string>
     </resources>

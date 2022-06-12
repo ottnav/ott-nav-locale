@@ -425,7 +425,6 @@
     <string name="pro_sub_expiring">Jūsų prenumerata baigiasi. Atnaujinti</string>
     <string name="mark_all_viewed">Pažymėti visus kaip peržiūrėtus</string>
     <string name="pos_rearrange">Pertvarkykite sąrašą</string>
-    <string name="pos_rearrange_clear">Išvalykite pasirinktines pozicijas sąraše</string>
     <string name="restart">Perkrauti</string>
     <string name="cfg_prov_settings">Teikėjo nustatymai</string>
     <string name="cfg_prov_settings_desc">Įtakoja duomenų teikėjo teikiamą informaciją</string>
@@ -696,4 +695,28 @@
     <string name="max_file_size">Didžiausias leistinas grojaraščio failo dydis</string>
     <string name="quick_actions">Greiti veiksmai</string>
     <string name="clear_list">Išvalykite sąrašą</string>
+    <string name="ignored_words">Ignoruojami žodžiai</string>
+    <string name="restore_original_state">Atkurti pradinę būseną</string>
+    <string name="text_color">Teksto spalva</string>
+    <string name="accent_text_color">Akcento teksto spalva</string>
+    <string name="hide_name_if_has_poster">Slėpti vardą, jei yra plakatas</string>
+    <string name="use_future_in_search">Naudokite būsimus įrašus paieškoje</string>
+    <string name="email_address">Elektroninio pašto adresas</string>
+    <string name="password">Slaptažodis</string>
+    <string name="btn_login">Prisijungti</string>
+    <string name="btn_register">Registruotis</string>
+    <string name="add_device">Pridėkite įrenginį</string>
+    <string name="claim_purchase">Pateikite pretenziją dėl pirkimo</string>
+    <string name="text_is_case_sensitive">Tekste skiriamos didžiosios ir mažosios raidės</string>
+    <string name="password_does_not_match">Slaptažodžiai nesutampa</string>
+    <string name="login_or_password_incorrect">Neteisingas prisijungimo vardas arba slaptažodis</string>
+    <string name="change_password">Pakeisti slaptažodį</string>
+    <string name="use_account_for_manage_premium">Sukurkite paskyrą, kad galėtumėte valdyti savo „premium“ paskyrą</string>
+    <string name="current_device">Šiuo metu naudojamas įrenginys</string>
+    <string name="import_old_purchase">Suaktyvinkite seną pirkinį</string>
+    <string name="acc_can_no_buy_premium">Jūsų paskyra negali įsigyti priemokos. Turėtumėte susisiekti su asmeniu, kuris jums suteikė šią paskyrą.</string>
+    <string name="select_preset">Pasirinkite išankstinį nustatymą</string>
+    <string name="use_cyclic_category_navigation">Įgalinti ciklinį naršymą tarp kategorijų</string>
+    <string name="ask_add_pwd_to_protect_data">Ar norite pridėti slaptažodį, kad apsaugotumėte duomenis?</string>
+    <string name="use2click_mode_in_preview">Pradėti vaizdo įrašo peržiūrą tik spustelėjus. Antru paspaudimu bus pradėtas viso ekrano kanalo atkūrimas.</string>
     </resources>

@@ -420,7 +420,6 @@
     <string name="pro_sub_expiring">Sua assinatura está expirando. Renovar</string>
     <string name="mark_all_viewed">Marcar todos como assistidos</string>
     <string name="pos_rearrange">Reorganizar na lista</string>
-    <string name="pos_rearrange_clear">Limpar posições personalizadas na lista</string>
     <string name="restart">Reiniciar</string>
     <string name="cfg_prov_settings">Configurações do provedor</string>
     <string name="cfg_prov_settings_desc">Afeta o carregamento de dados do provedor</string>
@@ -651,7 +650,7 @@
     <string name="media_tunneling">Tunelamento de faixa de mídia diretamente para o dispositivo de saída</string>
     <string name="menu_qs_keep_fav">Mantenha os canais favoritos de todos os provedores</string>
     <string name="list_view_side_by_side">Lado a lado</string>
-    <string name="list_num_columns">Numero de colunas</string>
+    <string name="list_num_columns">Número de colunas</string>
     <string name="show_on_main_screen">Habilite a exibição disso na tela principal</string>
     <string name="add_temp_stream_link">Adicionar link temporário a um fluxo da biblioteca</string>
     <string name="auto_start_this_ch_on_start">Iniciar automaticamente a reprodução deste canal ao iniciar o aplicativo</string>
@@ -691,4 +690,28 @@
     <string name="max_file_size">Tamanho máximo permitido do arquivo de lista de reprodução</string>
     <string name="quick_actions">Ações rápidas</string>
     <string name="clear_list">Limpe a lista</string>
+    <string name="ignored_words">Palavras ignoradas</string>
+    <string name="restore_original_state">Restaurar ao estado original</string>
+    <string name="text_color">Cor do texto</string>
+    <string name="accent_text_color">Cor de destaque do texto</string>
+    <string name="hide_name_if_has_poster">Ocultar nome se o pôster estiver disponível</string>
+    <string name="use_future_in_search">Use registros futuros na pesquisa</string>
+    <string name="email_address">Endereço de e-mail</string>
+    <string name="password">Senha</string>
+    <string name="btn_login">Conecte-se</string>
+    <string name="btn_register">Inscrever-se</string>
+    <string name="add_device">Adicionar um dispositivo</string>
+    <string name="claim_purchase">Reivindicar uma compra</string>
+    <string name="text_is_case_sensitive">O texto diferencia maiúsculas de minúsculas</string>
+    <string name="password_does_not_match">Senha não corresponde</string>
+    <string name="login_or_password_incorrect">Login ou senha incorretos</string>
+    <string name="change_password">Alterar a senha</string>
+    <string name="use_account_for_manage_premium">Crie uma conta para gerenciar sua conta premium</string>
+    <string name="current_device">Dispositivo usado atualmente</string>
+    <string name="import_old_purchase">Ativar compra antiga</string>
+    <string name="acc_can_no_buy_premium">Sua conta não pode comprar premium. Você deve entrar em contato com a pessoa que lhe deu esta conta.</string>
+    <string name="select_preset">Selecione uma predefinição</string>
+    <string name="use_cyclic_category_navigation">Ativar navegação cíclica entre categorias</string>
+    <string name="ask_add_pwd_to_protect_data">Deseja adicionar uma senha para proteger os dados?</string>
+    <string name="use2click_mode_in_preview">Inicie a visualização do vídeo somente quando clicado. O segundo clique iniciará a reprodução do canal em tela cheia.</string>
     </resources>

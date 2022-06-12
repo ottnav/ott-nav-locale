@@ -373,7 +373,6 @@
     <string name="pro_sub_expiring">Vaša pretplata istječe. Obnoviti</string>
     <string name="mark_all_viewed">Označi sve kao pogledano</string>
     <string name="pos_rearrange">Preuredite na popisu</string>
-    <string name="pos_rearrange_clear">Očistite prilagođene položaje na popisu</string>
     <string name="restart">Ponovno pokretanje</string>
     <string name="cfg_prov_settings">Postavke davatelja</string>
     <string name="cfg_prov_settings_desc">Utječe na učitavanje podataka od davatelja usluga</string>
@@ -644,4 +643,28 @@
     <string name="max_file_size">Maksimalna dopuštena veličina datoteke s popisa za reprodukciju</string>
     <string name="quick_actions">Brze radnje</string>
     <string name="clear_list">Očistite popis</string>
+    <string name="ignored_words">Ignorirane riječi</string>
+    <string name="restore_original_state">Vratite u izvorno stanje</string>
+    <string name="text_color">Boja teksta</string>
+    <string name="accent_text_color">Naglašena boja teksta</string>
+    <string name="hide_name_if_has_poster">Sakrij ime ako je poster dostupan</string>
+    <string name="use_future_in_search">Koristite buduće zapise u pretraživanju</string>
+    <string name="email_address">Email adresa</string>
+    <string name="password">Zaporka</string>
+    <string name="btn_login">Prijaviti se</string>
+    <string name="btn_register">Prijavite se</string>
+    <string name="add_device">Dodajte uređaj</string>
+    <string name="claim_purchase">Zatražite kupnju</string>
+    <string name="text_is_case_sensitive">Tekst je osjetljiv na velika i mala slova</string>
+    <string name="password_does_not_match">Šifra se ne podudara</string>
+    <string name="login_or_password_incorrect">Prijava ili lozinka nisu točni</string>
+    <string name="change_password">Promijenite lozinku</string>
+    <string name="use_account_for_manage_premium">Izradite račun za upravljanje svojim premium računom</string>
+    <string name="current_device">Trenutno korišteni uređaj</string>
+    <string name="import_old_purchase">Aktivirajte staru kupnju</string>
+    <string name="acc_can_no_buy_premium">Vaš račun ne može kupiti premium. Trebali biste kontaktirati osobu koja vam je dala ovaj račun.</string>
+    <string name="select_preset">Odaberite unaprijed postavljeno</string>
+    <string name="use_cyclic_category_navigation">Omogućite cikličku navigaciju između kategorija</string>
+    <string name="ask_add_pwd_to_protect_data">Želite li dodati lozinku za zaštitu podataka?</string>
+    <string name="use2click_mode_in_preview">Pokreni pregled videa samo kada se klikne. Drugi klik će pokrenuti reprodukciju kanala preko cijelog zaslona.</string>
     </resources>

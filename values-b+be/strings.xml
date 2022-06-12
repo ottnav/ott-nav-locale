@@ -413,7 +413,6 @@
     <string name="pro_sub_expiring">Ваша падпіска мінае. Падоўжыць</string>
     <string name="mark_all_viewed">Пазначыць усё, як прагледжанае</string>
     <string name="pos_rearrange">Пераўпарадкаваць у спісе</string>
-    <string name="pos_rearrange_clear">Ачысціць ручныя пазіцыі ў спісе</string>
     <string name="restart">Перазапусціць</string>
     <string name="cfg_prov_settings">Налады правайдара</string>
     <string name="cfg_prov_settings_desc">Уплывае на загрузку дадзеных ад правайдара</string>
@@ -685,4 +684,28 @@
     <string name="max_file_size">Максімальна дапушчальны памер файла плэйліста</string>
     <string name="quick_actions">Хуткія дзеянні</string>
     <string name="clear_list">Ачысціце спіс</string>
+    <string name="ignored_words">Праігнараваныя словы</string>
+    <string name="restore_original_state">Аднавіць да першапачатковага стану</string>
+    <string name="text_color">Колер тэксту</string>
+    <string name="accent_text_color">Акцэнтны колер тэксту</string>
+    <string name="hide_name_if_has_poster">Схаваць імя, калі плакат даступны</string>
+    <string name="use_future_in_search">Выкарыстоўвайце будучыя запісы ў пошуку</string>
+    <string name="email_address">Адрас электроннай пошты</string>
+    <string name="password">Пароль</string>
+    <string name="btn_login">Увайсці</string>
+    <string name="btn_register">Зарэгістравацца</string>
+    <string name="add_device">Дадаць прыладу</string>
+    <string name="claim_purchase">Заявіце куплю</string>
+    <string name="text_is_case_sensitive">Тэкст адчувальны да рэгістра</string>
+    <string name="password_does_not_match">Пароль не супадае</string>
+    <string name="login_or_password_incorrect">Лагін або пароль няправільны</string>
+    <string name="change_password">Змяніць пароль</string>
+    <string name="use_account_for_manage_premium">Стварыце ўліковы запіс, каб кіраваць сваім прэміум-рахункам</string>
+    <string name="current_device">У цяперашні час выкарыстоўваецца прылада</string>
+    <string name="import_old_purchase">Актывуйце старую пакупку</string>
+    <string name="acc_can_no_buy_premium">Ваш уліковы запіс не можа набыць прэміум. Вы павінны звязацца з чалавекам, які даў вам гэты ўліковы запіс.</string>
+    <string name="select_preset">Выберыце перадусталёўку</string>
+    <string name="use_cyclic_category_navigation">Уключыць цыклічную навігацыю паміж катэгорыямі</string>
+    <string name="ask_add_pwd_to_protect_data">Вы хочаце дадаць пароль для абароны дадзеных?</string>
+    <string name="use2click_mode_in_preview">Пачаць папярэдні прагляд відэа толькі пры націску. Другі пстрык пачне прайграванне поўнаэкраннага канала.</string>
     </resources>

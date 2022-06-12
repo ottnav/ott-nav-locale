@@ -421,7 +421,6 @@
     <string name="pro_sub_expiring">आपकी सदस्यता समाप्त हो रही है। नवीकरण</string>
     <string name="mark_all_viewed">सभी को देखा के रूप में चिह्नित करें</string>
     <string name="pos_rearrange">सूची में पुनर्व्यवस्थित करें</string>
-    <string name="pos_rearrange_clear">सूची में कस्टम स्थिति साफ़ करें</string>
     <string name="restart">पुनः आरंभ करें</string>
     <string name="cfg_prov_settings">प्रदाता सेटिंग्स</string>
     <string name="cfg_prov_settings_desc">प्रदाता से डेटा लोडिंग को प्रभावित करता है</string>
@@ -692,4 +691,28 @@
     <string name="max_file_size">अधिकतम अनुमत प्लेलिस्ट फ़ाइल आकार</string>
     <string name="quick_actions">त्वरित कार्रवाई</string>
     <string name="clear_list">सूची साफ़ करें</string>
+    <string name="ignored_words">उपेक्षित शब्द</string>
+    <string name="restore_original_state">मूल स्थिति में पुनर्स्थापित करें</string>
+    <string name="text_color">लिखावट का रंग</string>
+    <string name="accent_text_color">एक्सेंट टेक्स्ट रंग</string>
+    <string name="hide_name_if_has_poster">पोस्टर उपलब्ध होने पर नाम छुपाएं</string>
+    <string name="use_future_in_search">खोज में भविष्य के रिकॉर्ड का उपयोग करें</string>
+    <string name="email_address">मेल पता</string>
+    <string name="password">कुंजिका</string>
+    <string name="btn_login">लॉग इन करें</string>
+    <string name="btn_register">साइन अप करें</string>
+    <string name="add_device">एक उपकरण जोड़ें</string>
+    <string name="claim_purchase">खरीदारी का दावा करें</string>
+    <string name="text_is_case_sensitive">टेक्स्ट केस-संवेदी है</string>
+    <string name="password_does_not_match">पासवर्ड मैच नहीं कर रहा है</string>
+    <string name="login_or_password_incorrect">लॉगिन या पासवर्ड गलत है</string>
+    <string name="change_password">पासवर्ड बदलें</string>
+    <string name="use_account_for_manage_premium">अपना प्रीमियम खाता प्रबंधित करने के लिए एक खाता बनाएं</string>
+    <string name="current_device">वर्तमान में प्रयुक्त डिवाइस</string>
+    <string name="import_old_purchase">पुरानी खरीदारी सक्रिय करें</string>
+    <string name="acc_can_no_buy_premium">आपका खाता प्रीमियम नहीं खरीद सकता। आपको उस व्यक्ति से संपर्क करना चाहिए जिसने आपको यह खाता दिया है।</string>
+    <string name="select_preset">एक प्रीसेट चुनें</string>
+    <string name="use_cyclic_category_navigation">श्रेणियों के बीच चक्रीय नेविगेशन सक्षम करें</string>
+    <string name="ask_add_pwd_to_protect_data">क्या आप डेटा की सुरक्षा के लिए पासवर्ड जोड़ना चाहते हैं?</string>
+    <string name="use2click_mode_in_preview">क्लिक करने पर ही वीडियो पूर्वावलोकन शुरू करें। दूसरा क्लिक फ़ुलस्क्रीन चैनल प्लेबैक प्रारंभ करेगा।</string>
     </resources>

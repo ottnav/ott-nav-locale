@@ -420,7 +420,6 @@
     <string name="pro_sub_expiring">Langganan anda tamat tempoh. Pembaharuan</string>
     <string name="mark_all_viewed">Tandai semua seperti yang dilihat</string>
     <string name="pos_rearrange">Susun semula dalam senarai</string>
-    <string name="pos_rearrange_clear">Kosongkan kedudukan tersuai dalam senarai</string>
     <string name="restart">Mula semula</string>
     <string name="cfg_prov_settings">Tetapan pembekal</string>
     <string name="cfg_prov_settings_desc">Mempengaruhi pemuatan data dari pembekal</string>
@@ -691,4 +690,28 @@
     <string name="max_file_size">Saiz fail senarai main maksimum yang dibenarkan</string>
     <string name="quick_actions">Tindakan pantas</string>
     <string name="clear_list">Kosongkan senarai</string>
+    <string name="ignored_words">Kata-kata yang tidak diendahkan</string>
+    <string name="restore_original_state">Pulihkan kepada keadaan asal</string>
+    <string name="text_color">Warna teks</string>
+    <string name="accent_text_color">Warna teks aksen</string>
+    <string name="hide_name_if_has_poster">Sembunyikan nama jika poster tersedia</string>
+    <string name="use_future_in_search">Gunakan rekod masa hadapan dalam carian</string>
+    <string name="email_address">Alamat emel</string>
+    <string name="password">Kata laluan</string>
+    <string name="btn_login">Log masuk</string>
+    <string name="btn_register">daftar</string>
+    <string name="add_device">Tambahkan peranti</string>
+    <string name="claim_purchase">Tuntut pembelian</string>
+    <string name="text_is_case_sensitive">Teks adalah sensitif huruf besar-besaran</string>
+    <string name="password_does_not_match">Kata laluan tidak sepadan</string>
+    <string name="login_or_password_incorrect">Log masuk atau kata laluan tidak betul</string>
+    <string name="change_password">Tukar kata laluan</string>
+    <string name="use_account_for_manage_premium">Buat akaun untuk mengurus akaun premium anda</string>
+    <string name="current_device">Peranti yang sedang digunakan</string>
+    <string name="import_old_purchase">Aktifkan pembelian lama</string>
+    <string name="acc_can_no_buy_premium">Akaun anda tidak boleh membeli premium. Anda harus menghubungi orang yang memberikan akaun ini kepada anda.</string>
+    <string name="select_preset">Pilih pratetap</string>
+    <string name="use_cyclic_category_navigation">Dayakan navigasi kitaran antara kategori</string>
+    <string name="ask_add_pwd_to_protect_data">Adakah anda ingin menambah kata laluan untuk melindungi data?</string>
+    <string name="use2click_mode_in_preview">Mulakan pratonton video hanya apabila diklik. Klik kedua akan memulakan main balik saluran skrin penuh.</string>
     </resources>

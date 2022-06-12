@@ -413,7 +413,6 @@
     <string name="pro_sub_expiring">您的订阅即将到期，欢迎续订。</string>
     <string name="mark_all_viewed">全部标记为已观看</string>
     <string name="pos_rearrange">顺序调整</string>
-    <string name="pos_rearrange_clear">顺序还原</string>
     <string name="restart">重启</string>
     <string name="cfg_prov_settings">供应商设置</string>
     <string name="cfg_prov_settings_desc">受供应商影响的数据</string>
@@ -684,4 +683,28 @@
     <string name="max_file_size">允许的最大播放列表文件大小</string>
     <string name="quick_actions">快速操作</string>
     <string name="clear_list">清除清单</string>
+    <string name="ignored_words">忽略的词</string>
+    <string name="restore_original_state">恢复到原始状态</string>
+    <string name="text_color">文字颜色</string>
+    <string name="accent_text_color">强调文字颜色</string>
+    <string name="hide_name_if_has_poster">如果海报可用，请隐藏名称</string>
+    <string name="use_future_in_search">在搜索中使用未来记录</string>
+    <string name="email_address">电子邮件地址</string>
+    <string name="password">密码</string>
+    <string name="btn_login">登录</string>
+    <string name="btn_register">注册</string>
+    <string name="add_device">添加设备</string>
+    <string name="claim_purchase">要求购买</string>
+    <string name="text_is_case_sensitive">文本区分大小写</string>
+    <string name="password_does_not_match">密码不匹配</string>
+    <string name="login_or_password_incorrect">登录名或密码不正确</string>
+    <string name="change_password">更改密码</string>
+    <string name="use_account_for_manage_premium">创建一个帐户来管理您的高级帐户</string>
+    <string name="current_device">目前使用的设备</string>
+    <string name="import_old_purchase">激活旧购买</string>
+    <string name="acc_can_no_buy_premium">您的帐户无法购买保费。您应该联系向您提供此帐户的人。</string>
+    <string name="select_preset">选择一个预设</string>
+    <string name="use_cyclic_category_navigation">启用类别之间的循环导航</string>
+    <string name="ask_add_pwd_to_protect_data">您想添加密码来保护数据吗？</string>
+    <string name="use2click_mode_in_preview">仅在单击时开始视频预览。第二次单击将开始全屏频道播放。</string>
     </resources>

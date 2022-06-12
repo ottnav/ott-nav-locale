@@ -373,7 +373,6 @@
     <string name="pro_sub_expiring">Вашият абонамент изтича. Подновете</string>
     <string name="mark_all_viewed">Маркирайте всички като гледани</string>
     <string name="pos_rearrange">Пренареждане в списъка</string>
-    <string name="pos_rearrange_clear">Изчистване на персонализираните позиции в списъка</string>
     <string name="restart">Рестартирам</string>
     <string name="cfg_prov_settings">Настройки на доставчика</string>
     <string name="cfg_prov_settings_desc">Засяга зареждането на данни от доставчика</string>
@@ -644,4 +643,28 @@
     <string name="max_file_size">Максимално разрешен размер на файла на плейлиста</string>
     <string name="quick_actions">Бързи действия</string>
     <string name="clear_list">Изчистете списъка</string>
+    <string name="ignored_words">Игнорирани думи</string>
+    <string name="restore_original_state">Възстановяване в първоначалното състояние</string>
+    <string name="text_color">Цвят на текста</string>
+    <string name="accent_text_color">Цвят на текста за акцент</string>
+    <string name="hide_name_if_has_poster">Скриване на името, ако е наличен плакат</string>
+    <string name="use_future_in_search">Използвайте бъдещи записи при търсене</string>
+    <string name="email_address">Имейл адрес</string>
+    <string name="password">парола</string>
+    <string name="btn_login">Влизане</string>
+    <string name="btn_register">Регистрирай се</string>
+    <string name="add_device">Добави устройство</string>
+    <string name="claim_purchase">Заявете покупка</string>
+    <string name="text_is_case_sensitive">Текстът е чувствителен към малки и големи букви</string>
+    <string name="password_does_not_match">Паролата не съвпада</string>
+    <string name="login_or_password_incorrect">Входът или паролата са неправилни</string>
+    <string name="change_password">Промяна на паролата</string>
+    <string name="use_account_for_manage_premium">Създайте акаунт, за да управлявате своя премиум акаунт</string>
+    <string name="current_device">Използвано в момента устройство</string>
+    <string name="import_old_purchase">Активирайте стара покупка</string>
+    <string name="acc_can_no_buy_premium">Вашият акаунт не може да закупи премиум. Трябва да се свържете с лицето, което ви е предоставило този акаунт.</string>
+    <string name="select_preset">Изберете предварително зададена настройка</string>
+    <string name="use_cyclic_category_navigation">Активирайте циклична навигация между категории</string>
+    <string name="ask_add_pwd_to_protect_data">Искате ли да добавите парола за защита на данните?</string>
+    <string name="use2click_mode_in_preview">Стартирайте визуализацията на видеоклипа само при щракване. Второто щракване ще започне възпроизвеждането на канал на цял екран.</string>
     </resources>

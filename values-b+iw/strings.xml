@@ -99,8 +99,8 @@
 
     <string name="settings_provider_select_type_intro1">הערה: תזדקק לספק OTT / IPTV כדי להשתמש ביישום זה.</string>
     <string name="settings_provider_select_type_intro2">היישום פועל עם פלייליסטים שסופקו על ידי המשתמש בלבד.</string>
-    <string name="settings_provider_select_apply">להגיש מועמדות</string>
-    <string name="settings_provider_select_return">לַחֲזוֹר</string>
+    <string name="settings_provider_select_apply">אשר</string>
+    <string name="settings_provider_select_return">חזרה</string>
 
     <string name="settings_provider_select_status_error">שגיאת תצורה. טעינת הנתונים נכשלה</string>
     <string name="settings_provider_select_status_success">ההגדרה הוחלה בהצלחה</string>
@@ -119,19 +119,19 @@
     <string name="vod_root_title_playlist">רשימת השמעה מותאמת אישית</string>
     <string name="play_switch_codec">החלף את ה- Codec</string>
     <string name="play_switch_codec_details">זרם לטעון באמצעות מפענח אחר</string>
-    <string name="play_switch_codec_hard">השתמש רכיבי codec חומרה</string>
+    <string name="play_switch_codec_hard">Hardware codec</string>
     <string name="play_switch_codec_vlc">השתמש בתוכנה VLC</string>
     <string name="play_switch_codec_ext">פתח את הנגן החיצוני</string>
     <string name="disk_is_full">האחסון מלא. לנקות קצת מקום.</string>
     <string name="channel_more_hide_desc">הסר מהרשימה</string>
-    <string name="hud_short_volume">כרך</string>
+    <string name="hud_short_volume">עוצמת קול</string>
     <string name="hud_short_bright">בְּהִירוּת</string>
 
     <string name="settings_provider">ספק</string>
     <string name="settings_media_library">ספריית מדיה</string>
     <string name="settings_media_library_dnla">סריקת מקורות UPnP / DLNA ברשת המקומית</string>
 
-    <string name="settings_player">שחקן</string>
+    <string name="settings_player">הגדרות נגן</string>
     <string name="settings_player_hide_ui">הסתר שכבת ממשק משתמש בהפעלה</string>
     <string name="settings_player_resize_mode">מצב סולם וידאו</string>
     <string name="settings_player_resize_mode_fit">התאם למסך</string>
@@ -145,7 +145,7 @@
     <string name="settings_extended_auto_start_last_channel">הפעל את ערוץ ההפעלה האחרון באופן אוטומטי</string>
     <string name="settings_schedule_epg_reload">טען מחדש את EPG teleguide …</string>
 
-    <string name="settings_visual">סגנון חזותי</string>
+    <string name="settings_visual">הגדרות תצוגה</string>
 
     <string name="settings_live_quick_channel_switch_delay">עיכוב לפני ערוצי מיתוג מהירים</string>
 
@@ -157,11 +157,11 @@
     <string name="settings_palette_style">ערכת הצבעים</string>
 
     <string name="settings_ui_screen_margins">שולי מסך</string>
-    <string name="settings_ui_language">שפה (אם לא הוגדרה, משתמשת כברירת מחדל)</string>
+    <string name="settings_ui_language">שפה (אם לא הוגדרה, משתמש כברירת מחדל)</string>
 
-    <string name="settings_codec">הגדרות רכיבי Codec</string>
+    <string name="settings_codec">הגדרות Codec</string>
     <string name="settings_codec_hard">השתמש תמיד ב- Codec חומרה</string>
-    <string name="settings_codec_soft_vlc">תמיד להשתמש בתוכנות VLC רכיבי codec</string>
+    <string name="settings_codec_soft_vlc">Vlc codec</string>
     <string name="settings_codec_external">השתמש תמיד בנגן חיצוני</string>
 
     <string name="settings_epg">EPG Teleguide</string>
@@ -239,7 +239,7 @@
     <string name="settings_premium_source_enabled">Premium מופעלת</string>
     <string name="cfg_play_action_mute">קול אילם</string>
     <string name="cfg_play_action_unbind">אל תעבד (לשמור על התנהגות המערכת)</string>
-    <string name="settings_codec_auto">ברירת המחדל של codec עבור ספק</string>
+    <string name="settings_codec_auto">ברירת מחדל</string>
     <string name="cfg_ign_last_codec">לא זוכר קודק האחרון נהג לנגן ערוץ</string>
     <string name="err_archive_is_shorter">בארכיון של ערוץ זה יש חיים קצרים יותר על הספק שלך</string>
     <string name="cfg_section_backup">גיבוי ושחזור</string>
@@ -294,7 +294,7 @@
     <string name="category_all_channels">כל הערוצים</string>
     <string name="cfg_no_categories">השתמש ברשימת ערוצים רגילה (ללא קטגוריות)</string>
     <string name="cfg_section_desc">תיאור פריט</string>
-    <string name="cfg_section_lists">מפרט הגדרות</string>
+    <string name="cfg_section_lists">הגדרות רשימה</string>
 
     <string name="cfg_no_hints">אל תציג רמזים</string>
     <string name="child_mode_unlock_cfg">הזן קוד צאצא כדי לבטל את הנעילה של ההגדרות</string>
@@ -320,7 +320,7 @@
     <string name="provider_playlist_file">רשימת השמעה מקובץ</string>
     <string name="provider_field_name">שם</string>
     <string name="provider_field_url">כתובת אתר</string>
-    <string name="provider_field_login">התחברות</string>
+    <string name="provider_field_login">שם משתמש</string>
     <string name="provider_field_pass">סיסמה</string>
     <string name="provider_field_token">אסימון גישה</string>
     <string name="provider_field_server">שרת</string>
@@ -420,7 +420,6 @@
     <string name="pro_sub_expiring">המינוי שלך פג. התחדש</string>
     <string name="mark_all_viewed">סמן את כולם כמוצגים</string>
     <string name="pos_rearrange">סדר מחדש ברשימה</string>
-    <string name="pos_rearrange_clear">נקה מיקומים מותאמים אישית ברשימה</string>
     <string name="restart">איתחול</string>
     <string name="cfg_prov_settings">הגדרות ספק</string>
     <string name="cfg_prov_settings_desc">משפיע על טעינת נתונים מהספק</string>
@@ -505,9 +504,9 @@
     <string name="player_live_recent_archive">להמשיך את ההפעלה של וידיאו שהועבר לאחרונה בארכיון?</string>
     <string name="player_live_recent_archive_archive">המשך את ההפעלה</string>
     <string name="player_live_recent_archive_live">שידור חי</string>
-    <string name="pos_on_left">בצד השמאלי</string>
+    <string name="pos_on_left">בצד שמאל</string>
     <string name="pos_on_right">בצד ימין</string>
-    <string name="cfg_list_pos_on_screen">מציג מיקום על המסך</string>
+    <string name="cfg_list_pos_on_screen">מיקום על המסך</string>
     <string name="cfg_list_size_on_screen">רשימות בגודל על המסך</string>
     <string name="cfg_list_desc_allow">אפשר להציג את התיאור ברשימות</string>
     <string name="cfg_ext_app_on_home">הצג יישום חיצוני במסך הבית</string>
@@ -616,7 +615,7 @@
     <string name="use_fixed_screen_res">השתמש ברזולוציית מסך קבועה</string>
     <string name="use_local_ch_numbers">השתמש במיקום הערוץ בקטגוריה כמספר ערוץ</string>
     <string name="check_faq">עיין בשאלות נפוצות לגבי הפתרונות האפשריים לבעיה שלך.</string>
-<string name="arch_ask_leave_cfg">ןויכראב ןוטרסה תעמשה תא בזוע התא רשאכ לאש</string>
+    <string name="arch_ask_leave_cfg">ןויכראב ןוטרסה תעמשה תא בזוע התא רשאכ לאש</string>
     <string name="arch_ask_leave_ask">עגרכ ןויכראה ןוטרס תלעפה תא קיספהל ךנוצרב םאה?</string>
     <string name="compact_list">תיטקפמוק המישר</string>
     <string name="lock_settings">היצקילפאה תורדגהל השיג לבגה</string>
@@ -677,10 +676,10 @@
     <string name="text_shadow_sz">טסקט לצ לדוג</string>
     <string name="text_width_sz">טסקטה בחור לדוג</string>
     <string name="text_narrow">רצ טסקט</string>
-    <string name="text_normal">ליגר טסקט</string>
+    <string name="text_normal">רגיל</string>
     <string name="text_bold">שגדומ טסקט</string>
     <string name="horizontal_gallery_view">תיקפוא הירלג תגוצת</string>
-    <string name="text_style">טסקט ןונגס</string>
+    <string name="text_style">טקסט</string>
     <string name="mark_all_visible">יולגכ לכה ןמס</string>
     <string name="mark_all_hidden">רתסומכ לכה ןמס</string>
     <string name="streams_just_started">וליחתה קר םימרזה</string>
@@ -691,4 +690,28 @@
     <string name="max_file_size">טסיליילפל רתומה יברמה ץבוקה לדוג</string>
     <string name="quick_actions">תוריהמ תולועפ</string>
     <string name="clear_list">המישרה תא הקנ</string>
+    <string name="ignored_words">םיליממ ומלעתה</string>
+    <string name="restore_original_state">ירוקמה בצמל רזחש</string>
+    <string name="text_color">טסקט עבצ</string>
+    <string name="accent_text_color">אטבמ טסקט עבצ</string>
+    <string name="hide_name_if_has_poster">ןימז רטסופ םא םש רתסה</string>
+    <string name="use_future_in_search">שופיחב תוידיתע תומושרב שמתשה</string>
+    <string name="email_address">כתובת דוא"ל</string>
+    <string name="password">סיסמה</string>
+    <string name="btn_login">התחברות</string>
+    <string name="btn_register">הירשם</string>
+    <string name="add_device">הוסף התקן</string>
+    <string name="claim_purchase">תבע רכישה</string>
+    <string name="text_is_case_sensitive">תוישיר יולת אוה טסקטה</string>
+    <string name="password_does_not_match">המיאתמ אל המסיס</string>
+    <string name="login_or_password_incorrect">הכניסה או הסיסמה שגויים</string>
+    <string name="change_password">שנה סיסמא</string>
+    <string name="use_account_for_manage_premium">ךלש םוימירפה ןובשח לוהינל ןובשח רוצ</string>
+    <string name="current_device">מכשיר בשימוש כרגע</string>
+    <string name="import_old_purchase">הנשי השיכר לעפה</string>
+    <string name="acc_can_no_buy_premium">.הז ןובשח ךל ןתנש םדאה םע רשק רוציל ךילע .םוימירפ שוכרל לוכי אל ךלש ןובשחה</string>
+    <string name="select_preset">שארמ הרדגה רחב</string>
+    <string name="use_cyclic_category_navigation">תוירוגטק ןיב ירוזחמ טווינ רשפא</string>
+    <string name="ask_add_pwd_to_protect_data">םינותנה לע ןגהל ידכ המסיס ףיסוהל ךנוצרב םאה?</string>
+    <string name="use2click_mode_in_preview">.אלמ ךסמב ץורע תלעפה ליחתת היינש הציחל .הציחל רחאל קר ןוטרס לש המידקמ הגוצת לחתה</string>
     </resources>

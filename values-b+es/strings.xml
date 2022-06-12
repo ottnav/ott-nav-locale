@@ -417,7 +417,6 @@
     <string name="pro_sub_expiring">Tu suscripción está caducando. Renovar</string>
     <string name="mark_all_viewed">Marcar todo como visto</string>
     <string name="pos_rearrange">Reorganizar en la lista</string>
-    <string name="pos_rearrange_clear">Borrar posiciones personalizadas en la lista</string>
     <string name="restart">Reiniciar</string>
     <string name="cfg_prov_settings">Configuraciones de proveedor</string>
     <string name="cfg_prov_settings_desc">Afecta la carga de datos del proveedor</string>
@@ -688,4 +687,28 @@
     <string name="max_file_size">Tamaño máximo de archivo de lista de reproducción permitido</string>
     <string name="quick_actions">Acciones rápidas</string>
     <string name="clear_list">Limpiar la lista</string>
+    <string name="ignored_words">Palabras ignoradas</string>
+    <string name="restore_original_state">Restaurar al estado original</string>
+    <string name="text_color">Color de texto</string>
+    <string name="accent_text_color">Color de texto de acento</string>
+    <string name="hide_name_if_has_poster">Ocultar nombre si el póster está disponible</string>
+    <string name="use_future_in_search">Usar futuros registros en la búsqueda</string>
+    <string name="email_address">Dirección de correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_register">Inscribirse</string>
+    <string name="add_device">Agregue un dispositivo</string>
+    <string name="claim_purchase">reclamar una compra</string>
+    <string name="text_is_case_sensitive">El texto distingue entre mayúsculas y minúsculas</string>
+    <string name="password_does_not_match">Las contraseñas no coinciden</string>
+    <string name="login_or_password_incorrect">El inicio de sesión o la contraseña son incorrectos</string>
+    <string name="change_password">Cambia la contraseña</string>
+    <string name="use_account_for_manage_premium">Crea una cuenta para administrar tu cuenta premium</string>
+    <string name="current_device">Dispositivo utilizado actualmente</string>
+    <string name="import_old_purchase">Activar compra antigua</string>
+    <string name="acc_can_no_buy_premium">Su cuenta no puede comprar premium. Debe comunicarse con la persona que le dio esta cuenta.</string>
+    <string name="select_preset">Seleccione un ajuste preestablecido</string>
+    <string name="use_cyclic_category_navigation">Habilitar la navegación cíclica entre categorías</string>
+    <string name="ask_add_pwd_to_protect_data">¿Desea agregar una contraseña para proteger los datos?</string>
+    <string name="use2click_mode_in_preview">Inicie la vista previa del video solo cuando se haga clic. El segundo clic iniciará la reproducción del canal a pantalla completa.</string>
     </resources>

@@ -419,7 +419,6 @@
     <string name="pro_sub_expiring">Aboneliğiniz sona eriyor. yenilemek</string>
     <string name="mark_all_viewed">Tümünü görüntülendi olarak işaretle</string>
     <string name="pos_rearrange">Listede yeniden düzenle</string>
-    <string name="pos_rearrange_clear">Listedeki özel konumları temizle</string>
     <string name="restart">Tekrar başlat</string>
     <string name="cfg_prov_settings">Tedarikçi ayarları</string>
     <string name="cfg_prov_settings_desc">Sağlayıcıdan veri yüklenmesini etkiler</string>
@@ -448,7 +447,7 @@
     <string name="pos_center_bottom">alt merkez</string>
     <string name="cfg_studio_maximize_size">Büyütülmüş pencerenin boyutları</string>
     <string name="pro_desc_try_free">Aylık plana abone olarak premium özellikleri önizleyebilirsiniz. Zaten ödemeleri olmadıkça ücretsiz birkaç başlangıç günü vardır.</string>
-    <string name="cfg_auto_start_system_pip">Oynatıcıdan ana ekrana geçerken, sistem içinde resim resim moduna otomatik gir</string>
+    <string name="cfg_auto_start_system_pip">Oynatıcıdan ana ekrana geçerken, sistem içinde resim moduna otomatik gir</string>
     <string name="pla_act_hud">yayın detaylarını gösteren oyuncu arayüzünü göster</string>
     <string name="pla_act_prop_channel">kanal özellikleri</string>
     <string name="pla_act_prop_broadcast">mevcut yayın özellikleri</string>
@@ -655,7 +654,7 @@
     <string name="add_temp_stream_link">Kitaplığa giden bir akışa geçici bağlantı ekleyin</string>
     <string name="auto_start_this_ch_on_start">Uygulama başlangıcında bu kanalı oynatmayı otomatik başlat</string>
     <string name="hint_themes">Uygulamanın birçok görsel temaya sahip olduğunu ve size en uygun olanı seçebileceğinizi biliyor muydunuz?</string>
-    <string name="hint_customizing">Uygulamanın hemen hemen her yönünün - menüler, listeler, renkler - son derece yapılandırılabilir olduğunu biliyor muydunuz?</string>
+    <string name="hint_customizing">Uygulamanın hemen her yönünün - menüler, listeler, renkler - son derece yapılandırılabilir olduğunu biliyor muydunuz?</string>
     <string name="hint_setup_keys">Uzaktan kumanda düğmelerinizi tercih ettiğiniz herhangi bir eyleme yapılandırabilirsiniz</string>
     <string name="hint_setup_touch">Tercih edilen herhangi bir eyleme farklı ekran bölgelerinde çift dokunma ve kaydırma yapılandırabilirsiniz.</string>
     <string name="delay_before_acting">Oyunculuktan önce gecikme</string>
@@ -690,4 +689,28 @@
     <string name="max_file_size">İzin verilen maksimum oynatma listesi dosya boyutu</string>
     <string name="quick_actions">Hızlı eylemler</string>
     <string name="clear_list">Listeyi temizle</string>
+    <string name="ignored_words">göz ardı edilen kelimeler</string>
+    <string name="restore_original_state">Orijinal durumuna geri yükle</string>
+    <string name="text_color">Metin rengi</string>
+    <string name="accent_text_color">Vurgu metin rengi</string>
+    <string name="hide_name_if_has_poster">Poster varsa adı gizle</string>
+    <string name="use_future_in_search">Aramada gelecekteki kayıtları kullanın</string>
+    <string name="email_address">E-Mail</string>
+    <string name="password">Parola</string>
+    <string name="btn_login">Giriş yapmak</string>
+    <string name="btn_register">Üye olmak</string>
+    <string name="add_device">Cihaz ekle</string>
+    <string name="claim_purchase">Satın alma talebinde bulunun</string>
+    <string name="text_is_case_sensitive">Metin büyük/küçük harfe duyarlıdır</string>
+    <string name="password_does_not_match">Parola eşleşmiyor</string>
+    <string name="login_or_password_incorrect">Giriş veya şifre yanlış</string>
+    <string name="change_password">Şifre değiştir</string>
+    <string name="use_account_for_manage_premium">Premium hesabınızı yönetmek için bir hesap oluşturun</string>
+    <string name="current_device">Şu anda kullanılan cihaz</string>
+    <string name="import_old_purchase">Eski satın almayı etkinleştir</string>
+    <string name="acc_can_no_buy_premium">Hesabınız premium satın alamaz. Bu hesabı size veren kişiyle iletişime geçmelisiniz.</string>
+    <string name="select_preset">Bir ön ayar seçin</string>
+    <string name="use_cyclic_category_navigation">Kategoriler arasında döngüsel gezinmeyi etkinleştir</string>
+    <string name="ask_add_pwd_to_protect_data">Verileri korumak için bir parola eklemek istiyor musunuz?</string>
+    <string name="use2click_mode_in_preview">Video önizlemesini yalnızca tıklandığında başlatın. İkinci tıklama tam ekran kanal oynatmayı başlatacaktır.</string>
     </resources>

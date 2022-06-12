@@ -373,7 +373,6 @@
     <string name="pro_sub_expiring">Abonamentul dvs. expiră. Reînnoi</string>
     <string name="mark_all_viewed">Marcați toate ca vizualizate</string>
     <string name="pos_rearrange">Reorganizați lista</string>
-    <string name="pos_rearrange_clear">Ștergeți pozițiile personalizate din listă</string>
     <string name="restart">Repornire</string>
     <string name="cfg_prov_settings">Setări furnizor</string>
     <string name="cfg_prov_settings_desc">Afectează încărcarea datelor de la furnizor</string>
@@ -644,4 +643,28 @@
     <string name="max_file_size">Dimensiunea maximă permisă a fișierului de redare</string>
     <string name="quick_actions">Acțiuni rapide</string>
     <string name="clear_list">Ștergeți lista</string>
+    <string name="ignored_words">Cuvinte ignorate</string>
+    <string name="restore_original_state">Restabiliți starea inițială</string>
+    <string name="text_color">Culoarea textului</string>
+    <string name="accent_text_color">Culoarea textului de accent</string>
+    <string name="hide_name_if_has_poster">Ascunde numele dacă posterul este disponibil</string>
+    <string name="use_future_in_search">Utilizați înregistrările viitoare în căutare</string>
+    <string name="email_address">Adresa de email</string>
+    <string name="password">Parola</string>
+    <string name="btn_login">Autentificare</string>
+    <string name="btn_register">Inscrie-te</string>
+    <string name="add_device">Adaugă un dispozitiv</string>
+    <string name="claim_purchase">Revendicați o achiziție</string>
+    <string name="text_is_case_sensitive">Textul este sensibil la majuscule</string>
+    <string name="password_does_not_match">Parola nu se potriveste</string>
+    <string name="login_or_password_incorrect">Autentificarea sau parola sunt incorecte</string>
+    <string name="change_password">Schimbați parola</string>
+    <string name="use_account_for_manage_premium">Creați un cont pentru a vă gestiona contul premium</string>
+    <string name="current_device">Dispozitiv folosit în prezent</string>
+    <string name="import_old_purchase">Activați achiziția veche</string>
+    <string name="acc_can_no_buy_premium">Contul dvs. nu poate cumpăra premium. Ar trebui să contactați persoana care v-a dat acest cont.</string>
+    <string name="select_preset">Selectați o presetare</string>
+    <string name="use_cyclic_category_navigation">Activați navigarea ciclică între categorii</string>
+    <string name="ask_add_pwd_to_protect_data">Doriți să adăugați o parolă pentru a proteja datele?</string>
+    <string name="use2click_mode_in_preview">Porniți previzualizarea videoclipului numai când faceți clic. Al doilea clic va începe redarea canalului pe ecran complet.</string>
     </resources>
