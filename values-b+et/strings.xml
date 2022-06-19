@@ -714,4 +714,8 @@
     <string name="use_cyclic_category_navigation">Lubage kategooriate vahel tsükliline navigeerimine</string>
     <string name="ask_add_pwd_to_protect_data">Kas soovite andmete kaitsmiseks lisada parooli?</string>
     <string name="use2click_mode_in_preview">Käivitage video eelvaade ainult siis, kui sellel klõpsate. Teine klõps käivitab kanali täisekraanil taasesituse.</string>
+    <string name="clear_modifications">Kustutage kõik muudatused ja taastage algne olek</string>
+    <string name="save_load_to_user_url">Kasutage andmete salvestamiseks kasutaja pakutavat serverit</string>
+    <string name="action_complete">Toiming lõpetatud</string>
+    <string name="use_always_if_possible">Võimalusel tuleks alati kasutada</string>
     </resources>

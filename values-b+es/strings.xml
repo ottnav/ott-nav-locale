@@ -711,4 +711,8 @@
     <string name="use_cyclic_category_navigation">Habilitar la navegación cíclica entre categorías</string>
     <string name="ask_add_pwd_to_protect_data">¿Desea agregar una contraseña para proteger los datos?</string>
     <string name="use2click_mode_in_preview">Inicie la vista previa del video solo cuando se haga clic. El segundo clic iniciará la reproducción del canal a pantalla completa.</string>
+    <string name="clear_modifications">Borrar todas las modificaciones y restaurar el estado original</string>
+    <string name="save_load_to_user_url">Utilice un servidor proporcionado por el usuario para almacenar datos</string>
+    <string name="action_complete">Acción completa</string>
+    <string name="use_always_if_possible">Debe usar siempre si es posible</string>
     </resources>

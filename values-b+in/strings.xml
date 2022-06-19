@@ -668,4 +668,8 @@
     <string name="use_cyclic_category_navigation">Aktifkan navigasi siklik di antara kategori</string>
     <string name="ask_add_pwd_to_protect_data">Apakah Anda ingin menambahkan kata sandi untuk melindungi data?</string>
     <string name="use2click_mode_in_preview">Mulai pratinjau video hanya saat diklik. Klik kedua akan memulai pemutaran saluran layar penuh.</string>
+    <string name="clear_modifications">Hapus semua modifikasi dan pulihkan keadaan semula</string>
+    <string name="save_load_to_user_url">Gunakan server yang disediakan pengguna untuk menyimpan data</string>
+    <string name="action_complete">Aksi selesai</string>
+    <string name="use_always_if_possible">Harus menggunakan selalu jika memungkinkan</string>
     </resources>

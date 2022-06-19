@@ -707,4 +707,8 @@
     <string name="use_cyclic_category_navigation">启用类别之间的循环导航</string>
     <string name="ask_add_pwd_to_protect_data">您想添加密码来保护数据吗？</string>
     <string name="use2click_mode_in_preview">仅在单击时开始视频预览。第二次单击将开始全屏频道播放。</string>
+    <string name="clear_modifications">清除所有修改并恢复原始状态</string>
+    <string name="save_load_to_user_url">使用用户提供的服务器来存储数据</string>
+    <string name="action_complete">动作完成</string>
+    <string name="use_always_if_possible">如果可能，应始终使用</string>
     </resources>

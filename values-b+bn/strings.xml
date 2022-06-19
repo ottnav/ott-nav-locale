@@ -716,4 +716,8 @@
     <string name="use_cyclic_category_navigation">বিভাগগুলির মধ্যে চক্রীয় নেভিগেশন সক্ষম করুন৷</string>
     <string name="ask_add_pwd_to_protect_data">আপনি ডেটা সুরক্ষিত করার জন্য একটি পাসওয়ার্ড যোগ করতে চান?</string>
     <string name="use2click_mode_in_preview">ক্লিক করলেই ভিডিও প্রিভিউ শুরু করুন। দ্বিতীয় ক্লিক ফুলস্ক্রিন চ্যানেল প্লেব্যাক শুরু হবে.</string>
+    <string name="clear_modifications">সমস্ত পরিবর্তন সাফ করুন এবং আসল অবস্থা পুনরুদ্ধার করুন</string>
+    <string name="save_load_to_user_url">ডেটা সংরক্ষণের জন্য ব্যবহারকারী-প্রদত্ত সার্ভার ব্যবহার করুন</string>
+    <string name="action_complete">অ্যাকশন সম্পূর্ণ</string>
+    <string name="use_always_if_possible">সম্ভব হলে সর্বদা ব্যবহার করা উচিত</string>
     </resources>

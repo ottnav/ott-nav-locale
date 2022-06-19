@@ -707,4 +707,8 @@
     <string name="use_cyclic_category_navigation">Bật điều hướng tuần hoàn giữa các danh mục</string>
     <string name="ask_add_pwd_to_protect_data">Bạn có muốn thêm mật khẩu để bảo vệ dữ liệu không?</string>
     <string name="use2click_mode_in_preview">Chỉ bắt đầu xem trước video khi được nhấp. Nhấp chuột thứ hai sẽ bắt đầu phát lại kênh toàn màn hình.</string>
+    <string name="clear_modifications">Xóa tất cả các sửa đổi và khôi phục trạng thái ban đầu</string>
+    <string name="save_load_to_user_url">Sử dụng máy chủ do người dùng cung cấp để lưu trữ dữ liệu</string>
+    <string name="action_complete">Hành động hoàn thành</string>
+    <string name="use_always_if_possible">Nên sử dụng luôn nếu có thể</string>
     </resources>

@@ -710,4 +710,8 @@
     <string name="use_cyclic_category_navigation">Enable cyclic navigation between categories</string>
     <string name="ask_add_pwd_to_protect_data">Do you wish to add a password to protect the data?</string>
     <string name="use2click_mode_in_preview">Start video preview only when clicked. Second click will start fullscreen channel playback.</string>
+    <string name="clear_modifications">Clear all modifications and restore original state</string>
+    <string name="save_load_to_user_url">Use user-provided server for storing data</string>
+    <string name="action_complete">Action complete</string>
+    <string name="use_always_if_possible">Should use always if possible</string>
 </resources>

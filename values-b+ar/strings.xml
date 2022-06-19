@@ -715,4 +715,8 @@
     <string name="use_cyclic_category_navigation">ﺕﺎﺌﻔﻟﺍ ﻦﻴﺑ ﻱﺭﻭﺪﻟﺍ ﻞﻘﻨﺘﻟﺍ ﻦﻴﻜﻤﺗ</string>
     <string name="ask_add_pwd_to_protect_data">؟ﺕﺎﻧﺎﻴﺒﻟﺍ ﺔﻳﺎﻤﺤﻟ ﺭﻭﺮﻣ ﺔﻤﻠﻛ ﺔﻓﺎﺿﺇ ﻲﻓ ﺐﻏﺮﺗ ﻞﻫ</string>
     <string name="use2click_mode_in_preview">.ﺔﺷﺎﺸﻟﺍ ءﻞﻤﺑ ﺓﺎﻨﻘﻟﺍ ﻞﻴﻐﺸﺗ ﺃﺪﺒﺘﺳ ﺔﻴﻧﺎﺜﻟﺍ ﺓﺮﻘﻨﻟﺍ .ﻪﻗﻮﻓ ﺮﻘﻨﻟﺍ ﺪﻨﻋ ﻂﻘﻓ ﻮﻳﺪﻴﻔﻟﺍ ﺔﻨﻳﺎﻌﻣ ﺃﺪﺑﺍ</string>
+    <string name="clear_modifications">ﺔﻴﻠﺻﻷ﻿ﺍ ﺔﻟﺎﺤﻟﺍ ﺓﺩﺎﻌﺘﺳﺍﻭ ﺕﻼ﻿ﻳﺪﻌﺘﻟﺍ ﺔﻓﺎﻛ ﺢﺴﻣ</string>
+    <string name="save_load_to_user_url">ﺕﺎﻧﺎﻴﺒﻟﺍ ﻦﻳﺰﺨﺘﻟ ﻡﺪﺨﺘﺴﻤﻟﺍ ﻩﺮﻓﻮﻳ ﻱﺬﻟﺍ ﻡﺩﺎﺨﻟﺍ ﻡﺪﺨﺘﺳﺍ</string>
+    <string name="action_complete">ءﺍﺮﺟﻹ﻿ﺍ ﻞﻤﺘﻛﺍ</string>
+    <string name="use_always_if_possible">ﺎﻨﻜﻤﻣ ﻚﻟﺫ ﻥﺎﻛ ﺍﺫﺇ ﺎﻤﺋﺍﺩ ﻡﺪﺨﺘﺴﺗ ﻥﺃ ﺐﺠﻳ</string>
     </resources>

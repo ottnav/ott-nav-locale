@@ -715,4 +715,8 @@
     <string name="use_cyclic_category_navigation">ﺪﯿﻨﮐ ﻝﺎﻌﻓ ﺍﺭ ﺎﻫ ﻪﺘﺳﺩ ﻦﯿﺑ ﯼﺍ ﻪﺧﺮﭼ ﺶﯾﺎﻤﯿﭘ</string>
     <string name="ask_add_pwd_to_protect_data">؟ﺪﯿﻨﮐ ﻪﻓﺎﺿﺍ ﺭﻮﺒﻋ ﺰﻣﺭ ﺎﻫ ﻩﺩﺍﺩ ﺯﺍ ﺖﻈﻓﺎﺤﻣ ﯼﺍﺮﺑ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﺎﯾﺁ</string>
     <string name="use2click_mode_in_preview">.ﺩﻮﺷ ﯽﻣ ﻉﻭﺮﺷ ﻝﺎﻧﺎﮐ ﻪﺤﻔﺻ ﻡﺎﻤﺗ ﺶﺨﭘ ،ﻡﻭﺩ ﮏﯿﻠﮐ ﺎﺑ .ﺪﯿﻨﮐ ﻉﻭﺮﺷ ﻥﺩﺮﮐ ﮏﯿﻠﮐ ﺎﺑ ﻂﻘﻓ ﺍﺭ ﻮﯾﺪﯾﻭ ﺶﯾﺎﻤﻧu200cﺶﯿﭘ</string>
+    <string name="clear_modifications">ﺪﯿﻨﮐ ﯽﺑﺎﯾﺯﺎﺑ ﺍﺭ ﻪﯿﻟﻭﺍ ﺖﻟﺎﺣ ﻭ ﺪﯿﻨﮐ ﮎﺎﭘ ﺍﺭ ﺕﺍﺮﯿﯿﻐﺗ ﻡﺎﻤﺗ</string>
+    <string name="save_load_to_user_url">ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﺎﻫ ﻩﺩﺍﺩ ﻩﺮﯿﺧﺫ ﯼﺍﺮﺑ ﺮﺑﺭﺎﮐ ﻂﺳﻮﺗ ﻩﺪﺷ ﻪﺋﺍﺭﺍ ﺭﻭﺮﺳ ﺯﺍ</string>
+    <string name="action_complete">ﺪﺷ ﻞﻣﺎﮐ ﻡﺍﺪﻗﺍ</string>
+    <string name="use_always_if_possible">ﺩﻮﺷ ﻩﺩﺎﻔﺘﺳﺍ ﺪﯾﺎﺑ ﻪﺸﯿﻤﻫ ﻥﺎﮑﻣﺍ ﺕﺭﻮﺻ ﺭﺩ</string>
     </resources>

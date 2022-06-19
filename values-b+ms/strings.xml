@@ -714,4 +714,8 @@
     <string name="use_cyclic_category_navigation">Dayakan navigasi kitaran antara kategori</string>
     <string name="ask_add_pwd_to_protect_data">Adakah anda ingin menambah kata laluan untuk melindungi data?</string>
     <string name="use2click_mode_in_preview">Mulakan pratonton video hanya apabila diklik. Klik kedua akan memulakan main balik saluran skrin penuh.</string>
+    <string name="clear_modifications">Kosongkan semua pengubahsuaian dan pulihkan keadaan asal</string>
+    <string name="save_load_to_user_url">Gunakan pelayan yang disediakan pengguna untuk menyimpan data</string>
+    <string name="action_complete">Tindakan selesai</string>
+    <string name="use_always_if_possible">Harus digunakan sentiasa jika boleh</string>
     </resources>

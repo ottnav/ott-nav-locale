@@ -708,4 +708,8 @@
     <string name="use_cyclic_category_navigation">Омогућите цикличну навигацију између категорија</string>
     <string name="ask_add_pwd_to_protect_data">Да ли желите да додате лозинку за заштиту података?</string>
     <string name="use2click_mode_in_preview">Покрени преглед видеа само када се кликне. Други клик ће покренути репродукцију канала преко целог екрана.</string>
+    <string name="clear_modifications">Обришите све модификације и вратите првобитно стање</string>
+    <string name="save_load_to_user_url">Користите сервер који обезбеђује корисник за складиштење података</string>
+    <string name="action_complete">Радња је завршена</string>
+    <string name="use_always_if_possible">Требало би користити увек ако је могуће</string>
     </resources>

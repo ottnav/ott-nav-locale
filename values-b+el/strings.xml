@@ -668,4 +668,8 @@
     <string name="use_cyclic_category_navigation">Ενεργοποίηση κυκλικής πλοήγησης μεταξύ κατηγοριών</string>
     <string name="ask_add_pwd_to_protect_data">Θέλετε να προσθέσετε έναν κωδικό πρόσβασης για την προστασία των δεδομένων;</string>
     <string name="use2click_mode_in_preview">Έναρξη προεπισκόπησης βίντεο μόνο όταν κάνετε κλικ. Το δεύτερο κλικ θα ξεκινήσει η αναπαραγωγή καναλιού σε πλήρη οθόνη.</string>
+    <string name="clear_modifications">Διαγράψτε όλες τις τροποποιήσεις και επαναφέρετε την αρχική κατάσταση</string>
+    <string name="save_load_to_user_url">Χρησιμοποιήστε διακομιστή που παρέχεται από το χρήστη για την αποθήκευση δεδομένων</string>
+    <string name="action_complete">Η δράση ολοκληρώθηκε</string>
+    <string name="use_always_if_possible">Πρέπει να χρησιμοποιείται πάντα αν είναι δυνατόν</string>
     </resources>

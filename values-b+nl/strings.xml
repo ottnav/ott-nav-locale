@@ -668,4 +668,8 @@
     <string name="use_cyclic_category_navigation">Schakel cyclische navigatie tussen categorieën in</string>
     <string name="ask_add_pwd_to_protect_data">Wilt u een wachtwoord toevoegen om de gegevens te beschermen?</string>
     <string name="use2click_mode_in_preview">Start videovoorbeeld alleen wanneer erop wordt geklikt. Met de tweede klik wordt het afspelen van kanalen op volledig scherm gestart.</string>
+    <string name="clear_modifications">Wis alle wijzigingen en herstel de oorspronkelijke staat</string>
+    <string name="save_load_to_user_url">Gebruik een door de gebruiker geleverde server voor het opslaan van gegevens</string>
+    <string name="action_complete">Actie voltooid</string>
+    <string name="use_always_if_possible">Moet altijd gebruiken indien mogelijk</string>
     </resources>

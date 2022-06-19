@@ -713,4 +713,8 @@
     <string name="use_cyclic_category_navigation">ਸ਼੍ਰੇਣੀਆਂ ਵਿਚਕਾਰ ਚੱਕਰੀ ਨੈਵੀਗੇਸ਼ਨ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
     <string name="ask_add_pwd_to_protect_data">ਕੀ ਤੁਸੀਂ ਡੇਟਾ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਇੱਕ ਪਾਸਵਰਡ ਜੋੜਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
     <string name="use2click_mode_in_preview">ਕਲਿਕ ਕਰਨ \'ਤੇ ਹੀ ਵੀਡੀਓ ਪ੍ਰੀਵਿਊ ਸ਼ੁਰੂ ਕਰੋ। ਦੂਜੀ ਕਲਿੱਕ ਨਾਲ ਪੂਰੀ ਸਕਰੀਨ ਚੈਨਲ ਪਲੇਬੈਕ ਸ਼ੁਰੂ ਹੋ ਜਾਵੇਗਾ।</string>
+    <string name="clear_modifications">ਸਾਰੀਆਂ ਸੋਧਾਂ ਨੂੰ ਸਾਫ਼ ਕਰੋ ਅਤੇ ਮੂਲ ਸਥਿਤੀ ਨੂੰ ਬਹਾਲ ਕਰੋ</string>
+    <string name="save_load_to_user_url">ਡੇਟਾ ਸਟੋਰ ਕਰਨ ਲਈ ਉਪਭੋਗਤਾ ਦੁਆਰਾ ਪ੍ਰਦਾਨ ਕੀਤੇ ਸਰਵਰ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="action_complete">ਕਾਰਵਾਈ ਪੂਰੀ ਹੋਈ</string>
+    <string name="use_always_if_possible">ਜੇਕਰ ਸੰਭਵ ਹੋਵੇ ਤਾਂ ਹਮੇਸ਼ਾ ਵਰਤੋਂ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ</string>
     </resources>

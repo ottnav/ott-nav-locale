@@ -667,4 +667,8 @@
     <string name="use_cyclic_category_navigation">Povolit cyklickou navigaci mezi kategoriemi</string>
     <string name="ask_add_pwd_to_protect_data">Přejete si přidat heslo pro ochranu dat?</string>
     <string name="use2click_mode_in_preview">Spustit náhled videa pouze po kliknutí. Druhým kliknutím spustíte přehrávání kanálu na celé obrazovce.</string>
+    <string name="clear_modifications">Vymažte všechny úpravy a obnovte původní stav</string>
+    <string name="save_load_to_user_url">Pro ukládání dat použijte server poskytovaný uživatelem</string>
+    <string name="action_complete">Akce dokončena</string>
+    <string name="use_always_if_possible">Mělo by se používat vždy, pokud je to možné</string>
     </resources>

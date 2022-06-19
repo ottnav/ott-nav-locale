@@ -714,4 +714,8 @@
     <string name="use_cyclic_category_navigation">תוירוגטק ןיב ירוזחמ טווינ רשפא</string>
     <string name="ask_add_pwd_to_protect_data">םינותנה לע ןגהל ידכ המסיס ףיסוהל ךנוצרב םאה?</string>
     <string name="use2click_mode_in_preview">.אלמ ךסמב ץורע תלעפה ליחתת היינש הציחל .הציחל רחאל קר ןוטרס לש המידקמ הגוצת לחתה</string>
+    <string name="clear_modifications">ירוקמה בצמה תא רזחשו םייונישה לכ תא הקנ</string>
+    <string name="save_load_to_user_url">םינותנ ןוסחאל שמתשמה ידי לע קפוסש תרשב שמתשה</string>
+    <string name="action_complete">המלשוה הלועפה</string>
+    <string name="use_always_if_possible">רשפא םא דימת שמתשהל ךירצ</string>
     </resources>

@@ -719,4 +719,8 @@
     <string name="use_cyclic_category_navigation">Įgalinti ciklinį naršymą tarp kategorijų</string>
     <string name="ask_add_pwd_to_protect_data">Ar norite pridėti slaptažodį, kad apsaugotumėte duomenis?</string>
     <string name="use2click_mode_in_preview">Pradėti vaizdo įrašo peržiūrą tik spustelėjus. Antru paspaudimu bus pradėtas viso ekrano kanalo atkūrimas.</string>
+    <string name="clear_modifications">Išvalykite visus pakeitimus ir atkurkite pradinę būseną</string>
+    <string name="save_load_to_user_url">Duomenims saugoti naudokite vartotojo pateiktą serverį</string>
+    <string name="action_complete">Veiksmas baigtas</string>
+    <string name="use_always_if_possible">Turėtumėte naudoti visada, jei įmanoma</string>
     </resources>

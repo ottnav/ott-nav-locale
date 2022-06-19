@@ -715,4 +715,8 @@
     <string name="use_cyclic_category_navigation">श्रेणियों के बीच चक्रीय नेविगेशन सक्षम करें</string>
     <string name="ask_add_pwd_to_protect_data">क्या आप डेटा की सुरक्षा के लिए पासवर्ड जोड़ना चाहते हैं?</string>
     <string name="use2click_mode_in_preview">क्लिक करने पर ही वीडियो पूर्वावलोकन शुरू करें। दूसरा क्लिक फ़ुलस्क्रीन चैनल प्लेबैक प्रारंभ करेगा।</string>
+    <string name="clear_modifications">सभी संशोधनों को साफ़ करें और मूल स्थिति को पुनर्स्थापित करें</string>
+    <string name="save_load_to_user_url">डेटा संग्रहीत करने के लिए उपयोगकर्ता द्वारा प्रदत्त सर्वर का उपयोग करें</string>
+    <string name="action_complete">कार्य पूर्ण</string>
+    <string name="use_always_if_possible">हो सके तो हमेशा इस्तेमाल करना चाहिए</string>
     </resources>

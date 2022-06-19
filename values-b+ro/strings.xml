@@ -667,4 +667,8 @@
     <string name="use_cyclic_category_navigation">Activați navigarea ciclică între categorii</string>
     <string name="ask_add_pwd_to_protect_data">Doriți să adăugați o parolă pentru a proteja datele?</string>
     <string name="use2click_mode_in_preview">Porniți previzualizarea videoclipului numai când faceți clic. Al doilea clic va începe redarea canalului pe ecran complet.</string>
+    <string name="clear_modifications">Ștergeți toate modificările și restabiliți starea inițială</string>
+    <string name="save_load_to_user_url">Utilizați serverul furnizat de utilizator pentru stocarea datelor</string>
+    <string name="action_complete">Acțiune finalizată</string>
+    <string name="use_always_if_possible">Ar trebui să se folosească întotdeauna, dacă este posibil</string>
     </resources>
