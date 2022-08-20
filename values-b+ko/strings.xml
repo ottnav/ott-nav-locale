@@ -721,4 +721,10 @@
     <string name="save_load_to_user_url">"데이터 저장을 위해 사용자 제공 서버 사용"</string>
     <string name="action_complete">작업 완료</string>
     <string name="use_always_if_possible">"가능하면 항상 사용해야 함"</string>
+    <string name="try_pin_activation">"PIN 활성화를 사용하시겠습니까?"</string>
+    <string name="finger_controller">손가락 컨트롤 위젯</string>
+    <string name="fine_tune_text_for_fields">"정확한 필드의 텍스트 색상 미세 조정"</string>
+    <string name="field_name_of_tv_channel">TV 채널 이름</string>
+    <string name="field_name_of_tv_show">"현재 방송명"</string>
+    <string name="cfg_play_deny_hud_on_update">"브로드캐스트 업데이트 시 헤드업 디스플레이 팝업 안 함"</string>
     </resources>

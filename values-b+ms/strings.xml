@@ -718,4 +718,10 @@
     <string name="save_load_to_user_url">Gunakan pelayan yang disediakan pengguna untuk menyimpan data</string>
     <string name="action_complete">Tindakan selesai</string>
     <string name="use_always_if_possible">Harus digunakan sentiasa jika boleh</string>
+    <string name="try_pin_activation">Adakah anda ingin menggunakan pengaktifan PIN?</string>
+    <string name="finger_controller">Widget kawalan jari</string>
+    <string name="fine_tune_text_for_fields">Perhalusi warna teks untuk medan yang tepat</string>
+    <string name="field_name_of_tv_channel">Nama saluran TV</string>
+    <string name="field_name_of_tv_show">Nama siaran semasa</string>
+    <string name="cfg_play_deny_hud_on_update">Jangan timbulkan paparan kepala pada kemas kini siaran</string>
     </resources>

@@ -717,4 +717,10 @@
     <string name="save_load_to_user_url">Datu glabāšanai izmantojiet lietotāja nodrošināto serveri</string>
     <string name="action_complete">Darbība pabeigta</string>
     <string name="use_always_if_possible">Ja iespējams, jālieto vienmēr</string>
+    <string name="try_pin_activation">Vai vēlaties izmantot PIN aktivizēšanu?</string>
+    <string name="finger_controller">Pirkstu vadības logrīks</string>
+    <string name="fine_tune_text_for_fields">Precizējiet teksta krāsu precīziem laukiem</string>
+    <string name="field_name_of_tv_channel">TV kanāla nosaukums</string>
+    <string name="field_name_of_tv_show">Pašreizējās pārraides nosaukums</string>
+    <string name="cfg_play_deny_hud_on_update">Apraides atjauninājuma laikā nerādīt uznirstošo displeju</string>
     </resources>

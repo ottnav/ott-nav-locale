@@ -719,4 +719,10 @@
     <string name="save_load_to_user_url">ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﺎﻫ ﻩﺩﺍﺩ ﻩﺮﯿﺧﺫ ﯼﺍﺮﺑ ﺮﺑﺭﺎﮐ ﻂﺳﻮﺗ ﻩﺪﺷ ﻪﺋﺍﺭﺍ ﺭﻭﺮﺳ ﺯﺍ</string>
     <string name="action_complete">ﺪﺷ ﻞﻣﺎﮐ ﻡﺍﺪﻗﺍ</string>
     <string name="use_always_if_possible">ﺩﻮﺷ ﻩﺩﺎﻔﺘﺳﺍ ﺪﯾﺎﺑ ﻪﺸﯿﻤﻫ ﻥﺎﮑﻣﺍ ﺕﺭﻮﺻ ﺭﺩ</string>
+    <string name="try_pin_activation">؟ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﻦﯿﭘ ﯼﺯﺎﺳ ﻝﺎﻌﻓ ﺯﺍ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﺎﯾﺁ</string>
+    <string name="finger_controller">ﺖﺸﮕﻧﺍ ﻝﺮﺘﻨﮐ ﺖﺠﯾﻭ</string>
+    <string name="fine_tune_text_for_fields">ﺪﯿﻨﮐ ﻢﯿﻈﻨﺗ ﻖﯿﻗﺩ ﯼﺎﻫﺪﻠﯿﻓ ﯼﺍﺮﺑ ﺍﺭ ﻦﺘﻣ ﮓﻧﺭ</string>
+    <string name="field_name_of_tv_channel">ﯽﻧﻮﯾﺰﯾﻮﻠﺗ ﻝﺎﻧﺎﮐ ﮏﯾ ﻡﺎﻧ</string>
+    <string name="field_name_of_tv_show">ﯽﻠﻌﻓ ﺶﺨﭘ ﻡﺎﻧ</string>
+    <string name="cfg_play_deny_hud_on_update">ﺪﯿﻨﮐ ﯼﺭﺍﺩﺩﻮﺧ ﻩﺮﭘﻻ﻿ﺎﺑ ﭖﺁﺪﻫ ﺶﯾﺎﻤﻧ ﺯﺍ ،ﺶﺨﭘ ﯽﻧﺎﺳﺭﺯﻭﺭu200cﻪﺑ ﮏﯾ ﺭﺩ</string>
     </resources>

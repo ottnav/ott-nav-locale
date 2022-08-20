@@ -712,4 +712,10 @@
     <string name="save_load_to_user_url">Користите сервер који обезбеђује корисник за складиштење података</string>
     <string name="action_complete">Радња је завршена</string>
     <string name="use_always_if_possible">Требало би користити увек ако је могуће</string>
+    <string name="try_pin_activation">Да ли желите да користите ПИН активацију?</string>
+    <string name="finger_controller">Виџет за контролу прста</string>
+    <string name="fine_tune_text_for_fields">Фино подесите боју текста за тачна поља</string>
+    <string name="field_name_of_tv_channel">Назив ТВ канала</string>
+    <string name="field_name_of_tv_show">Назив тренутне емисије</string>
+    <string name="cfg_play_deny_hud_on_update">Немојте искачући хеадс-уп-дисплаи на ажурирању емитовања</string>
     </resources>

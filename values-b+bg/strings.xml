@@ -671,4 +671,10 @@
     <string name="save_load_to_user_url">Използвайте предоставен от потребителя сървър за съхранение на данни</string>
     <string name="action_complete">Действието завършено</string>
     <string name="use_always_if_possible">Трябва да се използва винаги, ако е възможно</string>
+    <string name="try_pin_activation">Желаете ли да използвате PIN активиране?</string>
+    <string name="finger_controller">Джаджа за управление с пръсти</string>
+    <string name="fine_tune_text_for_fields">Фина настройка на цвета на текста за точни полета</string>
+    <string name="field_name_of_tv_channel">Име на телевизионен канал</string>
+    <string name="field_name_of_tv_show">Име на текущото предаване</string>
+    <string name="cfg_play_deny_hud_on_update">Не показвайте изскачащ хедс-ъп дисплей при актуализация на излъчване</string>
     </resources>

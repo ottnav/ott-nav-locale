@@ -718,4 +718,10 @@
     <string name="save_load_to_user_url">Kasutage andmete salvestamiseks kasutaja pakutavat serverit</string>
     <string name="action_complete">Toiming lõpetatud</string>
     <string name="use_always_if_possible">Võimalusel tuleks alati kasutada</string>
+    <string name="try_pin_activation">Kas soovite kasutada PIN-koodi aktiveerimist?</string>
+    <string name="finger_controller">Sõrmega juhtimise vidin</string>
+    <string name="fine_tune_text_for_fields">Täpsete väljade jaoks kohandage teksti värvi</string>
+    <string name="field_name_of_tv_channel">Telekanali nimi</string>
+    <string name="field_name_of_tv_show">Praeguse saate nimi</string>
+    <string name="cfg_play_deny_hud_on_update">Ärge kuvage edastusvärskendusel otseteadet</string>
     </resources>

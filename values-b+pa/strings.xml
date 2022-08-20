@@ -717,4 +717,10 @@
     <string name="save_load_to_user_url">ਡੇਟਾ ਸਟੋਰ ਕਰਨ ਲਈ ਉਪਭੋਗਤਾ ਦੁਆਰਾ ਪ੍ਰਦਾਨ ਕੀਤੇ ਸਰਵਰ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="action_complete">ਕਾਰਵਾਈ ਪੂਰੀ ਹੋਈ</string>
     <string name="use_always_if_possible">ਜੇਕਰ ਸੰਭਵ ਹੋਵੇ ਤਾਂ ਹਮੇਸ਼ਾ ਵਰਤੋਂ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ</string>
+    <string name="try_pin_activation">ਕੀ ਤੁਸੀਂ ਪਿੰਨ ਐਕਟੀਵੇਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="finger_controller">ਫਿੰਗਰ ਕੰਟਰੋਲ ਵਿਜੇਟ</string>
+    <string name="fine_tune_text_for_fields">ਸਟੀਕ ਖੇਤਰਾਂ ਲਈ ਟੈਕਸਟ ਰੰਗ ਨੂੰ ਫਾਈਨ-ਟਿਊਨ ਕਰੋ</string>
+    <string name="field_name_of_tv_channel">ਇੱਕ ਟੀਵੀ ਚੈਨਲ ਦਾ ਨਾਮ</string>
+    <string name="field_name_of_tv_show">ਮੌਜੂਦਾ ਪ੍ਰਸਾਰਣ ਦਾ ਨਾਮ</string>
+    <string name="cfg_play_deny_hud_on_update">ਪ੍ਰਸਾਰਣ ਅੱਪਡੇਟ \'ਤੇ ਹੈੱਡ-ਅੱਪ-ਡਿਸਪਲੇ ਨੂੰ ਪੌਪਅੱਪ ਨਾ ਕਰੋ</string>
     </resources>

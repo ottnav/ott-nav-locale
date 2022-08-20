@@ -719,4 +719,10 @@
     <string name="save_load_to_user_url">डेटा संग्रहीत करने के लिए उपयोगकर्ता द्वारा प्रदत्त सर्वर का उपयोग करें</string>
     <string name="action_complete">कार्य पूर्ण</string>
     <string name="use_always_if_possible">हो सके तो हमेशा इस्तेमाल करना चाहिए</string>
+    <string name="try_pin_activation">क्या आप पिन सक्रियण का उपयोग करना चाहते हैं?</string>
+    <string name="finger_controller">फिंगर कंट्रोल विजेट</string>
+    <string name="fine_tune_text_for_fields">सटीक फ़ील्ड के लिए टेक्स्ट रंग फ़ाइन-ट्यून करें</string>
+    <string name="field_name_of_tv_channel">एक टीवी चैनल का नाम</string>
+    <string name="field_name_of_tv_show">वर्तमान प्रसारण का नाम</string>
+    <string name="cfg_play_deny_hud_on_update">ब्रॉडकास्ट अपडेट पर हेड-अप-डिस्प्ले पॉपअप न करें</string>
     </resources>

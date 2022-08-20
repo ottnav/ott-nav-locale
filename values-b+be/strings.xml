@@ -712,4 +712,10 @@
     <string name="save_load_to_user_url">Выкарыстоўвайце для захоўвання дадзеных сервер, які прадастаўляецца карыстальнікам</string>
     <string name="action_complete">Дзеянне завершана</string>
     <string name="use_always_if_possible">Варта выкарыстоўваць заўсёды, калі гэта магчыма</string>
+    <string name="try_pin_activation">Вы жадаеце выкарыстоўваць PIN-код?</string>
+    <string name="finger_controller">Віджэт кіравання пальцам</string>
+    <string name="fine_tune_text_for_fields">Дакладная налада колеру тэксту для дакладных палёў</string>
+    <string name="field_name_of_tv_channel">Назва тэлеканала</string>
+    <string name="field_name_of_tv_show">Назва бягучай перадачы</string>
+    <string name="cfg_play_deny_hud_on_update">Не адкрывайце ўсплывальнае апавяшчэнне пры абнаўленні трансляцыі</string>
     </resources>

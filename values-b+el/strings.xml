@@ -672,4 +672,10 @@
     <string name="save_load_to_user_url">Χρησιμοποιήστε διακομιστή που παρέχεται από το χρήστη για την αποθήκευση δεδομένων</string>
     <string name="action_complete">Η δράση ολοκληρώθηκε</string>
     <string name="use_always_if_possible">Πρέπει να χρησιμοποιείται πάντα αν είναι δυνατόν</string>
+    <string name="try_pin_activation">Θέλετε να χρησιμοποιήσετε την ενεργοποίηση PIN;</string>
+    <string name="finger_controller">Γραφικό στοιχείο ελέγχου δακτύλων</string>
+    <string name="fine_tune_text_for_fields">Βελτιώστε το χρώμα του κειμένου για ακριβή πεδία</string>
+    <string name="field_name_of_tv_channel">Όνομα τηλεοπτικού καναλιού</string>
+    <string name="field_name_of_tv_show">Όνομα της τρέχουσας εκπομπής</string>
+    <string name="cfg_play_deny_hud_on_update">Μην ανοίγετε αναδυόμενα heads-up-display σε μια ενημέρωση εκπομπής</string>
     </resources>

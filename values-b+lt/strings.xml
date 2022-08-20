@@ -723,4 +723,10 @@
     <string name="save_load_to_user_url">Duomenims saugoti naudokite vartotojo pateiktą serverį</string>
     <string name="action_complete">Veiksmas baigtas</string>
     <string name="use_always_if_possible">Turėtumėte naudoti visada, jei įmanoma</string>
+    <string name="try_pin_activation">Ar norite naudoti PIN kodo aktyvinimą?</string>
+    <string name="finger_controller">Valdymo pirštu valdiklis</string>
+    <string name="fine_tune_text_for_fields">Tiksliai sureguliuokite teksto spalvą tiksliems laukams</string>
+    <string name="field_name_of_tv_channel">TV kanalo pavadinimas</string>
+    <string name="field_name_of_tv_show">Dabartinės transliacijos pavadinimas</string>
+    <string name="cfg_play_deny_hud_on_update">Transliacijos naujinimo metu nerodykite tiesioginio ekrano</string>
     </resources>

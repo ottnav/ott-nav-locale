@@ -671,4 +671,10 @@
     <string name="save_load_to_user_url">Pro ukládání dat použijte server poskytovaný uživatelem</string>
     <string name="action_complete">Akce dokončena</string>
     <string name="use_always_if_possible">Mělo by se používat vždy, pokud je to možné</string>
+    <string name="try_pin_activation">Chcete použít aktivaci PIN?</string>
+    <string name="finger_controller">Widget ovládání prstem</string>
+    <string name="fine_tune_text_for_fields">Dolaďte barvu textu pro přesná pole</string>
+    <string name="field_name_of_tv_channel">Název televizního kanálu</string>
+    <string name="field_name_of_tv_show">Název aktuálního vysílání</string>
+    <string name="cfg_play_deny_hud_on_update">Nezobrazujte vyskakovací okno s upozorněním na aktualizaci vysílání</string>
     </resources>

@@ -718,4 +718,10 @@
     <string name="save_load_to_user_url">םינותנ ןוסחאל שמתשמה ידי לע קפוסש תרשב שמתשה</string>
     <string name="action_complete">המלשוה הלועפה</string>
     <string name="use_always_if_possible">רשפא םא דימת שמתשהל ךירצ</string>
+    <string name="try_pin_activation">PIN תלעפהב שמתשהל ךנוצרב םאה</string>
+    <string name="finger_controller">עבצא תרקב לש ט\'גדיוו</string>
+    <string name="fine_tune_text_for_fields">םיקיודמ תודש רובע טסקטה עבצ תא ןנווכ</string>
+    <string name="field_name_of_tv_channel">היזיוולט ץורע לש םש</string>
+    <string name="field_name_of_tv_show">יחכונה רודישה םש</string>
+    <string name="cfg_play_deny_hud_on_update">רודיש ןוכדעב heads-up-display ץיפקהל ןיא</string>
     </resources>

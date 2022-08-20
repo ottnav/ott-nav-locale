@@ -672,4 +672,10 @@
     <string name="save_load_to_user_url">Gebruik een door de gebruiker geleverde server voor het opslaan van gegevens</string>
     <string name="action_complete">Actie voltooid</string>
     <string name="use_always_if_possible">Moet altijd gebruiken indien mogelijk</string>
+    <string name="try_pin_activation">Wilt u PIN-activering gebruiken?</string>
+    <string name="finger_controller">Widget voor vingerbediening</string>
+    <string name="fine_tune_text_for_fields">Tekstkleur verfijnen voor exacte velden</string>
+    <string name="field_name_of_tv_channel">Naam van een tv-zender</string>
+    <string name="field_name_of_tv_show">Naam van de huidige uitzending</string>
+    <string name="cfg_play_deny_hud_on_update">Geen heads-up-display weergeven bij een uitzendingsupdate</string>
     </resources>

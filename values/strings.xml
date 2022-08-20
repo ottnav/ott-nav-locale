@@ -714,4 +714,10 @@
     <string name="save_load_to_user_url">Use user-provided server for storing data</string>
     <string name="action_complete">Action complete</string>
     <string name="use_always_if_possible">Should use always if possible</string>
+    <string name="try_pin_activation">Do you wish to use PIN activation?</string>
+    <string name="finger_controller">Finger control widget</string>
+    <string name="fine_tune_text_for_fields">Fine-tune text color for exact fields</string>
+    <string name="field_name_of_tv_channel">Name of a TV channel</string>
+    <string name="field_name_of_tv_show">Name of the current broadcast</string>
+    <string name="cfg_play_deny_hud_on_update">Do not popup heads-up-display on a broadcast update</string>
 </resources>

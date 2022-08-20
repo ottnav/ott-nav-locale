@@ -672,4 +672,10 @@
     <string name="save_load_to_user_url">Użyj serwera dostarczonego przez użytkownika do przechowywania danych</string>
     <string name="action_complete">Akcja zakończona</string>
     <string name="use_always_if_possible">Należy używać zawsze, jeśli to możliwe</string>
+    <string name="try_pin_activation">Czy chcesz skorzystać z aktywacji PIN?</string>
+    <string name="finger_controller">Widżet sterowania palcami</string>
+    <string name="fine_tune_text_for_fields">Dostosuj kolor tekstu dla dokładnych pól</string>
+    <string name="field_name_of_tv_channel">Nazwa kanału telewizyjnego</string>
+    <string name="field_name_of_tv_show">Nazwa aktualnej audycji</string>
+    <string name="cfg_play_deny_hud_on_update">Nie wyświetlaj komunikatów przeziernych podczas aktualizacji transmisji</string>
     </resources>

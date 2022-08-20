@@ -718,4 +718,10 @@
     <string name="save_load_to_user_url">Utilizzare il server fornito dall\'utente per la memorizzazione dei dati</string>
     <string name="action_complete">Azione completata</string>
     <string name="use_always_if_possible">Dovrebbe usare sempre, se possibile</string>
+    <string name="try_pin_activation">Desideri utilizzare l\'attivazione del PIN?</string>
+    <string name="finger_controller">Widget di controllo delle dita</string>
+    <string name="fine_tune_text_for_fields">Perfeziona il colore del testo per i campi esatti</string>
+    <string name="field_name_of_tv_channel">Nome di un canale televisivo</string>
+    <string name="field_name_of_tv_show">Nome della trasmissione corrente</string>
+    <string name="cfg_play_deny_hud_on_update">Non visualizzare l\'heads-up display su un aggiornamento di trasmissione</string>
     </resources>
