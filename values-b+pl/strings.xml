@@ -518,7 +518,7 @@
     <string name="days">dni</string>
     <string name="price">Cena £</string>
     <string name="do_not_offer_any_more">Nie oferuj tego więcej</string>
-    <string name="cfg_offer_to_seek_to_last_pos">Oferta wyszukiwania do ostatnio oglądanej pozycji</string>
+    <string name="cfg_offer_to_seek_to_last_pos">Zaproponuj przejście do ostatnio oglądanej pozycji</string>
     <string name="best_offer">Najlepsza oferta</string>
     <string name="popular_offer">Popularna oferta</string>
     <string name="favorites_go_top">Ulubione pozycje na Liście Powinny być Wymienione jako Pierwsze</string>
