@@ -678,4 +678,14 @@
     <string name="field_name_of_tv_channel">Nazwa kanału telewizyjnego</string>
     <string name="field_name_of_tv_show">Nazwa aktualnej audycji</string>
     <string name="cfg_play_deny_hud_on_update">Nie wyświetlaj komunikatów przeziernych podczas aktualizacji transmisji</string>
+    <string name="provider_reports_sub_expired">Twój dostawca zgłasza, że Twoja subskrypcja wygasła.</string>
+    <string name="btn_ignore">Ignorować</string>
+    <string name="use_vertical_view_on_phone">Użyj widoku pionowego na telefonie</string>
+    <string name="lock_immediately">Zablokuj natychmiast</string>
+    <string name="genre">Gatunek muzyczny</string>
+    <string name="cast">Rzucać</string>
+    <string name="producer">Producent</string>
+    <string name="retry">Spróbować ponownie</string>
+    <string name="undo">Przywróć zmiany</string>
+    <string name="set_for_phone">Ustaw zalecaną konfigurację dla telefonów</string>
     </resources>

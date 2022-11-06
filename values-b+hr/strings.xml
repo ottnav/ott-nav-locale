@@ -677,4 +677,14 @@
     <string name="field_name_of_tv_channel">Naziv TV kanala</string>
     <string name="field_name_of_tv_show">Naziv trenutne emisije</string>
     <string name="cfg_play_deny_hud_on_update">Nemojte pojavljivati skočni prikaz u slučaju ažuriranja emitiranja</string>
+    <string name="provider_reports_sub_expired">Vaš pružatelj javlja da je vaša pretplata istekla.</string>
+    <string name="btn_ignore">Zanemariti</string>
+    <string name="use_vertical_view_on_phone">Koristite okomiti prikaz na telefonu</string>
+    <string name="lock_immediately">Odmah zaključaj</string>
+    <string name="genre">Žanr</string>
+    <string name="producer">Proizvođač</string>
+    <string name="cast">Glumci</string>
+    <string name="retry">Pokušaj ponovo</string>
+    <string name="undo">Vrati promjene</string>
+    <string name="set_for_phone">Postavite preporučene postavke za telefone</string>
     </resources>

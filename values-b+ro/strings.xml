@@ -677,4 +677,14 @@
     <string name="field_name_of_tv_channel">Numele unui canal TV</string>
     <string name="field_name_of_tv_show">Numele emisiunii curente</string>
     <string name="cfg_play_deny_hud_on_update">Nu deschideți afișaj pop-up la o actualizare de difuzare</string>
+    <string name="provider_reports_sub_expired">Furnizorul dvs. raportează că abonamentul dvs. a expirat.</string>
+    <string name="btn_ignore">Ignora</string>
+    <string name="use_vertical_view_on_phone">Utilizați vizualizarea verticală pe telefon</string>
+    <string name="lock_immediately">Blocați imediat</string>
+    <string name="genre">Gen</string>
+    <string name="cast">Distribuție</string>
+    <string name="producer">Producător</string>
+    <string name="retry">Reîncercați</string>
+    <string name="undo">Reveniți modificările</string>
+    <string name="set_for_phone">Setați configurația recomandată pentru telefoane</string>
     </resources>

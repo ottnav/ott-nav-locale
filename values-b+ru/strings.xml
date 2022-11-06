@@ -718,4 +718,14 @@
     <string name="field_name_of_tv_channel">Название телеканала</string>
     <string name="field_name_of_tv_show">Название текущей трансляции</string>
     <string name="cfg_play_deny_hud_on_update">Не показывать всплывающее окно при обновлении трансляции</string>
+    <string name="provider_reports_sub_expired">Ваш провайдер сообщает, что срок действия вашей подписки истек.</string>
+    <string name="btn_ignore">Игнорировать</string>
+    <string name="use_vertical_view_on_phone">Использовать вертикальный вид на телефоне</string>
+    <string name="lock_immediately">Заблокировать немедленно</string>
+    <string name="genre">Жанр</string>
+    <string name="cast">В ролях</string>
+    <string name="producer">Режиссер</string>
+    <string name="retry">Повторить попытку</string>
+    <string name="undo">Отменить изменения</string>
+    <string name="set_for_phone">Установите рекомендуемые настройки для телефонов</string>
     </resources>

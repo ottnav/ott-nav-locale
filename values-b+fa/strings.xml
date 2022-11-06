@@ -725,4 +725,14 @@
     <string name="field_name_of_tv_channel">ﯽﻧﻮﯾﺰﯾﻮﻠﺗ ﻝﺎﻧﺎﮐ ﮏﯾ ﻡﺎﻧ</string>
     <string name="field_name_of_tv_show">ﯽﻠﻌﻓ ﺶﺨﭘ ﻡﺎﻧ</string>
     <string name="cfg_play_deny_hud_on_update">ﺪﯿﻨﮐ ﯼﺭﺍﺩﺩﻮﺧ ﻩﺮﭘﻻ﻿ﺎﺑ ﭖﺁﺪﻫ ﺶﯾﺎﻤﻧ ﺯﺍ ،ﺶﺨﭘ ﯽﻧﺎﺳﺭﺯﻭﺭu200cﻪﺑ ﮏﯾ ﺭﺩ</string>
+    <string name="provider_reports_sub_expired">.ﺖﺳﺍ ﻩﺪﺷ ﯽﻀﻘﻨﻣ ﺎﻤﺷ ﮎﺍﺮﺘﺷﺍ ﻪﮐ ﺪﻫﺩ ﯽﻣ ﺵﺭﺍﺰﮔ ﺎﻤﺷ ﻩﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ</string>
+    <string name="btn_ignore">ﯽﺷﻮﭘ ﻢﺸﭼ</string>
+    <string name="use_vertical_view_on_phone">ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﻦﻔﻠﺗ ﺭﺩ ﯼﺩﻮﻤﻋ ﯼﺎﻤﻧ ﺯﺍ</string>
+    <string name="lock_immediately">ﺪﯿﻨﮐ ﻞﻔﻗ ﺍﺭﻮﻓ</string>
+    <string name="genre">ﻪﺘﺳﺩ .ﺮﻧﺍﮊ</string>
+    <string name="cast">ﺐﻟﺎﻗ</string>
+    <string name="producer">ﻩﺪﻨﻨﮐ ﻪﯿﻬﺗ</string>
+    <string name="retry">ﺪﯿﻨﮐ ﻥﺎﺤﺘﻣﺍ ﻩﺭﺎﺑﻭﺩ</string>
+    <string name="undo">ﺕﺍﺮﯿﯿﻐﺗ ﻥﺪﻧﺍﺩﺮﮔﺮﺑ</string>
+    <string name="set_for_phone">ﺪﯿﻨﮐ ﻢﯿﻈﻨﺗ ﺍﺭ ﺎﻫ ﻦﻔﻠﺗ ﯼﺍﺮﺑ ﻩﺪﺷ ﻪﯿﺻﻮﺗ ﻢﯿﻈﻨﺗ</string>
     </resources>

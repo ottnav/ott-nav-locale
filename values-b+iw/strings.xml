@@ -724,4 +724,14 @@
     <string name="field_name_of_tv_channel">היזיוולט ץורע לש םש</string>
     <string name="field_name_of_tv_show">יחכונה רודישה םש</string>
     <string name="cfg_play_deny_hud_on_update">רודיש ןוכדעב heads-up-display ץיפקהל ןיא</string>
+    <string name="provider_reports_sub_expired">.ךלש יונמה לש ופקות גפש חוודמ ךלש קפסה</string>
+    <string name="btn_ignore">םלעתהל</string>
+    <string name="use_vertical_view_on_phone">ןופלטב תיכנא הגוצתב שמתשה</string>
+    <string name="lock_immediately">דימ לענ</string>
+    <string name="genre">רנא\'ָז</string>
+    <string name="cast">קהלל</string>
+    <string name="producer">ןרָציַ</string>
+    <string name="retry">בוש הסנ</string>
+    <string name="undo">םייוניש רזחה</string>
+    <string name="set_for_phone">םינופלטל תצלמומ הרדגה רדגה</string>
     </resources>

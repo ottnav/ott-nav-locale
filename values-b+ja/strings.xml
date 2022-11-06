@@ -725,4 +725,14 @@
     <string name="field_name_of_tv_channel">TVチャンネルの名前</string>
     <string name="field_name_of_tv_show">現在の放送の名前</string>
     <string name="cfg_play_deny_hud_on_update">ブロードキャスト更新時にヘッドアップ ディスプレイをポップアップ表示しない</string>
+    <string name="provider_reports_sub_expired">プロバイダーから、サブスクリプションの有効期限が切れていることが報告されました。</string>
+    <string name="btn_ignore">無視</string>
+    <string name="use_vertical_view_on_phone">電話で縦表示を使用する</string>
+    <string name="lock_immediately">すぐにロック</string>
+    <string name="genre">ジャンル</string>
+    <string name="cast">キャスト</string>
+    <string name="producer">プロデューサー</string>
+    <string name="retry">リトライ</string>
+    <string name="undo">変更を元に戻す</string>
+    <string name="set_for_phone">電話の推奨セットアップを設定する</string>
     </resources>

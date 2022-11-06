@@ -718,4 +718,14 @@
     <string name="field_name_of_tv_channel">Назив ТВ канала</string>
     <string name="field_name_of_tv_show">Назив тренутне емисије</string>
     <string name="cfg_play_deny_hud_on_update">Немојте искачући хеадс-уп-дисплаи на ажурирању емитовања</string>
+    <string name="provider_reports_sub_expired">Ваш провајдер извештава да је ваша претплата истекла.</string>
+    <string name="btn_ignore">Игнорирај</string>
+    <string name="use_vertical_view_on_phone">Користите вертикални приказ на телефону</string>
+    <string name="lock_immediately">Закључајте одмах</string>
+    <string name="genre">Жанр</string>
+    <string name="cast">Цаст</string>
+    <string name="producer">Произвођач</string>
+    <string name="retry">Покушај поново</string>
+    <string name="undo">Врати промене</string>
+    <string name="set_for_phone">Подесите препоручено подешавање за телефоне</string>
     </resources>

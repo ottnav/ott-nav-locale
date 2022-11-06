@@ -718,4 +718,14 @@
     <string name="field_name_of_tv_channel">Назва тэлеканала</string>
     <string name="field_name_of_tv_show">Назва бягучай перадачы</string>
     <string name="cfg_play_deny_hud_on_update">Не адкрывайце ўсплывальнае апавяшчэнне пры абнаўленні трансляцыі</string>
+    <string name="provider_reports_sub_expired">Ваш правайдэр паведамляе, што тэрмін вашай падпіскі скончыўся.</string>
+    <string name="btn_ignore">Ігнараваць</string>
+    <string name="use_vertical_view_on_phone">Выкарыстоўвайце вертыкальны выгляд на тэлефоне</string>
+    <string name="lock_immediately">Неадкладна зачыніць</string>
+    <string name="genre">Жанр</string>
+    <string name="cast">У ролях</string>
+    <string name="producer">Прадзюсер</string>
+    <string name="retry">Паўтарыць</string>
+    <string name="undo">Вярнуць змены</string>
+    <string name="set_for_phone">Усталюйце рэкамендаваныя налады для тэлефонаў</string>
     </resources>

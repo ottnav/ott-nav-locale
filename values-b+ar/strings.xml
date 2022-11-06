@@ -725,4 +725,14 @@
     <string name="field_name_of_tv_channel">ﺔﻴﻧﻮﻳﺰﻔﻠﺗ ﺓﺎﻨﻗ ﻢﺳﺍ</string>
     <string name="field_name_of_tv_show">ﻲﻟﺎﺤﻟﺍ ﺚﺒﻟﺍ ﻢﺳﺍ</string>
     <string name="cfg_play_deny_hud_on_update">ﺚﺒﻟﺍ ﺚﻳﺪﺤﺗ ﺪﻨﻋ ﺱﻭﺅﺮﻟﺍ ﺽﺮﻋ ﻖﺜﺒﻨﺗ ﻻ</string>
+    <string name="provider_reports_sub_expired">.ﻚﻛﺍﺮﺘﺷﺍ ﺔﻴﺣﻼ﻿ﺻ ءﺎﻬﺘﻧﺍ ﻦﻋ ﻚﺑ ﺹﺎﺨﻟﺍ ﺔﻣﺪﺨﻟﺍ ﺮﻓﻮﻣ ﻎﻠﺒﻳ</string>
+    <string name="btn_ignore">ﻞﻫﺎﺠﺘﻳ</string>
+    <string name="use_vertical_view_on_phone">ﻒﺗﺎﻬﻟﺍ ﻰﻠﻋ ﻲﺳﺃﺮﻟﺍ ﺽﺮﻌﻟﺍ ﻡﺪﺨﺘﺳﺍ</string>
+    <string name="lock_immediately">ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﻞﻔﻗ</string>
+    <string name="genre">ﻉﻮﻨﻟﺍ</string>
+    <string name="cast">ﻑﺬﻘﻳ</string>
+    <string name="producer">ﺞﺘﻨﻣ</string>
+    <string name="retry">ﺔﻟﻭﺎﺤﻤﻟﺍ ﺪﻋﺃ</string>
+    <string name="undo">ﺓﺪﺗﺮﻤﻟﺍ ﺕﺍﺮﻴﻐﺘﻟﺍ</string>
+    <string name="set_for_phone">ﻒﺗﺍﻮﻬﻠﻟ ﻪﺑ ﻰﺻﻮﻤﻟﺍ ﺩﺍﺪﻋﻹ﻿ﺍ ﻂﺒﺿﺍ</string>
     </resources>

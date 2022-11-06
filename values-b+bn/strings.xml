@@ -726,4 +726,14 @@
     <string name="field_name_of_tv_channel">একটি টিভি চ্যানেলের নাম</string>
     <string name="field_name_of_tv_show">বর্তমান সম্প্রচারের নাম</string>
     <string name="cfg_play_deny_hud_on_update">ব্রডকাস্ট আপডেটে হেড-আপ-ডিসপ্লে পপআপ করবেন না</string>
+    <string name="provider_reports_sub_expired">আপনার প্রদানকারী রিপোর্ট করে যে আপনার সদস্যতার মেয়াদ শেষ হয়ে গেছে।</string>
+    <string name="btn_ignore">উপেক্ষা করুন</string>
+    <string name="use_vertical_view_on_phone">ফোনে উল্লম্ব দৃশ্য ব্যবহার করুন</string>
+    <string name="lock_immediately">অবিলম্বে তালা</string>
+    <string name="genre">ধারা</string>
+    <string name="cast">কাস্ট</string>
+    <string name="producer">প্রযোজক</string>
+    <string name="retry">পুনরায় চেষ্টা করা</string>
+    <string name="undo">পরিবর্তনগুলি প্রত্যাবর্তন করুন</string>
+    <string name="set_for_phone">ফোনের জন্য প্রস্তাবিত সেটআপ সেট করুন</string>
     </resources>

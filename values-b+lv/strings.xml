@@ -723,4 +723,14 @@
     <string name="field_name_of_tv_channel">TV kanāla nosaukums</string>
     <string name="field_name_of_tv_show">Pašreizējās pārraides nosaukums</string>
     <string name="cfg_play_deny_hud_on_update">Apraides atjauninājuma laikā nerādīt uznirstošo displeju</string>
+    <string name="provider_reports_sub_expired">Jūsu pakalpojumu sniedzējs ziņo, ka jūsu abonementam ir beidzies derīguma termiņš.</string>
+    <string name="btn_ignore">Ignorēt</string>
+    <string name="use_vertical_view_on_phone">Izmantojiet vertikālo skatu tālrunī</string>
+    <string name="lock_immediately">Nekavējoties aizslēdziet</string>
+    <string name="genre">Žanrs</string>
+    <string name="cast">Lomās</string>
+    <string name="producer">Ražotājs</string>
+    <string name="retry">Mēģiniet vēlreiz</string>
+    <string name="undo">Atsaukt izmaiņas</string>
+    <string name="set_for_phone">Iestatiet tālruņiem ieteicamo iestatījumu</string>
     </resources>

@@ -724,4 +724,14 @@
     <string name="field_name_of_tv_channel">Nama saluran TV</string>
     <string name="field_name_of_tv_show">Nama siaran semasa</string>
     <string name="cfg_play_deny_hud_on_update">Jangan timbulkan paparan kepala pada kemas kini siaran</string>
+    <string name="provider_reports_sub_expired">Pembekal anda melaporkan bahawa langganan anda telah tamat tempoh.</string>
+    <string name="btn_ignore">Abai</string>
+    <string name="use_vertical_view_on_phone">Gunakan pandangan menegak pada telefon</string>
+    <string name="lock_immediately">Kunci segera</string>
+    <string name="cast">Pelakon</string>
+    <string name="producer">Penerbit</string>
+    <string name="genre">Genre</string>
+    <string name="retry">Cuba semula</string>
+    <string name="undo">Kembalikan perubahan</string>
+    <string name="set_for_phone">Tetapkan persediaan yang disyorkan untuk telefon</string>
     </resources>

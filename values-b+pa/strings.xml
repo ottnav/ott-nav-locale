@@ -723,4 +723,14 @@
     <string name="field_name_of_tv_channel">ਇੱਕ ਟੀਵੀ ਚੈਨਲ ਦਾ ਨਾਮ</string>
     <string name="field_name_of_tv_show">ਮੌਜੂਦਾ ਪ੍ਰਸਾਰਣ ਦਾ ਨਾਮ</string>
     <string name="cfg_play_deny_hud_on_update">ਪ੍ਰਸਾਰਣ ਅੱਪਡੇਟ \'ਤੇ ਹੈੱਡ-ਅੱਪ-ਡਿਸਪਲੇ ਨੂੰ ਪੌਪਅੱਪ ਨਾ ਕਰੋ</string>
+    <string name="provider_reports_sub_expired">ਤੁਹਾਡਾ ਪ੍ਰਦਾਤਾ ਰਿਪੋਰਟ ਕਰਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਗਾਹਕੀ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ।</string>
+    <string name="btn_ignore">ਅਣਡਿੱਠ ਕਰੋ</string>
+    <string name="use_vertical_view_on_phone">ਫ਼ੋਨ \'ਤੇ ਲੰਬਕਾਰੀ ਦ੍ਰਿਸ਼ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="lock_immediately">ਤੁਰੰਤ ਲਾਕ ਕਰੋ</string>
+    <string name="genre">ਸ਼ੈਲੀ</string>
+    <string name="cast">ਕਾਸਟ</string>
+    <string name="producer">ਨਿਰਮਾਤਾ</string>
+    <string name="retry">ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="undo">ਤਬਦੀਲੀਆਂ ਵਾਪਸ ਕਰੋ</string>
+    <string name="set_for_phone">ਫ਼ੋਨਾਂ ਲਈ ਸਿਫ਼ਾਰਸ਼ੀ ਸੈੱਟਅੱਪ ਸੈੱਟ ਕਰੋ</string>
     </resources>

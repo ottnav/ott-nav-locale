@@ -717,4 +717,14 @@
     <string name="field_name_of_tv_channel">Tên kênh truyền hình</string>
     <string name="field_name_of_tv_show">Tên của chương trình phát sóng hiện tại</string>
     <string name="cfg_play_deny_hud_on_update">Không bật lên hiển thị thông báo trên một bản cập nhật phát sóng</string>
+    <string name="provider_reports_sub_expired">Nhà cung cấp của bạn báo cáo rằng đăng ký của bạn đã hết hạn.</string>
+    <string name="btn_ignore">Phớt lờ</string>
+    <string name="use_vertical_view_on_phone">Sử dụng chế độ xem dọc trên điện thoại</string>
+    <string name="lock_immediately">Khóa ngay lập tức</string>
+    <string name="genre">Thể loại</string>
+    <string name="cast">Dàn diễn viên</string>
+    <string name="producer">Người sản xuất</string>
+    <string name="retry">Thử lại</string>
+    <string name="undo">Thay đổi nhanh</string>
+    <string name="set_for_phone">Đặt thiết lập được đề xuất cho điện thoại</string>
     </resources>

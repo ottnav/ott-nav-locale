@@ -678,4 +678,14 @@
     <string name="field_name_of_tv_channel">Namn på en TV-kanal</string>
     <string name="field_name_of_tv_show">Namnet på den aktuella sändningen</string>
     <string name="cfg_play_deny_hud_on_update">Popup inte heads-up-display på en sändningsuppdatering</string>
+    <string name="provider_reports_sub_expired">Din leverantör rapporterar att din prenumeration har löpt ut.</string>
+    <string name="btn_ignore">Strunta i</string>
+    <string name="use_vertical_view_on_phone">Använd vertikal vy på telefonen</string>
+    <string name="lock_immediately">Lås omedelbart</string>
+    <string name="cast">Kasta</string>
+    <string name="producer">Producent</string>
+    <string name="genre">Genre</string>
+    <string name="retry">Försök igen</string>
+    <string name="undo">Återställ ändringar</string>
+    <string name="set_for_phone">Ställ in rekommenderad konfiguration för telefoner</string>
     </resources>

@@ -1,4 +1,5 @@
-<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="en">
     <string name="press_back_once_more_to_exit">Press once more to exit</string>
 
     <string name="search_bar">Search by channels or programs</string>
@@ -686,7 +687,8 @@
     <string name="quick_actions">Quick actions</string>
     <string name="clear_list">Clear the list</string>
     <string name="ignored_words">Ignored words</string>
-    <string name="hardware_codec_exo1" translatable="false">exo v1</string>
+    <string name="hardware_codec_exo1"
+        translatable="false">exo v1</string>
     <string name="restore_original_state">Restore to original state</string>
     <string name="text_color">Text color</string>
     <string name="accent_text_color">Accent text color</string>
@@ -720,4 +722,14 @@
     <string name="field_name_of_tv_channel">Name of a TV channel</string>
     <string name="field_name_of_tv_show">Name of the current broadcast</string>
     <string name="cfg_play_deny_hud_on_update">Do not popup heads-up-display on a broadcast update</string>
+    <string name="provider_reports_sub_expired">Your provider reports that your subscription has been expired.</string>
+    <string name="btn_ignore">Ignore</string>
+    <string name="use_vertical_view_on_phone">Use vertical view on phone</string>
+    <string name="lock_immediately">Lock immediately</string>
+    <string name="genre">Genre</string>
+    <string name="cast">Cast</string>
+    <string name="producer">Producer</string>
+    <string name="retry">Retry</string>
+    <string name="undo">Revert changes</string>
+    <string name="set_for_phone">Set recommended setup for phones</string>
 </resources>

@@ -678,4 +678,14 @@
     <string name="field_name_of_tv_channel">Naam van een tv-zender</string>
     <string name="field_name_of_tv_show">Naam van de huidige uitzending</string>
     <string name="cfg_play_deny_hud_on_update">Geen heads-up-display weergeven bij een uitzendingsupdate</string>
+    <string name="provider_reports_sub_expired">Uw provider meldt dat uw abonnement is verlopen.</string>
+    <string name="btn_ignore">Negeren</string>
+    <string name="use_vertical_view_on_phone">Verticale weergave gebruiken op telefoon</string>
+    <string name="lock_immediately">Onmiddellijk vergrendelen</string>
+    <string name="cast">Vorm</string>
+    <string name="producer">Producent</string>
+    <string name="genre">Genre</string>
+    <string name="retry">Opnieuw proberen</string>
+    <string name="undo">Wijzigingen ongedaan maken</string>
+    <string name="set_for_phone">Stel aanbevolen instellingen in voor telefoons</string>
     </resources>

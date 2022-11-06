@@ -724,4 +724,14 @@
     <string name="field_name_of_tv_channel">Telekanali nimi</string>
     <string name="field_name_of_tv_show">Praeguse saate nimi</string>
     <string name="cfg_play_deny_hud_on_update">Ärge kuvage edastusvärskendusel otseteadet</string>
+    <string name="provider_reports_sub_expired">Teie teenusepakkuja teatab, et teie tellimus on aegunud.</string>
+    <string name="btn_ignore">Ignoreeri</string>
+    <string name="use_vertical_view_on_phone">Kasutage telefoni vertikaalvaadet</string>
+    <string name="lock_immediately">Lukusta kohe</string>
+    <string name="genre">Žanr</string>
+    <string name="producer">Tootja</string>
+    <string name="cast">Näitlejad</string>
+    <string name="retry">Uuesti proovima</string>
+    <string name="undo">Muudatuste ennistamine</string>
+    <string name="set_for_phone">Määrake telefonide jaoks soovitatav seadistus</string>
     </resources>

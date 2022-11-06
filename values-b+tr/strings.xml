@@ -723,4 +723,14 @@
     <string name="field_name_of_tv_channel">Bir TV kanalının adı</string>
     <string name="field_name_of_tv_show">Geçerli yayının adı</string>
     <string name="cfg_play_deny_hud_on_update">Bir yayın güncellemesinde teke tek ekranı açmayın</string>
+    <string name="provider_reports_sub_expired">Sağlayıcınız, aboneliğinizin süresinin dolduğunu bildiriyor.</string>
+    <string name="btn_ignore">Aldırmamak</string>
+    <string name="use_vertical_view_on_phone">Telefonda dikey görünümü kullan</string>
+    <string name="lock_immediately">Hemen kilitle</string>
+    <string name="genre">Tür</string>
+    <string name="cast">Oyuncu kadrosu</string>
+    <string name="producer">Üretici</string>
+    <string name="retry">yeniden dene</string>
+    <string name="undo">Değişiklikleri geri al</string>
+    <string name="set_for_phone">Telefonlar için önerilen kurulumu ayarlayın</string>
     </resources>

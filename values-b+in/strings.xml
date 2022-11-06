@@ -678,4 +678,14 @@
     <string name="field_name_of_tv_channel">Nama saluran TV</string>
     <string name="field_name_of_tv_show">Nama siaran saat ini</string>
     <string name="cfg_play_deny_hud_on_update">Jangan popup head-up-display pada pembaruan siaran</string>
+    <string name="provider_reports_sub_expired">Penyedia Anda melaporkan bahwa langganan Anda telah kedaluwarsa.</string>
+    <string name="btn_ignore">Mengabaikan</string>
+    <string name="use_vertical_view_on_phone">Gunakan tampilan vertikal di ponsel</string>
+    <string name="lock_immediately">Kunci segera</string>
+    <string name="cast">Pemeran</string>
+    <string name="producer">Produsen</string>
+    <string name="genre">Kategori</string>
+    <string name="retry">Mencoba kembali</string>
+    <string name="undo">Kembalikan perubahan</string>
+    <string name="set_for_phone">Setel penyiapan yang disarankan untuk ponsel</string>
     </resources>

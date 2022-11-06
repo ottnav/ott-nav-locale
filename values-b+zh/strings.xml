@@ -717,4 +717,14 @@
     <string name="field_name_of_tv_channel">电视频道名称</string>
     <string name="field_name_of_tv_show">当前广播的名称</string>
     <string name="cfg_play_deny_hud_on_update">不要在广播更新中弹出抬头显示</string>
+    <string name="provider_reports_sub_expired">您的提供商报告您的订阅已过期。</string>
+    <string name="btn_ignore">忽视</string>
+    <string name="use_vertical_view_on_phone">在手机上使用垂直视图</string>
+    <string name="lock_immediately">立即锁定</string>
+    <string name="genre">类型</string>
+    <string name="cast">投掷</string>
+    <string name="producer">制片人</string>
+    <string name="retry">重试</string>
+    <string name="undo">还原更改</string>
+    <string name="set_for_phone">为手机设置推荐设置</string>
     </resources>

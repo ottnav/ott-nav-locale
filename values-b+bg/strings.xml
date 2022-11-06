@@ -677,4 +677,14 @@
     <string name="field_name_of_tv_channel">Име на телевизионен канал</string>
     <string name="field_name_of_tv_show">Име на текущото предаване</string>
     <string name="cfg_play_deny_hud_on_update">Не показвайте изскачащ хедс-ъп дисплей при актуализация на излъчване</string>
+    <string name="provider_reports_sub_expired">Вашият доставчик съобщава, че абонаментът ви е изтекъл.</string>
+    <string name="btn_ignore">Игнорирайте</string>
+    <string name="use_vertical_view_on_phone">Използвайте вертикален изглед на телефона</string>
+    <string name="lock_immediately">Заключете веднага</string>
+    <string name="genre">Жанр</string>
+    <string name="cast">Актьорски състав</string>
+    <string name="producer">Продуцент</string>
+    <string name="retry">Опитайте отново</string>
+    <string name="undo">Възстановяване на промените</string>
+    <string name="set_for_phone">Задайте препоръчителна настройка за телефони</string>
     </resources>

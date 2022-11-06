@@ -677,4 +677,14 @@
     <string name="field_name_of_tv_channel">Název televizního kanálu</string>
     <string name="field_name_of_tv_show">Název aktuálního vysílání</string>
     <string name="cfg_play_deny_hud_on_update">Nezobrazujte vyskakovací okno s upozorněním na aktualizaci vysílání</string>
+    <string name="provider_reports_sub_expired">Váš poskytovatel hlásí, že vaše předplatné vypršelo.</string>
+    <string name="btn_ignore">Ignorovat</string>
+    <string name="use_vertical_view_on_phone">Použijte vertikální zobrazení na telefonu</string>
+    <string name="lock_immediately">Okamžitě zamkněte</string>
+    <string name="genre">Žánr</string>
+    <string name="cast">Obsazení</string>
+    <string name="producer">Výrobce</string>
+    <string name="retry">Zkuste to znovu</string>
+    <string name="undo">Vrátit změny</string>
+    <string name="set_for_phone">Nastavte doporučené nastavení pro telefony</string>
     </resources>

@@ -729,4 +729,14 @@
     <string name="field_name_of_tv_channel">TV kanalo pavadinimas</string>
     <string name="field_name_of_tv_show">Dabartinės transliacijos pavadinimas</string>
     <string name="cfg_play_deny_hud_on_update">Transliacijos naujinimo metu nerodykite tiesioginio ekrano</string>
+    <string name="provider_reports_sub_expired">Jūsų teikėjas praneša, kad jūsų prenumeratos galiojimas baigėsi.</string>
+    <string name="btn_ignore">Ignoruoti</string>
+    <string name="use_vertical_view_on_phone">Naudokite vertikalų vaizdą telefone</string>
+    <string name="lock_immediately">Užrakinkite iš karto</string>
+    <string name="genre">Žanras</string>
+    <string name="cast">Aktoriai</string>
+    <string name="producer">Gamintojas</string>
+    <string name="retry">Bandykite dar kartą</string>
+    <string name="undo">Grąžinti pakeitimus</string>
+    <string name="set_for_phone">Nustatyti rekomenduojamą telefonų sąranką</string>
     </resources>

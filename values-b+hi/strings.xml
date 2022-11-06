@@ -725,4 +725,14 @@
     <string name="field_name_of_tv_channel">एक टीवी चैनल का नाम</string>
     <string name="field_name_of_tv_show">वर्तमान प्रसारण का नाम</string>
     <string name="cfg_play_deny_hud_on_update">ब्रॉडकास्ट अपडेट पर हेड-अप-डिस्प्ले पॉपअप न करें</string>
+    <string name="provider_reports_sub_expired">आपका प्रदाता रिपोर्ट करता है कि आपकी सदस्यता समाप्त हो गई है।</string>
+    <string name="btn_ignore">नज़रअंदाज़ करना</string>
+    <string name="use_vertical_view_on_phone">फ़ोन पर लंबवत दृश्य का उपयोग करें</string>
+    <string name="lock_immediately">तुरंत लॉक करें</string>
+    <string name="genre">शैली</string>
+    <string name="cast">फेंकना</string>
+    <string name="producer">निर्माता</string>
+    <string name="retry">पुन: प्रयास करें</string>
+    <string name="undo">परिवर्तन वापस करें</string>
+    <string name="set_for_phone">फ़ोन के लिए अनुशंसित सेटअप सेट करें</string>
     </resources>

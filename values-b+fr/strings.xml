@@ -724,4 +724,14 @@
     <string name="field_name_of_tv_channel">Nom d\'une chaîne de télévision</string>
     <string name="field_name_of_tv_show">Nom de la diffusion en cours</string>
     <string name="cfg_play_deny_hud_on_update">Ne pas afficher l\'affichage tête haute sur une mise à jour diffusée</string>
+    <string name="provider_reports_sub_expired">Votre fournisseur signale que votre abonnement a expiré.</string>
+    <string name="btn_ignore">Ignorer</string>
+    <string name="use_vertical_view_on_phone">Utiliser la vue verticale sur le téléphone</string>
+    <string name="lock_immediately">Verrouiller immédiatement</string>
+    <string name="cast">Moulage</string>
+    <string name="producer">Producteur</string>
+    <string name="genre">Genre</string>
+    <string name="retry">Recommencez</string>
+    <string name="undo">Rétablir les changements</string>
+    <string name="set_for_phone">Définir la configuration recommandée pour les téléphones</string>
     </resources>

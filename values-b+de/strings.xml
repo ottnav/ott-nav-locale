@@ -433,7 +433,7 @@
     <string name="displayed_value">angezeigter Wert</string>
     <string name="cfg_play_action_ch_list">Senderliste öffnen</string>
     <string name="cfg_enable_resolution_fix">Aktivieren Sie die Auflösungskorrektur</string>
-    <string name="minutes">Protokoll</string>
+    <string name="minutes">Minutes</string>
     <string name="cfg_ban_bad_channels_qs">Unterbrochene Kanäle vom Schnellschalter entfernen</string>
     <string name="loading_data">Lade Daten</string>
     <string name="cfg_list_ch_no_country">Land aus dem Sendernamen entfernen</string>
@@ -504,7 +504,7 @@
     <string name="vod_folder_movies">Filme</string>
     <string name="show_hidden_content">Versteckten Inhalt anzeigen</string>
     <string name="rewind_speed">Rücklaufgeschwindigkeit</string>
-    <string name="disable_provider_epg">Deaktivieren Sie die EPG-Quellen des Anbieters nur mit vom Benutzer bereitgestellten Quellen</string>
+    <string name="disable_provider_epg">EPG-Quellen des Anbierers deaktivieren, nur vom Benutzer bereitgestellte Quellen nutzen</string>
     <string name="allow_bad_ssl">Zulassen ungültiger SSL-Zertifikate</string>
     <string name="auto_start_next_episode">Startet automatisch die nächste Episode</string>
     <string name="unique_devices">einzigartige Geräte</string>
@@ -678,4 +678,14 @@
     <string name="field_name_of_tv_channel">Name eines Fernsehsenders</string>
     <string name="field_name_of_tv_show">Name der aktuellen Sendung</string>
     <string name="cfg_play_deny_hud_on_update">Popup-Heads-up-Display bei einem Broadcast-Update nicht anzeigen</string>
+    <string name="provider_reports_sub_expired">Ihr Anbieter meldet, dass Ihr Abonnement abgelaufen ist.</string>
+    <string name="btn_ignore">Ignorieren</string>
+    <string name="use_vertical_view_on_phone">Verwenden Sie die vertikale Ansicht auf dem Telefon</string>
+    <string name="lock_immediately">Sofort sperren</string>
+    <string name="cast">Darsteller</string>
+    <string name="producer">Regie</string>
+    <string name="genre">Genre</string>
+    <string name="retry">Wiederholen</string>
+    <string name="undo">Änderungen rückgängig machen</string>
+    <string name="set_for_phone">Legen Sie die empfohlene Einrichtung für Telefone fest</string>
     </resources>
