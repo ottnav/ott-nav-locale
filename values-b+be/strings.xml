@@ -728,4 +728,5 @@
     <string name="retry">Паўтарыць</string>
     <string name="undo">Вярнуць змены</string>
     <string name="set_for_phone">Усталюйце рэкамендаваныя налады для тэлефонаў</string>
+    <string name="trust_these_sources">Давярайце гэтым крыніцам</string>
     </resources>

@@ -688,4 +688,5 @@
     <string name="retry">Opnieuw proberen</string>
     <string name="undo">Wijzigingen ongedaan maken</string>
     <string name="set_for_phone">Stel aanbevolen instellingen in voor telefoons</string>
+    <string name="trust_these_sources">Vertrouw op deze bronnen</string>
     </resources>

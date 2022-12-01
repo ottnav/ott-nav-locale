@@ -731,4 +731,5 @@
     <string name="retry">Rever</string>
     <string name="undo">Revertir cambios</string>
     <string name="set_for_phone">Establecer la configuración recomendada para teléfonos</string>
+    <string name="trust_these_sources">Confía en estas fuentes</string>
     </resources>

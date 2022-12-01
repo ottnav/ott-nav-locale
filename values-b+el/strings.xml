@@ -688,4 +688,5 @@
     <string name="retry">Ξαναδοκιμάσετε</string>
     <string name="undo">Επαναφορά αλλαγών</string>
     <string name="set_for_phone">Ορίστε τη συνιστώμενη ρύθμιση για τηλέφωνα</string>
+    <string name="trust_these_sources">Εμπιστευτείτε αυτές τις πηγές</string>
     </resources>

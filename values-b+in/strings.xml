@@ -688,4 +688,5 @@
     <string name="retry">Mencoba kembali</string>
     <string name="undo">Kembalikan perubahan</string>
     <string name="set_for_phone">Setel penyiapan yang disarankan untuk ponsel</string>
+    <string name="trust_these_sources">Percayai sumber-sumber ini</string>
     </resources>

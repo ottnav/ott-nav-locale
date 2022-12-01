@@ -688,4 +688,5 @@
     <string name="retry">Försök igen</string>
     <string name="undo">Återställ ändringar</string>
     <string name="set_for_phone">Ställ in rekommenderad konfiguration för telefoner</string>
+    <string name="trust_these_sources">Lita på dessa källor</string>
     </resources>

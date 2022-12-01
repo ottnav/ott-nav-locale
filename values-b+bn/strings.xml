@@ -736,4 +736,5 @@
     <string name="retry">পুনরায় চেষ্টা করা</string>
     <string name="undo">পরিবর্তনগুলি প্রত্যাবর্তন করুন</string>
     <string name="set_for_phone">ফোনের জন্য প্রস্তাবিত সেটআপ সেট করুন</string>
+    <string name="trust_these_sources">এই উত্সগুলি বিশ্বাস করুন</string>
     </resources>

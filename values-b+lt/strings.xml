@@ -739,4 +739,5 @@
     <string name="retry">Bandykite dar kartą</string>
     <string name="undo">Grąžinti pakeitimus</string>
     <string name="set_for_phone">Nustatyti rekomenduojamą telefonų sąranką</string>
+    <string name="trust_these_sources">Pasitikėk šiais šaltiniais</string>
     </resources>

@@ -1,5 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools"
-    tools:locale="en">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="press_back_once_more_to_exit">Press once more to exit</string>
 
     <string name="search_bar">Search by channels or programs</string>
@@ -687,8 +686,7 @@
     <string name="quick_actions">Quick actions</string>
     <string name="clear_list">Clear the list</string>
     <string name="ignored_words">Ignored words</string>
-    <string name="hardware_codec_exo1"
-        translatable="false">exo v1</string>
+    <string name="hardware_codec_exo1" translatable="false">exo v1</string>
     <string name="restore_original_state">Restore to original state</string>
     <string name="text_color">Text color</string>
     <string name="accent_text_color">Accent text color</string>
@@ -732,4 +730,5 @@
     <string name="retry">Retry</string>
     <string name="undo">Revert changes</string>
     <string name="set_for_phone">Set recommended setup for phones</string>
+    <string name="trust_these_sources">Trust these sources</string>
 </resources>

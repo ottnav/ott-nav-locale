@@ -688,4 +688,5 @@
     <string name="retry">Wiederholen</string>
     <string name="undo">Änderungen rückgängig machen</string>
     <string name="set_for_phone">Legen Sie die empfohlene Einrichtung für Telefone fest</string>
+    <string name="trust_these_sources">Vertrauen Sie diesen Quellen</string>
     </resources>

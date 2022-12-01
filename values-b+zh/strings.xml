@@ -727,4 +727,5 @@
     <string name="retry">重试</string>
     <string name="undo">还原更改</string>
     <string name="set_for_phone">为手机设置推荐设置</string>
+    <string name="trust_these_sources">相信这些来源</string>
     </resources>

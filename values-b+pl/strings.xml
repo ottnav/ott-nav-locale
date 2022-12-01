@@ -1,7 +1,7 @@
 <resources>
     <string name="press_back_once_more_to_exit">Naciśnij ponownie, aby wyjść</string>
     <string name="search_bar">Wyszukaj według kanałów lub programów</string>
-    <string name="menu_search">Wyszukiwarka video</string>
+    <string name="menu_search">Wyszukaj video</string>
     <string name="menu_live">Telewizja</string>
     <string name="menu_archive">Archiwum</string>
     <string name="menu_settings">Ustawienia</string>
@@ -11,19 +11,19 @@
     <string name="browse_description_series_number">odcinek</string>
     <string name="browse_description_header_live">Kanały na żywo</string>
     <string name="category_movies">Wszystkie filmy</string>
-    <string name="category_tv_series">Wszystkie seriale telewizyjne</string>
-    <string name="category_tv_shows">Wszystkie programy telewizyjne</string>
+    <string name="category_tv_series">Wszystkie Seriale TV</string>
+    <string name="category_tv_shows">Wszystkie Programy TV</string>
     <string name="category_fav_channels">Ulubione kanały</string>
     <string name="category_by_categories">Filtruj według kategorii</string>
     <string name="category_by_years">Filtruj według daty produkcji</string>
-    <string name="category_by_age">Filtruj według klasyfikacji wiekowej</string>
+    <string name="category_by_age">Filtruj według wieku</string>
     <string name="category_by_country">Filtruj według kraju pochodzenia</string>
     <string name="category_by_unsorted">Wszystko</string>
     <string name="category_by_favorite">Ulubione</string>
     <string name="category_desc_movies">automatyczne filtrowanie wszystkich kanałów</string>
     <string name="category_desc_tv_series">automatyczne filtrowanie wszystkich kanałów</string>
     <string name="category_desc_tv_shows">automatyczne filtrowanie wszystkich kanałów</string>
-    <string name="category_desc_exact_tv_shows">program telewizyjny</string>
+    <string name="category_desc_exact_tv_shows">program TV</string>
     <string name="category_desc_tv_channel">Kanał TV</string>
     <string name="category_desc_from_fav">tylko treść z ulubionych kanałów</string>
     <string name="in_1_minute">za 1 minutę</string>
@@ -38,11 +38,11 @@
     <string name="error_this_video_requires_external_player">Ten film wymaga odtwarzacza zewnętrznego, aby uzyskać jak najlepszy rezultat</string>
     <string name="error_stream_not_reachable_no_connect">Strumień nie dostępny (nie można się połączyć). Skontaktuj się ze swoim dostawcą</string>
     <string name="error_stream_not_reachable_no_resource">Strumień nie dostępny. Skontaktuj się ze swoim dostawcą</string>
-    <string name="error_stream_not_reachable_forbidden">Odmowa dostępu (niepoprawny klucz?). Skontaktuj się ze swoim dostawcą</string>
+    <string name="error_stream_not_reachable_forbidden">Odmowa dostępu (nieprawidłowy klucz?). Skontaktuj się ze swoim dostawcą</string>
     <string name="error_archive_not_supported_this_channel">Twój dostawca nie udostępnia archiwów dla tego kanału</string>
-    <string name="error_search_nothing_found">Nic nie znaleziono</string>
-    <string name="error_require_file_permission_grant_and_try_again">Wymagany dostęp do pamięci. Zapewnij dostęp i ponów operację</string>
-    <string name="info_teleguide_loaded">Załadowano Przewodnik TV (EPG): wpisy</string>
+    <string name="error_search_nothing_found">Nic nie pasuje do wyszukiwanego hasła</string>
+    <string name="error_require_file_permission_grant_and_try_again">Wymagany jest dostęp do pamięci. Zapewnij dostęp i ponów próbę</string>
+    <string name="info_teleguide_loaded">Wczytany Teleprzewodnik (EPG): wpisy</string>
     <string name="player_menu_select_channel_title">Kolejny kanał</string>
     <string name="player_menu_select_archive_title">Kolejne wideo</string>
     <string name="player_menu_set_pause_on_title">Wstrzymaj odtwarzanie</string>
@@ -56,11 +56,11 @@
     <string name="player_menu_aspect_ratio_fit_details">Dopasuj do ekranu</string>
     <string name="player_menu_aspect_ratio_fill_details">Wypełnij do szerokości</string>
     <string name="player_menu_aspect_ratio_zoom_details">Powiększ do ekranu</string>
-    <string name="player_menu_aspect_ratio_zoom_in_details">powiększ poza ekran (przytnij część)</string>
+    <string name="player_menu_aspect_ratio_zoom_in_details">pomniejsz poza ekran (przytnij część)</string>
     <string name="player_menu_favorite_on_details">Dodaj do Ulubionych</string>
     <string name="player_menu_favorite_off_details">Usuń z Ulubionych</string>
     <string name="player_menu_timeshift">Time Shift</string>
-    <string name="player_menu_timeshift_on_details">Uruchom ponownie wideo</string>
+    <string name="player_menu_timeshift_on_details">Zacznij od Nowa</string>
     <string name="player_menu_timeshift_off_details">Oglądaj na Żywo</string>
     <string name="player_menu_pip_title">Obraz w Obrazie</string>
     <string name="player_menu_pip_on_details">Wyjdź z Trybu Obrazu w Obrazie</string>
@@ -79,7 +79,7 @@
     <string name="hint_title">Wskazówka</string>
     <string name="hint_long_tap">Możesz przeciągnąć element listy, aby uzyskać rozszerzony opis (jeśli dotyczy).</string>
     <string name="hint_fav_sorting">Aplikacja sortuje kanały według częstotliwości oglądania. Kanały oznaczone jako ulubione zawsze będą znajdować się u góry. Możesz wyłączyć automatyczne sortowanie, włączając opcję kolejności kanałów dostawcy, jednak filtr ulubionych nie będzie dostępny.</string>
-    <string name="hint_video_codecs">Jeśli źródło źle gra, możesz spróbować zwiększyć rozmiar bufora w ustawieniach, przełączyć do innego dekodera strumieniowego (sprzęt lub oprogramowanie) lub jeśli coś się nie powiedzie, skonfiguruj, aby użyć zewnętrznego odtwarzacza do odtwarzania.</string>
+    <string name="hint_video_codecs">Jeśli źródło źle się odtwarza, możesz spróbować zwiększyć rozmiar bufora w ustawieniach, przełączyć do innego dekodera strumieniowego (sprzęt lub oprogramowanie) lub jeśli coś się nie powiedzie, skonfiguruj, aby użyć zewnętrznego odtwarzacza do odtwarzania.</string>
     <string name="hint_auto_turn_off">Możesz skonfigurować automatyczne wyłączanie strumienia po pewnym czasie bezczynności (przydatne w przypadku rozliczeń za minutę). Bezczynność oznacza brak działań gracza (na przykład: menu, szukanie, pauza itp.).</string>
     <string name="settings_provider_select_type_intro1">UWAGA: Do korzystania z tej aplikacji potrzebny jest dostawca usług OTT / IPTV.</string>
     <string name="settings_provider_select_type_intro2">Aplikacja działa tylko z listami dostarczonymi przez użytkownika.</string>
@@ -94,7 +94,7 @@
     <string name="future_show_sheet_search_none">Ten film nie został znaleziony w archiwach dostawcy</string>
     <string name="notify_live_sheet_title">Film oznaczony do obejrzenia jest już dostępny online</string>
     <string name="notify_live_sheet_text">Przełącz, aby wyświetlić wideo</string>
-    <string name="feature_requires_premium">Ta funkcja wymaga subskrybcji</string>
+    <string name="feature_requires_premium">Ta funkcja wymaga subskrypcji</string>
     <string name="feature_requires_restart">Wymagane jest ponowne uruchomienie aplikacji</string>
     <string name="no_teleguide">Brak informacji o programie</string>
     <string name="vod_root_title_playlist">Niestandardowa playlista</string>
@@ -112,7 +112,7 @@
     <string name="settings_media_library_dnla">Skanuj źródła UPnP / DLNA w sieci lokalnej</string>
     <string name="settings_player">Odtwarzacz</string>
     <string name="settings_player_hide_ui">Ukryj interfejs użytkownika podczas odtwarzania</string>
-    <string name="settings_player_resize_mode">Tryb Skali Wideo</string>
+    <string name="settings_player_resize_mode">Tryb Rozciągania obrazu</string>
     <string name="settings_player_resize_mode_fit">Dopasuj do ekranu</string>
     <string name="settings_player_resize_mode_fill">Rozszerz do szerokości ekranu</string>
     <string name="settings_player_resize_mode_zoom">Powiększ do ekranu</string>
@@ -138,8 +138,8 @@
     <string name="settings_external_player">Odtwarzacz Zewnętrzny (domyślny)</string>
     <string name="settings_premium">Subskrypcja</string>
     <string name="settings_premium_source_purchase">Zakupiono Premium</string>
-    <string name="settings_premium_source_subscription">Subkrybcja Premium</string>
-    <string name="settings_premium_source_unknown">Brak subkrybcji Premium</string>
+    <string name="settings_premium_source_subscription">Subskrypcja Premium</string>
+    <string name="settings_premium_source_unknown">Brak Subskrypcji Premium</string>
     <string name="settings_premium_what_included">Dowiedz się więcej o funkcjach premium …</string>
     <string name="settings_premium_what_included_1">Tryb Obrazu w Obrazie podczas oglądania transmisji na żywo</string>
     <string name="settings_premium_what_included_3">Automatyczne przełączanie szybkości klatek, aby dopasować wideo</string>
@@ -258,7 +258,7 @@
     <string name="cfg_no_hints">Nie pokazuj wskazówek</string>
     <string name="child_mode_unlock_cfg">Wprowadź kod dziecka, aby odblokować ustawienia</string>
     <string name="cfg_child_mode">Tryb Dziecka</string>
-    <string name="cfg_child_mode_number">Kod, aby opuścić tryb potomny (4 cyfry)</string>
+    <string name="cfg_child_mode_number">Kod, aby opuścić tryb dziecka (4 cyfry)</string>
     <string name="cfg_play_deny_status">Nie pokazuj statusu strumienia</string>
     <string name="cfg_player_hud">Styl Interfejsu Heads-Up (opis programu TV)</string>
     <string name="cfg_player_hud_1">Góra i Dół</string>
@@ -284,9 +284,9 @@
     <string name="provider_field_server">Serwer</string>
     <string name="provider_field_active">Aktywny</string>
     <string name="cfg_prov_categories_merge">Kategorie od różnych dostawców</string>
-    <string name="cfg_prov_categories_merge_prepend">Dodaj nazwę Dostawcy do nazwy Kategorii</string>
+    <string name="cfg_prov_categories_merge_prepend">Dodaj Nazwę Dostawcy przed Nazwą Kategorii</string>
     <string name="cfg_prov_categories_merge_mix">Scal kategorie, jeśli nazwa pasuje</string>
-    <string name="cfg_prov_categories_merge_append">Dodaj nazwę Dostawcy do nazwy Kategorii</string>
+    <string name="cfg_prov_categories_merge_append">Dodaj Nazwę Dostawcy po Nazwie Kategorii</string>
     <string name="cfg_codec_exo_q">Jakość kodeków sprzętowych</string>
     <string name="cfg_codec_exo_max">Automatycznie</string>
     <string name="cfg_codec_exo_compat">Tryb zgodności</string>
@@ -547,7 +547,7 @@
     <string name="random_choice">Losowy Wybór</string>
     <string name="today">dzisiaj</string>
     <string name="tiny_cards">Najmniejsze karty</string>
-    <string name="action_with_multiple_channels">Działanie z Wieloma Kkanałami w Kategorii</string>
+    <string name="action_with_multiple_channels">Działanie z Wieloma Kanałami w Kategorii</string>
     <string name="select_from_gallery">Wybierz z Galerii</string>
     <string name="show_info_before_vod">Pokaż informacje przed uruchomieniem wideo</string>
     <string name="premium_note_dev">Subskrypcja premium pomaga ulepszać i wspierać aplikację</string>
@@ -586,7 +586,7 @@
     <string name="font_size_sm">Mała</string>
     <string name="font_size_lr">Duża</string>
     <string name="font_size_hg">Olbrzymia</string>
-    <string name="font_size_gi">Giant (może ukryć niektóre opcje wyświetlania)</string>
+    <string name="font_size_gi">Gigant (może ukryć niektóre opcje wyświetlania)</string>
     <string name="max_results_to_show">Maksymalna Liczba Wyników, które mają zostać wyświetlone</string>
     <string name="set_scale_x">Ustaw niestandardowe skalowanie współrzędnych X.</string>
     <string name="record_activity_history">Zapisuj historię aktywności</string>
@@ -628,7 +628,7 @@
     <string name="change_image">Zmień Obraz</string>
     <string name="also_allow_in_recommendations">Zezwalaj również w rekomendacjach</string>
     <string name="text_shadow_sz">Rozmiar cienia tekstu</string>
-    <string name="text_width_sz">Rozmiar tekstu</string>
+    <string name="text_width_sz">Styl tekstu</string>
     <string name="text_narrow">Wąski tekst</string>
     <string name="text_normal">Zwykły tekst</string>
     <string name="text_bold">Pogrubiony tekst</string>
@@ -636,7 +636,7 @@
     <string name="text_style">Styl tekstu</string>
     <string name="mark_all_visible">Oznacz wszystko jako Widoczne</string>
     <string name="mark_all_hidden">Oznacz wszystko jako Ukryte</string>
-    <string name="streams_just_started">Transmisje Rozpoczęte Teraz</string>
+    <string name="streams_just_started">Rozpoczęte Teraz</string>
     <string name="auto_number_fav_channels">Przypisz automatyczne numery do Ulubionych Kanałów</string>
     <string name="max_epg_history_to_keep">Maks. dni do zapamiętania (ogranicza dostępność archiwum)</string>
     <string name="vertical_gallery_view">Pionowy widok galerii</string>
@@ -652,7 +652,7 @@
     <string name="use_future_in_search">Użyj przyszłych rekordów w wyszukiwaniu</string>
     <string name="email_address">Adres e-mail</string>
     <string name="password">Hasło</string>
-    <string name="btn_login">Zaloguj sie</string>
+    <string name="btn_login">Zaloguj się</string>
     <string name="btn_register">Zapisz się</string>
     <string name="add_device">Dodaj urządzenie</string>
     <string name="claim_purchase">Odbierz zakup</string>
@@ -667,17 +667,17 @@
     <string name="select_preset">Wybierz ustawienie wstępne</string>
     <string name="use_cyclic_category_navigation">Włącz cykliczną nawigację między kategoriami</string>
     <string name="ask_add_pwd_to_protect_data">Czy chcesz dodać hasło, aby chronić dane?</string>
-    <string name="use2click_mode_in_preview">Rozpocznij podgląd wideo tylko po kliknięciu. Drugie kliknięcie rozpocznie odtwarzanie kanału na pełnym ekranie.</string>
+    <string name="use2click_mode_in_preview">Rozpocznij podgląd wideo tylko po kliknięciu. Dwuklik rozpocznie odtwarzanie kanału na pełnym ekranie.</string>
     <string name="clear_modifications">Wyczyść wszystkie modyfikacje i przywróć oryginalny stan</string>
     <string name="save_load_to_user_url">Użyj serwera dostarczonego przez użytkownika do przechowywania danych</string>
     <string name="action_complete">Akcja zakończona</string>
-    <string name="use_always_if_possible">Należy używać zawsze, jeśli to możliwe</string>
+    <string name="use_always_if_possible">Używaj zawsze, jeśli to możliwe</string>
     <string name="try_pin_activation">Czy chcesz skorzystać z aktywacji PIN?</string>
-    <string name="finger_controller">Widżet sterowania palcami</string>
-    <string name="fine_tune_text_for_fields">Dostosuj kolor tekstu dla dokładnych pól</string>
-    <string name="field_name_of_tv_channel">Nazwa kanału telewizyjnego</string>
+    <string name="finger_controller">Widżet sterowania palcem</string>
+    <string name="fine_tune_text_for_fields">Dostosuj kolory tekstu dla poszczególnych pól</string>
+    <string name="field_name_of_tv_channel">Nazwa kanału TV</string>
     <string name="field_name_of_tv_show">Nazwa aktualnej audycji</string>
-    <string name="cfg_play_deny_hud_on_update">Nie wyświetlaj komunikatów przeziernych podczas aktualizacji transmisji</string>
+    <string name="cfg_play_deny_hud_on_update">Nie pokazuj wyskakującego okna podczas aktualizacji transmisji</string>
     <string name="provider_reports_sub_expired">Twój dostawca zgłasza, że Twoja subskrypcja wygasła.</string>
     <string name="btn_ignore">Ignorować</string>
     <string name="use_vertical_view_on_phone">Użyj widoku pionowego na telefonie</string>
@@ -688,4 +688,5 @@
     <string name="retry">Spróbować ponownie</string>
     <string name="undo">Przywróć zmiany</string>
     <string name="set_for_phone">Ustaw zalecaną konfigurację dla telefonów</string>
+    <string name="trust_these_sources">Zaufaj tym źródłom</string>
     </resources>

@@ -737,4 +737,5 @@
     <string name="retry">"다시 해 보다"</string>
     <string name="undo">"변경 사항 되돌리기"</string>
     <string name="set_for_phone">"휴대전화에 권장 설정 설정"</string>
+    <string name="trust_these_sources">"이 출처를 신뢰하십시오."</string>
     </resources>

@@ -734,4 +734,5 @@
     <string name="retry">Cuba semula</string>
     <string name="undo">Kembalikan perubahan</string>
     <string name="set_for_phone">Tetapkan persediaan yang disyorkan untuk telefon</string>
+    <string name="trust_these_sources">Percayalah sumber-sumber ini</string>
     </resources>

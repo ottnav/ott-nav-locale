@@ -735,4 +735,5 @@
     <string name="retry">リトライ</string>
     <string name="undo">変更を元に戻す</string>
     <string name="set_for_phone">電話の推奨セットアップを設定する</string>
+    <string name="trust_these_sources">これらの情報源を信頼してください</string>
     </resources>
