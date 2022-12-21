@@ -52,7 +52,6 @@
     <string name="info_teleguide_loaded">Lịch phát sóng điện tử (EPG) đã tải: records</string>
 
     <string name="player_menu_select_channel_title">Kênh khác</string>
-    <string name="player_menu_select_archive_title">Video khác</string>
     <string name="player_menu_set_pause_on_title">Tạm dừng</string>
     <string name="player_menu_set_pause_off_title">Tiếp tục</string>
     <string name="player_menu_set_pause_on_details">đang phát</string>
@@ -728,4 +727,5 @@
     <string name="undo">Thay đổi nhanh</string>
     <string name="set_for_phone">Đặt thiết lập được đề xuất cho điện thoại</string>
     <string name="trust_these_sources">Tin tưởng những nguồn này</string>
+    <string name="release_date">Ngày phát hành</string>
     </resources>

@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Tallennustilan käyttöoikeus vaaditaan. Anna käyttöoikeus ja yritä toimintoa uudelleen</string>
     <string name="info_teleguide_loaded">Teleguide (EPG) ladattu: tietueet</string>
     <string name="player_menu_select_channel_title">Toinen kanava</string>
-    <string name="player_menu_select_archive_title">Toinen video</string>
     <string name="player_menu_set_pause_on_title">Keskeytä toisto</string>
     <string name="player_menu_set_pause_off_title">Jatka toistoa</string>
     <string name="player_menu_set_pause_on_details">pelaaminen</string>
@@ -689,4 +688,5 @@
     <string name="undo">Palauta muutokset</string>
     <string name="set_for_phone">Aseta suositellut asetukset puhelimille</string>
     <string name="trust_these_sources">Luota näihin lähteisiin</string>
+    <string name="release_date">Julkaisupäivä</string>
     </resources>

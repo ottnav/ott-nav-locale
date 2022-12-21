@@ -43,7 +43,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Tárhely-hozzáférés szükséges. Adjon hozzáférést, és próbálja újra a műveletet</string>
     <string name="info_teleguide_loaded">Teleguide (EPG) betöltve: rekordok</string>
     <string name="player_menu_select_channel_title">Egy másik csatorna</string>
-    <string name="player_menu_select_archive_title">Újabb videó</string>
     <string name="player_menu_set_pause_on_title">Lejátszás szüneteltetése</string>
     <string name="player_menu_set_pause_off_title">Lejátszás folytatása</string>
     <string name="player_menu_set_pause_on_details">játszik</string>
@@ -688,4 +687,5 @@
     <string name="undo">Változtatások visszaállítása</string>
     <string name="set_for_phone">Javasolt beállítások megadása telefonokhoz</string>
     <string name="trust_these_sources">Bízzon ezekben a forrásokban</string>
+    <string name="release_date">Kiadási dátum</string>
     </resources>

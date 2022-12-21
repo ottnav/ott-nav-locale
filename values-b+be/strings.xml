@@ -52,7 +52,6 @@
     <string name="info_teleguide_loaded">Праграма перадач (EPG) загружана: запісаў</string>
 
     <string name="player_menu_select_channel_title">Іншы канал</string>
-    <string name="player_menu_select_archive_title">Іншае відэа</string>
     <string name="player_menu_set_pause_on_title">Паставіць паўзу</string>
     <string name="player_menu_set_pause_off_title">Працягнуць прагляд</string>
     <string name="player_menu_set_pause_on_details">прайграецца</string>
@@ -729,4 +728,5 @@
     <string name="undo">Вярнуць змены</string>
     <string name="set_for_phone">Усталюйце рэкамендаваныя налады для тэлефонаў</string>
     <string name="trust_these_sources">Давярайце гэтым крыніцам</string>
+    <string name="release_date">Дата выпуску</string>
     </resources>

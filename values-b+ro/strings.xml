@@ -43,7 +43,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Accesul la stocare este necesar. Oferiți un acces și încercați din nou operațiunea</string>
     <string name="info_teleguide_loaded">Teleguide (EPG) încărcate: înregistrări</string>
     <string name="player_menu_select_channel_title">Un alt canal</string>
-    <string name="player_menu_select_archive_title">Un alt videoclip</string>
     <string name="player_menu_set_pause_on_title">Întrerupeți redarea</string>
     <string name="player_menu_set_pause_off_title">Reluați redarea</string>
     <string name="player_menu_set_pause_on_details">joc</string>
@@ -688,4 +687,5 @@
     <string name="undo">Reveniți modificările</string>
     <string name="set_for_phone">Setați configurația recomandată pentru telefoane</string>
     <string name="trust_these_sources">Aveți încredere în aceste surse</string>
+    <string name="release_date">Data eliberării</string>
     </resources>

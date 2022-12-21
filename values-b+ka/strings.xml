@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">საჭიროა საცავის წვდომა. მიეცით წვდომა და ხელახლა სცადეთ ოპერაცია</string>
     <string name="info_teleguide_loaded">Teleguide (EPG) დატვირთულია: ჩანაწერები</string>
     <string name="player_menu_select_channel_title">კიდევ ერთი არხი</string>
-    <string name="player_menu_select_archive_title">კიდევ ერთი ვიდეო</string>
     <string name="player_menu_set_pause_on_title">დაკვრის პაუზა</string>
     <string name="player_menu_set_pause_off_title">განაახლეთ დაკვრა</string>
     <string name="player_menu_set_pause_on_details">თამაშობს</string>
@@ -689,4 +688,5 @@
     <string name="undo">ცვლილებების დაბრუნება</string>
     <string name="set_for_phone">ტელეფონებისთვის რეკომენდებული დაყენების დაყენება</string>
     <string name="trust_these_sources">ენდეთ ამ წყაროებს</string>
+    <string name="release_date">Გამოშვების თარიღი</string>
     </resources>

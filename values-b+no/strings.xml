@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Lagringstilgang er nødvendig. Gi tilgang og prøv operasjonen på nytt</string>
     <string name="info_teleguide_loaded">Teleguide (EPG) lastet: poster</string>
     <string name="player_menu_select_channel_title">En annen kanal</string>
-    <string name="player_menu_select_archive_title">En annen video</string>
     <string name="player_menu_set_pause_on_title">Sett avspilling på pause</string>
     <string name="player_menu_set_pause_off_title">Gjenoppta avspilling</string>
     <string name="player_menu_set_pause_on_details">spiller</string>
@@ -689,4 +688,5 @@
     <string name="undo">Tilbakestill endringer</string>
     <string name="set_for_phone">Angi anbefalt oppsett for telefoner</string>
     <string name="trust_these_sources">Stol på disse kildene</string>
+    <string name="release_date">Utgivelsesdato</string>
     </resources>

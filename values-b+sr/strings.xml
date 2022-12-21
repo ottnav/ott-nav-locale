@@ -52,7 +52,6 @@
     <string name="info_teleguide_loaded">Teletekst (EPG) učitan: zapisa</string>
 
     <string name="player_menu_select_channel_title">Drugi kanal</string>
-    <string name="player_menu_select_archive_title">Drugi video</string>
     <string name="player_menu_set_pause_on_title">Pauziraj reprodukciju</string>
     <string name="player_menu_set_pause_off_title">Nastavi reprodukciju</string>
     <string name="player_menu_set_pause_on_details">reprodukcija</string>
@@ -729,4 +728,5 @@
     <string name="undo">Врати промене</string>
     <string name="set_for_phone">Подесите препоручено подешавање за телефоне</string>
     <string name="trust_these_sources">Верујте овим изворима</string>
+    <string name="release_date">Датум изласка</string>
     </resources>

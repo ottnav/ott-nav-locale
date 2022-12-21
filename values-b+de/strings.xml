@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Speicherzugriff ist gesperrt. Geben Sie Zugriff frei und wiederholen Sie den Vorgang</string>
     <string name="info_teleguide_loaded">Programmführer (EPG) geladen: Datensätze</string>
     <string name="player_menu_select_channel_title">Ein anderer Sender</string>
-    <string name="player_menu_select_archive_title">Ein anderes Video</string>
     <string name="player_menu_set_pause_on_title">Wiedergabe anhalten</string>
     <string name="player_menu_set_pause_off_title">Fortsetzen der Wiedergabe</string>
     <string name="player_menu_set_pause_on_details">Wiedergabe läuft</string>
@@ -689,4 +688,5 @@
     <string name="undo">Änderungen rückgängig machen</string>
     <string name="set_for_phone">Legen Sie die empfohlene Einrichtung für Telefone fest</string>
     <string name="trust_these_sources">Vertrauen Sie diesen Quellen</string>
+    <string name="release_date">Veröffentlichungsdatum</string>
     </resources>

@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Wymagany jest dostęp do pamięci. Zapewnij dostęp i ponów próbę</string>
     <string name="info_teleguide_loaded">Wczytany Teleprzewodnik (EPG): wpisy</string>
     <string name="player_menu_select_channel_title">Kolejny kanał</string>
-    <string name="player_menu_select_archive_title">Kolejne wideo</string>
     <string name="player_menu_set_pause_on_title">Wstrzymaj odtwarzanie</string>
     <string name="player_menu_set_pause_off_title">Wznów odtwarzanie</string>
     <string name="player_menu_set_pause_on_details">odtwarzanie</string>
@@ -689,4 +688,5 @@
     <string name="undo">Przywróć zmiany</string>
     <string name="set_for_phone">Ustaw zalecaną konfigurację dla telefonów</string>
     <string name="trust_these_sources">Zaufaj tym źródłom</string>
+    <string name="release_date">Data wydania</string>
     </resources>

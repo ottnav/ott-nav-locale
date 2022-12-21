@@ -52,7 +52,6 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) loaded: records</string>
 
     <string name="player_menu_select_channel_title">Another channel</string>
-    <string name="player_menu_select_archive_title">Another video</string>
     <string name="player_menu_set_pause_on_title">Pause playback</string>
     <string name="player_menu_set_pause_off_title">Resume playback</string>
     <string name="player_menu_set_pause_on_details">playing</string>
@@ -731,4 +730,5 @@
     <string name="undo">Revert changes</string>
     <string name="set_for_phone">Set recommended setup for phones</string>
     <string name="trust_these_sources">Trust these sources</string>
+    <string name="release_date">Release date</string>
 </resources>

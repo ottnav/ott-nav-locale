@@ -57,7 +57,6 @@
     <string name="info_teleguide_loaded">Guia de programação (EPG) carregada: registros</string>
 
     <string name="player_menu_select_channel_title">Outro canal</string>
-    <string name="player_menu_select_archive_title">Outro vídeo</string>
     <string name="player_menu_set_pause_on_title">Pausar a reprodução</string>
     <string name="player_menu_set_pause_off_title">Continuar a reprodução</string>
     <string name="player_menu_set_pause_on_details">executando</string>
@@ -735,4 +734,5 @@
     <string name="undo">Reverter alterações</string>
     <string name="set_for_phone">Definir configuração recomendada para telefones</string>
     <string name="trust_these_sources">Confie nessas fontes</string>
+    <string name="release_date">Data de lançamento</string>
     </resources>

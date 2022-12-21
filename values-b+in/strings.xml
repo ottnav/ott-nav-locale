@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Akses penyimpanan diperlukan. Berikan akses dan coba operasi lagi</string>
     <string name="info_teleguide_loaded">Teleguide (EPG) dimuat: catatan</string>
     <string name="player_menu_select_channel_title">Saluran lain</string>
-    <string name="player_menu_select_archive_title">Video lain</string>
     <string name="player_menu_set_pause_on_title">Jeda pemutaran</string>
     <string name="player_menu_set_pause_off_title">Lanjutkan pemutaran</string>
     <string name="player_menu_set_pause_on_details">bermain</string>
@@ -689,4 +688,5 @@
     <string name="undo">Kembalikan perubahan</string>
     <string name="set_for_phone">Setel penyiapan yang disarankan untuk ponsel</string>
     <string name="trust_these_sources">Percayai sumber-sumber ini</string>
+    <string name="release_date">Tanggal rilis</string>
     </resources>

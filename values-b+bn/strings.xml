@@ -57,7 +57,6 @@
     <string name="info_teleguide_loaded">Teleguide (ইপিজি) লোড: রেকর্ড</string>
 
     <string name="player_menu_select_channel_title">আরেকটি চ্যানেল</string>
-    <string name="player_menu_select_archive_title">আরেকটি ভিডিও</string>
     <string name="player_menu_set_pause_on_title">প্লেব্যাক বিরতি</string>
     <string name="player_menu_set_pause_off_title">প্লেব্যাক পুনরায় শুরু করুন</string>
     <string name="player_menu_set_pause_on_details">কেলি</string>
@@ -737,4 +736,5 @@
     <string name="undo">পরিবর্তনগুলি প্রত্যাবর্তন করুন</string>
     <string name="set_for_phone">ফোনের জন্য প্রস্তাবিত সেটআপ সেট করুন</string>
     <string name="trust_these_sources">এই উত্সগুলি বিশ্বাস করুন</string>
+    <string name="release_date">মুক্তির তারিখ</string>
     </resources>

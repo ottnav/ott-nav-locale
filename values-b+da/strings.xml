@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Lageradgang er påkrævet. Giv en adgang, og prøv handlingen igen</string>
     <string name="info_teleguide_loaded">Teleguide (EPG) indlæst: poster</string>
     <string name="player_menu_select_channel_title">Endnu en kanal</string>
-    <string name="player_menu_select_archive_title">Endnu en video</string>
     <string name="player_menu_set_pause_on_title">Sæt afspilning på pause</string>
     <string name="player_menu_set_pause_off_title">Genoptag afspilning</string>
     <string name="player_menu_set_pause_on_details">spiller</string>
@@ -689,4 +688,5 @@
     <string name="undo">Tilbagefør ændringer</string>
     <string name="set_for_phone">Indstil anbefalet opsætning til telefoner</string>
     <string name="trust_these_sources">Stol på disse kilder</string>
+    <string name="release_date">Udgivelses dato</string>
     </resources>

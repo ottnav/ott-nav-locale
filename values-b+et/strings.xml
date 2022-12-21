@@ -52,7 +52,6 @@
     <string name="info_teleguide_loaded">Teleguid (EPG) laaditakse: kirjed</string>
 
     <string name="player_menu_select_channel_title">Teine kanal</string>
-    <string name="player_menu_select_archive_title">Teine video</string>
     <string name="player_menu_set_pause_on_title">Peatage taasesitus</string>
     <string name="player_menu_set_pause_off_title">Taasesituse jätkamine</string>
     <string name="player_menu_set_pause_on_details">mängides</string>
@@ -735,4 +734,5 @@
     <string name="undo">Muudatuste ennistamine</string>
     <string name="set_for_phone">Määrake telefonide jaoks soovitatav seadistus</string>
     <string name="trust_these_sources">Usaldage neid allikaid</string>
+    <string name="release_date">Väljalaske kuupäev</string>
     </resources>

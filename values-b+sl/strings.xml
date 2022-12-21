@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Potreben je dostop do shrambe. Zagotovite dostop in ponovite operacijo</string>
     <string name="info_teleguide_loaded">Televodnik (EPG) naložen: zapisi</string>
     <string name="player_menu_select_channel_title">Še en kanal</string>
-    <string name="player_menu_select_archive_title">Še en video</string>
     <string name="player_menu_set_pause_on_title">Začasno ustavite predvajanje</string>
     <string name="player_menu_set_pause_off_title">Nadaljevanje predvajanja</string>
     <string name="player_menu_set_pause_on_details">igranje</string>
@@ -689,4 +688,5 @@
     <string name="undo">Razveljavi spremembe</string>
     <string name="set_for_phone">Nastavite priporočeno nastavitev za telefone</string>
     <string name="trust_these_sources">Zaupajte tem virom</string>
+    <string name="release_date">Datum izdaje</string>
     </resources>

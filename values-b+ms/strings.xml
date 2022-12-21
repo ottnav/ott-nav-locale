@@ -57,7 +57,6 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) dimuatkan: rekod</string>
 
     <string name="player_menu_select_channel_title">Saluran yang lain</string>
-    <string name="player_menu_select_archive_title">Satu lagi video</string>
     <string name="player_menu_set_pause_on_title">Jeda main balik</string>
     <string name="player_menu_set_pause_off_title">Sambung semula main semula</string>
     <string name="player_menu_set_pause_on_details">bermain</string>
@@ -735,4 +734,5 @@
     <string name="undo">Kembalikan perubahan</string>
     <string name="set_for_phone">Tetapkan persediaan yang disyorkan untuk telefon</string>
     <string name="trust_these_sources">Percayalah sumber-sumber ini</string>
+    <string name="release_date">Tarikh keluaran</string>
     </resources>

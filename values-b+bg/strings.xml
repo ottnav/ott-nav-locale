@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Изисква се достъп за съхранение. Осигурете достъп и опитайте отново</string>
     <string name="info_teleguide_loaded">Зареден телегид (EPG): записи</string>
     <string name="player_menu_select_channel_title">Друг канал</string>
-    <string name="player_menu_select_archive_title">Още едно видео</string>
     <string name="player_menu_set_pause_on_title">Пауза възпроизвеждане</string>
     <string name="player_menu_set_pause_off_title">Възобновяване на възпроизвеждането</string>
     <string name="player_menu_set_pause_on_details">Възпроизвеждане</string>
@@ -689,4 +688,5 @@
     <string name="undo">Възстановяване на промените</string>
     <string name="set_for_phone">Задайте препоръчителна настройка за телефони</string>
     <string name="trust_these_sources">Доверете се на тези източници</string>
+    <string name="release_date">Дата на излизане</string>
     </resources>

@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Potreban je pristup skladištu. Omogućite pristup i ponovite operaciju</string>
     <string name="info_teleguide_loaded">Televodič (EPG) učitan: zapisi</string>
     <string name="player_menu_select_channel_title">Drugi kanal</string>
-    <string name="player_menu_select_archive_title">Još jedan video</string>
     <string name="player_menu_set_pause_on_title">Pauzirajte reprodukciju</string>
     <string name="player_menu_set_pause_off_title">Nastavite reprodukciju</string>
     <string name="player_menu_set_pause_on_details">igranje</string>
@@ -689,4 +688,5 @@
     <string name="set_for_phone">Postavite preporučeno podešavanje za telefone</string>
     <string name="cast">Cast</string>
     <string name="trust_these_sources">Vjerujte ovim izvorima</string>
+    <string name="release_date">Datum izdavanja</string>
     </resources>

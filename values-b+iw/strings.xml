@@ -57,7 +57,6 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) טעון: רשומות</string>
 
     <string name="player_menu_select_channel_title">ערוץ נוסף</string>
-    <string name="player_menu_select_archive_title">סרטון נוסף</string>
     <string name="player_menu_set_pause_on_title">השהה את ההשמעה</string>
     <string name="player_menu_set_pause_off_title">לחדש את ההשמעה</string>
     <string name="player_menu_set_pause_on_details">משחק</string>
@@ -735,4 +734,5 @@
     <string name="undo">םייוניש רזחה</string>
     <string name="set_for_phone">םינופלטל תצלמומ הרדגה רדגה</string>
     <string name="trust_these_sources">הלאה תורוקמה לע ךומס</string>
+    <string name="release_date">האצוה ךיראת</string>
     </resources>

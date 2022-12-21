@@ -43,7 +43,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Je vyžadován přístup k úložišti. Poskytněte přístup a akci opakujte</string>
     <string name="info_teleguide_loaded">Načteno Teleguide (EPG): záznamy</string>
     <string name="player_menu_select_channel_title">Další kanál</string>
-    <string name="player_menu_select_archive_title">Další video</string>
     <string name="player_menu_set_pause_on_title">Pozastavte přehrávání</string>
     <string name="player_menu_set_pause_off_title">Obnovte přehrávání</string>
     <string name="player_menu_set_pause_on_details">hraní</string>
@@ -688,4 +687,5 @@
     <string name="undo">Vrátit změny</string>
     <string name="set_for_phone">Nastavte doporučené nastavení pro telefony</string>
     <string name="trust_these_sources">Věřte těmto zdrojům</string>
+    <string name="release_date">Datum vydání</string>
     </resources>

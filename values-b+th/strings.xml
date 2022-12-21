@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">จำเป็นต้องเข้าถึงที่เก็บข้อมูล ให้สิทธิ์เข้าถึงและลองดำเนินการอีกครั้ง</string>
     <string name="info_teleguide_loaded">เทเลไกด์ (EPG) โหลดแล้ว: บันทึก</string>
     <string name="player_menu_select_channel_title">อีกหนึ่งช่องทาง</string>
-    <string name="player_menu_select_archive_title">วิดีโออื่น</string>
     <string name="player_menu_set_pause_on_title">หยุดเล่นชั่วคราว</string>
     <string name="player_menu_set_pause_off_title">เล่นต่อ</string>
     <string name="player_menu_set_pause_on_details">กำลังเล่น</string>
@@ -689,4 +688,5 @@
     <string name="undo">ย้อนกลับการเปลี่ยนแปลง</string>
     <string name="set_for_phone">ตั้งค่าที่แนะนำสำหรับโทรศัพท์</string>
     <string name="trust_these_sources">เชื่อถือแหล่งข้อมูลเหล่านี้</string>
+    <string name="release_date">วันที่วางจำหน่าย</string>
     </resources>

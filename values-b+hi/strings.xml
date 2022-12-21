@@ -57,7 +57,6 @@
     <string name="info_teleguide_loaded">टेलीगूइड (ईपीजी) लोड: रिकॉर्ड</string>
 
     <string name="player_menu_select_channel_title">एक और चैनल</string>
-    <string name="player_menu_select_archive_title">एक और वीडियो</string>
     <string name="player_menu_set_pause_on_title">प्लेबैक रोकें</string>
     <string name="player_menu_set_pause_off_title">प्लेबैक वापस चालू करें</string>
     <string name="player_menu_set_pause_on_details">खेल रहे हैं</string>
@@ -736,4 +735,5 @@
     <string name="undo">परिवर्तन वापस करें</string>
     <string name="set_for_phone">फ़ोन के लिए अनुशंसित सेटअप सेट करें</string>
     <string name="trust_these_sources">इन सूत्रों पर भरोसा करें</string>
+    <string name="release_date">रिलीज़ की तारीख</string>
     </resources>

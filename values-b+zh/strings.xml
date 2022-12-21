@@ -52,7 +52,6 @@
     <string name="info_teleguide_loaded">已导入：条节目单</string>
 
     <string name="player_menu_select_channel_title">换个频道</string>
-    <string name="player_menu_select_archive_title">换个视频</string>
     <string name="player_menu_set_pause_on_title">暂停播放</string>
     <string name="player_menu_set_pause_off_title">继续播放</string>
     <string name="player_menu_set_pause_on_details">播放中</string>
@@ -728,4 +727,5 @@
     <string name="undo">还原更改</string>
     <string name="set_for_phone">为手机设置推荐设置</string>
     <string name="trust_these_sources">相信这些来源</string>
+    <string name="release_date">发布日期</string>
     </resources>
