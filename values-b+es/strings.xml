@@ -57,7 +57,6 @@
     <string name="info_teleguide_loaded">Teleguía (EPG) cargada: registros</string>
 
     <string name="player_menu_select_channel_title">Otro canal</string>
-    <string name="player_menu_select_archive_title">Otro video</string>
     <string name="player_menu_set_pause_on_title">Pausar la reproducción</string>
     <string name="player_menu_set_pause_off_title">Reanudar la reproducción</string>
     <string name="player_menu_set_pause_on_details">reproduciendo</string>
@@ -732,4 +731,5 @@
     <string name="undo">Revertir cambios</string>
     <string name="set_for_phone">Establecer la configuración recomendada para teléfonos</string>
     <string name="trust_these_sources">Confía en estas fuentes</string>
+    <string name="release_date">Fecha de lanzamiento</string>
     </resources>

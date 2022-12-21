@@ -52,7 +52,6 @@
     <string name="info_teleguide_loaded">Telegāde (EPG) ielādēta: ieraksti</string>
 
     <string name="player_menu_select_channel_title">Vēl viens kanāls</string>
-    <string name="player_menu_select_archive_title">Vēl viens video</string>
     <string name="player_menu_set_pause_on_title">Pārtraukt atskaņošanu</string>
     <string name="player_menu_set_pause_off_title">Turpiniet atskaņošanu</string>
     <string name="player_menu_set_pause_on_details">spēlē</string>
@@ -734,4 +733,5 @@
     <string name="undo">Atsaukt izmaiņas</string>
     <string name="set_for_phone">Iestatiet tālruņiem ieteicamo iestatījumu</string>
     <string name="trust_these_sources">Uzticieties šiem avotiem</string>
+    <string name="release_date">Izdošanas datums</string>
     </resources>

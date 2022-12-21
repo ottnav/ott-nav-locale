@@ -729,4 +729,5 @@
     <string name="undo">Врати промене</string>
     <string name="set_for_phone">Подесите препоручено подешавање за телефоне</string>
     <string name="trust_these_sources">Верујте овим изворима</string>
-	</resources>
+    <string name="release_date">Датум изласка</string>
+    </resources>

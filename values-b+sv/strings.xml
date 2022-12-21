@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Lagringstillgång krävs. Ge åtkomst och försök igen operationen</string>
     <string name="info_teleguide_loaded">Teleguide (EPG) laddad: poster</string>
     <string name="player_menu_select_channel_title">En annan kanal</string>
-    <string name="player_menu_select_archive_title">En annan video</string>
     <string name="player_menu_set_pause_on_title">Pausa uppspelningen</string>
     <string name="player_menu_set_pause_off_title">Återuppta uppspelningen</string>
     <string name="player_menu_set_pause_on_details">Spelar</string>
@@ -689,4 +688,5 @@
     <string name="undo">Återställ ändringar</string>
     <string name="set_for_phone">Ställ in rekommenderad konfiguration för telefoner</string>
     <string name="trust_these_sources">Lita på dessa källor</string>
+    <string name="release_date">Utgivningsdatum</string>
     </resources>

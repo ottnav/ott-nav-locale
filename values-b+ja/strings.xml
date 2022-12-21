@@ -57,7 +57,6 @@
     <string name="info_teleguide_loaded">テレガイド（EPG）が読み込まれました：レコード</string>
 
     <string name="player_menu_select_channel_title">別のチャンネル</string>
-    <string name="player_menu_select_archive_title">もう一つのビデオ</string>
     <string name="player_menu_set_pause_on_title">再生を一時停止する</string>
     <string name="player_menu_set_pause_off_title">再生を再開する</string>
     <string name="player_menu_set_pause_on_details">遊ぶ</string>
@@ -736,4 +735,5 @@
     <string name="undo">変更を元に戻す</string>
     <string name="set_for_phone">電話の推奨セットアップを設定する</string>
     <string name="trust_these_sources">これらの情報源を信頼してください</string>
+    <string name="release_date">発売日</string>
     </resources>

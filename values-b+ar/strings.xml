@@ -57,7 +57,6 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) المحملة: السجلات</string>
 
     <string name="player_menu_select_channel_title">قناة أخرى</string>
-    <string name="player_menu_select_archive_title">فيديو آخر</string>
     <string name="player_menu_set_pause_on_title">إيقاف مؤقت للتشغيل</string>
     <string name="player_menu_set_pause_off_title">استئناف التشغيل</string>
     <string name="player_menu_set_pause_on_details">تلعب</string>
@@ -736,4 +735,5 @@
     <string name="undo">ﺓﺪﺗﺮﻤﻟﺍ ﺕﺍﺮﻴﻐﺘﻟﺍ</string>
     <string name="set_for_phone">ﻒﺗﺍﻮﻬﻠﻟ ﻪﺑ ﻰﺻﻮﻤﻟﺍ ﺩﺍﺪﻋﻹ﻿ﺍ ﻂﺒﺿﺍ</string>
     <string name="trust_these_sources">ﺭﺩﺎﺼﻤﻟﺍ ﻩﺬﻬﺑ ﻖﺛ</string>
+    <string name="release_date">ﻪﻨﻋ ﺝﺍﺮﻓﻻ﻿ﺍ ﺦﻳﺭﺎﺗ</string>
     </resources>

@@ -57,7 +57,6 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) yüklendi: kayıtlar</string>
 
     <string name="player_menu_select_channel_title">Başka bir kanal</string>
-    <string name="player_menu_select_archive_title">Başka bir video</string>
     <string name="player_menu_set_pause_on_title">Oynatmayı duraklat</string>
     <string name="player_menu_set_pause_off_title">Çalmaya devam et</string>
     <string name="player_menu_set_pause_on_details">oynama</string>
@@ -734,4 +733,5 @@
     <string name="undo">Değişiklikleri geri al</string>
     <string name="set_for_phone">Telefonlar için önerilen kurulumu ayarlayın</string>
     <string name="trust_these_sources">Bu kaynaklara güvenin</string>
+    <string name="release_date">Yayın tarihi</string>
     </resources>

@@ -52,7 +52,6 @@
     <string name="info_teleguide_loaded">Програму передач (EPG) завантажено: записи</string>
 
     <string name="player_menu_select_channel_title">Інший канал</string>
-    <string name="player_menu_select_archive_title">Інше відео</string>
     <string name="player_menu_set_pause_on_title">Призупинити відтворення</string>
     <string name="player_menu_set_pause_off_title">Відновити відтворення</string>
     <string name="player_menu_set_pause_on_details">відтворюється</string>
@@ -728,4 +727,5 @@
     <string name="undo">Скасувати зміни</string>
     <string name="set_for_phone">Установіть рекомендовані налаштування для телефонів</string>
     <string name="trust_these_sources">Довіряйте цим джерелам</string>
+    <string name="release_date">Дата випуску</string>
     </resources>

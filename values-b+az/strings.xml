@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Yaddaş girişi tələb olunur. Giriş təmin edin və əməliyyatı yenidən cəhd edin</string>
     <string name="info_teleguide_loaded">Telebələdçi (EPG) yükləndi: qeydlər</string>
     <string name="player_menu_select_channel_title">Başqa bir kanal</string>
-    <string name="player_menu_select_archive_title">Başqa bir video</string>
     <string name="player_menu_set_pause_on_title">Oxumağa fasilə verin</string>
     <string name="player_menu_set_pause_off_title">Oxumağa davam edin</string>
     <string name="player_menu_set_pause_on_details">oynayan</string>
@@ -689,4 +688,5 @@
     <string name="media_tracks_video">Video</string>
     <string name="media_tracks_audio">Audio</string>
     <string name="trust_these_sources">Bu mənbələrə etibar edin</string>
+    <string name="release_date">Buraxılış tarixi</string>
     </resources>

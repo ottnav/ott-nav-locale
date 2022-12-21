@@ -44,7 +44,6 @@
     <string name="error_require_file_permission_grant_and_try_again">Kërkohet akses në hapësirën ruajtëse. Jepni një akses dhe provoni sërish operacionin</string>
     <string name="info_teleguide_loaded">Teleguide (EPG) i ngarkuar: regjistrime</string>
     <string name="player_menu_select_channel_title">Një tjetër kanal</string>
-    <string name="player_menu_select_archive_title">Një tjetër video</string>
     <string name="player_menu_set_pause_on_title">Ndalo riprodhimin</string>
     <string name="player_menu_set_pause_off_title">Rifilloni riprodhimin</string>
     <string name="player_menu_set_pause_on_details">duke luajtur</string>
@@ -689,4 +688,5 @@
     <string name="undo">Rikthe ndryshimet</string>
     <string name="set_for_phone">Cakto konfigurimin e rekomanduar për telefonat</string>
     <string name="trust_these_sources">Besojuni këtyre burimeve</string>
+    <string name="release_date">Data e lëshimit</string>
     </resources>

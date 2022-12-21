@@ -57,7 +57,6 @@
     <string name="info_teleguide_loaded">Teleguide (EPG) بارگیری شده است: سوابق</string>
 
     <string name="player_menu_select_channel_title">کانال دیگر</string>
-    <string name="player_menu_select_archive_title">ویدیوی دیگر</string>
     <string name="player_menu_set_pause_on_title">پخش را متوقف کنید</string>
     <string name="player_menu_set_pause_off_title">بازخوانی پخش</string>
     <string name="player_menu_set_pause_on_details">بازی کردن</string>
@@ -736,4 +735,5 @@
     <string name="undo">ﺕﺍﺮﯿﯿﻐﺗ ﻥﺪﻧﺍﺩﺮﮔﺮﺑ</string>
     <string name="set_for_phone">ﺪﯿﻨﮐ ﻢﯿﻈﻨﺗ ﺍﺭ ﺎﻫ ﻦﻔﻠﺗ ﯼﺍﺮﺑ ﻩﺪﺷ ﻪﯿﺻﻮﺗ ﻢﯿﻈﻨﺗ</string>
     <string name="trust_these_sources">ﺪﯿﻨﮐ ﺩﺎﻤﺘﻋﺍ ﻊﺑﺎﻨﻣ ﻦﯾﺍ ﻪﺑ</string>
+    <string name="release_date">ﺭﺎﺸﺘﻧﺍ ﺦﯾﺭﺎﺗ</string>
     </resources>
