@@ -736,4 +736,7 @@
     <string name="set_for_phone">ﻒﺗﺍﻮﻬﻠﻟ ﻪﺑ ﻰﺻﻮﻤﻟﺍ ﺩﺍﺪﻋﻹ﻿ﺍ ﻂﺒﺿﺍ</string>
     <string name="trust_these_sources">ﺭﺩﺎﺼﻤﻟﺍ ﻩﺬﻬﺑ ﻖﺛ</string>
     <string name="release_date">ﻪﻨﻋ ﺝﺍﺮﻓﻻ﻿ﺍ ﺦﻳﺭﺎﺗ</string>
+    <string name="dirs_should_be_first">ﻻً﻿ﻭﺃ ﻞﺋﻻ﻿ﺪﻟﺍ ﺩﺮﺳ ﻢﺘﻳ ﻥﺃ ﺐﺠﻳ</string>
+    <string name="hide_password">ﺎﻬﻟﺎﺧﺩﺇ ﺪﻨﻋ ﺭﻭﺮﻤﻟﺍ ﺔﻤﻠﻛ ﺮﻬﻈﺗ ﻻ﻿</string>
+    <string name="clear_data_not_currently_used">ﺎﻴًﻟﺎﺣ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺮﻴﻏ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻑﺬﺣﺍ</string>
     </resources>

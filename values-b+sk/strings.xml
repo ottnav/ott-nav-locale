@@ -689,4 +689,7 @@
     <string name="set_for_phone">Nastavte odporúčané nastavenie pre telefóny</string>
     <string name="trust_these_sources">Dôverujte týmto zdrojom</string>
     <string name="release_date">Dátum vydania</string>
+    <string name="dirs_should_be_first">Adresáre by mali byť uvedené ako prvé</string>
+    <string name="hide_password">Pri zadávaní hesla nezobrazovať</string>
+    <string name="clear_data_not_currently_used">Vymažte údaje, ktoré sa momentálne nepoužívajú</string>
     </resources>

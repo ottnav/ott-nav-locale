@@ -738,4 +738,7 @@
     <string name="set_for_phone">"휴대전화에 권장 설정 설정"</string>
     <string name="trust_these_sources">"이 출처를 신뢰하십시오."</string>
     <string name="release_date">출시일</string>
+    <string name="dirs_should_be_first">"디렉토리가 먼저 나열되어야 합니다."</string>
+    <string name="hide_password">"비밀번호를 입력할 때 표시하지 않음"</string>
+    <string name="clear_data_not_currently_used">"현재 사용하지 않는 데이터 삭제"</string>
     </resources>

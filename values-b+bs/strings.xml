@@ -689,4 +689,7 @@
     <string name="cast">Cast</string>
     <string name="trust_these_sources">Vjerujte ovim izvorima</string>
     <string name="release_date">Datum izdavanja</string>
+    <string name="dirs_should_be_first">Imenike treba navesti prvi</string>
+    <string name="hide_password">Ne pokazujte lozinku prilikom unosa</string>
+    <string name="clear_data_not_currently_used">Izbrišite podatke koji se trenutno ne koriste</string>
     </resources>

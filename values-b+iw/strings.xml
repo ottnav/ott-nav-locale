@@ -735,4 +735,7 @@
     <string name="set_for_phone">םינופלטל תצלמומ הרדגה רדגה</string>
     <string name="trust_these_sources">הלאה תורוקמה לע ךומס</string>
     <string name="release_date">האצוה ךיראת</string>
+    <string name="dirs_should_be_first">תוירפס הליחת םושרל שי</string>
+    <string name="hide_password">התנזה תעב המסיס גיצת לא</string>
+    <string name="clear_data_not_currently_used">תעכ שומישב םניאש םינותנ קחמ</string>
     </resources>

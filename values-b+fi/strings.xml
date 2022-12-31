@@ -689,4 +689,7 @@
     <string name="set_for_phone">Aseta suositellut asetukset puhelimille</string>
     <string name="trust_these_sources">Luota näihin lähteisiin</string>
     <string name="release_date">Julkaisupäivä</string>
+    <string name="dirs_should_be_first">Hakemistot tulee listata ensin</string>
+    <string name="hide_password">Älä näytä salasanaa syöttäessäsi sitä</string>
+    <string name="clear_data_not_currently_used">Poista tiedot, joita ei tällä hetkellä käytetä</string>
     </resources>

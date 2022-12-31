@@ -734,4 +734,7 @@
     <string name="set_for_phone">Iestatiet tālruņiem ieteicamo iestatījumu</string>
     <string name="trust_these_sources">Uzticieties šiem avotiem</string>
     <string name="release_date">Izdošanas datums</string>
+    <string name="dirs_should_be_first">Vispirms ir jānorāda katalogi</string>
+    <string name="hide_password">Nerādīt paroli, to ievadot</string>
+    <string name="clear_data_not_currently_used">Dzēsiet datus, kas pašlaik netiek izmantoti</string>
     </resources>

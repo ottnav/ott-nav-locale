@@ -734,4 +734,7 @@
     <string name="set_for_phone">ਫ਼ੋਨਾਂ ਲਈ ਸਿਫ਼ਾਰਸ਼ੀ ਸੈੱਟਅੱਪ ਸੈੱਟ ਕਰੋ</string>
     <string name="trust_these_sources">ਇਹਨਾਂ ਸਰੋਤਾਂ \'ਤੇ ਭਰੋਸਾ ਕਰੋ</string>
     <string name="release_date">ਰਿਹਾਈ ਤਾਰੀਖ</string>
+    <string name="dirs_should_be_first">ਡਾਇਰੈਕਟਰੀਆਂ ਨੂੰ ਪਹਿਲਾਂ ਸੂਚੀਬੱਧ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ</string>
+    <string name="hide_password">ਇਸ ਨੂੰ ਦਾਖਲ ਕਰਨ ਵੇਲੇ ਪਾਸਵਰਡ ਨਾ ਦਿਖਾਓ</string>
+    <string name="clear_data_not_currently_used">ਉਹ ਡੇਟਾ ਮਿਟਾਓ ਜੋ ਵਰਤਮਾਨ ਵਿੱਚ ਨਹੀਂ ਵਰਤਿਆ ਗਿਆ ਹੈ</string>
     </resources>

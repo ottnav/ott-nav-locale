@@ -494,7 +494,7 @@
     <string name="swipe_horizontal">horizontal swipe</string>
     <string name="expiration">Expiration</string>
     <string name="trial_account">Trial Account</string>
-    <string name="premium_google_account">All purchases applies to all devices sharing the same account.</string>
+    <string name="premium_google_account">All purchases apply to all devices sharing the same account.</string>
     <string name="player_live_recent_archive">Resume playback of recently played archived video?</string>
     <string name="player_live_recent_archive_archive">Resume playback</string>
     <string name="player_live_recent_archive_live">Live stream</string>
@@ -731,4 +731,7 @@
     <string name="set_for_phone">Set recommended setup for phones</string>
     <string name="trust_these_sources">Trust these sources</string>
     <string name="release_date">Release date</string>
+    <string name="dirs_should_be_first">Directories should be listed first</string>
+    <string name="hide_password">Do not show password when entering it</string>
+    <string name="clear_data_not_currently_used">Delete data that is not currently used</string>
 </resources>

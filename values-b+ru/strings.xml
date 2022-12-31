@@ -729,4 +729,7 @@
     <string name="set_for_phone">Установите рекомендуемые настройки для телефонов</string>
     <string name="trust_these_sources">Доверьтесь этим источникам</string>
     <string name="release_date">Дата выпуска</string>
+    <string name="dirs_should_be_first">Каталоги должны быть указаны первыми</string>
+    <string name="hide_password">Не показывать пароль при вводе</string>
+    <string name="clear_data_not_currently_used">Удалить данные, которые в данный момент не используются</string>
     </resources>

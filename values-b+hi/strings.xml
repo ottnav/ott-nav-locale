@@ -736,4 +736,7 @@
     <string name="set_for_phone">फ़ोन के लिए अनुशंसित सेटअप सेट करें</string>
     <string name="trust_these_sources">इन सूत्रों पर भरोसा करें</string>
     <string name="release_date">रिलीज़ की तारीख</string>
+    <string name="dirs_should_be_first">निर्देशिकाओं को पहले सूचीबद्ध किया जाना चाहिए</string>
+    <string name="hide_password">इसे दर्ज करते समय पासवर्ड न दिखाएं</string>
+    <string name="clear_data_not_currently_used">उस डेटा को हटा दें जिसका वर्तमान में उपयोग नहीं किया गया है</string>
     </resources>

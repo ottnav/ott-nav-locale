@@ -689,4 +689,7 @@
     <string name="set_for_phone">Angi anbefalt oppsett for telefoner</string>
     <string name="trust_these_sources">Stol på disse kildene</string>
     <string name="release_date">Utgivelsesdato</string>
+    <string name="dirs_should_be_first">Kataloger bør vises først</string>
+    <string name="hide_password">Ikke vis passord når du skriver det inn</string>
+    <string name="clear_data_not_currently_used">Slett data som ikke brukes for øyeblikket</string>
     </resources>

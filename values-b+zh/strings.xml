@@ -728,4 +728,7 @@
     <string name="set_for_phone">为手机设置推荐设置</string>
     <string name="trust_these_sources">相信这些来源</string>
     <string name="release_date">发布日期</string>
+    <string name="dirs_should_be_first">目录应首先列出</string>
+    <string name="hide_password">输入密码时不要显示密码</string>
+    <string name="clear_data_not_currently_used">删除当前未使用的数据</string>
     </resources>

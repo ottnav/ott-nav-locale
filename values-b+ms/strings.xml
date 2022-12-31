@@ -735,4 +735,7 @@
     <string name="set_for_phone">Tetapkan persediaan yang disyorkan untuk telefon</string>
     <string name="trust_these_sources">Percayalah sumber-sumber ini</string>
     <string name="release_date">Tarikh keluaran</string>
+    <string name="dirs_should_be_first">Direktori hendaklah disenaraikan dahulu</string>
+    <string name="hide_password">Jangan tunjukkan kata laluan semasa memasukkannya</string>
+    <string name="clear_data_not_currently_used">Padamkan data yang tidak digunakan pada masa ini</string>
     </resources>

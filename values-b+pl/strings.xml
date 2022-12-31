@@ -689,4 +689,7 @@
     <string name="set_for_phone">Ustaw zalecaną konfigurację dla telefonów</string>
     <string name="trust_these_sources">Zaufaj tym źródłom</string>
     <string name="release_date">Data wydania</string>
+    <string name="dirs_should_be_first">Katalogi powinny być wymienione jako pierwsze</string>
+    <string name="hide_password">Nie pokazuj hasła podczas jego wprowadzania</string>
+    <string name="clear_data_not_currently_used">Usuń dane, które nie są aktualnie używane</string>
     </resources>

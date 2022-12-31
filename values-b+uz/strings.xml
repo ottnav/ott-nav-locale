@@ -689,4 +689,7 @@
     <string name="set_for_phone">Telefonlar uchun tavsiya etilgan sozlamalarni o\'rnating</string>
     <string name="trust_these_sources">Ushbu manbalarga ishoning</string>
     <string name="release_date">Ishlab chiqarilish sanasi</string>
+    <string name="dirs_should_be_first">Kataloglar birinchi navbatda ro\'yxatga olinishi kerak</string>
+    <string name="hide_password">Parolni kiritishda uni ko\'rsatmang</string>
+    <string name="clear_data_not_currently_used">Hozirda foydalanilmayotgan maʼlumotlarni oʻchirib tashlang</string>
     </resources>

@@ -688,4 +688,7 @@
     <string name="set_for_phone">Setați configurația recomandată pentru telefoane</string>
     <string name="trust_these_sources">Aveți încredere în aceste surse</string>
     <string name="release_date">Data eliberării</string>
+    <string name="dirs_should_be_first">Directoarele ar trebui să fie listate mai întâi</string>
+    <string name="hide_password">Nu afișați parola când o introduceți</string>
+    <string name="clear_data_not_currently_used">Ștergeți datele care nu sunt utilizate în prezent</string>
     </resources>

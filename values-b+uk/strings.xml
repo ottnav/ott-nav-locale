@@ -728,4 +728,7 @@
     <string name="set_for_phone">Установіть рекомендовані налаштування для телефонів</string>
     <string name="trust_these_sources">Довіряйте цим джерелам</string>
     <string name="release_date">Дата випуску</string>
+    <string name="dirs_should_be_first">Довідники повинні бути перераховані першими</string>
+    <string name="hide_password">Не показувати пароль під час його введення</string>
+    <string name="clear_data_not_currently_used">Видалити дані, які зараз не використовуються</string>
     </resources>

@@ -688,4 +688,7 @@
     <string name="set_for_phone">Postavite preporučene postavke za telefone</string>
     <string name="trust_these_sources">Vjerujte ovim izvorima</string>
     <string name="release_date">Datum izlaska</string>
+    <string name="dirs_should_be_first">Direktorije treba navesti prve</string>
+    <string name="hide_password">Ne prikazuj lozinku prilikom unosa</string>
+    <string name="clear_data_not_currently_used">Izbrišite podatke koji se trenutno ne koriste</string>
     </resources>

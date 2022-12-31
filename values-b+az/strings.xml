@@ -689,4 +689,7 @@
     <string name="media_tracks_audio">Audio</string>
     <string name="trust_these_sources">Bu mənbələrə etibar edin</string>
     <string name="release_date">Buraxılış tarixi</string>
+    <string name="dirs_should_be_first">Kataloqlar əvvəlcə siyahıya alınmalıdır</string>
+    <string name="hide_password">Şifrəni daxil edərkən onu göstərməyin</string>
+    <string name="clear_data_not_currently_used">Hazırda istifadə olunmayan məlumatları silin</string>
     </resources>

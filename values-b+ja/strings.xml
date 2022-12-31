@@ -736,4 +736,7 @@
     <string name="set_for_phone">電話の推奨セットアップを設定する</string>
     <string name="trust_these_sources">これらの情報源を信頼してください</string>
     <string name="release_date">発売日</string>
+    <string name="dirs_should_be_first">ディレクトリを最初にリストする必要があります</string>
+    <string name="hide_password">入力時にパスワードを表示しない</string>
+    <string name="clear_data_not_currently_used">現在使用されていないデータを削除する</string>
     </resources>

@@ -689,4 +689,7 @@
     <string name="set_for_phone">Ορίστε τη συνιστώμενη ρύθμιση για τηλέφωνα</string>
     <string name="trust_these_sources">Εμπιστευτείτε αυτές τις πηγές</string>
     <string name="release_date">Ημερομηνία κυκλοφορίας</string>
+    <string name="dirs_should_be_first">Οι κατάλογοι πρέπει να παρατίθενται πρώτα</string>
+    <string name="hide_password">Να μην εμφανίζεται ο κωδικός πρόσβασης κατά την εισαγωγή του</string>
+    <string name="clear_data_not_currently_used">Διαγράψτε δεδομένα που δεν χρησιμοποιούνται αυτήν τη στιγμή</string>
     </resources>

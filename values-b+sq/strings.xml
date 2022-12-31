@@ -689,4 +689,7 @@
     <string name="set_for_phone">Cakto konfigurimin e rekomanduar për telefonat</string>
     <string name="trust_these_sources">Besojuni këtyre burimeve</string>
     <string name="release_date">Data e lëshimit</string>
+    <string name="dirs_should_be_first">Drejtoritë duhet të renditen së pari</string>
+    <string name="hide_password">Mos shfaq fjalëkalimin kur e fut atë</string>
+    <string name="clear_data_not_currently_used">Fshini të dhënat që nuk përdoren aktualisht</string>
     </resources>

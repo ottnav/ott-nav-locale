@@ -52,7 +52,6 @@
     <string name="info_teleguide_loaded">Телетекст (ЕПГ) учитан: записа</string>
 
     <string name="player_menu_select_channel_title">Други канал</string>
-    <string name="player_menu_select_archive_title">Други видео</string>
     <string name="player_menu_set_pause_on_title">Паузирај репродукцију</string>
     <string name="player_menu_set_pause_off_title">Настави репродукцију</string>
     <string name="player_menu_set_pause_on_details">репродукција</string>
@@ -266,7 +265,7 @@
     <string name="prov_help_bug">Пријавите проблем или грешку</string>
     <string name="prov_help_tpl">Пријави проблем са шаблоном провајдера</string>
     <string name="prov_help_feature">Предложи нову функцију</string>
-    <string name="prov_help_feature">Пријави проблем са претплатом или премијумом</string>
+    <string name="prov_help_premium">Пријави проблем са претплатом или премијумом</string>
     <string name="prov_help_contact_via_chat">контактирај програмера преко ћаскања</string>
     <string name="prov_help_contact_via_email">контактирај програмера преко имејла</string>
     <string name="prov_help_provide_more_info">Напиши поруку програмеру</string>
@@ -572,7 +571,7 @@
     <string name="replace_provider_order_abc">Замените редослед канала провајдера редоследом по абецеди</string>
     <string name="nothing_to_backup">Нема података за резервну копију!</string>
     <string name="next_page">Следећа страна</string>
-	<string name="user_exp_level">Ниво корисничког искуства</string>
+    <string name="user_exp_level">Ниво корисничког искуства</string>
     <string name="user_exp_mode_normal">Нормал</string>
     <string name="user_exp_mode_expert">Експертски режим</string>
     <string name="press_to_quick_jump_day">Притисните да бисте прешли на други дан.</string>
@@ -709,7 +708,7 @@
     <string name="ask_add_pwd_to_protect_data">Да ли желите да додате лозинку за заштиту података?</string>
     <string name="use2click_mode_in_preview">Покрени преглед видеа само када се кликне. Други клик ће покренути репродукцију канала преко целог екрана.</string>
     <string name="clear_modifications">Обришите све модификације и вратите првобитно стање</string>
-    <string name="clear_modifications">Користите сервер који обезбеђује корисник за складиштење података</string>
+    <string name="save_load_to_user_url">Користите сервер који обезбеђује корисник за складиштење података</string>
     <string name="action_complete">Радња је завршена</string>
     <string name="use_always_if_possible">Требало би користити увек ако је могуће</string>
     <string name="try_pin_activation">Да ли желите да користите ПИН активацију?</string>
@@ -730,4 +729,7 @@
     <string name="set_for_phone">Подесите препоручено подешавање за телефоне</string>
     <string name="trust_these_sources">Верујте овим изворима</string>
     <string name="release_date">Датум изласка</string>
+    <string name="dirs_should_be_first">Именике треба прво навести</string>
+    <string name="hide_password">Не показујте лозинку приликом уноса</string>
+    <string name="clear_data_not_currently_used">Избришите податке који се тренутно не користе</string>
     </resources>

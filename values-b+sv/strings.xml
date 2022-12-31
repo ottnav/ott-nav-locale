@@ -689,4 +689,7 @@
     <string name="set_for_phone">Ställ in rekommenderad konfiguration för telefoner</string>
     <string name="trust_these_sources">Lita på dessa källor</string>
     <string name="release_date">Utgivningsdatum</string>
+    <string name="dirs_should_be_first">Kataloger bör listas först</string>
+    <string name="hide_password">Visa inte lösenord när du anger det</string>
+    <string name="clear_data_not_currently_used">Radera data som inte används för närvarande</string>
     </resources>

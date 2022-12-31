@@ -689,4 +689,7 @@
     <string name="set_for_phone">Nastavite priporočeno nastavitev za telefone</string>
     <string name="trust_these_sources">Zaupajte tem virom</string>
     <string name="release_date">Datum izdaje</string>
+    <string name="dirs_should_be_first">Najprej je treba navesti imenike</string>
+    <string name="hide_password">Ne pokaži gesla ob vnosu</string>
+    <string name="clear_data_not_currently_used">Izbrišite podatke, ki trenutno niso v uporabi</string>
     </resources>

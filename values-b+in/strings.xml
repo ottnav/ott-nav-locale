@@ -689,4 +689,7 @@
     <string name="set_for_phone">Setel penyiapan yang disarankan untuk ponsel</string>
     <string name="trust_these_sources">Percayai sumber-sumber ini</string>
     <string name="release_date">Tanggal rilis</string>
+    <string name="dirs_should_be_first">Direktori harus terdaftar terlebih dahulu</string>
+    <string name="hide_password">Jangan tampilkan kata sandi saat memasukkannya</string>
+    <string name="clear_data_not_currently_used">Hapus data yang saat ini tidak digunakan</string>
     </resources>

@@ -735,4 +735,7 @@
     <string name="set_for_phone">Imposta la configurazione consigliata per i telefoni</string>
     <string name="trust_these_sources">Fidati di queste fonti</string>
     <string name="release_date">Data di rilascio</string>
+    <string name="dirs_should_be_first">Le directory dovrebbero essere elencate per prime</string>
+    <string name="hide_password">Non mostrare la password quando la inserisci</string>
+    <string name="clear_data_not_currently_used">Elimina i dati che non sono attualmente utilizzati</string>
     </resources>

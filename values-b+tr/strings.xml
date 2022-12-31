@@ -734,4 +734,7 @@
     <string name="set_for_phone">Telefonlar için önerilen kurulumu ayarlayın</string>
     <string name="trust_these_sources">Bu kaynaklara güvenin</string>
     <string name="release_date">Yayın tarihi</string>
+    <string name="dirs_should_be_first">Dizinler önce listelenmelidir</string>
+    <string name="hide_password">Şifreyi girerken gösterme</string>
+    <string name="clear_data_not_currently_used">Şu anda kullanılmayan verileri silin</string>
     </resources>

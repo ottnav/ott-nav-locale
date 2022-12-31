@@ -740,4 +740,7 @@
     <string name="set_for_phone">Nustatyti rekomenduojamą telefonų sąranką</string>
     <string name="trust_these_sources">Pasitikėk šiais šaltiniais</string>
     <string name="release_date">Išleidimo data</string>
+    <string name="dirs_should_be_first">Katalogai turėtų būti išvardyti pirmiausia</string>
+    <string name="hide_password">Nerodyti slaptažodžio jį įvedant</string>
+    <string name="clear_data_not_currently_used">Ištrinkite duomenis, kurie šiuo metu nenaudojami</string>
     </resources>

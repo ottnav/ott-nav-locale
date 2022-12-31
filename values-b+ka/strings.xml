@@ -689,4 +689,7 @@
     <string name="set_for_phone">ტელეფონებისთვის რეკომენდებული დაყენების დაყენება</string>
     <string name="trust_these_sources">ენდეთ ამ წყაროებს</string>
     <string name="release_date">Გამოშვების თარიღი</string>
+    <string name="dirs_should_be_first">ჯერ უნდა იყოს ჩამოთვლილი დირექტორიები</string>
+    <string name="hide_password">არ აჩვენო პაროლი მის შეყვანისას</string>
+    <string name="clear_data_not_currently_used">წაშალეთ მონაცემები, რომლებიც ამჟამად არ გამოიყენება</string>
     </resources>

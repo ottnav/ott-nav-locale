@@ -689,4 +689,7 @@
     <string name="set_for_phone">Stel aanbevolen instellingen in voor telefoons</string>
     <string name="trust_these_sources">Vertrouw op deze bronnen</string>
     <string name="release_date">Publicatiedatum</string>
+    <string name="dirs_should_be_first">Directory\'s moeten als eerste worden vermeld</string>
+    <string name="hide_password">Laat geen wachtwoord zien bij het invoeren ervan</string>
+    <string name="clear_data_not_currently_used">Verwijder gegevens die momenteel niet worden gebruikt</string>
     </resources>

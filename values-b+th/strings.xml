@@ -689,4 +689,7 @@
     <string name="set_for_phone">ตั้งค่าที่แนะนำสำหรับโทรศัพท์</string>
     <string name="trust_these_sources">เชื่อถือแหล่งข้อมูลเหล่านี้</string>
     <string name="release_date">วันที่วางจำหน่าย</string>
+    <string name="dirs_should_be_first">ควรแสดงไดเรกทอรีก่อน</string>
+    <string name="hide_password">ไม่ต้องแสดงรหัสผ่านเมื่อป้อน</string>
+    <string name="clear_data_not_currently_used">ลบข้อมูลที่ไม่ได้ใช้ในปัจจุบัน</string>
     </resources>

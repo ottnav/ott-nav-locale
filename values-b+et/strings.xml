@@ -735,4 +735,7 @@
     <string name="set_for_phone">Määrake telefonide jaoks soovitatav seadistus</string>
     <string name="trust_these_sources">Usaldage neid allikaid</string>
     <string name="release_date">Väljalaske kuupäev</string>
+    <string name="dirs_should_be_first">Kataloogid tuleks loetleda esimesena</string>
+    <string name="hide_password">Ärge kuvage parooli sisestamisel</string>
+    <string name="clear_data_not_currently_used">Kustutage andmed, mida praegu ei kasutata</string>
     </resources>
