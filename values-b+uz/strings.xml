@@ -692,4 +692,6 @@
     <string name="dirs_should_be_first">Kataloglar birinchi navbatda ro\'yxatga olinishi kerak</string>
     <string name="hide_password">Parolni kiritishda uni ko\'rsatmang</string>
     <string name="clear_data_not_currently_used">Hozirda foydalanilmayotgan maʼlumotlarni oʻchirib tashlang</string>
+    <string name="other_backup_options">Boshqa zaxira variantlari</string>
+    <string name="file_on_a_device">Joriy qurilmadagi fayl</string>
     </resources>

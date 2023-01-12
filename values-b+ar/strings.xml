@@ -739,4 +739,6 @@
     <string name="dirs_should_be_first">ﻻً﻿ﻭﺃ ﻞﺋﻻ﻿ﺪﻟﺍ ﺩﺮﺳ ﻢﺘﻳ ﻥﺃ ﺐﺠﻳ</string>
     <string name="hide_password">ﺎﻬﻟﺎﺧﺩﺇ ﺪﻨﻋ ﺭﻭﺮﻤﻟﺍ ﺔﻤﻠﻛ ﺮﻬﻈﺗ ﻻ﻿</string>
     <string name="clear_data_not_currently_used">ﺎﻴًﻟﺎﺣ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺮﻴﻏ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻑﺬﺣﺍ</string>
+    <string name="other_backup_options">ﻯﺮﺧﻷ﻿ﺍ ﻲﻃﺎﻴﺘﺣﻻ﻿ﺍ ﺦﺴﻨﻟﺍ ﺕﺍﺭﺎﻴﺧ</string>
+    <string name="file_on_a_device">ﻲﻟﺎﺤﻟﺍ ﺯﺎﻬﺠﻟﺍ ﻰﻠﻋ ﻒﻠﻣ</string>
     </resources>

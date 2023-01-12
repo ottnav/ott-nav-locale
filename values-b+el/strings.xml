@@ -692,4 +692,6 @@
     <string name="dirs_should_be_first">Οι κατάλογοι πρέπει να παρατίθενται πρώτα</string>
     <string name="hide_password">Να μην εμφανίζεται ο κωδικός πρόσβασης κατά την εισαγωγή του</string>
     <string name="clear_data_not_currently_used">Διαγράψτε δεδομένα που δεν χρησιμοποιούνται αυτήν τη στιγμή</string>
+    <string name="other_backup_options">Άλλες επιλογές δημιουργίας αντιγράφων ασφαλείας</string>
+    <string name="file_on_a_device">Αρχείο στην τρέχουσα συσκευή</string>
     </resources>

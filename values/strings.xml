@@ -734,4 +734,6 @@
     <string name="dirs_should_be_first">Directories should be listed first</string>
     <string name="hide_password">Do not show password when entering it</string>
     <string name="clear_data_not_currently_used">Delete data that is not currently used</string>
+    <string name="other_backup_options">Other backup options</string>
+    <string name="file_on_a_device">File on the current device</string>
 </resources>

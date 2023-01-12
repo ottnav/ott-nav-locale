@@ -735,4 +735,6 @@
     <string name="dirs_should_be_first">Los directorios deben aparecer primero</string>
     <string name="hide_password">No mostrar contraseña al ingresarla</string>
     <string name="clear_data_not_currently_used">Eliminar datos que no se utilizan actualmente</string>
+    <string name="other_backup_options">Otras opciones de copia de seguridad</string>
+    <string name="file_on_a_device">Archivo en el dispositivo actual</string>
     </resources>

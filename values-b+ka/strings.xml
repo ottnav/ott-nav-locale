@@ -692,4 +692,6 @@
     <string name="dirs_should_be_first">ჯერ უნდა იყოს ჩამოთვლილი დირექტორიები</string>
     <string name="hide_password">არ აჩვენო პაროლი მის შეყვანისას</string>
     <string name="clear_data_not_currently_used">წაშალეთ მონაცემები, რომლებიც ამჟამად არ გამოიყენება</string>
+    <string name="other_backup_options">სხვა სარეზერვო პარამეტრები</string>
+    <string name="file_on_a_device">ფაილი მიმდინარე მოწყობილობაზე</string>
     </resources>

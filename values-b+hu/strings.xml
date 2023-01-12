@@ -691,4 +691,6 @@
     <string name="dirs_should_be_first">Először a könyvtárakat kell felsorolni</string>
     <string name="hide_password">Ne mutasson jelszót, amikor beírja</string>
     <string name="clear_data_not_currently_used">A jelenleg nem használt adatok törlése</string>
+    <string name="other_backup_options">Egyéb biztonsági mentési lehetőségek</string>
+    <string name="file_on_a_device">Fájl az aktuális eszközön</string>
     </resources>

@@ -732,4 +732,6 @@
     <string name="dirs_should_be_first">Каталогі павінны быць пералічаны першымі</string>
     <string name="hide_password">Не паказваць пароль пры яго ўводзе</string>
     <string name="clear_data_not_currently_used">Выдаліць даныя, якія зараз не выкарыстоўваюцца</string>
+    <string name="other_backup_options">Іншыя варыянты рэзервовага капіравання</string>
+    <string name="file_on_a_device">Файл на бягучай прыладзе</string>
     </resources>

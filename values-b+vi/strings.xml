@@ -731,4 +731,6 @@
     <string name="dirs_should_be_first">Thư mục nên được liệt kê đầu tiên</string>
     <string name="hide_password">Không hiện mật khẩu khi nhập</string>
     <string name="clear_data_not_currently_used">Xóa dữ liệu hiện không được sử dụng</string>
+    <string name="other_backup_options">Các tùy chọn sao lưu khác</string>
+    <string name="file_on_a_device">Tệp trên thiết bị hiện tại</string>
     </resources>

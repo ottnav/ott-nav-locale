@@ -738,4 +738,6 @@
     <string name="dirs_should_be_first">Direktori hendaklah disenaraikan dahulu</string>
     <string name="hide_password">Jangan tunjukkan kata laluan semasa memasukkannya</string>
     <string name="clear_data_not_currently_used">Padamkan data yang tidak digunakan pada masa ini</string>
+    <string name="other_backup_options">Pilihan sandaran lain</string>
+    <string name="file_on_a_device">Fail pada peranti semasa</string>
     </resources>

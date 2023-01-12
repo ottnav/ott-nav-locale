@@ -743,4 +743,6 @@
     <string name="dirs_should_be_first">Katalogai turėtų būti išvardyti pirmiausia</string>
     <string name="hide_password">Nerodyti slaptažodžio jį įvedant</string>
     <string name="clear_data_not_currently_used">Ištrinkite duomenis, kurie šiuo metu nenaudojami</string>
+    <string name="other_backup_options">Kitos atsarginės parinktys</string>
+    <string name="file_on_a_device">Failas esamame įrenginyje</string>
     </resources>

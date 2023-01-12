@@ -738,4 +738,6 @@
     <string name="dirs_should_be_first">Kataloogid tuleks loetleda esimesena</string>
     <string name="hide_password">Ärge kuvage parooli sisestamisel</string>
     <string name="clear_data_not_currently_used">Kustutage andmed, mida praegu ei kasutata</string>
+    <string name="other_backup_options">Muud varundusvalikud</string>
+    <string name="file_on_a_device">Fail praeguses seadmes</string>
     </resources>

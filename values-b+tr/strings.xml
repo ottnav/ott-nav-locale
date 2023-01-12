@@ -737,4 +737,6 @@
     <string name="dirs_should_be_first">Dizinler önce listelenmelidir</string>
     <string name="hide_password">Şifreyi girerken gösterme</string>
     <string name="clear_data_not_currently_used">Şu anda kullanılmayan verileri silin</string>
+    <string name="other_backup_options">Diğer yedekleme seçenekleri</string>
+    <string name="file_on_a_device">Geçerli cihazdaki dosya</string>
     </resources>

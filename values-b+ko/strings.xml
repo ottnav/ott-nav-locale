@@ -741,4 +741,6 @@
     <string name="dirs_should_be_first">"디렉토리가 먼저 나열되어야 합니다."</string>
     <string name="hide_password">"비밀번호를 입력할 때 표시하지 않음"</string>
     <string name="clear_data_not_currently_used">"현재 사용하지 않는 데이터 삭제"</string>
+    <string name="other_backup_options">기타 백업 옵션</string>
+    <string name="file_on_a_device">"현재 장치의 파일"</string>
     </resources>

@@ -740,4 +740,6 @@
     <string name="dirs_should_be_first">ডিরেক্টরি প্রথমে তালিকাভুক্ত করা উচিত</string>
     <string name="hide_password">এটি প্রবেশ করার সময় পাসওয়ার্ড দেখাবেন না</string>
     <string name="clear_data_not_currently_used">বর্তমানে ব্যবহৃত হয় না এমন ডেটা মুছুন</string>
+    <string name="other_backup_options">অন্যান্য ব্যাকআপ বিকল্প</string>
+    <string name="file_on_a_device">বর্তমান ডিভাইসে ফাইল</string>
     </resources>

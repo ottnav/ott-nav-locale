@@ -691,4 +691,6 @@
     <string name="dirs_should_be_first">Direktorije treba navesti prve</string>
     <string name="hide_password">Ne prikazuj lozinku prilikom unosa</string>
     <string name="clear_data_not_currently_used">Izbrišite podatke koji se trenutno ne koriste</string>
+    <string name="other_backup_options">Ostale sigurnosne opcije</string>
+    <string name="file_on_a_device">Datoteka na trenutnom uređaju</string>
     </resources>

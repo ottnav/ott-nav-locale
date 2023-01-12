@@ -692,4 +692,6 @@
     <string name="dirs_should_be_first">Katalogi powinny być wymienione jako pierwsze</string>
     <string name="hide_password">Nie pokazuj hasła podczas jego wprowadzania</string>
     <string name="clear_data_not_currently_used">Usuń dane, które nie są aktualnie używane</string>
+    <string name="other_backup_options">Inne opcje tworzenia kopii zapasowych</string>
+    <string name="file_on_a_device">Plik na bieżącym urządzeniu</string>
     </resources>

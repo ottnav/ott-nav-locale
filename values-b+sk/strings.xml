@@ -692,4 +692,6 @@
     <string name="dirs_should_be_first">Adresáre by mali byť uvedené ako prvé</string>
     <string name="hide_password">Pri zadávaní hesla nezobrazovať</string>
     <string name="clear_data_not_currently_used">Vymažte údaje, ktoré sa momentálne nepoužívajú</string>
+    <string name="other_backup_options">Ďalšie možnosti zálohovania</string>
+    <string name="file_on_a_device">Súbor na aktuálnom zariadení</string>
     </resources>

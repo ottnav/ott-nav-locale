@@ -692,4 +692,6 @@
     <string name="dirs_should_be_first">Директориите трябва да бъдат изброени първи</string>
     <string name="hide_password">Не показвайте парола, когато я въвеждате</string>
     <string name="clear_data_not_currently_used">Изтрийте данни, които не се използват в момента</string>
+    <string name="other_backup_options">Други резервни опции</string>
+    <string name="file_on_a_device">Файл на текущото устройство</string>
     </resources>

@@ -691,4 +691,6 @@
     <string name="dirs_should_be_first">Directoarele ar trebui să fie listate mai întâi</string>
     <string name="hide_password">Nu afișați parola când o introduceți</string>
     <string name="clear_data_not_currently_used">Ștergeți datele care nu sunt utilizate în prezent</string>
+    <string name="other_backup_options">Alte opțiuni de rezervă</string>
+    <string name="file_on_a_device">Fișier pe dispozitivul curent</string>
     </resources>

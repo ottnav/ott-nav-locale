@@ -692,4 +692,6 @@
     <string name="dirs_should_be_first">Drejtoritë duhet të renditen së pari</string>
     <string name="hide_password">Mos shfaq fjalëkalimin kur e fut atë</string>
     <string name="clear_data_not_currently_used">Fshini të dhënat që nuk përdoren aktualisht</string>
+    <string name="other_backup_options">Opsione të tjera rezervë</string>
+    <string name="file_on_a_device">Skedari në pajisjen aktuale</string>
     </resources>

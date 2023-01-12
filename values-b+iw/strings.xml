@@ -738,4 +738,6 @@
     <string name="dirs_should_be_first">תוירפס הליחת םושרל שי</string>
     <string name="hide_password">התנזה תעב המסיס גיצת לא</string>
     <string name="clear_data_not_currently_used">תעכ שומישב םניאש םינותנ קחמ</string>
+    <string name="other_backup_options">תורחא יוביג תויורשפא</string>
+    <string name="file_on_a_device">יחכונה רישכמב ץבוק</string>
     </resources>

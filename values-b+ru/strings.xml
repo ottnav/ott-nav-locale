@@ -732,4 +732,6 @@
     <string name="dirs_should_be_first">Каталоги должны быть указаны первыми</string>
     <string name="hide_password">Не показывать пароль при вводе</string>
     <string name="clear_data_not_currently_used">Удалить данные, которые в данный момент не используются</string>
+    <string name="other_backup_options">Другие варианты резервного копирования</string>
+    <string name="file_on_a_device">Файл на текущем устройстве</string>
     </resources>

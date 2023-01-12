@@ -738,4 +738,6 @@
     <string name="dirs_should_be_first">Os diretórios devem ser listados primeiro</string>
     <string name="hide_password">Não mostre a senha ao digitá-la</string>
     <string name="clear_data_not_currently_used">Excluir dados que não são usados atualmente</string>
+    <string name="other_backup_options">Outras opções de backup</string>
+    <string name="file_on_a_device">Arquivo no dispositivo atual</string>
     </resources>

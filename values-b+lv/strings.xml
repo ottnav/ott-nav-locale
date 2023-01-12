@@ -737,4 +737,6 @@
     <string name="dirs_should_be_first">Vispirms ir jānorāda katalogi</string>
     <string name="hide_password">Nerādīt paroli, to ievadot</string>
     <string name="clear_data_not_currently_used">Dzēsiet datus, kas pašlaik netiek izmantoti</string>
+    <string name="other_backup_options">Citas rezerves iespējas</string>
+    <string name="file_on_a_device">Fails pašreizējā ierīcē</string>
     </resources>

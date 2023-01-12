@@ -737,4 +737,6 @@
     <string name="dirs_should_be_first">ਡਾਇਰੈਕਟਰੀਆਂ ਨੂੰ ਪਹਿਲਾਂ ਸੂਚੀਬੱਧ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ</string>
     <string name="hide_password">ਇਸ ਨੂੰ ਦਾਖਲ ਕਰਨ ਵੇਲੇ ਪਾਸਵਰਡ ਨਾ ਦਿਖਾਓ</string>
     <string name="clear_data_not_currently_used">ਉਹ ਡੇਟਾ ਮਿਟਾਓ ਜੋ ਵਰਤਮਾਨ ਵਿੱਚ ਨਹੀਂ ਵਰਤਿਆ ਗਿਆ ਹੈ</string>
+    <string name="other_backup_options">ਹੋਰ ਬੈਕਅੱਪ ਵਿਕਲਪ</string>
+    <string name="file_on_a_device">ਮੌਜੂਦਾ ਡਿਵਾਈਸ \'ਤੇ ਫਾਈਲ</string>
     </resources>
