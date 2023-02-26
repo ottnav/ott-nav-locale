@@ -4,7 +4,7 @@
     <string name="menu_search">Iskanje</string>
     <string name="menu_live">Prenos v živo</string>
     <string name="menu_archive">Prikaže arhiv</string>
-    <string name="menu_settings">nastavitve</string>
+    <string name="menu_settings">Nastavitve</string>
     <string name="menu_error_require_provider_button">Konfigurirajte ponudnika</string>
     <string name="menu_error_require_live_but_no_playlist_title">Seznama predvajanja s kanali ni bilo mogoče naložiti</string>
     <string name="menu_error_require_live_but_no_playlist_text">Konfiguriranega ponudnika ali seznama predvajanja ni mogoče doseči. Ponovno preverite nastavitve ponudnika in če se vam zdijo v redu, se obrnite na ponudnika IPTV.</string>
@@ -79,11 +79,11 @@
     <string name="hint_long_tap">Lahko se dolgo dotaknete elementa seznama, da dobite razširjen opis (če je na voljo).</string>
     <string name="hint_fav_sorting">Aplikacija razvršča kanale po pogostosti gledanja. Kanali, ki ste jih označili kot priljubljene, bodo vedno na vrhu. Samodejno razvrščanje lahko onemogočite tako, da omogočite uporabo vrstnega reda kanalov ponudnika, vendar filter priljubljenih ne bo na voljo.</string>
     <string name="hint_video_codecs">Če se vir predvaja slabo, lahko poskusite povečati velikost medpomnilnika v nastavitvah, preklopite na drug dekodirnik toka (strojni ali programski) ali, če karkoli ne uspe, konfigurirajte uporabo zunanjega predvajalnika za predvajanje.</string>
-    <string name="hint_auto_turn_off">Konfigurirate lahko samodejni izklop toka po določenem času mirovanja (uporabno pri obračunu na minuto). Nedejaven pomeni, da igralec ne uporablja dejanj (na primer: meni, iskanje, premor itd.).</string>
+    <string name="hint_auto_turn_off">Konfigurirate lahko samodejni izklop toka po določenem času mirovanja (uporabno pri obračunu na minuto). Nedejaven pomeni, da predvajalnik ne uporablja dejanj (na primer: meni, iskanje, premor itd.).</string>
     <string name="settings_provider_select_type_intro1">OPOMBA: Za uporabo te aplikacije potrebujete ponudnika OTT/IPTV.</string>
     <string name="settings_provider_select_type_intro2">Aplikacija deluje samo s seznami predvajanja, ki jih zagotovi uporabnik.</string>
-    <string name="settings_provider_select_apply">Prijavite se</string>
-    <string name="settings_provider_select_return">Vrnitev</string>
+    <string name="settings_provider_select_apply">Potrdi</string>
+    <string name="settings_provider_select_return">Nazaj</string>
     <string name="settings_provider_select_status_error">Napaka konfiguracije. Podatkov ni bilo mogoče naložiti</string>
     <string name="settings_provider_select_status_success">Nastavitev je bila uspešno uporabljena</string>
     <string name="settings_provider_select_error_live">ne vsebuje podprtih kanalov v živo. Preverite uporabniško ime/ključ/geslo/url.</string>
@@ -109,7 +109,7 @@
     <string name="settings_provider">Ponudnik</string>
     <string name="settings_media_library">Medijska knjižnica</string>
     <string name="settings_media_library_dnla">Skeniraj vire UPnP/DLNA v lokalnem omrežju</string>
-    <string name="settings_player">Igralec</string>
+    <string name="settings_player">Predvajalnik</string>
     <string name="settings_player_hide_ui">Skrij prekrivanje uporabniškega vmesnika med predvajanjem v</string>
     <string name="settings_player_resize_mode">Video merilni način</string>
     <string name="settings_player_resize_mode_fit">Prilagodi zaslonu</string>
@@ -300,8 +300,8 @@
     <string name="provider_generic_middleware">Generični strežnik vmesne programske opreme</string>
     <string name="provider_generic_list">Seznam ponudnikov</string>
     <string name="provider_generic_list_desc">Pogoste predloge v bližini (jezik in regija)</string>
-    <string name="yes">ja</string>
-    <string name="no">št</string>
+    <string name="yes">da</string>
+    <string name="no">ne</string>
     <string name="cfg_zoom_shrink">skrči</string>
     <string name="cfg_channel_manager">Upravljanje kanalov</string>
     <string name="cfg_channel_manager_categories">kategorije</string>
@@ -682,7 +682,7 @@
     <string name="use_vertical_view_on_phone">Uporabite navpični pogled na telefonu</string>
     <string name="lock_immediately">Takoj zakleni</string>
     <string name="genre">Žanr</string>
-    <string name="cast">Cast</string>
+    <string name="cast">Igralci</string>
     <string name="producer">Producent</string>
     <string name="retry">Poskusite znova</string>
     <string name="undo">Razveljavi spremembe</string>
