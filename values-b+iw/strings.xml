@@ -740,4 +740,5 @@
     <string name="clear_data_not_currently_used">תעכ שומישב םניאש םינותנ קחמ</string>
     <string name="other_backup_options">תורחא יוביג תויורשפא</string>
     <string name="file_on_a_device">יחכונה רישכמב ץבוק</string>
+    <string name="do_not_switch_to_dup_on_error">.תיטמוטוא האיגשב רחא רוקמל רובעת לא</string>
     </resources>

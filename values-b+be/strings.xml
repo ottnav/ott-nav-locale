@@ -734,4 +734,5 @@
     <string name="clear_data_not_currently_used">Выдаліць даныя, якія зараз не выкарыстоўваюцца</string>
     <string name="other_backup_options">Іншыя варыянты рэзервовага капіравання</string>
     <string name="file_on_a_device">Файл на бягучай прыладзе</string>
+    <string name="do_not_switch_to_dup_on_error">Не пераключайцеся на іншую крыніцу аўтаматычна пры памылцы.</string>
     </resources>

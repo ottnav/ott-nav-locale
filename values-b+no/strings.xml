@@ -694,4 +694,5 @@
     <string name="clear_data_not_currently_used">Slett data som ikke brukes for øyeblikket</string>
     <string name="other_backup_options">Andre alternativer for sikkerhetskopiering</string>
     <string name="file_on_a_device">Fil på gjeldende enhet</string>
+    <string name="do_not_switch_to_dup_on_error">Ikke bytt til en annen kilde ved feil automatisk.</string>
     </resources>

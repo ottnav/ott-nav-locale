@@ -740,4 +740,5 @@
     <string name="clear_data_not_currently_used">Kustutage andmed, mida praegu ei kasutata</string>
     <string name="other_backup_options">Muud varundusvalikud</string>
     <string name="file_on_a_device">Fail praeguses seadmes</string>
+    <string name="do_not_switch_to_dup_on_error">Ärge lülituge vea korral automaatselt teisele allikale.</string>
     </resources>

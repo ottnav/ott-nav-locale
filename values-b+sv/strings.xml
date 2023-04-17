@@ -694,4 +694,5 @@
     <string name="clear_data_not_currently_used">Radera data som inte används för närvarande</string>
     <string name="other_backup_options">Andra alternativ för säkerhetskopiering</string>
     <string name="file_on_a_device">Fil på den aktuella enheten</string>
+    <string name="do_not_switch_to_dup_on_error">Byt inte automatiskt till en annan källa vid fel.</string>
     </resources>

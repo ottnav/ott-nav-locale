@@ -300,8 +300,8 @@
     <string name="provider_generic_middleware">Generični strežnik vmesne programske opreme</string>
     <string name="provider_generic_list">Seznam ponudnikov</string>
     <string name="provider_generic_list_desc">Pogoste predloge v bližini (jezik in regija)</string>
-    <string name="yes">da</string>
-    <string name="no">ne</string>
+    <string name="yes">ja</string>
+    <string name="no">št</string>
     <string name="cfg_zoom_shrink">skrči</string>
     <string name="cfg_channel_manager">Upravljanje kanalov</string>
     <string name="cfg_channel_manager_categories">kategorije</string>
@@ -694,4 +694,5 @@
     <string name="clear_data_not_currently_used">Izbrišite podatke, ki trenutno niso v uporabi</string>
     <string name="other_backup_options">Druge rezervne možnosti</string>
     <string name="file_on_a_device">Datoteka v trenutni napravi</string>
+    <string name="do_not_switch_to_dup_on_error">Ob napaki ne preklopite samodejno na drug vir.</string>
     </resources>

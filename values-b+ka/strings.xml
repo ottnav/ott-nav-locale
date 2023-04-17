@@ -694,4 +694,5 @@
     <string name="clear_data_not_currently_used">წაშალეთ მონაცემები, რომლებიც ამჟამად არ გამოიყენება</string>
     <string name="other_backup_options">სხვა სარეზერვო პარამეტრები</string>
     <string name="file_on_a_device">ფაილი მიმდინარე მოწყობილობაზე</string>
+    <string name="do_not_switch_to_dup_on_error">ავტომატურად არ გადახვიდეთ სხვა წყაროზე შეცდომის გამო.</string>
     </resources>

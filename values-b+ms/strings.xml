@@ -740,4 +740,5 @@
     <string name="clear_data_not_currently_used">Padamkan data yang tidak digunakan pada masa ini</string>
     <string name="other_backup_options">Pilihan sandaran lain</string>
     <string name="file_on_a_device">Fail pada peranti semasa</string>
+    <string name="do_not_switch_to_dup_on_error">Jangan bertukar kepada sumber lain apabila ralat secara automatik.</string>
     </resources>

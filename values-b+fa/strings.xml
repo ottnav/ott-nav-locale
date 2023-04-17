@@ -741,4 +741,5 @@
     <string name="clear_data_not_currently_used">ﺪﯿﻨﮐ ﻑﺬﺣ ﺪﻧﻮﺷ ﯽﻤﻧ ﻩﺩﺎﻔﺘﺳﺍ ﺮﺿﺎﺣ ﻝﺎﺣ ﺭﺩ ﻪﮐ ﺍﺭ ﯽﯾﺎﻫ ﻩﺩﺍﺩ</string>
     <string name="other_backup_options">ﯼﺮﯿﮔ ﻥﺎﺒﯿﺘﺸﭘ ﯼﺎﻫ ﻪﻨﯾﺰﮔ ﺮﯾﺎﺳ</string>
     <string name="file_on_a_device">ﯽﻠﻌﻓ ﻩﺎﮕﺘﺳﺩ ﺭﺩ ﻞﯾﺎﻓ</string>
+    <string name="do_not_switch_to_dup_on_error">.ﺪﯿﻫﺪﻧ ﺮﯿﯿﻐﺗ ﯼﺮﮕﯾﺩ ﻊﺒﻨﻣ ﻪﺑ ﺭﺎﮐﺩﻮﺧ ﺕﺭﻮﺻ ﻪﺑ</string>
     </resources>

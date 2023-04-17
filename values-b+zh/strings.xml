@@ -731,4 +731,7 @@
     <string name="dirs_should_be_first">目录应首先列出</string>
     <string name="hide_password">输入密码时不要显示密码</string>
     <string name="clear_data_not_currently_used">删除当前未使用的数据</string>
+    <string name="other_backup_options">其他备份选项</string>
+    <string name="file_on_a_device">当前设备上的文件</string>
+    <string name="do_not_switch_to_dup_on_error">不要在出错时自动切换到不同的源。</string>
     </resources>

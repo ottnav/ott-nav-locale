@@ -694,4 +694,5 @@
     <string name="clear_data_not_currently_used">Verwijder gegevens die momenteel niet worden gebruikt</string>
     <string name="other_backup_options">Andere back-upopties</string>
     <string name="file_on_a_device">Bestand op het huidige apparaat</string>
+    <string name="do_not_switch_to_dup_on_error">Schakel bij een fout niet automatisch over naar een andere bron.</string>
     </resources>

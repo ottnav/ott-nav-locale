@@ -733,4 +733,5 @@
     <string name="clear_data_not_currently_used">Видалити дані, які зараз не використовуються</string>
     <string name="other_backup_options">Інші резервні варіанти</string>
     <string name="file_on_a_device">Файл на поточному пристрої</string>
+    <string name="do_not_switch_to_dup_on_error">Не перемикайтеся на інше джерело автоматично у разі помилки.</string>
     </resources>

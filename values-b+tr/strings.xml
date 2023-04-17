@@ -739,4 +739,5 @@
     <string name="clear_data_not_currently_used">Şu anda kullanılmayan verileri silin</string>
     <string name="other_backup_options">Diğer yedekleme seçenekleri</string>
     <string name="file_on_a_device">Geçerli cihazdaki dosya</string>
+    <string name="do_not_switch_to_dup_on_error">Hata durumunda otomatik olarak farklı bir kaynağa geçiş yapmayın.</string>
     </resources>

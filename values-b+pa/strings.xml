@@ -739,4 +739,5 @@
     <string name="clear_data_not_currently_used">ਉਹ ਡੇਟਾ ਮਿਟਾਓ ਜੋ ਵਰਤਮਾਨ ਵਿੱਚ ਨਹੀਂ ਵਰਤਿਆ ਗਿਆ ਹੈ</string>
     <string name="other_backup_options">ਹੋਰ ਬੈਕਅੱਪ ਵਿਕਲਪ</string>
     <string name="file_on_a_device">ਮੌਜੂਦਾ ਡਿਵਾਈਸ \'ਤੇ ਫਾਈਲ</string>
+    <string name="do_not_switch_to_dup_on_error">ਆਪਣੇ ਆਪ ਗਲਤੀ ਹੋਣ \'ਤੇ ਕਿਸੇ ਵੱਖਰੇ ਸਰੋਤ \'ਤੇ ਸਵਿਚ ਨਾ ਕਰੋ।</string>
     </resources>

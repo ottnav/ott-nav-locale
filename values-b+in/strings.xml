@@ -694,4 +694,5 @@
     <string name="clear_data_not_currently_used">Hapus data yang saat ini tidak digunakan</string>
     <string name="other_backup_options">Opsi cadangan lainnya</string>
     <string name="file_on_a_device">File di perangkat saat ini</string>
+    <string name="do_not_switch_to_dup_on_error">Jangan beralih ke sumber lain karena kesalahan secara otomatis.</string>
     </resources>

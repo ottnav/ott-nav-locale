@@ -743,4 +743,5 @@
     <string name="clear_data_not_currently_used">"현재 사용하지 않는 데이터 삭제"</string>
     <string name="other_backup_options">기타 백업 옵션</string>
     <string name="file_on_a_device">"현재 장치의 파일"</string>
+    <string name="do_not_switch_to_dup_on_error">"오류 시 자동으로 다른 소스로 전환하지 마십시오."</string>
     </resources>

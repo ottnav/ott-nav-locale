@@ -694,4 +694,5 @@
     <string name="clear_data_not_currently_used">Διαγράψτε δεδομένα που δεν χρησιμοποιούνται αυτήν τη στιγμή</string>
     <string name="other_backup_options">Άλλες επιλογές δημιουργίας αντιγράφων ασφαλείας</string>
     <string name="file_on_a_device">Αρχείο στην τρέχουσα συσκευή</string>
+    <string name="do_not_switch_to_dup_on_error">Μην μεταβείτε αυτόματα σε διαφορετική πηγή στο σφάλμα.</string>
     </resources>

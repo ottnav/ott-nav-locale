@@ -741,4 +741,5 @@
     <string name="clear_data_not_currently_used">現在使用されていないデータを削除する</string>
     <string name="other_backup_options">その他のバックアップ オプション</string>
     <string name="file_on_a_device">現在のデバイス上のファイル</string>
+    <string name="do_not_switch_to_dup_on_error">エラー時に別のソースに自動的に切り替えないでください。</string>
     </resources>

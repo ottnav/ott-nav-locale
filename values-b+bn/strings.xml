@@ -742,4 +742,5 @@
     <string name="clear_data_not_currently_used">বর্তমানে ব্যবহৃত হয় না এমন ডেটা মুছুন</string>
     <string name="other_backup_options">অন্যান্য ব্যাকআপ বিকল্প</string>
     <string name="file_on_a_device">বর্তমান ডিভাইসে ফাইল</string>
+    <string name="do_not_switch_to_dup_on_error">স্বয়ংক্রিয়ভাবে ত্রুটির উপর একটি ভিন্ন উৎসে সুইচ করবেন না।</string>
     </resources>

@@ -733,4 +733,5 @@
     <string name="clear_data_not_currently_used">Xóa dữ liệu hiện không được sử dụng</string>
     <string name="other_backup_options">Các tùy chọn sao lưu khác</string>
     <string name="file_on_a_device">Tệp trên thiết bị hiện tại</string>
+    <string name="do_not_switch_to_dup_on_error">Không tự động chuyển sang một nguồn khác khi có lỗi.</string>
     </resources>

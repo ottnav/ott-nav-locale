@@ -694,4 +694,5 @@
     <string name="clear_data_not_currently_used">Hazırda istifadə olunmayan məlumatları silin</string>
     <string name="other_backup_options">Digər ehtiyat seçimləri</string>
     <string name="file_on_a_device">Cari cihazda fayl</string>
+    <string name="do_not_switch_to_dup_on_error">Səhv zamanı avtomatik olaraq başqa mənbəyə keçməyin.</string>
     </resources>

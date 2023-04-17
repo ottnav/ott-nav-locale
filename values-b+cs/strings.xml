@@ -693,4 +693,5 @@
     <string name="clear_data_not_currently_used">Odstraňte data, která se aktuálně nepoužívají</string>
     <string name="other_backup_options">Další možnosti zálohování</string>
     <string name="file_on_a_device">Soubor na aktuálním zařízení</string>
+    <string name="do_not_switch_to_dup_on_error">Nepřepínejte na jiný zdroj při chybě automaticky.</string>
     </resources>

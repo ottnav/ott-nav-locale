@@ -693,4 +693,5 @@
     <string name="clear_data_not_currently_used">Ștergeți datele care nu sunt utilizate în prezent</string>
     <string name="other_backup_options">Alte opțiuni de rezervă</string>
     <string name="file_on_a_device">Fișier pe dispozitivul curent</string>
+    <string name="do_not_switch_to_dup_on_error">Nu comutați automat la altă sursă în caz de eroare.</string>
     </resources>

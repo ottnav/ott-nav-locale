@@ -741,4 +741,5 @@
     <string name="clear_data_not_currently_used">उस डेटा को हटा दें जिसका वर्तमान में उपयोग नहीं किया गया है</string>
     <string name="other_backup_options">अन्य बैकअप विकल्प</string>
     <string name="file_on_a_device">वर्तमान डिवाइस पर फ़ाइल</string>
+    <string name="do_not_switch_to_dup_on_error">त्रुटि होने पर स्वचालित रूप से किसी भिन्न स्रोत पर स्विच न करें।</string>
     </resources>

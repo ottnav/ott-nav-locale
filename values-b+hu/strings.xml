@@ -693,4 +693,5 @@
     <string name="clear_data_not_currently_used">A jelenleg nem használt adatok törlése</string>
     <string name="other_backup_options">Egyéb biztonsági mentési lehetőségek</string>
     <string name="file_on_a_device">Fájl az aktuális eszközön</string>
+    <string name="do_not_switch_to_dup_on_error">Ne váltson automatikusan másik forrásra hiba esetén.</string>
     </resources>

@@ -734,4 +734,5 @@
     <string name="clear_data_not_currently_used">Избришите податке који се тренутно не користе</string>
     <string name="other_backup_options">Друге резервне опције</string>
     <string name="file_on_a_device">Датотека на тренутном уређају</string>
+    <string name="do_not_switch_to_dup_on_error">Немојте аутоматски прелазити на други извор у случају грешке.</string>
     </resources>

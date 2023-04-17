@@ -745,4 +745,5 @@
     <string name="clear_data_not_currently_used">Ištrinkite duomenis, kurie šiuo metu nenaudojami</string>
     <string name="other_backup_options">Kitos atsarginės parinktys</string>
     <string name="file_on_a_device">Failas esamame įrenginyje</string>
+    <string name="do_not_switch_to_dup_on_error">Automatiškai neperjunkite į kitą klaidos šaltinį.</string>
     </resources>

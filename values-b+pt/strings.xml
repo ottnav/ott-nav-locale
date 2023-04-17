@@ -740,4 +740,5 @@
     <string name="clear_data_not_currently_used">Excluir dados que não são usados atualmente</string>
     <string name="other_backup_options">Outras opções de backup</string>
     <string name="file_on_a_device">Arquivo no dispositivo atual</string>
+    <string name="do_not_switch_to_dup_on_error">Não mude para uma fonte diferente em caso de erro automaticamente.</string>
     </resources>

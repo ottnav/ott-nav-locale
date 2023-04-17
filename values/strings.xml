@@ -736,4 +736,5 @@
     <string name="clear_data_not_currently_used">Delete data that is not currently used</string>
     <string name="other_backup_options">Other backup options</string>
     <string name="file_on_a_device">File on the current device</string>
+    <string name="do_not_switch_to_dup_on_error">Do not switch to a different source on error automatically.</string>
 </resources>

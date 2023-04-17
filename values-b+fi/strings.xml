@@ -694,4 +694,5 @@
     <string name="clear_data_not_currently_used">Poista tiedot, joita ei tällä hetkellä käytetä</string>
     <string name="other_backup_options">Muut varmuuskopiointivaihtoehdot</string>
     <string name="file_on_a_device">Tiedosto nykyisellä laitteella</string>
+    <string name="do_not_switch_to_dup_on_error">Älä vaihda toiseen lähteeseen automaattisesti virheen sattuessa.</string>
     </resources>
