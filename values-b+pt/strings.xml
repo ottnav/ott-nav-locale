@@ -663,7 +663,7 @@
     <string name="track_language">Idioma da trilha</string>
     <string name="track_language_list">Lista separada por vírgulas de códigos de idioma</string>
     <string name="fold_ch_pri_suffixes">Sufixos de nome preferidos a serem usados ao unir a lista de canais</string>
-    <string name="fold_ch_by">O que considerar ao unir listas</string>
+    <string name="fold_ch_by">O que considerar ao unir</string>
     <string name="place_in_other_category">Coloque em uma categoria diferente</string>
     <string name="yesterday">ontem</string>
     <string name="tomorrow">amanhã</string>
