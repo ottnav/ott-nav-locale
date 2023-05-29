@@ -326,7 +326,7 @@
     <string name="provider_field_active">Ativo</string>
     <string name="cfg_prov_categories_merge">Categorias de diferentes provedores</string>
     <string name="cfg_prov_categories_merge_prepend">Anexar nome do provedor antes do nome da categoria</string>
-    <string name="cfg_prov_categories_merge_mix">Mesclar categorias se os nomes corresponderem</string>
+    <string name="cfg_prov_categories_merge_mix">Unir categorias se os nomes corresponderem</string>
     <string name="cfg_prov_categories_merge_append">Anexar nome do provedor após o nome da categoria</string>
     <string name="cfg_codec_exo_q">Qualidade do codec de hardware</string>
     <string name="cfg_codec_exo_max">melhor correspondência</string>
@@ -358,7 +358,7 @@
     <string name="cfg_channel_manager_filters">Filtros</string>
     <string name="menu_suggest_premium">Pronto para explorar os incríveis recursos premium?</string>
     <string name="cfg_epg_update_frequency">Frequência de atualização (em horas)</string>
-    <string name="cfg_vod_merge">Mesclar biblioteca de mídia de diferentes fontes em uma única lista (requer recarregamento)</string>
+    <string name="cfg_vod_merge">Unir biblioteca de mídia de diferentes fontes em uma única lista (requer recarregamento)</string>
     <string name="ch_manage_rename">Renomear</string>
     <string name="pla_timeshift_from_current">Iniciar a partir do momento atual</string>
     <string name="cfg_play_action_timeshift_start">Abrir programa de TV gravado a partir do início</string>
@@ -532,7 +532,7 @@
     <string name="channels_processed">Canais processados</string>
     <string name="atv_split_to_different_channels">Dividir vários tipos de conteúdo em diferentes linhas</string>
     <string name="number_already_taken">Este número já está ocupado</string>
-    <string name="fold_duplicate_channels">Mesclar canais duplicados em um único elemento</string>
+    <string name="fold_duplicate_channels">Unir canais duplicados em um único elemento</string>
     <string name="select_another_media_source">Mudar para outra fonte de mídia</string>
     <string name="user_epg_sources">Fontes de guia de programação (EPG) fornecida pelo usuário</string>
     <string name="reload_data">Recarregar dados</string>
@@ -662,8 +662,8 @@
     <string name="launcher_button">Botões de inicialização</string>
     <string name="track_language">Idioma da trilha</string>
     <string name="track_language_list">Lista separada por vírgulas de códigos de idioma</string>
-    <string name="fold_ch_pri_suffixes">Sufixos de nome preferidos a serem usados u200bu200bao dobrar a lista de canais</string>
-    <string name="fold_ch_by">O que considerar ao mesclar</string>
+    <string name="fold_ch_pri_suffixes">Sufixos de nome preferidos a serem usados ao unir a lista de canais</string>
+    <string name="fold_ch_by">O que considerar ao unir listas</string>
     <string name="place_in_other_category">Coloque em uma categoria diferente</string>
     <string name="yesterday">ontem</string>
     <string name="tomorrow">amanhã</string>
