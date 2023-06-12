@@ -350,7 +350,6 @@
     <string name="cfg_channel_manager_channels">Kanallar</string>
     <string name="ch_manage_show">Listede göster</string>
     <string name="ch_manage_child_on">Çocuk modunda etkinleştir</string>
-    <string name="ch_manage_child_off">Çocuk modunda devre dışı bırak</string>
     <string name="ch_manage_status_favorite">favori</string>
     <string name="ch_manage_status_hidden">gizli</string>
     <string name="ch_manage_status_child">çocuk</string>
@@ -392,7 +391,6 @@
     <string name="access_restricted">Geçiş kısıtlı</string>
     <string name="ch_man_restrict_access">Erişimi kısıtla</string>
     <string name="ch_man_allow_access">Erişime izin vermek</string>
-    <string name="cat_man_mass_action">Tüm kanallarla eylem</string>
     <string name="cfg_set_restricted_code">Kısıtlanmış içerik için kodu ayarlayın (4 hane)</string>
     <string name="ch_restricted_unlock">Kısıtlanmış içeriğe erişimin kilidini açmak için kod girin</string>
     <string name="player_menu_manage_ch">Kanalı yönet</string>
@@ -740,4 +738,8 @@
     <string name="other_backup_options">Diğer yedekleme seçenekleri</string>
     <string name="file_on_a_device">Geçerli cihazdaki dosya</string>
     <string name="do_not_switch_to_dup_on_error">Hata durumunda otomatik olarak farklı bir kaynağa geçiş yapmayın.</string>
+    <string name="reload_on_new_channels">Yeni video kanalları algılandığında verileri yeniden yükleyin</string>
+    <string name="allow_changing_system_cat_order">Sistem kategorilerinin sırasını değiştirmeye izin ver</string>
+    <string name="invert_selection">Zıt seçim</string>
+    <string name="req_pass_on_start">Uygulamayı başlatırken şifre iste</string>
     </resources>

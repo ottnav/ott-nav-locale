@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">Kanallar</string>
     <string name="ch_manage_show">Siyahıda göstərin</string>
     <string name="ch_manage_child_on">Uşaq rejimində aktivləşdirin</string>
-    <string name="ch_manage_child_off">Uşaq rejimində deaktiv edin</string>
     <string name="ch_manage_status_favorite">Sevimli</string>
     <string name="ch_manage_status_hidden">gizli</string>
     <string name="ch_manage_status_child">uşaq</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">giriş məhdudlaşdırılıb</string>
     <string name="ch_man_restrict_access">Girişi məhdudlaşdırın</string>
     <string name="ch_man_allow_access">Girişə imkan vermək</string>
-    <string name="cat_man_mass_action">Bütün kanallarla fəaliyyət</string>
     <string name="cfg_set_restricted_code">Məhdud məzmun üçün kod təyin edin (4 rəqəm)</string>
     <string name="ch_restricted_unlock">Məhdud məzmuna girişi açmaq üçün kodu daxil edin</string>
     <string name="player_menu_manage_ch">Kanalı idarə et</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">Digər ehtiyat seçimləri</string>
     <string name="file_on_a_device">Cari cihazda fayl</string>
     <string name="do_not_switch_to_dup_on_error">Səhv zamanı avtomatik olaraq başqa mənbəyə keçməyin.</string>
+    <string name="reload_on_new_channels">Yeni video kanalları aşkar edildikdə məlumatları yenidən yükləyin</string>
+    <string name="allow_changing_system_cat_order">Sistem kateqoriyalarının sırasını dəyişməyə icazə verin</string>
+    <string name="invert_selection">Seçimi tərsinə çevirin</string>
+    <string name="req_pass_on_start">Proqramı işə salarkən parol tələb edin</string>
     </resources>

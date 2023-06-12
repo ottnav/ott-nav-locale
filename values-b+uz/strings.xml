@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">Kanallar</string>
     <string name="ch_manage_show">Ro\'yxatda ko\'rsatish</string>
     <string name="ch_manage_child_on">Bolalar rejimida yoqish</string>
-    <string name="ch_manage_child_off">Bolalar rejimida o\'chirib qo\'ying</string>
     <string name="ch_manage_status_favorite">sevimli</string>
     <string name="ch_manage_status_hidden">yashirin</string>
     <string name="ch_manage_status_child">bola</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">kirish cheklangan</string>
     <string name="ch_man_restrict_access">Kirishni cheklash</string>
     <string name="ch_man_allow_access">Kirishga ruxsat bering</string>
-    <string name="cat_man_mass_action">Barcha kanallar bilan harakat</string>
     <string name="cfg_set_restricted_code">Cheklangan kontent uchun kodni oʻrnatish (4 ta raqam)</string>
     <string name="ch_restricted_unlock">Cheklangan kontentga kirishni ochish uchun kodni kiriting</string>
     <string name="player_menu_manage_ch">Kanalni boshqarish</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">Boshqa zaxira variantlari</string>
     <string name="file_on_a_device">Joriy qurilmadagi fayl</string>
     <string name="do_not_switch_to_dup_on_error">Xatoda avtomatik ravishda boshqa manbaga o\'tmang.</string>
+    <string name="reload_on_new_channels">Yangi video kanallar aniqlanganda ma\'lumotlarni qayta yuklang</string>
+    <string name="allow_changing_system_cat_order">Tizim toifalari tartibini o\'zgartirishga ruxsat bering</string>
+    <string name="invert_selection">Tanlovni teskari aylantirish</string>
+    <string name="req_pass_on_start">Ilovani ishga tushirishda parol talab qiling</string>
     </resources>

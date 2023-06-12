@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">არხები</string>
     <string name="ch_manage_show">სიაში ჩვენება</string>
     <string name="ch_manage_child_on">ჩართვა ბავშვის რეჟიმში</string>
-    <string name="ch_manage_child_off">გამორთეთ ბავშვის რეჟიმში</string>
     <string name="ch_manage_status_favorite">საყვარელი</string>
     <string name="ch_manage_status_hidden">დამალული</string>
     <string name="ch_manage_status_child">ბავშვი</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">წვდომა შეზღუდულია</string>
     <string name="ch_man_restrict_access">შეზღუდეთ წვდომა</string>
     <string name="ch_man_allow_access">Დაუშვას</string>
-    <string name="cat_man_mass_action">მოქმედება ყველა არხით</string>
     <string name="cfg_set_restricted_code">დააყენეთ კოდი შეზღუდული შინაარსისთვის (4 ციფრი)</string>
     <string name="ch_restricted_unlock">შეიყვანეთ კოდი შეზღუდულ კონტენტზე წვდომის განსაბლოკად</string>
     <string name="player_menu_manage_ch">არხის მართვა</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">სხვა სარეზერვო პარამეტრები</string>
     <string name="file_on_a_device">ფაილი მიმდინარე მოწყობილობაზე</string>
     <string name="do_not_switch_to_dup_on_error">ავტომატურად არ გადახვიდეთ სხვა წყაროზე შეცდომის გამო.</string>
+    <string name="reload_on_new_channels">გადატვირთეთ მონაცემები, როდესაც ახალი ვიდეო არხები აღმოჩენილია</string>
+    <string name="allow_changing_system_cat_order">სისტემის კატეგორიების რიგის შეცვლის დაშვება</string>
+    <string name="invert_selection">შებრუნებული შერჩევა</string>
+    <string name="req_pass_on_start">მოითხოვეთ პაროლი აპის გაშვებისას</string>
     </resources>

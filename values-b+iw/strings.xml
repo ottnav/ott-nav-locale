@@ -351,7 +351,6 @@
     <string name="cfg_channel_manager_channels">ערוצים</string>
     <string name="ch_manage_show">הצג ברשימה</string>
     <string name="ch_manage_child_on">הפעל במצב ילד</string>
-    <string name="ch_manage_child_off">השבת במצב ילד</string>
     <string name="ch_manage_status_favorite">אהוב</string>
     <string name="ch_manage_status_hidden">מוסתר</string>
     <string name="ch_manage_status_child">ילד</string>
@@ -393,7 +392,6 @@
     <string name="access_restricted">גישה מוגבלת</string>
     <string name="ch_man_restrict_access">הגבל את הגישה</string>
     <string name="ch_man_allow_access">אפשר גישה</string>
-    <string name="cat_man_mass_action">פעולה עם כל הערוצים</string>
     <string name="cfg_set_restricted_code">הגדר קוד לתוכן מוגבל (4 ספרות)</string>
     <string name="ch_restricted_unlock">הזן קוד כדי לבטל גישה לתוכן מוגבל</string>
     <string name="player_menu_manage_ch">נהל את הערוץ</string>
@@ -741,4 +739,8 @@
     <string name="other_backup_options">תורחא יוביג תויורשפא</string>
     <string name="file_on_a_device">יחכונה רישכמב ץבוק</string>
     <string name="do_not_switch_to_dup_on_error">.תיטמוטוא האיגשב רחא רוקמל רובעת לא</string>
+    <string name="reload_on_new_channels">םישדח ואדיו יצורע והוז רשאכ םינותנ שדחמ ןעט</string>
+    <string name="allow_changing_system_cat_order">תכרעמ תוירוגטק לש רדס יוניש רשפא</string>
+    <string name="invert_selection">ךופה הריחב</string>
+    <string name="req_pass_on_start">היצקילפאה תלעפה תעב המסיס שורד</string>
     </resources>

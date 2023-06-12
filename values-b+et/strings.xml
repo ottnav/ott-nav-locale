@@ -351,7 +351,6 @@
     <string name="cfg_channel_manager_channels">Kanalid</string>
     <string name="ch_manage_show">Näita nimekirjas</string>
     <string name="ch_manage_child_on">Luba lapsrežiimis</string>
-    <string name="ch_manage_child_off">Keela lapsrežiimis</string>
     <string name="ch_manage_status_favorite">lemmik</string>
     <string name="ch_manage_status_hidden">peidetud</string>
     <string name="ch_manage_status_child">laps</string>
@@ -393,7 +392,6 @@
     <string name="access_restricted">juurdepääs on piiratud</string>
     <string name="ch_man_restrict_access">Piirake juurdepääsu</string>
     <string name="ch_man_allow_access">Luba juurdepääs</string>
-    <string name="cat_man_mass_action">Toiming kõigi kanalitega</string>
     <string name="cfg_set_restricted_code">Piiratud sisu kood (4 numbrit)</string>
     <string name="ch_restricted_unlock">Piiratud sisu avamiseks sisestage kood</string>
     <string name="player_menu_manage_ch">Kanali haldamine</string>
@@ -741,4 +739,8 @@
     <string name="other_backup_options">Muud varundusvalikud</string>
     <string name="file_on_a_device">Fail praeguses seadmes</string>
     <string name="do_not_switch_to_dup_on_error">Ärge lülituge vea korral automaatselt teisele allikale.</string>
+    <string name="reload_on_new_channels">Laadige andmed uuesti, kui on tuvastatud uued videokanalid</string>
+    <string name="allow_changing_system_cat_order">Lubage süsteemikategooriate järjekorda muuta</string>
+    <string name="invert_selection">Inverteeri valik</string>
+    <string name="req_pass_on_start">Nõua rakenduse käivitamisel parooli</string>
     </resources>

@@ -352,7 +352,6 @@
     <string name="cfg_channel_manager_channels">चैनल</string>
     <string name="ch_manage_show">सूची में दिखाएं</string>
     <string name="ch_manage_child_on">चाइल्ड मोड में सक्षम करें</string>
-    <string name="ch_manage_child_off">बाल विधा में अक्षम</string>
     <string name="ch_manage_status_favorite">पसंदीदा</string>
     <string name="ch_manage_status_hidden">छिपा हुआ</string>
     <string name="ch_manage_status_child">बच्चा</string>
@@ -394,7 +393,6 @@
     <string name="access_restricted">प्रवेश प्रतिबंधित</string>
     <string name="ch_man_restrict_access">प्रवेश निषेध</string>
     <string name="ch_man_allow_access">उपयोग की अनुमति दें</string>
-    <string name="cat_man_mass_action">सभी चैनलों के साथ कार्रवाई</string>
     <string name="cfg_set_restricted_code">प्रतिबंधित सामग्री के लिए कोड सेट करें (4 अंक)</string>
     <string name="ch_restricted_unlock">प्रतिबंधित सामग्री तक पहुंच अनलॉक करने के लिए कोड दर्ज करें</string>
     <string name="player_menu_manage_ch">चैनल प्रबंधित करें</string>
@@ -742,4 +740,8 @@
     <string name="other_backup_options">अन्य बैकअप विकल्प</string>
     <string name="file_on_a_device">वर्तमान डिवाइस पर फ़ाइल</string>
     <string name="do_not_switch_to_dup_on_error">त्रुटि होने पर स्वचालित रूप से किसी भिन्न स्रोत पर स्विच न करें।</string>
+    <string name="reload_on_new_channels">नए वीडियो चैनलों का पता चलने पर डेटा पुनः लोड करें</string>
+    <string name="allow_changing_system_cat_order">सिस्टम श्रेणियों के क्रम को बदलने की अनुमति दें</string>
+    <string name="invert_selection">उलट चयन</string>
+    <string name="req_pass_on_start">ऐप लॉन्च करते समय पासवर्ड की आवश्यकता होती है</string>
     </resources>

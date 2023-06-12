@@ -352,7 +352,6 @@
     <string name="cfg_channel_manager_channels">قنوات</string>
     <string name="ch_manage_show">تظهر في القائمة</string>
     <string name="ch_manage_child_on">تمكين في وضع الطفل</string>
-    <string name="ch_manage_child_off">تعطيل في وضع الطفل</string>
     <string name="ch_manage_status_favorite">مفضل</string>
     <string name="ch_manage_status_hidden">مخفي</string>
     <string name="ch_manage_status_child">طفل</string>
@@ -394,7 +393,6 @@
     <string name="access_restricted">الوصول مقيد</string>
     <string name="ch_man_restrict_access">الحد من الوصول</string>
     <string name="ch_man_allow_access">السماح بالمرور</string>
-    <string name="cat_man_mass_action">العمل مع جميع القنوات</string>
     <string name="cfg_set_restricted_code">تعيين رمز للمحتوى المقيد (4 أرقام)</string>
     <string name="ch_restricted_unlock">أدخل الرمز لفتح الوصول إلى المحتوى المقيد</string>
     <string name="player_menu_manage_ch">إدارة القناة</string>
@@ -724,7 +722,7 @@
     <string name="field_name_of_tv_channel">ﺔﻴﻧﻮﻳﺰﻔﻠﺗ ﺓﺎﻨﻗ ﻢﺳﺍ</string>
     <string name="field_name_of_tv_show">ﻲﻟﺎﺤﻟﺍ ﺚﺒﻟﺍ ﻢﺳﺍ</string>
     <string name="cfg_play_deny_hud_on_update">ﺚﺒﻟﺍ ﺚﻳﺪﺤﺗ ﺪﻨﻋ ﺱﻭﺅﺮﻟﺍ ﺽﺮﻋ ﻖﺜﺒﻨﺗ ﻻ</string>
-    <string name="provider_reports_sub_expired">.ﻚﻛﺍﺮﺘﺷﺍ ﺔﻴﺣﻼ﻿ﺻ ءﺎﻬﺘﻧﺍ ﻦﻋ ﻚﺑ ﺹﺎﺨﻟﺍ ﺔﻣﺪﺨﻟﺍ ﺮﻓﻮﻣ ﻎﻠﺒﻳ</string>
+    <string name="provider_reports_sub_expired">.ﻚﻛﺍﺮﺘﺷﺍ ﺔﻴﺣﻼﺻ ءﺎﻬﺘﻧﺍ ﻦﻋ ﻚﺑ ﺹﺎﺨﻟﺍ ﺔﻣﺪﺨﻟﺍ ﺮﻓﻮﻣ ﻎﻠﺒﻳ</string>
     <string name="btn_ignore">ﻞﻫﺎﺠﺘﻳ</string>
     <string name="use_vertical_view_on_phone">ﻒﺗﺎﻬﻟﺍ ﻰﻠﻋ ﻲﺳﺃﺮﻟﺍ ﺽﺮﻌﻟﺍ ﻡﺪﺨﺘﺳﺍ</string>
     <string name="lock_immediately">ﺭﻮﻔﻟﺍ ﻰﻠﻋ ﻞﻔﻗ</string>
@@ -733,13 +731,17 @@
     <string name="producer">ﺞﺘﻨﻣ</string>
     <string name="retry">ﺔﻟﻭﺎﺤﻤﻟﺍ ﺪﻋﺃ</string>
     <string name="undo">ﺓﺪﺗﺮﻤﻟﺍ ﺕﺍﺮﻴﻐﺘﻟﺍ</string>
-    <string name="set_for_phone">ﻒﺗﺍﻮﻬﻠﻟ ﻪﺑ ﻰﺻﻮﻤﻟﺍ ﺩﺍﺪﻋﻹ﻿ﺍ ﻂﺒﺿﺍ</string>
+    <string name="set_for_phone">ﻒﺗﺍﻮﻬﻠﻟ ﻪﺑ ﻰﺻﻮﻤﻟﺍ ﺩﺍﺪﻋﻹﺍ ﻂﺒﺿﺍ</string>
     <string name="trust_these_sources">ﺭﺩﺎﺼﻤﻟﺍ ﻩﺬﻬﺑ ﻖﺛ</string>
-    <string name="release_date">ﻪﻨﻋ ﺝﺍﺮﻓﻻ﻿ﺍ ﺦﻳﺭﺎﺗ</string>
-    <string name="dirs_should_be_first">ﻻً﻿ﻭﺃ ﻞﺋﻻ﻿ﺪﻟﺍ ﺩﺮﺳ ﻢﺘﻳ ﻥﺃ ﺐﺠﻳ</string>
-    <string name="hide_password">ﺎﻬﻟﺎﺧﺩﺇ ﺪﻨﻋ ﺭﻭﺮﻤﻟﺍ ﺔﻤﻠﻛ ﺮﻬﻈﺗ ﻻ﻿</string>
+    <string name="release_date">ﻪﻨﻋ ﺝﺍﺮﻓﻻﺍ ﺦﻳﺭﺎﺗ</string>
+    <string name="dirs_should_be_first">ﻻًﻭﺃ ﻞﺋﻻﺪﻟﺍ ﺩﺮﺳ ﻢﺘﻳ ﻥﺃ ﺐﺠﻳ</string>
+    <string name="hide_password">ﺎﻬﻟﺎﺧﺩﺇ ﺪﻨﻋ ﺭﻭﺮﻤﻟﺍ ﺔﻤﻠﻛ ﺮﻬﻈﺗ ﻻ</string>
     <string name="clear_data_not_currently_used">ﺎﻴًﻟﺎﺣ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺮﻴﻏ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻑﺬﺣﺍ</string>
-    <string name="other_backup_options">ﻯﺮﺧﻷ﻿ﺍ ﻲﻃﺎﻴﺘﺣﻻ﻿ﺍ ﺦﺴﻨﻟﺍ ﺕﺍﺭﺎﻴﺧ</string>
+    <string name="other_backup_options">ﻯﺮﺧﻷﺍ ﻲﻃﺎﻴﺘﺣﻻﺍ ﺦﺴﻨﻟﺍ ﺕﺍﺭﺎﻴﺧ</string>
     <string name="file_on_a_device">ﻲﻟﺎﺤﻟﺍ ﺯﺎﻬﺠﻟﺍ ﻰﻠﻋ ﻒﻠﻣ</string>
-    <string name="do_not_switch_to_dup_on_error">.ﺎﻴًﺋﺎﻘﻠﺗ ﺄﻄﺧ ﺙﻭﺪﺣ ﺪﻨﻋ ﻒﻠﺘﺨﻣ ﺭﺪﺼﻣ ﻰﻟﺇ ﻞﻳﺪﺒﺘﻟﺎﺑ ﻢﻘﺗ ﻻ﻿</string>
+    <string name="do_not_switch_to_dup_on_error">.ﺎﻴًﺋﺎﻘﻠﺗ ﺄﻄﺧ ﺙﻭﺪﺣ ﺪﻨﻋ ﻒﻠﺘﺨﻣ ﺭﺪﺼﻣ ﻰﻟﺇ ﻞﻳﺪﺒﺘﻟﺎﺑ ﻢﻘﺗ ﻻ</string>
+    <string name="reload_on_new_channels">ﺓﺪﻳﺪﺟ ﻮﻳﺪﻴﻓ ﺕﺍﻮﻨﻗ ﻑﺎﺸﺘﻛﺍ ﺪﻨﻋ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻞﻴﻤﺤﺗ ﺪﻋﺃ</string>
+    <string name="allow_changing_system_cat_order">ﻡﺎﻈﻨﻟﺍ ﺕﺎﺌﻓ ﺐﻴﺗﺮﺗ ﺮﻴﻴﻐﺘﺑ ﺡﺎﻤﺴﻟﺍ</string>
+    <string name="invert_selection">ﺏﻮﻠﻘﻤﻟﺍ ﺭﺎﻴﺘﺧﺍ</string>
+    <string name="req_pass_on_start">ﻖﻴﺒﻄﺘﻟﺍ ﻞﻴﻐﺸﺗ ﺪﻨﻋ ﺭﻭﺮﻣ ﺔﻤﻠﻛ ﺐﻠﻃ</string>
     </resources>

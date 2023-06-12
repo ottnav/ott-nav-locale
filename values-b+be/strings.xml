@@ -344,7 +344,6 @@
     <string name="cfg_channel_manager_channels">Каналы</string>
     <string name="ch_manage_show">Паказаць у спісе</string>
     <string name="ch_manage_child_on">Уключыць у дзіцячым рэжыме</string>
-    <string name="ch_manage_child_off">Выключыць у дзіцячым рэжыме</string>
     <string name="ch_manage_status_favorite">любімы</string>
     <string name="ch_manage_status_hidden">схаваны</string>
     <string name="ch_manage_status_child">дзіцячы</string>
@@ -386,7 +385,6 @@
     <string name="access_restricted">доступ абмежаваны</string>
     <string name="ch_man_restrict_access">Абмежаваць доступ</string>
     <string name="ch_man_allow_access">Дазволіць доступ</string>
-    <string name="cat_man_mass_action">Дзеянні з усімі каналамі</string>
     <string name="cfg_set_restricted_code">Усталяваць код для абмежаванага кантэнту (4 сімвала)</string>
     <string name="ch_restricted_unlock">Увесці код доступу для разблакоўкі абмежаванага кантэнту</string>
     <string name="player_menu_manage_ch">Кіраванне каналам</string>
@@ -735,4 +733,8 @@
     <string name="other_backup_options">Іншыя варыянты рэзервовага капіравання</string>
     <string name="file_on_a_device">Файл на бягучай прыладзе</string>
     <string name="do_not_switch_to_dup_on_error">Не пераключайцеся на іншую крыніцу аўтаматычна пры памылцы.</string>
+    <string name="reload_on_new_channels">Перазагружаць даныя пры выяўленні новых відэаканалаў</string>
+    <string name="allow_changing_system_cat_order">Дазволіць змяняць парадак катэгорый сістэмы</string>
+    <string name="invert_selection">Інвертаваць вылучэнне</string>
+    <string name="req_pass_on_start">Патрабаваць пароль пры запуску праграмы</string>
     </resources>

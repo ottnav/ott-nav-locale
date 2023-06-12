@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">Канали</string>
     <string name="ch_manage_show">Показване в списъка</string>
     <string name="ch_manage_child_on">Активиране Детски режим</string>
-    <string name="ch_manage_child_off">Деактивиране Детски режим</string>
     <string name="ch_manage_status_favorite">Любим</string>
     <string name="ch_manage_status_hidden">Скрит</string>
     <string name="ch_manage_status_child">Дете</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">Ограничен достъп</string>
     <string name="ch_man_restrict_access">Ограничаване на достъп</string>
     <string name="ch_man_allow_access">Разрешаване на достъп</string>
-    <string name="cat_man_mass_action">Действие с всички канали</string>
     <string name="cfg_set_restricted_code">Задаване на код за ограничено съдържание (4 цифри)</string>
     <string name="ch_restricted_unlock">Въведете код, за да отключите достъпа до ограничено съдържание</string>
     <string name="player_menu_manage_ch">Управление на канала</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">Други резервни опции</string>
     <string name="file_on_a_device">Файл на текущото устройство</string>
     <string name="do_not_switch_to_dup_on_error">Не превключвай автоматично към друг източник при грешка.</string>
+    <string name="reload_on_new_channels">Презареждане на данни, когато бъдат открити нови видео канали</string>
+    <string name="allow_changing_system_cat_order">Разрешаване на промяна на реда на системните категории</string>
+    <string name="invert_selection">Обърнете селекцията</string>
+    <string name="req_pass_on_start">Изискване на парола при стартиране на приложението</string>
     </resources>

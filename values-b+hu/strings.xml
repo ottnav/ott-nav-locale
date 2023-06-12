@@ -307,7 +307,6 @@
     <string name="cfg_channel_manager_channels">Csatornák</string>
     <string name="ch_manage_show">Mutasd a listában</string>
     <string name="ch_manage_child_on">Engedélyezés gyermek módban</string>
-    <string name="ch_manage_child_off">Letiltása gyermek módban</string>
     <string name="ch_manage_status_favorite">kedvenc</string>
     <string name="ch_manage_status_hidden">rejtett</string>
     <string name="ch_manage_status_child">gyermek</string>
@@ -347,7 +346,6 @@
     <string name="access_restricted">Hozzáférés korlátozva</string>
     <string name="ch_man_restrict_access">Hozzáférés korlátozása</string>
     <string name="ch_man_allow_access">Hozzáférést enged</string>
-    <string name="cat_man_mass_action">Akció az összes csatornával</string>
     <string name="cfg_set_restricted_code">Kód beállítása korlátozott tartalomhoz (4 számjegy)</string>
     <string name="ch_restricted_unlock">Írja be a kódot a korlátozott tartalomhoz való hozzáférés feloldásához</string>
     <string name="player_menu_manage_ch">Csatorna kezelése</string>
@@ -694,4 +692,8 @@
     <string name="other_backup_options">Egyéb biztonsági mentési lehetőségek</string>
     <string name="file_on_a_device">Fájl az aktuális eszközön</string>
     <string name="do_not_switch_to_dup_on_error">Ne váltson automatikusan másik forrásra hiba esetén.</string>
+    <string name="reload_on_new_channels">Adatok újratöltése új videocsatornák észlelésekor</string>
+    <string name="allow_changing_system_cat_order">A rendszerkategóriák sorrendjének megváltoztatása</string>
+    <string name="invert_selection">Fordított kijelölés</string>
+    <string name="req_pass_on_start">Jelszó kérése az alkalmazás indításakor</string>
     </resources>

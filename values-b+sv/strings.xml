@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">Kanaler</string>
     <string name="ch_manage_show">Visa i listan</string>
     <string name="ch_manage_child_on">Aktivera i barnläge</string>
-    <string name="ch_manage_child_off">Inaktivera i barnläge</string>
     <string name="ch_manage_status_favorite">Favorit-</string>
     <string name="ch_manage_status_hidden">Dold</string>
     <string name="ch_manage_status_child">Barn</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">Begränsad åtkomst</string>
     <string name="ch_man_restrict_access">Begränsa åtkomst</string>
     <string name="ch_man_allow_access">Tillåta åtkomst</string>
-    <string name="cat_man_mass_action">Åtgärd med alla kanaler</string>
     <string name="cfg_set_restricted_code">Ställ in kod för begränsat innehåll (4 siffror)</string>
     <string name="ch_restricted_unlock">Ange kod för att låsa upp åtkomst till begränsat innehåll</string>
     <string name="player_menu_manage_ch">Hantera kanal</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">Andra alternativ för säkerhetskopiering</string>
     <string name="file_on_a_device">Fil på den aktuella enheten</string>
     <string name="do_not_switch_to_dup_on_error">Byt inte automatiskt till en annan källa vid fel.</string>
+    <string name="reload_on_new_channels">Ladda om data när nya videokanaler har upptäckts</string>
+    <string name="allow_changing_system_cat_order">Tillåt ändrad ordning av systemkategorier</string>
+    <string name="invert_selection">Invertera urval</string>
+    <string name="req_pass_on_start">Kräv lösenord när du startar appen</string>
     </resources>

@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">Kanaler</string>
     <string name="ch_manage_show">Vis i listen</string>
     <string name="ch_manage_child_on">Aktiver i barnemodus</string>
-    <string name="ch_manage_child_off">Deaktiver i barnemodus</string>
     <string name="ch_manage_status_favorite">favoritt</string>
     <string name="ch_manage_status_hidden">skjult</string>
     <string name="ch_manage_status_child">barn</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">tilgang begrenset</string>
     <string name="ch_man_restrict_access">Begrens tilgang</string>
     <string name="ch_man_allow_access">Gi tilgang</string>
-    <string name="cat_man_mass_action">Action med alle kanaler</string>
     <string name="cfg_set_restricted_code">Angi kode for begrenset innhold (4 sifre)</string>
     <string name="ch_restricted_unlock">Skriv inn koden for å låse opp tilgangen til begrenset innhold</string>
     <string name="player_menu_manage_ch">Administrer kanal</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">Andre alternativer for sikkerhetskopiering</string>
     <string name="file_on_a_device">Fil på gjeldende enhet</string>
     <string name="do_not_switch_to_dup_on_error">Ikke bytt til en annen kilde ved feil automatisk.</string>
+    <string name="reload_on_new_channels">Last inn data på nytt når nye videokanaler er oppdaget</string>
+    <string name="allow_changing_system_cat_order">Tillat endring av rekkefølge av systemkategorier</string>
+    <string name="invert_selection">Inverter utvalg</string>
+    <string name="req_pass_on_start">Krev passord når du starter appen</string>
     </resources>

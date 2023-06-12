@@ -352,7 +352,6 @@
     <string name="cfg_channel_manager_channels">کانال ها</string>
     <string name="ch_manage_show">نمایش در لیست</string>
     <string name="ch_manage_child_on">در حالت کودک فعال شود</string>
-    <string name="ch_manage_child_off">غیر فعال کردن در حالت کودک</string>
     <string name="ch_manage_status_favorite">مورد علاقه</string>
     <string name="ch_manage_status_hidden">پنهان</string>
     <string name="ch_manage_status_child">کودک</string>
@@ -394,7 +393,6 @@
     <string name="access_restricted">دسترسی محدود شده است</string>
     <string name="ch_man_restrict_access">محدود کردن دسترسی</string>
     <string name="ch_man_allow_access">اجازه دسترسی</string>
-    <string name="cat_man_mass_action">اقدام با تمام کانالها</string>
     <string name="cfg_set_restricted_code">تنظیم کد برای محتوا محدود (4 رقم)</string>
     <string name="ch_restricted_unlock">کد را وارد کنید تا دسترسی به محتوا محدود شود</string>
     <string name="player_menu_manage_ch">مدیریت کانال</string>
@@ -723,7 +721,7 @@
     <string name="fine_tune_text_for_fields">ﺪﯿﻨﮐ ﻢﯿﻈﻨﺗ ﻖﯿﻗﺩ ﯼﺎﻫﺪﻠﯿﻓ ﯼﺍﺮﺑ ﺍﺭ ﻦﺘﻣ ﮓﻧﺭ</string>
     <string name="field_name_of_tv_channel">ﯽﻧﻮﯾﺰﯾﻮﻠﺗ ﻝﺎﻧﺎﮐ ﮏﯾ ﻡﺎﻧ</string>
     <string name="field_name_of_tv_show">ﯽﻠﻌﻓ ﺶﺨﭘ ﻡﺎﻧ</string>
-    <string name="cfg_play_deny_hud_on_update">ﺪﯿﻨﮐ ﯼﺭﺍﺩﺩﻮﺧ ﻩﺮﭘﻻ﻿ﺎﺑ ﭖﺁﺪﻫ ﺶﯾﺎﻤﻧ ﺯﺍ ،ﺶﺨﭘ ﯽﻧﺎﺳﺭﺯﻭﺭu200cﻪﺑ ﮏﯾ ﺭﺩ</string>
+    <string name="cfg_play_deny_hud_on_update">ﺪﯿﻨﮐ ﯼﺭﺍﺩﺩﻮﺧ ﻩﺮﭘﻻﺎﺑ ﭖﺁﺪﻫ ﺶﯾﺎﻤﻧ ﺯﺍ ،ﺶﺨﭘ ﯽﻧﺎﺳﺭﺯﻭﺭu200cﻪﺑ ﮏﯾ ﺭﺩ</string>
     <string name="provider_reports_sub_expired">.ﺖﺳﺍ ﻩﺪﺷ ﯽﻀﻘﻨﻣ ﺎﻤﺷ ﮎﺍﺮﺘﺷﺍ ﻪﮐ ﺪﻫﺩ ﯽﻣ ﺵﺭﺍﺰﮔ ﺎﻤﺷ ﻩﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ</string>
     <string name="btn_ignore">ﯽﺷﻮﭘ ﻢﺸﭼ</string>
     <string name="use_vertical_view_on_phone">ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﻦﻔﻠﺗ ﺭﺩ ﯼﺩﻮﻤﻋ ﯼﺎﻤﻧ ﺯﺍ</string>
@@ -742,4 +740,8 @@
     <string name="other_backup_options">ﯼﺮﯿﮔ ﻥﺎﺒﯿﺘﺸﭘ ﯼﺎﻫ ﻪﻨﯾﺰﮔ ﺮﯾﺎﺳ</string>
     <string name="file_on_a_device">ﯽﻠﻌﻓ ﻩﺎﮕﺘﺳﺩ ﺭﺩ ﻞﯾﺎﻓ</string>
     <string name="do_not_switch_to_dup_on_error">.ﺪﯿﻫﺪﻧ ﺮﯿﯿﻐﺗ ﯼﺮﮕﯾﺩ ﻊﺒﻨﻣ ﻪﺑ ﺭﺎﮐﺩﻮﺧ ﺕﺭﻮﺻ ﻪﺑ</string>
+    <string name="reload_on_new_channels">ﺪﯿﻨﮐ ﯼﺮﯿﮔﺭﺎﺑ ﻩﺭﺎﺑﻭﺩ ﺍﺭ ﺎﻫ ﻩﺩﺍﺩ ،ﺪﺷ ﯽﯾﺎﺳﺎﻨﺷ ﺪﯾﺪﺟ ﯽﯾﻮﯾﺪﯾﻭ ﯼﺎﻫ ﻝﺎﻧﺎﮐ ﻪﮐ ﯽﻣﺎﮕﻨﻫ</string>
+    <string name="allow_changing_system_cat_order">ﺪﯿﻫﺪﺑ ﺍﺭ ﻢﺘﺴﯿﺳ ﯼﺎﻫu200cﻪﺘﺳﺩ ﺐﯿﺗﺮﺗ ﺮﯿﯿﻐﺗ ﻩﺯﺎﺟﺍ</string>
+    <string name="invert_selection">ﺱﻮﮑﻌﻣ ﺏﺎﺨﺘﻧﺍ</string>
+    <string name="req_pass_on_start">ﺖﺳﺍ ﻡﺯﻻ﻿ ﺭﻮﺒﻋ ﺰﻣﺭ ،ﻪﻣﺎﻧﺮﺑ ﯼﺯﺍﺪﻧﺍu200cﻩﺍﺭ ﻡﺎﮕﻨﻫ</string>
     </resources>

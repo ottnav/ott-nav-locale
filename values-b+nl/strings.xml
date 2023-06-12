@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">kanalen</string>
     <string name="ch_manage_show">Toon in de lijst</string>
     <string name="ch_manage_child_on">Inschakelen in onderliggende modus</string>
-    <string name="ch_manage_child_off">Uitschakelen in kindermodus</string>
     <string name="ch_manage_status_favorite">favoriete</string>
     <string name="ch_manage_status_hidden">verborgen</string>
     <string name="ch_manage_status_child">kind</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">beperkte toegang</string>
     <string name="ch_man_restrict_access">Beperkte toegang</string>
     <string name="ch_man_allow_access">Toegang toegestaan</string>
-    <string name="cat_man_mass_action">Actie met alle kanalen</string>
     <string name="cfg_set_restricted_code">Voer de code in om toegang tot beperkte inhoud te krijgen (4 cijfers)</string>
     <string name="ch_restricted_unlock">Voer code in om toegang tot beperkte inhoud te krijgen</string>
     <string name="player_menu_manage_ch">Kanaal beheren</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">Andere back-upopties</string>
     <string name="file_on_a_device">Bestand op het huidige apparaat</string>
     <string name="do_not_switch_to_dup_on_error">Schakel bij een fout niet automatisch over naar een andere bron.</string>
+    <string name="reload_on_new_channels">Laad gegevens opnieuw wanneer er nieuwe videokanalen zijn gedetecteerd</string>
+    <string name="allow_changing_system_cat_order">Sta veranderende volgorde van systeemcategorieën toe</string>
+    <string name="invert_selection">Omgekeerde selectie</string>
+    <string name="req_pass_on_start">Wachtwoord vereist bij het starten van de app</string>
     </resources>

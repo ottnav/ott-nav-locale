@@ -345,7 +345,6 @@
     <string name="cfg_channel_manager_channels">Channels</string>
     <string name="ch_manage_show">Show in the list</string>
     <string name="ch_manage_child_on">Enable in child mode</string>
-    <string name="ch_manage_child_off">Disable in child mode</string>
     <string name="ch_manage_status_favorite">favorite</string>
     <string name="ch_manage_status_hidden">hidden</string>
     <string name="ch_manage_status_child">child</string>
@@ -387,7 +386,6 @@
     <string name="access_restricted">access restricted</string>
     <string name="ch_man_restrict_access">Restrict access</string>
     <string name="ch_man_allow_access">Allow access</string>
-    <string name="cat_man_mass_action">Action with all channels</string>
     <string name="cfg_set_restricted_code">Set code for restricted content (4 digits)</string>
     <string name="ch_restricted_unlock">Enter code to unlock access to restricted content</string>
     <string name="player_menu_manage_ch">Manage channel</string>
@@ -737,4 +735,8 @@
     <string name="other_backup_options">Other backup options</string>
     <string name="file_on_a_device">File on the current device</string>
     <string name="do_not_switch_to_dup_on_error">Do not switch to a different source on error automatically.</string>
+    <string name="reload_on_new_channels">Reload data when new video channels has been detected</string>
+    <string name="allow_changing_system_cat_order">Allow changing order of system categories</string>
+    <string name="invert_selection">Invert selection</string>
+    <string name="req_pass_on_start">Require password when launching the app</string>
 </resources>

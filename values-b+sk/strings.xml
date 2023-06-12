@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">Kanály</string>
     <string name="ch_manage_show">Zobraziť v zozname</string>
     <string name="ch_manage_child_on">Povoliť v detskom režime</string>
-    <string name="ch_manage_child_off">Zakázať v detskom režime</string>
     <string name="ch_manage_status_favorite">obľúbené</string>
     <string name="ch_manage_status_hidden">skryté</string>
     <string name="ch_manage_status_child">dieťa</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">prístup obmedzený</string>
     <string name="ch_man_restrict_access">Obmedziť prístup</string>
     <string name="ch_man_allow_access">Povoliť prístup</string>
-    <string name="cat_man_mass_action">Akcia so všetkými kanálmi</string>
     <string name="cfg_set_restricted_code">Nastaviť kód pre obmedzený obsah (4 číslice)</string>
     <string name="ch_restricted_unlock">Zadajte kód na odomknutie prístupu k obmedzenému obsahu</string>
     <string name="player_menu_manage_ch">Spravovať kanál</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">Ďalšie možnosti zálohovania</string>
     <string name="file_on_a_device">Súbor na aktuálnom zariadení</string>
     <string name="do_not_switch_to_dup_on_error">Neprepínajte na iný zdroj pri chybe automaticky.</string>
+    <string name="reload_on_new_channels">Po zistení nových video kanálov znova načítajte údaje</string>
+    <string name="allow_changing_system_cat_order">Povoliť zmenu poradia kategórií systému</string>
+    <string name="invert_selection">Obrátiť výber</string>
+    <string name="req_pass_on_start">Pri spustení aplikácie vyžadovať heslo</string>
     </resources>

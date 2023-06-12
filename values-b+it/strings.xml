@@ -351,7 +351,6 @@
     <string name="cfg_channel_manager_channels">canali</string>
     <string name="ch_manage_show">Mostra nella lista</string>
     <string name="ch_manage_child_on">Abilita in modalità bambino</string>
-    <string name="ch_manage_child_off">Disabilita in modalità bambino</string>
     <string name="ch_manage_status_favorite">preferito</string>
     <string name="ch_manage_status_hidden">nascosto</string>
     <string name="ch_manage_status_child">bambino</string>
@@ -393,7 +392,6 @@
     <string name="access_restricted">accesso ristretto</string>
     <string name="ch_man_restrict_access">Accesso limitato</string>
     <string name="ch_man_allow_access">Consentire l\'accesso</string>
-    <string name="cat_man_mass_action">Azione con tutti i canali</string>
     <string name="cfg_set_restricted_code">Imposta il codice per contenuto limitato (4 cifre)</string>
     <string name="ch_restricted_unlock">Inserisci il codice per sbloccare l\'accesso ai contenuti riservati</string>
     <string name="player_menu_manage_ch">Gestisci canale</string>
@@ -741,4 +739,8 @@
     <string name="other_backup_options">Altre opzioni di backup</string>
     <string name="file_on_a_device">File sul dispositivo corrente</string>
     <string name="do_not_switch_to_dup_on_error">Non passare automaticamente a una fonte diversa in caso di errore.</string>
+    <string name="reload_on_new_channels">Ricarica i dati quando vengono rilevati nuovi canali video</string>
+    <string name="allow_changing_system_cat_order">Consenti la modifica dell\'ordine delle categorie di sistema</string>
+    <string name="invert_selection">Inverti selezione</string>
+    <string name="req_pass_on_start">Richiedi la password all\'avvio dell\'app</string>
     </resources>

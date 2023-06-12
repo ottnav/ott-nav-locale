@@ -351,7 +351,6 @@
     <string name="cfg_channel_manager_channels">Saluran</string>
     <string name="ch_manage_show">Tunjukkan dalam senarai</string>
     <string name="ch_manage_child_on">Dayakan dalam mod kanak-kanak</string>
-    <string name="ch_manage_child_off">Lumpuhkan dalam mod kanak-kanak</string>
     <string name="ch_manage_status_favorite">kegemaran</string>
     <string name="ch_manage_status_hidden">tersembunyi</string>
     <string name="ch_manage_status_child">kanak-kanak</string>
@@ -393,7 +392,6 @@
     <string name="access_restricted">akses terhad</string>
     <string name="ch_man_restrict_access">Hadkan akses</string>
     <string name="ch_man_allow_access">Benarkan akses</string>
-    <string name="cat_man_mass_action">Tindakan dengan semua saluran</string>
     <string name="cfg_set_restricted_code">Tetapkan kod untuk kandungan terhad (4 angka)</string>
     <string name="ch_restricted_unlock">Masukkan kod untuk membuka kunci akses kepada kandungan terhad</string>
     <string name="player_menu_manage_ch">Urus saluran</string>
@@ -741,4 +739,8 @@
     <string name="other_backup_options">Pilihan sandaran lain</string>
     <string name="file_on_a_device">Fail pada peranti semasa</string>
     <string name="do_not_switch_to_dup_on_error">Jangan bertukar kepada sumber lain apabila ralat secara automatik.</string>
+    <string name="reload_on_new_channels">Muat semula data apabila saluran video baharu telah dikesan</string>
+    <string name="allow_changing_system_cat_order">Benarkan menukar susunan kategori sistem</string>
+    <string name="invert_selection">Terbalikkan pemilihan</string>
+    <string name="req_pass_on_start">Memerlukan kata laluan semasa melancarkan apl</string>
     </resources>

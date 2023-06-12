@@ -234,7 +234,7 @@
     <string name="settings_codec_auto">bộ giải mã mặc định cho nhà cung cấp</string>
     <string name="cfg_ign_last_codec">không nhớ bộ giải mã cuối được sử dụng để phát kênh</string>
     <string name="err_archive_is_shorter">Lưu trữ cho kênh này có tuổi thọ ngắn hơn trên nhà cung cấp của bạn</string>
-    <string name="cfg_section_backup">Sao lưu và khôi phịc</string>
+    <string name="cfg_section_backup">Sao lưu và khôi phục</string>
     <string name="btn_backup_info">Bản sao lưu được lưu trữ bởi một mã khóa. Hãy ghi nó lại ngay khi sao lưu xong. Không có gì đảm bảo thời gian sao lưu sẽ có sẵn trong bao lâu.</string>
     <string name="btn_backup_data">Sao lưu cấu hình hiện tại</string>
     <string name="btn_backup_load">Tải một bản sao lưu cấu hình đã thực hiện trước đó</string>
@@ -344,7 +344,6 @@
     <string name="cfg_channel_manager_channels">Kênh</string>
     <string name="ch_manage_show">Hiển thị trong danh sách</string>
     <string name="ch_manage_child_on">Bật trong chế độ trẻ em</string>
-    <string name="ch_manage_child_off">Tắt trong chế độ trẻ em</string>
     <string name="ch_manage_status_favorite">yêu thích</string>
     <string name="ch_manage_status_hidden">ẩn</string>
     <string name="ch_manage_status_child">trẻ em</string>
@@ -386,7 +385,6 @@
     <string name="access_restricted">truy cập bị hạn chế</string>
     <string name="ch_man_restrict_access">Hạn chế truy cập</string>
     <string name="ch_man_allow_access">Cho phép truy cập</string>
-    <string name="cat_man_mass_action">Hành động với tất cả kênh</string>
     <string name="cfg_set_restricted_code">Đặt mã khoá cho nội dung bị hạn chế (4 chữ số)</string>
     <string name="ch_restricted_unlock">Nhập mã để mở khoá truy cập vào nội dung bị hạn chế</string>
     <string name="player_menu_manage_ch">Quản lý kênh</string>
@@ -734,4 +732,8 @@
     <string name="other_backup_options">Các tùy chọn sao lưu khác</string>
     <string name="file_on_a_device">Tệp trên thiết bị hiện tại</string>
     <string name="do_not_switch_to_dup_on_error">Không tự động chuyển sang một nguồn khác khi có lỗi.</string>
+    <string name="reload_on_new_channels">Tải lại dữ liệu khi phát hiện kênh video mới</string>
+    <string name="allow_changing_system_cat_order">Cho phép thay đổi thứ tự danh mục hệ thống</string>
+    <string name="invert_selection">Lựa chọn đối nghịch</string>
+    <string name="req_pass_on_start">Yêu cầu mật khẩu khi khởi chạy ứng dụng</string>
     </resources>

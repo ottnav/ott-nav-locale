@@ -309,7 +309,6 @@
     <string name="cfg_channel_manager_channels">Canales</string>
     <string name="ch_manage_show">Mostrar en la lista</string>
     <string name="ch_manage_child_on">Habilitar en modo infantil</string>
-    <string name="ch_manage_child_off">Deshabilitar en modo infantil</string>
     <string name="ch_manage_status_favorite">Favorito</string>
     <string name="ch_manage_status_hidden">Oculto</string>
     <string name="ch_manage_status_child">Infantil</string>
@@ -349,7 +348,6 @@
     <string name="access_restricted">Acceso restringido</string>
     <string name="ch_man_restrict_access">Restringir el acceso</string>
     <string name="ch_man_allow_access">Permitir el acceso</string>
-    <string name="cat_man_mass_action">Acción con todos los canales.</string>
     <string name="cfg_set_restricted_code">Establecer código para contenido restringido (4 dígitos)</string>
     <string name="ch_restricted_unlock">Introduzca el código para desbloquear el acceso a contenido restringido</string>
     <string name="player_menu_manage_ch">Administrar canal</string>
@@ -696,4 +694,8 @@
     <string name="other_backup_options">Otras opciones de copia de seguridad</string>
     <string name="file_on_a_device">Archivo en el dispositivo actual</string>
     <string name="do_not_switch_to_dup_on_error">No cambie automáticamente a una fuente diferente en caso de error.</string>
+    <string name="reload_on_new_channels">Vuelva a cargar datos cuando se detecten nuevos canales de video</string>
+    <string name="allow_changing_system_cat_order">Permitir cambiar el orden de las categorías del sistema</string>
+    <string name="invert_selection">Invertir selección</string>
+    <string name="req_pass_on_start">Requerir contraseña al iniciar la aplicación</string>
     </resources>

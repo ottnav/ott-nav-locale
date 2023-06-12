@@ -356,7 +356,6 @@
     <string name="cfg_channel_manager_channels">Kanalai</string>
     <string name="ch_manage_show">Rodyti sąraše</string>
     <string name="ch_manage_child_on">Įjunkite vaikų režimą</string>
-    <string name="ch_manage_child_off">Išjungti vaikų režimu</string>
     <string name="ch_manage_status_favorite">mėgstamiausia</string>
     <string name="ch_manage_status_hidden">paslėpta</string>
     <string name="ch_manage_status_child">vaikas</string>
@@ -398,7 +397,6 @@
     <string name="access_restricted">apribota prieiga</string>
     <string name="ch_man_restrict_access">Apriboti prieigą</string>
     <string name="ch_man_allow_access">Suteikti prieigą</string>
-    <string name="cat_man_mass_action">Veiksmai su visais kanalais</string>
     <string name="cfg_set_restricted_code">Nustatyti riboto turinio kodą (4 skaitmenys)</string>
     <string name="ch_restricted_unlock">Įveskite kodą, jei norite atrakinti prieigą prie riboto turinio</string>
     <string name="player_menu_manage_ch">Valdyti kanalą</string>
@@ -746,4 +744,8 @@
     <string name="other_backup_options">Kitos atsarginės parinktys</string>
     <string name="file_on_a_device">Failas esamame įrenginyje</string>
     <string name="do_not_switch_to_dup_on_error">Automatiškai neperjunkite į kitą klaidos šaltinį.</string>
+    <string name="reload_on_new_channels">Iš naujo įkelti duomenis, kai aptinkami nauji vaizdo kanalai</string>
+    <string name="allow_changing_system_cat_order">Leisti keisti sistemos kategorijų tvarką</string>
+    <string name="invert_selection">Apverskite pasirinkimą</string>
+    <string name="req_pass_on_start">Paleidžiant programą reikalauti slaptažodžio</string>
     </resources>

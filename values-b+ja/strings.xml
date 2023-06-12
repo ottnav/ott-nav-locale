@@ -352,7 +352,6 @@
     <string name="cfg_channel_manager_channels">チャンネル</string>
     <string name="ch_manage_show">リストに表示する</string>
     <string name="ch_manage_child_on">子モードで有効にする</string>
-    <string name="ch_manage_child_off">子モードで無効にする</string>
     <string name="ch_manage_status_favorite">好きな</string>
     <string name="ch_manage_status_hidden">隠された</string>
     <string name="ch_manage_status_child">子</string>
@@ -394,7 +393,6 @@
     <string name="access_restricted">アクセス制限</string>
     <string name="ch_man_restrict_access">アクセスを制限する</string>
     <string name="ch_man_allow_access">アクセスを許可する</string>
-    <string name="cat_man_mass_action">全チャンネルでのアクション</string>
     <string name="cfg_set_restricted_code">制限付きコンテンツの設定コード（4桁）</string>
     <string name="ch_restricted_unlock">制限されたコンテンツへのアクセスをロック解除するためのコードを入力してください</string>
     <string name="player_menu_manage_ch">チャンネルを管理</string>
@@ -742,4 +740,8 @@
     <string name="other_backup_options">その他のバックアップ オプション</string>
     <string name="file_on_a_device">現在のデバイス上のファイル</string>
     <string name="do_not_switch_to_dup_on_error">エラー時に別のソースに自動的に切り替えないでください。</string>
+    <string name="reload_on_new_channels">新しいビデオチャンネルが検出されたときにデータをリロードします</string>
+    <string name="allow_changing_system_cat_order">システム カテゴリの順序変更を許可する</string>
+    <string name="invert_selection">選択範囲を反転する</string>
+    <string name="req_pass_on_start">アプリ起動時にパスワードを要求する</string>
     </resources>

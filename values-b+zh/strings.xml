@@ -344,7 +344,6 @@
     <string name="cfg_channel_manager_channels">全部频道</string>
     <string name="ch_manage_show">取消隐藏</string>
     <string name="ch_manage_child_on">在儿童模式下可见</string>
-    <string name="ch_manage_child_off">在儿童模式下隐藏</string>
     <string name="ch_manage_status_favorite">收藏频道</string>
     <string name="ch_manage_status_hidden">隐藏频道</string>
     <string name="ch_manage_status_child">儿童频道</string>
@@ -386,7 +385,6 @@
     <string name="access_restricted">访问受限</string>
     <string name="ch_man_restrict_access">限制访问</string>
     <string name="ch_man_allow_access">允许访问</string>
-    <string name="cat_man_mass_action">全体执行</string>
     <string name="cfg_set_restricted_code">为限制内容设置4位口令</string>
     <string name="ch_restricted_unlock">输入口令以解锁限制内容</string>
     <string name="player_menu_manage_ch">频道管理</string>
@@ -734,4 +732,8 @@
     <string name="other_backup_options">其他备份选项</string>
     <string name="file_on_a_device">当前设备上的文件</string>
     <string name="do_not_switch_to_dup_on_error">不要在出错时自动切换到不同的源。</string>
+    <string name="reload_on_new_channels">检测到新视频通道时重新加载数据</string>
+    <string name="allow_changing_system_cat_order">允许更改系统类别的顺序</string>
+    <string name="invert_selection">反转选择</string>
+    <string name="req_pass_on_start">启动应用程序时需要密码</string>
     </resources>

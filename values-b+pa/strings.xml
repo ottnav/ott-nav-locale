@@ -350,7 +350,6 @@
     <string name="cfg_channel_manager_channels">ਚੈਨਲਾਂ</string>
     <string name="ch_manage_show">ਸੂਚੀ ਵਿੱਚ ਦਿਖਾਓ</string>
     <string name="ch_manage_child_on">ਬਾਲ ਮੋਡ ਵਿੱਚ ਸਮਰੱਥ ਬਣਾਓ</string>
-    <string name="ch_manage_child_off">ਬਾਲ ਮੋਡ ਵਿੱਚ ਅਯੋਗ</string>
     <string name="ch_manage_status_favorite">ਮਨਪਸੰਦ</string>
     <string name="ch_manage_status_hidden">ਲੁਕਿਆ ਹੋਇਆ</string>
     <string name="ch_manage_status_child">ਬੱਚਾ</string>
@@ -392,7 +391,6 @@
     <string name="access_restricted">ਪਹੁੰਚ ਪ੍ਰਤਿਬੰਧਿਤ</string>
     <string name="ch_man_restrict_access">ਪਹੁੰਚ ਨੂੰ ਪ੍ਰਤਿਬੰਧਿਤ ਕਰੋ</string>
     <string name="ch_man_allow_access">ਪਹੁੰਚ ਦੀ ਆਗਿਆ ਦਿਓ</string>
-    <string name="cat_man_mass_action">ਸਾਰੇ ਚੈਨਲਸ ਨਾਲ ਕਾਰਵਾਈ</string>
     <string name="cfg_set_restricted_code">ਪ੍ਰਤਿਬੰਧਿਤ ਸਮੱਗਰੀ ਲਈ ਕੋਡ ਸੈਟ ਕਰੋ (4 ਅੰਕ)</string>
     <string name="ch_restricted_unlock">ਪ੍ਰਤਿਬੰਧਿਤ ਸਮੱਗਰੀ ਤੱਕ ਪਹੁੰਚ ਨੂੰ ਅਨਲੌਕ ਕਰਨ ਲਈ ਕੋਡ ਦਰਜ ਕਰੋ</string>
     <string name="player_menu_manage_ch">ਚੈਨਲ ਪ੍ਰਬੰਧਿਤ ਕਰੋ</string>
@@ -740,4 +738,8 @@
     <string name="other_backup_options">ਹੋਰ ਬੈਕਅੱਪ ਵਿਕਲਪ</string>
     <string name="file_on_a_device">ਮੌਜੂਦਾ ਡਿਵਾਈਸ \'ਤੇ ਫਾਈਲ</string>
     <string name="do_not_switch_to_dup_on_error">ਆਪਣੇ ਆਪ ਗਲਤੀ ਹੋਣ \'ਤੇ ਕਿਸੇ ਵੱਖਰੇ ਸਰੋਤ \'ਤੇ ਸਵਿਚ ਨਾ ਕਰੋ।</string>
+    <string name="reload_on_new_channels">ਨਵੇਂ ਵੀਡੀਓ ਚੈਨਲਾਂ ਦਾ ਪਤਾ ਲੱਗਣ \'ਤੇ ਡਾਟਾ ਰੀਲੋਡ ਕਰੋ</string>
+    <string name="allow_changing_system_cat_order">ਸਿਸਟਮ ਸ਼੍ਰੇਣੀਆਂ ਦੇ ਕ੍ਰਮ ਨੂੰ ਬਦਲਣ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="invert_selection">ਉਲਟ ਚੋਣ</string>
+    <string name="req_pass_on_start">ਐਪ ਨੂੰ ਲਾਂਚ ਕਰਦੇ ਸਮੇਂ ਪਾਸਵਰਡ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ</string>
     </resources>

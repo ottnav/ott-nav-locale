@@ -353,7 +353,6 @@
     <string name="cfg_channel_manager_channels">চ্যানেল</string>
     <string name="ch_manage_show">তালিকা প্রদর্শন করুন</string>
     <string name="ch_manage_child_on">শিশু মোডে সক্রিয় করুন</string>
-    <string name="ch_manage_child_off">শিশু মোডে অক্ষম</string>
     <string name="ch_manage_status_favorite">প্রিয়</string>
     <string name="ch_manage_status_hidden">গোপন</string>
     <string name="ch_manage_status_child">শিশু</string>
@@ -395,7 +394,6 @@
     <string name="access_restricted">সংরক্ষিত এলাকা</string>
     <string name="ch_man_restrict_access">প্রবেশাধিকার সংরক্ষিত</string>
     <string name="ch_man_allow_access">ব্যবহারের অনুমতি</string>
-    <string name="cat_man_mass_action">সব চ্যানেলের সাথে কর্ম</string>
     <string name="cfg_set_restricted_code">সীমিত কন্টেন্ট জন্য কোড সেট করুন (4 সংখ্যা)</string>
     <string name="ch_restricted_unlock">সীমিত কন্টেন্ট অ্যাক্সেস আনলক করতে কোড লিখুন</string>
     <string name="player_menu_manage_ch">চ্যানেল পরিচালনা করুন</string>
@@ -743,4 +741,8 @@
     <string name="other_backup_options">অন্যান্য ব্যাকআপ বিকল্প</string>
     <string name="file_on_a_device">বর্তমান ডিভাইসে ফাইল</string>
     <string name="do_not_switch_to_dup_on_error">স্বয়ংক্রিয়ভাবে ত্রুটির উপর একটি ভিন্ন উৎসে সুইচ করবেন না।</string>
+    <string name="reload_on_new_channels">নতুন ভিডিও চ্যানেল সনাক্ত করা হলে ডেটা পুনরায় লোড করুন</string>
+    <string name="allow_changing_system_cat_order">সিস্টেম বিভাগের ক্রম পরিবর্তন করার অনুমতি দিন</string>
+    <string name="invert_selection">ব্যুত্ক্রমে নির্বাচন</string>
+    <string name="req_pass_on_start">অ্যাপ চালু করার সময় পাসওয়ার্ড প্রয়োজন</string>
     </resources>

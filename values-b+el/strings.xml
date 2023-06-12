@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">Κανάλια</string>
     <string name="ch_manage_show">Εμφάνιση στη λίστα</string>
     <string name="ch_manage_child_on">Ενεργοποίηση σε παιδική λειτουργία</string>
-    <string name="ch_manage_child_off">Απενεργοποίηση σε κατάσταση παιδιού</string>
     <string name="ch_manage_status_favorite">αγαπημένη</string>
     <string name="ch_manage_status_hidden">κεκρυμμένος</string>
     <string name="ch_manage_status_child">παιδί</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">απαγορευμένη πρόσβαση</string>
     <string name="ch_man_restrict_access">Περιορισμός πρόσβασης</string>
     <string name="ch_man_allow_access">Επιτρέψτε την πρόσβαση</string>
-    <string name="cat_man_mass_action">Δράση με όλα τα κανάλια</string>
     <string name="cfg_set_restricted_code">Ορισμός κωδικού για περιορισμένο περιεχόμενο (4 ψηφία)</string>
     <string name="ch_restricted_unlock">Εισαγάγετε τον κωδικό για να ξεκλειδώσετε την πρόσβαση σε περιορισμένο περιεχόμενο</string>
     <string name="player_menu_manage_ch">Διαχείριση καναλιού</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">Άλλες επιλογές δημιουργίας αντιγράφων ασφαλείας</string>
     <string name="file_on_a_device">Αρχείο στην τρέχουσα συσκευή</string>
     <string name="do_not_switch_to_dup_on_error">Μην μεταβείτε αυτόματα σε διαφορετική πηγή στο σφάλμα.</string>
+    <string name="reload_on_new_channels">Επαναφόρτωση δεδομένων όταν εντοπιστούν νέα κανάλια βίντεο</string>
+    <string name="allow_changing_system_cat_order">Να επιτρέπεται η αλλαγή σειράς κατηγοριών συστήματος</string>
+    <string name="invert_selection">Αντιστροφή επιλογής</string>
+    <string name="req_pass_on_start">Απαιτείται κωδικός πρόσβασης κατά την εκκίνηση της εφαρμογής</string>
     </resources>

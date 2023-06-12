@@ -350,7 +350,6 @@
     <string name="cfg_channel_manager_channels">Kanāli</string>
     <string name="ch_manage_show">Rādīt sarakstā</string>
     <string name="ch_manage_child_on">Iespējot bērnu režīmā</string>
-    <string name="ch_manage_child_off">Atspējot bērnu režīmā</string>
     <string name="ch_manage_status_favorite">mīļākie</string>
     <string name="ch_manage_status_hidden">slēpta</string>
     <string name="ch_manage_status_child">bērns</string>
@@ -392,7 +391,6 @@
     <string name="access_restricted">piekļuve ir ierobežota</string>
     <string name="ch_man_restrict_access">Ierobežot piekļuvi</string>
     <string name="ch_man_allow_access">Atļaut piekļuvi</string>
-    <string name="cat_man_mass_action">Darbība ar visiem kanāliem</string>
     <string name="cfg_set_restricted_code">Ierobežota satura koda iestatīšana (4 cipari)</string>
     <string name="ch_restricted_unlock">Ievadiet kodu, lai atbloķētu piekļuvi ierobežotam saturam</string>
     <string name="player_menu_manage_ch">Pārvaldiet kanālu</string>
@@ -740,4 +738,8 @@
     <string name="other_backup_options">Citas rezerves iespējas</string>
     <string name="file_on_a_device">Fails pašreizējā ierīcē</string>
     <string name="do_not_switch_to_dup_on_error">Nepārslēdzieties uz citu avotu automātiski kļūdas gadījumā.</string>
+    <string name="reload_on_new_channels">Pārlādēt datus, kad ir konstatēti jauni video kanāli</string>
+    <string name="allow_changing_system_cat_order">Atļaut mainīt sistēmas kategoriju secību</string>
+    <string name="invert_selection">Apgriezt atlasi</string>
+    <string name="req_pass_on_start">Palaižot lietotni, pieprasīt paroli</string>
     </resources>

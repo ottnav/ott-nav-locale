@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">Kanali</string>
     <string name="ch_manage_show">Prikaži na listi</string>
     <string name="ch_manage_child_on">Omogući u dječjem načinu</string>
-    <string name="ch_manage_child_off">Onemogući u dječjem načinu rada</string>
     <string name="ch_manage_status_favorite">favorit</string>
     <string name="ch_manage_status_hidden">skriveno</string>
     <string name="ch_manage_status_child">dijete</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">pristup ograničen</string>
     <string name="ch_man_restrict_access">Ograničite pristup</string>
     <string name="ch_man_allow_access">Dozvoli pristup</string>
-    <string name="cat_man_mass_action">Akcija sa svim kanalima</string>
     <string name="cfg_set_restricted_code">Postavite kod za ograničen sadržaj (4 cifre)</string>
     <string name="ch_restricted_unlock">Unesite kod za otključavanje pristupa ograničenom sadržaju</string>
     <string name="player_menu_manage_ch">Upravljaj kanalom</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">Druge rezervne opcije</string>
     <string name="file_on_a_device">Datoteka na trenutnom uređaju</string>
     <string name="do_not_switch_to_dup_on_error">Nemojte automatski prelaziti na drugi izvor u slučaju greške.</string>
+    <string name="reload_on_new_channels">Ponovo učitajte podatke kada se otkriju novi video kanali</string>
+    <string name="allow_changing_system_cat_order">Dozvolite promjenu redoslijeda kategorija sistema</string>
+    <string name="invert_selection">Obrni odabir</string>
+    <string name="req_pass_on_start">Zahtijevaj lozinku prilikom pokretanja aplikacije</string>
     </resources>

@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">Kanały</string>
     <string name="ch_manage_show">Pokaż na liście</string>
     <string name="ch_manage_child_on">Włącz w Trybie dziecka</string>
-    <string name="ch_manage_child_off">Wyłącz w Trybie dziecka</string>
     <string name="ch_manage_status_favorite">Ulubione</string>
     <string name="ch_manage_status_hidden">Ukryte</string>
     <string name="ch_manage_status_child">dziecko</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">ograniczony dostęp</string>
     <string name="ch_man_restrict_access">Ogranicz dostęp</string>
     <string name="ch_man_allow_access">Umożliwić dostęp</string>
-    <string name="cat_man_mass_action">Działania ze wszystkimi kanałami</string>
     <string name="cfg_set_restricted_code">Ustaw kod dla ograniczonej zawartości (4 cyfry)</string>
     <string name="ch_restricted_unlock">Wprowadź kod, aby odblokować dostęp do ograniczonej zawartości</string>
     <string name="player_menu_manage_ch">Zarządzaj Kanałem</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">Inne opcje tworzenia kopii zapasowych</string>
     <string name="file_on_a_device">Plik na bieżącym urządzeniu</string>
     <string name="do_not_switch_to_dup_on_error">Nie przełączaj automatycznie na inne źródło w przypadku błędu.</string>
+    <string name="reload_on_new_channels">Przeładuj dane po wykryciu nowych kanałów wideo</string>
+    <string name="allow_changing_system_cat_order">Zezwalaj na zmianę kolejności kategorii systemu</string>
+    <string name="invert_selection">Odwróć wybór</string>
+    <string name="req_pass_on_start">Wymagaj hasła podczas uruchamiania aplikacji</string>
     </resources>

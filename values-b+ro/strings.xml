@@ -307,7 +307,6 @@
     <string name="cfg_channel_manager_channels">canale</string>
     <string name="ch_manage_show">Afișați în listă</string>
     <string name="ch_manage_child_on">Activați în modul copil</string>
-    <string name="ch_manage_child_off">Dezactivați în modul copil</string>
     <string name="ch_manage_status_favorite">favorit</string>
     <string name="ch_manage_status_hidden">ascuns</string>
     <string name="ch_manage_status_child">copil</string>
@@ -347,7 +346,6 @@
     <string name="access_restricted">Acces Restrictionat</string>
     <string name="ch_man_restrict_access">Acces restrictionat</string>
     <string name="ch_man_allow_access">Permite accesul</string>
-    <string name="cat_man_mass_action">Acțiune cu toate canalele</string>
     <string name="cfg_set_restricted_code">Setați codul pentru conținut restricționat (4 cifre)</string>
     <string name="ch_restricted_unlock">Introduceți codul pentru a debloca accesul la conținut restricționat</string>
     <string name="player_menu_manage_ch">Gestionați canalul</string>
@@ -694,4 +692,8 @@
     <string name="other_backup_options">Alte opțiuni de rezervă</string>
     <string name="file_on_a_device">Fișier pe dispozitivul curent</string>
     <string name="do_not_switch_to_dup_on_error">Nu comutați automat la altă sursă în caz de eroare.</string>
+    <string name="reload_on_new_channels">Reîncărcați datele când au fost detectate noi canale video</string>
+    <string name="allow_changing_system_cat_order">Permite schimbarea ordinii categoriilor de sistem</string>
+    <string name="invert_selection">Inverseaza selectia</string>
+    <string name="req_pass_on_start">Solicitați parola la lansarea aplicației</string>
     </resources>

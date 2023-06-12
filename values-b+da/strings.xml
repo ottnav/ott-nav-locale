@@ -308,7 +308,6 @@
     <string name="cfg_channel_manager_channels">Kanaler</string>
     <string name="ch_manage_show">Vis i listen</string>
     <string name="ch_manage_child_on">Aktiver i børnetilstand</string>
-    <string name="ch_manage_child_off">Deaktiver i børnetilstand</string>
     <string name="ch_manage_status_favorite">favorit</string>
     <string name="ch_manage_status_hidden">skjult</string>
     <string name="ch_manage_status_child">barn</string>
@@ -348,7 +347,6 @@
     <string name="access_restricted">adgang begrænset</string>
     <string name="ch_man_restrict_access">Begræns adgangen</string>
     <string name="ch_man_allow_access">Tillad adgang</string>
-    <string name="cat_man_mass_action">Action med alle kanaler</string>
     <string name="cfg_set_restricted_code">Indstil kode for begrænset indhold (4 cifre)</string>
     <string name="ch_restricted_unlock">Indtast kode for at låse op for adgang til begrænset indhold</string>
     <string name="player_menu_manage_ch">Administrer kanal</string>
@@ -695,4 +693,8 @@
     <string name="other_backup_options">Andre sikkerhedskopieringsmuligheder</string>
     <string name="file_on_a_device">Fil på den aktuelle enhed</string>
     <string name="do_not_switch_to_dup_on_error">Skift ikke automatisk til en anden kilde ved fejl.</string>
+    <string name="reload_on_new_channels">Genindlæs data, når nye videokanaler er blevet fundet</string>
+    <string name="allow_changing_system_cat_order">Tillad ændring af rækkefølgen af systemkategorier</string>
+    <string name="invert_selection">Invertere valg</string>
+    <string name="req_pass_on_start">Kræv adgangskode, når du starter appen</string>
     </resources>
