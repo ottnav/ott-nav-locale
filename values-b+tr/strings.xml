@@ -742,4 +742,6 @@
     <string name="allow_changing_system_cat_order">Sistem kategorilerinin sırasını değiştirmeye izin ver</string>
     <string name="invert_selection">Zıt seçim</string>
     <string name="req_pass_on_start">Uygulamayı başlatırken şifre iste</string>
+    <string name="toggle_password_visibility">Parola görünürlüğünü değiştir</string>
+    <string name="copy_settings_to_this_profile">Ayarları geçerli profile kopyala</string>
     </resources>

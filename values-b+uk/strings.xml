@@ -736,4 +736,6 @@
     <string name="allow_changing_system_cat_order">Дозволити змінювати порядок категорій системи</string>
     <string name="invert_selection">Інвертувати виділення</string>
     <string name="req_pass_on_start">Вимагати пароль під час запуску програми</string>
+    <string name="toggle_password_visibility">Перемкнути видимість пароля</string>
+    <string name="copy_settings_to_this_profile">Копіювати налаштування в поточний профіль</string>
     </resources>

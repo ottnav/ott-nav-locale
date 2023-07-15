@@ -697,4 +697,6 @@
     <string name="allow_changing_system_cat_order">Tizim toifalari tartibini o\'zgartirishga ruxsat bering</string>
     <string name="invert_selection">Tanlovni teskari aylantirish</string>
     <string name="req_pass_on_start">Ilovani ishga tushirishda parol talab qiling</string>
+    <string name="toggle_password_visibility">Parolning koʻrinishini oʻzgartirish</string>
+    <string name="copy_settings_to_this_profile">Sozlamalarni joriy profilga nusxalash</string>
     </resources>

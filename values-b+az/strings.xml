@@ -697,4 +697,6 @@
     <string name="allow_changing_system_cat_order">Sistem kateqoriyalarının sırasını dəyişməyə icazə verin</string>
     <string name="invert_selection">Seçimi tərsinə çevirin</string>
     <string name="req_pass_on_start">Proqramı işə salarkən parol tələb edin</string>
+    <string name="toggle_password_visibility">Parolun görünməsini dəyişdirin</string>
+    <string name="copy_settings_to_this_profile">Parametrləri cari profilə kopyalayın</string>
     </resources>

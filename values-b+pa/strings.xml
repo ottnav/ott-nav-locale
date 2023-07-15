@@ -742,4 +742,6 @@
     <string name="allow_changing_system_cat_order">ਸਿਸਟਮ ਸ਼੍ਰੇਣੀਆਂ ਦੇ ਕ੍ਰਮ ਨੂੰ ਬਦਲਣ ਦੀ ਆਗਿਆ ਦਿਓ</string>
     <string name="invert_selection">ਉਲਟ ਚੋਣ</string>
     <string name="req_pass_on_start">ਐਪ ਨੂੰ ਲਾਂਚ ਕਰਦੇ ਸਮੇਂ ਪਾਸਵਰਡ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ</string>
+    <string name="toggle_password_visibility">ਪਾਸਵਰਡ ਦਿਖਣਯੋਗਤਾ ਨੂੰ ਟੌਗਲ ਕਰੋ</string>
+    <string name="copy_settings_to_this_profile">ਸੈਟਿੰਗਾਂ ਨੂੰ ਮੌਜੂਦਾ ਪ੍ਰੋਫਾਈਲ \'ਤੇ ਕਾਪੀ ਕਰੋ</string>
     </resources>

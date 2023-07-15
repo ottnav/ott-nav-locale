@@ -697,4 +697,6 @@
     <string name="allow_changing_system_cat_order">სისტემის კატეგორიების რიგის შეცვლის დაშვება</string>
     <string name="invert_selection">შებრუნებული შერჩევა</string>
     <string name="req_pass_on_start">მოითხოვეთ პაროლი აპის გაშვებისას</string>
+    <string name="toggle_password_visibility">პაროლის ხილვადობის გადართვა</string>
+    <string name="copy_settings_to_this_profile">დააკოპირეთ პარამეტრები მიმდინარე პროფილში</string>
     </resources>

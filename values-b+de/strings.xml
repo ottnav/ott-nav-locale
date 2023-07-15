@@ -697,4 +697,6 @@
     <string name="allow_changing_system_cat_order">Ändern der Reihenfolge der Systemkategorien zulassen</string>
     <string name="invert_selection">Auswahl umkehren</string>
     <string name="req_pass_on_start">Beim Starten der App ist ein Passwort erforderlich</string>
+    <string name="toggle_password_visibility">Passwortsichtbarkeit umschalten</string>
+    <string name="copy_settings_to_this_profile">Einstellungen in das aktuelle Profil kopieren</string>
     </resources>

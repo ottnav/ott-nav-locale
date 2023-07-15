@@ -696,4 +696,6 @@
     <string name="allow_changing_system_cat_order">Permite schimbarea ordinii categoriilor de sistem</string>
     <string name="invert_selection">Inverseaza selectia</string>
     <string name="req_pass_on_start">Solicitați parola la lansarea aplicației</string>
+    <string name="toggle_password_visibility">Comutați vizibilitatea parolei</string>
+    <string name="copy_settings_to_this_profile">Copiați setările în profilul curent</string>
     </resources>

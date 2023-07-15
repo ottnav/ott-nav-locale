@@ -742,4 +742,6 @@
     <string name="allow_changing_system_cat_order">Atļaut mainīt sistēmas kategoriju secību</string>
     <string name="invert_selection">Apgriezt atlasi</string>
     <string name="req_pass_on_start">Palaižot lietotni, pieprasīt paroli</string>
+    <string name="toggle_password_visibility">Pārslēgt paroles redzamību</string>
+    <string name="copy_settings_to_this_profile">Kopēt iestatījumus pašreizējā profilā</string>
     </resources>

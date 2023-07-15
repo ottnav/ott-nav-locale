@@ -696,4 +696,6 @@
     <string name="allow_changing_system_cat_order">Povolit změnu pořadí kategorií systému</string>
     <string name="invert_selection">Obrátit výběr</string>
     <string name="req_pass_on_start">Při spouštění aplikace vyžadovat heslo</string>
+    <string name="toggle_password_visibility">Přepnout viditelnost hesla</string>
+    <string name="copy_settings_to_this_profile">Zkopírujte nastavení do aktuálního profilu</string>
     </resources>

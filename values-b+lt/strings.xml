@@ -748,4 +748,6 @@
     <string name="allow_changing_system_cat_order">Leisti keisti sistemos kategorijų tvarką</string>
     <string name="invert_selection">Apverskite pasirinkimą</string>
     <string name="req_pass_on_start">Paleidžiant programą reikalauti slaptažodžio</string>
+    <string name="toggle_password_visibility">Perjungti slaptažodžio matomumą</string>
+    <string name="copy_settings_to_this_profile">Nukopijuokite nustatymus į dabartinį profilį</string>
     </resources>

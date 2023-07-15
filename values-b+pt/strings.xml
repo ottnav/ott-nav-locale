@@ -743,4 +743,6 @@
     <string name="allow_changing_system_cat_order">Permitir alteração da ordem das categorias do sistema</string>
     <string name="invert_selection">Seleção invertida</string>
     <string name="req_pass_on_start">Exigir senha ao iniciar o aplicativo</string>
+    <string name="toggle_password_visibility">Alternar visibilidade da senha</string>
+    <string name="copy_settings_to_this_profile">Copiar configurações para o perfil atual</string>
     </resources>

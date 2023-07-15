@@ -737,4 +737,6 @@
     <string name="allow_changing_system_cat_order">Дозволите промену редоследа категорија система</string>
     <string name="invert_selection">Обрни селекцију</string>
     <string name="req_pass_on_start">Захтевајте лозинку приликом покретања апликације</string>
+    <string name="toggle_password_visibility">Укључите видљивост лозинке</string>
+    <string name="copy_settings_to_this_profile">Копирајте подешавања на тренутни профил</string>
     </resources>

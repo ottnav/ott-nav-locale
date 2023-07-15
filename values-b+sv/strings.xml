@@ -697,4 +697,6 @@
     <string name="allow_changing_system_cat_order">Tillåt ändrad ordning av systemkategorier</string>
     <string name="invert_selection">Invertera urval</string>
     <string name="req_pass_on_start">Kräv lösenord när du startar appen</string>
+    <string name="toggle_password_visibility">Växla lösenordssynlighet</string>
+    <string name="copy_settings_to_this_profile">Kopiera inställningar till aktuell profil</string>
     </resources>

@@ -739,4 +739,6 @@
     <string name="allow_changing_system_cat_order">Allow changing order of system categories</string>
     <string name="invert_selection">Invert selection</string>
     <string name="req_pass_on_start">Require password when launching the app</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+    <string name="copy_settings_to_this_profile">Copy settings to current profile</string>
 </resources>

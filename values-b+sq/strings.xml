@@ -697,4 +697,6 @@
     <string name="allow_changing_system_cat_order">Lejo ndryshimin e rendit të kategorive të sistemit</string>
     <string name="invert_selection">Inverto përzgjedhjen</string>
     <string name="req_pass_on_start">Kërkoni fjalëkalim kur hapni aplikacionin</string>
+    <string name="toggle_password_visibility">Ndrysho dukshmërinë e fjalëkalimit</string>
+    <string name="copy_settings_to_this_profile">Kopjoni cilësimet në profilin aktual</string>
     </resources>

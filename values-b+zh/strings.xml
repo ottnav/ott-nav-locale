@@ -736,4 +736,6 @@
     <string name="allow_changing_system_cat_order">允许更改系统类别的顺序</string>
     <string name="invert_selection">反转选择</string>
     <string name="req_pass_on_start">启动应用程序时需要密码</string>
+    <string name="toggle_password_visibility">切换密码可见性</string>
+    <string name="copy_settings_to_this_profile">将设置复制到当前配置文件</string>
     </resources>

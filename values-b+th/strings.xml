@@ -697,4 +697,6 @@
     <string name="allow_changing_system_cat_order">อนุญาตให้เปลี่ยนลำดับหมวดหมู่ของระบบ</string>
     <string name="invert_selection">สลับการเลือก</string>
     <string name="req_pass_on_start">ต้องใช้รหัสผ่านเมื่อเปิดแอป</string>
+    <string name="toggle_password_visibility">สลับการแสดงรหัสผ่าน</string>
+    <string name="copy_settings_to_this_profile">คัดลอกการตั้งค่าไปยังโปรไฟล์ปัจจุบัน</string>
     </resources>

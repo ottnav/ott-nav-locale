@@ -744,4 +744,6 @@
     <string name="allow_changing_system_cat_order">सिस्टम श्रेणियों के क्रम को बदलने की अनुमति दें</string>
     <string name="invert_selection">उलट चयन</string>
     <string name="req_pass_on_start">ऐप लॉन्च करते समय पासवर्ड की आवश्यकता होती है</string>
+    <string name="toggle_password_visibility">पासवर्ड दृश्यता टॉगल करें</string>
+    <string name="copy_settings_to_this_profile">सेटिंग्स को वर्तमान प्रोफ़ाइल में कॉपी करें</string>
     </resources>

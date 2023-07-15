@@ -697,4 +697,6 @@
     <string name="allow_changing_system_cat_order">Salli järjestelmäluokkien järjestyksen muuttaminen</string>
     <string name="invert_selection">Käänteinen valinta</string>
     <string name="req_pass_on_start">Vaadi salasana sovelluksen käynnistämisen yhteydessä</string>
+    <string name="toggle_password_visibility">Vaihda salasanan näkyvyys</string>
+    <string name="copy_settings_to_this_profile">Kopioi asetukset nykyiseen profiiliin</string>
     </resources>

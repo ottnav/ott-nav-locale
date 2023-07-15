@@ -697,4 +697,6 @@
     <string name="allow_changing_system_cat_order">Izinkan mengubah urutan kategori sistem</string>
     <string name="invert_selection">Pilihan sebaliknya</string>
     <string name="req_pass_on_start">Wajibkan kata sandi saat meluncurkan aplikasi</string>
+    <string name="toggle_password_visibility">Alihkan visibilitas kata sandi</string>
+    <string name="copy_settings_to_this_profile">Salin pengaturan ke profil saat ini</string>
     </resources>

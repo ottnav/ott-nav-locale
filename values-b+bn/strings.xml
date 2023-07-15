@@ -745,4 +745,6 @@
     <string name="allow_changing_system_cat_order">সিস্টেম বিভাগের ক্রম পরিবর্তন করার অনুমতি দিন</string>
     <string name="invert_selection">ব্যুত্ক্রমে নির্বাচন</string>
     <string name="req_pass_on_start">অ্যাপ চালু করার সময় পাসওয়ার্ড প্রয়োজন</string>
+    <string name="toggle_password_visibility">পাসওয়ার্ড দৃশ্যমানতা টগল করুন</string>
+    <string name="copy_settings_to_this_profile">বর্তমান প্রোফাইলে সেটিংস কপি করুন</string>
     </resources>

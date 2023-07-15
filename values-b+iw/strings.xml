@@ -743,4 +743,6 @@
     <string name="allow_changing_system_cat_order">תכרעמ תוירוגטק לש רדס יוניש רשפא</string>
     <string name="invert_selection">ךופה הריחב</string>
     <string name="req_pass_on_start">היצקילפאה תלעפה תעב המסיס שורד</string>
+    <string name="toggle_password_visibility">המסיסה תוארנ תא ףלחה</string>
+    <string name="copy_settings_to_this_profile">יחכונה ליפורפל תורדגהה תא קתעה</string>
     </resources>

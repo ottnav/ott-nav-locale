@@ -744,4 +744,6 @@
     <string name="allow_changing_system_cat_order">システム カテゴリの順序変更を許可する</string>
     <string name="invert_selection">選択範囲を反転する</string>
     <string name="req_pass_on_start">アプリ起動時にパスワードを要求する</string>
+    <string name="toggle_password_visibility">パスワードの表示を切り替えます</string>
+    <string name="copy_settings_to_this_profile">設定を現在のプロファイルにコピーする</string>
     </resources>

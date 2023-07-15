@@ -696,4 +696,6 @@
     <string name="allow_changing_system_cat_order">A rendszerkategóriák sorrendjének megváltoztatása</string>
     <string name="invert_selection">Fordított kijelölés</string>
     <string name="req_pass_on_start">Jelszó kérése az alkalmazás indításakor</string>
+    <string name="toggle_password_visibility">Jelszó láthatóságának váltása</string>
+    <string name="copy_settings_to_this_profile">Beállítások másolása az aktuális profilba</string>
     </resources>

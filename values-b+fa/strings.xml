@@ -744,4 +744,6 @@
     <string name="allow_changing_system_cat_order">ﺪﯿﻫﺪﺑ ﺍﺭ ﻢﺘﺴﯿﺳ ﯼﺎﻫu200cﻪﺘﺳﺩ ﺐﯿﺗﺮﺗ ﺮﯿﯿﻐﺗ ﻩﺯﺎﺟﺍ</string>
     <string name="invert_selection">ﺱﻮﮑﻌﻣ ﺏﺎﺨﺘﻧﺍ</string>
     <string name="req_pass_on_start">ﺖﺳﺍ ﻡﺯﻻ﻿ ﺭﻮﺒﻋ ﺰﻣﺭ ،ﻪﻣﺎﻧﺮﺑ ﯼﺯﺍﺪﻧﺍu200cﻩﺍﺭ ﻡﺎﮕﻨﻫ</string>
+    <string name="toggle_password_visibility">ﺪﯿﻫﺩ ﺮﯿﯿﻐﺗ ﺍﺭ ﺭﻮﺒﻋ ﺰﻣﺭ ﻩﺪﻫﺎﺸﻣ ﺖﯿﻠﺑﺎﻗ</string>
+    <string name="copy_settings_to_this_profile">ﺪﯿﻨﮐ ﯽﭙﮐ ﯽﻠﻌﻓ ﻪﯾﺎﻤﻧ ﺭﺩ ﺍﺭ ﺕﺎﻤﯿﻈﻨﺗ</string>
     </resources>

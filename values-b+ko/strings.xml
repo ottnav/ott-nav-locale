@@ -746,4 +746,6 @@
     <string name="allow_changing_system_cat_order">"시스템 범주의 순서 변경 허용"</string>
     <string name="invert_selection">반전 선택</string>
     <string name="req_pass_on_start">앱 실행 시 비밀번호 요구</string>
+    <string name="toggle_password_visibility">비밀번호 가시성 전환</string>
+    <string name="copy_settings_to_this_profile">현재 프로필에 설정 복사</string>
     </resources>

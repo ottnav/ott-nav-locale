@@ -697,4 +697,6 @@
     <string name="allow_changing_system_cat_order">Zezwalaj na zmianę kolejności kategorii systemu</string>
     <string name="invert_selection">Odwróć wybór</string>
     <string name="req_pass_on_start">Wymagaj hasła podczas uruchamiania aplikacji</string>
+    <string name="toggle_password_visibility">Przełącz widoczność hasła</string>
+    <string name="copy_settings_to_this_profile">Skopiuj ustawienia do bieżącego profilu</string>
     </resources>

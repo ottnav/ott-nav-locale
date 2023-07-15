@@ -697,4 +697,6 @@
     <string name="allow_changing_system_cat_order">Να επιτρέπεται η αλλαγή σειράς κατηγοριών συστήματος</string>
     <string name="invert_selection">Αντιστροφή επιλογής</string>
     <string name="req_pass_on_start">Απαιτείται κωδικός πρόσβασης κατά την εκκίνηση της εφαρμογής</string>
+    <string name="toggle_password_visibility">Εναλλαγή ορατότητας κωδικού πρόσβασης</string>
+    <string name="copy_settings_to_this_profile">Αντιγράψτε τις ρυθμίσεις στο τρέχον προφίλ</string>
     </resources>

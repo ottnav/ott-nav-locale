@@ -744,4 +744,6 @@
     <string name="allow_changing_system_cat_order">ﻡﺎﻈﻨﻟﺍ ﺕﺎﺌﻓ ﺐﻴﺗﺮﺗ ﺮﻴﻴﻐﺘﺑ ﺡﺎﻤﺴﻟﺍ</string>
     <string name="invert_selection">ﺏﻮﻠﻘﻤﻟﺍ ﺭﺎﻴﺘﺧﺍ</string>
     <string name="req_pass_on_start">ﻖﻴﺒﻄﺘﻟﺍ ﻞﻴﻐﺸﺗ ﺪﻨﻋ ﺭﻭﺮﻣ ﺔﻤﻠﻛ ﺐﻠﻃ</string>
+    <string name="toggle_password_visibility">ﺭﻭﺮﻤﻟﺍ ﺔﻤﻠﻛ ﺔﻳﺅﺭ ﻞﻳﺪﺒﺗ</string>
+    <string name="copy_settings_to_this_profile">ﻲﻟﺎﺤﻟﺍ ﻒﻳﺮﻌﺘﻟﺍ ﻒﻠﻣ ﻰﻟﺇ ﺕﺍﺩﺍﺪﻋﻹ﻿ﺍ ﺦﺴﻧ</string>
     </resources>
