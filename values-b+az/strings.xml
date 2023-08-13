@@ -699,4 +699,7 @@
     <string name="req_pass_on_start">Proqramı işə salarkən parol tələb edin</string>
     <string name="toggle_password_visibility">Parolun görünməsini dəyişdirin</string>
     <string name="copy_settings_to_this_profile">Parametrləri cari profilə kopyalayın</string>
+    <string name="via_qr_code">Telefonunuzdakı QR kodu vasitəsilə</string>
+    <string name="can_not_be_edited">Bu elementi redaktə etmək qadağandır</string>
+    <string name="action_can_not_undo_continue">Bu əməliyyat geri qaytarıla bilməz, davam etmək istəyirsiniz?</string>
     </resources>

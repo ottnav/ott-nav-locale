@@ -750,4 +750,7 @@
     <string name="req_pass_on_start">Paleidžiant programą reikalauti slaptažodžio</string>
     <string name="toggle_password_visibility">Perjungti slaptažodžio matomumą</string>
     <string name="copy_settings_to_this_profile">Nukopijuokite nustatymus į dabartinį profilį</string>
+    <string name="via_qr_code">Per QR kodą savo telefone</string>
+    <string name="can_not_be_edited">Redaguoti šį elementą draudžiama</string>
+    <string name="action_can_not_undo_continue">Šio veiksmo anuliuoti negalima, ar norite tęsti?</string>
     </resources>

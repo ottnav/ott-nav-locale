@@ -699,4 +699,7 @@
     <string name="req_pass_on_start">Pri spustení aplikácie vyžadovať heslo</string>
     <string name="toggle_password_visibility">Prepnúť viditeľnosť hesla</string>
     <string name="copy_settings_to_this_profile">Skopírujte nastavenia do aktuálneho profilu</string>
+    <string name="via_qr_code">Prostredníctvom QR kódu v telefóne</string>
+    <string name="can_not_be_edited">Úprava tohto prvku je zakázaná</string>
+    <string name="action_can_not_undo_continue">Táto akcia sa nedá vrátiť späť, chcete pokračovať?</string>
     </resources>

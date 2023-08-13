@@ -698,4 +698,7 @@
     <string name="req_pass_on_start">Zahtijevaj lozinku prilikom pokretanja aplikacije</string>
     <string name="toggle_password_visibility">Uključi/isključi vidljivost zaporke</string>
     <string name="copy_settings_to_this_profile">Kopiraj postavke na trenutni profil</string>
+    <string name="via_qr_code">Putem QR koda na vašem telefonu</string>
+    <string name="can_not_be_edited">Uređivanje ovog elementa je zabranjeno</string>
+    <string name="action_can_not_undo_continue">Ova se radnja ne može poništiti, želite li nastaviti?</string>
     </resources>

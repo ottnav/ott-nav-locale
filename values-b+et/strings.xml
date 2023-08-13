@@ -745,4 +745,7 @@
     <string name="req_pass_on_start">Nõua rakenduse käivitamisel parooli</string>
     <string name="toggle_password_visibility">Parooli nähtavuse sisse- ja väljalülitamine</string>
     <string name="copy_settings_to_this_profile">Kopeeri seaded praegusele profiilile</string>
+    <string name="via_qr_code">Telefoni QR-koodi kaudu</string>
+    <string name="can_not_be_edited">Selle elemendi redigeerimine on keelatud</string>
+    <string name="action_can_not_undo_continue">Seda toimingut ei saa tagasi võtta, kas soovite jätkata?</string>
     </resources>

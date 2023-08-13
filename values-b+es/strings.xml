@@ -700,4 +700,7 @@
     <string name="req_pass_on_start">Requerir contraseña al iniciar la aplicación</string>
     <string name="toggle_password_visibility">Alternar la visibilidad de la contraseña</string>
     <string name="copy_settings_to_this_profile">Copiar configuraciones al perfil actual</string>
+    <string name="via_qr_code">A través del código QR en su teléfono</string>
+    <string name="can_not_be_edited">Prohibido editar este elemento</string>
+    <string name="action_can_not_undo_continue">Esta acción no se puede deshacer, ¿desea continuar?</string>
     </resources>

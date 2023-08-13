@@ -699,4 +699,7 @@
     <string name="req_pass_on_start">Wymagaj hasła podczas uruchamiania aplikacji</string>
     <string name="toggle_password_visibility">Przełącz widoczność hasła</string>
     <string name="copy_settings_to_this_profile">Skopiuj ustawienia do bieżącego profilu</string>
+    <string name="via_qr_code">Za pomocą kodu QR w telefonie</string>
+    <string name="can_not_be_edited">Edycja tego elementu jest zabroniona</string>
+    <string name="action_can_not_undo_continue">Tej czynności nie można cofnąć, czy chcesz kontynuować?</string>
     </resources>

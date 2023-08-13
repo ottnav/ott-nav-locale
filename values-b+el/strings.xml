@@ -699,4 +699,7 @@
     <string name="req_pass_on_start">Απαιτείται κωδικός πρόσβασης κατά την εκκίνηση της εφαρμογής</string>
     <string name="toggle_password_visibility">Εναλλαγή ορατότητας κωδικού πρόσβασης</string>
     <string name="copy_settings_to_this_profile">Αντιγράψτε τις ρυθμίσεις στο τρέχον προφίλ</string>
+    <string name="via_qr_code">Μέσω κωδικού QR στο τηλέφωνό σας</string>
+    <string name="can_not_be_edited">Απαγορεύεται η επεξεργασία αυτού του στοιχείου</string>
+    <string name="action_can_not_undo_continue">Αυτή η ενέργεια δεν μπορεί να αναιρεθεί, θέλετε να συνεχίσετε;</string>
     </resources>

@@ -699,4 +699,7 @@
     <string name="req_pass_on_start">Vaadi salasana sovelluksen käynnistämisen yhteydessä</string>
     <string name="toggle_password_visibility">Vaihda salasanan näkyvyys</string>
     <string name="copy_settings_to_this_profile">Kopioi asetukset nykyiseen profiiliin</string>
+    <string name="via_qr_code">QR-koodin kautta puhelimeesi</string>
+    <string name="can_not_be_edited">Tämän elementin muokkaaminen on kielletty</string>
+    <string name="action_can_not_undo_continue">Tätä toimintoa ei voi kumota. Haluatko jatkaa?</string>
     </resources>

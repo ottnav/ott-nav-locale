@@ -741,4 +741,7 @@
     <string name="req_pass_on_start">Require password when launching the app</string>
     <string name="toggle_password_visibility">Toggle password visibility</string>
     <string name="copy_settings_to_this_profile">Copy settings to current profile</string>
+    <string name="via_qr_code">Via QR code on your phone</string>
+    <string name="can_not_be_edited">Editing this element is prohibited</string>
+    <string name="action_can_not_undo_continue">This action cannot be undone, do you wish to continue?</string>
 </resources>

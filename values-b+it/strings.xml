@@ -745,4 +745,7 @@
     <string name="req_pass_on_start">Richiedi la password all\'avvio dell\'app</string>
     <string name="toggle_password_visibility">Attiva/disattiva la visibilità della password</string>
     <string name="copy_settings_to_this_profile">Copia le impostazioni nel profilo corrente</string>
+    <string name="via_qr_code">Tramite codice QR sul tuo telefono</string>
+    <string name="can_not_be_edited">La modifica di questo elemento è vietata</string>
+    <string name="action_can_not_undo_continue">Questa azione non può essere annullata, vuoi continuare?</string>
     </resources>

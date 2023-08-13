@@ -744,4 +744,7 @@
     <string name="req_pass_on_start">Palaižot lietotni, pieprasīt paroli</string>
     <string name="toggle_password_visibility">Pārslēgt paroles redzamību</string>
     <string name="copy_settings_to_this_profile">Kopēt iestatījumus pašreizējā profilā</string>
+    <string name="via_qr_code">Izmantojot QR kodu savā tālrunī</string>
+    <string name="can_not_be_edited">Šī elementa rediģēšana ir aizliegta</string>
+    <string name="action_can_not_undo_continue">Šo darbību nevar atsaukt. Vai vēlaties turpināt?</string>
     </resources>

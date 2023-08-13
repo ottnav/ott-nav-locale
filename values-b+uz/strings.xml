@@ -699,4 +699,7 @@
     <string name="req_pass_on_start">Ilovani ishga tushirishda parol talab qiling</string>
     <string name="toggle_password_visibility">Parolning koʻrinishini oʻzgartirish</string>
     <string name="copy_settings_to_this_profile">Sozlamalarni joriy profilga nusxalash</string>
+    <string name="via_qr_code">Telefoningizdagi QR kod orqali</string>
+    <string name="can_not_be_edited">Ushbu elementni tahrirlash taqiqlangan</string>
+    <string name="action_can_not_undo_continue">Bu amalni ortga qaytarib bo‘lmaydi, davom ettirmoqchimisiz?</string>
     </resources>

@@ -744,4 +744,7 @@
     <string name="req_pass_on_start">ਐਪ ਨੂੰ ਲਾਂਚ ਕਰਦੇ ਸਮੇਂ ਪਾਸਵਰਡ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ</string>
     <string name="toggle_password_visibility">ਪਾਸਵਰਡ ਦਿਖਣਯੋਗਤਾ ਨੂੰ ਟੌਗਲ ਕਰੋ</string>
     <string name="copy_settings_to_this_profile">ਸੈਟਿੰਗਾਂ ਨੂੰ ਮੌਜੂਦਾ ਪ੍ਰੋਫਾਈਲ \'ਤੇ ਕਾਪੀ ਕਰੋ</string>
+    <string name="via_qr_code">ਤੁਹਾਡੇ ਫ਼ੋਨ \'ਤੇ QR ਕੋਡ ਰਾਹੀਂ</string>
+    <string name="can_not_be_edited">ਇਸ ਤੱਤ ਨੂੰ ਸੰਪਾਦਿਤ ਕਰਨ ਦੀ ਮਨਾਹੀ ਹੈ</string>
+    <string name="action_can_not_undo_continue">ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
     </resources>

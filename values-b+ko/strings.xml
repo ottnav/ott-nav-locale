@@ -748,4 +748,7 @@
     <string name="req_pass_on_start">앱 실행 시 비밀번호 요구</string>
     <string name="toggle_password_visibility">비밀번호 가시성 전환</string>
     <string name="copy_settings_to_this_profile">현재 프로필에 설정 복사</string>
+    <string name="via_qr_code">휴대전화의 QR 코드를 통해</string>
+    <string name="can_not_be_edited">이 요소는 편집할 수 없습니다.</string>
+    <string name="action_can_not_undo_continue">이 작업은 취소할 수 없습니다. 계속하시겠습니까?</string>
     </resources>

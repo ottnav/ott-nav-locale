@@ -739,4 +739,7 @@
     <string name="req_pass_on_start">Захтевајте лозинку приликом покретања апликације</string>
     <string name="toggle_password_visibility">Укључите видљивост лозинке</string>
     <string name="copy_settings_to_this_profile">Копирајте подешавања на тренутни профил</string>
+    <string name="via_qr_code">Преко КР кода на вашем телефону</string>
+    <string name="can_not_be_edited">Уређивање овог елемента је забрањено</string>
+    <string name="action_can_not_undo_continue">Ова радња се не може опозвати, да ли желите да наставите?</string>
     </resources>

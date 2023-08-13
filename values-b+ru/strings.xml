@@ -739,4 +739,7 @@
     <string name="req_pass_on_start">Требовать пароль при запуске приложения</string>
     <string name="toggle_password_visibility">Переключить видимость пароля</string>
     <string name="copy_settings_to_this_profile">Копировать настройки в текущий профиль</string>
+    <string name="via_qr_code">С помощью QR-кода на вашем телефоне</string>
+    <string name="can_not_be_edited">Редактирование этого элемента запрещено</string>
+    <string name="action_can_not_undo_continue">Это действие нельзя отменить. Продолжить?</string>
     </resources>

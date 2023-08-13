@@ -699,4 +699,7 @@
     <string name="req_pass_on_start">Krev passord når du starter appen</string>
     <string name="toggle_password_visibility">Slå passordsynlighet</string>
     <string name="copy_settings_to_this_profile">Kopier innstillinger til gjeldende profil</string>
+    <string name="via_qr_code">Via QR-kode på telefonen</string>
+    <string name="can_not_be_edited">Det er forbudt å redigere dette elementet</string>
+    <string name="action_can_not_undo_continue">Denne handlingen kan ikke angres, vil du fortsette?</string>
     </resources>

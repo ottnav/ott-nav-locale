@@ -747,4 +747,7 @@
     <string name="req_pass_on_start">অ্যাপ চালু করার সময় পাসওয়ার্ড প্রয়োজন</string>
     <string name="toggle_password_visibility">পাসওয়ার্ড দৃশ্যমানতা টগল করুন</string>
     <string name="copy_settings_to_this_profile">বর্তমান প্রোফাইলে সেটিংস কপি করুন</string>
+    <string name="via_qr_code">আপনার ফোনে QR কোডের মাধ্যমে</string>
+    <string name="can_not_be_edited">এই উপাদান সম্পাদনা নিষিদ্ধ</string>
+    <string name="action_can_not_undo_continue">এই ক্রিয়াটি পূর্বাবস্থায় ফেরানো যাবে না, আপনি কি চালিয়ে যেতে চান?</string>
     </resources>

@@ -746,4 +746,7 @@
     <string name="req_pass_on_start">ऐप लॉन्च करते समय पासवर्ड की आवश्यकता होती है</string>
     <string name="toggle_password_visibility">पासवर्ड दृश्यता टॉगल करें</string>
     <string name="copy_settings_to_this_profile">सेटिंग्स को वर्तमान प्रोफ़ाइल में कॉपी करें</string>
+    <string name="via_qr_code">आपके फ़ोन पर QR कोड के ज़रिए</string>
+    <string name="can_not_be_edited">इस तत्व का संपादन निषिद्ध है</string>
+    <string name="action_can_not_undo_continue">यह क्रिया पूर्ववत नहीं की जा सकती, क्या आप जारी रखना चाहते हैं?</string>
     </resources>

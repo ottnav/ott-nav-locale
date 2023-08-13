@@ -698,4 +698,7 @@
     <string name="req_pass_on_start">Solicitați parola la lansarea aplicației</string>
     <string name="toggle_password_visibility">Comutați vizibilitatea parolei</string>
     <string name="copy_settings_to_this_profile">Copiați setările în profilul curent</string>
+    <string name="via_qr_code">Prin codul QR de pe telefon</string>
+    <string name="can_not_be_edited">Editarea acestui element este interzisă</string>
+    <string name="action_can_not_undo_continue">Această acțiune nu poate fi anulată, doriți să continuați?</string>
     </resources>

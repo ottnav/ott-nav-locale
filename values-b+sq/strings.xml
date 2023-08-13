@@ -699,4 +699,7 @@
     <string name="req_pass_on_start">Kërkoni fjalëkalim kur hapni aplikacionin</string>
     <string name="toggle_password_visibility">Ndrysho dukshmërinë e fjalëkalimit</string>
     <string name="copy_settings_to_this_profile">Kopjoni cilësimet në profilin aktual</string>
+    <string name="via_qr_code">Përmes kodit QR në telefonin tuaj</string>
+    <string name="can_not_be_edited">Redaktimi i këtij elementi është i ndaluar</string>
+    <string name="action_can_not_undo_continue">Ky veprim nuk mund të zhbëhet, dëshiron të vazhdosh?</string>
     </resources>

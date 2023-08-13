@@ -738,4 +738,7 @@
     <string name="req_pass_on_start">启动应用程序时需要密码</string>
     <string name="toggle_password_visibility">切换密码可见性</string>
     <string name="copy_settings_to_this_profile">将设置复制到当前配置文件</string>
+    <string name="via_qr_code">通过手机上的二维码</string>
+    <string name="can_not_be_edited">禁止编辑此元素</string>
+    <string name="action_can_not_undo_continue">此操作无法撤消，您想继续吗？</string>
     </resources>

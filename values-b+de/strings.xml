@@ -699,4 +699,7 @@
     <string name="req_pass_on_start">Beim Starten der App ist ein Passwort erforderlich</string>
     <string name="toggle_password_visibility">Passwortsichtbarkeit umschalten</string>
     <string name="copy_settings_to_this_profile">Einstellungen in das aktuelle Profil kopieren</string>
+    <string name="via_qr_code">Per QR-Code auf Ihrem Telefon</string>
+    <string name="can_not_be_edited">Das Bearbeiten dieses Elements ist verboten</string>
+    <string name="action_can_not_undo_continue">Diese Aktion kann nicht rückgängig gemacht werden. Möchten Sie fortfahren?</string>
     </resources>

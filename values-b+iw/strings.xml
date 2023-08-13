@@ -745,4 +745,7 @@
     <string name="req_pass_on_start">היצקילפאה תלעפה תעב המסיס שורד</string>
     <string name="toggle_password_visibility">המסיסה תוארנ תא ףלחה</string>
     <string name="copy_settings_to_this_profile">יחכונה ליפורפל תורדגהה תא קתעה</string>
+    <string name="via_qr_code">ךלש ןופלטב QR דוק תועצמאב</string>
+    <string name="can_not_be_edited">הרוסא הז ביכר תכירע</string>
+    <string name="action_can_not_undo_continue">ךישמהל ךנוצרב םאה ,וזה הלועפה תא לטבל ןתינ אל?</string>
     </resources>

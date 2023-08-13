@@ -738,4 +738,7 @@
     <string name="req_pass_on_start">Yêu cầu mật khẩu khi khởi chạy ứng dụng</string>
     <string name="toggle_password_visibility">Chuyển đổi chế độ hiển thị mật khẩu</string>
     <string name="copy_settings_to_this_profile">Sao chép cài đặt vào hồ sơ hiện tại</string>
+    <string name="via_qr_code">Qua mã QR trên điện thoại của bạn</string>
+    <string name="can_not_be_edited">Chỉnh sửa phần tử này bị cấm</string>
+    <string name="action_can_not_undo_continue">Hành động này không thể hoàn tác, bạn có muốn tiếp tục không?</string>
     </resources>

@@ -743,7 +743,10 @@
     <string name="reload_on_new_channels">ﺪﯿﻨﮐ ﯼﺮﯿﮔﺭﺎﺑ ﻩﺭﺎﺑﻭﺩ ﺍﺭ ﺎﻫ ﻩﺩﺍﺩ ،ﺪﺷ ﯽﯾﺎﺳﺎﻨﺷ ﺪﯾﺪﺟ ﯽﯾﻮﯾﺪﯾﻭ ﯼﺎﻫ ﻝﺎﻧﺎﮐ ﻪﮐ ﯽﻣﺎﮕﻨﻫ</string>
     <string name="allow_changing_system_cat_order">ﺪﯿﻫﺪﺑ ﺍﺭ ﻢﺘﺴﯿﺳ ﯼﺎﻫu200cﻪﺘﺳﺩ ﺐﯿﺗﺮﺗ ﺮﯿﯿﻐﺗ ﻩﺯﺎﺟﺍ</string>
     <string name="invert_selection">ﺱﻮﮑﻌﻣ ﺏﺎﺨﺘﻧﺍ</string>
-    <string name="req_pass_on_start">ﺖﺳﺍ ﻡﺯﻻ﻿ ﺭﻮﺒﻋ ﺰﻣﺭ ،ﻪﻣﺎﻧﺮﺑ ﯼﺯﺍﺪﻧﺍu200cﻩﺍﺭ ﻡﺎﮕﻨﻫ</string>
+    <string name="req_pass_on_start">ﺖﺳﺍ ﻡﺯﻻ ﺭﻮﺒﻋ ﺰﻣﺭ ،ﻪﻣﺎﻧﺮﺑ ﯼﺯﺍﺪﻧﺍu200cﻩﺍﺭ ﻡﺎﮕﻨﻫ</string>
     <string name="toggle_password_visibility">ﺪﯿﻫﺩ ﺮﯿﯿﻐﺗ ﺍﺭ ﺭﻮﺒﻋ ﺰﻣﺭ ﻩﺪﻫﺎﺸﻣ ﺖﯿﻠﺑﺎﻗ</string>
     <string name="copy_settings_to_this_profile">ﺪﯿﻨﮐ ﯽﭙﮐ ﯽﻠﻌﻓ ﻪﯾﺎﻤﻧ ﺭﺩ ﺍﺭ ﺕﺎﻤﯿﻈﻨﺗ</string>
+    <string name="via_qr_code">ﺎﻤﺷ ﯽﺷﻮﮔ ﯼﻭﺭ QR ﺪﮐ ﻖﯾﺮﻃ ﺯﺍ</string>
+    <string name="can_not_be_edited">ﺖﺳﺍ ﻉﻮﻨﻤﻣ ﺮﺼﻨﻋ ﻦﯾﺍ ﺶﯾﺍﺮﯾﻭ</string>
+    <string name="action_can_not_undo_continue">؟ﺪﯿﻫﺩ ﻪﻣﺍﺩﺍ ﺪﯿﻫﺍﻮﺧu200cﯽﻣ ﺎﯾﺁ ،ﺖﺴﯿﻧ ﻮﻐﻟ ﻞﺑﺎﻗ ﻞﻤﻋ ﻦﯾﺍ</string>
     </resources>
