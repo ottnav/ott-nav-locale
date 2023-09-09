@@ -297,7 +297,6 @@
     <string name="menu_tv_guide_cfg">Afișați butonul TV Guide</string>
     <string name="cfg_video_preview_sound">Activați sunetul în previzualizarea videoclipului în descriere</string>
     <string name="provider_generic_middleware">Server general de middleware</string>
-    <string name="provider_generic_list">Lista furnizorilor</string>
     <string name="provider_generic_list_desc">Șabloane comune în apropiere (limbă și regiune)</string>
     <string name="yes">da</string>
     <string name="no">Nu</string>
@@ -313,7 +312,6 @@
     <string name="cfg_channel_manager_filters">Filtre</string>
     <string name="menu_suggest_premium">Sunteți gata să explorați funcțiile premium interesante?</string>
     <string name="cfg_epg_update_frequency">Frecvența de actualizare (în ore)</string>
-    <string name="cfg_vod_merge">Combinați media media din diferite surse dintr-o singură listă (necesită reîncărcare)</string>
     <string name="ch_manage_rename">Redenumiți</string>
     <string name="pla_timeshift_from_current">Începeți din momentul actual</string>
     <string name="cfg_play_action_timeshift_start">spectacol tv arhivat deschis de la început</string>
@@ -556,7 +554,6 @@
     <string name="cfg_prev_n_desc">Câte emisiuni TV anterioare trebuie afișate în descrierea canalului</string>
     <string name="no_not_show_poster">Nu afișați imaginea posterului</string>
     <string name="duration_to_keep_access">Durata de păstrare a accesului deblocat</string>
-    <string name="disable_vod_genres">Dezactivați genurile din biblioteca media</string>
     <string name="not_supported_by_device">Nu este acceptat de dispozitiv</string>
     <string name="delay_before_retrying_video_on_error">Întârziți înainte de a reîncerca să redeschideți fluxul în caz de eroare</string>
     <string name="night_mode">Mod de noapte</string>
@@ -701,4 +698,6 @@
     <string name="via_qr_code">Prin codul QR de pe telefon</string>
     <string name="can_not_be_edited">Editarea acestui element este interzisă</string>
     <string name="action_can_not_undo_continue">Această acțiune nu poate fi anulată, doriți să continuați?</string>
+    <string name="use_same_as_in_live">Folosiți aceeași valoare ca și pentru streamurile live</string>
+    <string name="refresh_periodically">Actualizează periodic</string>
     </resources>

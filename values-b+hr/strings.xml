@@ -297,7 +297,6 @@
     <string name="menu_tv_guide_cfg">Prikaži gumb TV vodiča</string>
     <string name="cfg_video_preview_sound">Omogući zvuk u pregledu videa u opisu</string>
     <string name="provider_generic_middleware">Generički softver srednjeg softvera</string>
-    <string name="provider_generic_list">Popis pružatelja usluga</string>
     <string name="provider_generic_list_desc">Uobičajeni predlošci u blizini (jezik i regija)</string>
     <string name="yes">Da</string>
     <string name="no">Ne</string>
@@ -313,7 +312,6 @@
     <string name="cfg_channel_manager_filters">filteri</string>
     <string name="menu_suggest_premium">Spremni ste istražiti uzbudljive premium značajke?</string>
     <string name="cfg_epg_update_frequency">Učestalost ažuriranja (u satima)</string>
-    <string name="cfg_vod_merge">Spajanje medijske biblioteke iz različitih izvora u jednu listu (zahtijeva ponovno učitavanje)</string>
     <string name="ch_manage_rename">Preimenovati</string>
     <string name="pla_timeshift_from_current">Krenite od trenutnog trenutka</string>
     <string name="cfg_play_action_timeshift_start">otvori arhiviranu tv-emisiju od početka</string>
@@ -558,7 +556,6 @@
     <string name="duration_to_keep_access">Trajanje da bi pristup bio otključan</string>
     <string name="not_supported_by_device">Vaš uređaj ne podržava</string>
     <string name="delay_before_retrying_video_on_error">Odgodite prije ponovnog pokušaja za ponovno otvaranje streama u slučaju pogreške</string>
-    <string name="disable_vod_genres">Onemogući žanrove u biblioteci medija</string>
     <string name="night_mode">Noćni način</string>
     <string name="editing_is_restricted">Vaša konfiguracija zabranjuje upravljanje kanalima</string>
     <string name="lock_editing">Uređivanje zaključavanja (zabraniti upravljanje kanalom)</string>
@@ -701,4 +698,6 @@
     <string name="via_qr_code">Putem QR koda na vašem telefonu</string>
     <string name="can_not_be_edited">Uređivanje ovog elementa je zabranjeno</string>
     <string name="action_can_not_undo_continue">Ova se radnja ne može poništiti, želite li nastaviti?</string>
+    <string name="use_same_as_in_live">Koristite istu vrijednost kao za streamove uživo</string>
+    <string name="refresh_periodically">Povremeno osvježite</string>
     </resources>

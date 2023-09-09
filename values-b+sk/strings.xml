@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Tlačidlo Zobraziť TV sprievodcu</string>
     <string name="cfg_video_preview_sound">Povoliť zvuk v ukážke videa v popise</string>
     <string name="provider_generic_middleware">Generický middleware server</string>
-    <string name="provider_generic_list">Zoznam poskytovateľov</string>
     <string name="provider_generic_list_desc">Bežné šablóny v okolí (jazyk a región)</string>
     <string name="yes">Áno</string>
     <string name="no">Nie</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Filtre</string>
     <string name="menu_suggest_premium">Ste pripravení preskúmať vzrušujúce prémiové funkcie?</string>
     <string name="cfg_epg_update_frequency">Frekvencia aktualizácie (v hodinách)</string>
-    <string name="cfg_vod_merge">Zlúčiť knižnicu médií z rôznych zdrojov do jedného zoznamu (vyžaduje opätovné načítanie)</string>
     <string name="ch_manage_rename">Premenovať</string>
     <string name="pla_timeshift_from_current">Začnite od aktuálneho okamihu</string>
     <string name="cfg_play_action_timeshift_start">otvoriť archivovanú TV reláciu od začiatku</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">Koľko predchádzajúcich televíznych relácií sa má zobraziť v popise kanála</string>
     <string name="no_not_show_poster">Nezobrazovať plagátový obrázok</string>
     <string name="duration_to_keep_access">Trvanie, aby bol prístup odomknutý</string>
-    <string name="disable_vod_genres">Zakázať žánre v knižnici médií</string>
     <string name="not_supported_by_device">Nie je podporované vaším zariadením</string>
     <string name="delay_before_retrying_video_on_error">Oneskorenie pred opätovným pokusom o opätovné otvorenie streamu pri chybe</string>
     <string name="night_mode">Nočný mód</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Prostredníctvom QR kódu v telefóne</string>
     <string name="can_not_be_edited">Úprava tohto prvku je zakázaná</string>
     <string name="action_can_not_undo_continue">Táto akcia sa nedá vrátiť späť, chcete pokračovať?</string>
+    <string name="use_same_as_in_live">Použite rovnakú hodnotu ako pri priamych prenosoch</string>
+    <string name="refresh_periodically">Pravidelne obnovujte</string>
     </resources>

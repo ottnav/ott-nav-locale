@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Tampilkan tombol Panduan TV</string>
     <string name="cfg_video_preview_sound">Aktifkan suara dalam pratinjau video dalam deskripsi</string>
     <string name="provider_generic_middleware">Server middleware generik</string>
-    <string name="provider_generic_list">Daftar penyedia</string>
     <string name="provider_generic_list_desc">Template umum di sekitar (bahasa dan wilayah)</string>
     <string name="yes">Iya</string>
     <string name="no">Tidak</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Filter</string>
     <string name="menu_suggest_premium">Siap menjelajahi fitur premium yang menarik?</string>
     <string name="cfg_epg_update_frequency">Perbarui frekuensi (dalam jam)</string>
-    <string name="cfg_vod_merge">Gabungkan perpustakaan media dari sumber yang berbeda dalam satu daftar (perlu memuat ulang)</string>
     <string name="ch_manage_rename">Ganti nama</string>
     <string name="pla_timeshift_from_current">Mulai dari saat ini</string>
     <string name="cfg_play_action_timeshift_start">buka acara TV yang diarsipkan dari awal</string>
@@ -556,7 +554,6 @@
     <string name="cfg_prev_n_desc">Berapa banyak acara TV sebelumnya yang akan ditampilkan dalam deskripsi saluran</string>
     <string name="no_not_show_poster">Jangan tampilkan gambar poster</string>
     <string name="duration_to_keep_access">Durasi untuk tetap membuka kunci akses</string>
-    <string name="disable_vod_genres">Nonaktifkan genre di perpustakaan media</string>
     <string name="not_supported_by_device">Tidak didukung oleh perangkat Anda</string>
     <string name="delay_before_retrying_video_on_error">Tunda sebelum mencoba membuka kembali streaming jika ada kesalahan</string>
     <string name="night_mode">Mode malam</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Melalui kode QR di ponsel Anda</string>
     <string name="can_not_be_edited">Mengedit elemen ini dilarang</string>
     <string name="action_can_not_undo_continue">Tindakan ini tidak dapat diurungkan, apakah Anda ingin melanjutkan?</string>
+    <string name="use_same_as_in_live">Gunakan nilai yang sama seperti untuk streaming langsung</string>
+    <string name="refresh_periodically">Segarkan secara berkala</string>
     </resources>

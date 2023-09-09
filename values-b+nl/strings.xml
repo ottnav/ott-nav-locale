@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Knop TV-gids weergeven</string>
     <string name="cfg_video_preview_sound">Schakel geluid in het videovoorbeeld in de beschrijving in</string>
     <string name="provider_generic_middleware">Generieke middleware-server</string>
-    <string name="provider_generic_list">Providerslijst</string>
     <string name="provider_generic_list_desc">Gemeenschappelijke sjablonen in de buurt (taal en regio)</string>
     <string name="yes">Ja</string>
     <string name="no">Nee</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">filters</string>
     <string name="menu_suggest_premium">Klaar om aantrekkelijke premium-functies te verkennen?</string>
     <string name="cfg_epg_update_frequency">Update frequentie (in uren)</string>
-    <string name="cfg_vod_merge">PiP schermen uit verschillende bronnen in één lijst samenvoegen (opnieuw laden vereist)</string>
     <string name="ch_manage_rename">Andere naam geven</string>
     <string name="pla_timeshift_from_current">Begin vanaf het huidige moment</string>
     <string name="cfg_play_action_timeshift_start">open gearchiveerde tv-show vanaf het begin</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">Hoeveel eerdere tv-shows moeten worden weergegeven in de kanaalbeschrijving</string>
     <string name="no_not_show_poster">Toon geen posterafbeelding</string>
     <string name="duration_to_keep_access">Duur om toegang ontgrendeld te houden</string>
-    <string name="disable_vod_genres">Schakel genres in mediabibliotheek uit</string>
     <string name="not_supported_by_device">Niet ondersteund door uw apparaat</string>
     <string name="delay_before_retrying_video_on_error">Vertraging voordat opnieuw wordt geprobeerd de stream opnieuw te openen bij fout</string>
     <string name="night_mode">Nachtstand</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Via QR-code op je telefoon</string>
     <string name="can_not_be_edited">Het bewerken van dit element is niet toegestaan</string>
     <string name="action_can_not_undo_continue">Deze actie kan niet ongedaan worden gemaakt, wil je doorgaan?</string>
+    <string name="use_same_as_in_live">Gebruik dezelfde waarde als voor livestreams</string>
+    <string name="refresh_periodically">Ververs periodiek</string>
     </resources>

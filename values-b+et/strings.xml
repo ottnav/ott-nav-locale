@@ -341,7 +341,6 @@
     <string name="menu_tv_guide_cfg">Näita nuppu TV Guide</string>
     <string name="cfg_video_preview_sound">Luba video eelvaates heli kirjelduses</string>
     <string name="provider_generic_middleware">Üldine vahevara server</string>
-    <string name="provider_generic_list">Pakkujate nimekiri</string>
     <string name="provider_generic_list_desc">Läheduses asuvad ühised mallid (keel ja piirkond)</string>
     <string name="yes">Jah</string>
     <string name="no">Ei</string>
@@ -357,7 +356,6 @@
     <string name="cfg_channel_manager_filters">Filtrid</string>
     <string name="menu_suggest_premium">Kas olete valmis avastama põnevaid lisatasusid?</string>
     <string name="cfg_epg_update_frequency">Värskendussagedus (tundides)</string>
-    <string name="cfg_vod_merge">Meediumiteegi ühendamine erinevatest allikatest ühes nimekirjas (nõuab uuesti laadimist)</string>
     <string name="ch_manage_rename">Nimeta ümber</string>
     <string name="pla_timeshift_from_current">Alusta praegusest hetkest</string>
     <string name="cfg_play_action_timeshift_start">avatud arhiveeritud telesaate algusest</string>
@@ -603,7 +601,6 @@
     <string name="cfg_prev_n_desc">Mitu varasemat telesaadet kuvatakse kanali kirjelduses</string>
     <string name="no_not_show_poster">Ärge näidake plakati pilti</string>
     <string name="duration_to_keep_access">Kestus juurdepääsu lukustamata hoidmiseks</string>
-    <string name="disable_vod_genres">Keela žanrid meediumiteegis</string>
     <string name="not_supported_by_device">Teie seade ei toeta</string>
     <string name="delay_before_retrying_video_on_error">Viivitage enne uuesti proovimist, et voog uuesti avada</string>
     <string name="night_mode">Öörežiim</string>
@@ -748,4 +745,6 @@
     <string name="via_qr_code">Telefoni QR-koodi kaudu</string>
     <string name="can_not_be_edited">Selle elemendi redigeerimine on keelatud</string>
     <string name="action_can_not_undo_continue">Seda toimingut ei saa tagasi võtta, kas soovite jätkata?</string>
+    <string name="use_same_as_in_live">Kasutage sama väärtust nagu otseülekannete puhul</string>
+    <string name="refresh_periodically">Värskendage perioodiliselt</string>
     </resources>

@@ -341,7 +341,6 @@
     <string name="menu_tv_guide_cfg">Exibir botão da Guia de TV</string>
     <string name="cfg_video_preview_sound">Ativar som na pré-visualização de vídeo na descrição</string>
     <string name="provider_generic_middleware">Servidor de middleware genérico</string>
-    <string name="provider_generic_list">Lista de provedores</string>
     <string name="provider_generic_list_desc">Modelos padrão comuns nas proximidades (idioma e região)</string>
     <string name="yes">sim</string>
     <string name="no">não</string>
@@ -357,7 +356,6 @@
     <string name="cfg_channel_manager_filters">Filtros</string>
     <string name="menu_suggest_premium">Pronto para explorar os incríveis recursos premium?</string>
     <string name="cfg_epg_update_frequency">Frequência de atualização (em horas)</string>
-    <string name="cfg_vod_merge">Unir biblioteca de mídia de diferentes fontes em uma única lista (requer recarregamento)</string>
     <string name="ch_manage_rename">Renomear</string>
     <string name="pla_timeshift_from_current">Iniciar a partir do momento atual</string>
     <string name="cfg_play_action_timeshift_start">Abrir programa de TV gravado a partir do início</string>
@@ -603,7 +601,6 @@
     <string name="cfg_prev_n_desc">Quantos programas de TV anteriores exibir na descrição do canal</string>
     <string name="no_not_show_poster">Não mostrar imagem de pôster</string>
     <string name="duration_to_keep_access">Duração para manter o acesso desbloqueado</string>
-    <string name="disable_vod_genres">Desativar gêneros na biblioteca de mídia</string>
     <string name="not_supported_by_device">Não compatível com o seu dispositivo</string>
     <string name="delay_before_retrying_video_on_error">Atrase antes de tentar novamente para reabrir a transmissão em caso de erro</string>
     <string name="night_mode">Modo noturno</string>
@@ -748,4 +745,6 @@
     <string name="via_qr_code">Através do código QR no seu telefone</string>
     <string name="can_not_be_edited">A edição deste elemento é proibida</string>
     <string name="action_can_not_undo_continue">Esta ação não pode ser desfeita, deseja continuar?</string>
+    <string name="use_same_as_in_live">Use o mesmo valor para transmissões ao vivo</string>
+    <string name="refresh_periodically">Atualizar periodicamente</string>
     </resources>

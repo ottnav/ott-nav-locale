@@ -346,7 +346,6 @@
     <string name="menu_tv_guide_cfg">Rodyti mygtuką „TV Guide“</string>
     <string name="cfg_video_preview_sound">Leisti garsą vaizdo peržiūroje aprašyme</string>
     <string name="provider_generic_middleware">Bendrasis tarpinės programinės įrangos serveris</string>
-    <string name="provider_generic_list">Teikėjų sąrašas</string>
     <string name="provider_generic_list_desc">Netoliese esantys bendri šablonai (kalba ir regionas)</string>
     <string name="yes">Taip</string>
     <string name="no">Ne</string>
@@ -362,7 +361,6 @@
     <string name="cfg_channel_manager_filters">Filtrai</string>
     <string name="menu_suggest_premium">Pasiruošę ieškoti įdomių papildomų funkcijų?</string>
     <string name="cfg_epg_update_frequency">Atnaujinimo dažnis (valandomis)</string>
-    <string name="cfg_vod_merge">Sujunkite žiniasklaidos biblioteką iš įvairių šaltinių viename sąraše (reikia įkelti iš naujo)</string>
     <string name="ch_manage_rename">Pervardyti</string>
     <string name="pla_timeshift_from_current">Pradėkite nuo dabartinio momento</string>
     <string name="cfg_play_action_timeshift_start">atidaryti archyvuotą TV laidą nuo pradžios</string>
@@ -608,7 +606,6 @@
     <string name="cfg_prev_n_desc">Kiek ankstesnių televizijos laidų rodyti kanalo apraše</string>
     <string name="no_not_show_poster">Nerodyti plakato atvaizdo</string>
     <string name="duration_to_keep_access">Trukmė, kad prieiga būtų atrakinta</string>
-    <string name="disable_vod_genres">Išjungti žanrus medijos bibliotekoje</string>
     <string name="not_supported_by_device">Nepalaiko jūsų įrenginys</string>
     <string name="delay_before_retrying_video_on_error">Vėluokite prieš bandydami iš naujo atidaryti srautą per klaidą</string>
     <string name="night_mode">Nakties rėžimas</string>
@@ -753,4 +750,6 @@
     <string name="via_qr_code">Per QR kodą savo telefone</string>
     <string name="can_not_be_edited">Redaguoti šį elementą draudžiama</string>
     <string name="action_can_not_undo_continue">Šio veiksmo anuliuoti negalima, ar norite tęsti?</string>
+    <string name="use_same_as_in_live">Naudokite tą pačią vertę kaip ir tiesioginiams srautams</string>
+    <string name="refresh_periodically">Periodiškai atnaujinkite</string>
     </resources>

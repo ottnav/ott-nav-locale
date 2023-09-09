@@ -343,7 +343,6 @@
     <string name="menu_tv_guide_cfg">TV 가이드보기 버튼</string>
     <string name="cfg_video_preview_sound">설명에서 동영상 미리보기에서 사운드 사용</string>
     <string name="provider_generic_middleware">일반 미들웨어 서버</string>
-    <string name="provider_generic_list">공급자 목록</string>
     <string name="provider_generic_list_desc">주변의 일반적인 템플릿 (언어 및 지역)</string>
     <string name="yes">예</string>
     <string name="no">아니</string>
@@ -360,7 +359,6 @@
     <string name="cfg_channel_manager_filters">필터</string>
     <string name="menu_suggest_premium">흥미로운 프리미엄 기능을 탐색 할 준비가 되셨습니까?</string>
     <string name="cfg_epg_update_frequency">업데이트 빈도 (시간)</string>
-    <string name="cfg_vod_merge">여러 소스의 미디어 라이브러리를 단일 목록에 병합합니다 (다시로드해야 함).</string>
     <string name="ch_manage_rename">이름 바꾸기</string>
     <string name="pla_timeshift_from_current">현재 순간부터 시작</string>
     <string name="cfg_play_action_timeshift_start">처음부터 보관 된 tv-show 열기</string>
@@ -606,7 +604,6 @@
     <string name="cfg_prev_n_desc">채널 설명에 표시 할 이전 TV 프로그램 수</string>
     <string name="no_not_show_poster">포스터 이미지 표시 안함</string>
     <string name="duration_to_keep_access">액세스를 잠금 해제 상태로 유지하는 기간</string>
-    <string name="disable_vod_genres">미디어 라이브러리에서 장르 비활성화</string>
     <string name="delay_before_retrying_video_on_error">오류시 스트림을 다시 열기 전에 지연</string>
     <string name="not_supported_by_device">장치에서 지원되지 않음</string>
     <string name="night_mode">야간 모드</string>
@@ -751,4 +748,6 @@
     <string name="via_qr_code">휴대전화의 QR 코드를 통해</string>
     <string name="can_not_be_edited">이 요소는 편집할 수 없습니다.</string>
     <string name="action_can_not_undo_continue">이 작업은 취소할 수 없습니다. 계속하시겠습니까?</string>
+    <string name="use_same_as_in_live">라이브 스트림과 동일한 값 사용</string>
+    <string name="refresh_periodically">주기적으로 새로 고침</string>
     </resources>

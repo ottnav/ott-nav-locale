@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">TV Bələdçisini göstər düyməsi</string>
     <string name="cfg_video_preview_sound">Təsvirdə videoya baxışda səsi aktiv edin</string>
     <string name="provider_generic_middleware">Ümumi orta proqram serveri</string>
-    <string name="provider_generic_list">Təchizatçıların siyahısı</string>
     <string name="provider_generic_list_desc">Yaxınlıqdakı ümumi şablonlar (dil və bölgə)</string>
     <string name="yes">Bəli</string>
     <string name="no">Yox</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Filtrlər</string>
     <string name="menu_suggest_premium">Maraqlı premium xüsusiyyətləri kəşf etməyə hazırsınız?</string>
     <string name="cfg_epg_update_frequency">Yeniləmə tezliyi (saatlarla)</string>
-    <string name="cfg_vod_merge">Müxtəlif mənbələrdən media kitabxanasını vahid siyahıda birləşdirin (yenidən yükləmə tələb olunur)</string>
     <string name="ch_manage_rename">Adını dəyişdirin</string>
     <string name="pla_timeshift_from_current">İndiki andan başlayın</string>
     <string name="cfg_play_action_timeshift_start">arxivləşdirilmiş televiziya şousunu əvvəldən açın</string>
@@ -555,7 +553,6 @@
     <string name="cfg_prev_n_desc">Kanal təsvirində neçə əvvəlki televiziya şousu göstərilməlidir</string>
     <string name="no_not_show_poster">Poster şəklini göstərməyin</string>
     <string name="duration_to_keep_access">Girişin kilidini açıq saxlamaq üçün müddət</string>
-    <string name="disable_vod_genres">Media kitabxanasında janrları söndürün</string>
     <string name="not_supported_by_device">Cihazınız tərəfindən dəstəklənmir</string>
     <string name="delay_before_retrying_video_on_error">Səhvlə yayımı yenidən açmağa cəhd etməzdən əvvəl gecikmə</string>
     <string name="night_mode">Gecə rejimi</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Telefonunuzdakı QR kodu vasitəsilə</string>
     <string name="can_not_be_edited">Bu elementi redaktə etmək qadağandır</string>
     <string name="action_can_not_undo_continue">Bu əməliyyat geri qaytarıla bilməz, davam etmək istəyirsiniz?</string>
+    <string name="use_same_as_in_live">Canlı yayımlarla eyni dəyəri istifadə edin</string>
+    <string name="refresh_periodically">Vaxtaşırı yeniləyin</string>
     </resources>

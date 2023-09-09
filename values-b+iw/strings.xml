@@ -341,7 +341,6 @@
     <string name="menu_tv_guide_cfg">הצג לחצן מדריך טלוויזיה</string>
     <string name="cfg_video_preview_sound">הפעל צליל בתצוגה המקדימה של הסרטון בתיאור</string>
     <string name="provider_generic_middleware">שרת תווכה גנרי</string>
-    <string name="provider_generic_list">רשימת ספקים</string>
     <string name="provider_generic_list_desc">תבניות נפוצות בקרבת מקום (שפה ואזור)</string>
     <string name="yes">כן</string>
     <string name="no">לא</string>
@@ -357,7 +356,6 @@
     <string name="cfg_channel_manager_filters">מסננים</string>
     <string name="menu_suggest_premium">מוכן לחקור תכונות פרימיום מרגש?</string>
     <string name="cfg_epg_update_frequency">תדירות העדכון (בשעות)</string>
-    <string name="cfg_vod_merge">מיזוג ספריית מדיה ממקורות שונים ברשימה אחת (דורש טעינה מחדש)</string>
     <string name="ch_manage_rename">שנה שם</string>
     <string name="pla_timeshift_from_current">התחל מהרגע הנוכחי</string>
     <string name="cfg_play_action_timeshift_start">לפתוח ארכיון טלוויזיה להראות מההתחלה</string>
@@ -603,7 +601,6 @@
     <string name="cfg_prev_n_desc">כמה תוכניות טלוויזיה קודמות להציג בתיאור הערוץ</string>
     <string name="no_not_show_poster">אל תציג תמונת פוסטר</string>
     <string name="duration_to_keep_access">משך זמן הנעילה</string>
-    <string name="disable_vod_genres">השבת ז\'אנרים בספריית המדיה</string>
     <string name="not_supported_by_device">לא נתמך על ידי המכשיר שלך</string>
     <string name="delay_before_retrying_video_on_error">השהה לפני שתנסה שוב לפתוח את הזרם בשגיאה</string>
     <string name="night_mode">מצב לילה</string>
@@ -748,4 +745,6 @@
     <string name="via_qr_code">ךלש ןופלטב QR דוק תועצמאב</string>
     <string name="can_not_be_edited">הרוסא הז ביכר תכירע</string>
     <string name="action_can_not_undo_continue">ךישמהל ךנוצרב םאה ,וזה הלועפה תא לטבל ןתינ אל?</string>
+    <string name="use_same_as_in_live">םייח םירודיש רובע ומכ ךרע ותואב שמתשה</string>
+    <string name="refresh_periodically">תעל תעמ ןנער</string>
     </resources>

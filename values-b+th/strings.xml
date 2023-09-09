@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">แสดงปุ่ม TV Guide</string>
     <string name="cfg_video_preview_sound">เปิดใช้งานเสียงในการแสดงตัวอย่างวิดีโอในคำอธิบาย</string>
     <string name="provider_generic_middleware">เซิร์ฟเวอร์มิดเดิลแวร์ทั่วไป</string>
-    <string name="provider_generic_list">รายชื่อผู้ให้บริการ</string>
     <string name="provider_generic_list_desc">เทมเพลตทั่วไปที่ใกล้เคียง (ภาษาและภูมิภาค)</string>
     <string name="yes">ใช่</string>
     <string name="no">ไม่</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">ตัวกรอง</string>
     <string name="menu_suggest_premium">พร้อมที่จะสำรวจคุณสมบัติระดับพรีเมียมที่น่าตื่นเต้นแล้วหรือยัง</string>
     <string name="cfg_epg_update_frequency">ความถี่ในการอัปเดต (เป็นชั่วโมง)</string>
-    <string name="cfg_vod_merge">รวมไลบรารีสื่อจากแหล่งที่มาต่างๆ ในรายการเดียว (ต้องโหลดซ้ำ)</string>
     <string name="ch_manage_rename">เปลี่ยนชื่อ</string>
     <string name="pla_timeshift_from_current">เริ่มจากช่วงเวลาปัจจุบัน</string>
     <string name="cfg_play_action_timeshift_start">เปิดรายการทีวีที่เก็บถาวรตั้งแต่ต้น</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">จำนวนรายการทีวีก่อนหน้าที่จะแสดงในคำอธิบายช่อง</string>
     <string name="no_not_show_poster">ไม่แสดงภาพโปสเตอร์</string>
     <string name="duration_to_keep_access">ระยะเวลาในการปลดล็อกการเข้าถึง</string>
-    <string name="disable_vod_genres">ปิดใช้งานประเภทในไลบรารีสื่อ</string>
     <string name="not_supported_by_device">อุปกรณ์ของคุณไม่รองรับ</string>
     <string name="delay_before_retrying_video_on_error">หน่วงเวลาก่อนที่จะลองเปิดสตรีมอีกครั้งเมื่อมีข้อผิดพลาด</string>
     <string name="night_mode">โหมดกลางคืน</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">ผ่านคิวอาร์โค้ดบนโทรศัพท์ของคุณ</string>
     <string name="can_not_be_edited">ห้ามแก้ไของค์ประกอบนี้</string>
     <string name="action_can_not_undo_continue">การดำเนินการนี้ไม่สามารถเลิกทำได้ คุณต้องการดำเนินการต่อหรือไม่</string>
+    <string name="use_same_as_in_live">ใช้ค่าเดียวกับสตรีมแบบสด</string>
+    <string name="refresh_periodically">รีเฟรชเป็นระยะ</string>
     </resources>

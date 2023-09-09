@@ -299,7 +299,6 @@
     <string name="menu_tv_guide_cfg">Mostrar el botón de guía de TV</string>
     <string name="cfg_video_preview_sound">Activar el sonido en la previsualización del vídeo en la descripción</string>
     <string name="provider_generic_middleware">Servidor de middleware genérico</string>
-    <string name="provider_generic_list">Lista de proveedores</string>
     <string name="provider_generic_list_desc">Plantillas comunes cercanas (idioma y región)</string>
     <string name="yes">Sí</string>
     <string name="no">No</string>
@@ -315,7 +314,6 @@
     <string name="cfg_channel_manager_filters">Filtros</string>
     <string name="menu_suggest_premium">¿Listo para explorar emocionantes características premium?</string>
     <string name="cfg_epg_update_frequency">Frecuencia de actualización (en horas)</string>
-    <string name="cfg_vod_merge">Fusiona la biblioteca multimedia de diferentes fuentes en una sola lista (requiere recarga)</string>
     <string name="ch_manage_rename">Renombrar</string>
     <string name="pla_timeshift_from_current">Empezar desde el momento actual.</string>
     <string name="cfg_play_action_timeshift_start">Abrir programa de TV archivado desde el principio</string>
@@ -558,7 +556,6 @@
     <string name="cfg_prev_n_desc">Cuántos programas de televisión anteriores mostrar en la descripción del canal</string>
     <string name="no_not_show_poster">No mostrar imagen de póster</string>
     <string name="duration_to_keep_access">Duración para mantener el acceso desbloqueado</string>
-    <string name="disable_vod_genres">Deshabilitar géneros en la biblioteca multimedia</string>
     <string name="not_supported_by_device">No es compatible con tu dispositivo</string>
     <string name="delay_before_retrying_video_on_error">Retraso antes de volver a intentar abrir la transmisión en caso de error</string>
     <string name="night_mode">Modo nocturno</string>
@@ -703,4 +700,6 @@
     <string name="via_qr_code">A través del código QR en su teléfono</string>
     <string name="can_not_be_edited">Prohibido editar este elemento</string>
     <string name="action_can_not_undo_continue">Esta acción no se puede deshacer, ¿desea continuar?</string>
+    <string name="use_same_as_in_live">Use el mismo valor que para las transmisiones en vivo</string>
+    <string name="refresh_periodically">Actualizar periódicamente</string>
     </resources>

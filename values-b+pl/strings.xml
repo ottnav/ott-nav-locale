@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Pokaż przycisk Przewodnika TV</string>
     <string name="cfg_video_preview_sound">Włącz dźwięk w podglądzie wideo w opisie</string>
     <string name="provider_generic_middleware">Typowy serwer oprogramowania pośredniego</string>
-    <string name="provider_generic_list">Lista dostawców</string>
     <string name="provider_generic_list_desc">Zbliżone wspólne szablony (język i region)</string>
     <string name="yes">Tak</string>
     <string name="no">Nie</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Filtry</string>
     <string name="menu_suggest_premium">Gotowy do odkrywania ekscytujących funkcji premium?</string>
     <string name="cfg_epg_update_frequency">Częstotliwość aktualizacji (w godzinach)</string>
-    <string name="cfg_vod_merge">Scal bibliotekę multimediów z różnych źródeł w jedną listę (wymaga ponownego załadowania)</string>
     <string name="ch_manage_rename">Zmień Nazwę</string>
     <string name="pla_timeshift_from_current">Zacznij od bieżącej chwili</string>
     <string name="cfg_play_action_timeshift_start">otwórz zarchiwizowany Program TV od początku</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">Ile poprzednich Programów Telewizyjnych ma być Wyświetlonych w Opisie Kanału</string>
     <string name="no_not_show_poster">Nie pokazuj obrazu plakatu</string>
     <string name="duration_to_keep_access">Czas, przez jaki dostęp pozostaje odblokowany</string>
-    <string name="disable_vod_genres">Wyłącz Gatunki w Bibliotece Multimediów</string>
     <string name="delay_before_retrying_video_on_error">Opóźnienie przed ponowną próbą ponownego otwarcia transmisji w przypadku błędu</string>
     <string name="not_supported_by_device">Nieobsługiwane przez Twoje Urządzenie</string>
     <string name="night_mode">Tryb Nocny</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Za pomocą kodu QR w telefonie</string>
     <string name="can_not_be_edited">Edycja tego elementu jest zabroniona</string>
     <string name="action_can_not_undo_continue">Tej czynności nie można cofnąć, czy chcesz kontynuować?</string>
+    <string name="use_same_as_in_live">Użyj tej samej wartości, co w przypadku transmisji na żywo</string>
+    <string name="refresh_periodically">Odśwież okresowo</string>
     </resources>

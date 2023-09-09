@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Показване на бутона за EPG</string>
     <string name="cfg_video_preview_sound">Активиране на звука при преглед на видео в описание</string>
     <string name="provider_generic_middleware">Общ сървър за междинен софтуер</string>
-    <string name="provider_generic_list">Списък на доставчиците</string>
     <string name="provider_generic_list_desc">Общи шаблони наблизо (език и регион)</string>
     <string name="yes">да</string>
     <string name="no">Не</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Филтри</string>
     <string name="menu_suggest_premium">Готови ли сте да изследвате вълнуващи премиум функции?</string>
     <string name="cfg_epg_update_frequency">Актуализиране на честотата (в часове)</string>
-    <string name="cfg_vod_merge">Обединяване на медийна библиотека от различни източници в един списък (изисква презареждане)</string>
     <string name="ch_manage_rename">Преименуване</string>
     <string name="pla_timeshift_from_current">Започни от текущия момент</string>
     <string name="cfg_play_action_timeshift_start">Отваряне архивирано телевизионно шоу от началото</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">Колко предишни телевизионни предавания да се показват в описанието на канала</string>
     <string name="no_not_show_poster">Не показвай постер</string>
     <string name="duration_to_keep_access">Продължителност, за да се запази достъпът отключен</string>
-    <string name="disable_vod_genres">Деактивирай жанровете в медийната библиотека</string>
     <string name="not_supported_by_device">Не се поддържа от вашето устройство</string>
     <string name="delay_before_retrying_video_on_error">Забавяне преди опит повторно за отваряне на потока при грешка</string>
     <string name="night_mode">Нощен режим</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Чрез QR код на вашия телефон</string>
     <string name="can_not_be_edited">Редактирането на този елемент е забранено</string>
     <string name="action_can_not_undo_continue">Това действие не може да бъде отменено, искате ли да продължите?</string>
+    <string name="use_same_as_in_live">Използвайте същата стойност като за потоци на живо</string>
+    <string name="refresh_periodically">Опреснявайте периодично</string>
     </resources>

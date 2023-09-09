@@ -342,7 +342,6 @@
     <string name="menu_tv_guide_cfg">نمایش دکمه راهنمای تلویزیون</string>
     <string name="cfg_video_preview_sound">فعال کردن صدا در پیش نمایش ویدیو در توضیحات</string>
     <string name="provider_generic_middleware">عمومی سرور middleware</string>
-    <string name="provider_generic_list">فهرست ارائه دهندگان</string>
     <string name="provider_generic_list_desc">الگوهای مشترک در این نزدیکی (زبان و منطقه)</string>
     <string name="yes">بله</string>
     <string name="no">نه</string>
@@ -358,7 +357,6 @@
     <string name="cfg_channel_manager_filters">فیلترها</string>
     <string name="menu_suggest_premium">آماده کشف ویژگی های هیجان انگیز است؟</string>
     <string name="cfg_epg_update_frequency">به روز رسانی فرکانس (در ساعت)</string>
-    <string name="cfg_vod_merge">ادغام کتابخانه های رسانه ای از منابع مختلف در یک لیست (نیاز به بارگزاری مجدد)</string>
     <string name="ch_manage_rename">تغییر نام دهید</string>
     <string name="pla_timeshift_from_current">از لحظه ای شروع کن</string>
     <string name="cfg_play_action_timeshift_start">بازکردن تلویزیون آرشیو شده از ابتدا</string>
@@ -604,7 +602,6 @@
     <string name="cfg_prev_n_desc">چند نمایش تلویزیونی قبلی برای توصیف کانال نشان داده می شود</string>
     <string name="no_not_show_poster">تصویر پوستر نشان داده نشود</string>
     <string name="duration_to_keep_access">مدت زمان برای قفل کردن دسترسی</string>
-    <string name="disable_vod_genres">ژانرها را در کتابخانه رسانه غیرفعال کنید</string>
     <string name="not_supported_by_device">توسط دستگاه شما پشتیبانی نمی شود</string>
     <string name="delay_before_retrying_video_on_error">تأخیر قبل از تلاش مجدد برای بازگشایی جریان با خطا</string>
     <string name="night_mode">حالت شب</string>
@@ -749,4 +746,6 @@
     <string name="via_qr_code">ﺎﻤﺷ ﯽﺷﻮﮔ ﯼﻭﺭ QR ﺪﮐ ﻖﯾﺮﻃ ﺯﺍ</string>
     <string name="can_not_be_edited">ﺖﺳﺍ ﻉﻮﻨﻤﻣ ﺮﺼﻨﻋ ﻦﯾﺍ ﺶﯾﺍﺮﯾﻭ</string>
     <string name="action_can_not_undo_continue">؟ﺪﯿﻫﺩ ﻪﻣﺍﺩﺍ ﺪﯿﻫﺍﻮﺧu200cﯽﻣ ﺎﯾﺁ ،ﺖﺴﯿﻧ ﻮﻐﻟ ﻞﺑﺎﻗ ﻞﻤﻋ ﻦﯾﺍ</string>
+    <string name="use_same_as_in_live">ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﻩﺪﻧﺯ ﯼﺎﻫu200cﯼﺯﺎﺳu200cﯼﺭﺎﺟ ﯼﺍﺮﺑ ﺭﺍﺪﻘﻣ ﻥﺎﻤﻫ ﺯﺍ</string>
+    <string name="refresh_periodically">ﺪﯿﻨﮐ ﻩﺯﺎﺗ ﯼﺍ ﻩﺭﻭﺩ ﺕﺭﻮﺻ ﻪﺑ</string>
     </resources>

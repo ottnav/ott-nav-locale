@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Visa TV Guide-knappen</string>
     <string name="cfg_video_preview_sound">Aktivera ljud i videoförhandsvisning i beskrivningen</string>
     <string name="provider_generic_middleware">Generisk middleware-server</string>
-    <string name="provider_generic_list">Lista över leverantörer</string>
     <string name="provider_generic_list_desc">Vanliga mallar i närheten (språk och region)</string>
     <string name="yes">Ja</string>
     <string name="no">Nej</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Filter</string>
     <string name="menu_suggest_premium">Redo att utforska spännande premiumfunktioner?</string>
     <string name="cfg_epg_update_frequency">Uppdateringsfrekvens (i timmar)</string>
-    <string name="cfg_vod_merge">Slå samman mediebibliotek från olika källor i en enda lista (kräver omstart)</string>
     <string name="ch_manage_rename">Döpa om</string>
     <string name="pla_timeshift_from_current">Börja från nuvarande ögonblick</string>
     <string name="cfg_play_action_timeshift_start">Öppna arkiverade tv-program från början</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">Hur många tidigare tv-program som ska visas i kanalbeskrivningen</string>
     <string name="no_not_show_poster">Visa inte affischbild</string>
     <string name="duration_to_keep_access">Längd för att hålla åtkomsten olåst</string>
-    <string name="disable_vod_genres">Inaktivera genrer i mediebiblioteket</string>
     <string name="not_supported_by_device">Stöds inte av din enhet</string>
     <string name="delay_before_retrying_video_on_error">Fördröja innan du försöker återöppna strömmen vid fel</string>
     <string name="night_mode">Nattläge</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Via QR-kod på din telefon</string>
     <string name="can_not_be_edited">Det är förbjudet att redigera detta element</string>
     <string name="action_can_not_undo_continue">Den här åtgärden kan inte ångras, vill du fortsätta?</string>
+    <string name="use_same_as_in_live">Använd samma värde som för livestreamar</string>
+    <string name="refresh_periodically">Uppdatera med jämna mellanrum</string>
     </resources>

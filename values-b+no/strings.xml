@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Vis TV-guide-knappen</string>
     <string name="cfg_video_preview_sound">Aktiver lyd i videoforhåndsvisning i beskrivelsen</string>
     <string name="provider_generic_middleware">Generisk mellomvareserver</string>
-    <string name="provider_generic_list">Leverandørliste</string>
     <string name="provider_generic_list_desc">Vanlige maler i nærheten (språk og region)</string>
     <string name="yes">Ja</string>
     <string name="no">Nei</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Filtre</string>
     <string name="menu_suggest_premium">Klar til å utforske spennende premiumfunksjoner?</string>
     <string name="cfg_epg_update_frequency">Oppdateringsfrekvens (i timer)</string>
-    <string name="cfg_vod_merge">Slå sammen mediebibliotek fra forskjellige kilder i en enkelt liste (krever omlasting)</string>
     <string name="ch_manage_rename">Gi nytt navn</string>
     <string name="pla_timeshift_from_current">Start fra det nåværende øyeblikket</string>
     <string name="cfg_play_action_timeshift_start">åpne arkiverte tv-show fra begynnelsen</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">Hvor mange tidligere TV-programmer som skal vises i kanalbeskrivelsen</string>
     <string name="no_not_show_poster">Ikke vis plakatbilde</string>
     <string name="duration_to_keep_access">Varighet for å holde tilgangen ulåst</string>
-    <string name="disable_vod_genres">Deaktiver sjangere i mediebiblioteket</string>
     <string name="not_supported_by_device">Støttes ikke av enheten din</string>
     <string name="delay_before_retrying_video_on_error">Utsett før du prøver å gjenåpne strømmen ved feil</string>
     <string name="night_mode">Nattmodus</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Via QR-kode på telefonen</string>
     <string name="can_not_be_edited">Det er forbudt å redigere dette elementet</string>
     <string name="action_can_not_undo_continue">Denne handlingen kan ikke angres, vil du fortsette?</string>
+    <string name="use_same_as_in_live">Bruk samme verdi som for direktesendinger</string>
+    <string name="refresh_periodically">Oppdater med jevne mellomrom</string>
     </resources>

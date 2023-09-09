@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Näytä TV-opas-painike</string>
     <string name="cfg_video_preview_sound">Ota ääni käyttöön videon esikatselussa kuvauksessa</string>
     <string name="provider_generic_middleware">Yleinen väliohjelmistopalvelin</string>
-    <string name="provider_generic_list">Tarjoajien luettelo</string>
     <string name="provider_generic_list_desc">Yleisiä malleja lähellä (kieli ja alue)</string>
     <string name="yes">Joo</string>
     <string name="no">Ei</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Suodattimet</string>
     <string name="menu_suggest_premium">Oletko valmis tutustumaan jännittäviin premium-ominaisuuksiin?</string>
     <string name="cfg_epg_update_frequency">Päivitystiheys (tunteina)</string>
-    <string name="cfg_vod_merge">Yhdistä mediakirjasto eri lähteistä yhdeksi luetteloksi (vaatii uudelleenlatauksen)</string>
     <string name="ch_manage_rename">Nimeä uudelleen</string>
     <string name="pla_timeshift_from_current">Aloita nykyisestä hetkestä</string>
     <string name="cfg_play_action_timeshift_start">avaa arkistoitu tv-ohjelma alusta</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">Kuinka monta aiempaa tv-ohjelmaa näytetään kanavan kuvauksessa</string>
     <string name="no_not_show_poster">Älä näytä julistekuvaa</string>
     <string name="duration_to_keep_access">Kesto pääsyn avaamiseen</string>
-    <string name="disable_vod_genres">Poista genret käytöstä mediakirjastossa</string>
     <string name="not_supported_by_device">Laitteesi ei tue</string>
     <string name="delay_before_retrying_video_on_error">Viive ennen kuin yrität avata streamin uudelleen virheen sattuessa</string>
     <string name="night_mode">Yötila</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">QR-koodin kautta puhelimeesi</string>
     <string name="can_not_be_edited">Tämän elementin muokkaaminen on kielletty</string>
     <string name="action_can_not_undo_continue">Tätä toimintoa ei voi kumota. Haluatko jatkaa?</string>
+    <string name="use_same_as_in_live">Käytä samaa arvoa kuin livelähetyksissä</string>
+    <string name="refresh_periodically">Päivitä säännöllisesti</string>
     </resources>

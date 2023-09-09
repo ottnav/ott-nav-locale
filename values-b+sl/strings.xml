@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Pokaži gumb za TV-vodnik</string>
     <string name="cfg_video_preview_sound">Omogoči zvok v predogledu videa v opisu</string>
     <string name="provider_generic_middleware">Generični strežnik vmesne programske opreme</string>
-    <string name="provider_generic_list">Seznam ponudnikov</string>
     <string name="provider_generic_list_desc">Pogoste predloge v bližini (jezik in regija)</string>
     <string name="yes">ja</string>
     <string name="no">št</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Filtri</string>
     <string name="menu_suggest_premium">Ste pripravljeni raziskati vznemirljive vrhunske funkcije?</string>
     <string name="cfg_epg_update_frequency">Pogostost posodabljanja (v urah)</string>
-    <string name="cfg_vod_merge">Združi medijske knjižnice iz različnih virov v en seznam (zahteva ponovno nalaganje)</string>
     <string name="ch_manage_rename">Preimenuj</string>
     <string name="pla_timeshift_from_current">Začnite od trenutnega trenutka</string>
     <string name="cfg_play_action_timeshift_start">odpri arhivirano TV-oddajo od začetka</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">Koliko prejšnjih TV-oddaj prikazati v opisu kanala</string>
     <string name="no_not_show_poster">Ne prikaži slike plakata</string>
     <string name="duration_to_keep_access">Trajanje, da ostane dostop odklenjen</string>
-    <string name="disable_vod_genres">Onemogoči žanre v medijski knjižnici</string>
     <string name="not_supported_by_device">Vaša naprava tega ne podpira</string>
     <string name="delay_before_retrying_video_on_error">Zakasnitev pred ponovnim poskusom odpiranja toka ob napaki</string>
     <string name="night_mode">Nočni način</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Preko QR kode na telefonu</string>
     <string name="can_not_be_edited">Urejanje tega elementa je prepovedano</string>
     <string name="action_can_not_undo_continue">Tega dejanja ni mogoče razveljaviti, ali želite nadaljevati?</string>
+    <string name="use_same_as_in_live">Uporabite enako vrednost kot za prenose v živo</string>
+    <string name="refresh_periodically">Občasno osvežite</string>
     </resources>

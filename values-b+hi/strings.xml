@@ -342,7 +342,6 @@
     <string name="menu_tv_guide_cfg">टीवी गाइड बटन दिखाएं</string>
     <string name="cfg_video_preview_sound">वर्णन में वीडियो पूर्वावलोकन में ध्वनि सक्षम करें</string>
     <string name="provider_generic_middleware">सामान्य मिडिलवेयर सर्वर</string>
-    <string name="provider_generic_list">प्रदाताओं की सूची</string>
     <string name="provider_generic_list_desc">भाषा (क्षेत्र और क्षेत्र) के पास सामान्य टेम्पलेट</string>
     <string name="yes">हाँ</string>
     <string name="no">नहीं</string>
@@ -358,7 +357,6 @@
     <string name="cfg_channel_manager_filters">फिल्टर</string>
     <string name="menu_suggest_premium">रोमांचक प्रीमियम सुविधाओं का पता लगाने के लिए तैयार हैं?</string>
     <string name="cfg_epg_update_frequency">अद्यतन आवृत्ति (घंटे में)</string>
-    <string name="cfg_vod_merge">एक ही सूची में विभिन्न स्रोतों से मीडिया लाइब्रेरी मर्ज करें (पुनः लोड की आवश्यकता है)</string>
     <string name="ch_manage_rename">नाम बदलें</string>
     <string name="pla_timeshift_from_current">वर्तमान क्षण से शुरू करें</string>
     <string name="cfg_play_action_timeshift_start">शुरू से ही खुला टीवी-शो</string>
@@ -604,7 +602,6 @@
     <string name="cfg_prev_n_desc">चैनल विवरण में प्रदर्शित करने के लिए कितने पिछले टीवी-शो हैं</string>
     <string name="no_not_show_poster">पोस्टर छवि न दिखाएं</string>
     <string name="duration_to_keep_access">एक्सेस को अनलॉक रखने की अवधि</string>
-    <string name="disable_vod_genres">मीडिया लाइब्रेरी में शैलियों को अक्षम करें</string>
     <string name="not_supported_by_device">आपके डिवाइस द्वारा समर्थित नहीं है</string>
     <string name="delay_before_retrying_video_on_error">त्रुटि पर स्ट्रीम को फिर से खोलने से पहले विलंब</string>
     <string name="night_mode">रात्री स्वरुप</string>
@@ -749,4 +746,6 @@
     <string name="via_qr_code">आपके फ़ोन पर QR कोड के ज़रिए</string>
     <string name="can_not_be_edited">इस तत्व का संपादन निषिद्ध है</string>
     <string name="action_can_not_undo_continue">यह क्रिया पूर्ववत नहीं की जा सकती, क्या आप जारी रखना चाहते हैं?</string>
+    <string name="use_same_as_in_live">लाइव स्ट्रीम के लिए समान मान का उपयोग करें</string>
+    <string name="refresh_periodically">समय-समय पर ताज़ा करें</string>
     </resources>

@@ -334,7 +334,6 @@
     <string name="menu_tv_guide_cfg">Паказваць кнопку тэлегіда</string>
     <string name="cfg_video_preview_sound">Уключыць гук у прадпраглядзе відэа ў апісанні</string>
     <string name="provider_generic_middleware">Тыповы middleware сервер</string>
-    <string name="provider_generic_list">Спіс правайдараў</string>
     <string name="provider_generic_list_desc">Частыя шаблоны паблізу (мова і рэгіён)</string>
     <string name="yes">Так</string>
     <string name="no">Не</string>
@@ -350,7 +349,6 @@
     <string name="cfg_channel_manager_filters">Фільтры</string>
     <string name="menu_suggest_premium">Ці гатовыя вывучыць выдатныя прэміум магчымасці?</string>
     <string name="cfg_epg_update_frequency">Частата абнаўлення (у гадзінах)</string>
-    <string name="cfg_vod_merge">Склеіць медыя бібліятэку розных крыніц у адзіны спіс (патрабуе перазагрузку)</string>
     <string name="ch_manage_rename">Пераназваць</string>
     <string name="pla_timeshift_from_current">Пачаць з бягучага моманту</string>
     <string name="cfg_play_action_timeshift_start">адкрыць архіўную перадачу спачатку</string>
@@ -597,7 +595,6 @@
     <string name="cfg_prev_n_desc">Колькі папярэдніх тэлешоў адлюстроўваць у апісанні канала</string>
     <string name="no_not_show_poster">Не паказваць малюнак плаката</string>
     <string name="duration_to_keep_access">Працягласць, каб доступ быў разблакаваны</string>
-    <string name="disable_vod_genres">Адключыць жанры ў медыятэцы</string>
     <string name="not_supported_by_device">Не падтрымліваецца вашай прыладай</string>
     <string name="delay_before_retrying_video_on_error">Затрымка перад паўторнай спробай адкрыцця патока ў выпадку памылкі</string>
     <string name="night_mode">Начны рэжым</string>
@@ -742,4 +739,6 @@
     <string name="via_qr_code">Праз QR-код на тэлефоне</string>
     <string name="can_not_be_edited">Рэдагаванне гэтага элемента забаронена</string>
     <string name="action_can_not_undo_continue">Гэта дзеянне немагчыма адрабіць, вы хочаце працягнуць?</string>
+    <string name="use_same_as_in_live">Выкарыстоўвайце тое ж значэнне, што і для жывых трансляцый</string>
+    <string name="refresh_periodically">Перыядычна абнаўляйце</string>
     </resources>

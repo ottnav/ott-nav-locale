@@ -340,7 +340,6 @@
     <string name="menu_tv_guide_cfg">Rādīt pogu TV ceļvedis</string>
     <string name="cfg_video_preview_sound">Iespējot skaņu video priekšskatījumā aprakstā</string>
     <string name="provider_generic_middleware">Vispārējs starpprogrammatūras serveris</string>
-    <string name="provider_generic_list">Pakalpojumu sniedzēju saraksts</string>
     <string name="provider_generic_list_desc">Blakus esošās kopējās veidnes (valoda un reģions)</string>
     <string name="yes">Jā</string>
     <string name="no">Nē</string>
@@ -356,7 +355,6 @@
     <string name="cfg_channel_manager_filters">Filtri</string>
     <string name="menu_suggest_premium">Vai esat gatavs izpētīt aizraujošas piemaksas funkcijas?</string>
     <string name="cfg_epg_update_frequency">Atjaunināšanas biežums (stundās)</string>
-    <string name="cfg_vod_merge">Apvienot multivides bibliotēku no dažādiem avotiem vienā sarakstā (nepieciešama atkārtota ielāde)</string>
     <string name="ch_manage_rename">Pārdēvēt</string>
     <string name="pla_timeshift_from_current">Sāciet no pašreizējā brīža</string>
     <string name="cfg_play_action_timeshift_start">atvērt sākumu no arhivēta TV</string>
@@ -602,7 +600,6 @@
     <string name="cfg_prev_n_desc">Cik iepriekšējo TV pārraižu jāparāda kanāla aprakstā</string>
     <string name="no_not_show_poster">Nerādīt plakāta attēlu</string>
     <string name="duration_to_keep_access">Ilgums, lai piekļuve netiktu bloķēta</string>
-    <string name="disable_vod_genres">Atspējot žanrus multivides bibliotēkā</string>
     <string name="delay_before_retrying_video_on_error">Kavēšanās, pirms mēģināt atkārtoti atvērt straumi kļūdas dēļ</string>
     <string name="not_supported_by_device">Jūsu ierīce neatbalsta</string>
     <string name="night_mode">Nakts režīms</string>
@@ -747,4 +744,6 @@
     <string name="via_qr_code">Izmantojot QR kodu savā tālrunī</string>
     <string name="can_not_be_edited">Šī elementa rediģēšana ir aizliegta</string>
     <string name="action_can_not_undo_continue">Šo darbību nevar atsaukt. Vai vēlaties turpināt?</string>
+    <string name="use_same_as_in_live">Izmantojiet to pašu vērtību kā tiešraides straumēm</string>
+    <string name="refresh_periodically">Periodiski atsvaidziniet</string>
     </resources>

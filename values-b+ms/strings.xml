@@ -341,7 +341,6 @@
     <string name="menu_tv_guide_cfg">Tunjukkan butang Panduan TV</string>
     <string name="cfg_video_preview_sound">Dayakan bunyi dalam pratonton video dalam keterangan</string>
     <string name="provider_generic_middleware">Pelayan middleware Generik</string>
-    <string name="provider_generic_list">Senarai pembekal</string>
     <string name="provider_generic_list_desc">Templat biasa berdekatan (bahasa dan wilayah)</string>
     <string name="yes">Ya</string>
     <string name="no">Tidak</string>
@@ -357,7 +356,6 @@
     <string name="cfg_channel_manager_filters">Penapis</string>
     <string name="menu_suggest_premium">Bersedia untuk meneroka ciri-ciri premium yang menarik?</string>
     <string name="cfg_epg_update_frequency">Kekerapan kemas kini (dalam jam)</string>
-    <string name="cfg_vod_merge">Gabungkan pustaka media dari pelbagai sumber dalam satu senarai (memerlukan tambah nilai)</string>
     <string name="ch_manage_rename">Namakan semula</string>
     <string name="pla_timeshift_from_current">Mulakan dari saat ini</string>
     <string name="cfg_play_action_timeshift_start">buka arkib tv-pertunjukan dari permulaan</string>
@@ -605,7 +603,6 @@
     <string name="duration_to_keep_access">Tempoh untuk memastikan akses tidak terkunci</string>
     <string name="not_supported_by_device">Tidak disokong oleh peranti anda</string>
     <string name="delay_before_retrying_video_on_error">Kelewatan sebelum mencuba untuk membuka semula aliran jika berlaku kesilapan</string>
-    <string name="disable_vod_genres">Lumpuhkan genre di perpustakaan media</string>
     <string name="night_mode">Mod malam</string>
     <string name="editing_is_restricted">Konfigurasi anda melarang menguruskan saluran</string>
     <string name="lock_editing">Penyuntingan kunci (melarang pengurusan saluran)</string>
@@ -748,4 +745,6 @@
     <string name="via_qr_code">Melalui kod QR pada telefon anda</string>
     <string name="can_not_be_edited">Mengedit elemen ini adalah dilarang</string>
     <string name="action_can_not_undo_continue">Tindakan ini tidak boleh dibuat asal, adakah anda ingin meneruskan?</string>
+    <string name="use_same_as_in_live">Gunakan nilai yang sama seperti untuk strim langsung</string>
+    <string name="refresh_periodically">Muat semula secara berkala</string>
     </resources>

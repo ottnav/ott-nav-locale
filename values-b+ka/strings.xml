@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">ღილაკი სატელევიზიო სახელმძღვანელოს ჩვენება</string>
     <string name="cfg_video_preview_sound">ჩართეთ ხმა ვიდეოს გადახედვისას აღწერილობაში</string>
     <string name="provider_generic_middleware">ზოგადი შუაპროგრამის სერვერი</string>
-    <string name="provider_generic_list">პროვაიდერების სია</string>
     <string name="provider_generic_list_desc">ახლომდებარე ჩვეულებრივი შაბლონები (ენა და რეგიონი)</string>
     <string name="yes">დიახ</string>
     <string name="no">არა</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">ფილტრები</string>
     <string name="menu_suggest_premium">მზად ხართ შეისწავლოთ საინტერესო პრემიუმ ფუნქციები?</string>
     <string name="cfg_epg_update_frequency">განახლების სიხშირე (საათებში)</string>
-    <string name="cfg_vod_merge">მედია ბიბლიოთეკის შერწყმა სხვადასხვა წყაროდან ერთ სიაში (მოითხოვს გადატვირთვას)</string>
     <string name="ch_manage_rename">გადარქმევა</string>
     <string name="pla_timeshift_from_current">დაიწყეთ მიმდინარე მომენტიდან</string>
     <string name="cfg_play_action_timeshift_start">თავიდანვე გახსენით საარქივო სატელევიზიო შოუ</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">რამდენი წინა სატელევიზიო შოუ უნდა იყოს ნაჩვენები არხის აღწერაში</string>
     <string name="no_not_show_poster">არ აჩვენო პოსტერის სურათი</string>
     <string name="duration_to_keep_access">წვდომის განბლოკვის ხანგრძლივობა</string>
-    <string name="disable_vod_genres">გამორთეთ ჟანრები მედია ბიბლიოთეკაში</string>
     <string name="not_supported_by_device">არ არის მხარდაჭერილი თქვენი მოწყობილობის მიერ</string>
     <string name="delay_before_retrying_video_on_error">შეცდომის გამო ნაკადის ხელახლა გახსნის მცდელობამდე დაგვიანება</string>
     <string name="night_mode">Ღამის რეჟიმი</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">თქვენს ტელეფონზე QR კოდის საშუალებით</string>
     <string name="can_not_be_edited">ამ ელემენტის რედაქტირება აკრძალულია</string>
     <string name="action_can_not_undo_continue">ამ მოქმედების გაუქმება შეუძლებელია, გსურთ გაგრძელება?</string>
+    <string name="use_same_as_in_live">გამოიყენეთ იგივე მნიშვნელობა, რაც პირდაპირი სტრიმინგებისთვის</string>
+    <string name="refresh_periodically">პერიოდულად განაახლეთ</string>
     </resources>

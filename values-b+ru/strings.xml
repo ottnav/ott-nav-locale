@@ -334,7 +334,6 @@
     <string name="menu_tv_guide_cfg">Показывать кнопку телегида</string>
     <string name="cfg_video_preview_sound">Включить звук в предпросмотре видео в описании</string>
     <string name="provider_generic_middleware">Типичный middleware сервер</string>
-    <string name="provider_generic_list">Список провайдеров</string>
     <string name="provider_generic_list_desc">Частые шаблоны поблизости (язык и регион)</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
@@ -350,7 +349,6 @@
     <string name="cfg_channel_manager_filters">Фильтры</string>
     <string name="menu_suggest_premium">Готовы изучить отличные премиум возможности?</string>
     <string name="cfg_epg_update_frequency">Частота обновления (в часах)</string>
-    <string name="cfg_vod_merge">Склеить медиа библиотеку разных источников в единый список (требует перезагрузку)</string>
     <string name="ch_manage_rename">Переименовать</string>
     <string name="pla_timeshift_from_current">Начать с текущего момента</string>
     <string name="cfg_play_action_timeshift_start">открыть архивную передачу сначала</string>
@@ -597,7 +595,6 @@
     <string name="cfg_prev_n_desc">Сколько предыдущих передач показывать в описании канала</string>
     <string name="no_not_show_poster">Не показывать постер</string>
     <string name="duration_to_keep_access">Продолжительность, чтобы доступ был разблокирован</string>
-    <string name="disable_vod_genres">Отключить жанры в медиатеке</string>
     <string name="not_supported_by_device">Не поддерживается вашим устройством</string>
     <string name="delay_before_retrying_video_on_error">Задержка перед повторной попыткой открытия потока в случае ошибки</string>
     <string name="night_mode">Ночной режим</string>
@@ -742,4 +739,6 @@
     <string name="via_qr_code">С помощью QR-кода на вашем телефоне</string>
     <string name="can_not_be_edited">Редактирование этого элемента запрещено</string>
     <string name="action_can_not_undo_continue">Это действие нельзя отменить. Продолжить?</string>
+    <string name="use_same_as_in_live">Используйте то же значение, что и для прямых трансляций</string>
+    <string name="refresh_periodically">Периодически обновляйте</string>
     </resources>

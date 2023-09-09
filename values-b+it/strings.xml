@@ -341,7 +341,6 @@
     <string name="menu_tv_guide_cfg">Mostra il pulsante Guida TV</string>
     <string name="cfg_video_preview_sound">Abilita l\'audio nell\'anteprima video nella descrizione</string>
     <string name="provider_generic_middleware">Server middleware generico</string>
-    <string name="provider_generic_list">Elenco dei fornitori</string>
     <string name="provider_generic_list_desc">Modelli comuni nelle vicinanze (lingua e regione)</string>
     <string name="yes">sì</string>
     <string name="no">No</string>
@@ -357,7 +356,6 @@
     <string name="cfg_channel_manager_filters">filtri</string>
     <string name="menu_suggest_premium">Sei pronto a esplorare interessanti funzioni premium?</string>
     <string name="cfg_epg_update_frequency">Frequenza di aggiornamento (in ore)</string>
-    <string name="cfg_vod_merge">Unisci la libreria multimediale da diverse fonti in un unico elenco (richiede il caricamento)</string>
     <string name="ch_manage_rename">Rinominare</string>
     <string name="pla_timeshift_from_current">Inizia dal momento attuale</string>
     <string name="cfg_play_action_timeshift_start">serie TV aperta da inizio</string>
@@ -603,7 +601,6 @@
     <string name="cfg_prev_n_desc">Quanti programmi televisivi precedenti visualizzare nella descrizione del canale</string>
     <string name="no_not_show_poster">Non mostrare l\'immagine del poster</string>
     <string name="duration_to_keep_access">Durata per mantenere l\'accesso sbloccato</string>
-    <string name="disable_vod_genres">Disabilita i generi nella libreria multimediale</string>
     <string name="not_supported_by_device">Non supportato dal tuo dispositivo</string>
     <string name="delay_before_retrying_video_on_error">Ritardo prima di riprovare a riaprire lo stream in caso di errore</string>
     <string name="night_mode">Modalità notturna</string>
@@ -748,4 +745,6 @@
     <string name="via_qr_code">Tramite codice QR sul tuo telefono</string>
     <string name="can_not_be_edited">La modifica di questo elemento è vietata</string>
     <string name="action_can_not_undo_continue">Questa azione non può essere annullata, vuoi continuare?</string>
+    <string name="use_same_as_in_live">Utilizza lo stesso valore dei live streaming</string>
+    <string name="refresh_periodically">Aggiorna periodicamente</string>
     </resources>

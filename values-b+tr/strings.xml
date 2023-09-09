@@ -340,7 +340,6 @@
     <string name="menu_tv_guide_cfg">TV Rehberi düğmesini göster</string>
     <string name="cfg_video_preview_sound">Video önizlemesinde sesi etkinleştir tanımında</string>
     <string name="provider_generic_middleware">Genel katman sunucusu</string>
-    <string name="provider_generic_list">Tedarikçi listesi</string>
     <string name="provider_generic_list_desc">Yakındaki genel şablonlar (dil ve bölge)</string>
     <string name="yes">Evet</string>
     <string name="no">Yok hayır</string>
@@ -356,7 +355,6 @@
     <string name="cfg_channel_manager_filters">Filtreler</string>
     <string name="menu_suggest_premium">Heyecan verici premium özellikleri keşfetmeye hazır mısınız?</string>
     <string name="cfg_epg_update_frequency">Güncelleme sıklığı (saat olarak)</string>
-    <string name="cfg_vod_merge">Medya kitaplığını farklı kaynaklardan tek bir listede birleştirme (yeniden yükleme gerektirir)</string>
     <string name="ch_manage_rename">Adını değiştirmek</string>
     <string name="pla_timeshift_from_current">Geçerli andan başla</string>
     <string name="cfg_play_action_timeshift_start">arşivden TV şovunu baştan aç</string>
@@ -602,7 +600,6 @@
     <string name="cfg_prev_n_desc">Kanal açıklamasında görüntülenecek önceki kaç TV şovu</string>
     <string name="no_not_show_poster">Poster resmini gösterme</string>
     <string name="duration_to_keep_access">Erişim kilidinin açık kalması için süre</string>
-    <string name="disable_vod_genres">Medya kitaplığındaki türleri devre dışı bırakın</string>
     <string name="not_supported_by_device">Cihazınız tarafından desteklenmiyor</string>
     <string name="delay_before_retrying_video_on_error">Hata durumunda yayını yeniden açmayı denemeden önce gecikme</string>
     <string name="night_mode">Gece modu</string>
@@ -747,4 +744,6 @@
     <string name="via_qr_code">Telefonunuzdaki QR kodu aracılığıyla</string>
     <string name="can_not_be_edited">Bu öğeyi düzenlemek yasaktır</string>
     <string name="action_can_not_undo_continue">Bu işlem geri alınamaz, devam etmek istiyor musunuz?</string>
+    <string name="use_same_as_in_live">Canlı akışlarla aynı değeri kullanın</string>
+    <string name="refresh_periodically">Periyodik olarak yenile</string>
     </resources>

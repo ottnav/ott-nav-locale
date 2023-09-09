@@ -340,7 +340,6 @@
     <string name="menu_tv_guide_cfg">ਟੀਵੀ ਗਾਈਡ ਬਟਨ ਦਿਖਾਓ</string>
     <string name="cfg_video_preview_sound">ਵੇਰਵੇ ਵਿੱਚ ਵੀਡੀਓ ਪੂਰਵਦਰਸ਼ਨ ਵਿੱਚ ਆਵਾਜ਼ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
     <string name="provider_generic_middleware">ਆਮ ਮਿਡਲਵੇਅਰ ਸਰਵਰ</string>
-    <string name="provider_generic_list">ਪ੍ਰਦਾਤਾ ਦੀ ਸੂਚੀ</string>
     <string name="provider_generic_list_desc">ਨੇੜੇ ਦੇ ਆਮ ਟੈਂਪਲੇਟ (ਭਾਸ਼ਾ ਅਤੇ ਖੇਤਰ)</string>
     <string name="yes">ਹਾਂ</string>
     <string name="no">ਨਹੀਂ</string>
@@ -356,7 +355,6 @@
     <string name="cfg_channel_manager_filters">ਫਿਲਟਰ</string>
     <string name="menu_suggest_premium">ਸ਼ਾਨਦਾਰ ਪ੍ਰੀਮੀਅਮ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਪੜਚੋਲ ਕਰਨ ਲਈ ਤਿਆਰ ਹੋ?</string>
     <string name="cfg_epg_update_frequency">ਅਪਡੇਟ ਵਕਾਲਤ (ਘੰਟੇ ਵਿੱਚ)</string>
-    <string name="cfg_vod_merge">ਇੱਕ ਸੂਚੀ ਵਿੱਚ ਵੱਖ ਵੱਖ ਸਰੋਤਾਂ ਤੋਂ ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ ਨੂੰ ਮਿਲਾਓ (ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ)</string>
     <string name="ch_manage_rename">ਨਾਂ ਬਦਲੋ</string>
     <string name="pla_timeshift_from_current">ਮੌਜੂਦਾ ਪਲਾਂ ਤੋਂ ਸ਼ੁਰੂ ਕਰੋ</string>
     <string name="cfg_play_action_timeshift_start">ਆਰੰਭਕ ਟੀਵੀ-ਸ਼ੋਅ ਸ਼ੁਰੂ ਤੋਂ ਸ਼ੁਰੂ ਕਰੋ</string>
@@ -602,7 +600,6 @@
     <string name="cfg_prev_n_desc">ਚੈਨਲ ਦੇ ਵੇਰਵੇ ਵਿੱਚ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਕਿੰਨੇ ਪਿਛਲੇ ਟੀਵੀ-ਸ਼ੋਅ</string>
     <string name="no_not_show_poster">ਪੋਸਟਰ ਚਿੱਤਰ ਨਾ ਦਿਖਾਓ</string>
     <string name="duration_to_keep_access">ਪਹੁੰਚ ਨੂੰ ਅਣ-ਲਾੱਕ ਰੱਖਣ ਦੀ ਮਿਆਦ</string>
-    <string name="disable_vod_genres">ਮੀਡੀਆ ਲਾਇਬ੍ਰੇਰੀ ਵਿਚ ਸ਼ੈਲੀਆਂ ਨੂੰ ਅਯੋਗ ਕਰੋ</string>
     <string name="not_supported_by_device">ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਦੁਆਰਾ ਸਮਰਥਤ ਨਹੀਂ ਹੈ</string>
     <string name="delay_before_retrying_video_on_error">ਗਲਤੀ ਤੇ ਸਟ੍ਰੀਮ ਨੂੰ ਦੁਬਾਰਾ ਖੋਲ੍ਹਣ ਲਈ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਦੇਰੀ ਕਰੋ</string>
     <string name="night_mode">ਰਾਤ ਦਾ ਮੋਡ</string>
@@ -747,4 +744,6 @@
     <string name="via_qr_code">ਤੁਹਾਡੇ ਫ਼ੋਨ \'ਤੇ QR ਕੋਡ ਰਾਹੀਂ</string>
     <string name="can_not_be_edited">ਇਸ ਤੱਤ ਨੂੰ ਸੰਪਾਦਿਤ ਕਰਨ ਦੀ ਮਨਾਹੀ ਹੈ</string>
     <string name="action_can_not_undo_continue">ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="use_same_as_in_live">ਲਾਈਵ ਸਟ੍ਰੀਮ ਲਈ ਸਮਾਨ ਮੁੱਲ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="refresh_periodically">ਸਮੇਂ-ਸਮੇਂ \'ਤੇ ਤਾਜ਼ਾ ਕਰੋ</string>
     </resources>

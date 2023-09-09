@@ -297,7 +297,6 @@
     <string name="menu_tv_guide_cfg">Tlačítko Zobrazit TV průvodce</string>
     <string name="cfg_video_preview_sound">Povolit zvuk v náhledu videa v popisu</string>
     <string name="provider_generic_middleware">Obecný server middlewaru</string>
-    <string name="provider_generic_list">Seznam poskytovatelů</string>
     <string name="provider_generic_list_desc">Běžné šablony v okolí (jazyk a region)</string>
     <string name="yes">Ano</string>
     <string name="no">Ne</string>
@@ -313,7 +312,6 @@
     <string name="cfg_channel_manager_filters">Filtry</string>
     <string name="menu_suggest_premium">Jste připraveni prozkoumat vzrušující prémiové funkce?</string>
     <string name="cfg_epg_update_frequency">Frekvence aktualizace (v hodinách)</string>
-    <string name="cfg_vod_merge">Sloučení knihovny médií z různých zdrojů do jednoho seznamu (vyžaduje opětovné načtení)</string>
     <string name="ch_manage_rename">Přejmenovat</string>
     <string name="pla_timeshift_from_current">Začněte od aktuálního okamžiku</string>
     <string name="cfg_play_action_timeshift_start">otevřít archivovanou televizní show od začátku</string>
@@ -556,7 +554,6 @@
     <string name="cfg_prev_n_desc">Kolik předchozích televizních pořadů se má zobrazit v popisu kanálu</string>
     <string name="no_not_show_poster">Nezobrazovat obrázek plakátu</string>
     <string name="duration_to_keep_access">Doba odemčení přístupu</string>
-    <string name="disable_vod_genres">Zakázat žánry v knihovně médií</string>
     <string name="not_supported_by_device">Zařízení nepodporuje</string>
     <string name="delay_before_retrying_video_on_error">Zpoždění před pokusem o opětovné otevření streamu při chybě</string>
     <string name="night_mode">Noční režim</string>
@@ -701,4 +698,6 @@
     <string name="via_qr_code">Prostřednictvím QR kódu na vašem telefonu</string>
     <string name="can_not_be_edited">Úprava tohoto prvku je zakázána</string>
     <string name="action_can_not_undo_continue">Tuto akci nelze vrátit zpět, chcete pokračovat?</string>
+    <string name="use_same_as_in_live">Použijte stejnou hodnotu jako u živých přenosů</string>
+    <string name="refresh_periodically">Pravidelně obnovujte</string>
     </resources>

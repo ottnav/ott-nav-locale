@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Εμφάνιση του κουμπιού Οδηγός τηλεόρασης</string>
     <string name="cfg_video_preview_sound">Ενεργοποιήστε τον ήχο στην προεπισκόπηση βίντεο στην περιγραφή</string>
     <string name="provider_generic_middleware">Γενικό διακομιστή μεσαίου λογισμικού</string>
-    <string name="provider_generic_list">Λίστα παρόχων</string>
     <string name="provider_generic_list_desc">Κοινά πρότυπα σε κοντινή απόσταση (γλώσσα και περιοχή)</string>
     <string name="yes">Ναί</string>
     <string name="no">Οχι</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Φίλτρα</string>
     <string name="menu_suggest_premium">Είστε έτοιμοι να εξερευνήσετε συναρπαστικά χαρακτηριστικά premium;</string>
     <string name="cfg_epg_update_frequency">Συχνότητα ενημέρωσης (σε ώρες)</string>
-    <string name="cfg_vod_merge">Συγχώνευση βιβλιοθήκης πολυμέσων από διαφορετικές πηγές σε μία μόνο λίστα (απαιτείται επαναφόρτωση)</string>
     <string name="ch_manage_rename">Μετονομάζω</string>
     <string name="pla_timeshift_from_current">Ξεκινήστε από την τρέχουσα στιγμή</string>
     <string name="cfg_play_action_timeshift_start">ανοίξτε αρχειοθετημένη τηλεοπτική εκπομπή από την αρχή</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">Πόσες προηγούμενες τηλεοπτικές εκπομπές θα εμφανίζονται στην περιγραφή του καναλιού</string>
     <string name="no_not_show_poster">Να μην εμφανίζεται εικόνα αφίσας</string>
     <string name="duration_to_keep_access">Διάρκεια για να διατηρείται ξεκλείδωτη η πρόσβαση</string>
-    <string name="disable_vod_genres">Απενεργοποιήστε τα είδη στη βιβλιοθήκη πολυμέσων</string>
     <string name="not_supported_by_device">Δεν υποστηρίζεται από τη συσκευή σας</string>
     <string name="delay_before_retrying_video_on_error">Καθυστέρηση πριν προσπαθήσετε ξανά για να ανοίξετε ξανά τη ροή σε σφάλμα</string>
     <string name="night_mode">Νυχτερινή λειτουργία</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Μέσω κωδικού QR στο τηλέφωνό σας</string>
     <string name="can_not_be_edited">Απαγορεύεται η επεξεργασία αυτού του στοιχείου</string>
     <string name="action_can_not_undo_continue">Αυτή η ενέργεια δεν μπορεί να αναιρεθεί, θέλετε να συνεχίσετε;</string>
+    <string name="use_same_as_in_live">Χρησιμοποιήστε την ίδια τιμή με τις ζωντανές ροές</string>
+    <string name="refresh_periodically">Ανανεώνετε περιοδικά</string>
     </resources>

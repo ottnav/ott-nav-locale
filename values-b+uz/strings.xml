@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Televizion qoʻllanmani koʻrsatish tugmasi</string>
     <string name="cfg_video_preview_sound">Tavsifda videoni oldindan ko\'rishda ovozni yoqing</string>
     <string name="provider_generic_middleware">Umumiy o\'rta dastur serveri</string>
-    <string name="provider_generic_list">Provayderlar ro\'yxati</string>
     <string name="provider_generic_list_desc">Yaqin-atrofdagi umumiy andozalar (til va mintaqa)</string>
     <string name="yes">Ha</string>
     <string name="no">Yo\'q</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Filtrlar</string>
     <string name="menu_suggest_premium">Qiziqarli premium xususiyatlarni o\'rganishga tayyormisiz?</string>
     <string name="cfg_epg_update_frequency">Yangilanish chastotasi (soatlarda)</string>
-    <string name="cfg_vod_merge">Turli manbalardagi media kutubxonani bitta ro\'yxatda birlashtiring (qayta yuklashni talab qiladi)</string>
     <string name="ch_manage_rename">Nomini o\'zgartirish</string>
     <string name="pla_timeshift_from_current">Hozirgi paytdan boshlang</string>
     <string name="cfg_play_action_timeshift_start">arxivlangan teleko\'rsatuvni boshidan oching</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">Kanal tavsifida qancha oldingi teleko\'rsatuvlar ko\'rsatilishi kerak</string>
     <string name="no_not_show_poster">Poster tasvirini ko\'rsatmang</string>
     <string name="duration_to_keep_access">Kirishni qulfdan chiqarish muddati</string>
-    <string name="disable_vod_genres">Media kutubxonasidagi janrlarni o\'chirib qo\'ying</string>
     <string name="not_supported_by_device">Qurilmangiz tomonidan qo\'llab-quvvatlanmaydi</string>
     <string name="delay_before_retrying_video_on_error">Translatsiyani qayta ochishga urinishdan oldin xatolik yuz berdi</string>
     <string name="night_mode">Kecha rejimi</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Telefoningizdagi QR kod orqali</string>
     <string name="can_not_be_edited">Ushbu elementni tahrirlash taqiqlangan</string>
     <string name="action_can_not_undo_continue">Bu amalni ortga qaytarib bo‘lmaydi, davom ettirmoqchimisiz?</string>
+    <string name="use_same_as_in_live">Jonli translatsiyalar bilan bir xil qiymatdan foydalaning</string>
+    <string name="refresh_periodically">Vaqti-vaqti bilan yangilang</string>
     </resources>

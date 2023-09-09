@@ -297,7 +297,6 @@
     <string name="menu_tv_guide_cfg">TV-műsorfüzet megjelenítése gomb</string>
     <string name="cfg_video_preview_sound">Hang engedélyezése a videó előnézetében a leírásban</string>
     <string name="provider_generic_middleware">Általános köztes szoftver szerver</string>
-    <string name="provider_generic_list">Szolgáltatók listája</string>
     <string name="provider_generic_list_desc">Gyakori sablonok a közelben (nyelv és régió)</string>
     <string name="yes">Igen</string>
     <string name="no">Nem</string>
@@ -313,7 +312,6 @@
     <string name="cfg_channel_manager_filters">Szűrők</string>
     <string name="menu_suggest_premium">Készen áll az izgalmas prémium funkciók felfedezésére?</string>
     <string name="cfg_epg_update_frequency">Frissítés gyakorisága (órában)</string>
-    <string name="cfg_vod_merge">Különböző forrásokból származó médiakönyvtárak egyesítése egyetlen listában (újratöltés szükséges)</string>
     <string name="ch_manage_rename">Átnevezés</string>
     <string name="pla_timeshift_from_current">Kezdje az aktuális pillanattól</string>
     <string name="cfg_play_action_timeshift_start">nyissa meg az archivált tv-műsort az elejétől</string>
@@ -556,7 +554,6 @@
     <string name="cfg_prev_n_desc">Hány korábbi tévéműsort kell megjeleníteni a csatornaleírásban</string>
     <string name="no_not_show_poster">Ne mutasson plakátképet</string>
     <string name="duration_to_keep_access">A hozzáférés nyitva tartásának időtartama</string>
-    <string name="disable_vod_genres">Műfajok letiltása a médiakönyvtárban</string>
     <string name="not_supported_by_device">Az Ön készüléke nem támogatja</string>
     <string name="delay_before_retrying_video_on_error">Késleltetés, mielőtt újra megpróbálná megnyitni az adatfolyamot hiba esetén</string>
     <string name="night_mode">Éjszakai mód</string>
@@ -701,4 +698,6 @@
     <string name="via_qr_code">QR-kóddal a telefonon</string>
     <string name="can_not_be_edited">Ennek az elemnek a szerkesztése tilos</string>
     <string name="action_can_not_undo_continue">Ez a művelet nem vonható vissza, folytatja?</string>
+    <string name="use_same_as_in_live">Használja ugyanazt az értéket, mint az élő közvetítéseknél</string>
+    <string name="refresh_periodically">Rendszeresen frissítse</string>
     </resources>

@@ -342,7 +342,6 @@
     <string name="menu_tv_guide_cfg">عرض زر دليل التلفزيون</string>
     <string name="cfg_video_preview_sound">تمكين الصوت في معاينة الفيديو في وصفه</string>
     <string name="provider_generic_middleware">خادم الوسيطة العامة</string>
-    <string name="provider_generic_list">قائمة مقدمي الخدمات</string>
     <string name="provider_generic_list_desc">القوالب الشائعة القريبة (اللغة والمنطقة)</string>
     <string name="yes">نعم فعلا</string>
     <string name="no">لا</string>
@@ -358,7 +357,6 @@
     <string name="cfg_channel_manager_filters">مرشحات</string>
     <string name="menu_suggest_premium">هل أنت مستعد لاستكشاف ميزات متميزة ومثيرة؟</string>
     <string name="cfg_epg_update_frequency">تردد التحديث (بالساعات)</string>
-    <string name="cfg_vod_merge">دمج مكتبة الوسائط من مصادر مختلفة في قائمة واحدة (يتطلب إعادة التحميل)</string>
     <string name="ch_manage_rename">إعادة تسمية</string>
     <string name="pla_timeshift_from_current">نبدأ من اللحظة الحالية</string>
     <string name="cfg_play_action_timeshift_start">فتح أرشفة برنامج تلفزيوني من البداية</string>
@@ -604,7 +602,6 @@
     <string name="cfg_prev_n_desc">كم عدد البرامج التلفزيونية السابقة المراد عرضها في وصف القناة</string>
     <string name="no_not_show_poster">لا تظهر صورة الملصق</string>
     <string name="duration_to_keep_access">مدة استمرار الوصول غير مقفل</string>
-    <string name="disable_vod_genres">تعطيل الأنواع في مكتبة الوسائط</string>
     <string name="not_supported_by_device">لا يدعمه جهازك</string>
     <string name="delay_before_retrying_video_on_error">تأخر قبل إعادة المحاولة لإعادة فتح البث عند حدوث خطأ</string>
     <string name="night_mode">وضع الليل</string>
@@ -749,4 +746,6 @@
     <string name="via_qr_code">ﻚﻔﺗﺎﻫ ﻰﻠﻋ QR ﺰﻣﺭ ﺮﺒﻋ</string>
     <string name="can_not_be_edited">ﺭﻮﻈﺤﻣ ﺮﺼﻨﻌﻟﺍ ﺍﺬﻫ ﺮﻳﺮﺤﺗ</string>
     <string name="action_can_not_undo_continue">؟ﺔﻌﺑﺎﺘﻤﻟﺍ ﻲﻓ ﺐﻏﺮﺗ ﻞﻫ ، ءﺍﺮﺟﻹﺍ ﺍﺬﻫ ﻦﻋ ﻊﺟﺍﺮﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</string>
+    <string name="use_same_as_in_live">ﺮﺷﺎﺒﻤﻟﺍ ﺚﺒﻟﺍ ﻲﻓ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺔﻤﻴﻘﻟﺍ ﺲﻔﻧ ﻡﺪﺨﺘﺳﺍ</string>
+    <string name="refresh_periodically">ﻱﺭﻭﺩ ﻞﻜﺸﺑ ﺚﻳﺪﺤﺘﻟﺎﺑ ﻢﻗ</string>
     </resources>

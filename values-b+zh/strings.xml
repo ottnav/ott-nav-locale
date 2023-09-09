@@ -334,7 +334,6 @@
     <string name="menu_tv_guide_cfg">显示电视指南按钮</string>
     <string name="cfg_video_preview_sound">视频预览时播放声音</string>
     <string name="provider_generic_middleware">通用中间件服务器</string>
-    <string name="provider_generic_list">供应商列表</string>
     <string name="provider_generic_list_desc">附近的公共模板</string>
     <string name="yes">是</string>
     <string name="no">否</string>
@@ -350,7 +349,6 @@
     <string name="cfg_channel_manager_filters">筛选</string>
     <string name="menu_suggest_premium">准备好去探索那些激动人心的高级功能了吗？</string>
     <string name="cfg_epg_update_frequency">节目单更新频率</string>
-    <string name="cfg_vod_merge">合并媒体库</string>
     <string name="ch_manage_rename">重命名</string>
     <string name="pla_timeshift_from_current">从此刻开始时移</string>
     <string name="cfg_play_action_timeshift_start">从头回看此节目</string>
@@ -596,7 +594,6 @@
     <string name="cfg_prev_n_desc">频道说明中要显示多少个以前的电视节目</string>
     <string name="no_not_show_poster">不显示海报图像</string>
     <string name="duration_to_keep_access">保持解锁状态的持续时间</string>
-    <string name="disable_vod_genres">禁用媒体库中的流派</string>
     <string name="not_supported_by_device">您的设备不支持</string>
     <string name="delay_before_retrying_video_on_error">尝试重开流错误时延迟</string>
     <string name="night_mode">夜间模式</string>
@@ -741,4 +738,6 @@
     <string name="via_qr_code">通过手机上的二维码</string>
     <string name="can_not_be_edited">禁止编辑此元素</string>
     <string name="action_can_not_undo_continue">此操作无法撤消，您想继续吗？</string>
+    <string name="use_same_as_in_live">使用与直播相同的值</string>
+    <string name="refresh_periodically">定期刷新</string>
     </resources>

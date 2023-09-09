@@ -298,7 +298,6 @@
     <string name="menu_tv_guide_cfg">Butoni Show TV Guide</string>
     <string name="cfg_video_preview_sound">Aktivizo tingullin në pamjen paraprake të videos në përshkrim</string>
     <string name="provider_generic_middleware">Server i përgjithshëm i programit të mesëm</string>
-    <string name="provider_generic_list">Lista e ofruesve</string>
     <string name="provider_generic_list_desc">Modele të zakonshme në afërsi (gjuhë dhe rajon)</string>
     <string name="yes">po</string>
     <string name="no">Nr</string>
@@ -314,7 +313,6 @@
     <string name="cfg_channel_manager_filters">Filtrat</string>
     <string name="menu_suggest_premium">Gati për të eksploruar veçori emocionuese premium?</string>
     <string name="cfg_epg_update_frequency">Frekuenca e përditësimit (në orë)</string>
-    <string name="cfg_vod_merge">Bashkoni bibliotekën e mediave nga burime të ndryshme në një listë të vetme (kërkon ringarkim)</string>
     <string name="ch_manage_rename">Riemërto</string>
     <string name="pla_timeshift_from_current">Filloni nga momenti aktual</string>
     <string name="cfg_play_action_timeshift_start">hapni shfaqjen televizive të arkivuar nga fillimi</string>
@@ -557,7 +555,6 @@
     <string name="cfg_prev_n_desc">Sa shfaqje televizive të mëparshme për të shfaqur në përshkrimin e kanalit</string>
     <string name="no_not_show_poster">Mos shfaq imazhin e posterit</string>
     <string name="duration_to_keep_access">Kohëzgjatja për të mbajtur qasjen të shkyçur</string>
-    <string name="disable_vod_genres">Çaktivizo zhanret në bibliotekën e mediave</string>
     <string name="not_supported_by_device">Nuk mbështetet nga pajisja juaj</string>
     <string name="delay_before_retrying_video_on_error">Vonesa përpara se të provosh sërish për të rihapur transmetimin me gabim</string>
     <string name="night_mode">Modaliteti i natës</string>
@@ -702,4 +699,6 @@
     <string name="via_qr_code">Përmes kodit QR në telefonin tuaj</string>
     <string name="can_not_be_edited">Redaktimi i këtij elementi është i ndaluar</string>
     <string name="action_can_not_undo_continue">Ky veprim nuk mund të zhbëhet, dëshiron të vazhdosh?</string>
+    <string name="use_same_as_in_live">Përdor të njëjtën vlerë si për transmetimet e drejtpërdrejta</string>
+    <string name="refresh_periodically">Rifreskojeni periodikisht</string>
     </resources>

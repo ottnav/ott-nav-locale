@@ -342,7 +342,6 @@
     <string name="menu_tv_guide_cfg">テレビガイドを表示ボタン</string>
     <string name="cfg_video_preview_sound">ビデオプレビューでサウンドを有効にする説明の</string>
     <string name="provider_generic_middleware">汎用ミドルウェアサーバー</string>
-    <string name="provider_generic_list">プロバイダリスト</string>
     <string name="provider_generic_list_desc">近くにある共通のテンプレート（言語と地域）</string>
     <string name="yes">はい</string>
     <string name="no">いいえ</string>
@@ -358,7 +357,6 @@
     <string name="cfg_channel_manager_filters">フィルター</string>
     <string name="menu_suggest_premium">エキサイティングなプレミアム機能を探索する準備はできましたか？</string>
     <string name="cfg_epg_update_frequency">更新頻度（時間単位）</string>
-    <string name="cfg_vod_merge">単一のリストに異なるソースからのメディアライブラリをマージする（再読み込みが必要）</string>
     <string name="ch_manage_rename">リネーム</string>
     <string name="pla_timeshift_from_current">現時点から開始</string>
     <string name="cfg_play_action_timeshift_start">アーカイブされたテレビ番組を最初から開く</string>
@@ -604,7 +602,6 @@
     <string name="cfg_prev_n_desc">チャンネルの説明に表示する以前のテレビ番組の数</string>
     <string name="no_not_show_poster">ポスター画像を表示しない</string>
     <string name="duration_to_keep_access">アクセスのロックを解除したままにする期間</string>
-    <string name="disable_vod_genres">メディアライブラリでジャンルを無効にする</string>
     <string name="not_supported_by_device">お使いのデバイスではサポートされていません</string>
     <string name="delay_before_retrying_video_on_error">エラー時にストリームを再開する前に遅延する</string>
     <string name="night_mode">ナイトモード</string>
@@ -749,4 +746,6 @@
     <string name="via_qr_code">携帯電話の QR コード経由</string>
     <string name="can_not_be_edited">この要素の編集は禁止されています</string>
     <string name="action_can_not_undo_continue">この操作は元に戻すことができません。続行しますか?</string>
+    <string name="use_same_as_in_live">ライブ ストリームと同じ値を使用します</string>
+    <string name="refresh_periodically">定期的に更新する</string>
     </resources>

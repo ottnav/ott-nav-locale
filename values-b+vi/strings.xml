@@ -334,7 +334,6 @@
     <string name="menu_tv_guide_cfg">Hiển thị nút Hướng dẫn TV (TV Guide)</string>
     <string name="cfg_video_preview_sound">Bật âm thanh của video xem trước trong phần mô tả</string>
     <string name="provider_generic_middleware">Máy chủ trung gian chung</string>
-    <string name="provider_generic_list">Danh sách nhà cung cấp</string>
     <string name="provider_generic_list_desc">Các mẫu phổ biến gần đây (ngôn ngữ và khu vực)</string>
     <string name="yes">Có</string>
     <string name="no">Không</string>
@@ -350,7 +349,6 @@
     <string name="cfg_channel_manager_filters">Bộ lọc</string>
     <string name="menu_suggest_premium">Sẵn sàng để khám phá các tính năng cao cấp thú vị?</string>
     <string name="cfg_epg_update_frequency">Tần suất cập nhật (theo giờ)</string>
-    <string name="cfg_vod_merge">Hợp nhất thư viện phương tiện từ các nguồn khác nhau trong một danh sách (yêu cầu tải lại)</string>
     <string name="ch_manage_rename">Đổi tên</string>
     <string name="pla_timeshift_from_current">Bắt đầu từ thời điểm hiện tại</string>
     <string name="cfg_play_action_timeshift_start">mở CT truyền hình được lưu trữ từ đầu</string>
@@ -596,7 +594,6 @@
     <string name="cfg_prev_n_desc">Có bao nhiêu chương trình truyền hình trước đó sẽ hiển thị trong phần mô tả kênh</string>
     <string name="no_not_show_poster">Không hiển thị hình ảnh áp phích</string>
     <string name="duration_to_keep_access">Khoảng thời gian duy trì quyền truy cập được mở khóa</string>
-    <string name="disable_vod_genres">Tắt các thể loại trong thư viện phương tiện</string>
     <string name="not_supported_by_device">Không được thiết bị của bạn hỗ trợ</string>
     <string name="delay_before_retrying_video_on_error">Trì hoãn trước khi thử mở lại luồng do lỗi</string>
     <string name="night_mode">Chế độ ban đêm</string>
@@ -741,4 +738,6 @@
     <string name="via_qr_code">Qua mã QR trên điện thoại của bạn</string>
     <string name="can_not_be_edited">Chỉnh sửa phần tử này bị cấm</string>
     <string name="action_can_not_undo_continue">Hành động này không thể hoàn tác, bạn có muốn tiếp tục không?</string>
+    <string name="use_same_as_in_live">Sử dụng cùng một giá trị như đối với luồng trực tiếp</string>
+    <string name="refresh_periodically">Làm mới định kỳ</string>
     </resources>

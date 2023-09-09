@@ -335,7 +335,6 @@
     <string name="menu_tv_guide_cfg">Show TV Guide button</string>
     <string name="cfg_video_preview_sound">Enable sound in video preview in description</string>
     <string name="provider_generic_middleware">Generic middleware server</string>
-    <string name="provider_generic_list">Providers list</string>
     <string name="provider_generic_list_desc">Common templates nearby (language and region)</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
@@ -351,7 +350,6 @@
     <string name="cfg_channel_manager_filters">Filters</string>
     <string name="menu_suggest_premium">Ready to explore exciting premium features?</string>
     <string name="cfg_epg_update_frequency">Update frequency (in hours)</string>
-    <string name="cfg_vod_merge">Merge media library from different sources in a single list (requires reload)</string>
     <string name="ch_manage_rename">Rename</string>
     <string name="pla_timeshift_from_current">Start from the current moment</string>
     <string name="cfg_play_action_timeshift_start">open archived tv-show from beginning</string>
@@ -598,7 +596,6 @@
     <string name="cfg_prev_n_desc">How many previous tv-shows to display in channel description</string>
     <string name="no_not_show_poster">Do not show poster image</string>
     <string name="duration_to_keep_access">Duration to keep access unlocked</string>
-    <string name="disable_vod_genres">Disable genres in media library</string>
     <string name="not_supported_by_device">Not supported by your device</string>
     <string name="delay_before_retrying_video_on_error">Delay before retrying to reopen stream on error</string>
     <string name="night_mode">Night mode</string>
@@ -744,4 +741,6 @@
     <string name="via_qr_code">Via QR code on your phone</string>
     <string name="can_not_be_edited">Editing this element is prohibited</string>
     <string name="action_can_not_undo_continue">This action cannot be undone, do you wish to continue?</string>
+    <string name="use_same_as_in_live">Use same value as for live streams</string>
+    <string name="refresh_periodically">Refresh periodically</string>
 </resources>
