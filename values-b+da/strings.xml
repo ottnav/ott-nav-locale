@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">navn (favoritter først, derefter alfabetisk)</string>
     <string name="settings_run_at_boot">Start programmet ved enhedsstart</string>
     <string name="hint_title">Antydning</string>
-    <string name="hint_long_tap">Du kan trykke længe på listeelementet for at få udvidet beskrivelse (hvis relevant).</string>
     <string name="hint_fav_sorting">Applikationen sorterer kanaler efter visningsfrekvens. Kanaler, du har markeret som favoritter, vil altid være i toppen. Du kan deaktivere automatisk sortering ved at aktivere ved at bruge en udbyders kanalrækkefølge, men favoritfilter vil ikke være tilgængeligt.</string>
     <string name="hint_video_codecs">Hvis kilden afspiller dårligt, kan du prøve at øge bufferstørrelsen i indstillingerne, skifte til en anden streamdekoder (hardware eller software), eller hvis noget fejler, konfigurere til at bruge en ekstern afspiller til afspilning.</string>
     <string name="hint_auto_turn_off">Du kan konfigurere automatisk slukning af stream efter nogen inaktiv tid (nyttigt ved fakturering pr. minut). Inaktiv betyder, at ingen spillerhandlinger bruges (for eksempel: menu, søgning, pause osv.).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">Søge</string>
     <string name="cfg_play_action_mseek">Starter videosøgning</string>
     <string name="menu_exit">Afslut</string>
-    <string name="hint_try_premium_sub_free">Du kan prøve et abonnement én gang gratis i flere dage, mens du beslutter dig for, hvad du vil bruge det eller ej. Tjek detaljer om abonnementspakker.</string>
     <string name="premium_fea_pre_vid">Vis den valgte video forhåndsvisning i beskrivelsen</string>
     <string name="vp_audio_shift">Lydskift</string>
     <string name="vp_audio_shift_desc">Synkroniser lyd med video</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Viser alle nyligt sete videoer, som i øjeblikket er tilgængelige i Fortsæt-filteret</string>
     <string name="menu_swap_pip_sound">Skift lyd mellem hovedskærm og PiP</string>
     <string name="premium_fea_pre_vid_wp">Tillad forhåndsvisning af video, mens du afspiller en anden video</string>
-    <string name="hint_click_icon">Ved at klikke på ikonet for en kanal eller gruppe åbnes en kontekstmenu (hvis tilgængelig).</string>
-    <string name="hint_right_jump">Ved at trykke på højre knap i de fleste alfabetisk sorterede lister åbnes en hurtig springvisning.</string>
     <string name="category_recent_channels">Nylig</string>
     <string name="category_all_channels">Alle kanaler</string>
     <string name="cfg_no_categories">Brug almindelig kanalliste (uden kategorier)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Gendan tilstand</string>
     <string name="pro_studio">Studio-tilstand, der gør det muligt at se flere streams på samme tid</string>
     <string name="cfg_prov_channel_name">Vis udbyderens navn i kanalnavnet, når du bruger flere udbydere</string>
-    <string name="hint_long_up_down">Langt tryk på op- og ned-pilene giver hurtigere listenavigation</string>
     <string name="pla_act_quick_seek_back_20">søg 20 sekunder tilbage</string>
     <string name="pla_act_quick_seek_fwd_20">søg 20 sekunder frem</string>
     <string name="cfg_touch_control">Berøringszoner konfiguration</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">midt til højre</string>
     <string name="pos_center_bottom">nederst i midten</string>
     <string name="cfg_studio_maximize_size">Dimensioner af maksimeret vindue</string>
-    <string name="pro_desc_try_free">Du kan forhåndsvise premium-funktioner ved at abonnere på en månedlig plan. Det har flere startdage gratis, medmindre du allerede havde betalinger.</string>
     <string name="cfg_auto_start_system_pip">Gå automatisk i system billed-i-billede-tilstand, når du skifter fra afspiller til startskærm</string>
     <string name="pla_act_hud">vis afspillergrænseflade med udsendelsesdetaljer</string>
     <string name="pla_act_prop_channel">kanal egenskaber</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">vandret stryg</string>
     <string name="expiration">Udløb</string>
     <string name="trial_account">Prøvekonto</string>
-    <string name="premium_google_account">Alle køb gælder for alle enheder, der deler den samme konto.</string>
     <string name="player_live_recent_archive">Vil du genoptage afspilning af nyligt afspillet arkiveret video?</string>
     <string name="player_live_recent_archive_archive">Genoptag afspilning</string>
     <string name="player_live_recent_archive_live">Live stream</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Denne handling kan ikke fortrydes. Vil du fortsætte?</string>
     <string name="use_same_as_in_live">Brug samme værdi som for livestreams</string>
     <string name="refresh_periodically">Opdater med jævne mellemrum</string>
+    <string name="user_guide">Brugervejledning</string>
+    <string name="support_1conn_provider">Aktiver support for udbyder, der kun har en enkelt forbindelse</string>
     </resources>

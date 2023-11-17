@@ -86,7 +86,6 @@
     <string name="settings_run_at_boot">Käivitage rakendus seadme käivitamisel</string>
 
     <string name="hint_title">Vihje</string>
-    <string name="hint_long_tap">Laiendatud kirjelduse saamiseks (kui see on asjakohane) saate pikalt puudutada nimekirja elementi.</string>
     <string name="hint_fav_sorting">Taotlus sorteerib kanalid kellade sageduse järgi. Kanalid, mida märkisite lemmikuks, jäävad alati tippu. Võite automaatse sortimise keelata, lubades teenusepakkuja kanali järjekorra, kuid lemmikute filter pole saadaval.</string>
     <string name="hint_video_codecs">Kui allikas mängib halvasti, võite proovides suurendada puhvri suurust seadetes, minna teise voo dekooderile (riistvara või tarkvara) või kui midagi ei õnnestu, seadistage taasesituse jaoks välise mängija kasutamine.</string>
     <string name="hint_auto_turn_off">Saate konfigureerida automaatse voo väljalülitumise pärast mõnda tühikäigu aega (kasulik siis, kui see on minutis tasutud). Ooterežiim tähendab, et ei kasutata ühtegi mängija tegevust (näiteks menüü, otsimine, paus jne).</string>
@@ -253,9 +252,6 @@
     <string name="btn_seek">Otsige</string>
     <string name="cfg_play_action_mseek">Käivitab videot otsiva vaate</string>
     <string name="menu_exit">Välju</string>
-    <string name="hint_try_premium_sub_free">Sa võid proovida tellimust üks kord tasuta mitu päeva, otsustades, kas seda kasutada või mitte. Kontrollige liitumispakettide üksikasju.</string>
-
-
     <string name="premium_fea_pre_vid">Kuva valitud video eelvaade</string>
     <string name="vp_audio_shift">Heli nihutamine</string>
     <string name="vp_audio_shift_desc">Sünkroonige heli video abil</string>
@@ -286,8 +282,6 @@
     <string name="premium_fea_continue">Näitab kõiki hiljuti vaadatud videoid, mis on hetkel saadaval menüüs Jätka filter</string>
     <string name="menu_swap_pip_sound">Vaheta peaekraani ja PiP vahel heli</string>
     <string name="premium_fea_pre_vid_wp">Luba videot eelvaates näidata teise video esitamise ajal</string>
-    <string name="hint_click_icon">Kanali või rühma ikooni klõpsamine avab kontekstimenüü (kui see on saadaval).</string>
-    <string name="hint_right_jump">Enamiku tähestikulises järjekorras olevate loendite parempoolse nupu vajutamisel avaneb kiire hüpata vaade.</string>
     <string name="category_recent_channels">Viimased</string>
     <string name="category_all_channels">Kõik kanalid</string>
     <string name="cfg_no_categories">Kasutage tavaliste kanalite loendit (kategooriateta)</string>
@@ -431,7 +425,6 @@
     <string name="restore_state">Taasta olek</string>
 <string name="pro_studio">Stuudiorežiim, mis võimaldab vaadata mitut voogu korraga</string>
     <string name="cfg_prov_channel_name">Kuva pakkuja nimi kanali nimes, kui kasutate mitut pakkujat</string>
-    <string name="hint_long_up_down">Pikk üles- ja allanoolte vajutamine võimaldab loendis kiiremat navigeerimist</string>
     <string name="pla_act_quick_seek_back_20">otsige 20 sekundit tagasi</string>
     <string name="pla_act_quick_seek_fwd_20">otsi 20 sekundit edasi</string>
     <string name="cfg_touch_control">Puudutage tsoonide konfiguratsiooni</string>
@@ -442,7 +435,6 @@
     <string name="pos_center_right">keskel paremal</string>
     <string name="pos_center_bottom">alumine kese</string>
     <string name="cfg_studio_maximize_size">Maksimeeritud akna mõõtmed</string>
-    <string name="pro_desc_try_free">Lisatasu funktsioonide eelvaadet saate tellida kuuplaaniga. Sellel on mitu alguspäeva tasuta, kui teil pole juba makseid tehtud.</string>
     <string name="cfg_auto_start_system_pip">Sisestage automaatselt süsteem pilt-pildis režiimi, kui lülitate mängijalt ekraanile avakuvale</string>
     <string name="pla_act_hud">näita mängija liidest ülekande üksikasjadega</string>
     <string name="pla_act_prop_channel">kanali atribuudid</string>
@@ -495,7 +487,6 @@
     <string name="swipe_horizontal">horisontaalne pühkimine</string>
     <string name="expiration">Aegumine</string>
     <string name="trial_account">Proovikonto</string>
-    <string name="premium_google_account">Kõik ostud kehtivad kõigile sama kontoga seadmetele.</string>
     <string name="player_live_recent_archive">Kas jätkata viimati arhiivitud video taasesitust?</string>
     <string name="player_live_recent_archive_archive">Jätka taasesitust</string>
     <string name="player_live_recent_archive_live">Otseülekanne</string>
@@ -747,4 +738,6 @@
     <string name="action_can_not_undo_continue">Seda toimingut ei saa tagasi võtta, kas soovite jätkata?</string>
     <string name="use_same_as_in_live">Kasutage sama väärtust nagu otseülekannete puhul</string>
     <string name="refresh_periodically">Värskendage perioodiliselt</string>
+    <string name="user_guide">Kasutusjuhend</string>
+    <string name="support_1conn_provider">Lubage tugi teenusepakkujale, kellel on ainult üks ühendus</string>
     </resources>

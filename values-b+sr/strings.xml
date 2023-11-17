@@ -86,7 +86,6 @@
     <string name="settings_run_at_boot">Покрените апликацију при покретању уређаја</string>
 
     <string name="hint_title">Савет</string>
-    <string name="hint_long_tap">Можете дугим притиском на ставку у листи добити проширен опис (ако је доступно).</string>
     <string name="hint_fav_sorting">Апликација сортира канале према учесталости гледања. Канале које сте означили као омиљене ће увек бити на врху. Можете онемогућити аутоматско сортирање омогућавањем редоследа према провајдеру, међутим филтер омиљених канала неће бити доступан.</string>
     <string name="hint_video_codecs">Ако се извор лоше репродукује, можете покушати да повећате величину бафера у подешавањима, пребацити на неки други декодер преноса (хардверски или софтверски), ако било шта не успе, подесите употребу екстерног плејера за репродукцију.</string>
     <string name="hint_auto_turn_off">Можете подесити аутоматско искључивање преноса након одређеног времена мировања (корисно ако се наплаћује по минуту). Мировање подразумева некоришћење плејера (на пример: мени, премотавање, пауза, итд).</string>
@@ -248,8 +247,6 @@
     <string name="btn_seek">Премотавање</string>
     <string name="cfg_play_action_mseek">Покреће преглед премотавања видеа</string>
     <string name="menu_exit">Изађи</string>
-    <string name="hint_try_premium_sub_free">Можете једанпут претплату испробати бесплатно на пар дана док одлучујете да ли желите да је користите, или не. Проверите детаље претплатничких пакета.</string>
-
     <string name="premium_fea_pre_vid">Прикажи преглед изабраног видеа у опису</string>
     <string name="vp_audio_shift">Аудио помак</string>
     <string name="vp_audio_shift_desc">Синхронизуј аудио са видеом</string>
@@ -280,8 +277,6 @@
     <string name="premium_fea_continue">Приказује све недавно гледане видее, који су тренутно доступни у Настави филтеру</string>
     <string name="menu_swap_pip_sound">Замените звук између главног екрана и ПиП</string>
     <string name="premium_fea_pre_vid_wp">Дозволи преглед видеа да се приказује приликом гледања другог видеа</string>
-    <string name="hint_click_icon">Кликом на иконицу канала или групе отвара се контекстни мени (ако је доступан).</string>
-    <string name="hint_right_jump">Притиском десног дугмета на многим абецедно поређаних листи отвара брзи преглед</string>
     <string name="category_recent_channels">Недавно</string>
     <string name="category_all_channels">Сви канали</string>
     <string name="cfg_no_categories">Користи обичну листу канала (без категорија)</string>
@@ -425,7 +420,6 @@
 
     <string name="pro_studio">Студио режим, омогућава гледање више стреам-ова у исто време</string>
     <string name="cfg_prov_channel_name">Прикажи име провајдера на месту имена канала при коришћењу више провајдера</string>
-    <string name="hint_long_up_down">Дуги притисак на стрелице горе и доле омогућује бржу навигацију у листама</string>
     <string name="pla_act_quick_seek_back_20">премотај уназад 20 секунди</string>
     <string name="pla_act_quick_seek_fwd_20">премотај унапред 20 секунди</string>
     <string name="cfg_touch_control">Конфигурација додирних зона</string>
@@ -436,7 +430,6 @@
     <string name="pos_center_right">центар десно</string>
     <string name="pos_center_bottom">центар доле</string>
     <string name="cfg_studio_maximize_size">Димензије увећаног прозора</string>
-    <string name="pro_desc_try_free">Можете прегледати премијум функције претплатом на месечни план. Има неколико почетних дана бесплатно осим ако нисте већ имали плаћања.</string>
     <string name="cfg_auto_start_system_pip">Аутоматски отвори системски слика-у-слици режим при промени са плејера на почетни екран</string>
     <string name="pla_act_hud">прикажи интерфејс плејера са детаљима емисије</string>
     <string name="pla_act_prop_channel">својства канала</string>
@@ -489,7 +482,6 @@
     <string name="swipe_horizontal">хоризонтално помицање</string>
     <string name="expiration">Истек</string>
     <string name="trial_account">Пробни налог</string>
-    <string name="premium_google_account">Све куповине односе се на све уређаје који деле исти налог.</string>
     <string name="player_live_recent_archive">Настави репродукцију недавно гледаног архивираног видеа?</string>
     <string name="player_live_recent_archive_archive">Настави репродукцију?</string>
     <string name="player_live_recent_archive_live">Уживо пренос</string>
@@ -741,4 +733,6 @@
     <string name="action_can_not_undo_continue">Ова радња се не може опозвати, да ли желите да наставите?</string>
     <string name="use_same_as_in_live">Користите исту вредност као за стримове уживо</string>
     <string name="refresh_periodically">Освежите периодично</string>
+    <string name="user_guide">Упутство за употребу</string>
+    <string name="support_1conn_provider">Омогућите подршку за провајдера који има само једну везу</string>
     </resources>

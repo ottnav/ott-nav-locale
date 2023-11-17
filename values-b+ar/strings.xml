@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">بدء التطبيق على تمهيد الجهاز</string>
 
     <string name="hint_title">ملحوظة</string>
-    <string name="hint_long_tap">يمكنك الضغط لفترة طويلة على عنصر القائمة للحصول على وصف موسع (إن وجد).</string>
     <string name="hint_fav_sorting">تطبيق فرز القنوات حسب تردد المراقبة. ستكون القنوات التي وضعت عليها علامة "مفضّلة" في الأعلى دائمًا. يمكنك تعطيل الفرز التلقائي عن طريق التمكين باستخدام أمر قناة مقدم الخدمة ، ولكن لن يكون فلتر المفضلات متاحًا.</string>
     <string name="hint_video_codecs">إذا كان مصدر التشغيل سيئًا ، فيمكنك محاولة زيادة حجم المخزن المؤقت في الإعدادات ، أو التبديل إلى وحدة فك ترميز دفق أخرى (أجهزة أو برامج) ، أو إذا فشل أي شيء ، فقم بتكوينه لاستخدام مشغل خارجي للتشغيل.</string>
     <string name="hint_auto_turn_off">يمكنك تهيئة إيقاف البث التلقائي بعد بعض الوقت الخامل (مفيد عند إعداد الفواتير لكل دقيقة). الخمول يعني عدم استخدام إجراءات لاعب (على سبيل المثال: القائمة ، البحث ، الإيقاف المؤقت ، إلخ).</string>
@@ -256,8 +255,6 @@
     <string name="btn_seek">طلب</string>
     <string name="cfg_play_action_mseek">يبدأ البحث عن الفيديو</string>
     <string name="menu_exit">ىخرج</string>
-    <string name="hint_try_premium_sub_free">يمكنك تجربة اشتراك مرة واحدة مجانًا لعدة أيام أثناء اتخاذ قرار بشأن أي شيء تستخدمه ، أو لا. تحقق من تفاصيل باقات الاشتراك.</string>
-
     <string name="premium_fea_pre_vid">عرض معاينة الفيديو المختارة في الوصف</string>
     <string name="vp_audio_shift">تحول الصوت</string>
     <string name="vp_audio_shift_desc">مزامنة الصوت مع الفيديو</string>
@@ -288,8 +285,6 @@
     <string name="premium_fea_continue">يعرض جميع مقاطع الفيديو التي تم عرضها مؤخرًا والمتوفرة حاليًا في فلتر متابعة</string>
     <string name="menu_swap_pip_sound">تبديل الصوت بين الشاشة الرئيسية و PiP</string>
     <string name="premium_fea_pre_vid_wp">السماح بمعاينة الفيديو ليتم عرضها أثناء تشغيل فيديو آخر</string>
-    <string name="hint_click_icon">يؤدي النقر فوق رمز القناة أو المجموعة إلى فتح قائمة السياق (إذا كانت متوفرة).</string>
-    <string name="hint_right_jump">يؤدي الضغط على الزر الأيمن في معظم القوائم المرتبة أبجديًا إلى فتح عرض سريع للقفزة.</string>
     <string name="category_recent_channels">الأخيرة</string>
     <string name="category_all_channels">جميع القنوات</string>
     <string name="cfg_no_categories">استخدم قائمة القنوات العادية (بدون فئات)</string>
@@ -432,7 +427,6 @@
     <string name="restore_state">استعادة الدولة</string>
 <string name="pro_studio">وضع الاستوديو ، مما يسمح بمشاهدة تدفقات متعددة في نفس الوقت</string>
     <string name="cfg_prov_channel_name">إظهار اسم المزود في اسم القناة عند استخدام موفري متعددين</string>
-    <string name="hint_long_up_down">الضغط الطويل لأعلى ولأسفل يسمح بتصفح أسرع</string>
     <string name="pla_act_quick_seek_back_20">تسعى الى الوراء بنسبة 20 ثانية</string>
     <string name="pla_act_quick_seek_fwd_20">السعي إلى الأمام بنسبة 20 ثانية</string>
     <string name="cfg_touch_control">تكوين مناطق اللمس</string>
@@ -443,7 +437,6 @@
     <string name="pos_center_right">يمين الوسط</string>
     <string name="pos_center_bottom">مركز القاع</string>
     <string name="cfg_studio_maximize_size">أبعاد نافذة مكبرة</string>
-    <string name="pro_desc_try_free">يمكنك معاينة الميزات المتميزة عن طريق الاشتراك في الخطة الشهرية. لها عدة أيام بداية مجانًا ما لم تكن قد دفعت بالفعل.</string>
     <string name="cfg_auto_start_system_pip">أدخل تلقائيًا وضع صورة النظام في النظام عند التبديل من المشغل إلى الشاشة الرئيسية</string>
     <string name="pla_act_hud">إظهار واجهة اللاعب مع تفاصيل البث</string>
     <string name="pla_act_prop_channel">خصائص القناة</string>
@@ -496,7 +489,6 @@
     <string name="swipe_horizontal">انتقد الأفقي</string>
     <string name="expiration">انتهاء الصلاحية</string>
     <string name="trial_account">حساب تجريبي</string>
-    <string name="premium_google_account">تنطبق جميع المشتريات على جميع الأجهزة التي تشترك في نفس الحساب.</string>
     <string name="player_live_recent_archive">استئناف تشغيل الفيديو المؤرشفة الذي تم تشغيله مؤخرًا؟</string>
     <string name="player_live_recent_archive_archive">استئناف التشغيل</string>
     <string name="player_live_recent_archive_live">البث المباشر</string>
@@ -748,4 +740,6 @@
     <string name="action_can_not_undo_continue">؟ﺔﻌﺑﺎﺘﻤﻟﺍ ﻲﻓ ﺐﻏﺮﺗ ﻞﻫ ، ءﺍﺮﺟﻹﺍ ﺍﺬﻫ ﻦﻋ ﻊﺟﺍﺮﺘﻟﺍ ﻦﻜﻤﻳ ﻻ</string>
     <string name="use_same_as_in_live">ﺮﺷﺎﺒﻤﻟﺍ ﺚﺒﻟﺍ ﻲﻓ ﺔﻣﺪﺨﺘﺴﻤﻟﺍ ﺔﻤﻴﻘﻟﺍ ﺲﻔﻧ ﻡﺪﺨﺘﺳﺍ</string>
     <string name="refresh_periodically">ﻱﺭﻭﺩ ﻞﻜﺸﺑ ﺚﻳﺪﺤﺘﻟﺎﺑ ﻢﻗ</string>
+    <string name="user_guide">ﻡﺪﺨﺘﺴﻤﻟﺍ ﻞﻴﻟﺩ</string>
+    <string name="support_1conn_provider">ﻂﻘﻓ ﺪﺣﺍﻭ ﻝﺎﺼﺗﺍ ﻪﻳﺪﻟ ﻱﺬﻟﺍ ﺮﻓﻮﻤﻠﻟ ﻢﻋﺪﻟﺍ ﻦﻴﻜﻤﺗ</string>
     </resources>

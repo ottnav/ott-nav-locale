@@ -86,7 +86,6 @@
     <string name="settings_run_at_boot">Запускати програму коли вмиається пристрій</string>
 
     <string name="hint_title">Підказка</string>
-    <string name="hint_long_tap">При тривалому натисканні на елемент списку з\'являється розширений опис (якщо він доступний).</string>
     <string name="hint_fav_sorting">Додаток сортує канали за частотою проглядання. Канали, позначені як улюблені, завжди будуть вгорі. Ви можете вимкнути автоматичне сортування, задіявши порядок каналів від постачальника, але тоді категорія обраних стане не доступною.</string>
     <string name="hint_video_codecs">Якщо джерело програється погано, можете спробувати збільшити розмір буфера в налаштуваннях, перейти до іншого декодера потоку (апаратного чи програмного), або ж взагалі налаштувати використання зовнішнього програвача для відтворення.</string>
     <string name="hint_auto_turn_off">Ви можете налаштувати автоматичне вимикання потоку після певного простою (доречно при похвилинній оплаті). Простій означає, що не виконуються дії з програвачем (наприклад: запуск меню, перемотування, пауза тощо).</string>
@@ -247,8 +246,6 @@
     <string name="btn_seek">Перемотати</string>
     <string name="cfg_play_action_mseek">Запустити екран перемотування відео</string>
     <string name="menu_exit">Вихід</string>
-    <string name="hint_try_premium_sub_free">Ви можете спробувати підписку одного разу безкоштовно на декілька днів, щоб вирішити чи потрібна вона вам. Перегляньте деталі пакетів передплати.</string>
-
     <string name="premium_fea_pre_vid">Показувати попередній перегляд обраного відео в описі</string>
     <string name="vp_audio_shift">Зсув звуку</string>
     <string name="vp_audio_shift_desc">Синхронізувати звук з відео</string>
@@ -279,8 +276,6 @@
     <string name="premium_fea_continue">Показує всі нещодавно переглянуті відео, які наразі доступні у фільтрі Продовжити</string>
     <string name="menu_swap_pip_sound">Перемкнути звук між основним екраном і PiP</string>
     <string name="premium_fea_pre_vid_wp">Дозволити попередній перегляд відео під час відтворення іншого відео</string>
-    <string name="hint_click_icon">Натискання піктограми каналу або групи відкриває контекстне меню (якщо доступно).</string>
-    <string name="hint_right_jump">Натискання правої кнопки в більшості алфавітно-відсортованих списків відкриває швидкий перехід.</string>
     <string name="category_recent_channels">Нещодавні</string>
     <string name="category_all_channels">Всі канали</string>
     <string name="cfg_no_categories">Використовувати простий список каналів (без категорій)</string>
@@ -424,7 +419,6 @@
 
     <string name="pro_studio">Студійний режим, що дозволяє переглядати декілька каналів одночасно</string>
     <string name="cfg_prov_channel_name">Показувати назву провайдера в назві каналу при використанні кількох провайдерів</string>
-    <string name="hint_long_up_down">Тривале натискання стрілок вгору та вниз дозволяє швидше переходити по списку</string>
     <string name="pla_act_quick_seek_back_20">перемотати назад на 20 секунд</string>
     <string name="pla_act_quick_seek_fwd_20">перемотати вперед на 20 секунд</string>
     <string name="cfg_touch_control">Налаштування сенсорних зон</string>
@@ -435,7 +429,6 @@
     <string name="pos_center_right">по центру праворуч</string>
     <string name="pos_center_bottom">по центру знизу</string>
     <string name="cfg_studio_maximize_size">Розміри збільшеного вікна</string>
-    <string name="pro_desc_try_free">Ви можете спробувати Преміум-можливості, передплативши щомісячний план. У нього на початку є кілька безкоштовних днів, якщо ви ще раніше не сплачували.</string>
     <string name="cfg_auto_start_system_pip">Автоматично входити до системного режиму «картинка в картинці», при перемиканні з програвача на домашній екран</string>
     <string name="pla_act_hud">показати інтерфейс програвача з інформацією про трансляцію</string>
     <string name="pla_act_prop_channel">властивості каналу</string>
@@ -488,7 +481,6 @@
     <string name="swipe_horizontal">горизонтальний свайп</string>
     <string name="expiration">Термін дії до</string>
     <string name="trial_account">Пробний обліковий запис</string>
-    <string name="premium_google_account">Усі покупки розповсюджуються на всі пристроїв, які мають один і той же обліковий запис.</string>
     <string name="player_live_recent_archive">Відновити відтворення нещодавнього архівного відео?</string>
     <string name="player_live_recent_archive_archive">Відновити відтворення</string>
     <string name="player_live_recent_archive_live">Наживо</string>
@@ -740,4 +732,6 @@
     <string name="action_can_not_undo_continue">Цю дію неможливо скасувати. Бажаєте продовжити?</string>
     <string name="use_same_as_in_live">Використовуйте те саме значення, що й для прямих трансляцій</string>
     <string name="refresh_periodically">Періодично оновлюйте</string>
+    <string name="user_guide">Керівництво користувача</string>
+    <string name="support_1conn_provider">Увімкніть підтримку для провайдера, який має лише одне підключення</string>
     </resources>

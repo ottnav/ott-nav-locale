@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">emri (së pari të preferuarat, pastaj sipas alfabetit)</string>
     <string name="settings_run_at_boot">Filloni aplikacionin në nisjen e pajisjes</string>
     <string name="hint_title">Këshillë</string>
-    <string name="hint_long_tap">Mund të prekni gjatë artikullin e listës për të marrë përshkrim të zgjeruar (nëse ka).</string>
     <string name="hint_fav_sorting">Aplikacioni rendit kanalet sipas frekuencës së shikimit. Kanalet që keni shënuar si të preferuara do të jenë gjithmonë në krye. Mund të çaktivizoni renditjen automatike duke aktivizuar përdorimin e një porosie kanali ofruesi, megjithatë filtri i të preferuarave nuk do të jetë i disponueshëm.</string>
     <string name="hint_video_codecs">Nëse burimi po luan keq, mund të provoni të rrisni madhësinë e tamponit në cilësime, të kaloni në një dekoder tjetër të transmetimit (hardware ose softuer) ose nëse ndonjë gjë dështon, konfiguroni për të përdorur një luajtës të jashtëm për riprodhim.</string>
     <string name="hint_auto_turn_off">Mund të konfiguroni fikjen automatike të transmetimit pas njëfarë kohe boshe (e dobishme kur faturohet për minutë). I papunë do të thotë që nuk përdoren veprime të luajtësit (për shembull: meny, kërkim, pauzë, etj).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">Kërkoni</string>
     <string name="cfg_play_action_mseek">Fillon shikimin e kërkimit të videos</string>
     <string name="menu_exit">Dilni</string>
-    <string name="hint_try_premium_sub_free">Ju mund të provoni një abonim një herë falas për disa ditë, ndërsa vendosni se çfarëdo ta përdorni ose jo. Kontrolloni detajet e paketave të abonimit.</string>
     <string name="premium_fea_pre_vid">Shfaq pamjen paraprake të videos së zgjedhur në përshkrim</string>
     <string name="vp_audio_shift">Zhvendosja e audios</string>
     <string name="vp_audio_shift_desc">Sinkronizoni audion me videon</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Shfaq të gjitha videot e shikuara së fundi, që disponohen aktualisht në filtrin Vazhdo</string>
     <string name="menu_swap_pip_sound">Ndërroni tingullin midis ekranit kryesor dhe PiP</string>
     <string name="premium_fea_pre_vid_wp">Lejo që shikimi paraprak i videos të shfaqet gjatë riprodhimit të një videoje tjetër</string>
-    <string name="hint_click_icon">Klikimi i ikonës së një kanali ose grupi hap një meny konteksti (nëse disponohet).</string>
-    <string name="hint_right_jump">Shtypja e butonit djathtas në shumicën e listave të renditura sipas alfabetit hap një pamje kërcimi të shpejtë.</string>
     <string name="category_recent_channels">E fundit</string>
     <string name="category_all_channels">Të gjitha kanalet</string>
     <string name="cfg_no_categories">Përdorni listën e thjeshtë të kanaleve (pa kategori)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Rivendos gjendjen</string>
     <string name="pro_studio">Modaliteti Studio, që ju lejon të shikoni transmetime të shumta në të njëjtën kohë</string>
     <string name="cfg_prov_channel_name">Shfaqni emrin e ofruesit në emrin e kanalit kur përdorni ofrues të shumtë</string>
-    <string name="hint_long_up_down">Shtypja e gjatë e shigjetave lart dhe poshtë lejon navigim më të shpejtë në listë</string>
     <string name="pla_act_quick_seek_back_20">kërkoni mbrapa me 20 sekonda</string>
     <string name="pla_act_quick_seek_fwd_20">kërkoni përpara me 20 sekonda</string>
     <string name="cfg_touch_control">Konfigurimi i zonave me prekje</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">qendra e djathte</string>
     <string name="pos_center_bottom">qendra e poshtme</string>
     <string name="cfg_studio_maximize_size">Dimensionet e dritares së maksimizuar</string>
-    <string name="pro_desc_try_free">Mund të shikoni paraprakisht veçoritë premium duke u abonuar në planin mujor. Ka disa ditë fillimi falas nëse nuk keni pasur tashmë pagesa.</string>
     <string name="cfg_auto_start_system_pip">Hyni automatikisht në modalitetin e sistemit "foto në figurë" kur kaloni nga luajtësi në ekranin bazë</string>
     <string name="pla_act_hud">shfaq ndërfaqen e luajtësit me detajet e transmetimit</string>
     <string name="pla_act_prop_channel">vetitë e kanalit</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">rrëshqitje horizontale</string>
     <string name="expiration">Skadimi</string>
     <string name="trial_account">Llogaria e provës</string>
-    <string name="premium_google_account">Të gjitha blerjet zbatohen për të gjitha pajisjet që ndajnë të njëjtën llogari.</string>
     <string name="player_live_recent_archive">Të vazhdohet riprodhimi i videos së arkivuar së fundmi?</string>
     <string name="player_live_recent_archive_archive">Rifilloni riprodhimin</string>
     <string name="player_live_recent_archive_live">Transmetim i drejtpërdrejtë</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Ky veprim nuk mund të zhbëhet, dëshiron të vazhdosh?</string>
     <string name="use_same_as_in_live">Përdor të njëjtën vlerë si për transmetimet e drejtpërdrejta</string>
     <string name="refresh_periodically">Rifreskojeni periodikisht</string>
+    <string name="user_guide">Udhëzues Përdorues</string>
+    <string name="support_1conn_provider">Aktivizo mbështetjen për ofruesin që ka vetëm një lidhje të vetme</string>
     </resources>

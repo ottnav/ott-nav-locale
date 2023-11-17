@@ -86,7 +86,6 @@
     <string name="settings_run_at_boot">开机自启</string>
 
     <string name="hint_title">提示</string>
-    <string name="hint_long_tap">长按列表项可获取额外说明</string>
     <string name="hint_fav_sorting">系统按观看频率智能排序。收藏的频道总是靠前排列。选择原始顺序即可关闭智能排序，同时也将关闭收藏频道筛选功能。</string>
     <string name="hint_video_codecs">如果播放卡顿效果不佳，您可以尝试增加缓冲区大小，或更换解码方式。如果问题依旧，请选用外部播放器。</string>
     <string name="hint_auto_turn_off">您可设置软件无操作多久后停止播放（对按时间付费的人会有所帮助）。无操作是指未使用任何播放指令（如：调用菜单、定位、暂停等）。</string>
@@ -248,8 +247,6 @@
     <string name="btn_seek">定位</string>
     <string name="cfg_play_action_mseek">打开定位视图</string>
     <string name="menu_exit">退出</string>
-    <string name="hint_try_premium_sub_free">您可以免费订阅一次，试用几天后再决定是否续订。查看订阅套餐详情。</string>
-
     <string name="premium_fea_pre_vid">简介中显示视频预览</string>
     <string name="vp_audio_shift">音频偏移</string>
     <string name="vp_audio_shift_desc">音画同步</string>
@@ -280,8 +277,6 @@
     <string name="premium_fea_continue">浏览全部观看历史记录</string>
     <string name="menu_swap_pip_sound">画中画声音切换</string>
     <string name="premium_fea_pre_vid_wp">播放时显示其他视频预览</string>
-    <string name="hint_click_icon">点击频道图标或分类图标可打开上下文菜单。</string>
-    <string name="hint_right_jump">在按字母顺序排序的列表中，点右键可以打开快速跳转视图。</string>
     <string name="category_recent_channels">观看历史</string>
     <string name="category_all_channels">全部频道</string>
     <string name="cfg_no_categories">使用普通列表不分类</string>
@@ -424,7 +419,6 @@
     <string name="restore_state">状态恢复</string>
     <string name="pro_studio">Studio模式，允许同时观看多个流</string>
     <string name="cfg_prov_channel_name">使用多个提供程序时在通道名称中显示提供程序名</string>
-    <string name="hint_long_up_down">长按向上和向下箭头可以更快地进行列表导航</string>
     <string name="pla_act_quick_seek_back_20">向后追寻20秒</string>
     <string name="pla_act_quick_seek_fwd_20">向前寻求20秒</string>
     <string name="cfg_touch_control">触摸区配置</string>
@@ -435,7 +429,6 @@
     <string name="pos_center_right">中右</string>
     <string name="pos_center_bottom">底部中心</string>
     <string name="cfg_studio_maximize_size">最大化窗口的尺寸</string>
-    <string name="pro_desc_try_free">您可以通过订阅月度计划来预览高级功能。除非您已经付款，否则它有几个免费的开始日期。</string>
     <string name="cfg_auto_start_system_pip">从播放器切换到主屏幕时自动进入系统画中画模式</string>
     <string name="pla_act_hud">显示播放器界面与广播详细信息</string>
     <string name="pla_act_prop_channel">渠道属性</string>
@@ -488,7 +481,6 @@
     <string name="swipe_horizontal">水平滑动</string>
     <string name="expiration">期满</string>
     <string name="trial_account">试用帐号</string>
-    <string name="premium_google_account">所有购买均适用于共享同一帐户的所有设备。</string>
     <string name="player_live_recent_archive">恢复播放最近播放的存档视频？</string>
     <string name="player_live_recent_archive_archive">恢复播放</string>
     <string name="player_live_recent_archive_live">现场直播</string>
@@ -740,4 +732,6 @@
     <string name="action_can_not_undo_continue">此操作无法撤消，您想继续吗？</string>
     <string name="use_same_as_in_live">使用与直播相同的值</string>
     <string name="refresh_periodically">定期刷新</string>
+    <string name="user_guide">用户指南</string>
+    <string name="support_1conn_provider">启用对仅具有单个连接的提供程序的支持</string>
     </resources>

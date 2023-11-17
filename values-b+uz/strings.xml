@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">ism (avval sevimlilar, keyin alifbo tartibida)</string>
     <string name="settings_run_at_boot">Qurilmani yuklashda dasturni ishga tushiring</string>
     <string name="hint_title">Maslahat</string>
-    <string name="hint_long_tap">Kengaytirilgan tavsifni (agar mavjud bo\'lsa) olish uchun ro\'yxat elementini uzoq vaqt bosib turishingiz mumkin.</string>
     <string name="hint_fav_sorting">Ilova kanallarni tomosha chastotasiga qarab tartiblaydi. Sevimli deb belgilagan kanallar har doim yuqorida bo\'ladi. Siz provayder kanali tartibini yoqish orqali avtomatik saralashni o\'chirib qo\'yishingiz mumkin, ammo sevimlilar filtri mavjud bo\'lmaydi.</string>
     <string name="hint_video_codecs">Agar manba yomon o\'ynasa, sozlamalarda bufer hajmini oshirishga urinib ko\'rishingiz, boshqa oqim dekoderiga (apparat yoki dasturiy ta\'minot) o\'tishingiz mumkin yoki biror narsa bajarilmasa, ijro etish uchun tashqi pleerdan foydalanishni sozlashingiz mumkin.</string>
     <string name="hint_auto_turn_off">Bir muncha bo\'sh vaqtdan so\'ng avtomatik oqimni o\'chirishni sozlashingiz mumkin (daqiqada hisob-kitob qilinganda foydali). Boʻsh rejimda oʻyinchi harakatlari ishlatilmaydi (masalan: menyu, qidirish, pauza va h.k.).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">Izlash</string>
     <string name="cfg_play_action_mseek">Videoni ko\'rishni boshlaydi</string>
     <string name="menu_exit">Chiqish</string>
-    <string name="hint_try_premium_sub_free">Siz obunani bir necha kun davomida bir marta bepul sinab ko\'rishingiz va undan qanday foydalanish yoki qilmaslik haqida qaror qabul qilishingiz mumkin. Obuna paketlari tafsilotlarini tekshiring.</string>
     <string name="premium_fea_pre_vid">Tanlangan videoni tavsifda ko‘rsatish</string>
     <string name="vp_audio_shift">Ovozni almashtirish</string>
     <string name="vp_audio_shift_desc">Ovozni video bilan sinxronlashtiring</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Hozirda Davom etish filtrida mavjud bo‘lgan barcha yaqinda ko‘rilgan videolarni ko‘rsatadi</string>
     <string name="menu_swap_pip_sound">Ovozni asosiy ekran va PiP o\'rtasida almashtiring</string>
     <string name="premium_fea_pre_vid_wp">Boshqa videoni o‘ynatganda videoni oldindan ko‘rishga ruxsat bering</string>
-    <string name="hint_click_icon">Kanal yoki guruh belgisini bosish kontekst menyusini ochadi (agar mavjud bo\'lsa).</string>
-    <string name="hint_right_jump">Ko\'pchilik alifbo tartibida tartiblangan ro\'yxatlarda o\'ng tugmani bosish tez o\'tish ko\'rinishini ochadi.</string>
     <string name="category_recent_channels">Yaqinda</string>
     <string name="category_all_channels">Barcha kanallar</string>
     <string name="cfg_no_categories">Oddiy kanallar roʻyxatidan foydalaning (toifasiz)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Holatni tiklash</string>
     <string name="pro_studio">Bir vaqtning o\'zida bir nechta oqimlarni tomosha qilish imkonini beruvchi studiya rejimi</string>
     <string name="cfg_prov_channel_name">Bir nechta provayderlardan foydalanganda kanal nomida provayder nomini ko\'rsatish</string>
-    <string name="hint_long_up_down">Yuqoriga va pastga o\'qlarni uzoq vaqt bosib turish ro\'yxatni tezroq navigatsiya qilish imkonini beradi</string>
     <string name="pla_act_quick_seek_back_20">20 soniya orqaga qidiring</string>
     <string name="pla_act_quick_seek_fwd_20">20 soniya oldinga intiling</string>
     <string name="cfg_touch_control">Sensor zonalari konfiguratsiyasi</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">markaziy o\'ng</string>
     <string name="pos_center_bottom">pastki markaz</string>
     <string name="cfg_studio_maximize_size">Kattalashtirilgan oynaning o\'lchamlari</string>
-    <string name="pro_desc_try_free">Oylik tarif rejasiga obuna boʻlish orqali premium funksiyalarni koʻrishingiz mumkin. Agar sizda toʻlovlar boʻlmasa, unda bir necha boshlangʻich kunlari bepul.</string>
     <string name="cfg_auto_start_system_pip">Pleyerdan bosh ekranga o‘tishda tizimdagi rasm rejimiga avtomatik ravishda kiring</string>
     <string name="pla_act_hud">translyatsiya tafsilotlari bilan o\'yinchi interfeysini ko\'rsatish</string>
     <string name="pla_act_prop_channel">kanal xususiyatlari</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">gorizontal surish</string>
     <string name="expiration">Yaroqlilik muddati</string>
     <string name="trial_account">Sinov hisobi</string>
-    <string name="premium_google_account">Barcha xaridlar bir xil hisob qaydnomasiga ega barcha qurilmalar uchun amal qiladi.</string>
     <string name="player_live_recent_archive">Oxirgi ijro etilgan arxivlangan video ijrosi davom ettirilsinmi?</string>
     <string name="player_live_recent_archive_archive">Ijroni davom ettiring</string>
     <string name="player_live_recent_archive_live">Jonli translatsiya</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Bu amalni ortga qaytarib bo‘lmaydi, davom ettirmoqchimisiz?</string>
     <string name="use_same_as_in_live">Jonli translatsiyalar bilan bir xil qiymatdan foydalaning</string>
     <string name="refresh_periodically">Vaqti-vaqti bilan yangilang</string>
+    <string name="user_guide">Foydalanuvchi uchun qo\'llanma</string>
+    <string name="support_1conn_provider">Faqat bitta ulanishga ega bo\'lgan provayderni qo\'llab-quvvatlashni yoqing</string>
     </resources>

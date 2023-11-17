@@ -75,7 +75,6 @@
     <string name="settings_channel_sort_mode_name">név (először a kedvencek, majd betűrendben)</string>
     <string name="settings_run_at_boot">Indítsa el az alkalmazást az eszköz indításakor</string>
     <string name="hint_title">Célzás</string>
-    <string name="hint_long_tap">A listaelemre hosszan koppintva bővebb leírást kaphat (ha van).</string>
     <string name="hint_fav_sorting">Az alkalmazás nézési gyakoriság szerint rendezi a csatornákat. A kedvencként megjelölt csatornák mindig az élen lesznek. Az automatikus rendezést letilthatja, ha engedélyezi a szolgáltatói csatorna sorrendjét, azonban a kedvencek szűrője nem lesz elérhető.</string>
     <string name="hint_video_codecs">Ha a forrás rosszul játszik, megpróbálhatja növelni a puffer méretét a beállításokban, váltani egy másik adatfolyam-dekódolóra (hardverre vagy szoftverre), vagy ha valami nem sikerül, konfigurálhatja külső lejátszó használatát a lejátszáshoz.</string>
     <string name="hint_auto_turn_off">Beállíthatja az automatikus stream kikapcsolást bizonyos tétlenség után (percenkénti számlázás esetén hasznos). Az üresjárat azt jelenti, hogy nem használnak játékos műveleteket (például: menü, keresés, szünet stb.).</string>
@@ -215,7 +214,6 @@
     <string name="btn_seek">Keress</string>
     <string name="cfg_play_action_mseek">Elindítja a videó keresését</string>
     <string name="menu_exit">Kijárat</string>
-    <string name="hint_try_premium_sub_free">Egy előfizetést egyszer ingyenesen kipróbálhat több napig, miközben eldöntheti, hogy melyiket használja-e vagy sem. Ellenőrizze az előfizetési csomagok részleteit.</string>
     <string name="premium_fea_pre_vid">A kiválasztott videó előnézetének megjelenítése a leírásban</string>
     <string name="vp_audio_shift">Hangváltás</string>
     <string name="vp_audio_shift_desc">Hang szinkronizálása videóval</string>
@@ -246,8 +244,6 @@
     <string name="premium_fea_continue">Megjeleníti az összes nemrég megtekintett videót, amely jelenleg elérhető a Folytatás szűrőben</string>
     <string name="menu_swap_pip_sound">Hangcsere a főképernyő és a PiP között</string>
     <string name="premium_fea_pre_vid_wp">A videó előnézetének megjelenítése másik videó lejátszása közben</string>
-    <string name="hint_click_icon">Egy csatorna vagy csoport ikonjára kattintva megnyílik egy helyi menü (ha elérhető).</string>
-    <string name="hint_right_jump">A jobb gomb megnyomása a legtöbb ábécé sorrendben rendezett listában gyors ugrónézetet nyit meg.</string>
     <string name="category_recent_channels">Friss</string>
     <string name="category_all_channels">Minden csatorna</string>
     <string name="cfg_no_categories">Egyszerű csatornalista használata (kategória nélkül)</string>
@@ -384,7 +380,6 @@
     <string name="restore_state">Állapot visszaállítása</string>
     <string name="pro_studio">Stúdió mód, amely lehetővé teszi több stream egyidejű megtekintését</string>
     <string name="cfg_prov_channel_name">Több szolgáltató használata esetén jelenítse meg a szolgáltató nevét a csatorna nevében</string>
-    <string name="hint_long_up_down">A fel és le nyilak hosszan lenyomva gyorsabban navigálhat a listán</string>
     <string name="pla_act_quick_seek_back_20">keressen vissza 20 másodperccel</string>
     <string name="pla_act_quick_seek_fwd_20">keressen előre 20 másodperccel</string>
     <string name="cfg_touch_control">Érintőzónák beállítása</string>
@@ -395,7 +390,6 @@
     <string name="pos_center_right">középen jobbra</string>
     <string name="pos_center_bottom">alsó középpont</string>
     <string name="cfg_studio_maximize_size">Maximális ablak méretei</string>
-    <string name="pro_desc_try_free">A prémium funkciók előnézetét megtekintheti, ha előfizet a havi előfizetésre. Több ingyenes kezdőnap is van, hacsak nem volt már befizetése.</string>
     <string name="cfg_auto_start_system_pip">Automatikusan belép a rendszer kép a képben módba, amikor a lejátszóról a kezdőképernyőre vált</string>
     <string name="pla_act_hud">mutasd meg a lejátszó felületét a közvetítés részleteivel</string>
     <string name="pla_act_prop_channel">csatorna tulajdonságai</string>
@@ -448,7 +442,6 @@
     <string name="swipe_horizontal">vízszintes csúsztatás</string>
     <string name="expiration">Lejárat</string>
     <string name="trial_account">Próbaszámla</string>
-    <string name="premium_google_account">Minden vásárlás minden, ugyanazt a fiókot használó eszközre vonatkozik.</string>
     <string name="player_live_recent_archive">Folytatja a nemrég lejátszott archivált videó lejátszását?</string>
     <string name="player_live_recent_archive_archive">Lejátszás folytatása</string>
     <string name="player_live_recent_archive_live">Élő adás</string>
@@ -700,4 +693,6 @@
     <string name="action_can_not_undo_continue">Ez a művelet nem vonható vissza, folytatja?</string>
     <string name="use_same_as_in_live">Használja ugyanazt az értéket, mint az élő közvetítéseknél</string>
     <string name="refresh_periodically">Rendszeresen frissítse</string>
+    <string name="user_guide">Használati útmutató</string>
+    <string name="support_1conn_provider">Engedélyezze a támogatást az egyetlen kapcsolattal rendelkező szolgáltató számára</string>
     </resources>

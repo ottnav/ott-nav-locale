@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">име (първо любими, а след това по азбучен ред)</string>
     <string name="settings_run_at_boot">Стартирай приложението при зареждане на устройството</string>
     <string name="hint_title">намек</string>
-    <string name="hint_long_tap">Можете дълго да докоснете елемент от списъка, за да получите разширено описание (ако е приложимо).</string>
     <string name="hint_fav_sorting">Приложението сортира каналите по честота на гледане. Каналите, които сте маркирали като любими, винаги ще бъдат в горната част. Можете да деактивирате автоматичното сортиране, като активирате използването на поръчка на канал от доставчика, но филтърът за предпочитани няма да бъде наличен.</string>
     <string name="hint_video_codecs">Ако източникът се възпроизвежда зле, можете да опитате да увеличите размера на буфера в настройките, да преминете към друг декодер на потока (хардуер или софтуер) или ако не се получи, да конфигурирате да използвате външен плейър за възпроизвеждане.</string>
     <string name="hint_auto_turn_off">Можете да конфигурирате автоматично изключване на потока след известно време на празен ход (полезно при таксуване на минута). На празен ход означава, че не се използват действия на плейъра (например: меню, търсене, пауза и т.н.).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">търся</string>
     <string name="cfg_play_action_mseek">Започва видео, което търси оглед</string>
     <string name="menu_exit">изход</string>
-    <string name="hint_try_premium_sub_free">Можете да изпробвате абонамент веднъж безплатно в продължение на няколко дни, докато решите какво да го използвате или не. Проверете подробности за абонаментните пакети.</string>
     <string name="premium_fea_pre_vid">Показване на преглед на видеото в описанието</string>
     <string name="vp_audio_shift">Аудио смяна</string>
     <string name="vp_audio_shift_desc">Синхронизиране на аудио с видео</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Показва всички наскоро гледани видеоклипове, които в момента са налични във филтъра „Продължи“</string>
     <string name="menu_swap_pip_sound">Размяна на звук между главния екран и PiP</string>
     <string name="premium_fea_pre_vid_wp">Разрешаване на визуализацията на видеоклипа да се показва, докато възпроизвеждате друг видеоклип</string>
-    <string name="hint_click_icon">Щракването върху иконата на канал или група отваря контекстно меню (ако е налично).</string>
-    <string name="hint_right_jump">Натискането на десен бутон в повечето подредени по азбучен ред списъци отваря бърз преглед.</string>
     <string name="category_recent_channels">Скорошен</string>
     <string name="category_all_channels">Всички канали</string>
     <string name="cfg_no_categories">Използвай обикновен списък с канали (без категории)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Възстановяване на състоянието</string>
     <string name="pro_studio">Студио режим, позволяващ да гледате няколко потока едновременно</string>
     <string name="cfg_prov_channel_name">Показване на името на доставчика в името на канала, когато използвате няколко доставчика</string>
-    <string name="hint_long_up_down">Дългото натискане на стрелки нагоре и надолу позволява по-бърза навигация в списъка</string>
     <string name="pla_act_quick_seek_back_20">Търсене назад с 20 секунди</string>
     <string name="pla_act_quick_seek_fwd_20">Търсене напред с 20 секунди</string>
     <string name="cfg_touch_control">Конфигурация на зони с докосване</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">вдясно в центъра</string>
     <string name="pos_center_bottom">долен център</string>
     <string name="cfg_studio_maximize_size">Размери на максимален прозорец</string>
-    <string name="pro_desc_try_free">Можете да прегледате премиум функции, като се абонирате за месечен план. Има няколко начални дни безплатно, освен ако вече нямате плащания.</string>
     <string name="cfg_auto_start_system_pip">Автоматично влизай в режим на картина в картина при преминаване от плейър към начален екран</string>
     <string name="pla_act_hud">Показване на интерфейс на плейъра с подробности за излъчване</string>
     <string name="pla_act_prop_channel">Свойства на канал</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">хоризонтално прекарване на пръст</string>
     <string name="expiration">Изтичане</string>
     <string name="trial_account">Пробен акаунт</string>
-    <string name="premium_google_account">Всички покупки се отнасят за всички устройства, споделящи един и същ акаунт.</string>
     <string name="player_live_recent_archive">Да възобнови ли възпроизвеждането на наскоро възпроизведено архивирано видео?</string>
     <string name="player_live_recent_archive_archive">Възобновяване на възпроизвеждането</string>
     <string name="player_live_recent_archive_live">Поток на живо</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Това действие не може да бъде отменено, искате ли да продължите?</string>
     <string name="use_same_as_in_live">Използвайте същата стойност като за потоци на живо</string>
     <string name="refresh_periodically">Опреснявайте периодично</string>
+    <string name="user_guide">Упътване за употреба</string>
+    <string name="support_1conn_provider">Активиране на поддръжка за доставчик, който има само една връзка</string>
     </resources>

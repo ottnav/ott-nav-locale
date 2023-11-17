@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">ime (najprej priljubljene, nato po abecedi)</string>
     <string name="settings_run_at_boot">Zaženite aplikacijo ob zagonu naprave</string>
     <string name="hint_title">Namig</string>
-    <string name="hint_long_tap">Lahko se dolgo dotaknete elementa seznama, da dobite razširjen opis (če je na voljo).</string>
     <string name="hint_fav_sorting">Aplikacija razvršča kanale po pogostosti gledanja. Kanali, ki ste jih označili kot priljubljene, bodo vedno na vrhu. Samodejno razvrščanje lahko onemogočite tako, da omogočite uporabo vrstnega reda kanalov ponudnika, vendar filter priljubljenih ne bo na voljo.</string>
     <string name="hint_video_codecs">Če se vir predvaja slabo, lahko poskusite povečati velikost medpomnilnika v nastavitvah, preklopite na drug dekodirnik toka (strojni ali programski) ali, če karkoli ne uspe, konfigurirajte uporabo zunanjega predvajalnika za predvajanje.</string>
     <string name="hint_auto_turn_off">Konfigurirate lahko samodejni izklop toka po določenem času mirovanja (uporabno pri obračunu na minuto). Nedejaven pomeni, da predvajalnik ne uporablja dejanj (na primer: meni, iskanje, premor itd.).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">Iskanje</string>
     <string name="cfg_play_action_mseek">Začne pogled iskanja videa</string>
     <string name="menu_exit">Izhod</string>
-    <string name="hint_try_premium_sub_free">Naročnino lahko preizkusite enkrat brezplačno za več dni, medtem ko se odločite, kaj jo boste uporabili ali ne. Preverite podrobnosti o naročniških paketih.</string>
     <string name="premium_fea_pre_vid">Prikaži predogled izbranega videa v opisu</string>
     <string name="vp_audio_shift">Zvočni premik</string>
     <string name="vp_audio_shift_desc">Sinhronizirajte zvok z videom</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Prikaže vse nedavno ogledane videoposnetke, ki so trenutno na voljo v filtru za nadaljevanje</string>
     <string name="menu_swap_pip_sound">Zamenjava zvoka med glavnim zaslonom in PiP</string>
     <string name="premium_fea_pre_vid_wp">Dovoli predogled videa med predvajanjem drugega videoposnetka</string>
-    <string name="hint_click_icon">S klikom na ikono kanala ali skupine se odpre kontekstni meni (če je na voljo).</string>
-    <string name="hint_right_jump">S pritiskom desnega gumba na večini abecedno razvrščenih seznamov se odpre pogled hitrega skoka.</string>
     <string name="category_recent_channels">Nedavno</string>
     <string name="category_all_channels">Vsi kanali</string>
     <string name="cfg_no_categories">Uporabite navaden seznam kanalov (brez kategorij)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Obnovi stanje</string>
     <string name="pro_studio">Studio način, ki omogoča gledanje več tokov hkrati</string>
     <string name="cfg_prov_channel_name">Pokaži ime ponudnika v imenu kanala, ko uporabljate več ponudnikov</string>
-    <string name="hint_long_up_down">Dolg pritisk puščic gor in dol omogoča hitrejšo navigacijo po seznamu</string>
     <string name="pla_act_quick_seek_back_20">pomik nazaj za 20 sekund</string>
     <string name="pla_act_quick_seek_fwd_20">pomakni naprej za 20 sekund</string>
     <string name="cfg_touch_control">Konfiguracija con na dotik</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">sredina desno</string>
     <string name="pos_center_bottom">spodaj na sredini</string>
     <string name="cfg_studio_maximize_size">Dimenzije povečanega okna</string>
-    <string name="pro_desc_try_free">Premijske funkcije si lahko predogledate tako, da se naročite na mesečni paket. Ima več brezplačnih začetnih dni, razen če ste že imeli plačila.</string>
     <string name="cfg_auto_start_system_pip">Samodejni vstop v sistemski način slike v sliki, ko preklopite s predvajalnika na začetni zaslon</string>
     <string name="pla_act_hud">pokaži vmesnik predvajalnika s podrobnostmi o oddaji</string>
     <string name="pla_act_prop_channel">lastnosti kanala</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">vodoravni poteg</string>
     <string name="expiration">Iztek</string>
     <string name="trial_account">Preizkusni račun</string>
-    <string name="premium_google_account">Vsi nakupi veljajo za vse naprave, ki imajo isti račun.</string>
     <string name="player_live_recent_archive">Nadaljevati predvajanje nedavno predvajanega arhiviranega videa?</string>
     <string name="player_live_recent_archive_archive">Nadaljevanje predvajanja</string>
     <string name="player_live_recent_archive_live">Prenos v živo</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Tega dejanja ni mogoče razveljaviti, ali želite nadaljevati?</string>
     <string name="use_same_as_in_live">Uporabite enako vrednost kot za prenose v živo</string>
     <string name="refresh_periodically">Občasno osvežite</string>
+    <string name="user_guide">Navodila</string>
+    <string name="support_1conn_provider">Omogoči podporo za ponudnika, ki ima samo eno povezavo</string>
     </resources>

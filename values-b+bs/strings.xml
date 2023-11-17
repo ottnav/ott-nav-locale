@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">ime (prvo favoriti, a zatim po abecednom redu)</string>
     <string name="settings_run_at_boot">Pokrenite aplikaciju pri pokretanju uređaja</string>
     <string name="hint_title">Nagovještaj</string>
-    <string name="hint_long_tap">Možete dugo dodirnuti stavku liste da dobijete prošireni opis (ako je primjenjivo).</string>
     <string name="hint_fav_sorting">Aplikacija sortira kanale po frekvenciji gledanja. Kanali koje ste označili kao omiljene uvijek će biti u vrhu. Možete onemogućiti automatsko sortiranje tako što ćete omogućiti korištenje kanala provajdera, ali filter favorita neće biti dostupan.</string>
     <string name="hint_video_codecs">Ako izvor reproducira loše, možete pokušati povećati veličinu bafera u postavkama, prebaciti se na drugi stream dekoder (hardver ili softver) ili ako nešto ne uspije, konfigurirati korištenje vanjskog plejera za reprodukciju.</string>
     <string name="hint_auto_turn_off">Možete konfigurirati automatsko isključivanje streama nakon nekog vremena mirovanja (korisno kada se naplaćuje po minuti). Neaktivan znači da se ne koriste radnje igrača (na primjer: meni, traženje, pauza, itd.).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">Traži</string>
     <string name="cfg_play_action_mseek">Započinje traženje pregleda videa</string>
     <string name="menu_exit">Izlaz</string>
-    <string name="hint_try_premium_sub_free">Možete isprobati pretplatu jednom besplatno tokom nekoliko dana dok odlučujete da li ćete je koristiti ili ne. Provjerite detalje paketa pretplate.</string>
     <string name="premium_fea_pre_vid">Prikaži odabrani video pregled u opisu</string>
     <string name="vp_audio_shift">Audio shift</string>
     <string name="vp_audio_shift_desc">Sinhronizacija zvuka sa videom</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Prikazuje sve nedavno gledane video zapise koji su trenutno dostupni u filteru Nastavi</string>
     <string name="menu_swap_pip_sound">Zamijenite zvuk između glavnog ekrana i slike u slici</string>
     <string name="premium_fea_pre_vid_wp">Dozvolite da se prikaže pregled videa tokom reprodukcije drugog video zapisa</string>
-    <string name="hint_click_icon">Klikom na ikonu kanala ili grupe otvara se kontekstni meni (ako je dostupan).</string>
-    <string name="hint_right_jump">Pritiskom na desno dugme u većini abecedno sortiranih lista otvara se pregled za brzi skok.</string>
     <string name="category_recent_channels">Nedavno</string>
     <string name="category_all_channels">Svi kanali</string>
     <string name="cfg_no_categories">Koristite običnu listu kanala (bez kategorija)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Vrati stanje</string>
     <string name="pro_studio">Studio način rada, koji omogućava gledanje više streamova u isto vrijeme</string>
     <string name="cfg_prov_channel_name">Prikažite ime provajdera u nazivu kanala kada koristite više provajdera</string>
-    <string name="hint_long_up_down">Dugi pritisak na strelice gore i dolje omogućava bržu navigaciju po listi</string>
     <string name="pla_act_quick_seek_back_20">traži unazad za 20 sekundi</string>
     <string name="pla_act_quick_seek_fwd_20">pomicanje unaprijed za 20 sekundi</string>
     <string name="cfg_touch_control">Konfiguracija dodirnih zona</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">centar desno</string>
     <string name="pos_center_bottom">donji centar</string>
     <string name="cfg_studio_maximize_size">Dimenzije maksimalnog prozora</string>
-    <string name="pro_desc_try_free">Možete pregledati premium funkcije pretplatom na mjesečni plan. Ima nekoliko početnih dana besplatno osim ako već niste izvršili uplate.</string>
     <string name="cfg_auto_start_system_pip">Automatski uđite u sistemski režim slika u slici kada prelazite sa plejera na početni ekran</string>
     <string name="pla_act_hud">prikaži interfejs plejera sa detaljima emitovanja</string>
     <string name="pla_act_prop_channel">svojstva kanala</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">horizontalno prevlačenje</string>
     <string name="expiration">Istek</string>
     <string name="trial_account">Probni račun</string>
-    <string name="premium_google_account">Sve kupovine se odnose na sve uređaje koji dijele isti račun.</string>
     <string name="player_live_recent_archive">Nastaviti reprodukciju nedavno reproduciranih arhiviranih videozapisa?</string>
     <string name="player_live_recent_archive_archive">Nastavite reprodukciju</string>
     <string name="player_live_recent_archive_live">Prijenos uživo</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Ova radnja se ne može poništiti, želite li nastaviti?</string>
     <string name="use_same_as_in_live">Koristite istu vrijednost kao i za prijenose uživo</string>
     <string name="refresh_periodically">Osvježavajte povremeno</string>
+    <string name="user_guide">Korisnički vodič</string>
+    <string name="support_1conn_provider">Omogućite podršku za provajdera koji ima samo jednu vezu</string>
     </resources>

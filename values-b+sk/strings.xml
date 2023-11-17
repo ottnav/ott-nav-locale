@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">meno (najskôr obľúbené, potom podľa abecedy)</string>
     <string name="settings_run_at_boot">Spustite aplikáciu pri zavádzaní zariadenia</string>
     <string name="hint_title">Nápoveda</string>
-    <string name="hint_long_tap">Dlhým klepnutím na položku zoznamu získate rozšírený popis (ak je k dispozícii).</string>
     <string name="hint_fav_sorting">Aplikácia triedi kanály podľa frekvencie sledovania. Kanály, ktoré ste označili ako obľúbené, budú vždy v hornej časti. Automatické triedenie môžete zakázať povolením pomocou poradia kanálov poskytovateľa, filter obľúbených však nebude dostupný.</string>
     <string name="hint_video_codecs">Ak sa zdroj prehráva zle, môžete skúsiť zvýšiť veľkosť vyrovnávacej pamäte v nastaveniach, prepnúť na iný stream dekodér (hardvér alebo softvér), alebo ak niečo zlyhá, nakonfigurovať na prehrávanie externý prehrávač.</string>
     <string name="hint_auto_turn_off">Môžete nakonfigurovať automatické vypnutie streamu po určitom čase nečinnosti (užitočné pri účtovaní za minútu). Nečinný znamená, že sa nepoužívajú žiadne akcie hráča (napríklad: ponuka, vyhľadávanie, pauza atď.).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">Hľadaj</string>
     <string name="cfg_play_action_mseek">Spustí zobrazenie vyhľadávania videa</string>
     <string name="menu_exit">VÝCHOD</string>
-    <string name="hint_try_premium_sub_free">Predplatné si môžete vyskúšať raz zadarmo na niekoľko dní a rozhodnúť sa, či ho použijete alebo nie. Skontrolujte podrobnosti o balíkoch predplatného.</string>
     <string name="premium_fea_pre_vid">Zobraziť ukážku vybraného videa v popise</string>
     <string name="vp_audio_shift">Posun zvuku</string>
     <string name="vp_audio_shift_desc">Synchronizujte zvuk s videom</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Zobrazuje všetky naposledy zobrazené videá, ktoré sú momentálne dostupné vo filtri Pokračovať</string>
     <string name="menu_swap_pip_sound">Prepínajte zvuk medzi hlavnou obrazovkou a obrazom v obraze</string>
     <string name="premium_fea_pre_vid_wp">Povoliť zobrazenie ukážky videa počas prehrávania iného videa</string>
-    <string name="hint_click_icon">Kliknutím na ikonu kanála alebo skupiny sa otvorí kontextová ponuka (ak je k dispozícii).</string>
-    <string name="hint_right_jump">Stlačením pravého tlačidla vo väčšine abecedne zoradených zoznamov sa otvorí zobrazenie rýchleho skoku.</string>
     <string name="category_recent_channels">Nedávne</string>
     <string name="category_all_channels">Všetky kanály</string>
     <string name="cfg_no_categories">Použiť obyčajný zoznam kanálov (bez kategórií)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Obnoviť stav</string>
     <string name="pro_studio">Štúdiový režim, ktorý umožňuje sledovať viacero streamov súčasne</string>
     <string name="cfg_prov_channel_name">Pri použití viacerých poskytovateľov zobraziť názov poskytovateľa v názve kanála</string>
-    <string name="hint_long_up_down">Dlhé stlačenie šípok nahor a nadol umožňuje rýchlejšiu navigáciu v zozname</string>
     <string name="pla_act_quick_seek_back_20">vyhľadávanie dozadu o 20 sekúnd</string>
     <string name="pla_act_quick_seek_fwd_20">posun dopredu o 20 sekúnd</string>
     <string name="cfg_touch_control">Konfigurácia dotykových zón</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">stred vpravo</string>
     <string name="pos_center_bottom">stred dole</string>
     <string name="cfg_studio_maximize_size">Rozmery maximalizovaného okna</string>
-    <string name="pro_desc_try_free">Prémiové funkcie si môžete pozrieť po prihlásení sa na odber mesačného plánu. Má niekoľko počiatočných dní zadarmo, pokiaľ ste ešte nezaplatili.</string>
     <string name="cfg_auto_start_system_pip">Automaticky prejsť do režimu obrazu v obraze systému pri prepnutí z prehrávača na domovskú obrazovku</string>
     <string name="pla_act_hud">zobraziť rozhranie prehrávača s podrobnosťami o vysielaní</string>
     <string name="pla_act_prop_channel">vlastnosti kanála</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">horizontálne potiahnutie</string>
     <string name="expiration">Expirácia</string>
     <string name="trial_account">Skúšobný účet</string>
-    <string name="premium_google_account">Všetky nákupy sa vzťahujú na všetky zariadenia zdieľajúce rovnaký účet.</string>
     <string name="player_live_recent_archive">Obnoviť prehrávanie nedávno prehrávaného archivovaného videa?</string>
     <string name="player_live_recent_archive_archive">Obnovte prehrávanie</string>
     <string name="player_live_recent_archive_live">Živý prenos</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Táto akcia sa nedá vrátiť späť, chcete pokračovať?</string>
     <string name="use_same_as_in_live">Použite rovnakú hodnotu ako pri priamych prenosoch</string>
     <string name="refresh_periodically">Pravidelne obnovujte</string>
+    <string name="user_guide">Užívateľská príručka</string>
+    <string name="support_1conn_provider">Povoliť podporu pre poskytovateľa, ktorý má iba jedno pripojenie</string>
     </resources>

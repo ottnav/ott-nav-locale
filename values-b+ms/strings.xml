@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">Mulakan permohonan pada but peranti</string>
 
     <string name="hint_title">Petunjuk</string>
-    <string name="hint_long_tap">Anda boleh memasukkan item senarai panjang untuk mendapatkan penerangan lanjutan (jika berkenaan).</string>
     <string name="hint_fav_sorting">Aplikasi menyusun saluran dengan frekuensi menonton. Saluran yang anda tandakan sebagai kegemaran akan sentiasa berada di bahagian atas. Anda boleh menyahaktifkan penyisihan secara automatik dengan membolehkan menggunakan saluran saluran penyedia, namun penapis kegemaran tidak akan tersedia.</string>
     <string name="hint_video_codecs">Jika sumber bermain buruk, anda boleh cuba meningkatkan ukuran penampan dalam tetapan, beralih ke penyahkod aliran (perkakasan atau perisian) yang lain, atau jika ada yang gagal, konfigurasikan untuk menggunakan pemain luaran untuk main balik.</string>
     <string name="hint_auto_turn_off">Anda boleh mengkonfigurasi aliran automatik yang bertukar selepas beberapa masa terbiar (berguna apabila dibilkan setiap minit). Idle bermaksud tiada tindakan pemain yang digunakan (contohnya: menu, mencari, jeda, dll).</string>
@@ -255,8 +254,6 @@
     <string name="btn_seek">Cari</string>
     <string name="cfg_play_action_mseek">Mulakan pandangan mencari video</string>
     <string name="menu_exit">Keluar</string>
-    <string name="hint_try_premium_sub_free">Anda boleh mencuba langganan sekali secara percuma selama beberapa hari ketika memutuskan apa pun untuk menggunakannya, atau tidak. Semak butiran pakej langganan.</string>
-
     <string name="premium_fea_pre_vid">Tunjukkan pratonton video yang dipilih dalam keterangan</string>
     <string name="vp_audio_shift">Peralihan audio</string>
     <string name="vp_audio_shift_desc">Sinkronkan audio dengan video</string>
@@ -287,8 +284,6 @@
     <string name="premium_fea_continue">Menunjukkan semua video yang dilihat baru-baru ini, yang kini tersedia dalam penapis Teruskan</string>
     <string name="menu_swap_pip_sound">Tukar bunyi antara skrin utama dan PiP</string>
     <string name="premium_fea_pre_vid_wp">Benarkan pratonton video dipaparkan semasa memainkan video lain</string>
-    <string name="hint_click_icon">Mengklik ikon saluran atau kumpulan membuka menu konteks (jika ada).</string>
-    <string name="hint_right_jump">Menekan butang kanan dalam kebanyakan senarai yang disusun mengikut abjad membuka pandangan melompat cepat.</string>
     <string name="category_recent_channels">Baru-baru ini</string>
     <string name="category_all_channels">Semua saluran</string>
     <string name="cfg_no_categories">Gunakan senarai saluran biasa (tanpa kategori)</string>
@@ -431,7 +426,6 @@
     <string name="restore_state">Pulihkan keadaan</string>
     <string name="pro_studio">Mod studio, membolehkan menonton pelbagai aliran pada masa yang sama</string>
     <string name="cfg_prov_channel_name">Tunjukkan nama penyedia dalam nama saluran apabila menggunakan berbilang pembekal</string>
-    <string name="hint_long_up_down">Anak panah menekan ke atas dan ke bawah membolehkan navigasi senarai lebih cepat</string>
     <string name="pla_act_quick_seek_back_20">cari ke belakang dengan 20 saat</string>
     <string name="pla_act_quick_seek_fwd_20">cari ke hadapan sebanyak 20 saat</string>
     <string name="cfg_touch_control">Sentuh konfigurasi zon</string>
@@ -442,7 +436,6 @@
     <string name="pos_center_right">tengah kanan</string>
     <string name="pos_center_bottom">pusat bawah</string>
     <string name="cfg_studio_maximize_size">Dimensi tetingkap dimaksimumkan</string>
-    <string name="pro_desc_try_free">Anda boleh melihat ciri premium dengan melanggan pelan bulanan. Ia mempunyai beberapa hari permulaan secara percuma melainkan anda sudah mendapat bayaran.</string>
     <string name="cfg_auto_start_system_pip">Masukkan secara automatik sistem gambar dalam gambar apabila bertukar dari pemain ke skrin utama</string>
     <string name="pla_act_hud">tunjukkan antara muka pemain dengan butiran penyiaran</string>
     <string name="pla_act_prop_channel">sifat saluran</string>
@@ -495,7 +488,6 @@
     <string name="swipe_horizontal">leretan mendatar</string>
     <string name="expiration">Tamat</string>
     <string name="trial_account">Akaun Percubaan</string>
-    <string name="premium_google_account">Semua pembelian terpakai untuk semua peranti yang berkongsi akaun yang sama.</string>
     <string name="player_live_recent_archive">Sambung semula main balik video yang diarsipkan baru-baru ini?</string>
     <string name="player_live_recent_archive_archive">Teruskan main semula</string>
     <string name="player_live_recent_archive_live">Siaran langsung</string>
@@ -747,4 +739,6 @@
     <string name="action_can_not_undo_continue">Tindakan ini tidak boleh dibuat asal, adakah anda ingin meneruskan?</string>
     <string name="use_same_as_in_live">Gunakan nilai yang sama seperti untuk strim langsung</string>
     <string name="refresh_periodically">Muat semula secara berkala</string>
+    <string name="user_guide">Panduan pengguna</string>
+    <string name="support_1conn_provider">Dayakan sokongan untuk pembekal yang hanya mempunyai satu sambungan</string>
     </resources>

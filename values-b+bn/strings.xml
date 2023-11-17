@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">ডিভাইস বুট আবেদন শুরু করুন</string>
 
     <string name="hint_title">ইঙ্গিত</string>
-    <string name="hint_long_tap">আপনি দীর্ঘ তালিকা (যদি প্রযোজ্য) পেতে তালিকা আইটেমটি ট্যাপ করতে পারেন।</string>
     <string name="hint_fav_sorting">অ্যাপ্লিকেশন ঘড়ি ফ্রিকোয়েন্সি দ্বারা চ্যানেল প্রকার। আপনার পছন্দসই হিসাবে চ্যানেলগুলি সর্বদা শীর্ষে থাকবে। আপনি একটি প্রদানকারী চ্যানেল ক্রম ব্যবহার করে সক্ষম করে স্বয়ংক্রিয় সাজানোর অক্ষম করতে পারেন, তবে পছন্দসই ফিল্টার উপলব্ধ হবে না।</string>
     <string name="hint_video_codecs">উৎসটি খারাপভাবে চলছে, তবে আপনি সেটিংসে বাফারের আকার বাড়ানোর চেষ্টা করতে পারেন, অন্য স্ট্রীম ডিকোডার (হার্ডওয়্যার বা সফটওয়্যার) তে স্যুইচ করতে পারেন, বা কিছু ব্যর্থ হলে প্লেব্যাকের জন্য বাহ্যিক প্লেয়ার ব্যবহার করতে কনফিগার করুন।</string>
     <string name="hint_auto_turn_off">আপনি কিছু নিষ্ক্রিয় সময়ের পরে স্বয়ংক্রিয় স্ট্রিম স্যুইচিং বন্ধ করতে পারেন (প্রতি মিনিটে বিল করার সময় দরকারী)। নিষ্ক্রিয় মানে কোন প্লেয়ার ক্রিয়া ব্যবহার করা হয়নি (উদাহরণস্বরূপ: মেনু, অনুসন্ধান, বিরতি, ইত্যাদি)।</string>
@@ -257,8 +256,6 @@
     <string name="btn_seek">খোঁজ</string>
     <string name="cfg_play_action_mseek">ভিউ দেখার জন্য শুরু ভিডিও</string>
     <string name="menu_exit">বাহির</string>
-    <string name="hint_try_premium_sub_free">আপনি এটি ব্যবহার করার সিদ্ধান্ত নিলে সিদ্ধান্ত নেওয়ার সময় কয়েক দিনের জন্য বিনামূল্যে একবার সাবস্ক্রিপশন চেষ্টা করতে পারেন। সাবস্ক্রিপশন প্যাকেজ বিস্তারিত দেখুন।</string>
-
     <string name="premium_fea_pre_vid">বর্ণনা নির্বাচিত ভিডিও পূর্বরূপ দেখান</string>
     <string name="vp_audio_shift">অডিও স্থানান্তর</string>
     <string name="vp_audio_shift_desc">ভিডিও সঙ্গে অডিও সিঙ্ক করুন</string>
@@ -289,8 +286,6 @@
     <string name="premium_fea_continue">সমস্ত সম্প্রতি দেখা ভিডিও দেখায়, যা বর্তমানে ফিল্টার চালিয়ে যায়</string>
     <string name="menu_swap_pip_sound">প্রধান পর্দা এবং PiP মধ্যে শব্দ Swap</string>
     <string name="premium_fea_pre_vid_wp">অন্য ভিডিও বাজানোর সময় ভিডিও পূর্বরূপ দেখানো অনুমতি দিন</string>
-    <string name="hint_click_icon">একটি চ্যানেল বা গোষ্ঠীর আইকনে ক্লিক করলে একটি প্রসঙ্গ মেনু খোলে (যদি উপলব্ধ থাকে)।</string>
-    <string name="hint_right_jump">সর্বাধিক বর্ণানুক্রমিক সাজানো তালিকাতে ডান বোতাম টিপে একটি দ্রুত ঝাঁপ প্রদর্শন খোলে।</string>
     <string name="category_recent_channels">সাম্প্রতিক</string>
     <string name="category_all_channels">সমস্ত চ্যানেল</string>
     <string name="cfg_no_categories">প্লেইন চ্যানেল তালিকা ব্যবহার করুন (কোন বিভাগ সহ)</string>
@@ -433,7 +428,6 @@
     <string name="restore_state">রাষ্ট্র পুনরুদ্ধার করুন</string>
 <string name="pro_studio">স্টুডিও মোড, একই সাথে একাধিক স্ট্রিম দেখার অনুমতি দেয়</string>
     <string name="cfg_prov_channel_name">একাধিক সরবরাহকারী ব্যবহার করার সময় চ্যানেলের নামে সরবরাহকারীর নাম দেখান</string>
-    <string name="hint_long_up_down">দীর্ঘ এবং উপরের তীরগুলি টিপুন দ্রুত তালিকার জন্য নেভিগেশনের অনুমতি দেয়</string>
     <string name="pla_act_quick_seek_back_20">20 সেকেন্ড পরে পিছনে সন্ধান করুন</string>
     <string name="pla_act_quick_seek_fwd_20">20 সেকেন্ড পরে এগিয়ে যান</string>
     <string name="cfg_touch_control">অঞ্চল কনফিগারেশন টাচ করুন</string>
@@ -444,7 +438,6 @@
     <string name="pos_center_right">ঠিক কেন্দ্র</string>
     <string name="pos_center_bottom">নীচের কেন্দ্র</string>
     <string name="cfg_studio_maximize_size">সর্বাধিক উইন্ডোর মাত্রা</string>
-    <string name="pro_desc_try_free">আপনি মাসিক পরিকল্পনা সাবস্ক্রাইব করে প্রিমিয়াম বৈশিষ্ট্য প্রাকদর্শন করতে পারেন। আপনার ইতিমধ্যে অর্থ প্রদান না করা থাকলে এটি বিনামূল্যে শুরুর বেশ কয়েকটি দিন রয়েছে।</string>
     <string name="cfg_auto_start_system_pip">প্লেয়ার থেকে হোম স্ক্রিনে স্যুইচ করার সময় সিস্টেম চিত্র-ইন-ছবি মোডটি স্বয়ংক্রিয়ভাবে প্রবেশ করুন</string>
     <string name="pla_act_hud">সম্প্রচারের বিশদ সহ প্লেয়ার ইন্টারফেসটি দেখান</string>
     <string name="pla_act_prop_channel">চ্যানেল বৈশিষ্ট্য</string>
@@ -497,7 +490,6 @@
     <string name="swipe_horizontal">অনুভূমিক সোয়াইপ</string>
     <string name="expiration">শ্বাসত্যাগ</string>
     <string name="trial_account">ট্রায়াল অ্যাকাউন্ট</string>
-    <string name="premium_google_account">সমস্ত ক্রয় একই অ্যাকাউন্ট ভাগ করে নেওয়ার সমস্ত ডিভাইসে প্রযোজ্য।</string>
     <string name="player_live_recent_archive">সম্প্রতি প্লে করা আর্কাইভ ভিডিওটির প্লেব্যাক আবার শুরু করবেন?</string>
     <string name="player_live_recent_archive_archive">প্লেব্যাক পুনরায় শুরু করুন</string>
     <string name="player_live_recent_archive_live">সরাসরি সম্প্রচার</string>
@@ -749,4 +741,6 @@
     <string name="action_can_not_undo_continue">এই ক্রিয়াটি পূর্বাবস্থায় ফেরানো যাবে না, আপনি কি চালিয়ে যেতে চান?</string>
     <string name="use_same_as_in_live">লাইভ স্ট্রিমগুলির জন্য একই মান ব্যবহার করুন</string>
     <string name="refresh_periodically">পর্যায়ক্রমে রিফ্রেশ করুন</string>
+    <string name="user_guide">ব্যবহারকারীর নির্দেশিকা</string>
+    <string name="support_1conn_provider">শুধুমাত্র একটি সংযোগ আছে এমন প্রদানকারীর জন্য সমর্থন সক্ষম করুন৷</string>
     </resources>

@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">ਡਿਵਾਈਸ ਬੂਟ ਤੇ ਐਪਲੀਕੇਸ਼ਨ ਸ਼ੁਰੂ ਕਰੋ</string>
 
     <string name="hint_title">ਸੰਕੇਤ</string>
-    <string name="hint_long_tap">ਤੁਸੀਂ ਲੰਮੀ ਵੇਰਵਾ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਸੂਚੀ ਸੂਚੀ ਨੂੰ ਲੰਮੀ ਕਰ ਸਕਦੇ ਹੋ (ਜੇ ਲਾਗੂ ਹੋਵੇ)</string>
     <string name="hint_fav_sorting">ਦਰਖਾਸਤ ਆਵਿਰਤੀ ਦੁਆਰਾ ਐਪਲੀਕੇਸ਼ਨਾਂ ਦੀ ਤਰ੍ਹਾਂ ਚੈਨਲ. ਤੁਹਾਡੇ ਪਸੰਦੀਦਾ ਦੇ ਰੂਪ ਵਿੱਚ ਮਾਰਕ ਕੀਤੇ ਗਏ ਚੈਨਲ ਹਮੇਸ਼ਾਂ ਚੋਟੀ ਦੇ ਵਿੱਚ ਹੋਣਗੇ ਤੁਸੀਂ ਪ੍ਰਦਾਤਾ ਚੈਨਲ ਦੇ ਆਦੇਸ਼ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਆਟੋਮੈਟਿਕ ਕ੍ਰਮ ਨੂੰ ਅਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹੋ, ਹਾਲਾਂਕਿ ਮਨਪਸੰਦ ਫਿਲਟਰ ਉਪਲੱਬਧ ਨਹੀਂ ਹੋਵੇਗਾ.</string>
     <string name="hint_video_codecs">ਜੇ ਸਰੋਤ ਬੁਰੀ ਤਰ੍ਹਾਂ ਖੇਡ ਰਿਹਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬਫਰ ਦੇ ਸਾਈਜ਼ ਨੂੰ ਵਧਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ, ਕਿਸੇ ਹੋਰ ਸਟ੍ਰੀਮ ਡੀਕੋਡਰ (ਹਾਰਡਵੇਅਰ ਜਾਂ ਸੌਫਟਵੇਅਰ) ਤੇ ਸਵਿੱਚ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਜੇ ਕੁਝ ਵੀ ਅਸਫਲ ਹੋ ਜਾਂਦਾ ਹੈ, ਤਾਂ ਪਲੇਬੈਕ ਲਈ ਇੱਕ ਬਾਹਰੀ ਪਲੇਅਰ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਕਨਫਿਗਰ ਕਰੋ.</string>
     <string name="hint_auto_turn_off">ਤੁਸੀਂ ਕੁਝ ਵਿਹਲੇ ਸਮੇਂ ਤੋਂ ਬਾਅਦ ਆਟੋਮੈਟਿਕ ਸਟ੍ਰੀਮ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ (ਲਾਭਦਾਇਕ ਜਦੋਂ ਪ੍ਰਤੀ ਮਿੰਟ ਬਿਲ). ਵਿਹਲਾ ਹੋਣ ਦਾ ਮਤਲਬ ਹੈ ਕਿ ਕੋਈ ਵੀ ਖਿਡਾਰੀ ਕਾਰਵਾਈ ਨਹੀਂ ਕਰਦਾ (ਉਦਾਹਰਨ ਲਈ: ਮੀਨੂ, ਭਾਲ, ਰੋਕੋ, ਆਦਿ)</string>
@@ -254,8 +253,6 @@
     <string name="btn_seek">ਭਾਲੋ</string>
     <string name="cfg_play_action_mseek">ਵਿਡੀਓ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਦ੍ਰਿਸ਼ ਨੂੰ ਸ਼ੁਰੂ ਕਰਦਾ ਹੈ</string>
     <string name="menu_exit">ਨਿਕਾਸ</string>
-    <string name="hint_try_premium_sub_free">ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਵਾਰ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਈ ਦਿਨਾਂ ਲਈ ਕਰ ਸਕਦੇ ਹੋ ਜਦੋਂ ਇਹ ਫੈਸਲਾ ਕਰਨਾ ਹੋਵੇ ਕਿ ਇਸ ਨੂੰ ਵਰਤਣ ਲਈ ਕੀ ਕਰਨਾ ਹੈ ਜਾਂ ਨਹੀਂ. ਗਾਹਕੀ ਪੈਕੇਜਾਂ ਦੇ ਵੇਰਵੇ ਚੈੱਕ ਕਰੋ</string>
-
     <string name="premium_fea_pre_vid">ਵੇਰਵੇ ਵਿੱਚ ਚੁਣਿਆ ਵੀਡੀਓ ਪੂਰਵਦਰਸ਼ਨ ਦਿਖਾਉ</string>
     <string name="vp_audio_shift">ਔਡੀਓ ਸ਼ਿਫਟ</string>
     <string name="vp_audio_shift_desc">ਵੀਡੀਓ ਦੇ ਨਾਲ ਔਡੀਓ ਸਿੰਕ ਕਰੋ</string>
@@ -286,8 +283,6 @@
     <string name="premium_fea_continue">ਹਾਲ ਹੀ ਵਿੱਚ ਦੇਖੇ ਗਏ ਸਾਰੇ ਵੀਡੀਓਜ਼ ਦਿਖਾਉਂਦਾ ਹੈ, ਜੋ ਵਰਤਮਾਨ ਵਿੱਚ ਫਿਲਟਰ ਜਾਰੀ ਰੱਖੋ ਵਿੱਚ ਉਪਲਬਧ ਹਨ</string>
     <string name="menu_swap_pip_sound">ਮੁੱਖ ਸਕ੍ਰੀਨ ਅਤੇ ਪਿਪ ਦੇ ਵਿਚਕਾਰ ਆਵਾਜ਼ ਸਵੈਪ ਕਰੋ</string>
     <string name="premium_fea_pre_vid_wp">ਕਿਸੇ ਹੋਰ ਵੀਡੀਓ ਨੂੰ ਚਲਾਉਂਦੇ ਸਮੇਂ ਵੀਡੀਓ ਪੂਰਵਦਰਸ਼ਨ ਨੂੰ ਦਿਖਾਓ</string>
-    <string name="hint_click_icon">ਕਿਸੇ ਚੈਨਲ ਜਾਂ ਸਮੂਹ ਦੇ ਆਈਕਾਨ ਤੇ ਕਲਿਕ ਕਰਨ ਨਾਲ ਸੰਦਰਭ ਸੂਚੀ ਖੁੱਲਦੀ ਹੈ (ਜੇ ਉਪਲਬਧ ਹੋਵੇ).</string>
-    <string name="hint_right_jump">ਜ਼ਿਆਦਾਤਰ ਵਰਣਮਾਲਾ ਅਨੁਸਾਰ ਕ੍ਰਮਬੱਧ ਸੂਚੀਆਂ ਵਿੱਚ ਸੱਜਾ ਬਟਨ ਦਬਾਉਣ ਨਾਲ ਇੱਕ ਤੇਜ਼ ਜੰਪ ਦ੍ਰਿਸ਼ ਖੁੱਲ੍ਹਦਾ ਹੈ.</string>
     <string name="category_recent_channels">ਹਾਲ ਹੀ</string>
     <string name="category_all_channels">ਸਾਰੇ ਚੈਨਲਸ</string>
     <string name="cfg_no_categories">ਸਾਦੇ ਚੈਨਲ ਸੂਚੀ ਦੀ ਵਰਤੋਂ ਕਰੋ (ਬਿਨਾਂ ਵਰਗਾਂ ਨਾਲ)</string>
@@ -430,7 +425,6 @@
     <string name="restore_state">ਸਥਿਤੀ ਨੂੰ ਬਹਾਲ ਕਰੋ</string>
 <string name="pro_studio">ਸਟੂਡੀਓ ਮੋਡ, ਇਕੋ ਸਮੇਂ ਕਈ ਸਟ੍ਰੀਮਾਂ ਨੂੰ ਦੇਖਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ</string>
     <string name="cfg_prov_channel_name">ਜਦੋਂ ਮਲਟੀਪਲ ਪ੍ਰਦਾਤਾ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ ਤਾਂ ਪ੍ਰਦਾਤਾ ਦਾ ਨਾਮ ਚੈਨਲ ਦੇ ਨਾਮ ਵਿੱਚ ਦਿਖਾਓ</string>
-    <string name="hint_long_up_down">ਲੰਬੇ ਦਬਾ ਕੇ ਹੇਠਾਂ ਜਾਣ ਵਾਲੇ ਤੀਰ ਤੇਜ਼ੀ ਨਾਲ ਸੂਚੀ ਨੇਵੀਗੇਸ਼ਨ ਦੀ ਆਗਿਆ ਦਿੰਦੇ ਹਨ</string>
     <string name="pla_act_quick_seek_back_20">20 ਸਕਿੰਟ ਬਾਅਦ ਪਿੱਛੇ ਜਾਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
     <string name="pla_act_quick_seek_fwd_20">ਅੱਗੇ 20 ਸਕਿੰਟ ਦੀ ਭਾਲ ਕਰੋ</string>
     <string name="cfg_touch_control">ਟਚ ਜ਼ੋਨ ਕੌਂਫਿਗਰੇਸ਼ਨ</string>
@@ -441,7 +435,6 @@
     <string name="pos_center_right">ਸੱਜੇ ਪਾਸੇ</string>
     <string name="pos_center_bottom">ਹੇਠਲਾ ਕੇਂਦਰ</string>
     <string name="cfg_studio_maximize_size">ਵੱਧੋ - ਵੱਧ ਵਿੰਡੋ ਦੇ ਮਾਪ</string>
-    <string name="pro_desc_try_free">ਤੁਸੀਂ ਮਾਸਿਕ ਯੋਜਨਾ ਦੀ ਗਾਹਕੀ ਲੈ ਕੇ ਪ੍ਰੀਮੀਅਮ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦਾ ਪੂਰਵਦਰਸ਼ਨ ਕਰ ਸਕਦੇ ਹੋ. ਇਸਦੇ ਕਈ ਸ਼ੁਰੂਆਤੀ ਦਿਨ ਮੁਫਤ ਹੁੰਦੇ ਹਨ ਜਦੋਂ ਤੱਕ ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾਂ ਹੀ ਭੁਗਤਾਨ ਨਹੀਂ ਹੁੰਦੇ.</string>
     <string name="cfg_auto_start_system_pip">ਪਲੇਅਰ ਤੋਂ ਘਰੇਲੂ ਸਕ੍ਰੀਨ ਤੇ ਜਾਣ ਵੇਲੇ ਸਵੈਚਲਿਤ ਤੌਰ ਤੇ ਸਿਸਟਮ ਪਿਕਚਰ-ਇਨ-ਪਿਕਚਰ ਮੋਡ ਦਾਖਲ ਕਰੋ</string>
     <string name="pla_act_hud">ਪ੍ਰਸਾਰਣ ਵੇਰਵਿਆਂ ਨਾਲ ਪਲੇਅਰ ਇੰਟਰਫੇਸ ਦਿਖਾਓ</string>
     <string name="pla_act_prop_channel">ਚੈਨਲ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ</string>
@@ -494,7 +487,6 @@
     <string name="swipe_horizontal">ਖਿਤਿਜੀ ਸਵਾਈਪ</string>
     <string name="expiration">ਮਿਆਦ</string>
     <string name="trial_account">ਅਜ਼ਮਾਇਸ਼ ਅਕਾ .ਂਟ</string>
-    <string name="premium_google_account">ਸਾਰੀਆਂ ਖਰੀਦਦਾਰੀ ਇੱਕੋ ਜਿਹੇ ਖਾਤੇ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਵਾਲੀਆਂ ਸਾਰੀਆਂ ਡਿਵਾਈਸਾਂ ਤੇ ਲਾਗੂ ਹੁੰਦੀਆਂ ਹਨ.</string>
     <string name="player_live_recent_archive">ਹਾਲ ਹੀ ਵਿੱਚ ਖੇਡੇ ਗਏ ਪੁਰਾਲੇਖ ਵੀਡੀਓ ਦਾ ਪਲੇਅਬੈਕ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰਨਾ ਹੈ?</string>
     <string name="player_live_recent_archive_archive">ਪਲੇਅਬੈਕ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ</string>
     <string name="player_live_recent_archive_live">ਸਿੱਧਾ ਪ੍ਰਸਾਰਣ</string>
@@ -746,4 +738,6 @@
     <string name="action_can_not_undo_continue">ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਅਣਕੀਤਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
     <string name="use_same_as_in_live">ਲਾਈਵ ਸਟ੍ਰੀਮ ਲਈ ਸਮਾਨ ਮੁੱਲ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="refresh_periodically">ਸਮੇਂ-ਸਮੇਂ \'ਤੇ ਤਾਜ਼ਾ ਕਰੋ</string>
+    <string name="user_guide">ਉਪਭੋਗਤਾ ਗਾਈਡ</string>
+    <string name="support_1conn_provider">ਪ੍ਰਦਾਤਾ ਲਈ ਸਹਾਇਤਾ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ ਜਿਸ ਕੋਲ ਸਿਰਫ਼ ਇੱਕ ਕਨੈਕਸ਼ਨ ਹੈ</string>
     </resources>

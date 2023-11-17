@@ -75,7 +75,6 @@
     <string name="settings_channel_sort_mode_name">nume (preferințe mai întâi, apoi alfabetic)</string>
     <string name="settings_run_at_boot">Porniți aplicația la pornirea dispozitivului</string>
     <string name="hint_title">Aluzie</string>
-    <string name="hint_long_tap">Puteți atinge lung elementul listei pentru a obține o descriere extinsă (dacă este cazul).</string>
     <string name="hint_fav_sorting">Aplicația sortează canalele în funcție de frecvența de vizionare. Canalele marcate drept preferate vor fi întotdeauna în partea de sus. Puteți dezactiva sortarea automată activând o comandă a canalului furnizorului, însă filtrul de preferințe nu va fi disponibil.</string>
     <string name="hint_video_codecs">Dacă sursa se joacă prost, puteți încerca să creșteți dimensiunea bufferului în setări, să comutați la un alt decodificator (hardware sau software) sau, dacă nu reușește ceva, configurați-vă să utilizați un player extern pentru o redare.</string>
     <string name="hint_auto_turn_off">Puteți configura oprirea automată a fluxului după un timp inactiv (util la facturare pe minut). Inactiv înseamnă o acțiune a jucătorului folosită (de exemplu: meniu, căutare, pauză etc.).</string>
@@ -215,7 +214,6 @@
     <string name="btn_seek">Căuta</string>
     <string name="cfg_play_action_mseek">Începe vizualizarea în căutarea videoclipului</string>
     <string name="menu_exit">Ieșire</string>
-    <string name="hint_try_premium_sub_free">Puteți încerca un abonament o dată gratuit timp de câteva zile, în timp ce decideți dacă îl veți utiliza sau nu. Verificați detaliile pachetelor de abonamente.</string>
     <string name="premium_fea_pre_vid">Afișați previzualizarea video selectată în descriere</string>
     <string name="vp_audio_shift">Schimbare audio</string>
     <string name="vp_audio_shift_desc">Sincronizați audio cu video</string>
@@ -246,8 +244,6 @@
     <string name="premium_fea_continue">Prezintă toate videoclipurile vizualizate recent, care sunt disponibile în prezent în filtrul Continuare</string>
     <string name="menu_swap_pip_sound">Schimbă sunetul între ecranul principal și PiP</string>
     <string name="premium_fea_pre_vid_wp">Permiteți afișarea previzualizării videoclipurilor în timpul redării unui alt videoclip</string>
-    <string name="hint_click_icon">Făcând clic pe pictograma unui canal sau grup deschide un meniu contextual (dacă este disponibil).</string>
-    <string name="hint_right_jump">Apăsarea butonului drept în majoritatea listelor sortate alfabetic deschide o vizualizare rapidă.</string>
     <string name="category_recent_channels">Recent</string>
     <string name="category_all_channels">Toate canalele</string>
     <string name="cfg_no_categories">Folosiți lista de canale simple (fără categorii)</string>
@@ -384,7 +380,6 @@
     <string name="restore_state">Restaurare stare</string>
     <string name="pro_studio">Mod Studio, permițând vizionarea mai multor fluxuri în același timp</string>
     <string name="cfg_prov_channel_name">Afișați numele furnizorului în numele canalului atunci când utilizați mai mulți furnizori</string>
-    <string name="hint_long_up_down">Apăsând lung săgețile în sus și în jos permite navigarea mai rapidă în listă</string>
     <string name="pla_act_quick_seek_back_20">căutați înapoi cu 20 de secunde</string>
     <string name="pla_act_quick_seek_fwd_20">caută înainte cu 20 de secunde</string>
     <string name="cfg_touch_control">Atingeți configurația zonelor</string>
@@ -395,7 +390,6 @@
     <string name="pos_center_right">centru dreapta</string>
     <string name="pos_center_bottom">centru de jos</string>
     <string name="cfg_studio_maximize_size">Dimensiunile ferestrei maximizate</string>
-    <string name="pro_desc_try_free">Puteți previzualiza funcțiile premium prin abonarea la un plan lunar. Are câteva zile de început gratuit, dacă nu aveți deja plăți.</string>
     <string name="cfg_auto_start_system_pip">Intrați automat în modul imagine în imagine atunci când treceți de la player la ecranul principal</string>
     <string name="pla_act_hud">arată interfața playerului cu detalii de difuzare</string>
     <string name="pla_act_prop_channel">proprietățile canalului</string>
@@ -448,7 +442,6 @@
     <string name="swipe_horizontal">glisare orizontală</string>
     <string name="expiration">Expirare</string>
     <string name="trial_account">Cont de încercare</string>
-    <string name="premium_google_account">Toate achizițiile se aplică tuturor dispozitivelor care distribuie același cont.</string>
     <string name="player_live_recent_archive">Reîncepeți redarea videoclipului arhivat recent redat?</string>
     <string name="player_live_recent_archive_archive">Reluați redarea</string>
     <string name="player_live_recent_archive_live">Transmitere live</string>
@@ -700,4 +693,6 @@
     <string name="action_can_not_undo_continue">Această acțiune nu poate fi anulată, doriți să continuați?</string>
     <string name="use_same_as_in_live">Folosiți aceeași valoare ca și pentru streamurile live</string>
     <string name="refresh_periodically">Actualizează periodic</string>
+    <string name="user_guide">Manualul utilizatorului</string>
+    <string name="support_1conn_provider">Activați asistența pentru furnizorul care are o singură conexiune</string>
     </resources>

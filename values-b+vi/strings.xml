@@ -86,7 +86,6 @@
     <string name="settings_run_at_boot">Khởi chạy ứng dụng khi bật thiết bị</string>
 
     <string name="hint_title">Gợi ý</string>
-    <string name="hint_long_tap">Bạn có thể nhấn giữ vào mục trong danh sách để xem mô tả mở rộng (nếu có).</string>
     <string name="hint_fav_sorting">Ứng dụng sắp xếp các kênh theo tần suất xem. Các kênh bạn đánh dấu là yêu thích sẽ luôn nằm trên cùng. Bạn có thể tắt sắp xếp tự động bằng cách cho phép sử dụng thứ tự kênh của nhà cung cấp, tuy nhiên bộ lọc yêu thích sẽ không khả dụng.</string>
     <string name="hint_video_codecs">Nếu nguồn phát không tốt, bạn có thể thử tăng kích thước bộ đệm trong cài đặt, chuyển sang bộ giải mã luồng khác (phần cứng hoặc phần mềm) hoặc nếu có lỗi, hãy định cấu hình để sử dụng trình phát bên ngoài để phát lại.</string>
     <string name="hint_auto_turn_off">Bạn có thể định cấu hình tắt luồng tự động sau một thời gian nhàn rỗi (hữu ích khi bạn thanh toán dịch vụ IPTV theo phút). Nhàn rỗi có nghĩa là không có hành động nào của người xem được thực hiện (ví dụ: menu, tìm kiếm, tạm dừng, v.v.).</string>
@@ -248,8 +247,6 @@
     <string name="btn_seek">Tìm kiếm</string>
     <string name="cfg_play_action_mseek">Bắt đầu tìm kiếm trong video</string>
     <string name="menu_exit">Thoát</string>
-    <string name="hint_try_premium_sub_free">Bạn có thể thử đăng ký một lần miễn phí trong vài ngày trong khi quyết định sử dụng nó hay không. Hãy kiểm tra chi tiết các gói thuê bao.</string>
-
     <string name="premium_fea_pre_vid">Hiển thị xem trước của video đã chọn trong phần mô tả</string>
     <string name="vp_audio_shift">Dịch chuyển âm thanh</string>
     <string name="vp_audio_shift_desc">Đồng bộ âm thanh và video</string>
@@ -280,8 +277,6 @@
     <string name="premium_fea_continue">Hiển thị tất cả các video được xem gần đây, hiện có sẵn trong bộ lọc Xem tiếp</string>
     <string name="menu_swap_pip_sound">Hoán đổi âm thanh giữa màn hình chính và PiP</string>
     <string name="premium_fea_pre_vid_wp">Cho phép xem trước video trong khi đang phát video khác</string>
-    <string name="hint_click_icon">Nhấp vào biểu tượng của kênh hoặc nhóm sẽ mở menu ngữ cảnh (nếu có).</string>
-    <string name="hint_right_jump">Nhấn nút phải trong hầu hết các danh sách được sắp xếp theo thứ tự bảng chữ cái sẽ mở ra chế độ xem nhanh.</string>
     <string name="category_recent_channels">Gần đây</string>
     <string name="category_all_channels">Tất cả kênh</string>
     <string name="cfg_no_categories">Sử dụng danh sách kênh đơn giản (không có danh mục/nhóm)</string>
@@ -424,7 +419,6 @@
     <string name="restore_state">Khôi phục</string>
 <string name="pro_studio">Chế độ studio, cho phép xem nhiều luồng cùng lúc</string>
     <string name="cfg_prov_channel_name">Hiển thị tên nhà cung cấp trong tên kênh khi sử dụng nhiều nhà cung cấp</string>
-    <string name="hint_long_up_down">Nhấn và nhấn mũi tên dài cho phép điều hướng danh sách nhanh hơn</string>
     <string name="pla_act_quick_seek_back_20">tìm kiếm ngược 20 giây</string>
     <string name="pla_act_quick_seek_fwd_20">tìm kiếm về phía trước 20 giây</string>
     <string name="cfg_touch_control">Cấu hình vùng cảm ứng</string>
@@ -435,7 +429,6 @@
     <string name="pos_center_right">trung tâm bên phải</string>
     <string name="pos_center_bottom">Trung tâm trên</string>
     <string name="cfg_studio_maximize_size">Kích thước của cửa sổ tối đa</string>
-    <string name="pro_desc_try_free">Bạn có thể xem trước các tính năng cao cấp bằng cách đăng ký gói hàng tháng. Nó có vài ngày bắt đầu miễn phí trừ khi bạn đã có thanh toán.</string>
     <string name="cfg_auto_start_system_pip">Tự động vào chế độ hình ảnh trong ảnh của hệ thống khi chuyển từ trình phát sang màn hình chính</string>
     <string name="pla_act_hud">hiển thị giao diện người chơi với các chi tiết phát sóng</string>
     <string name="pla_act_prop_channel">thuộc tính kênh</string>
@@ -488,7 +481,6 @@
     <string name="swipe_horizontal">vuốt ngang</string>
     <string name="expiration">Hết hạn</string>
     <string name="trial_account">Tài khoản dùng thử</string>
-    <string name="premium_google_account">Tất cả các giao dịch mua áp dụng cho tất cả các thiết bị chia sẻ cùng một tài khoản.</string>
     <string name="player_live_recent_archive">Tiếp tục phát lại video lưu trữ được phát gần đây?</string>
     <string name="player_live_recent_archive_archive">Tiếp tục phát lại</string>
     <string name="player_live_recent_archive_live">Phát trực tiếp</string>
@@ -740,4 +732,6 @@
     <string name="action_can_not_undo_continue">Hành động này không thể hoàn tác, bạn có muốn tiếp tục không?</string>
     <string name="use_same_as_in_live">Sử dụng cùng một giá trị như đối với luồng trực tiếp</string>
     <string name="refresh_periodically">Làm mới định kỳ</string>
+    <string name="user_guide">Hướng dẫn sử dụng</string>
+    <string name="support_1conn_provider">Cho phép hỗ trợ cho nhà cung cấp chỉ có một kết nối duy nhất</string>
     </resources>

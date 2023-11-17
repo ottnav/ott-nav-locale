@@ -86,7 +86,6 @@
     <string name="settings_run_at_boot">Sākt lietotni ierīces sāknē</string>
 
     <string name="hint_title">Padoms</string>
-    <string name="hint_long_tap">Jūs varat ilgi pieskarties saraksta vienumam, lai iegūtu plašāku aprakstu (ja nepieciešams).</string>
     <string name="hint_fav_sorting">Pieteikums sakārto kanālus pēc skatīšanās frekvences. Kanāli, kurus atzīmējāt kā iecienītākos, vienmēr būs augšā. Automātisko šķirošanu var atspējot, iespējojot, izmantojot pakalpojumu sniedzēja kanālu secību, tomēr favorītu filtrs nebūs pieejams.</string>
     <string name="hint_video_codecs">Ja avots atskaņo slikti, iestatījumos varat mēģināt palielināt bufera lielumu, pārslēgties uz citu straumes dekodētāju (aparatūru vai programmatūru) vai arī, ja kaut kas neizdodas, atskaņošanai izmantojiet ārējo atskaņotāju.</string>
     <string name="hint_auto_turn_off">Pēc dažiem dīkstāves laikiem varat konfigurēt automātisko straumēšanas izslēgšanu (noder, ja rēķins tiek aprēķināts par minūti). Gaidīšanas režīms nozīmē, ka netiek izmantotas spēlētāju darbības (piemēram, izvēlne, meklēšana, pauzes utt.).</string>
@@ -252,9 +251,6 @@
     <string name="btn_seek">Meklējiet</string>
     <string name="cfg_play_action_mseek">Sāk video skatīšanas skatu</string>
     <string name="menu_exit">Izeja</string>
-    <string name="hint_try_premium_sub_free">Jūs varat izmēģināt abonementu vienu reizi par brīvu vairākas dienas, lemjot par to, vai to izmantot, vai nē. Pārbaudiet abonēšanas pakotņu informāciju.</string>
-
-    
     <string name="premium_fea_pre_vid">Rādīt izvēlēto video priekšskatījumu aprakstā</string>
     <string name="vp_audio_shift">Audio maiņa</string>
     <string name="vp_audio_shift_desc">Sinhronizējiet audio ar video</string>
@@ -285,8 +281,6 @@
     <string name="premium_fea_continue">Rāda visus nesen skatītos videoklipus, kas pašlaik ir pieejami mapē Turpināt filtru</string>
     <string name="menu_swap_pip_sound">Pārslēgt skaņu starp galveno ekrānu un PiP</string>
     <string name="premium_fea_pre_vid_wp">Atļaut video priekšskatījumu parādīt, atskaņojot citu video</string>
-    <string name="hint_click_icon">Noklikšķinot uz kanāla vai grupas ikonas, tiek atvērta konteksta izvēlne (ja tā ir pieejama).</string>
-    <string name="hint_right_jump">Nospiežot labo pogu lielākajā daļā alfabētiski sakārtoto sarakstu, tiek atvērts ātrs lēciena skats.</string>
     <string name="category_recent_channels">Pēdējie</string>
     <string name="category_all_channels">Visi kanāli</string>
     <string name="cfg_no_categories">Lietot vienkāršu kanālu sarakstu (bez kategorijām)</string>
@@ -430,7 +424,6 @@
     <string name="restore_state">Atjaunot stāvokli</string>
 <string name="pro_studio">Studijas režīms, ļaujot vienlaikus skatīties vairākas straumes</string>
     <string name="cfg_prov_channel_name">Rādiet pakalpojumu sniedzēja vārdu kanāla nosaukumā, ja izmantojat vairākus pakalpojumu sniedzējus</string>
-    <string name="hint_long_up_down">Ilgi nospiežot augšup un lejup vērstās bultiņas, iespējams ātrāk naviģēt sarakstā</string>
     <string name="pla_act_quick_seek_back_20">meklējiet atpakaļ par 20 sekundēm</string>
     <string name="pla_act_quick_seek_fwd_20">virzieties uz priekšu par 20 sekundēm</string>
     <string name="cfg_touch_control">Skārienjūtīgo zonu konfigurācija</string>
@@ -441,7 +434,6 @@
     <string name="pos_center_right">centrā pa labi</string>
     <string name="pos_center_bottom">apakšējais centrs</string>
     <string name="cfg_studio_maximize_size">Maksimālā loga izmēri</string>
-    <string name="pro_desc_try_free">Abonējot ikmēneša plānu, varat priekšskatīt augstākās klases funkcijas. Tam ir vairākas sākuma dienas bez maksas, ja vien jums jau nebija maksājumi.</string>
     <string name="cfg_auto_start_system_pip">Automātiski pārejot no sistēmas uz attēlu attēlā, pārejot no atskaņotāja uz sākuma ekrānu</string>
     <string name="pla_act_hud">parādīt atskaņotāja saskarni ar apraides informāciju</string>
     <string name="pla_act_prop_channel">kanāla rekvizīti</string>
@@ -494,7 +486,6 @@
     <string name="swipe_horizontal">horizontāli pārvelciet</string>
     <string name="expiration">Derīguma termiņš</string>
     <string name="trial_account">Izmēģinājuma konts</string>
-    <string name="premium_google_account">Visi pirkumi attiecas uz visām ierīcēm, kurām ir tas pats konts.</string>
     <string name="player_live_recent_archive">Vai atsākt nesen atskaņotu arhivētu video atskaņošanu?</string>
     <string name="player_live_recent_archive_archive">Atsākt atskaņošanu</string>
     <string name="player_live_recent_archive_live">Tiešraide</string>
@@ -746,4 +737,6 @@
     <string name="action_can_not_undo_continue">Šo darbību nevar atsaukt. Vai vēlaties turpināt?</string>
     <string name="use_same_as_in_live">Izmantojiet to pašu vērtību kā tiešraides straumēm</string>
     <string name="refresh_periodically">Periodiski atsvaidziniet</string>
+    <string name="user_guide">Lietotāja rokasgrāmata</string>
+    <string name="support_1conn_provider">Iespējot atbalstu pakalpojumu sniedzējam, kuram ir tikai viens savienojums</string>
     </resources>

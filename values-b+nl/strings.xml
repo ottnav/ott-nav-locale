@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">naam (eerst favorieten, dan alfabetisch)</string>
     <string name="settings_run_at_boot">Start de toepassing bij het opstarten van het apparaat</string>
     <string name="hint_title">Tip</string>
-    <string name="hint_long_tap">U kunt lang op het lijst-item \'klikken\' om een uitgebreide beschrijving te krijgen (indien dit van toepassing is).</string>
     <string name="hint_fav_sorting">Applicatie sorteert kanalen op kijkfrequentie. Kanalen die je als favoriet hebt gemarkeerd, staan altijd bovenaan. U kunt automatisch sorteren uitschakelen door de kanaalvolgorde van een provider in te schakelen, maar het favorietenfilter is dan niet beschikbaar.</string>
     <string name="hint_video_codecs">Als de bron slecht wordt afgespeeld, kunt u proberen bij Instellingen de buffergrootte te vergroten, naar een andere streamdecoder (hardware of software) te schakelen of, bij geen resultaat, een externe speler configureren voor het afspelen.</string>
     <string name="hint_auto_turn_off">U kunt het automatisch uitschakelen van streams configureren na een periode van inactiviteit (handig bij facturering per minuut). Inactiviteit betekent dat er afspeelacties plaatsvinden (bijvoorbeeld: bij menu, zoeken, pauze, enz.).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">Zoeken</string>
     <string name="cfg_play_action_mseek">Start het zoeken naar video\'s</string>
     <string name="menu_exit">Uitgang</string>
-    <string name="hint_try_premium_sub_free">Je kunt een abonnement een paar dagen gratis proberen en later beslissen of je het wilt gebruiken. Bekijk voor details de abonnement pakketten.</string>
     <string name="premium_fea_pre_vid">Toon geselecteerde videovoorbeeld bij de beschrijving</string>
     <string name="vp_audio_shift">Audio tijdverschuiving</string>
     <string name="vp_audio_shift_desc">Synchroniseer audio met video</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Toont alle recent bekeken video\'s die momenteel beschikbaar zijn in het filter \'Doorgaan\'</string>
     <string name="menu_swap_pip_sound">Wissel geluid tussen hoofdscherm en PiP</string>
     <string name="premium_fea_pre_vid_wp">Toestaan dat een videovoorbeeld wordt getoond tijdens het afspelen van een andere video</string>
-    <string name="hint_click_icon">Als u op het pictogram van een kanaal of groep klikt, wordt een contextmenu geopend (indien beschikbaar).</string>
-    <string name="hint_right_jump">Als u in de meeste alfabetisch gesorteerde lijsten op de rechter knop drukt, wordt een snelweergave geopend.</string>
     <string name="category_recent_channels">recent</string>
     <string name="category_all_channels">Alle kanalen</string>
     <string name="cfg_no_categories">Gebruik lijst met gewone kanalen (zonder categorieën)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Status herstellen</string>
     <string name="pro_studio">Studiomodus, waardoor meerdere streams tegelijkertijd bekeken kunnen worden</string>
     <string name="cfg_prov_channel_name">Naam provider weergeven bij kanaalnaam bij gebruikmaking van meerdere providers</string>
-    <string name="hint_long_up_down">Lang indrukken van de pijltjestoetsen omhoog en omlaag maakt sneller scrollen in de lijst mogelijk</string>
     <string name="pla_act_quick_seek_back_20">20 seconden achteruit zoeken</string>
     <string name="pla_act_quick_seek_fwd_20">20 seconden vooruit zoeken</string>
     <string name="cfg_touch_control">Aanraakzones configuratie</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">midden rechts</string>
     <string name="pos_center_bottom">midden onder</string>
     <string name="cfg_studio_maximize_size">Afmetingen van gemaximaliseerd venster</string>
-    <string name="pro_desc_try_free">U kunt premiumfuncties bekijken door u te abonneren op een maandelijks abonnement. Bij een nieuw abonnement krijgt u een proefperiode van enkele dagen.</string>
     <string name="cfg_auto_start_system_pip">Activeer automatisch de beeld-in-beeldmodus wanneer u van speler naar startscherm schakelt</string>
     <string name="pla_act_hud">toon speler interface met uitzenddetails</string>
     <string name="pla_act_prop_channel">kanaaleigenschappen</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">horizontale swipe</string>
     <string name="expiration">Vervaltijd</string>
     <string name="trial_account">Proefaccount</string>
-    <string name="premium_google_account">Alle aankopen zijn van toepassing op alle apparaten die hetzelfde account delen.</string>
     <string name="player_live_recent_archive">Hervatten van recent afgespeelde gearchiveerde video?</string>
     <string name="player_live_recent_archive_archive">Hervat afspelen</string>
     <string name="player_live_recent_archive_live">Livestream</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Deze actie kan niet ongedaan worden gemaakt, wil je doorgaan?</string>
     <string name="use_same_as_in_live">Gebruik dezelfde waarde als voor livestreams</string>
     <string name="refresh_periodically">Ververs periodiek</string>
+    <string name="user_guide">Gebruikershandleiding</string>
+    <string name="support_1conn_provider">Schakel ondersteuning in voor providers die slechts één verbinding hebben</string>
     </resources>

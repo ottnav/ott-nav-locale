@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">nama (favorit dulu, lalu menurut abjad)</string>
     <string name="settings_run_at_boot">Mulai aplikasi pada perangkat boot </string>
     <string name="hint_title">Petunjuk</string>
-    <string name="hint_long_tap">Anda dapat mengetuk daftar item untuk mendapatkan deskripsi tambahan (jika berlaku).</string>
     <string name="hint_fav_sorting">Aplikasi menyortir saluran berdasarkan frekuensi menonton. Saluran yang Anda tandai sebagai favorit akan selalu berada di atas. Anda dapat menonaktifkan pengurutan otomatis dengan mengaktifkan menggunakan urutan saluran penyedia, namun filter favorit tidak akan tersedia.</string>
     <string name="hint_video_codecs">Jika sumber diputar dengan buruk, Anda dapat mencoba meningkatkan ukuran buffer di setelan, beralih ke dekoder aliran lain (perangkat keras atau perangkat lunak), atau jika ada yang gagal, konfigurasikan untuk menggunakan pemutar eksternal untuk pemutaran.</string>
     <string name="hint_auto_turn_off">Anda dapat mengonfigurasi pematian aliran otomatis setelah beberapa waktu idle (berguna saat ditagih per menit). Idle berarti tidak ada tindakan pemain yang digunakan (misalnya: menu, pencarian, jeda, dll).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">Mencari</string>
     <string name="cfg_play_action_mseek">Memulai tampilan pencarian video</string>
     <string name="menu_exit">Keluar</string>
-    <string name="hint_try_premium_sub_free">Anda dapat mencoba berlangganan satu kali secara gratis selama beberapa hari sambil memutuskan apa saja yang akan digunakan, atau tidak. Periksa detail paket berlangganan.</string>
     <string name="premium_fea_pre_vid">Tampilkan pratinjau video yang dipilih dalam deskripsi</string>
     <string name="vp_audio_shift">Pergeseran audio</string>
     <string name="vp_audio_shift_desc">Sinkronkan audio dengan video</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Menampilkan semua video yang baru dilihat, yang saat ini tersedia di filter Lanjutkan</string>
     <string name="menu_swap_pip_sound">Tukar suara antara layar utama dan PiP</string>
     <string name="premium_fea_pre_vid_wp">Izinkan pratinjau video untuk ditampilkan saat memutar video lain</string>
-    <string name="hint_click_icon">Mengklik ikon saluran atau grup membuka menu konteks (jika tersedia).</string>
-    <string name="hint_right_jump">Menekan tombol kanan di sebagian besar daftar yang diurutkan menurut abjad akan membuka tampilan lompat cepat.</string>
     <string name="category_recent_channels">Baru</string>
     <string name="category_all_channels">Semua saluran</string>
     <string name="cfg_no_categories">Gunakan daftar saluran biasa (tanpa kategori)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Pulihkan status</string>
     <string name="pro_studio">Mode studio, memungkinkan untuk menonton beberapa streaming pada saat yang bersamaan</string>
     <string name="cfg_prov_channel_name">Tampilkan nama penyedia dalam nama saluran saat menggunakan beberapa penyedia</string>
-    <string name="hint_long_up_down">Menekan lama panah atas dan bawah memungkinkan navigasi daftar lebih cepat</string>
     <string name="pla_act_quick_seek_back_20">mencari mundur sejauh 20 detik</string>
     <string name="pla_act_quick_seek_fwd_20">maju 20 detik</string>
     <string name="cfg_touch_control">Konfigurasi zona sentuh</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">kanan tengah</string>
     <string name="pos_center_bottom">Tengah bawah</string>
     <string name="cfg_studio_maximize_size">Dimensi jendela yang dimaksimalkan</string>
-    <string name="pro_desc_try_free">Anda dapat melihat fitur premium dengan berlangganan paket bulanan. Ini memiliki beberapa hari mulai gratis kecuali Anda sudah memiliki pembayaran.</string>
     <string name="cfg_auto_start_system_pip">Secara otomatis masuk ke mode gambar-dalam-gambar sistem saat beralih dari pemutar ke layar beranda</string>
     <string name="pla_act_hud">tampilkan antarmuka pemain dengan detail siaran</string>
     <string name="pla_act_prop_channel">properti saluran</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">gesek horizontal</string>
     <string name="expiration">Kedaluwarsa</string>
     <string name="trial_account">Akun Percobaan</string>
-    <string name="premium_google_account">Semua pembelian berlaku untuk semua perangkat yang berbagi akun yang sama.</string>
     <string name="player_live_recent_archive">Lanjutkan pemutaran video arsip yang baru diputar?</string>
     <string name="player_live_recent_archive_archive">Lanjutkan pemutaran</string>
     <string name="player_live_recent_archive_live">Siaran langsung</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Tindakan ini tidak dapat diurungkan, apakah Anda ingin melanjutkan?</string>
     <string name="use_same_as_in_live">Gunakan nilai yang sama seperti untuk streaming langsung</string>
     <string name="refresh_periodically">Segarkan secara berkala</string>
+    <string name="user_guide">Panduan pengguna</string>
+    <string name="support_1conn_provider">Aktifkan dukungan untuk penyedia yang hanya memiliki satu koneksi</string>
     </resources>

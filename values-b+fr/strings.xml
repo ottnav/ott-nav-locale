@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">Lancer l\'application au démarrage du périphérique</string>
 
     <string name="hint_title">Conseils</string>
-    <string name="hint_long_tap">Vous pouvez appuyer longuement sur l\'élément de liste pour obtenir une description détaillée (le cas échéant).</string>
     <string name="hint_fav_sorting">L\'application trie les chaînes par fréquence de visionnage. Les chaînes que vous avez marquées comme favorites seront toujours en haut. Vous pouvez désactiver le tri automatique en activant l\'utilisation d\'un ordre des chaînes du fournisseur, mais le filtre de favoris ne sera pas disponible.</string>
     <string name="hint_video_codecs">Si la source à des problèmes de lecture, vous pouvez essayer d\'augmenter la taille du cache dans les paramètres, passer à un autre décodeur de flux (matériel ou logiciel) ou, en cas de défaillance, utiliser un lecteur externe pour la lecture.</string>
     <string name="hint_auto_turn_off">Vous pouvez configurer la désactivation automatique des flux après un certain temps d\'inactivité (utile lorsque le flux est facturé à la minute). Cela signifie qu\'aucune action du lecteur n\'est utilisée (par exemple: menu, recherche, pause, etc.).</string>
@@ -255,8 +254,6 @@
     <string name="btn_seek">Chercher</string>
     <string name="cfg_play_action_mseek">Démarrer la recherche de vidéo</string>
     <string name="menu_exit">Sortir</string>
-    <string name="hint_try_premium_sub_free">Vous pouvez essayer un abonnement gratuitement une fois pendant plusieurs jours en décidant de l’utiliser ou non. Vérifiez les détails des forfaits d\'abonnement.</string>
-
     <string name="premium_fea_pre_vid">Afficher l\'aperçu de la vidéo sélectionnée dans la description</string>
     <string name="vp_audio_shift">Décalage audio</string>
     <string name="vp_audio_shift_desc">Synchroniser l\'audio avec la vidéo</string>
@@ -287,8 +284,6 @@
     <string name="premium_fea_continue">Afficher toutes les vidéos récemment visionnées qui sont actuellement disponibles dans le filtre (Continuer à regarder)</string>
     <string name="menu_swap_pip_sound">Permuter le son entre l\'écran principal et le PiP</string>
     <string name="premium_fea_pre_vid_wp">Autoriser l\'affichage de l\'aperçu vidéo lors de la lecture d\'une autre vidéo</string>
-    <string name="hint_click_icon">En cliquant sur l\'icône d\'une chaîne ou d\'un groupe, un menu contextuel s\'ouvre (si disponible).</string>
-    <string name="hint_right_jump">Appuyez sur le bouton droit dans la plupart des listes triées par ordre alphabétique pour ouvrir une vue rapide.</string>
     <string name="category_recent_channels">Récent</string>
     <string name="category_all_channels">Toutes les chaînes</string>
     <string name="cfg_no_categories">Utiliser une liste de chaînes non catégorisées</string>
@@ -431,7 +426,6 @@
     <string name="restore_state">Restaurer l\'état</string>
     <string name="pro_studio">Mode Studio, permettant de regarder plusieurs flux simultanément</string>
     <string name="cfg_prov_channel_name">Afficher le nom du fournisseur dans le nom du canal lors de l’utilisation de plusieurs fournisseurs</string>
-    <string name="hint_long_up_down">Un appui long sur les flèches haut et bas permet une navigation plus rapide dans la liste</string>
     <string name="pla_act_quick_seek_back_20">Rechercher en arrière de 20 secondes</string>
     <string name="pla_act_quick_seek_fwd_20">Rechercher en avant de 20 secondes</string>
     <string name="cfg_touch_control">Configuration des zones tactiles</string>
@@ -442,7 +436,6 @@
     <string name="pos_center_right">Au centre à droite</string>
     <string name="pos_center_bottom">Au centre en bas</string>
     <string name="cfg_studio_maximize_size">Dimensions de la fenêtre maximisée</string>
-    <string name="pro_desc_try_free">Vous pouvez prévisualiser les fonctionnalités premium en vous inscrivant au forfait mensuel. Il y a plusieurs jours gratuits sauf si vous avez déjà eu des paiements.</string>
     <string name="cfg_auto_start_system_pip">Entrer automatiquement en mode image dans l\'image du système lors du passage du lecteur à l\'écran d\'accueil</string>
     <string name="pla_act_hud">Afficher l\'interface du lecteur avec les détails de diffusion</string>
     <string name="pla_act_prop_channel">Propriétés de la chaîne</string>
@@ -495,7 +488,6 @@
     <string name="swipe_horizontal">Balayage horizontal</string>
     <string name="expiration">Expiration</string>
     <string name="trial_account">Compte d\'essai</string>
-    <string name="premium_google_account">Tous les achats s\'appliquent à tous les appareils partageant le même compte.</string>
     <string name="player_live_recent_archive">Reprendre la lecture de la vidéo archivée récemment lue?</string>
     <string name="player_live_recent_archive_archive">Reprendre la lecture</string>
     <string name="player_live_recent_archive_live">Flux en direct</string>
@@ -747,4 +739,6 @@
     <string name="action_can_not_undo_continue">Cette action est irréversible, souhaitez-vous continuer?</string>
     <string name="use_same_as_in_live">Utiliser la même valeur que pour les flux en direct</string>
     <string name="refresh_periodically">Actualiser périodiquement</string>
+    <string name="user_guide">Mode d\'emploi</string>
+    <string name="support_1conn_provider">Activer la prise en charge du fournisseur qui n\'a qu\'une seule connexion</string>
     </resources>

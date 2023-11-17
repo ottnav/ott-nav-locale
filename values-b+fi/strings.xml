@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">nimi (suosikit ensin, sitten aakkosjärjestyksessä)</string>
     <string name="settings_run_at_boot">Käynnistä sovellus laitteen käynnistyksessä</string>
     <string name="hint_title">Vihje</string>
-    <string name="hint_long_tap">Voit napauttaa pitkään luettelokohdetta saadaksesi laajemman kuvauksen (jos mahdollista).</string>
     <string name="hint_fav_sorting">Sovellus lajittelee kanavat katselutaajuuden mukaan. Suosikeiksi merkitsemäsi kanavat ovat aina ylhäällä. Voit poistaa automaattisen lajittelun käytöstä ottamalla käyttöön palveluntarjoajan kanavajärjestyksen, mutta suosikkisuodatin ei ole käytettävissä.</string>
     <string name="hint_video_codecs">Jos lähde toistaa huonosti, voit yrittää lisätä puskurin kokoa asetuksissa, vaihtaa toiseen stream-dekooderiin (laitteistoon tai ohjelmistoon) tai jos jokin epäonnistuu, määritä käyttämään ulkoista soitinta toistoon.</string>
     <string name="hint_auto_turn_off">Voit määrittää automaattisen virran katkeamisen jonkin joutoajan jälkeen (hyödyllinen, kun laskutetaan minuuttia). Idle tarkoittaa, että pelaajan toimintoja ei käytetä (esimerkiksi: valikko, haku, tauko jne.).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">Etsi</string>
     <string name="cfg_play_action_mseek">Aloittaa videon etsimisen</string>
     <string name="menu_exit">Poistu</string>
-    <string name="hint_try_premium_sub_free">Voit kokeilla tilausta kerran ilmaiseksi useiden päivien ajan samalla kun päätät, mitä haluat käyttää vai ei. Tarkista tilauspakettien tiedot.</string>
     <string name="premium_fea_pre_vid">Näytä valitun videon esikatselu kuvauksessa</string>
     <string name="vp_audio_shift">Äänen vaihto</string>
     <string name="vp_audio_shift_desc">Synkronoi ääni videon kanssa</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Näyttää kaikki äskettäin katsotut videot, jotka ovat tällä hetkellä saatavilla Jatka-suodattimessa</string>
     <string name="menu_swap_pip_sound">Vaihda ääntä päänäytön ja PiP:n välillä</string>
     <string name="premium_fea_pre_vid_wp">Salli videon esikatselun näyttäminen toistaessasi toista videota</string>
-    <string name="hint_click_icon">Kanavan tai ryhmän kuvakkeen napsauttaminen avaa kontekstivalikon (jos saatavilla).</string>
-    <string name="hint_right_jump">Oikean painikkeen painaminen useimmissa aakkosjärjestyksessä järjestetyissä luetteloissa avaa nopean hyppynäkymän.</string>
     <string name="category_recent_channels">Viimeaikaiset</string>
     <string name="category_all_channels">Kaikki kanavat</string>
     <string name="cfg_no_categories">Käytä tavallista kanavaluetteloa (ilman luokkia)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Palauta tila</string>
     <string name="pro_studio">Studiotila, joka mahdollistaa useiden suoratoistojen katselun samanaikaisesti</string>
     <string name="cfg_prov_channel_name">Näytä palveluntarjoajan nimi kanavan nimessä, kun käytät useita palveluntarjoajia</string>
-    <string name="hint_long_up_down">Ylös- ja alanuolinäppäimien pitkä painallus nopeuttaa luettelossa liikkumista</string>
     <string name="pla_act_quick_seek_back_20">hakea taaksepäin 20 sekuntia</string>
     <string name="pla_act_quick_seek_fwd_20">siirry eteenpäin 20 sekuntia</string>
     <string name="cfg_touch_control">Kosketusvyöhykkeiden määritys</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">keskellä oikealla</string>
     <string name="pos_center_bottom">alhaalla keskellä</string>
     <string name="cfg_studio_maximize_size">Maksimoidun ikkunan mitat</string>
-    <string name="pro_desc_try_free">Voit esikatsella premium-ominaisuuksia tilaamalla kuukausitilauksen. Siinä on useita ilmaisia alkamispäiviä, ellei sinulla ole jo maksuja.</string>
     <string name="cfg_auto_start_system_pip">Siirry automaattisesti järjestelmän kuva kuvassa -tilaan, kun vaihdat soittimesta aloitusnäyttöön</string>
     <string name="pla_act_hud">näytä soittimen käyttöliittymä lähetystiedoilla</string>
     <string name="pla_act_prop_channel">kanavan ominaisuudet</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">vaakasuora pyyhkäisy</string>
     <string name="expiration">Vanheneminen</string>
     <string name="trial_account">Kokeilutili</string>
-    <string name="premium_google_account">Kaikki ostokset koskevat kaikkia laitteita, jotka jakavat saman tilin.</string>
     <string name="player_live_recent_archive">Jatketaanko äskettäin toistetun arkistoidun videon toistoa?</string>
     <string name="player_live_recent_archive_archive">Jatka toistoa</string>
     <string name="player_live_recent_archive_live">Suora lähetys</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Tätä toimintoa ei voi kumota. Haluatko jatkaa?</string>
     <string name="use_same_as_in_live">Käytä samaa arvoa kuin livelähetyksissä</string>
     <string name="refresh_periodically">Päivitä säännöllisesti</string>
+    <string name="user_guide">Käyttöohjeet</string>
+    <string name="support_1conn_provider">Ota käyttöön tuki palveluntarjoajalle, jolla on vain yksi yhteys</string>
     </resources>

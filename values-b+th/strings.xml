@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">ชื่อ (รายการโปรดก่อน แล้วจึงเรียงตามตัวอักษร)</string>
     <string name="settings_run_at_boot">เริ่มแอปพลิเคชันในการบู๊ตอุปกรณ์</string>
     <string name="hint_title">คำใบ้</string>
-    <string name="hint_long_tap">คุณสามารถแตะรายการยาวเพื่อรับคำอธิบายเพิ่มเติม (ถ้ามี)</string>
     <string name="hint_fav_sorting">แอปพลิเคชั่นจัดเรียงช่องตามความถี่ในการรับชม ช่องที่คุณทำเครื่องหมายว่าเป็นรายการโปรดจะอยู่ด้านบนสุดเสมอ คุณสามารถปิดใช้งานการเรียงลำดับอัตโนมัติได้โดยการเปิดใช้งานโดยใช้ลำดับช่องสัญญาณของผู้ให้บริการ อย่างไรก็ตาม ตัวกรองรายการโปรดจะไม่สามารถใช้ได้</string>
     <string name="hint_video_codecs">หากแหล่งที่มาเล่นได้ไม่ดี คุณสามารถลองเพิ่มขนาดบัฟเฟอร์ในการตั้งค่า เปลี่ยนไปใช้ตัวถอดรหัสสตรีมอื่น (ฮาร์ดแวร์หรือซอฟต์แวร์) หรือหากมีสิ่งใดล้มเหลว ให้กำหนดค่าให้ใช้เครื่องเล่นภายนอกสำหรับการเล่น</string>
     <string name="hint_auto_turn_off">คุณสามารถกำหนดค่าการปิดการสตรีมอัตโนมัติหลังจากช่วงเวลาที่ไม่ได้ใช้งาน (มีประโยชน์เมื่อเรียกเก็บเงินเป็นรายนาที) ไม่ได้ใช้งานหมายถึงไม่มีการดำเนินการใดๆ ของผู้เล่น (เช่น เมนู การค้นหา การหยุดชั่วคราว ฯลฯ)</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">แสวงหา</string>
     <string name="cfg_play_action_mseek">เริ่มวิดีโอที่ต้องการมุมมอง</string>
     <string name="menu_exit">ทางออก</string>
-    <string name="hint_try_premium_sub_free">คุณสามารถลองสมัครสมาชิกได้ฟรีเป็นเวลาหลายวันในขณะที่ตัดสินใจว่าจะใช้หรือไม่ใช้ ตรวจสอบรายละเอียดการสมัครแพ็กเกจ</string>
     <string name="premium_fea_pre_vid">แสดงตัวอย่างวิดีโอที่เลือกในคำอธิบาย</string>
     <string name="vp_audio_shift">การเปลี่ยนเสียง</string>
     <string name="vp_audio_shift_desc">ซิงค์เสียงกับวิดีโอ</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">แสดงวิดีโอที่ดูล่าสุดทั้งหมดที่มีอยู่ในตัวกรองดำเนินการต่อ</string>
     <string name="menu_swap_pip_sound">สลับเสียงระหว่างหน้าจอหลักและ PiP</string>
     <string name="premium_fea_pre_vid_wp">อนุญาตให้แสดงตัวอย่างวิดีโอในขณะที่เล่นวิดีโออื่น</string>
-    <string name="hint_click_icon">การคลิกที่ไอคอนของช่องหรือกลุ่มจะเปิดเมนูตามบริบท (ถ้ามี)</string>
-    <string name="hint_right_jump">การกดปุ่มขวาในรายการที่เรียงตามตัวอักษรส่วนใหญ่จะเป็นการเปิดมุมมองแบบข้ามอย่างรวดเร็ว</string>
     <string name="category_recent_channels">ล่าสุด</string>
     <string name="category_all_channels">ทุกช่องทาง</string>
     <string name="cfg_no_categories">ใช้รายการช่องธรรมดา (ไม่มีหมวดหมู่)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">คืนค่าสถานะ</string>
     <string name="pro_studio">โหมดสตูดิโอ ช่วยให้สามารถรับชมสตรีมหลายรายการพร้อมกันได้</string>
     <string name="cfg_prov_channel_name">แสดงชื่อผู้ให้บริการในชื่อช่องเมื่อใช้ผู้ให้บริการหลายราย</string>
-    <string name="hint_long_up_down">การกดลูกศรขึ้นและลงแบบยาวช่วยให้การนำทางรายการเร็วขึ้น</string>
     <string name="pla_act_quick_seek_back_20">ถอยหลัง 20 วินาที</string>
     <string name="pla_act_quick_seek_fwd_20">เลื่อนไปข้างหน้า 20 วินาที</string>
     <string name="cfg_touch_control">การกำหนดค่าโซนสัมผัส</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">ตรงกลางขวา</string>
     <string name="pos_center_bottom">ศูนย์ด้านล่าง</string>
     <string name="cfg_studio_maximize_size">ขนาดของหน้าต่างที่ขยายใหญ่สุด</string>
-    <string name="pro_desc_try_free">คุณสามารถดูคุณสมบัติพรีเมียมได้โดยสมัครแผนรายเดือน มีหลายวันเริ่มต้นฟรี เว้นแต่คุณจะมีการชำระเงินแล้ว</string>
     <string name="cfg_auto_start_system_pip">เข้าสู่โหมดภาพซ้อนภาพของระบบโดยอัตโนมัติเมื่อเปลี่ยนจากเครื่องเล่นเป็นหน้าจอหลัก</string>
     <string name="pla_act_hud">แสดงอินเทอร์เฟซผู้เล่นพร้อมรายละเอียดการออกอากาศ</string>
     <string name="pla_act_prop_channel">คุณสมบัติของช่อง</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">รูดแนวนอน</string>
     <string name="expiration">หมดอายุ</string>
     <string name="trial_account">บัญชีทดลอง</string>
-    <string name="premium_google_account">การซื้อทั้งหมดใช้กับอุปกรณ์ทั้งหมดที่ใช้บัญชีเดียวกัน</string>
     <string name="player_live_recent_archive">เล่นวิดีโอที่เก็บถาวรที่เพิ่งเล่นต่อไหม</string>
     <string name="player_live_recent_archive_archive">เล่นต่อ</string>
     <string name="player_live_recent_archive_live">สตรีมสด</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">การดำเนินการนี้ไม่สามารถเลิกทำได้ คุณต้องการดำเนินการต่อหรือไม่</string>
     <string name="use_same_as_in_live">ใช้ค่าเดียวกับสตรีมแบบสด</string>
     <string name="refresh_periodically">รีเฟรชเป็นระยะ</string>
+    <string name="user_guide">คู่มือผู้ใช้</string>
+    <string name="support_1conn_provider">เปิดใช้งานการสนับสนุนสำหรับผู้ให้บริการที่มีการเชื่อมต่อเพียงจุดเดียว</string>
     </resources>

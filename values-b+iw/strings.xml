@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">הפעל את היישום על אתחול המכשיר</string>
 
     <string name="hint_title">רֶמֶז</string>
-    <string name="hint_long_tap">תוכל להקיש על פריט רשימה ארוכה כדי לקבל תיאור מורחב (אם קיים).</string>
     <string name="hint_fav_sorting">היישום ממיין ערוצים לפי תדירות השעון. ערוצים שסימנת כחובבים יהיו תמיד בחלק העליון. תוכל להשבית את המיון האוטומטי על ידי הפעלת הזמנה לערוץ ספק, אך המסנן \'מועדפים\' לא יהיה זמין.</string>
     <string name="hint_video_codecs">אם המקור פועל בצורה גרועה, באפשרותך לנסות להגדיל את גודל המאגר בהגדרות, לעבור למפענח זרם אחר (חומרה או תוכנה), או אם משהו נכשל, הגדר להשתמש בנגן חיצוני להפעלה.</string>
     <string name="hint_auto_turn_off">אתה יכול להגדיר זרם אוטומטי כיבוי לאחר זמן סרק (שימושי כאשר מחויב לדקה). לא פעיל פירושו לא פעולות השחקן המשמש (למשל: תפריט, חיפוש, הפסקה, וכו \').</string>
@@ -255,8 +254,6 @@
     <string name="btn_seek">חפשו</string>
     <string name="cfg_play_action_mseek">הפעלת תצוגת חיפוש וידאו</string>
     <string name="menu_exit">צא</string>
-    <string name="hint_try_premium_sub_free">אתה יכול לנסות מנוי פעם אחת בחינם במשך כמה ימים בעת מחליט מה להשתמש בו, או לא. בדוק את פרטי חבילות המנוי.</string>
-
     <string name="premium_fea_pre_vid">הצג את התצוגה המקדימה של הסרטון שנבחר בתיאור</string>
     <string name="vp_audio_shift">שינוי שמע</string>
     <string name="vp_audio_shift_desc">סנכרן אודיו עם וידאו</string>
@@ -287,8 +284,6 @@
     <string name="premium_fea_continue">מציג את כל הסרטונים שנצפו לאחרונה, הזמינים כעת במסנן המשך</string>
     <string name="menu_swap_pip_sound">החלפת קול בין המסך הראשי ו- PiP</string>
     <string name="premium_fea_pre_vid_wp">אפשר להציג את התצוגה המקדימה של הסרטון בעת הפעלת סרטון אחר</string>
-    <string name="hint_click_icon">לחיצה על הסמל של ערוץ או קבוצה פותחת תפריט תלויי הקשר (אם זמין).</string>
-    <string name="hint_right_jump">לחיצה על הלחצן הימני ברוב הרשימות הממוינות לפי סדר אלפביתי פותחת תצוגת קפיצה מהירה.</string>
     <string name="category_recent_channels">לאחרונה</string>
     <string name="category_all_channels">כל הערוצים</string>
     <string name="cfg_no_categories">השתמש ברשימת ערוצים רגילה (ללא קטגוריות)</string>
@@ -431,7 +426,6 @@
     <string name="restore_state">שחזר מצב</string>
     <string name="pro_studio">מצב סטודיו, מאפשר לצפות בזרמים מרובים בו זמנית</string>
     <string name="cfg_prov_channel_name">הצג שם ספק בשם הערוץ בעת שימוש במספר ספקים</string>
-    <string name="hint_long_up_down">לחיצה ארוכה על חיצים למעלה ולמטה מאפשרת ניווט מהיר יותר ברשימה</string>
     <string name="pla_act_quick_seek_back_20">חפש אחורה ב 20 שניות</string>
     <string name="pla_act_quick_seek_fwd_20">לחפש קדימה ב 20 שניות</string>
     <string name="cfg_touch_control">תצורת אזורי מגע</string>
@@ -442,7 +436,6 @@
     <string name="pos_center_right">מרכז ימין</string>
     <string name="pos_center_bottom">מרכז תחתון</string>
     <string name="cfg_studio_maximize_size">מידות החלון המקסימלי</string>
-    <string name="pro_desc_try_free">ניתן להציג תצוגה מקדימה של תכונות פרימיום על ידי הרשמה לתכנית חודשית. יש לו מספר ימי התחלה בחינם אלא אם כן היו לך כבר תשלומים.</string>
     <string name="cfg_auto_start_system_pip">כניסה אוטומטית למצב תמונה בתמונה במערכת בעת מעבר מנגן למסך הבית</string>
     <string name="pla_act_hud">הצג ממשק נגן עם פרטי שידור</string>
     <string name="pla_act_prop_channel">נכסי ערוץ</string>
@@ -495,7 +488,6 @@
     <string name="swipe_horizontal">החלק אופקי</string>
     <string name="expiration">תפוגה</string>
     <string name="trial_account">חשבון ניסיון</string>
-    <string name="premium_google_account">כל הרכישות חלות על כל המכשירים החולקים אותו חשבון.</string>
     <string name="player_live_recent_archive">להמשיך את ההפעלה של וידיאו שהועבר לאחרונה בארכיון?</string>
     <string name="player_live_recent_archive_archive">המשך את ההפעלה</string>
     <string name="player_live_recent_archive_live">שידור חי</string>
@@ -747,4 +739,6 @@
     <string name="action_can_not_undo_continue">ךישמהל ךנוצרב םאה ,וזה הלועפה תא לטבל ןתינ אל?</string>
     <string name="use_same_as_in_live">םייח םירודיש רובע ומכ ךרע ותואב שמתשה</string>
     <string name="refresh_periodically">תעל תעמ ןנער</string>
+    <string name="user_guide">שמתשמל ךירדמ</string>
+    <string name="support_1conn_provider">דיחי רוביח קר ול שיש קפסל הכימת רשפא</string>
     </resources>

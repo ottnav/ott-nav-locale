@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">장치 부팅시 응용 프로그램 시작</string>
 
     <string name="hint_title">힌트</string>
-    <string name="hint_long_tap">목록 항목을 길게 누르면 설명이 확장됩니다 (해당되는 경우).</string>
     <string name="hint_fav_sorting">응용 프로그램은 시계 주파수로 채널을 정렬합니다. 즐겨 찾기로 표시 한 채널은 항상 맨 위에 표시됩니다. 즐겨 찾기 필터를 사용할 수 없지만 공급자 채널 순서를 사용하여 자동 정렬을 사용하지 않도록 설정할 수 있습니다.</string>
     <string name="hint_video_codecs">소스가 잘못 재생되는 경우 설정에서 버퍼 크기를 늘리거나 다른 스트림 디코더 (하드웨어 또는 소프트웨어)로 전환하거나 실패 할 경우 재생을 위해 외부 플레이어를 사용하도록 구성 할 수 있습니다.</string>
     <string name="hint_auto_turn_off">유휴 시간이 지난 후 자동 스트림 전환을 구성 할 수 있습니다 (분당 요금 청구시 유용함). 유휴 상태는 플레이어 동작이 사용되지 않음을 의미합니다 (예 : 메뉴, 찾기, 일시 중지 등).</string>
@@ -257,8 +256,6 @@
     <string name="btn_seek">목표물 탐색</string>
     <string name="cfg_play_action_mseek">비디오 조회를 시작합니다.</string>
     <string name="menu_exit">출구</string>
-    <string name="hint_try_premium_sub_free">며칠 동안 무료로 구독을 시도 할 수 있으며, 사용 여부는 무엇이든 결정할 수 있습니다. 구독 패키지의 세부 정보를 확인하십시오.</string>
-
     <string name="premium_fea_pre_vid">설명에 선택한 비디오 미리보기 표시</string>
     <string name="vp_audio_shift">오디오 시프트</string>
     <string name="vp_audio_shift_desc">비디오와 오디오 동기화</string>
@@ -289,8 +286,6 @@
     <string name="premium_fea_continue">최근에 본 모든 동영상을 표시합니다. 현재 계속 필터에서 사용할 수 있습니다.</string>
     <string name="menu_swap_pip_sound">메인 화면과 픽처 인 픽처 사이의 사운드 스왑</string>
     <string name="premium_fea_pre_vid_wp">다른 동영상을 재생하는 동안 동영상 미리보기를 허용합니다.</string>
-    <string name="hint_click_icon">채널 또는 그룹의 아이콘을 클릭하면 상황에 맞는 메뉴 (사용 가능한 경우)가 열립니다.</string>
-    <string name="hint_right_jump">알파벳 순으로 정렬 된 목록에서 오른쪽 버튼을 누르면 빠른 점프보기가 열립니다.</string>
     <string name="category_recent_channels">충적세</string>
     <string name="category_all_channels">모든 채널</string>
     <string name="cfg_no_categories">일반 채널 목록 사용 (카테고리 없음)</string>
@@ -434,7 +429,6 @@
     <string name="restore_state">복원 상태</string>
 <string name="pro_studio">동시에 여러 스트림을 볼 수있는 스튜디오 모드</string>
     <string name="cfg_prov_channel_name">여러 공급자를 사용할 때 채널 이름에 공급자 이름 표시</string>
-    <string name="hint_long_up_down">위쪽 및 아래쪽 화살표를 길게 누르면 더 빠른 목록 탐색이 가능합니다</string>
     <string name="pla_act_quick_seek_back_20">20 초 뒤로 탐색</string>
     <string name="pla_act_quick_seek_fwd_20">20 초 앞으로 탐색</string>
     <string name="cfg_touch_control">터치 존 구성</string>
@@ -445,7 +439,6 @@
     <string name="pos_center_right">중앙 오른쪽</string>
     <string name="pos_center_bottom">하단 중앙</string>
     <string name="cfg_studio_maximize_size">최대화 된 창의 치수</string>
-    <string name="pro_desc_try_free">월간 요금제를 구독하면 프리미엄 기능을 미리 볼 수 있습니다. 이미 지불하지 않은 경우 시작일이 무료입니다.</string>
     <string name="cfg_auto_start_system_pip">플레이어에서 홈 화면으로 전환 할 때 시스템 PIP 모드로 자동 전환</string>
     <string name="pla_act_hud">방송 세부 정보가있는 플레이어 인터페이스 표시</string>
     <string name="pla_act_prop_channel">채널 속성</string>
@@ -498,7 +491,6 @@
     <string name="swipe_horizontal">가로 스 와이프</string>
     <string name="expiration">만료</string>
     <string name="trial_account">평가판 계정</string>
-    <string name="premium_google_account">모든 구매는 동일한 계정을 공유하는 모든 장치에 적용됩니다.</string>
     <string name="player_live_recent_archive">최근에 재생 한 보관 비디오의 재생을 재개 하시겠습니까?</string>
     <string name="player_live_recent_archive_archive">재생 재개</string>
     <string name="player_live_recent_archive_live">라이브 스트림</string>
@@ -750,4 +742,6 @@
     <string name="action_can_not_undo_continue">이 작업은 취소할 수 없습니다. 계속하시겠습니까?</string>
     <string name="use_same_as_in_live">라이브 스트림과 동일한 값 사용</string>
     <string name="refresh_periodically">주기적으로 새로 고침</string>
+    <string name="user_guide">사용자 설명서</string>
+    <string name="support_1conn_provider">단일 연결만 있는 공급자에 대한 지원 활성화</string>
     </resources>

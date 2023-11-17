@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">სახელი (ჯერ რჩეულები, შემდეგ ანბანურად)</string>
     <string name="settings_run_at_boot">დაიწყეთ აპლიკაცია მოწყობილობის ჩატვირთვისას</string>
     <string name="hint_title">მინიშნება</string>
-    <string name="hint_long_tap">შეგიძლიათ დიდხანს შეეხოთ სიის ერთეულს გაფართოებული აღწერილობის მისაღებად (თუ ეს შესაძლებელია).</string>
     <string name="hint_fav_sorting">აპლიკაცია ახარისხებს არხებს ყურების სიხშირის მიხედვით. თქვენ მიერ მონიშნული არხები ყოველთვის ზედა ნაწილში იქნება. შეგიძლიათ გამორთოთ ავტომატური დახარისხება პროვაიდერის არხის შეკვეთის ჩართვით, თუმცა ფავორიტების ფილტრი არ იქნება ხელმისაწვდომი.</string>
     <string name="hint_video_codecs">თუ წყარო ცუდად უკრავს, შეგიძლიათ სცადოთ ბუფერის ზომის გაზრდა პარამეტრებში, გადახვიდეთ ნაკადის სხვა დეკოდერზე (აპარატურა ან პროგრამული უზრუნველყოფა), ან თუ რამე ვერ მოხერხდა, დააკონფიგურიროთ გარე პლეერის გამოსაყენებლად დასაკრავად.</string>
     <string name="hint_auto_turn_off">თქვენ შეგიძლიათ დააკონფიგურიროთ ნაკადის ავტომატური გამორთვა გარკვეული დროის გასვლის შემდეგ (სასარგებლოა, როდესაც ბილინგი ხდება წუთში). უმოქმედო ნიშნავს არ არის გამოყენებული მოთამაშის ქმედებები (მაგალითად: მენიუ, ძიება, პაუზა და ა.შ.).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">ეძიე</string>
     <string name="cfg_play_action_mseek">იწყებს ვიდეოს ძებნას</string>
     <string name="menu_exit">გასვლა</string>
-    <string name="hint_try_premium_sub_free">შეგიძლიათ სცადოთ ხელმოწერა ერთხელ უფასოდ რამდენიმე დღის განმავლობაში, სანამ გადაწყვიტეთ რა გამოიყენოთ იგი, თუ არა. შეამოწმეთ სააბონენტო პაკეტების დეტალები.</string>
     <string name="premium_fea_pre_vid">არჩეული ვიდეოს გადახედვის ჩვენება აღწერილობაში</string>
     <string name="vp_audio_shift">აუდიო ცვლა</string>
     <string name="vp_audio_shift_desc">აუდიოს სინქრონიზაცია ვიდეოსთან</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">აჩვენებს ყველა ახლახან ნანახ ვიდეოს, რომლებიც ამჟამად ხელმისაწვდომია Continue ფილტრში</string>
     <string name="menu_swap_pip_sound">შეცვალეთ ხმა მთავარ ეკრანსა და PiP-ს შორის</string>
     <string name="premium_fea_pre_vid_wp">დაუშვით ვიდეოს გადახედვის ჩვენება სხვა ვიდეოს დაკვრის დროს</string>
-    <string name="hint_click_icon">არხის ან ჯგუფის ხატულაზე დაწკაპუნებით იხსნება კონტექსტური მენიუ (თუ ეს შესაძლებელია).</string>
-    <string name="hint_right_jump">ანბანურად დალაგებულ სიებში მარჯვენა ღილაკის დაჭერით იხსნება სწრაფი გადახტომა.</string>
     <string name="category_recent_channels">Ბოლო</string>
     <string name="category_all_channels">ყველა არხი</string>
     <string name="cfg_no_categories">გამოიყენეთ მარტივი არხების სია (კატეგორიების გარეშე)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">მდგომარეობის აღდგენა</string>
     <string name="pro_studio">სტუდიის რეჟიმი, რომელიც საშუალებას გაძლევთ უყუროთ რამდენიმე ნაკადს ერთდროულად</string>
     <string name="cfg_prov_channel_name">პროვაიდერის სახელის ჩვენება არხის სახელში მრავალი პროვაიდერის გამოყენებისას</string>
-    <string name="hint_long_up_down">ისრების ზევით და ქვევით ხანგრძლივად დაჭერა სიის უფრო სწრაფ ნავიგაციას იძლევა</string>
     <string name="pla_act_quick_seek_back_20">იძიეთ უკან 20 წამით</string>
     <string name="pla_act_quick_seek_fwd_20">წინსვლა 20 წამით</string>
     <string name="cfg_touch_control">შეხების ზონების კონფიგურაცია</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">ცენტრი მარჯვნივ</string>
     <string name="pos_center_bottom">ქვედა ცენტრი</string>
     <string name="cfg_studio_maximize_size">მაქსიმალური ფანჯრის ზომები</string>
-    <string name="pro_desc_try_free">შეგიძლიათ გადახედოთ პრემიუმ ფუნქციებს ყოველთვიური გეგმის გამოწერით. მას აქვს რამდენიმე საწყისი დღე უფასოდ, თუ უკვე არ გქონდათ გადახდები.</string>
     <string name="cfg_auto_start_system_pip">ავტომატურად შედით სისტემის სურათის სურათში რეჟიმში გადართვისას მოთამაშიდან მთავარ ეკრანზე</string>
     <string name="pla_act_hud">მოთამაშის ინტერფეისის ჩვენება სამაუწყებლო დეტალებით</string>
     <string name="pla_act_prop_channel">არხის თვისებები</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">ჰორიზონტალური დარტყმა</string>
     <string name="expiration">ვადის გასვლა</string>
     <string name="trial_account">საცდელი ანგარიში</string>
-    <string name="premium_google_account">ყველა შესყიდვა ვრცელდება ყველა მოწყობილობაზე, რომელსაც აქვს იგივე ანგარიში.</string>
     <string name="player_live_recent_archive">განახლდეს ახლახანს ნათამაშები დაარქივებული ვიდეოს დაკვრა?</string>
     <string name="player_live_recent_archive_archive">განაახლეთ დაკვრა</string>
     <string name="player_live_recent_archive_live">Პირდაპირი ეთერი</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">ამ მოქმედების გაუქმება შეუძლებელია, გსურთ გაგრძელება?</string>
     <string name="use_same_as_in_live">გამოიყენეთ იგივე მნიშვნელობა, რაც პირდაპირი სტრიმინგებისთვის</string>
     <string name="refresh_periodically">პერიოდულად განაახლეთ</string>
+    <string name="user_guide">Მომხმარებლის სახელმძღვანელო</string>
+    <string name="support_1conn_provider">ჩართეთ მხარდაჭერა პროვაიდერისთვის, რომელსაც აქვს მხოლოდ ერთი კავშირი</string>
     </resources>

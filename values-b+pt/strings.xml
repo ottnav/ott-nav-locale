@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">Executar o aplicativo na inicialização do dispositivo</string>
 
     <string name="hint_title">Sugestão</string>
-    <string name="hint_long_tap">Você pode segurar o toque no item da lista para obter uma descrição detalhada (se aplicável).</string>
     <string name="hint_fav_sorting">A aplicação classifica os canais por freqüência de exibição. Os canais marcados como favoritos estarão sempre no topo. Você pode desativar a classificação automática habilitando o uso da ordenação de canal do provedor, no entanto, o filtro de favoritos não estará disponível.</string>
     <string name="hint_video_codecs">Se a fonte estiver com problemas de execução, você pode tentar aumentar o tamanho do buffer nas configurações, mudar para outro decodificador de transmissão (hardware ou software), ou, se algo falhar, configure o uso de um player externo para reprodução.</string>
     <string name="hint_auto_turn_off">Você pode configurar o desligamento automático da transmissão após algum tempo de ociosidade (útil quando faturado por minuto). Ociosidade significa que nenhuma ação do player foi utilizada (por exemplo: menu, busca, pausa, etc).</string>
@@ -255,8 +254,6 @@
     <string name="btn_seek">Navegar</string>
     <string name="cfg_play_action_mseek">Inicia a visualização de navegação no vídeo</string>
     <string name="menu_exit">Sair</string>
-    <string name="hint_try_premium_sub_free">Você pode experimentar uma assinatura gratuita por vários dias enquanto decide o que quer ou não utilizar. Verifique os detalhes dos pacotes de assinatura.</string>
-
     <string name="premium_fea_pre_vid">Exibir pré-visualização do vídeo selecionado na descrição</string>
     <string name="vp_audio_shift">Ajuste do áudio</string>
     <string name="vp_audio_shift_desc">Sincronizar áudio e vídeo</string>
@@ -287,8 +284,6 @@
     <string name="premium_fea_continue">Exibir todos os vídeos visualizados recentemente, que estão atualmente disponíveis no filtro Continuar</string>
     <string name="menu_swap_pip_sound">Alternar o som entre a tela principal e o PiP (Picture-in-Picture)</string>
     <string name="premium_fea_pre_vid_wp">Permitir que a visualização do vídeo seja exibida durante a reprodução de outro vídeo</string>
-    <string name="hint_click_icon">Pressionando o ícone de um canal ou grupo um menu de contexto é aberto (se disponível).</string>
-    <string name="hint_right_jump">Pressionar o botão direito na maioria das listas classificadas alfabeticamente abre uma exibição de salto rápido.</string>
     <string name="category_recent_channels">Recente</string>
     <string name="category_all_channels">Todos os canais</string>
     <string name="cfg_no_categories">Utilizar lista de canais simples (sem categorias)</string>
@@ -431,7 +426,6 @@
     <string name="restore_state">Restaurar posição</string>
     <string name="pro_studio">Modo estúdio, permitindo assistir várias transmissões ao mesmo tempo</string>
     <string name="cfg_prov_channel_name">Exibir o nome do provedor no nome do canal ao utilizar vários provedores</string>
-    <string name="hint_long_up_down">Pressionar continuamente as setas para cima e para baixo permitem navegação mais rápida nas listas</string>
     <string name="pla_act_quick_seek_back_20">retroceder 20 segundos</string>
     <string name="pla_act_quick_seek_fwd_20">avançar 20 segundos</string>
     <string name="cfg_touch_control">Configuração das áreas de toque</string>
@@ -442,7 +436,6 @@
     <string name="pos_center_right">centralizado à direita</string>
     <string name="pos_center_bottom">inferior centralizado</string>
     <string name="cfg_studio_maximize_size">Dimensões da janela maximizada</string>
-    <string name="pro_desc_try_free">Você pode visualizar os recursos premium assinando o plano mensal. Ele tem vários dias iniciais grátis, a menos que você já tenha efetuado pagamentos.</string>
     <string name="cfg_auto_start_system_pip">Entrar automaticamente no modo PiP (Picture-in-Picture) do sistema ao alternar do player para a tela inicial</string>
     <string name="pla_act_hud">mostre a interface do player com detalhes da transmissão</string>
     <string name="pla_act_prop_channel">propriedades do canal</string>
@@ -495,7 +488,6 @@
     <string name="swipe_horizontal">deslizar na horizontal</string>
     <string name="expiration">Expiração</string>
     <string name="trial_account">Conta de teste</string>
-    <string name="premium_google_account">todas as compras se aplicam a todos os dispositivos que compartilham a mesma conta.</string>
     <string name="player_live_recent_archive">Continuar a reprodução do vídeo gravado reproduzido recentemente?</string>
     <string name="player_live_recent_archive_archive">Continuar a reprodução</string>
     <string name="player_live_recent_archive_live">Transmissão ao vivo</string>
@@ -747,4 +739,6 @@
     <string name="action_can_not_undo_continue">Esta ação não pode ser desfeita, deseja continuar?</string>
     <string name="use_same_as_in_live">Use o mesmo valor para transmissões ao vivo</string>
     <string name="refresh_periodically">Atualizar periodicamente</string>
+    <string name="user_guide">Guia de usuario</string>
+    <string name="support_1conn_provider">Habilitar suporte para provedor que possui apenas uma conexão</string>
     </resources>

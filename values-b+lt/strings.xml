@@ -93,7 +93,6 @@
     <string name="settings_run_at_boot">Paleisti programą įjungiant įrenginį</string>
 
     <string name="hint_title">Patarimas</string>
-    <string name="hint_long_tap">Ilgai spaudžiant sąrašo elementą galima gauti papildomą aprašymą (jei prieinama).</string>
     <string name="hint_fav_sorting">Programa kanalus rikiuoja pagal naudojimo dažnumą. Kanalai pridėti prie mėgstamų visada bus rodomi sąrašo viršuje. Galima atjungti automatinį rikiavimą, paliekant grojaraščio tiekėjo numeraciją, bet tada nebus pasiekiami mėgstamų kategorijos kanalai.</string>
     <string name="hint_video_codecs">Jei blogai atkuriamas šaltinis, galite pabandyti padidinti srauto buferio dydį, perjungti spartinimo režimą HW (aparatūrinis spartinimas) arba SW(programinis spartinimas), arba pabandyti srautą paleisti per išorinį grotuvą.</string>
     <string name="hint_auto_turn_off">Jūs galite nustatyti automatinį transliacijos išjungimą, esant kuriam laikui neaktyvumo(naudinga mokant už transliaciją pagal laiką). Aktyvumas skaičiuojamas naudojantis grotuvu, paleidimas, sustabdymas, prasukimas ir panašiai.</string>
@@ -260,8 +259,6 @@
     <string name="btn_seek">Ieškoti</string>
     <string name="cfg_play_action_mseek">Pradeda vaizdo ieškos vaizdą</string>
     <string name="menu_exit">Išeiti</string>
-    <string name="hint_try_premium_sub_free">Jūs galite išbandyti prenumeratą vieną kartą nemokamai kelias dienas, nuspręsdami, ar jį naudoti, ar ne. Patikrinkite prenumeratos paketų informaciją.</string>
-
     <string name="premium_fea_pre_vid">rodyti vaizdą aprašyme</string>
     <string name="vp_audio_shift">Garso perjungimas</string>
     <string name="vp_audio_shift_desc">Sinchronizuokite garsą su vaizdo įrašu</string>
@@ -292,8 +289,6 @@
     <string name="premium_fea_continue">Rodo visus neseniai peržiūrėtus vaizdo įrašus, kurie šiuo metu prieinami „Tęsti filtrą“</string>
     <string name="menu_swap_pip_sound">Pakeiskite garsą tarp pagrindinio ekrano ir „PiP“</string>
     <string name="premium_fea_pre_vid_wp">Leisti rodyti vaizdo peržiūrą, kai grojate kitą vaizdo įrašą</string>
-    <string name="hint_click_icon">Paspaudus kanalo ar grupės piktogramą atidaromas kontekstinis meniu (jei yra).</string>
-    <string name="hint_right_jump">Paspaudus dešinįjį klavišą daugelyje abėcėlės tvarka surūšiuotų sąrašų, atsidaro greitas peršokimo vaizdas.</string>
     <string name="category_recent_channels">Naujausi</string>
     <string name="category_all_channels">Visi kanalai</string>
     <string name="cfg_no_categories">Naudoti paprasto kanalų sąrašą (be kategorijų)</string>
@@ -436,7 +431,6 @@
     <string name="restore_state">Atkurti būseną</string>
 <string name="pro_studio">Studijos režimas, leidžiantis vienu metu žiūrėti kelis srautus</string>
     <string name="cfg_prov_channel_name">Rodyti tiekėjo pavadinimą kanalo pavadinime, kai naudojate kelis tiekėjus</string>
-    <string name="hint_long_up_down">Ilgai paspaudus rodykles aukštyn ir žemyn, galima greičiau naršyti sąrašą</string>
     <string name="pla_act_quick_seek_back_20">20 sekundžių ieškokite atgal</string>
     <string name="pla_act_quick_seek_fwd_20">pirmyn 20 sekundžių</string>
     <string name="cfg_touch_control">Jutiklinių zonų konfigūracija</string>
@@ -447,7 +441,6 @@
     <string name="pos_center_right">centre dešinėje</string>
     <string name="pos_center_bottom">apatinis centras</string>
     <string name="cfg_studio_maximize_size">Maksimaliai padidinto lango matmenys</string>
-    <string name="pro_desc_try_free">Galite peržiūrėti aukščiausios kokybės funkcijas užsiprenumeravę mėnesio planą. Tai turi kelias pradžios dienas nemokamai, nebent jau turėjote mokėjimų.</string>
     <string name="cfg_auto_start_system_pip">Automatiškai įjunkite sistemos „vaizdas paveikslėlyje“ režimą, kai perjungiate iš grotuvo į pagrindinį ekraną</string>
     <string name="pla_act_hud">rodyti grotuvo sąsają su informacija apie transliaciją</string>
     <string name="pla_act_prop_channel">kanalo savybės</string>
@@ -500,7 +493,6 @@
     <string name="swipe_horizontal">horizontalus perbraukimas</string>
     <string name="expiration">Pasibaigimas</string>
     <string name="trial_account">Bandomoji sąskaita</string>
-    <string name="premium_google_account">Visi pirkimai taikomi visiems įrenginiams, turintiems tą pačią sąskaitą.</string>
     <string name="player_live_recent_archive">Atnaujinti neseniai paleisto archyvo vaizdo įrašo atkūrimą?</string>
     <string name="player_live_recent_archive_archive">Tęsti atkūrimą</string>
     <string name="player_live_recent_archive_live">Tiesiogiai</string>
@@ -752,4 +744,6 @@
     <string name="action_can_not_undo_continue">Šio veiksmo anuliuoti negalima, ar norite tęsti?</string>
     <string name="use_same_as_in_live">Naudokite tą pačią vertę kaip ir tiesioginiams srautams</string>
     <string name="refresh_periodically">Periodiškai atnaujinkite</string>
+    <string name="user_guide">Naudotojo gidas</string>
+    <string name="support_1conn_provider">Įgalinkite palaikymą teikėjui, kuris turi tik vieną ryšį</string>
     </resources>

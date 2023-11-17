@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">デバイス起動時にアプリケーションを起動する</string>
 
     <string name="hint_title">ヒント</string>
-    <string name="hint_long_tap">リスト項目をタップすると、説明が拡張されます（該当する場合）。</string>
     <string name="hint_fav_sorting">アプリケーションは、チャネルを時計周波数でソートします。お気に入りとしてマークしたチャンネルは常に先頭に表示されます。プロバイダのチャネルオーダーを有効にして自動ソートを無効にすることはできますが、お気に入りフィルタは使用できません。</string>
     <string name="hint_video_codecs">ソースがひどく再生されている場合は、設定でバッファサイズを増やしたり、別のストリームデコーダ（ハードウェアまたはソフトウェア）に切り替えたり、何かが失敗した場合は再生用に外部プレーヤーを使用するように設定できます。</string>
     <string name="hint_auto_turn_off">何らかのアイドル時間の後に自動ストリームスイッチをオフに設定することができます（1分あたりの課金に便利です）。アイドルとは、プレイヤーの行動が使用されていないことを意味します（例えば、メニュー、シーク、一時停止など）。</string>
@@ -256,8 +255,6 @@
     <string name="btn_seek">シーク</string>
     <string name="cfg_play_action_mseek">ビデオシークビューを開始します</string>
     <string name="menu_exit">出口</string>
-    <string name="hint_try_premium_sub_free">あなたはそれを使用するかどうかを決定しながら、数日間無料で一度購読を試すことができます。定期購入パッケージの詳細を確認してください。</string>
-
     <string name="premium_fea_pre_vid">選択したビデオプレビューを説明に表示する</string>
     <string name="vp_audio_shift">オーディオシフト</string>
     <string name="vp_audio_shift_desc">オーディオをビデオと同期する</string>
@@ -288,8 +285,6 @@
     <string name="premium_fea_continue">[続行]フィルタで現在利用可能な、最近見たすべてのビデオを表示します</string>
     <string name="menu_swap_pip_sound">メイン画面とPiPの間でサウンドを交換する</string>
     <string name="premium_fea_pre_vid_wp">別のビデオの再生中にビデオプレビューを表示することを許可する</string>
-    <string name="hint_click_icon">チャンネルまたはグループのアイコンをクリックすると、コンテキストメニューが表示されます（利用可能な場合）。</string>
-    <string name="hint_right_jump">アルファベット順にソートされたリストのほとんどで右ボタンを押すとクイックジャンプビューが開きます。</string>
     <string name="category_recent_channels">最近</string>
     <string name="category_all_channels">全チャンネル</string>
     <string name="cfg_no_categories">通常のチャンネルリストを使用する（カテゴリなし）</string>
@@ -432,7 +427,6 @@
     <string name="restore_state">状態を復元する</string>
 <string name="pro_studio">スタジオモード、複数のストリームを同時に視聴可能</string>
     <string name="cfg_prov_channel_name">複数のプロバイダーを使用する場合、チャンネル名にプロバイダー名を表示</string>
-    <string name="hint_long_up_down">上矢印と下矢印を長押しすると、リストのナビゲーションが速くなります</string>
     <string name="pla_act_quick_seek_back_20">20秒後方にシークする</string>
     <string name="pla_act_quick_seek_fwd_20">20秒前にシークする</string>
     <string name="cfg_touch_control">タッチゾーン設定</string>
@@ -443,7 +437,6 @@
     <string name="pos_center_right">中央右</string>
     <string name="pos_center_bottom">下中央</string>
     <string name="cfg_studio_maximize_size">最大化されたウィンドウの寸法</string>
-    <string name="pro_desc_try_free">月額プランに登録することで、プレミアム機能をプレビューできます。既にお支払いがない限り、無料で数日間の開始日があります。</string>
     <string name="cfg_auto_start_system_pip">プレーヤーからホーム画面に切り替えると、システムのピクチャーインピクチャーモードに自動的に移行します</string>
     <string name="pla_act_hud">ブロードキャストの詳細が表示されたプレーヤーインターフェイス</string>
     <string name="pla_act_prop_channel">チャネルのプロパティ</string>
@@ -496,7 +489,6 @@
     <string name="swipe_horizontal">水平スワイプ</string>
     <string name="expiration">有効期限</string>
     <string name="trial_account">試用アカウント</string>
-    <string name="premium_google_account">すべての購入は、同じアカウントを共有するすべてのデバイスに適用されます。</string>
     <string name="player_live_recent_archive">最近再生したアーカイブ動画の再生を再開しますか？</string>
     <string name="player_live_recent_archive_archive">再生を再開する</string>
     <string name="player_live_recent_archive_live">ライブストリーム</string>
@@ -748,4 +740,6 @@
     <string name="action_can_not_undo_continue">この操作は元に戻すことができません。続行しますか?</string>
     <string name="use_same_as_in_live">ライブ ストリームと同じ値を使用します</string>
     <string name="refresh_periodically">定期的に更新する</string>
+    <string name="user_guide">ユーザーガイド</string>
+    <string name="support_1conn_provider">接続が 1 つだけあるプロバイダーのサポートを有効にする</string>
     </resources>

@@ -86,7 +86,6 @@
     <string name="settings_run_at_boot">Start application on device boot</string>
 
     <string name="hint_title">Hint</string>
-    <string name="hint_long_tap">You can long tap list item to get extended description (if applicable).</string>
     <string name="hint_fav_sorting">Application sorts channels by watch frequency. Channels you marked as favorite will always be in the top. You may disable automatic sorting by enabling using a provider channel order, however favorites filter will not be available.</string>
     <string name="hint_video_codecs">If source is playing badly, you can try increasing buffer size in settings, switch to another stream decoder (hardware or software), or if anything fails, configure to use an external player for a playback.</string>
     <string name="hint_auto_turn_off">You can configure automatic stream switching off after some idle time (useful when billed per-minute). Idle means no player actions used (for example: menu, seeking, pause, etc).</string>
@@ -249,8 +248,6 @@
     <string name="btn_seek">Seek</string>
     <string name="cfg_play_action_mseek">Starts video seeking view</string>
     <string name="menu_exit">Exit</string>
-    <string name="hint_try_premium_sub_free">You can try a subscription once for free for several days while deciding whatever to use it, or not. Check details of subscription packages.</string>
-
     <string name="premium_fea_pre_vid">Show selected video preview in description</string>
     <string name="vp_audio_shift">Audio shift</string>
     <string name="vp_audio_shift_desc">Sync audio with video</string>
@@ -281,8 +278,6 @@
     <string name="premium_fea_continue">Shows all recently viewed videos, that are currently available in Continue filter</string>
     <string name="menu_swap_pip_sound">Swap sound between main screen and PiP</string>
     <string name="premium_fea_pre_vid_wp">Allow video preview to be shown while playing another video</string>
-    <string name="hint_click_icon">Clicking the icon of a channel or group opens a context menu (if available).</string>
-    <string name="hint_right_jump">Pressing right button in most alphabetically sorted lists opens a quick jump view.</string>
     <string name="category_recent_channels">Recent</string>
     <string name="category_all_channels">All channels</string>
     <string name="cfg_no_categories">Use plain channels list (with no categories)</string>
@@ -426,7 +421,6 @@
 
     <string name="pro_studio">Studio mode, allowing to watch multiple streams at the same time</string>
     <string name="cfg_prov_channel_name">Show provider name in channel name when using multiple providers</string>
-    <string name="hint_long_up_down">Long pressing up and down arrows allows faster list navigation</string>
     <string name="pla_act_quick_seek_back_20">seek backwards by 20 seconds</string>
     <string name="pla_act_quick_seek_fwd_20">seek forward by 20 seconds</string>
     <string name="cfg_touch_control">Touch zones configuration</string>
@@ -437,7 +431,6 @@
     <string name="pos_center_right">center right</string>
     <string name="pos_center_bottom">bottom center</string>
     <string name="cfg_studio_maximize_size">Dimensions of maximized window</string>
-    <string name="pro_desc_try_free">You can preview premium features by subscribing to monthly plan. It has several starting days for free unless you already had payments.</string>
     <string name="cfg_auto_start_system_pip">Automatically enter system picture-in-picture mode when switching from player to home screen</string>
     <string name="pla_act_hud">show player interface with broadcast details</string>
     <string name="pla_act_prop_channel">channel properties</string>
@@ -490,7 +483,6 @@
     <string name="swipe_horizontal">horizontal swipe</string>
     <string name="expiration">Expiration</string>
     <string name="trial_account">Trial Account</string>
-    <string name="premium_google_account">All purchases apply to all devices sharing the same account.</string>
     <string name="player_live_recent_archive">Resume playback of recently played archived video?</string>
     <string name="player_live_recent_archive_archive">Resume playback</string>
     <string name="player_live_recent_archive_live">Live stream</string>
@@ -743,4 +735,6 @@
     <string name="action_can_not_undo_continue">This action cannot be undone, do you wish to continue?</string>
     <string name="use_same_as_in_live">Use same value as for live streams</string>
     <string name="refresh_periodically">Refresh periodically</string>
+    <string name="user_guide">User guide</string>
+    <string name="support_1conn_provider">Enable support for provider that has only a single connection</string>
 </resources>

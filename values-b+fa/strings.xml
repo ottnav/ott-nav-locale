@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">شروع برنامه در بوت دستگاه</string>
 
     <string name="hint_title">نکته</string>
-    <string name="hint_long_tap">شما می توانید مدت زمان طولانی روی لیست موارد مورد نظر را برای توضیحات گسترده (در صورت لزوم) لمس کنید.</string>
     <string name="hint_fav_sorting">برنامه کانال های مختلف توسط فرکانس دیده می شود. کانال هایی که شما به عنوان مورد علاقه انتخاب کرده اید همیشه در بالای صفحه قرار دارند. شما می توانید مرتب سازی خودکار را با فعال کردن استفاده از یک سفارش کانال ارائه دهنده غیرفعال کنید، اما فیلترهای دلخواه در دسترس نخواهند بود.</string>
     <string name="hint_video_codecs">اگر منبع بد بازی می کند، می توانید سایز بافر در تنظیمات را افزایش دهید، به رمزگشای دیگری (سخت افزار یا نرم افزار) بروید یا اگر هر چیزی نتواند، پیکربندی کنید که از پخش کننده خارجی برای پخش استفاده کنید.</string>
     <string name="hint_auto_turn_off">شما می توانید پس از یک زمان بیکار خاموش کردن جریان خودکار را غیرفعال کنید (مفید هنگامی که هر دقیقه در صورتحساب). بیدار به این معنی عملکردهای پخش کننده (به عنوان مثال: منو، جستجو، مکث و غیره) است.</string>
@@ -256,8 +255,6 @@
     <string name="btn_seek">جستجو کن</string>
     <string name="cfg_play_action_mseek">نمایش جستجوی ویدیو را آغاز می کند</string>
     <string name="menu_exit">خروج</string>
-    <string name="hint_try_premium_sub_free">شما می توانید اشتراک یک بار به صورت رایگان برای چند روز در حالی که تصمیم به استفاده از آن را امتحان کنید، یا نه. جزئیات بسته های اشتراک را بررسی کنید.</string>
-
     <string name="premium_fea_pre_vid">پیش نمایش ویدئو انتخاب شده را در توضیحات نمایش دهید</string>
     <string name="vp_audio_shift">تغییر صدا</string>
     <string name="vp_audio_shift_desc">همگام سازی صدا با ویدئو</string>
@@ -288,8 +285,6 @@
     <string name="premium_fea_continue">همه فیلم های اخیر دیده شده را نشان می دهد، که در حال حاضر در Continue filter در دسترس هستند</string>
     <string name="menu_swap_pip_sound">مبادله صدا بین صفحه اصلی و PiP</string>
     <string name="premium_fea_pre_vid_wp">اجازه پخش پیش نمایش ویدیو را هنگام پخش یک ویدیو دیگر نشان دهید</string>
-    <string name="hint_click_icon">با کلیک بر روی آیکون یک کانال یا گروه یک منوی زمینه (در صورت وجود) باز می شود.</string>
-    <string name="hint_right_jump">با فشار دادن دکمه سمت راست در اکثر لیست های مرتب شده بر اساس حروف الفبا، نمای پرش سریع باز می شود.</string>
     <string name="category_recent_channels">اخیر</string>
     <string name="category_all_channels">همه کانال ها</string>
     <string name="cfg_no_categories">از لیست کانالهای ساده استفاده کنید (بدون هیچ دسته بندی)</string>
@@ -432,7 +427,6 @@
     <string name="restore_state">بازیابی حالت</string>
 <string name="pro_studio">حالت استودیو ، امکان تماشای چندین جریان همزمان</string>
     <string name="cfg_prov_channel_name">هنگام استفاده از چندین ارائه دهنده ، نام ارائه دهنده را به نام کانال نشان دهید</string>
-    <string name="hint_long_up_down">فشار دادن طولانی به بالا و پایین فلش اجازه می دهد تا ناوبری سریعتر در لیست قرار گیرد</string>
     <string name="pla_act_quick_seek_back_20">20 ثانیه به عقب برگردید</string>
     <string name="pla_act_quick_seek_fwd_20">20 ثانیه جلو بروید</string>
     <string name="cfg_touch_control">پیکربندی مناطق لمسی</string>
@@ -443,7 +437,6 @@
     <string name="pos_center_right">سمت راست</string>
     <string name="pos_center_bottom">مرکز پایین</string>
     <string name="cfg_studio_maximize_size">ابعاد پنجره حداکثر</string>
-    <string name="pro_desc_try_free">با عضویت در برنامه ماهانه می توانید ویژگی های حق بیمه را پیش نمایش دهید. چندین روز شروع به صورت رایگان دارد مگر اینکه قبلاً پرداخت کرده باشید.</string>
     <string name="cfg_auto_start_system_pip">هنگام جابجایی از دستگاه پخش به صفحه اصلی ، به طور خودکار حالت تصویر در تصویر سیستم را وارد کنید</string>
     <string name="pla_act_hud">رابط پخش کننده را با جزئیات پخش نشان دهید</string>
     <string name="pla_act_prop_channel">خصوصیات کانال</string>
@@ -496,7 +489,6 @@
     <string name="swipe_horizontal">کش رفتن افقی</string>
     <string name="expiration">انقضاء</string>
     <string name="trial_account">حساب آزمایشی</string>
-    <string name="premium_google_account">همه خریدها مربوط به همه دستگاههای مشترک با یک حساب مشترک است.</string>
     <string name="player_live_recent_archive">پخش فیلم ویدیوی بایگانی شده اخیراً از سر گرفته می شود؟</string>
     <string name="player_live_recent_archive_archive">پخش را از سر بگیرید</string>
     <string name="player_live_recent_archive_live">پخش زنده</string>
@@ -748,4 +740,6 @@
     <string name="action_can_not_undo_continue">؟ﺪﯿﻫﺩ ﻪﻣﺍﺩﺍ ﺪﯿﻫﺍﻮﺧu200cﯽﻣ ﺎﯾﺁ ،ﺖﺴﯿﻧ ﻮﻐﻟ ﻞﺑﺎﻗ ﻞﻤﻋ ﻦﯾﺍ</string>
     <string name="use_same_as_in_live">ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﻩﺪﻧﺯ ﯼﺎﻫu200cﯼﺯﺎﺳu200cﯼﺭﺎﺟ ﯼﺍﺮﺑ ﺭﺍﺪﻘﻣ ﻥﺎﻤﻫ ﺯﺍ</string>
     <string name="refresh_periodically">ﺪﯿﻨﮐ ﻩﺯﺎﺗ ﯼﺍ ﻩﺭﻭﺩ ﺕﺭﻮﺻ ﻪﺑ</string>
+    <string name="user_guide">ﺮﺑﺭﺎﮐ ﯼﺎﻤﻨﻫﺍﺭ</string>
+    <string name="support_1conn_provider">ﺩﺭﺍﺩ ﻝﺎﺼﺗﺍ ﮏﯾ ﻂﻘﻓ ﻪﮐ ﯼﺍ ﻩﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ ﯼﺍﺮﺑ ﯽﻧﺎﺒﯿﺘﺸﭘ ﻥﺩﺮﮐ ﻝﺎﻌﻓ</string>
     </resources>

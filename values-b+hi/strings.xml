@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">डिवाइस बूट पर एप्लिकेशन शुरू करें</string>
 
     <string name="hint_title">संकेत</string>
-    <string name="hint_long_tap">विस्तृत विवरण प्राप्त करने के लिए आप लंबे समय तक सूची आइटम टैप कर सकते हैं (यदि लागू हो)।</string>
     <string name="hint_fav_sorting">आवेदन घड़ी आवृत्ति द्वारा चैनलों का प्रकार करता है। जिन चैनलों को आप पसंदीदा के रूप में चिह्नित करते हैं वे हमेशा शीर्ष पर होंगे। आप प्रदाता चैनल ऑर्डर का उपयोग करके सक्षम करके स्वचालित सॉर्टिंग अक्षम कर सकते हैं, हालांकि पसंदीदा फ़िल्टर उपलब्ध नहीं होगा।</string>
     <string name="hint_video_codecs">यदि स्रोत बुरी तरह से खेल रहा है, तो आप सेटिंग में बफर आकार बढ़ाने की कोशिश कर सकते हैं, किसी अन्य स्ट्रीम डिकोडर (हार्डवेयर या सॉफ़्टवेयर) पर स्विच कर सकते हैं, या यदि कुछ विफल हो जाता है, तो प्लेबैक के लिए बाहरी प्लेयर का उपयोग करने के लिए कॉन्फ़िगर करें।</string>
     <string name="hint_auto_turn_off">आप कुछ निष्क्रिय समय के बाद स्वत: स्ट्रीम स्विचिंग को कॉन्फ़िगर कर सकते हैं (प्रति मिनट बिल किए जाने पर उपयोगी)। निष्क्रिय का मतलब है कि कोई भी खिलाड़ी क्रिया नहीं होती है (उदाहरण के लिए: मेनू, मांगना, रोकना आदि)।</string>
@@ -256,8 +255,6 @@
     <string name="btn_seek">मांगना</string>
     <string name="cfg_play_action_mseek">वीडियो की तलाश शुरू करता है</string>
     <string name="menu_exit">बाहर जाएं</string>
-    <string name="hint_try_premium_sub_free">आप इसका उपयोग करने या न करने का निर्णय करते हुए कई दिनों तक मुफ्त में एक बार सदस्यता का प्रयास कर सकते हैं। सदस्यता संकुल के विवरण की जाँच करें।</string>
-
     <string name="premium_fea_pre_vid">वर्णन में चयनित वीडियो पूर्वावलोकन दिखाएं</string>
     <string name="vp_audio_shift">ऑडियो शिफ्ट</string>
     <string name="vp_audio_shift_desc">वीडियो के साथ ऑडियो सिंक करें</string>
@@ -288,8 +285,6 @@
     <string name="premium_fea_continue">हाल ही में देखे गए सभी वीडियो दिखाता है, जो वर्तमान में जारी फ़िल्टर में उपलब्ध हैं</string>
     <string name="menu_swap_pip_sound">मुख्य स्क्रीन और PiP के बीच स्वैप ध्वनि</string>
     <string name="premium_fea_pre_vid_wp">किसी अन्य वीडियो को चलाते समय वीडियो पूर्वावलोकन दिखाने की अनुमति दें</string>
-    <string name="hint_click_icon">किसी चैनल या समूह के आइकन पर क्लिक करने पर एक संदर्भ मेनू (यदि उपलब्ध हो) खुलता है।</string>
-    <string name="hint_right_jump">अधिकांश वर्णानुक्रम में क्रमबद्ध सूचियों में दायाँ बटन दबाने से एक त्वरित कूद दृश्य दिखाई देता है।</string>
     <string name="category_recent_channels">हाल का</string>
     <string name="category_all_channels">सभी चैनल</string>
     <string name="cfg_no_categories">सादे चैनल सूची का उपयोग करें (बिना श्रेणियों के)</string>
@@ -432,7 +427,6 @@
     <string name="restore_state">राज्य को पुनर्स्थापित करें</string>
 <string name="pro_studio">स्टूडियो मोड, एक ही समय में कई स्ट्रीम देखने की अनुमति देता है</string>
     <string name="cfg_prov_channel_name">कई प्रदाताओं का उपयोग करते समय चैनल के नाम में प्रदाता का नाम दिखाएं</string>
-    <string name="hint_long_up_down">लंबे समय तक ऊपर और नीचे तीर तेज सूची नेविगेशन की अनुमति देता है</string>
     <string name="pla_act_quick_seek_back_20">20 सेकंड से पीछे की ओर देखो</string>
     <string name="pla_act_quick_seek_fwd_20">20 सेकंड के लिए आगे की तलाश करें</string>
     <string name="cfg_touch_control">टच ज़ोन कॉन्फ़िगरेशन</string>
@@ -443,7 +437,6 @@
     <string name="pos_center_right">केंद्र सही है</string>
     <string name="pos_center_bottom">निचला मध्यम</string>
     <string name="cfg_studio_maximize_size">अधिकतम विंडो के आयाम</string>
-    <string name="pro_desc_try_free">आप मासिक योजना की सदस्यता लेकर प्रीमियम सुविधाओं का पूर्वावलोकन कर सकते हैं। जब तक आपके पास पहले से भुगतान था, तब तक कई शुरुआती दिन मुफ्त हैं।</string>
     <string name="cfg_auto_start_system_pip">खिलाड़ी से होम स्क्रीन पर स्विच करते समय स्वचालित रूप से सिस्टम पिक्चर-इन-पिक्चर मोड दर्ज करें</string>
     <string name="pla_act_hud">प्रसारण विवरण के साथ खिलाड़ी इंटरफ़ेस दिखाएं</string>
     <string name="pla_act_prop_channel">चैनल गुण</string>
@@ -496,7 +489,6 @@
     <string name="swipe_horizontal">क्षैतिज स्वाइप</string>
     <string name="expiration">समय सीमा समाप्ति</string>
     <string name="trial_account">ट्रायल अकाउंट</string>
-    <string name="premium_google_account">सभी खरीद एक ही खाते को साझा करने वाले सभी उपकरणों पर लागू होती है।</string>
     <string name="player_live_recent_archive">हाल ही में चलाए गए वीडियो का प्लेबैक फिर से शुरू करें?</string>
     <string name="player_live_recent_archive_archive">प्लेबैक वापस चालू करें</string>
     <string name="player_live_recent_archive_live">लाइव स्ट्रीम</string>
@@ -748,4 +740,6 @@
     <string name="action_can_not_undo_continue">यह क्रिया पूर्ववत नहीं की जा सकती, क्या आप जारी रखना चाहते हैं?</string>
     <string name="use_same_as_in_live">लाइव स्ट्रीम के लिए समान मान का उपयोग करें</string>
     <string name="refresh_periodically">समय-समय पर ताज़ा करें</string>
+    <string name="user_guide">उपयोगकर्ता गाइड</string>
+    <string name="support_1conn_provider">उस प्रदाता के लिए समर्थन सक्षम करें जिसके पास केवल एक ही कनेक्शन है</string>
     </resources>

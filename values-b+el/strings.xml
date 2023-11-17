@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">όνομα (πρώτα αγαπημένα, μετά αλφαβητικά)</string>
     <string name="settings_run_at_boot">Ξεκινήστε την εφαρμογή κατά την εκκίνηση της συσκευής</string>
     <string name="hint_title">Ιχνος</string>
-    <string name="hint_long_tap">Μπορείτε να πατήσετε μακρά το στοιχείο της λίστας για να λάβετε εκτεταμένη περιγραφή (αν υπάρχει).</string>
     <string name="hint_fav_sorting">Η εφαρμογή ταξινομεί κανάλια κατά συχνότητα παρακολούθησης. Τα κανάλια που έχετε επισημάνει ως αγαπημένα θα βρίσκονται πάντα στην κορυφή. Μπορείτε να απενεργοποιήσετε την αυτόματη ταξινόμηση, επιτρέποντας τη χρήση μιας παραγγελίας καναλιού παρόχου, ωστόσο το φίλτρο αγαπημένων δεν θα είναι διαθέσιμο.</string>
     <string name="hint_video_codecs">Εάν η πηγή αναπαράγεται άσχημα, μπορείτε να δοκιμάσετε να αυξήσετε το μέγεθος του buffer στη ρύθμιση, να μεταβείτε σε άλλο αποκωδικοποιητή ροής (υλικό ή λογισμικό) ή εάν αποτύχει κάτι, ρυθμίστε τη ρύθμιση για να χρησιμοποιήσετε μια εξωτερική συσκευή αναπαραγωγής για αναπαραγωγή.</string>
     <string name="hint_auto_turn_off">Μπορείτε να ρυθμίσετε την αυτόματη απενεργοποίηση ροής μετά από κάποιο χρόνο αδράνειας (χρήσιμο όταν χρεώνεται ανά λεπτό). Αδράνεια σημαίνει ότι δεν χρησιμοποιούνται ενέργειες παικτών (για παράδειγμα: μενού, αναζήτηση, παύση κ.λπ.).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">Ψάχνω</string>
     <string name="cfg_play_action_mseek">Ξεκινά την προβολή αναζήτησης βίντεο</string>
     <string name="menu_exit">Εξοδος</string>
-    <string name="hint_try_premium_sub_free">Μπορείτε να δοκιμάσετε μια συνδρομή μία φορά δωρεάν για αρκετές ημέρες, ενώ αποφασίζετε οτιδήποτε να το χρησιμοποιήσετε ή όχι. Ελέγξτε τα στοιχεία των πακέτων συνδρομών.</string>
     <string name="premium_fea_pre_vid">Εμφάνιση της επιλεγμένης προεπισκόπησης βίντεο στην περιγραφή</string>
     <string name="vp_audio_shift">Μετατόπιση ήχου</string>
     <string name="vp_audio_shift_desc">Συγχρονισμός ήχου με βίντεο</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Εμφανίζει όλα τα βίντεο που έχετε δει πρόσφατα, τα οποία είναι διαθέσιμα αυτήν τη στιγμή στο φίλτρο Συνέχεια</string>
     <string name="menu_swap_pip_sound">Αντικατάσταση ήχου μεταξύ της κύριας οθόνης και του PiP</string>
     <string name="premium_fea_pre_vid_wp">Να επιτρέπεται η προβολή της προεπισκόπησης βίντεο κατά την αναπαραγωγή άλλου βίντεο</string>
-    <string name="hint_click_icon">Κάνοντας κλικ στο εικονίδιο ενός καναλιού ή μιας ομάδας ανοίγει ένα μενού περιβάλλοντος (εάν είναι διαθέσιμο).</string>
-    <string name="hint_right_jump">Πατώντας το δεξί πλήκτρο στις πιο αλφαβητικά ταξινομημένες λίστες ανοίγει μια γρήγορη προβολή άλματος.</string>
     <string name="category_recent_channels">Πρόσφατος</string>
     <string name="category_all_channels">Όλα τα κανάλια</string>
     <string name="cfg_no_categories">Χρήση λίστας απλών καναλιών (χωρίς κατηγορίες)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Επαναφορά της κατάστασης</string>
     <string name="pro_studio">Studio mode, επιτρέποντας την παρακολούθηση πολλαπλών ροών ταυτόχρονα</string>
     <string name="cfg_prov_channel_name">Να εμφανίζεται το όνομα του παροχέα στο όνομα καναλιού όταν χρησιμοποιείτε πολλούς παρόχους</string>
-    <string name="hint_long_up_down">Με το πάτημα των επάνω και κάτω βέλους, μπορείτε να πλοηγηθείτε πιο γρήγορα</string>
     <string name="pla_act_quick_seek_back_20">αναζητήστε προς τα πίσω 20 δευτερόλεπτα</string>
     <string name="pla_act_quick_seek_fwd_20">επιδιώξτε 20 δευτερόλεπτα</string>
     <string name="cfg_touch_control">Ρυθμίσεις ζώνης αφής</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">δεξιά δεξιά</string>
     <string name="pos_center_bottom">κάτω κέντρο</string>
     <string name="cfg_studio_maximize_size">Διαστάσεις μεγιστοποιημένου παραθύρου</string>
-    <string name="pro_desc_try_free">Μπορείτε να κάνετε προεπισκόπηση χαρακτηριστικών premium με την εγγραφή στο μηνιαίο σχέδιο. Έχει αρκετές ημέρες έναρξης δωρεάν αν δεν έχετε ήδη πραγματοποιήσει πληρωμές.</string>
     <string name="cfg_auto_start_system_pip">Εισαγάγετε αυτόματα τη λειτουργία εικόνας σε εικόνα κατά τη μετάβαση από τη συσκευή αναπαραγωγής στην αρχική οθόνη</string>
     <string name="pla_act_hud">εμφάνιση διεπαφής παίκτη με λεπτομέρειες εκπομπής</string>
     <string name="pla_act_prop_channel">ιδιότητες καναλιού</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">οριζόντια ολίσθηση</string>
     <string name="expiration">Λήξη</string>
     <string name="trial_account">Δοκιμαστικός λογαριασμός</string>
-    <string name="premium_google_account">Όλες οι αγορές ισχύουν για όλες τις συσκευές που μοιράζονται τον ίδιο λογαριασμό.</string>
     <string name="player_live_recent_archive">Συνεχίστε την αναπαραγωγή του αρχειοθετημένου βίντεο που παίζεται πρόσφατα;</string>
     <string name="player_live_recent_archive_archive">Συνεχίστε την αναπαραγωγή</string>
     <string name="player_live_recent_archive_live">Ζωντανή μετάδοση</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Αυτή η ενέργεια δεν μπορεί να αναιρεθεί, θέλετε να συνεχίσετε;</string>
     <string name="use_same_as_in_live">Χρησιμοποιήστε την ίδια τιμή με τις ζωντανές ροές</string>
     <string name="refresh_periodically">Ανανεώνετε περιοδικά</string>
+    <string name="user_guide">ΟΔΗΓΟΣ ΧΡΗΣΤΗ</string>
+    <string name="support_1conn_provider">Ενεργοποιήστε την υποστήριξη για πάροχο που έχει μόνο μία σύνδεση</string>
     </resources>

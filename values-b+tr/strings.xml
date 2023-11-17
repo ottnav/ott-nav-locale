@@ -91,7 +91,6 @@
     <string name="settings_run_at_boot">Cihaz açılışında uygulamayı başlat</string>
 
     <string name="hint_title">İpucu</string>
-    <string name="hint_long_tap">Genişletilmiş açıklama almak için liste öğesine uzun süre dokunabilirsiniz (varsa).</string>
     <string name="hint_fav_sorting">Uygulama kanalları izlenme sıklığına göre sıralar. Favori olarak işaretlediğiniz kanallar her zaman en üstte olacaktır. Bir sağlayıcı kanal siparişini kullanarak otomatik sıralama özelliğini devre dışı bırakabilirsiniz, ancak sık kullanılanlar filtresi kullanılamaz.</string>
     <string name="hint_video_codecs">Kaynak kötü çalışıyorsa, ayarlarda arabellek boyutunu artırmayı deneyebilir, başka bir akış kod çözücüsüne (donanım veya yazılım) geçebilir veya herhangi bir şey başarısız olursa, oynatma için harici bir oynatıcı kullanacak şekilde yapılandırabilirsiniz.</string>
     <string name="hint_auto_turn_off">Boşta kalma süresinden sonra otomatik akış geçişini yapılandırabilirsiniz (dakika başına faturalandığında kullanışlıdır). Boşta, herhangi bir oyuncu eylemi kullanılmadığı anlamına gelir (örneğin: menü, arama, duraklatma, vb.).</string>
@@ -254,8 +253,6 @@
     <string name="btn_seek">Aramak</string>
     <string name="cfg_play_action_mseek">Video arama görünümünü başlatır</string>
     <string name="menu_exit">çıkış</string>
-    <string name="hint_try_premium_sub_free">Bir aboneliği birkaç gün boyunca ücretsiz olarak deneyebilir, hangisini kullanacağınıza karar verin. Abonelik paketlerinin detaylarını kontrol edin.</string>
-
     <string name="premium_fea_pre_vid">Seçilen video önizlemesini açıklamada göster</string>
     <string name="vp_audio_shift">Ses kayması</string>
     <string name="vp_audio_shift_desc">Sesi video ile senkronize et</string>
@@ -286,8 +283,6 @@
     <string name="premium_fea_continue">Devam etmekte olan filtrede bulunan ve son zamanlarda görüntülenen videoların tümünü gösterir.</string>
     <string name="menu_swap_pip_sound">Ana ekran ve PiP arasında sesi değiştirme</string>
     <string name="premium_fea_pre_vid_wp">Başka bir video oynatırken video önizlemesinin gösterilmesine izin ver</string>
-    <string name="hint_click_icon">Bir kanal veya grubun simgesine tıklamak, bir bağlam menüsü açar (varsa).</string>
-    <string name="hint_right_jump">Alfabetik olarak sıralanmış listelerde sağ düğmeye basıldığında hızlı atlama görünümü açılır.</string>
     <string name="category_recent_channels">Son</string>
     <string name="category_all_channels">Tüm kanallar</string>
     <string name="cfg_no_categories">Düz kanallar listesini kullanın (kategorisiz)</string>
@@ -430,7 +425,6 @@
     <string name="restore_state">Durumu geri yükle</string>
 <string name="pro_studio">Stüdyo modu, aynı anda birden fazla akışı izlemenizi sağlar</string>
     <string name="cfg_prov_channel_name">Birden fazla sağlayıcı kullanırken sağlayıcı adını kanal adında gösterme</string>
-    <string name="hint_long_up_down">Yukarı ve aşağı oklara uzun basıldığında daha hızlı gezinti sağlanır</string>
     <string name="pla_act_quick_seek_back_20">20 saniye geriye doğru arama</string>
     <string name="pla_act_quick_seek_fwd_20">20 saniye ileri gitmek</string>
     <string name="cfg_touch_control">Dokunma bölgeleri yapılandırması</string>
@@ -441,7 +435,6 @@
     <string name="pos_center_right">merkez sağ</string>
     <string name="pos_center_bottom">alt merkez</string>
     <string name="cfg_studio_maximize_size">Büyütülmüş pencerenin boyutları</string>
-    <string name="pro_desc_try_free">Aylık plana abone olarak premium özellikleri önizleyebilirsiniz. Zaten ödemeleri olmadıkça ücretsiz birkaç başlangıç günü vardır.</string>
     <string name="cfg_auto_start_system_pip">Oynatıcıdan ana ekrana geçerken, sistem içinde resim moduna otomatik gir</string>
     <string name="pla_act_hud">yayın detaylarını gösteren oyuncu arayüzünü göster</string>
     <string name="pla_act_prop_channel">kanal özellikleri</string>
@@ -494,7 +487,6 @@
     <string name="swipe_horizontal">yatay kaydırma</string>
     <string name="expiration">Son</string>
     <string name="trial_account">Deneme hesabı</string>
-    <string name="premium_google_account">Tüm alışverişler aynı hesabı paylaşan tüm cihazlar için geçerlidir.</string>
     <string name="player_live_recent_archive">Son oynatılan arşivlenmiş videonun oynatılmaya devam edilmesi</string>
     <string name="player_live_recent_archive_archive">Çalmaya devam et</string>
     <string name="player_live_recent_archive_live">Canlı yayın</string>
@@ -746,4 +738,6 @@
     <string name="action_can_not_undo_continue">Bu işlem geri alınamaz, devam etmek istiyor musunuz?</string>
     <string name="use_same_as_in_live">Canlı akışlarla aynı değeri kullanın</string>
     <string name="refresh_periodically">Periyodik olarak yenile</string>
+    <string name="user_guide">Kullanici rehberi</string>
+    <string name="support_1conn_provider">Yalnızca tek bir bağlantısı olan sağlayıcı için desteği etkinleştirin</string>
     </resources>

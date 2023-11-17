@@ -76,7 +76,6 @@
     <string name="settings_channel_sort_mode_name">Namn (favoriter först, sedan alfabetiskt)</string>
     <string name="settings_run_at_boot">Starta applikationen vid enhetsstart</string>
     <string name="hint_title">Ledtråd</string>
-    <string name="hint_long_tap">Du kan trycka länge på listobjekt för att få utökad beskrivning (om tillämpligt).</string>
     <string name="hint_fav_sorting">Applikationen sorterar kanaler efter frekvens. Kanaler som du har markerat som favorit kommer alltid att vara i toppen. Du kan inaktivera automatisk sortering genom att aktivera med en leverantörs kanalordning, men favoritfilter är inte tillgängligt.</string>
     <string name="hint_video_codecs">Om källan spelar dåligt kan du försöka öka buffertstorleken i inställningarna, växla till en annan strömavkodare (hårdvara eller mjukvara), eller om något misslyckas kan du konfigurera att använda en extern spelare för uppspelning.</string>
     <string name="hint_auto_turn_off">Du kan konfigurera automatisk avstängning av strömmen efter någon vilotid (användbar vid fakturering per minut). Tomgång betyder att inga spelaråtgärder används (till exempel: meny, sökning, paus osv.).</string>
@@ -216,7 +215,6 @@
     <string name="btn_seek">Söka</string>
     <string name="cfg_play_action_mseek">Startar videosökningsvy</string>
     <string name="menu_exit">Exit</string>
-    <string name="hint_try_premium_sub_free">Du kan prova en prenumeration, en gång, gratis i flera dagar medan du bestämmer dig för att använda det eller inte. Kontrollera information om prenumerationspaket.</string>
     <string name="premium_fea_pre_vid">Visa vald videoförhandsvisning i beskrivningen</string>
     <string name="vp_audio_shift">Ljudsynkronisering</string>
     <string name="vp_audio_shift_desc">Synkronisera ljud med video</string>
@@ -247,8 +245,6 @@
     <string name="premium_fea_continue">Visar alla nyligen visade videor, som för närvarande finns tillgängliga i Fortsätt-filtret</string>
     <string name="menu_swap_pip_sound">Byt ljud mellan huvudskärmen och BiB</string>
     <string name="premium_fea_pre_vid_wp">Låt videoförhandsvisning visas medan du spelar en annan video</string>
-    <string name="hint_click_icon">Klicka på ikonen för en kanal eller grupp öppnar en snabbmeny (om tillgänglig).</string>
-    <string name="hint_right_jump">Att trycka på högerknappen i de flesta alfabetiskt sorterade listor öppnar en snabb hoppvy.</string>
     <string name="category_recent_channels">Nyligen</string>
     <string name="category_all_channels">Alla kanaler</string>
     <string name="cfg_no_categories">Använd lista med vanliga kanaler (utan kategorier)</string>
@@ -385,7 +381,6 @@
     <string name="restore_state">Återställ tillstånd</string>
     <string name="pro_studio">Studioläge, så att du kan titta på flera strömmar samtidigt</string>
     <string name="cfg_prov_channel_name">Visa leverantörens namn i kanalnamnet när du använder flera leverantörer</string>
-    <string name="hint_long_up_down">Lång tryckning på upp- och nedpilarna möjliggör snabbare listnavigation</string>
     <string name="pla_act_quick_seek_back_20">Sök bakåt med 20 sekunder</string>
     <string name="pla_act_quick_seek_fwd_20">Sök framåt med 20 sekunder</string>
     <string name="cfg_touch_control">Touch konfiguration</string>
@@ -396,7 +391,6 @@
     <string name="pos_center_right">Centrum till höger</string>
     <string name="pos_center_bottom">Nedre centrum</string>
     <string name="cfg_studio_maximize_size">Mått på maximalt fönster</string>
-    <string name="pro_desc_try_free">Du kan förhandsgranska premiumfunktioner genom att prenumerera på månadsplanen. Det har flera startdagar gratis om du inte redan har betalningar.</string>
     <string name="cfg_auto_start_system_pip">Gå automatiskt in i systembild-i-bild-läge när du byter från spelare till hemskärm</string>
     <string name="pla_act_hud">Visa spelargränssnitt med sändningsdetaljer</string>
     <string name="pla_act_prop_channel">Kanalegenskaper</string>
@@ -449,7 +443,6 @@
     <string name="swipe_horizontal">Horisontellt svepa</string>
     <string name="expiration">Förnya senast</string>
     <string name="trial_account">Testkonto</string>
-    <string name="premium_google_account">Alla inköp gäller alla enheter som delar samma konto.</string>
     <string name="player_live_recent_archive">Återuppta uppspelning av nyligen spelade arkiverade video?</string>
     <string name="player_live_recent_archive_archive">Återuppta uppspelningen</string>
     <string name="player_live_recent_archive_live">Direktsändning</string>
@@ -701,4 +694,6 @@
     <string name="action_can_not_undo_continue">Den här åtgärden kan inte ångras, vill du fortsätta?</string>
     <string name="use_same_as_in_live">Använd samma värde som för livestreamar</string>
     <string name="refresh_periodically">Uppdatera med jämna mellanrum</string>
+    <string name="user_guide">Användarguide</string>
+    <string name="support_1conn_provider">Aktivera support för leverantör som bara har en enda anslutning</string>
     </resources>
