@@ -734,4 +734,6 @@
     <string name="refresh_periodically">Làm mới định kỳ</string>
     <string name="user_guide">Hướng dẫn sử dụng</string>
     <string name="support_1conn_provider">Cho phép hỗ trợ cho nhà cung cấp chỉ có một kết nối duy nhất</string>
+    <string name="merge_data">Hợp nhất dữ liệu</string>
+    <string name="reopen_stream_if_paused_for_a_while">Mở lại luồng nếu bị tạm dừng một lúc</string>
     </resources>

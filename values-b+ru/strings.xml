@@ -734,4 +734,6 @@
     <string name="refresh_periodically">Периодически обновляйте</string>
     <string name="user_guide">Гид пользователя</string>
     <string name="support_1conn_provider">Включить поддержку провайдера, у которого есть только одно соединение.</string>
+    <string name="merge_data">Объединить данные</string>
+    <string name="reopen_stream_if_paused_for_a_while">Возобновить трансляцию, если она была приостановлена на некоторое время.</string>
     </resources>

@@ -739,4 +739,6 @@
     <string name="refresh_periodically">Periodiski atsvaidziniet</string>
     <string name="user_guide">Lietotāja rokasgrāmata</string>
     <string name="support_1conn_provider">Iespējot atbalstu pakalpojumu sniedzējam, kuram ir tikai viens savienojums</string>
+    <string name="merge_data">Apvienot datus</string>
+    <string name="reopen_stream_if_paused_for_a_while">Atkārtoti atveriet straumi, ja tā kādu laiku ir apturēta</string>
     </resources>

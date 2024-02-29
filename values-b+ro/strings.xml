@@ -695,4 +695,6 @@
     <string name="refresh_periodically">Actualizează periodic</string>
     <string name="user_guide">Manualul utilizatorului</string>
     <string name="support_1conn_provider">Activați asistența pentru furnizorul care are o singură conexiune</string>
+    <string name="merge_data">Îmbinați datele</string>
+    <string name="reopen_stream_if_paused_for_a_while">Redeschideți fluxul dacă este întrerupt pentru un timp</string>
     </resources>

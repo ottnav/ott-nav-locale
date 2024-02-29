@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Vaqti-vaqti bilan yangilang</string>
     <string name="user_guide">Foydalanuvchi uchun qo\'llanma</string>
     <string name="support_1conn_provider">Faqat bitta ulanishga ega bo\'lgan provayderni qo\'llab-quvvatlashni yoqing</string>
+    <string name="merge_data">Ma\'lumotlarni birlashtirish</string>
+    <string name="reopen_stream_if_paused_for_a_while">Agar biroz pauza qilingan bo‘lsa, oqim qayta oching</string>
     </resources>

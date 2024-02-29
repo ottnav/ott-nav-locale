@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Vaxtaşırı yeniləyin</string>
     <string name="user_guide">İstifadəçi təlimatı</string>
     <string name="support_1conn_provider">Yalnız bir əlaqəsi olan provayder üçün dəstəyi aktivləşdirin</string>
+    <string name="merge_data">Məlumatları birləşdirin</string>
+    <string name="reopen_stream_if_paused_for_a_while">Bir müddət dayandırılsa, yayımı yenidən açın</string>
     </resources>

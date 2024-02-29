@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Odśwież okresowo</string>
     <string name="user_guide">Podręcznik użytkownika</string>
     <string name="support_1conn_provider">Włącz obsługę dostawcy, który ma tylko jedno połączenie</string>
+    <string name="merge_data">Scal dane</string>
+    <string name="reopen_stream_if_paused_for_a_while">Otwórz ponownie transmisję, jeśli została wstrzymana na chwilę</string>
     </resources>

@@ -742,4 +742,6 @@
     <string name="refresh_periodically">ﻱﺭﻭﺩ ﻞﻜﺸﺑ ﺚﻳﺪﺤﺘﻟﺎﺑ ﻢﻗ</string>
     <string name="user_guide">ﻡﺪﺨﺘﺴﻤﻟﺍ ﻞﻴﻟﺩ</string>
     <string name="support_1conn_provider">ﻂﻘﻓ ﺪﺣﺍﻭ ﻝﺎﺼﺗﺍ ﻪﻳﺪﻟ ﻱﺬﻟﺍ ﺮﻓﻮﻤﻠﻟ ﻢﻋﺪﻟﺍ ﻦﻴﻜﻤﺗ</string>
+    <string name="merge_data">ﺕﺎﻧﺎﻴﺒﻟﺍ ﺞﻣﺩ</string>
+    <string name="reopen_stream_if_paused_for_a_while">ﺖﻗﻮﻟﺍ ﻦﻣ ﺓﺮﺘﻔﻟ ﺎﺘًﻗﺆﻣ ﻪﻓﺎﻘﻳﺇ ﻢﺗ ﺍﺫﺇ ﺚﺒﻟﺍ ﺢﺘﻓ ﺪﻋﺃ</string>
     </resources>

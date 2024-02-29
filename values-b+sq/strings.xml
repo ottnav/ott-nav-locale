@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Rifreskojeni periodikisht</string>
     <string name="user_guide">Udhëzues Përdorues</string>
     <string name="support_1conn_provider">Aktivizo mbështetjen për ofruesin që ka vetëm një lidhje të vetme</string>
+    <string name="merge_data">Bashkoni të dhënat</string>
+    <string name="reopen_stream_if_paused_for_a_while">Rihap transmetimin nëse ndalet për pak kohë</string>
     </resources>

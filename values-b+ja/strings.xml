@@ -742,4 +742,6 @@
     <string name="refresh_periodically">定期的に更新する</string>
     <string name="user_guide">ユーザーガイド</string>
     <string name="support_1conn_provider">接続が 1 つだけあるプロバイダーのサポートを有効にする</string>
+    <string name="merge_data">データを結合する</string>
+    <string name="reopen_stream_if_paused_for_a_while">ストリームを一時停止した場合に再開する</string>
     </resources>

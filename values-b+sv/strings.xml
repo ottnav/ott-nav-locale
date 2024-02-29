@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Uppdatera med jämna mellanrum</string>
     <string name="user_guide">Användarguide</string>
     <string name="support_1conn_provider">Aktivera support för leverantör som bara har en enda anslutning</string>
+    <string name="merge_data">Slå samman data</string>
+    <string name="reopen_stream_if_paused_for_a_while">Öppna streamen igen om den har pausats en stund</string>
     </resources>

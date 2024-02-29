@@ -695,4 +695,6 @@
     <string name="refresh_periodically">Pravidelně obnovujte</string>
     <string name="user_guide">Uživatelská příručka</string>
     <string name="support_1conn_provider">Povolit podporu pro poskytovatele, který má pouze jedno připojení</string>
+    <string name="merge_data">Sloučit data</string>
+    <string name="reopen_stream_if_paused_for_a_while">Pokud je stream na chvíli pozastaven, znovu otevřete</string>
     </resources>

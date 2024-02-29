@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Osvježavajte povremeno</string>
     <string name="user_guide">Korisnički vodič</string>
     <string name="support_1conn_provider">Omogućite podršku za provajdera koji ima samo jednu vezu</string>
+    <string name="merge_data">Spoji podatke</string>
+    <string name="reopen_stream_if_paused_for_a_while">Ponovo otvori stream ako je neko vrijeme pauziran</string>
     </resources>

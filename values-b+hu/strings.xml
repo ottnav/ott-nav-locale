@@ -695,4 +695,6 @@
     <string name="refresh_periodically">Rendszeresen frissítse</string>
     <string name="user_guide">Használati útmutató</string>
     <string name="support_1conn_provider">Engedélyezze a támogatást az egyetlen kapcsolattal rendelkező szolgáltató számára</string>
+    <string name="merge_data">Adatok egyesítése</string>
+    <string name="reopen_stream_if_paused_for_a_while">Nyissa meg újra az adatfolyamot, ha egy ideig szünetel</string>
     </resources>

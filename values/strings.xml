@@ -737,4 +737,6 @@
     <string name="refresh_periodically">Refresh periodically</string>
     <string name="user_guide">User guide</string>
     <string name="support_1conn_provider">Enable support for provider that has only a single connection</string>
+    <string name="merge_data">Merge data</string>
+    <string name="reopen_stream_if_paused_for_a_while">Reopen stream if paused for a while</string>
 </resources>

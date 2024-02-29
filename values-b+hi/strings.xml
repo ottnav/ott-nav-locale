@@ -742,4 +742,6 @@
     <string name="refresh_periodically">समय-समय पर ताज़ा करें</string>
     <string name="user_guide">उपयोगकर्ता गाइड</string>
     <string name="support_1conn_provider">उस प्रदाता के लिए समर्थन सक्षम करें जिसके पास केवल एक ही कनेक्शन है</string>
+    <string name="merge_data">डेटा मर्ज करें</string>
+    <string name="reopen_stream_if_paused_for_a_while">यदि कुछ समय के लिए रुका हो तो स्ट्रीम को फिर से खोलें</string>
     </resources>

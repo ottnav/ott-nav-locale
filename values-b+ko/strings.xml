@@ -744,4 +744,6 @@
     <string name="refresh_periodically">주기적으로 새로 고침</string>
     <string name="user_guide">사용자 설명서</string>
     <string name="support_1conn_provider">단일 연결만 있는 공급자에 대한 지원 활성화</string>
+    <string name="merge_data">데이터 병합</string>
+    <string name="reopen_stream_if_paused_for_a_while">잠시 일시중지된 경우 스트림을 다시 엽니다.</string>
     </resources>

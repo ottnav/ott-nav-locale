@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Občasno osvežite</string>
     <string name="user_guide">Navodila</string>
     <string name="support_1conn_provider">Omogoči podporo za ponudnika, ki ima samo eno povezavo</string>
+    <string name="merge_data">Združi podatke</string>
+    <string name="reopen_stream_if_paused_for_a_while">Ponovno odprite tok, če je za nekaj časa zaustavljen</string>
     </resources>
