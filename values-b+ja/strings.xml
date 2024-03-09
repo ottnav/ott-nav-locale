@@ -1,9 +1,6 @@
 <resources>
     <string name="press_back_once_more_to_exit">もう一度押すと終了します</string>
-
     <string name="search_bar">チャネルまたはプログラムで検索</string>
-
-
     <string name="menu_search">ビデオ検索</string>
     <string name="menu_live">ライブストリーム</string>
     <string name="menu_archive">アーカイブを表示</string>
@@ -11,12 +8,8 @@
     <string name="menu_error_require_provider_button">プロバイダの設定</string>
     <string name="menu_error_require_live_but_no_playlist_title">チャンネルのあるプレイリストの読み込みに失敗しました</string>
     <string name="menu_error_require_live_but_no_playlist_text">設定されたプロバイダまたはプレイリストにはアクセスできません。プロバイダの設定をもう一度確認し、問題が解決しない場合は、IPTVプロバイダにお問い合わせください。</string>
-
-
     <string name="browse_description_series_number">エピソード</string>
     <string name="browse_description_header_live">ライブチャンネル</string>
-
-
     <string name="category_movies">すべての映画</string>
     <string name="category_tv_series">すべてのTVシリーズ</string>
     <string name="category_tv_shows">すべてのテレビ番組</string>
@@ -33,8 +26,6 @@
     <string name="category_desc_exact_tv_shows">テレビ番組</string>
     <string name="category_desc_tv_channel">テレビチャンネル</string>
     <string name="category_desc_from_fav">お気に入りのチャンネルのコンテンツのみ</string>
-
-
     <string name="in_1_minute">1分で</string>
     <string name="in_n_minutes">10分で</string>
     <string name="player_episode_details_season">シーズン</string>
@@ -44,8 +35,6 @@
     <string name="player_touch_to_cancel">キャンセルするタッチスクリーン</string>
     <string name="player_state_no_media_ended">ストリームが選択されていない（終了しました）</string>
     <string name="player_state_buffering">バッファリング</string>
-
-
     <string name="error_this_video_requires_external_player">このビデオは、最高の経験のために外部プレーヤーが必要です</string>
     <string name="error_stream_not_reachable_no_connect">ストリームに到達できません（接続できません）。プロバイダに連絡する</string>
     <string name="error_stream_not_reachable_no_resource">ストリームに到達できません。プロバイダに連絡する</string>
@@ -53,15 +42,13 @@
     <string name="error_archive_not_supported_this_channel">プロバイダはこのチャンネルにアーカイブを提供していません</string>
     <string name="error_search_nothing_found">あなたの検索クエリと一致するものはありません</string>
     <string name="error_require_file_permission_grant_and_try_again">ストレージへのアクセスが必要です。アクセスを提供し、操作を再試行する</string>
-
     <string name="info_teleguide_loaded">テレガイド（EPG）が読み込まれました：レコード</string>
-
     <string name="player_menu_select_channel_title">別のチャンネル</string>
     <string name="player_menu_set_pause_on_title">再生を一時停止する</string>
     <string name="player_menu_set_pause_off_title">再生を再開する</string>
     <string name="player_menu_set_pause_on_details">遊ぶ</string>
     <string name="player_menu_set_pause_off_details">一時停止した</string>
-    <string name="player_menu_show_timetable_title">時刻表</string>
+    <string name="player_menu_show_timetable_title">番組表</string>
     <string name="player_menu_playback_parameters_title">パラメーター</string>
     <string name="player_menu_playback_parameters_speed">再生速度</string>
     <string name="player_menu_aspect_ratio_title">アスペクト比</string>
@@ -78,7 +65,6 @@
     <string name="player_menu_pip_on_details">ピクチャインピクチャモードを終了する</string>
     <string name="player_menu_pip_swap_details">メインチャンネルとPiPを交換</string>
     <string name="player_menu_last_channel">最後のチャンネル</string>
-
     <string name="settings_player_pip_codec">ピクチャー・イン・ピクチャーコーデックの選択</string>
     <string name="settings_player_pip_position_tl">左上</string>
     <string name="settings_player_pip_position_tr">右上</string>
@@ -89,22 +75,17 @@
     <string name="settings_channel_sort_mode_prov">プロバイダプレイリストからの注文</string>
     <string name="settings_channel_sort_mode_name">名前（お気に入り、アルファベット順）</string>
     <string name="settings_run_at_boot">デバイス起動時にアプリケーションを起動する</string>
-
     <string name="hint_title">ヒント</string>
     <string name="hint_fav_sorting">アプリケーションは、チャネルを時計周波数でソートします。お気に入りとしてマークしたチャンネルは常に先頭に表示されます。プロバイダのチャネルオーダーを有効にして自動ソートを無効にすることはできますが、お気に入りフィルタは使用できません。</string>
     <string name="hint_video_codecs">ソースがひどく再生されている場合は、設定でバッファサイズを増やしたり、別のストリームデコーダ（ハードウェアまたはソフトウェア）に切り替えたり、何かが失敗した場合は再生用に外部プレーヤーを使用するように設定できます。</string>
     <string name="hint_auto_turn_off">何らかのアイドル時間の後に自動ストリームスイッチをオフに設定することができます（1分あたりの課金に便利です）。アイドルとは、プレイヤーの行動が使用されていないことを意味します（例えば、メニュー、シーク、一時停止など）。</string>
-
     <string name="settings_provider_select_type_intro1">注：このアプリケーションを使用するには、OTT / IPTVプロバイダーが必要です。</string>
     <string name="settings_provider_select_type_intro2">アプリケーションはユーザー提供のプレイリストでのみ動作します。</string>
     <string name="settings_provider_select_apply">適用</string>
     <string name="settings_provider_select_return">戻る</string>
-
     <string name="settings_provider_select_status_error">構成エラー。データの読み込みに失敗しました</string>
     <string name="settings_provider_select_status_success">設定が正常に適用された</string>
-
     <string name="settings_provider_select_error_live">サポートされているライブチャンネルはありません。ユーザー名/キー/パスワード/ URLを確認してください。</string>
-
     <string name="archive_auto_seek_no">いいえ、最初から見てください</string>
     <string name="future_show_sheet_add_wl_title">チャンネルに切り替えるように通知する</string>
     <string name="future_show_sheet_search_title">アーカイブで検索</string>
@@ -124,11 +105,9 @@
     <string name="channel_more_hide_desc">リストから削除する</string>
     <string name="hud_short_volume">ボリューム</string>
     <string name="hud_short_bright">輝度</string>
-
     <string name="settings_provider">プロバイダ</string>
     <string name="settings_media_library">メディアライブラリ</string>
     <string name="settings_media_library_dnla">ローカルネットワーク内のUPnP / DLNAソースをスキャンする</string>
-
     <string name="settings_player">プレーヤー</string>
     <string name="settings_player_hide_ui">再生時のUIオーバーレイを非表示にする</string>
     <string name="settings_player_resize_mode">ビデオスケールモード</string>
@@ -137,35 +116,24 @@
     <string name="settings_player_resize_mode_zoom">画面にズームする</string>
     <string name="settings_player_resize_mode_zoom_in">画面をズームアウトする</string>
     <string name="settings_player_auto_stop_live">ブロードキャストを自動的にオフにする</string>
-
     <string name="settings_extended">拡張設定</string>
-    <string name="settings_extended_hide_adult">大人のカテゴリを隠す</string>
+    <string name="settings_extended_hide_adult">成年向けカテゴリを隠す</string>
     <string name="settings_extended_auto_start_last_channel">最後に再生したチャンネルを自動的に開始する</string>
     <string name="settings_schedule_epg_reload">Reload EPG teleguide ...</string>
-
     <string name="settings_visual">ビジュアルスタイル</string>
-
     <string name="settings_live_quick_channel_switch_delay">クイックスイッチングチャネルの前の遅延</string>
-
     <string name="settings_player_buffer_size">ブロードキャストバッファサイズ</string>
-    <string name="settings_show_clock_in_player_always">ビデオを見ながら現在の時間を表示する</string>
-
+    <string name="settings_show_clock_in_player_always">動画の再生中に現在の時間を表示する</string>
     <string name="settings_font_style">文字サイズ</string>
     <string name="settings_palette_style">カラーパレット方式</string>
-
     <string name="settings_ui_screen_margins">画面のマージン</string>
-    <string name="settings_ui_language">言語（設定されていない場合はデフォルトを使用）</string>
-
+    <string name="settings_ui_language">アプリの言語</string>
     <string name="settings_codec">コーデック設定</string>
     <string name="settings_codec_hard">常にハードウェアコーデックを使用する</string>
     <string name="settings_codec_soft_vlc">常にソフトウェアVLCコーデックを使用する</string>
     <string name="settings_codec_external">常に外部プレーヤーを使用する</string>
-
     <string name="settings_epg">EPGテレガイド</string>
-
-    <string name="settings_external_player">外部プレーヤー（デフォルトですべて試してください）</string>
-
-
+    <string name="settings_external_player">外部プレーヤー</string>
     <string name="settings_premium">プレミアム</string>
     <string name="settings_premium_source_purchase">プレミアム購入</string>
     <string name="settings_premium_source_subscription">プレミアム契約</string>
@@ -174,10 +142,8 @@
     <string name="settings_premium_what_included_1">ライブストリームを見ながらピクチャーインピクチャーモード</string>
     <string name="settings_premium_what_included_3">ビデオと一致する自動フレームレート切り替え</string>
     <string name="settings_premium_what_included_4">アーカイブの再生速度の制御</string>
-
     <string name="settings_premium_toggles_try_afr">ビデオと一致する自動切り替えフレームレート</string>
     <string name="settings_premium_toggles_try_afr_toast">現在サポートされているリフレッシュレート</string>
-
     <string name="settings_premium_toggle_btn_title">プレミア機能を有効にする</string>
     <string name="settings_premium_toggle_btn_sub_add">申し込む</string>
     <string name="settings_premium_toggle_btn_sub_add_desc">少額の定期的な支払いを購読することでプレミアムを有効にする</string>
@@ -185,8 +151,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">単価でプレミアムを有効にする</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">広告パックを購入しない（すべてのプレミアムパックにも含まれています）</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">一度の支払いで永久に広告を無効にする</string>
-
-
     <string name="setting_list_view_title">リストの表示方法</string>
     <string name="setting_list_view1">単純なリスト</string>
     <string name="cfg_play_deny_buffer">バッファリング状態を表示しない</string>
@@ -198,8 +162,6 @@
     <string name="cfg_play_action_last">最後に再生したチャンネルに切り替える</string>
     <string name="cfg_play_action_title">セットアップリモートコントローラ</string>
     <string name="cfg_trans_wind">透過的なインターフェイスを使用する</string>
-
-
     <string name="do_not_show">見せないで</string>
     <string name="spread_title">アプリのように？言葉を広める！</string>
     <string name="spread_btn_rate">5つ星の評価アプリ</string>
@@ -218,7 +180,6 @@
     <string name="premium_fea_6">ストリームをワイヤレスディスプレイに送信する</string>
     <string name="wifi_display">ワイヤレスディスプレイ</string>
     <string name="wifi_display_desc">別のデバイスでストリームを再生する</string>
-
     <string name="cfg_play_action_pp">再生を一時停止または再開する</string>
     <string name="cfg_play_action_btn_red">赤いボタンのアクション</string>
     <string name="cfg_play_action_btn_green">グリーンボタンの操作</string>
@@ -251,7 +212,6 @@
     <string name="cfg_video_retry">エラーが発生したときにビデオの読み込みを再試行する時間</string>
     <string name="cfg_play_action_2live">現在のチャンネルのライブブロードキャストに切り替えます</string>
     <string name="player_menu_2live">ライブに切り替える</string>
-
     <string name="btn_seek">シーク</string>
     <string name="cfg_play_action_mseek">ビデオシークビューを開始します</string>
     <string name="menu_exit">出口</string>
@@ -290,7 +250,6 @@
     <string name="cfg_no_categories">通常のチャンネルリストを使用する（カテゴリなし）</string>
     <string name="cfg_section_desc">アイテム説明</string>
     <string name="cfg_section_lists">設定を一覧表示する</string>
-
     <string name="cfg_no_hints">ヒントを表示しない</string>
     <string name="child_mode_unlock_cfg">設定をロック解除するための子コードを入力してください</string>
     <string name="cfg_child_mode">子モード</string>
@@ -301,7 +260,6 @@
     <string name="cfg_player_hide_menu">メニューを非表示にするためのタイムアウト（秒）</string>
     <string name="choose_auto">自動的に選択</string>
     <string name="cfg_stream_tech">ストリームテクノロジ（利用可能な場合）</string>
-
     <string name="cfg_show_ch_numbers">チャンネル番号を表示</string>
     <string name="always">常に</string>
     <string name="menu_tv_guide">テレビガイド</string>
@@ -327,7 +285,6 @@
     <string name="cfg_codec_exo_q">ハードウェアコーデック品質</string>
     <string name="cfg_codec_exo_max">ベストマッチ</string>
     <string name="cfg_codec_exo_compat">互換モード</string>
-
     <string name="suggest_better_prov_tpl">あなたのプロバイダのためのより良いテンプレートがあるようです</string>
     <string name="place_pl_to_downloads">ダウンロードに有効な再生リストが見つかりません</string>
     <string name="only_1_active">同時に複数のアクティブプロバイダーを持つにはプレミアムが必要です</string>
@@ -365,7 +322,6 @@
     <string name="ask_finish_update">新しいバージョンにアップデートするためにアプリを再起動しますか？</string>
     <string name="cfg_premium_etc">そして他の多くの貴重な機能</string>
     <string name="cfg_fine_tune_volume">手動オーディオ音量微調整（システム音量によって制限されます）</string>
-
     <string name="cfg_arch_unp">ライブストリームの一時停止を解除するときにアーカイブを自動的に再開する</string>
     <string name="cfg_ch_more_epg">EPGより大きいチャンネル名を表示</string>
     <string name="show_menu_add_to_cont_watching">後で見続ける</string>
@@ -378,7 +334,6 @@
     <string name="btn_provider_attr_epg">EPGソース</string>
     <string name="change_pip_size">サイズ変更</string>
     <string name="change_pip_place">画面上を移動する</string>
-
     <string name="only_manually_added">手動でのみ追加</string>
     <string name="check_for_updates">アップデートを確認</string>
     <string name="has_updates_starting">アップデートが利用可能であり、すぐに開始されます</string>
@@ -397,7 +352,6 @@
     <string name="pla_menu_type_grid">グリッド</string>
     <string name="ch_manage_use_internal">内部プレーヤーを使用</string>
     <string name="cat_manage_start_this_cat_on">このカテゴリから始める</string>
-
     <string name="studio_mode_open_in">スタジオモードで開く</string>
     <string name="studio_mode_title">スタジオモード</string>
     <string name="studio_mode_remove">画面を削除</string>
@@ -500,7 +454,7 @@
     <string name="cfg_ext_app_on_home">ホーム画面に外部アプリケーションを表示する</string>
     <string name="player_select_screen_main">メインスクリーン</string>
     <string name="never">決して</string>
-    <string name="by_default">デフォルトで</string>
+    <string name="by_default">デフォルト</string>
     <string name="sleep_timer">目覚まし時計</string>
 <string name="err_need_provider">IPTVプロバイダーが必要です</string>
     <string name="err_need_provider_text">IPTVプロバイダーを構成する必要があります。設定を開き、プロバイダー（またはプレイリスト）を追加します。</string>
@@ -555,7 +509,7 @@
     <string name="cfg_offer_to_seek_to_last_pos">最後に表示された位置にシークするオファー</string>
     <string name="best_offer">最高の提案</string>
     <string name="popular_offer">人気のオファー</string>
-    <string name="favorites_go_top">お気に入りのリストアイテムを最初にリストする必要があります</string>
+    <string name="favorites_go_top">お気に入りのアイテムをリストの先頭に表示する</string>
     <string name="action_lock_screen">画面制御のブロック</string>
     <string name="screen_is_locked">画面制御がブロックされています</string>
     <string name="prev_category">前のカテゴリー</string>
@@ -613,7 +567,7 @@
     <string name="epg_multi_threaded">EPGを更新するときは、複数のスレッドを使用してください。ロードを高速化しますが、更新中にアプリのパフォーマンスに影響を与える可能性があります。</string>
     <string name="switch_instantly">即座に切り替える</string>
     <string name="buffer_size_no">再生バッファがありません。使用するメモリが少なく、プロキシされたコンテンツを視聴する場合に推奨されます。</string>
-    <string name="buffer_size_p1">バッファサイズの増加</string>
+    <string name="buffer_size_p1">バッファサイズを増やす</string>
     <string name="buffer_size_p2">大きなバッファサイズ</string>
     <string name="buffer_size_p3">巨大なバッファサイズ</string>
     <string name="font_size_sm">小さい</string>
@@ -640,7 +594,7 @@
     <string name="list_num_columns">列の数</string>
     <string name="show_on_main_screen">これをメイン画面に表示できるようにする</string>
     <string name="add_temp_stream_link">ストリームへの一時リンクをライブラリに追加します</string>
-    <string name="auto_start_this_ch_on_start">アプリの起動時にこのチャンネルの再生を自動開始します</string>
+    <string name="auto_start_this_ch_on_start">アプリの起動時にこのチャンネルの再生を自動開始する</string>
     <string name="hint_themes">アプリにはたくさんの視覚的なテーマがあり、自分に最も適したものを選択できることをご存知ですか？</string>
     <string name="hint_customizing">メニュー、リスト、色など、アプリのほぼすべての側面が高度に構成可能であることをご存知ですか？</string>
     <string name="hint_setup_keys">リモコンのボタンを任意のアクションに設定できます</string>

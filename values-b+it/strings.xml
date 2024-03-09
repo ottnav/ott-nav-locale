@@ -134,7 +134,7 @@
     <string name="settings_codec_external">Usa sempre un lettore esterno</string>
     <string name="settings_epg">Teleguida EPG</string>
     <string name="settings_external_player">Player esterno (prova tutto per impostazione predefinita)</string>
-    <string name="settings_premium">premium</string>
+    <string name="settings_premium">Premium</string>
     <string name="settings_premium_source_purchase">Premium acquistato</string>
     <string name="settings_premium_source_subscription">Abbonamento Premium</string>
     <string name="settings_premium_source_unknown">Premium non abilitato</string>
@@ -379,7 +379,7 @@
     <string name="hint_long_ok_menu">La pressione prolungata del pulsante OK apre la schermata delle proprietà nella maggior parte dei casi</string>
     <string name="save_state">Salva stato</string>
     <string name="restore_state">Ripristina stato</string>
-<string name="pro_studio">Modalità Studio, che consente di guardare più flussi contemporaneamente</string>
+    <string name="pro_studio">Modalità Studio, che consente di guardare più flussi contemporaneamente</string>
     <string name="cfg_prov_channel_name">Mostra il nome del provider nel nome del canale quando si utilizzano più provider</string>
     <string name="pla_act_quick_seek_back_20">Indietro di 20 secondi</string>
     <string name="pla_act_quick_seek_fwd_20">Avanti di 20 secondi</string>
@@ -604,7 +604,7 @@
     <string name="launcher_button">Pulsanti di avvio</string>
     <string name="track_language">Tieni traccia della lingua</string>
     <string name="track_language_list">Elenco separato da virgole di codici di lingua</string>
-    <string name="fold_ch_pri_suffixes">Suffissi dei nomi preferiti da utilizzare quando si piega l\'elenco dei canali</string>
+    <string name="fold_ch_pri_suffixes">Suffissi dei nomi preferiti da utilizzare quando si raggruppa l\'elenco dei canali</string>
     <string name="fold_ch_by">Cosa considerare durante l\'unione</string>
     <string name="place_in_other_category">Posizionalo in una categoria diversa</string>
     <string name="yesterday">Ieri</string>

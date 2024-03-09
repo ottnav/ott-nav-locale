@@ -670,7 +670,7 @@
     <string name="use_vertical_view_on_phone">ใช้มุมมองแนวตั้งบนโทรศัพท์</string>
     <string name="lock_immediately">ล็อคทันที</string>
     <string name="genre">ประเภท</string>
-    <string name="cast">หล่อ</string>
+    <string name="cast">นักแสดง</string>
     <string name="producer">ผู้ผลิต</string>
     <string name="retry">ลองอีกครั้ง</string>
     <string name="undo">ย้อนกลับการเปลี่ยนแปลง</string>
