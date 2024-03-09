@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Ανανεώνετε περιοδικά</string>
     <string name="user_guide">ΟΔΗΓΟΣ ΧΡΗΣΤΗ</string>
     <string name="support_1conn_provider">Ενεργοποιήστε την υποστήριξη για πάροχο που έχει μόνο μία σύνδεση</string>
+    <string name="merge_data">Συγχώνευση δεδομένων</string>
+    <string name="reopen_stream_if_paused_for_a_while">Ανοίξτε ξανά τη ροή εάν σταματήσει για λίγο</string>
     </resources>

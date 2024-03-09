@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Päivitä säännöllisesti</string>
     <string name="user_guide">Käyttöohjeet</string>
     <string name="support_1conn_provider">Ota käyttöön tuki palveluntarjoajalle, jolla on vain yksi yhteys</string>
+    <string name="merge_data">Yhdistä tiedot</string>
+    <string name="reopen_stream_if_paused_for_a_while">Avaa stream uudelleen, jos se on keskeytetty jonkin aikaa</string>
     </resources>

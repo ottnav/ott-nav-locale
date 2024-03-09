@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Ververs periodiek</string>
     <string name="user_guide">Gebruikershandleiding</string>
     <string name="support_1conn_provider">Schakel ondersteuning in voor providers die slechts één verbinding hebben</string>
+    <string name="merge_data">Gegevens samenvoegen</string>
+    <string name="reopen_stream_if_paused_for_a_while">Heropen de stream als deze een tijdje is gepauzeerd</string>
     </resources>

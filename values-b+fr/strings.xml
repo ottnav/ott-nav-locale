@@ -741,4 +741,6 @@
     <string name="refresh_periodically">Actualiser périodiquement</string>
     <string name="user_guide">Mode d\'emploi</string>
     <string name="support_1conn_provider">Activer la prise en charge du fournisseur qui n\'a qu\'une seule connexion</string>
+    <string name="merge_data">Fusionner les données</string>
+    <string name="reopen_stream_if_paused_for_a_while">Rouvrir le flux s\'il est interrompu pendant un certain temps</string>
     </resources>

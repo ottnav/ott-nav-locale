@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Segarkan secara berkala</string>
     <string name="user_guide">Panduan pengguna</string>
     <string name="support_1conn_provider">Aktifkan dukungan untuk penyedia yang hanya memiliki satu koneksi</string>
+    <string name="merge_data">Gabungkan data</string>
+    <string name="reopen_stream_if_paused_for_a_while">Buka kembali streaming jika dijeda beberapa saat</string>
     </resources>

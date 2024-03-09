@@ -696,4 +696,6 @@
     <string name="refresh_periodically">პერიოდულად განაახლეთ</string>
     <string name="user_guide">Მომხმარებლის სახელმძღვანელო</string>
     <string name="support_1conn_provider">ჩართეთ მხარდაჭერა პროვაიდერისთვის, რომელსაც აქვს მხოლოდ ერთი კავშირი</string>
+    <string name="merge_data">მონაცემების შერწყმა</string>
+    <string name="reopen_stream_if_paused_for_a_while">ხელახლა გახსენით ნაკადი, თუ ცოტა ხნით შეჩერებულია</string>
     </resources>

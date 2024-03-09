@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Опреснявайте периодично</string>
     <string name="user_guide">Упътване за употреба</string>
     <string name="support_1conn_provider">Активиране на поддръжка за доставчик, който има само една връзка</string>
+    <string name="merge_data">Обединяване на данни</string>
+    <string name="reopen_stream_if_paused_for_a_while">Отворете отново потока, ако е спрян за известно време</string>
     </resources>

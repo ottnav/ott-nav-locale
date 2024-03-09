@@ -741,4 +741,6 @@
     <string name="refresh_periodically">תעל תעמ ןנער</string>
     <string name="user_guide">שמתשמל ךירדמ</string>
     <string name="support_1conn_provider">דיחי רוביח קר ול שיש קפסל הכימת רשפא</string>
+    <string name="merge_data">םינותנ גוזימ</string>
+    <string name="reopen_stream_if_paused_for_a_while">המ ןמזל ההשוה םא םרזה תא שדחמ חתפ</string>
     </resources>

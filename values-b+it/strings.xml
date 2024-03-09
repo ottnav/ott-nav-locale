@@ -696,4 +696,6 @@
     <string name="refresh_periodically">Aggiorna periodicamente</string>
     <string name="user_guide">Guida utente</string>
     <string name="support_1conn_provider">Abilita il supporto per il provider che ha una sola connessione</string>
+    <string name="merge_data">Unisci i dati</string>
+    <string name="reopen_stream_if_paused_for_a_while">Riapri lo streaming se messo in pausa per un po\'</string>
     </resources>

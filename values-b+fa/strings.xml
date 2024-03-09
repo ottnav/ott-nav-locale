@@ -742,4 +742,6 @@
     <string name="refresh_periodically">ﺪﯿﻨﮐ ﻩﺯﺎﺗ ﯼﺍ ﻩﺭﻭﺩ ﺕﺭﻮﺻ ﻪﺑ</string>
     <string name="user_guide">ﺮﺑﺭﺎﮐ ﯼﺎﻤﻨﻫﺍﺭ</string>
     <string name="support_1conn_provider">ﺩﺭﺍﺩ ﻝﺎﺼﺗﺍ ﮏﯾ ﻂﻘﻓ ﻪﮐ ﯼﺍ ﻩﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ ﯼﺍﺮﺑ ﯽﻧﺎﺒﯿﺘﺸﭘ ﻥﺩﺮﮐ ﻝﺎﻌﻓ</string>
+    <string name="merge_data">ﺎﻫ ﻩﺩﺍﺩ ﻡﺎﻏﺩﺍ</string>
+    <string name="reopen_stream_if_paused_for_a_while">ﺪﯿﻨﮐ ﺯﺎﺑ ﻩﺭﺎﺑﻭﺩ ﺍﺭ ﻥﺎﯾﺮﺟ ،ﯽﺗﺪﻣ ﯼﺍﺮﺑ ﻒﻗﻮﺗ ﺕﺭﻮﺻ ﺭﺩ</string>
     </resources>

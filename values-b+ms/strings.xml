@@ -741,4 +741,6 @@
     <string name="refresh_periodically">Muat semula secara berkala</string>
     <string name="user_guide">Panduan pengguna</string>
     <string name="support_1conn_provider">Dayakan sokongan untuk pembekal yang hanya mempunyai satu sambungan</string>
+    <string name="merge_data">Menggabungkan data</string>
+    <string name="reopen_stream_if_paused_for_a_while">Buka semula strim jika dijeda seketika</string>
     </resources>

@@ -746,4 +746,6 @@
     <string name="refresh_periodically">Periodiškai atnaujinkite</string>
     <string name="user_guide">Naudotojo gidas</string>
     <string name="support_1conn_provider">Įgalinkite palaikymą teikėjui, kuris turi tik vieną ryšį</string>
+    <string name="merge_data">Sujungti duomenis</string>
+    <string name="reopen_stream_if_paused_for_a_while">Iš naujo atidarykite srautą, jei kurį laiką pristabdysite</string>
     </resources>

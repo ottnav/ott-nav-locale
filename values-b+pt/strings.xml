@@ -741,4 +741,6 @@
     <string name="refresh_periodically">Atualizar periodicamente</string>
     <string name="user_guide">Guia de usuario</string>
     <string name="support_1conn_provider">Habilitar suporte para provedor que possui apenas uma conexão</string>
+    <string name="merge_data">Mesclar dados</string>
+    <string name="reopen_stream_if_paused_for_a_while">Reabrir stream se estiver pausado por um tempo</string>
     </resources>

@@ -743,4 +743,6 @@
     <string name="refresh_periodically">পর্যায়ক্রমে রিফ্রেশ করুন</string>
     <string name="user_guide">ব্যবহারকারীর নির্দেশিকা</string>
     <string name="support_1conn_provider">শুধুমাত্র একটি সংযোগ আছে এমন প্রদানকারীর জন্য সমর্থন সক্ষম করুন৷</string>
+    <string name="merge_data">ডেটা মার্জ করুন</string>
+    <string name="reopen_stream_if_paused_for_a_while">কিছুক্ষণ বিরতি দিলে স্ট্রীম আবার খুলুন</string>
     </resources>

@@ -696,4 +696,6 @@
     <string name="refresh_periodically">รีเฟรชเป็นระยะ</string>
     <string name="user_guide">คู่มือผู้ใช้</string>
     <string name="support_1conn_provider">เปิดใช้งานการสนับสนุนสำหรับผู้ให้บริการที่มีการเชื่อมต่อเพียงจุดเดียว</string>
+    <string name="merge_data">รวมข้อมูล</string>
+    <string name="reopen_stream_if_paused_for_a_while">เปิดสตรีมอีกครั้งหากหยุดชั่วคราวชั่วขณะหนึ่ง</string>
     </resources>

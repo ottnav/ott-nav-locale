@@ -735,4 +735,6 @@
     <string name="refresh_periodically">Освежите периодично</string>
     <string name="user_guide">Упутство за употребу</string>
     <string name="support_1conn_provider">Омогућите подршку за провајдера који има само једну везу</string>
+    <string name="merge_data">Обједини податке</string>
+    <string name="reopen_stream_if_paused_for_a_while">Поново отвори стрим ако је неко време паузиран</string>
     </resources>

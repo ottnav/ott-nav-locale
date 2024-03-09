@@ -735,4 +735,6 @@
     <string name="refresh_periodically">Перыядычна абнаўляйце</string>
     <string name="user_guide">Кіраўніцтва карыстальніка</string>
     <string name="support_1conn_provider">Уключыць падтрымку пастаўшчыка, які мае толькі адно злучэнне</string>
+    <string name="merge_data">Аб\'яднаць дадзеныя</string>
+    <string name="reopen_stream_if_paused_for_a_while">Паўторна адкрыць паток, калі ён быў прыпынены на некаторы час</string>
     </resources>
