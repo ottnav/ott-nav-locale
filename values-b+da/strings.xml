@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">Premium købt</string>
     <string name="settings_premium_source_subscription">Premium abonneret</string>
     <string name="settings_premium_source_unknown">Premium ikke aktiveret</string>
-    <string name="settings_premium_what_included">Få mere at vide om premium-funktioner…</string>
-    <string name="settings_premium_what_included_1">Billede-i-billede-tilstand, mens du ser livestream</string>
-    <string name="settings_premium_what_included_3">Automatisk skift af billedhastighed for at matche video</string>
-    <string name="settings_premium_what_included_4">Styring af afspilningshastighed for arkiver</string>
     <string name="settings_premium_toggles_try_afr">Automatisk skift billedhastighed for at matche video</string>
     <string name="settings_premium_toggles_try_afr_toast">Aktuelle skærmunderstøttede opdateringshastigheder</string>
     <string name="settings_premium_toggle_btn_title">Aktiver premium-funktioner</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">Bedøm app med fem stjerner</string>
     <string name="spread_btn_share">Del applink med en ven</string>
     <string name="spread_share_title">Tag et kig på appen</string>
-    <string name="settings_premium_what_included_9">Kanalskift ved at indtaste kanalnummer</string>
     <string name="settings_channel_sort_mode_numb">nummer (efter kanalnummer, kan ændres)</string>
     <string name="ch_opt_change_number">Skift nummer</string>
     <string name="prov_btn_help">Hjælp</string>
     <string name="prov_help_telegram">Deltag i chat i Telegram</string>
-    <string name="settings_premium_what_included_5">Ingen annoncer</string>
     <string name="invalid_domain">Domænet er sandsynligvis ugyldigt. Tjek dit input</string>
     <string name="example">Eksempel</string>
     <string name="provider_generic">Generisk udbyder eller afspilningsliste</string>
     <string name="btn_search">Søg</string>
-    <string name="premium_fea_6">Send stream til en trådløs skærm</string>
     <string name="wifi_display">Trådløs skærm</string>
     <string name="wifi_display_desc">Afspil stream på en anden enhed</string>
     <string name="cfg_play_action_pp">pause eller genoptag afspilning</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">Tæt</string>
     <string name="prem_sub_add_3m">Abonner (faktureres hver 3. måned)</string>
     <string name="prem_sub_add_1y">Abonner (faktureres hvert år)</string>
-    <string name="premium_fea_pvsearch">Stemmesøgning, mens du ser. Søg efter kanal efter navn eller arkivindhold.</string>
     <string name="cfg_play_action_vsearch">stemmesøgning</string>
     <string name="settings_premium_source_enabled">Premium aktiveret</string>
     <string name="cfg_play_action_mute">dæmpe lyden</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">kun kvalitet betyder noget</string>
     <string name="channel_move_cat">Skift kategori</string>
     <string name="channel_move_new_cat">Opret ny kategori</string>
-    <string name="premium_fea_edit_list">Tillader redigering af kategorier, skjule kanaler osv</string>
     <string name="prov_help_bug">Rapporter et problem eller en fejl</string>
     <string name="prov_help_tpl">Rapportér udbyderskabelonproblem</string>
     <string name="prov_help_feature">Foreslå en ny funktion</string>
     <string name="prov_help_premium">Rapporter problem med betalinger eller præmier</string>
-    <string name="prov_help_contact_via_chat">kontakt udvikler via chat</string>
     <string name="prov_help_contact_via_email">kontakt udvikler via e-mail</string>
     <string name="prov_help_provide_more_info">Skriv din besked til udvikleren</string>
     <string name="cfg_time_imp">Brug kejserligt tidsformat (am/pm)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">øverste venstre hjørne</string>
     <string name="cat_vr_continue">Fortsæt med at se</string>
     <string name="cat_vr_continue_prem">Nyligt sete videoer, som er tilgængelige nu</string>
-    <string name="premium_fea_continue">Viser alle nyligt sete videoer, som i øjeblikket er tilgængelige i Fortsæt-filteret</string>
     <string name="menu_swap_pip_sound">Skift lyd mellem hovedskærm og PiP</string>
     <string name="premium_fea_pre_vid_wp">Tillad forhåndsvisning af video, mens du afspiller en anden video</string>
     <string name="category_recent_channels">Nylig</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">TV Guide</string>
     <string name="cfg_stream_q">Vis streamkvalitet</string>
     <string name="ext_player_copy_clipboard">Kopier kun link til udklipsholder</string>
-    <string name="premium_fea_mult_prov">Giver mulighed for at bruge flere udbydere på samme tid</string>
     <string name="btn_add_provider">Tilføj udbyder</string>
     <string name="btn_provider_edit">Redigere</string>
     <string name="btn_provider_delete">Slet</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">Marker manuelt</string>
     <string name="category_recently_added">Nylig tilføjet</string>
     <string name="ask_finish_update">Genstart appen for at opdatere til nyere version?</string>
-    <string name="cfg_premium_etc">Og mange andre værdifulde funktioner</string>
     <string name="cfg_fine_tune_volume">Manuel finjustering af lydstyrken (begrænset af systemlydstyrken)</string>
     <string name="cfg_arch_unp">Åbn automatisk arkivet igen, når livestreamen genoptages</string>
     <string name="cfg_ch_more_epg">Vis kanalnavn større end EPG</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">Langt tryk på OK-knappen åbner egenskabsskærmen i de fleste tilfælde</string>
     <string name="save_state">Gem tilstand</string>
     <string name="restore_state">Gendan tilstand</string>
-    <string name="pro_studio">Studio-tilstand, der gør det muligt at se flere streams på samme tid</string>
     <string name="cfg_prov_channel_name">Vis udbyderens navn i kanalnavnet, når du bruger flere udbydere</string>
     <string name="pla_act_quick_seek_back_20">søg 20 sekunder tilbage</string>
     <string name="pla_act_quick_seek_fwd_20">søg 20 sekunder frem</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">Aktiver support for udbyder, der kun har en enkelt forbindelse</string>
     <string name="merge_data">Flet data</string>
     <string name="reopen_stream_if_paused_for_a_while">Genåbn streamen, hvis den er sat på pause i et stykke tid</string>
+    <string name="join_app_community">Deltag i app-fællesskabet</string>
+    <string name="normalize_tv_show_name">Normaliser tv-programnavnet</string>
+    <string name="contact_your_provider">Kontakt din udbyder</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) certifikat er ugyldigt</string>
+    <string name="verify_net_before_update">Bekræft netværkets tilgængelighed, før du opdaterer data fra udbydere</string>
+    <string name="timezone">Tidszone</string>
     </resources>

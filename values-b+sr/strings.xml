@@ -164,10 +164,6 @@
     <string name="settings_premium_source_purchase">Премијум купљен</string>
     <string name="settings_premium_source_subscription">Премијум претплаћен</string>
     <string name="settings_premium_source_unknown">Премијум није омогућен</string>
-    <string name="settings_premium_what_included">Сазнај више о Премијум функцијама…</string>
-    <string name="settings_premium_what_included_1">Слика-у-слици режим	при гледању уживо преноса</string>
-    <string name="settings_premium_what_included_3">Аутоматска промена освежавања да се подудара са видеом</string>
-    <string name="settings_premium_what_included_4">Контролисање брзине репродукцује за архиве</string>
 
     <string name="settings_premium_toggles_try_afr">Аутоматски промени освежавање да се подудара са видеом</string>
     <string name="settings_premium_toggles_try_afr_toast">Подржане стопе освежавања тренутног екрана</string>
@@ -197,17 +193,14 @@
     <string name="spread_btn_rate">Оцијените апликацију са пет звјездица</string>
     <string name="spread_btn_share">Поделите везу апликације пријатељу</string>
     <string name="spread_share_title">Баците поглед на апликацију</string>
-    <string name="settings_premium_what_included_9">Промена канала преко уноса броја канала</string>
     <string name="settings_channel_sort_mode_numb">број (према броју канала, се може променити)</string>
     <string name="ch_opt_change_number">Промени број</string>
     <string name="prov_btn_help">Помоћ</string>
     <string name="prov_help_telegram">Придружи се ћаскању на Телеграму</string>
-    <string name="settings_premium_what_included_5">Без реклама</string>
     <string name="invalid_domain">Домен највјероватније није важећи. Провјерите унос</string>
     <string name="example">Примјер</string>
     <string name="provider_generic">Генерички провајдер или плејлиста</string>
     <string name="btn_search">Претражи</string>
-    <string name="premium_fea_6">Пошаљи стрим на удаљени екран</string>
     <string name="wifi_display">Удаљени екран</string>
     <string name="wifi_display_desc">Пусти стрим на другом уређају</string>
 
@@ -225,7 +218,6 @@
     <string name="btn_close">Затвори</string>
     <string name="prem_sub_add_3m">Претплати се (наплаћивање сваких 3 месеца)</string>
     <string name="prem_sub_add_1y">Претплати се (наплаћивање сваке године)</string>
-    <string name="premium_fea_pvsearch">Гласовна претрага приликом гледања. Претражи канал по имену, или садржају архиве.</string>
     <string name="cfg_play_action_vsearch">гласовна претрага</string>
     <string name="settings_premium_source_enabled">Премијум омогућен</string>
     <string name="cfg_play_action_mute">искључи звук</string>
@@ -258,12 +250,10 @@
     <string name="profile_high_q">само квалитет је битан</string>
     <string name="channel_move_cat">Промени категорију</string>
     <string name="channel_move_new_cat">Креирај нову категорију</string>
-    <string name="premium_fea_edit_list">Допушта едитовање категорија, сакривање канала, итд</string>
     <string name="prov_help_bug">Пријавите проблем или грешку</string>
     <string name="prov_help_tpl">Пријави проблем са шаблоном провајдера</string>
     <string name="prov_help_feature">Предложи нову функцију</string>
     <string name="prov_help_premium">Пријави проблем са претплатом или премијумом</string>
-    <string name="prov_help_contact_via_chat">контактирај програмера преко ћаскања</string>
     <string name="prov_help_contact_via_email">контактирај програмера преко имејла</string>
     <string name="prov_help_provide_more_info">Напиши поруку програмеру</string>
     <string name="cfg_time_imp">Користи империјални формат времена (ам/пм)</string>
@@ -274,7 +264,6 @@
     <string name="cfg_player_clock_tl">горњи леви угао</string>
     <string name="cat_vr_continue">Настави гледање</string>
     <string name="cat_vr_continue_prem">Недавни гледани видеи, који су доступни сада</string>
-    <string name="premium_fea_continue">Приказује све недавно гледане видее, који су тренутно доступни у Настави филтеру</string>
     <string name="menu_swap_pip_sound">Замените звук између главног екрана и ПиП</string>
     <string name="premium_fea_pre_vid_wp">Дозволи преглед видеа да се приказује приликом гледања другог видеа</string>
     <string name="category_recent_channels">Недавно</string>
@@ -299,7 +288,6 @@
     <string name="menu_tv_guide">ТВ Водич</string>
     <string name="cfg_stream_q">Прикажи квалитет стреам-а</string>
     <string name="ext_player_copy_clipboard">Копирај линк само у привремену меморију</string>
-    <string name="premium_fea_mult_prov">Дозволи више провајдера да се користе у исто време</string>
     <string name="btn_add_provider">Додај провајдера</string>
     <string name="btn_provider_edit">Уреди</string>
     <string name="btn_provider_delete">Избриши</string>
@@ -355,7 +343,6 @@
     <string name="menu_qs_provider_multiple">Означи ручно</string>
     <string name="category_recently_added">Недавно додато</string>
     <string name="ask_finish_update">Рестартуј апликацију и ажурирај на новију верзију?</string>
-    <string name="cfg_premium_etc">И многе друге вредне функције</string>
     <string name="cfg_fine_tune_volume">Ручно фино подешавање аудио гласноће (лимитирано системском гласноћом) </string>
 
     <string name="cfg_arch_unp">Аутоматски поново твори архиву при поништавању паузе ливе стреам-а</string>
@@ -418,7 +405,6 @@
     <string name="save_state">Сачувај стање</string>
     <string name="restore_state">Врати стање</string>
 
-    <string name="pro_studio">Студио режим, омогућава гледање више стреам-ова у исто време</string>
     <string name="cfg_prov_channel_name">Прикажи име провајдера на месту имена канала при коришћењу више провајдера</string>
     <string name="pla_act_quick_seek_back_20">премотај уназад 20 секунди</string>
     <string name="pla_act_quick_seek_fwd_20">премотај унапред 20 секунди</string>
@@ -737,4 +723,10 @@
     <string name="support_1conn_provider">Омогућите подршку за провајдера који има само једну везу</string>
     <string name="merge_data">Обједини податке</string>
     <string name="reopen_stream_if_paused_for_a_while">Поново отвори стрим ако је неко време паузиран</string>
+    <string name="join_app_community">Придружите се заједници апликација</string>
+    <string name="normalize_tv_show_name">Нормализујте назив ТВ емисије</string>
+    <string name="contact_your_provider">Обратите се свом провајдеру</string>
+    <string name="ssl_certificate_issue_detected">ССЛ (ХТТПС) сертификат је неважећи</string>
+    <string name="verify_net_before_update">Проверите доступност мреже пре ажурирања података од провајдера</string>
+    <string name="timezone">Временска зона</string>
     </resources>

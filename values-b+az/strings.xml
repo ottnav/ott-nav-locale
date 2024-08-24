@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">Premium alınıb</string>
     <string name="settings_premium_source_subscription">Premium abunə oldu</string>
     <string name="settings_premium_source_unknown">Premium aktiv deyil</string>
-    <string name="settings_premium_what_included">Premium funksiyalar haqqında ətraflı məlumat əldə edin…</string>
-    <string name="settings_premium_what_included_1">Canlı yayıma baxarkən şəkil içində şəkil rejimi</string>
-    <string name="settings_premium_what_included_3">Videoya uyğunlaşmaq üçün kadr sürətinin avtomatik dəyişdirilməsi</string>
-    <string name="settings_premium_what_included_4">Arxivlər üçün oxutma sürətinə nəzarət</string>
     <string name="settings_premium_toggles_try_afr">Videoya uyğun kadr sürətini avtomatik dəyişdirin</string>
     <string name="settings_premium_toggles_try_afr_toast">Cari displey dəstəklənən yeniləmə dərəcələri</string>
     <string name="settings_premium_toggle_btn_title">Premium xüsusiyyətləri aktivləşdirin</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">Proqramı beş ulduzla qiymətləndirin</string>
     <string name="spread_btn_share">Tətbiq linkini dostunuzla paylaşın</string>
     <string name="spread_share_title">Proqrama nəzər salın</string>
-    <string name="settings_premium_what_included_9">Kanal nömrəsini daxil etməklə kanalın dəyişdirilməsi</string>
     <string name="settings_channel_sort_mode_numb">nömrə (kanal nömrəsinə görə dəyişdirilə bilər)</string>
     <string name="ch_opt_change_number">Nömrəni dəyişdirin</string>
     <string name="prov_btn_help">Kömək edin</string>
     <string name="prov_help_telegram">Telegram-da söhbətə qoşulun</string>
-    <string name="settings_premium_what_included_5">Reklam yoxdur</string>
     <string name="invalid_domain">Domen yəqin ki, yanlışdır. Girişinizi yoxlayın</string>
     <string name="example">Misal</string>
     <string name="provider_generic">Ümumi provayder və ya pleylist</string>
     <string name="btn_search">Axtar</string>
-    <string name="premium_fea_6">Axını simsiz ekrana göndərin</string>
     <string name="wifi_display">Simsiz ekran</string>
     <string name="wifi_display_desc">Yayımı başqa cihazda oxudun</string>
     <string name="cfg_play_action_pp">fasilə verin və ya oyunu davam etdirin</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">Yaxın</string>
     <string name="prem_sub_add_3m">Abunə olun (hər 3 aydan bir ödənilir)</string>
     <string name="prem_sub_add_1y">Abunə olun (hər il hesablanır)</string>
-    <string name="premium_fea_pvsearch">Baxarkən səsli axtarış. Kanalı adla və ya arxiv məzmunu ilə axtarın.</string>
     <string name="cfg_play_action_vsearch">səsli axtarış</string>
     <string name="settings_premium_source_enabled">Premium aktivdir</string>
     <string name="cfg_play_action_mute">səssiz</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">yalnız keyfiyyət önəmlidir</string>
     <string name="channel_move_cat">Kateqoriya dəyişdirin</string>
     <string name="channel_move_new_cat">Yeni kateqoriya yaradın</string>
-    <string name="premium_fea_edit_list">Kateqoriyaları redaktə etməyə, kanalları gizlətməyə və s. imkan verir</string>
     <string name="prov_help_bug">Problem və ya səhv barədə məlumat verin</string>
     <string name="prov_help_tpl">Provayder şablonu ilə bağlı problemi bildirin</string>
     <string name="prov_help_feature">Yeni funksiya təklif edin</string>
     <string name="prov_help_premium">Ödənişlər və ya mükafatla bağlı problemi bildirin</string>
-    <string name="prov_help_contact_via_chat">chat vasitəsilə tərtibatçı ilə əlaqə saxlayın</string>
     <string name="prov_help_contact_via_email">e-poçt vasitəsilə developer ilə əlaqə saxlayın</string>
     <string name="prov_help_provide_more_info">Mesajınızı tərtibatçıya yazın</string>
     <string name="cfg_time_imp">İmperator vaxt formatından istifadə edin (am/pm)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">yuxarı sol künc</string>
     <string name="cat_vr_continue">Baxmağa davam edin</string>
     <string name="cat_vr_continue_prem">Ən son baxılan videolar indi əlçatandır</string>
-    <string name="premium_fea_continue">Hazırda Davam filtrində mövcud olan bütün son baxılmış videoları göstərir</string>
     <string name="menu_swap_pip_sound">Əsas ekran və PiP arasında səs dəyişdirin</string>
     <string name="premium_fea_pre_vid_wp">Başqa videonu oynatarkən videoya baxışın göstərilməsinə icazə verin</string>
     <string name="category_recent_channels">Son</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">Televizor bələdçisi</string>
     <string name="cfg_stream_q">Yayım keyfiyyətini göstərin</string>
     <string name="ext_player_copy_clipboard">Linki yalnız panoya kopyalayın</string>
-    <string name="premium_fea_mult_prov">Eyni anda bir neçə provayderdən istifadə etməyə imkan verir</string>
     <string name="btn_add_provider">Provayder əlavə edin</string>
     <string name="btn_provider_edit">Redaktə et</string>
     <string name="btn_provider_delete">Sil</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">Əl ilə işarələyin</string>
     <string name="category_recently_added">Bu yaxınlarda əlavə edildi</string>
     <string name="ask_finish_update">Daha yeni versiya üçün güncəlləmək üçün proqramı yenidən başladın?</string>
-    <string name="cfg_premium_etc">Və bir çox digər dəyərli funksiyalar</string>
     <string name="cfg_fine_tune_volume">Manual audio həcminin incə tənzimlənməsi (sistem həcmi ilə məhdudlaşır)</string>
     <string name="cfg_arch_unp">Canlı yayımın dayandırılması zamanı arxivi avtomatik olaraq yenidən açın</string>
     <string name="cfg_ch_more_epg">Kanal adını EPG-dən böyük göstərin</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">OK düyməsini uzun basmaq əksər hallarda xüsusiyyətlər ekranını açır</string>
     <string name="save_state">Vəziyyəti yadda saxla</string>
     <string name="restore_state">Vəziyyəti bərpa edin</string>
-    <string name="pro_studio">Studio rejimi, eyni vaxtda birdən çox yayımı izləməyə imkan verir</string>
     <string name="cfg_prov_channel_name">Çoxsaylı provayderlərdən istifadə edərkən provayder adını kanal adında göstərin</string>
     <string name="pla_act_quick_seek_back_20">20 saniyə geri axtarın</string>
     <string name="pla_act_quick_seek_fwd_20">20 saniyə irəli axtarın</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">Yalnız bir əlaqəsi olan provayder üçün dəstəyi aktivləşdirin</string>
     <string name="merge_data">Məlumatları birləşdirin</string>
     <string name="reopen_stream_if_paused_for_a_while">Bir müddət dayandırılsa, yayımı yenidən açın</string>
+    <string name="join_app_community">Tətbiq icmasına qoşulun</string>
+    <string name="normalize_tv_show_name">Televiziya şousunun adını normallaşdırın</string>
+    <string name="contact_your_provider">Provayderinizlə əlaqə saxlayın</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) sertifikatı etibarsızdır</string>
+    <string name="verify_net_before_update">Provayderlərin məlumatlarını yeniləməzdən əvvəl şəbəkənin mövcudluğunu yoxlayın</string>
+    <string name="timezone">Saat qurşağı</string>
     </resources>

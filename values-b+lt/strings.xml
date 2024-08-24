@@ -173,10 +173,6 @@
     <string name="settings_premium_source_purchase">Premium įsigytas</string>
     <string name="settings_premium_source_subscription">Prenumerata Premium suformuota</string>
     <string name="settings_premium_source_unknown">Premium neįjungtas</string>
-    <string name="settings_premium_what_included">Peržiūrėti Premium galimybių sąrašą…</string>
-    <string name="settings_premium_what_included_1">Vaizdas vaizde (PIP) režimas, žiūrint tiesioginę transliaciją</string>
-    <string name="settings_premium_what_included_3">Automatiškai priderinamas ekrano skleistinės dažnis. Sukuria sklandesnį vaizdo atkūrimą.</string>
-    <string name="settings_premium_what_included_4">Archyvo atkūrimo greičio valdymas</string>
 
     <string name="settings_premium_toggles_try_afr">Automatiškai keisti kadrų dažnį, kad geriausiai atitiktų video įrašo kadrų dažnį</string>
     <string name="settings_premium_toggles_try_afr_toast">Einamas ekranas palaiko kadrų dažnį</string>
@@ -208,17 +204,14 @@
     <string name="spread_btn_rate">Įvertinti 5 žvaigždutėmis</string>
     <string name="spread_btn_share">Pasidalinti programa su draugu</string>
     <string name="spread_share_title">Peržiūrėk programą</string>
-    <string name="settings_premium_what_included_9">Perjungimas kanalų įvedant kanalo numerį</string>
     <string name="settings_channel_sort_mode_numb">pagal numerį (kanalo numeris gali būti pakeistas)</string>
     <string name="ch_opt_change_number">Pakeisti numerį</string>
     <string name="prov_btn_help">Pagalba</string>
     <string name="prov_help_telegram">Užeiti į pokalbį Telegram</string>
-    <string name="settings_premium_what_included_5">Be reklamos</string>
     <string name="invalid_domain">Tikėtina, kad  domenas neteisingas. Patikrinkite savo nustatymus.</string>
     <string name="example">Pavyzdys</string>
     <string name="provider_generic">Bendras tiekėjas arba grojaraštis</string>
     <string name="btn_search">Paieška</string>
-    <string name="premium_fea_6">Perduoti srautą belaidžiu projektavimu</string>
     <string name="wifi_display">Belaidis projektavimas</string>
     <string name="wifi_display_desc">Leisti srautą kitame įrenginyje</string>
 
@@ -237,7 +230,6 @@
     <string name="btn_close">Uždaryti</string>
     <string name="prem_sub_add_3m">Prenumeruoti (ketvirčio apmokėjimas)</string>
     <string name="prem_sub_add_1y">Prenumeruoti (metinis apmokėjimas)</string>
-    <string name="premium_fea_pvsearch">Paiška balsu transliacijos metu. Paieška pagal kanalo pavadinimą arba archyvo turinį.</string>
     <string name="cfg_play_action_vsearch">paieška balsu</string>
     <string name="settings_premium_source_enabled">Premium įjungtas</string>
     <string name="cfg_play_action_mute">įjungti/išjungti garsą</string>
@@ -270,12 +262,10 @@
     <string name="profile_high_q">tik kokybės klausimai</string>
     <string name="channel_move_cat">Keisti kategoriją</string>
     <string name="channel_move_new_cat">Sukurti naują kategoriją</string>
-    <string name="premium_fea_edit_list">Leidžia redaguoti kategorijas, slėpti kanalus ir pan</string>
     <string name="prov_help_bug">Pranešti apie problemą ar klaidą</string>
     <string name="prov_help_tpl">Ataskaitų teikėjo šablono problema</string>
     <string name="prov_help_feature">Pasiūlyti naują funkciją</string>
     <string name="prov_help_premium">Pranešti apie mokėjimų ar priemokos problemą</string>
-    <string name="prov_help_contact_via_chat">susisiekite su kūrėju per pokalbį</string>
     <string name="prov_help_contact_via_email">susisiekite su kūrėju elektroniniu paštu</string>
     <string name="prov_help_provide_more_info">Parašykite savo žinutę kūrėjui</string>
     <string name="cfg_time_imp">Naudokite imperijos laiko formatą (am / pm)</string>
@@ -286,7 +276,6 @@
     <string name="cfg_player_clock_tl">viršutiniame kairiajame kampe</string>
     <string name="cat_vr_continue">Toliau žiūrėkite</string>
     <string name="cat_vr_continue_prem">Neseniai peržiūrėti vaizdo įrašai, kurie dabar yra prieinami</string>
-    <string name="premium_fea_continue">Rodo visus neseniai peržiūrėtus vaizdo įrašus, kurie šiuo metu prieinami „Tęsti filtrą“</string>
     <string name="menu_swap_pip_sound">Pakeiskite garsą tarp pagrindinio ekrano ir „PiP“</string>
     <string name="premium_fea_pre_vid_wp">Leisti rodyti vaizdo peržiūrą, kai grojate kitą vaizdo įrašą</string>
     <string name="category_recent_channels">Naujausi</string>
@@ -311,7 +300,6 @@
     <string name="menu_tv_guide">TV gidas</string>
     <string name="cfg_stream_q">Rodyti srauto kokybę</string>
     <string name="ext_player_copy_clipboard">Kopijuoti nuorodą tik į iškarpinę</string>
-    <string name="premium_fea_mult_prov">Leidžia vienu metu naudoti kelis paslaugų teikėjus</string>
     <string name="btn_add_provider">Pridėti teikėją</string>
     <string name="btn_provider_edit">Redaguoti</string>
     <string name="btn_provider_delete">Ištrinti</string>
@@ -367,7 +355,6 @@
     <string name="menu_qs_provider_multiple">Pažymėkite rankiniu būdu</string>
     <string name="category_recently_added">Paskutinės pridėtos</string>
     <string name="ask_finish_update">Iš naujo paleiskite programą, kad atnaujintumėte naujesnę versiją?</string>
-    <string name="cfg_premium_etc">Ir daug kitų vertingų funkcijų</string>
     <string name="cfg_fine_tune_volume">Rankinis garso garsumo nustatymas (ribojamas pagal sistemos tūrį)</string>
 
     <string name="cfg_arch_unp">Automatiškai atnaujinti archyvą, kai atjungiate tiesioginį srautą</string>
@@ -429,7 +416,6 @@
     <string name="hint_long_ok_menu">Ilgai paspaudus mygtuką „OK“, daugeliu atvejų atidaromas ypatybių ekranas</string>
     <string name="save_state">Išsaugoti būseną</string>
     <string name="restore_state">Atkurti būseną</string>
-<string name="pro_studio">Studijos režimas, leidžiantis vienu metu žiūrėti kelis srautus</string>
     <string name="cfg_prov_channel_name">Rodyti tiekėjo pavadinimą kanalo pavadinime, kai naudojate kelis tiekėjus</string>
     <string name="pla_act_quick_seek_back_20">20 sekundžių ieškokite atgal</string>
     <string name="pla_act_quick_seek_fwd_20">pirmyn 20 sekundžių</string>
@@ -748,4 +734,10 @@
     <string name="support_1conn_provider">Įgalinkite palaikymą teikėjui, kuris turi tik vieną ryšį</string>
     <string name="merge_data">Sujungti duomenis</string>
     <string name="reopen_stream_if_paused_for_a_while">Iš naujo atidarykite srautą, jei kurį laiką pristabdysite</string>
+    <string name="join_app_community">Prisijunkite prie programų bendruomenės</string>
+    <string name="normalize_tv_show_name">Normalizuokite TV laidos pavadinimą</string>
+    <string name="contact_your_provider">Susisiekite su savo paslaugų teikėju</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) sertifikatas netinkamas</string>
+    <string name="verify_net_before_update">Prieš atnaujindami duomenis iš teikėjų, patikrinkite tinklo prieinamumą</string>
+    <string name="timezone">Laiko juosta</string>
     </resources>

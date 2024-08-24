@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">Zakupiono Premium</string>
     <string name="settings_premium_source_subscription">Subskrypcja Premium</string>
     <string name="settings_premium_source_unknown">Brak Subskrypcji Premium</string>
-    <string name="settings_premium_what_included">Dowiedz się więcej o funkcjach premium …</string>
-    <string name="settings_premium_what_included_1">Tryb Obrazu w Obrazie podczas oglądania transmisji na żywo</string>
-    <string name="settings_premium_what_included_3">Automatyczne przełączanie szybkości klatek, aby dopasować wideo</string>
-    <string name="settings_premium_what_included_4">Kontrolowanie prędkości odtwarzania w archiwach</string>
     <string name="settings_premium_toggles_try_afr">Automatycznie przełączaj częstotliwość klatek, aby dopasować wideo</string>
     <string name="settings_premium_toggles_try_afr_toast">Bieżący wyświetlacz obsługuje liczbę klatek na sekundę</string>
     <string name="settings_premium_toggle_btn_title">Włącz funkcje premium</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">Oceń aplikację z pięcioma gwiazdkami</string>
     <string name="spread_btn_share">Udostępnij link do aplikacji znajomemu</string>
     <string name="spread_share_title">Rzuć okiem na tę aplikację</string>
-    <string name="settings_premium_what_included_9">Przełączanie kanałów poprzez wprowadzanie numeru kanału</string>
     <string name="settings_channel_sort_mode_numb">numer (według numeru kanału, można zmienić)</string>
     <string name="ch_opt_change_number">Zmień numer</string>
     <string name="prov_btn_help">Pomoc</string>
     <string name="prov_help_telegram">Dołącz do czatu w Telegramie</string>
-    <string name="settings_premium_what_included_5">Bez reklam</string>
     <string name="invalid_domain">Domena jest prawdopodobnie nieprawidłowa. Sprawdź swoje dane wejściowe</string>
     <string name="example">Przykład</string>
     <string name="provider_generic">Ogólny dostawca lub lista odtwarzania</string>
     <string name="btn_search">Szukaj</string>
-    <string name="premium_fea_6">Wyślij strumień do Wyświetlacza Bezprzewodowego</string>
     <string name="wifi_display">Wyświetlacz Bezprzewodowy</string>
     <string name="wifi_display_desc">Odtwórz Transmisję na innym Urządzeniu</string>
     <string name="cfg_play_action_pp">Wstrzymaj lub Wznów odtwarzanie</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">Zamknij</string>
     <string name="prem_sub_add_3m">Subskrybuj (rozliczane co 3 miesiące)</string>
     <string name="prem_sub_add_1y">Subskrybuj (rozliczane co roku)</string>
-    <string name="premium_fea_pvsearch">Wyszukiwanie głosowe podczas oglądania. Wyszukaj kanał według nazwy lub zawartości archiwum.</string>
     <string name="cfg_play_action_vsearch">szukanie głosowe</string>
     <string name="settings_premium_source_enabled">Premium włączony</string>
     <string name="cfg_play_action_mute">Wycisz Dźwięk</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">najwyższa jakość</string>
     <string name="channel_move_cat">Zmień kategorię</string>
     <string name="channel_move_new_cat">Utwórz nową kategorię</string>
-    <string name="premium_fea_edit_list">Umożliwia Edycję Kategorii, ukrywanie kanałów itp</string>
     <string name="prov_help_bug">Zgłoś problem lub błąd</string>
     <string name="prov_help_tpl">Problem z szablonem dostawcy raportów</string>
     <string name="prov_help_feature">Zaproponuj nową funkcję</string>
     <string name="prov_help_premium">Zgłoś problem z płatnościami lub premią</string>
-    <string name="prov_help_contact_via_chat">skontaktuj się z programistą poprzez czat</string>
     <string name="prov_help_contact_via_email">skontaktuj się z programistą za pośrednictwem poczty elektronicznej</string>
     <string name="prov_help_provide_more_info">Napisz wiadomość do programisty</string>
     <string name="cfg_time_imp">Użyj formatu czasu 12 godzinnego (am/pm)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">Górna lewa krawędź</string>
     <string name="cat_vr_continue">Kontynuuj Oglądanie</string>
     <string name="cat_vr_continue_prem">Ostatnio oglądane filmy, które są już dostępne</string>
-    <string name="premium_fea_continue">Pokazuje wszystkie ostatnio oglądane filmy, które są obecnie dostępne w opcji Kontynuuj filtrowanie</string>
     <string name="menu_swap_pip_sound">Zamień dźwięk między Ekranem Głównym a PiP</string>
     <string name="premium_fea_pre_vid_wp">Zezwól na wyświetlanie podglądu wideo podczas odtwarzania innego video</string>
     <string name="category_recent_channels">Ostatnio oglądane</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">Przewodnik TV</string>
     <string name="cfg_stream_q">Pokazuj jakość strumienia</string>
     <string name="ext_player_copy_clipboard">Skopiuj link do schowka</string>
-    <string name="premium_fea_mult_prov">Umożliwia jednoczesne korzystanie z kilku dostawców</string>
     <string name="btn_add_provider">Dodaj dostawcę</string>
     <string name="btn_provider_edit">Edytuj</string>
     <string name="btn_provider_delete">Usuń</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">Zaznacz ręcznie</string>
     <string name="category_recently_added">Ostatnio dodane</string>
     <string name="ask_finish_update">Uruchom ponownie aplikację, aby zaktualizować ją do nowszej wersji?</string>
-    <string name="cfg_premium_etc">I wiele innych cennych funkcji</string>
     <string name="cfg_fine_tune_volume">Ręczna regulacja głośności dźwięku (ograniczona przez głośność systemu)</string>
     <string name="cfg_arch_unp">Automatycznie otwórz ponownie archiwum podczas rozpakowywania strumienia na żywo</string>
     <string name="cfg_ch_more_epg">Pokaż Nazwę Kanału Większą niż w EPG</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">Długie naciśnięcie przycisku OK otwiera ekran właściwości w większości przypadków</string>
     <string name="save_state">Zapisz Stan</string>
     <string name="restore_state">Przywróć Stan</string>
-    <string name="pro_studio">Tryb Studio, pozwalający oglądać wiele strumieni jednocześnie</string>
     <string name="cfg_prov_channel_name">Pokaż nazwę Dostawcy w nazwie Kanału, gdy korzystasz z wielu Dostawców</string>
     <string name="pla_act_quick_seek_back_20">przewiń do tyłu o 20 sekund</string>
     <string name="pla_act_quick_seek_fwd_20">przewiń do przodu o 20 sekund</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">Włącz obsługę dostawcy, który ma tylko jedno połączenie</string>
     <string name="merge_data">Scal dane</string>
     <string name="reopen_stream_if_paused_for_a_while">Otwórz ponownie transmisję, jeśli została wstrzymana na chwilę</string>
+    <string name="join_app_community">Dołącz do społeczności aplikacji</string>
+    <string name="normalize_tv_show_name">Normalizuj nazwę programu telewizyjnego</string>
+    <string name="contact_your_provider">Skontaktuj się ze swoim dostawcą</string>
+    <string name="ssl_certificate_issue_detected">Certyfikat SSL (HTTPS) jest nieprawidłowy</string>
+    <string name="verify_net_before_update">Przed aktualizacją danych od dostawców sprawdź dostępność sieci</string>
+    <string name="timezone">Strefa czasowa</string>
     </resources>

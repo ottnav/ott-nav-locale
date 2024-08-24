@@ -170,10 +170,6 @@
     <string name="settings_premium_source_purchase">Premium dibeli</string>
     <string name="settings_premium_source_subscription">Premium dilanggan</string>
     <string name="settings_premium_source_unknown">Premium tidak didayakan</string>
-    <string name="settings_premium_what_included">Ketahui lebih lanjut mengenai ciri premium ...</string>
-    <string name="settings_premium_what_included_1">Mod gambar dalam gambar sambil menonton aliran langsung</string>
-    <string name="settings_premium_what_included_3">Menukar kadar bingkai automatik untuk memadankan video</string>
-    <string name="settings_premium_what_included_4">Mengawal kelajuan main balik untuk arkib</string>
 
     <string name="settings_premium_toggles_try_afr">Kadar bingkai suis automatik untuk memadankan video</string>
     <string name="settings_premium_toggles_try_afr_toast">Paparan semasa menyokong kadar penyegaran</string>
@@ -204,17 +200,14 @@
     <string name="spread_btn_rate">Rate aplikasi dengan lima bintang</string>
     <string name="spread_btn_share">Kongsi pautan aplikasi dengan rakan</string>
     <string name="spread_share_title">Lihatlah aplikasinya</string>
-    <string name="settings_premium_what_included_9">Bertukar saluran dengan memasukkan nombor saluran</string>
     <string name="settings_channel_sort_mode_numb">nombor (dengan nombor saluran, boleh diubah)</string>
     <string name="ch_opt_change_number">Tukar nombor</string>
     <string name="prov_btn_help">Bantuan</string>
     <string name="prov_help_telegram">Sertai chat di Telegram</string>
-    <string name="settings_premium_what_included_5">Tiada iklan</string>
     <string name="invalid_domain">Domain mungkin tidak sah. Semak input anda</string>
     <string name="example">Contoh</string>
     <string name="provider_generic">Pembekal atau senarai main generik</string>
     <string name="btn_search">Carian</string>
-    <string name="premium_fea_6">Hantar strim ke paparan tanpa wayar</string>
     <string name="wifi_display">Paparan tanpa wayar</string>
     <string name="wifi_display_desc">Main strim pada peranti lain</string>
 
@@ -232,7 +225,6 @@
     <string name="btn_close">Tutup</string>
     <string name="prem_sub_add_3m">Langgan (ditaksir setiap 3 bulan)</string>
     <string name="prem_sub_add_1y">Langgan (dibilkan setiap tahun)</string>
-    <string name="premium_fea_pvsearch">Carian suara semasa menonton. Cari saluran mengikut nama, atau kandungan arkib.</string>
     <string name="cfg_play_action_vsearch">carian suara</string>
     <string name="settings_premium_source_enabled">Premium diaktifkan</string>
     <string name="cfg_play_action_mute">bunyi bisu</string>
@@ -265,12 +257,10 @@
     <string name="profile_high_q">hanya perkara yang berkualiti</string>
     <string name="channel_move_cat">Tukar kategori</string>
     <string name="channel_move_new_cat">Buat kategori baru</string>
-    <string name="premium_fea_edit_list">Membolehkan pengeditan kategori, menyembunyikan saluran, dan lain-lain</string>
     <string name="prov_help_bug">Laporkan masalah atau pepijat</string>
     <string name="prov_help_tpl">Isu templat pembekal laporan</string>
     <string name="prov_help_feature">Cadangkan ciri baru</string>
     <string name="prov_help_premium">Laporkan masalah pembayaran atau premium</string>
-    <string name="prov_help_contact_via_chat">hubungi pembangun melalui sembang</string>
     <string name="prov_help_contact_via_email">hubungi pemaju melalui e-mel</string>
     <string name="prov_help_provide_more_info">Tulis mesej anda kepada pemaju</string>
     <string name="cfg_time_imp">Gunakan format waktu imperial (am / pm)</string>
@@ -281,7 +271,6 @@
     <string name="cfg_player_clock_tl">sudut kiri atas</string>
     <string name="cat_vr_continue">Teruskan menonton</string>
     <string name="cat_vr_continue_prem">Video yang dilihat baru-baru ini, yang tersedia sekarang</string>
-    <string name="premium_fea_continue">Menunjukkan semua video yang dilihat baru-baru ini, yang kini tersedia dalam penapis Teruskan</string>
     <string name="menu_swap_pip_sound">Tukar bunyi antara skrin utama dan PiP</string>
     <string name="premium_fea_pre_vid_wp">Benarkan pratonton video dipaparkan semasa memainkan video lain</string>
     <string name="category_recent_channels">Baru-baru ini</string>
@@ -306,7 +295,6 @@
     <string name="menu_tv_guide">panduan TV</string>
     <string name="cfg_stream_q">Tunjukkan kualiti strim</string>
     <string name="ext_player_copy_clipboard">Salin pautan ke papan klip sahaja</string>
-    <string name="premium_fea_mult_prov">Membenarkan beberapa pembekal digunakan pada masa yang sama</string>
     <string name="btn_add_provider">Tambah pembekal</string>
     <string name="btn_provider_edit">Edit</string>
     <string name="btn_provider_delete">Padam</string>
@@ -362,7 +350,6 @@
     <string name="menu_qs_provider_multiple">Tandakan secara manual</string>
     <string name="category_recently_added">Baru sahaja ditambah</string>
     <string name="ask_finish_update">Mulakan semula aplikasi untuk mengemas kini untuk versi yang lebih baru?</string>
-    <string name="cfg_premium_etc">Dan banyak fungsi berharga lain</string>
     <string name="cfg_fine_tune_volume">Kelantangan audio manual baik-baik saja (terhad oleh kelantangan sistem)</string>
 
     <string name="cfg_arch_unp">Arahkan semula arkib secara automatik apabila menghidupkan strim langsung</string>
@@ -424,7 +411,6 @@
     <string name="hint_long_ok_menu">Butang OK menekan butang membuka skrin sifat dalam kebanyakan kes</string>
     <string name="save_state">Simpan keadaan</string>
     <string name="restore_state">Pulihkan keadaan</string>
-    <string name="pro_studio">Mod studio, membolehkan menonton pelbagai aliran pada masa yang sama</string>
     <string name="cfg_prov_channel_name">Tunjukkan nama penyedia dalam nama saluran apabila menggunakan berbilang pembekal</string>
     <string name="pla_act_quick_seek_back_20">cari ke belakang dengan 20 saat</string>
     <string name="pla_act_quick_seek_fwd_20">cari ke hadapan sebanyak 20 saat</string>
@@ -743,4 +729,10 @@
     <string name="support_1conn_provider">Dayakan sokongan untuk pembekal yang hanya mempunyai satu sambungan</string>
     <string name="merge_data">Menggabungkan data</string>
     <string name="reopen_stream_if_paused_for_a_while">Buka semula strim jika dijeda seketika</string>
+    <string name="join_app_community">Sertai komuniti aplikasi</string>
+    <string name="normalize_tv_show_name">Normalkan nama rancangan TV</string>
+    <string name="contact_your_provider">Hubungi pembekal anda</string>
+    <string name="ssl_certificate_issue_detected">Sijil SSL (HTTPS) tidak sah</string>
+    <string name="verify_net_before_update">Sahkan ketersediaan rangkaian sebelum mengemas kini data daripada pembekal</string>
+    <string name="timezone">Zon waktu</string>
     </resources>

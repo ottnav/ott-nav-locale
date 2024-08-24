@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">Закупен премиум</string>
     <string name="settings_premium_source_subscription">Абонамент за премиум</string>
     <string name="settings_premium_source_unknown">Premium не е активиран</string>
-    <string name="settings_premium_what_included">Научете повече за премиум функции ...</string>
-    <string name="settings_premium_what_included_1">Режим на картина в картина, докато гледате поточно предаване на живо</string>
-    <string name="settings_premium_what_included_3">Автоматично превключване на честотата на кадрите, за да съответства на видео</string>
-    <string name="settings_premium_what_included_4">Контрол на скоростта на възпроизвеждане на архивите</string>
     <string name="settings_premium_toggles_try_afr">Автоматично превключване на честотата на кадрите, за да съответства на видео</string>
     <string name="settings_premium_toggles_try_afr_toast">Текущият дисплей поддържа скоростта на опресняване</string>
     <string name="settings_premium_toggle_btn_title">Активиране на премиум функции</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">Оценете приложението с пет звезди</string>
     <string name="spread_btn_share">Споделете връзка с приложението с приятел</string>
     <string name="spread_share_title">Разгледайте приложението</string>
-    <string name="settings_premium_what_included_9">Превключване на канала чрез въвеждане на номер на канала</string>
     <string name="settings_channel_sort_mode_numb">номер (по номер на канала, може да бъде променен)</string>
     <string name="ch_opt_change_number">Промяна на номер</string>
     <string name="prov_btn_help">Помощ</string>
     <string name="prov_help_telegram">Присъединете се към чата в Telegram</string>
-    <string name="settings_premium_what_included_5">Без реклами</string>
     <string name="invalid_domain">Домейнът вероятно е невалиден. Проверете вашия вход</string>
     <string name="example">пример</string>
     <string name="provider_generic">Общ доставчик или плейлист</string>
     <string name="btn_search">Търсене</string>
-    <string name="premium_fea_6">Изпращане на поток към безжичен дисплей</string>
     <string name="wifi_display">Безжичен дисплей</string>
     <string name="wifi_display_desc">Възпроизвеждане на поток на друго устройство</string>
     <string name="cfg_play_action_pp">пауза или възобновяване на възпроизвеждане</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">Затвори</string>
     <string name="prem_sub_add_3m">Абонирайте се (таксувайте се) на всеки 3 месеца</string>
     <string name="prem_sub_add_1y">Абонирайте се (таксува се) всяка година</string>
-    <string name="premium_fea_pvsearch">Гласово търсене, докато гледате. Търсене на канал по име или архивно съдържание.</string>
     <string name="cfg_play_action_vsearch">гласово търсене</string>
     <string name="settings_premium_source_enabled">Премиум активиран</string>
     <string name="cfg_play_action_mute">Без звук</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">само качеството има значение</string>
     <string name="channel_move_cat">Промяна на категорията</string>
     <string name="channel_move_new_cat">Създай нова категория</string>
-    <string name="premium_fea_edit_list">Позволява редактиране на категории, скриване на канали и т.н.</string>
     <string name="prov_help_bug">Подаване на сигнал за проблем или грешка</string>
     <string name="prov_help_tpl">Проблем с шаблона на доставчика на отчети</string>
     <string name="prov_help_feature">Предложете нова функция</string>
     <string name="prov_help_premium">Подайте сигнал за проблем с плащанията или премията</string>
-    <string name="prov_help_contact_via_chat">свържете се с програмиста чрез чат</string>
     <string name="prov_help_contact_via_email">свържете се с програмиста по имейл</string>
     <string name="prov_help_provide_more_info">Напишете съобщението си на програмист</string>
     <string name="cfg_time_imp">Използване на имперски формат на времето (am / pm)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">горен ляв ъгъл</string>
     <string name="cat_vr_continue">Продължете да гледате</string>
     <string name="cat_vr_continue_prem">Наскоро гледани видеоклипове, които са налични сега</string>
-    <string name="premium_fea_continue">Показва всички наскоро гледани видеоклипове, които в момента са налични във филтъра „Продължи“</string>
     <string name="menu_swap_pip_sound">Размяна на звук между главния екран и PiP</string>
     <string name="premium_fea_pre_vid_wp">Разрешаване на визуализацията на видеоклипа да се показва, докато възпроизвеждате друг видеоклип</string>
     <string name="category_recent_channels">Скорошен</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">EPG програма</string>
     <string name="cfg_stream_q">Показване на качеството на потока</string>
     <string name="ext_player_copy_clipboard">Копирай връзката в клипборда</string>
-    <string name="premium_fea_mult_prov">Позволява да се използват няколко доставчика едновременно</string>
     <string name="btn_add_provider">Добавете доставчик</string>
     <string name="btn_provider_edit">Редактиране</string>
     <string name="btn_provider_delete">Изтриване</string>
@@ -313,14 +301,13 @@
     <string name="pla_timeshift_from_current">Започни от текущия момент</string>
     <string name="cfg_play_action_timeshift_start">Отваряне архивирано телевизионно шоу от началото</string>
     <string name="cfg_play_action_timeshift_now">Отваряне архивирано телевизионно шоу от текущото време</string>
-    <string name="cfg_cat_recent">Последните глдани канали</string>
+    <string name="cfg_cat_recent">Последните гледани канали</string>
     <string name="enable">Активиране</string>
     <string name="save_between_launch">освен между изстрелванията</string>
     <string name="cfg_no_teleguide">Генериране на виртуален epg запис, когато няма налична телевизионна програма</string>
     <string name="menu_qs_provider_multiple">Маркиране ръчно</string>
     <string name="category_recently_added">Неотдавна добавени</string>
     <string name="ask_finish_update">Да рестартирате ли приложението, за да го актуализирате за по-нова версия?</string>
-    <string name="cfg_premium_etc">И много други ценни функции</string>
     <string name="cfg_fine_tune_volume">Ръчно регулиране на силата на звука (ограничена от силата на звука на системата)</string>
     <string name="cfg_arch_unp">Автоматично отваряне на архива след пауза</string>
     <string name="cfg_ch_more_epg">Показване на името на канала по-голямо от EPG</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">Дългото натискане на бутона OK отваря екрана със свойствата в повечето случаи</string>
     <string name="save_state">Запазване на състоянието</string>
     <string name="restore_state">Възстановяване на състоянието</string>
-    <string name="pro_studio">Студио режим, позволяващ да гледате няколко потока едновременно</string>
     <string name="cfg_prov_channel_name">Показване на името на доставчика в името на канала, когато използвате няколко доставчика</string>
     <string name="pla_act_quick_seek_back_20">Търсене назад с 20 секунди</string>
     <string name="pla_act_quick_seek_fwd_20">Търсене напред с 20 секунди</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">Активиране на поддръжка за доставчик, който има само една връзка</string>
     <string name="merge_data">Обединяване на данни</string>
     <string name="reopen_stream_if_paused_for_a_while">Отворете отново потока, ако е спрян за известно време</string>
+    <string name="join_app_community">Присъединете се към общността на приложението</string>
+    <string name="normalize_tv_show_name">Нормализиране на името на телевизионното предаване</string>
+    <string name="contact_your_provider">Свържете се с вашия доставчик</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) сертификатът е невалиден</string>
+    <string name="verify_net_before_update">Проверете наличността на мрежата, преди да актуализирате данните от доставчиците</string>
+    <string name="timezone">Часова зона</string>
     </resources>

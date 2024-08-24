@@ -137,10 +137,6 @@
     <string name="settings_premium_source_purchase">Premium kupljen</string>
     <string name="settings_premium_source_subscription">Premium naročen</string>
     <string name="settings_premium_source_unknown">Premium ni omogočen</string>
-    <string name="settings_premium_what_included">Izvedite več o premium funkcijah …</string>
-    <string name="settings_premium_what_included_1">Način slika v sliki med gledanjem prenosa v živo</string>
-    <string name="settings_premium_what_included_3">Samodejno preklapljanje hitrosti sličic v skladu z videom</string>
-    <string name="settings_premium_what_included_4">Nadzor hitrosti predvajanja za arhive</string>
     <string name="settings_premium_toggles_try_afr">Samodejno preklopi hitrost sličic, da se ujema z videom</string>
     <string name="settings_premium_toggles_try_afr_toast">Trenutni zaslon podpira hitrost osveževanja</string>
     <string name="settings_premium_toggle_btn_title">Omogoči vrhunske funkcije</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">Ocenite aplikacijo s petimi zvezdicami</string>
     <string name="spread_btn_share">Delite povezavo do aplikacije s prijateljem</string>
     <string name="spread_share_title">Oglejte si aplikacijo</string>
-    <string name="settings_premium_what_included_9">Preklapljanje med kanali z vnosom številke kanala</string>
     <string name="settings_channel_sort_mode_numb">številka (po številki kanala, lahko se spremeni)</string>
     <string name="ch_opt_change_number">Spremeni številko</string>
     <string name="prov_btn_help">pomoč</string>
     <string name="prov_help_telegram">Pridružite se klepetu v Telegramu</string>
-    <string name="settings_premium_what_included_5">Brez oglasov</string>
     <string name="invalid_domain">Domena verjetno ni veljavna. Preverite svoj vnos</string>
     <string name="example">Primer</string>
     <string name="provider_generic">Generični ponudnik ali seznam predvajanja</string>
     <string name="btn_search">Iskanje</string>
-    <string name="premium_fea_6">Pošlji tok na brezžični zaslon</string>
     <string name="wifi_display">Brezžični zaslon</string>
     <string name="wifi_display_desc">Predvajaj pretakanje v drugi napravi</string>
     <string name="cfg_play_action_pp">začasno ustavite ali nadaljujte predvajanje</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">Zapri</string>
     <string name="prem_sub_add_3m">Naročite se (zaračunano vsake 3 mesece)</string>
     <string name="prem_sub_add_1y">Naročite se (zaračunano vsako leto)</string>
-    <string name="premium_fea_pvsearch">Glasovno iskanje med gledanjem. Poiščite kanal po imenu ali arhivirajte vsebino.</string>
     <string name="cfg_play_action_vsearch">glasovno iskanje</string>
     <string name="settings_premium_source_enabled">Premium omogočen</string>
     <string name="cfg_play_action_mute">utišanje zvoka</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">pomembna je samo kvaliteta</string>
     <string name="channel_move_cat">Spremeni kategorijo</string>
     <string name="channel_move_new_cat">Ustvari novo kategorijo</string>
-    <string name="premium_fea_edit_list">Omogoča urejanje kategorij, skrivanje kanalov itd</string>
     <string name="prov_help_bug">Prijavite težavo ali napako</string>
     <string name="prov_help_tpl">Prijavite težavo s predlogo ponudnika</string>
     <string name="prov_help_feature">Predlagajte novo funkcijo</string>
     <string name="prov_help_premium">Prijavite težavo s plačili ali premijo</string>
-    <string name="prov_help_contact_via_chat">kontaktirajte razvijalca prek klepeta</string>
     <string name="prov_help_contact_via_email">kontaktirajte razvijalca po e-pošti</string>
     <string name="prov_help_provide_more_info">Napišite svoje sporočilo razvijalcu</string>
     <string name="cfg_time_imp">Uporabite imperialni časovni format (dopoldne/popoldan)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">zgornji levi kot</string>
     <string name="cat_vr_continue">Nadaljujte z ogledom</string>
     <string name="cat_vr_continue_prem">Nedavno ogledani videoposnetki, ki so zdaj na voljo</string>
-    <string name="premium_fea_continue">Prikaže vse nedavno ogledane videoposnetke, ki so trenutno na voljo v filtru za nadaljevanje</string>
     <string name="menu_swap_pip_sound">Zamenjava zvoka med glavnim zaslonom in PiP</string>
     <string name="premium_fea_pre_vid_wp">Dovoli predogled videa med predvajanjem drugega videoposnetka</string>
     <string name="category_recent_channels">Nedavno</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">TV vodnik</string>
     <string name="cfg_stream_q">Pokaži kakovost toka</string>
     <string name="ext_player_copy_clipboard">Kopiraj povezavo samo v odložišče</string>
-    <string name="premium_fea_mult_prov">Omogoča uporabo več ponudnikov hkrati</string>
     <string name="btn_add_provider">Dodajte ponudnika</string>
     <string name="btn_provider_edit">Uredi</string>
     <string name="btn_provider_delete">Izbriši</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">Označite ročno</string>
     <string name="category_recently_added">Nedavno dodano</string>
     <string name="ask_finish_update">Želite znova zagnati aplikacijo za posodobitev na novejšo različico?</string>
-    <string name="cfg_premium_etc">In številne druge dragocene funkcije</string>
     <string name="cfg_fine_tune_volume">Ročna nastavitev glasnosti zvoka (omejeno z glasnostjo sistema)</string>
     <string name="cfg_arch_unp">Samodejno znova odpri arhiv, ko prekinete pretok v živo</string>
     <string name="cfg_ch_more_epg">Pokaži ime kanala večje od EPG</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">Dolg pritisk na gumb OK odpre zaslon z lastnostmi v večini primerov</string>
     <string name="save_state">Shrani stanje</string>
     <string name="restore_state">Obnovi stanje</string>
-    <string name="pro_studio">Studio način, ki omogoča gledanje več tokov hkrati</string>
     <string name="cfg_prov_channel_name">Pokaži ime ponudnika v imenu kanala, ko uporabljate več ponudnikov</string>
     <string name="pla_act_quick_seek_back_20">pomik nazaj za 20 sekund</string>
     <string name="pla_act_quick_seek_fwd_20">pomakni naprej za 20 sekund</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">Omogoči podporo za ponudnika, ki ima samo eno povezavo</string>
     <string name="merge_data">Združi podatke</string>
     <string name="reopen_stream_if_paused_for_a_while">Ponovno odprite tok, če je za nekaj časa zaustavljen</string>
+    <string name="join_app_community">Pridružite se skupnosti aplikacij</string>
+    <string name="normalize_tv_show_name">Normalizirajte ime TV-oddaje</string>
+    <string name="contact_your_provider">Obrnite se na svojega ponudnika</string>
+    <string name="ssl_certificate_issue_detected">Potrdilo SSL (HTTPS) ni veljavno</string>
+    <string name="verify_net_before_update">Preverite razpoložljivost omrežja, preden posodobite podatke ponudnikov</string>
+    <string name="timezone">Časovni pas</string>
     </resources>

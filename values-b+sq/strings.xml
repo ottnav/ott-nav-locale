@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">Premium i blerë</string>
     <string name="settings_premium_source_subscription">Premium abonuar</string>
     <string name="settings_premium_source_unknown">Premium nuk është aktivizuar</string>
-    <string name="settings_premium_what_included">Mësoni më shumë rreth veçorive premium…</string>
-    <string name="settings_premium_what_included_1">Modaliteti "Foto-në-Foto" gjatë shikimit të transmetimit të drejtpërdrejtë</string>
-    <string name="settings_premium_what_included_3">Ndërrimi automatik i shpejtësisë së kuadrove në përputhje me videon</string>
-    <string name="settings_premium_what_included_4">Kontrollimi i shpejtësisë së riprodhimit për arkivat</string>
     <string name="settings_premium_toggles_try_afr">Ndrysho automatikisht shpejtësinë e kuadrove për të përputhur videon</string>
     <string name="settings_premium_toggles_try_afr_toast">Normat aktuale të rifreskimit të mbështetura të ekranit</string>
     <string name="settings_premium_toggle_btn_title">Aktivizo veçoritë premium</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">Vlerësoni aplikacionin me pesë yje</string>
     <string name="spread_btn_share">Ndani lidhjen e aplikacionit me një mik</string>
     <string name="spread_share_title">Hidhini një sy aplikacionit</string>
-    <string name="settings_premium_what_included_9">Ndërrimi i kanalit duke futur numrin e kanalit</string>
     <string name="settings_channel_sort_mode_numb">numri (sipas numrit të kanalit, mund të ndryshohet)</string>
     <string name="ch_opt_change_number">Ndrysho numrin</string>
     <string name="prov_btn_help">Ndihmë</string>
     <string name="prov_help_telegram">Bashkojuni bisedës në Telegram</string>
-    <string name="settings_premium_what_included_5">Nuk ka reklama</string>
     <string name="invalid_domain">Domeni është ndoshta i pavlefshëm. Kontrolloni të dhënat tuaja</string>
     <string name="example">Shembull</string>
     <string name="provider_generic">Ofruesi i përgjithshëm ose lista e luajtjes</string>
     <string name="btn_search">Kërko</string>
-    <string name="premium_fea_6">Dërgo transmetimin në një ekran me valë</string>
     <string name="wifi_display">Ekran me valë</string>
     <string name="wifi_display_desc">Luaj transmetimin në një pajisje tjetër</string>
     <string name="cfg_play_action_pp">ndaloni ose rifilloni luajtjen</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">Mbylle</string>
     <string name="prem_sub_add_3m">Abonohu (faturohet çdo 3 muaj)</string>
     <string name="prem_sub_add_1y">Abonohu (faturohet çdo vit)</string>
-    <string name="premium_fea_pvsearch">Kërkimi me zë gjatë shikimit. Kërkoni për kanalin sipas emrit ose përmbajtjen e arkivimit.</string>
     <string name="cfg_play_action_vsearch">kërkimi me zë</string>
     <string name="settings_premium_source_enabled">Premium është aktivizuar</string>
     <string name="cfg_play_action_mute">tingull i heshtur</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">vetëm cilësia ka rëndësi</string>
     <string name="channel_move_cat">Ndrysho kategorinë</string>
     <string name="channel_move_new_cat">Krijo kategori të re</string>
-    <string name="premium_fea_edit_list">Lejon redaktimin e kategorive, fshehjen e kanaleve, etj</string>
     <string name="prov_help_bug">Raportoni një problem ose defekt</string>
     <string name="prov_help_tpl">Raporto problemin e shabllonit të ofruesit</string>
     <string name="prov_help_feature">Sugjeroni një veçori të re</string>
     <string name="prov_help_premium">Raportoni problemin me pagesat ose primin</string>
-    <string name="prov_help_contact_via_chat">kontaktoni zhvilluesin përmes bisedës</string>
     <string name="prov_help_contact_via_email">kontaktoni zhvilluesin me email</string>
     <string name="prov_help_provide_more_info">Shkruani mesazhin tuaj për zhvilluesin</string>
     <string name="cfg_time_imp">Përdor formatin e kohës perandorake (paradite/pm)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">këndi i sipërm i majtë</string>
     <string name="cat_vr_continue">Vazhdoni të shikoni</string>
     <string name="cat_vr_continue_prem">Videot e shikuara së fundi, që janë të disponueshme tani</string>
-    <string name="premium_fea_continue">Shfaq të gjitha videot e shikuara së fundi, që disponohen aktualisht në filtrin Vazhdo</string>
     <string name="menu_swap_pip_sound">Ndërroni tingullin midis ekranit kryesor dhe PiP</string>
     <string name="premium_fea_pre_vid_wp">Lejo që shikimi paraprak i videos të shfaqet gjatë riprodhimit të një videoje tjetër</string>
     <string name="category_recent_channels">E fundit</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">Udhëzues TV</string>
     <string name="cfg_stream_q">Shfaq cilësinë e transmetimit</string>
     <string name="ext_player_copy_clipboard">Kopjo lidhjen vetëm në kujtesën e fragmenteve</string>
-    <string name="premium_fea_mult_prov">Lejon që disa ofrues të përdoren në të njëjtën kohë</string>
     <string name="btn_add_provider">Shto ofrues</string>
     <string name="btn_provider_edit">Redakto</string>
     <string name="btn_provider_delete">Fshije</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">Shënoni me dorë</string>
     <string name="category_recently_added">Shtuar së fundmi</string>
     <string name="ask_finish_update">Të riniset aplikacioni për ta përditësuar për versionin më të ri?</string>
-    <string name="cfg_premium_etc">Dhe shumë funksione të tjera të vlefshme</string>
     <string name="cfg_fine_tune_volume">Rregullimi manual i volumit të audios (i kufizuar nga vëllimi i sistemit)</string>
     <string name="cfg_arch_unp">Rihap automatikisht arkivin kur anulon transmetimin e drejtpërdrejtë</string>
     <string name="cfg_ch_more_epg">Shfaq emrin e kanalit më të madh se EPG</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">Shtypja e gjatë e butonit OK hap ekranin e vetive në shumicën e rasteve</string>
     <string name="save_state">Ruaj shtetin</string>
     <string name="restore_state">Rivendos gjendjen</string>
-    <string name="pro_studio">Modaliteti Studio, që ju lejon të shikoni transmetime të shumta në të njëjtën kohë</string>
     <string name="cfg_prov_channel_name">Shfaqni emrin e ofruesit në emrin e kanalit kur përdorni ofrues të shumtë</string>
     <string name="pla_act_quick_seek_back_20">kërkoni mbrapa me 20 sekonda</string>
     <string name="pla_act_quick_seek_fwd_20">kërkoni përpara me 20 sekonda</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">Aktivizo mbështetjen për ofruesin që ka vetëm një lidhje të vetme</string>
     <string name="merge_data">Bashkoni të dhënat</string>
     <string name="reopen_stream_if_paused_for_a_while">Rihap transmetimin nëse ndalet për pak kohë</string>
+    <string name="join_app_community">Bashkohuni me komunitetin e aplikacioneve</string>
+    <string name="normalize_tv_show_name">Normalizoni emrin e shfaqjes televizive</string>
+    <string name="contact_your_provider">Kontaktoni ofruesin tuaj</string>
+    <string name="ssl_certificate_issue_detected">Certifikata SSL (HTTPS) është e pavlefshme</string>
+    <string name="verify_net_before_update">Verifikoni disponueshmërinë e rrjetit përpara se të përditësoni të dhënat nga ofruesit</string>
+    <string name="timezone">Zona kohore</string>
     </resources>

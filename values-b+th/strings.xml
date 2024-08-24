@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">พรีเมี่ยมที่ซื้อ</string>
     <string name="settings_premium_source_subscription">สมัครสมาชิกพรีเมี่ยม</string>
     <string name="settings_premium_source_unknown">ไม่ได้เปิดใช้งานพรีเมี่ยม</string>
-    <string name="settings_premium_what_included">เรียนรู้เพิ่มเติมเกี่ยวกับฟีเจอร์พรีเมียม…</string>
-    <string name="settings_premium_what_included_1">โหมดภาพซ้อนภาพขณะรับชมสตรีมสด</string>
-    <string name="settings_premium_what_included_3">สลับอัตราเฟรมอัตโนมัติเพื่อให้ตรงกับวิดีโอ</string>
-    <string name="settings_premium_what_included_4">การควบคุมความเร็วในการเล่นไฟล์เก็บถาวร</string>
     <string name="settings_premium_toggles_try_afr">สลับอัตราเฟรมอัตโนมัติเพื่อให้ตรงกับวิดีโอ</string>
     <string name="settings_premium_toggles_try_afr_toast">จอแสดงผลปัจจุบันรองรับอัตราการรีเฟรช</string>
     <string name="settings_premium_toggle_btn_title">เปิดใช้งานคุณสมบัติพิเศษ</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">ให้คะแนนแอปห้าดาว</string>
     <string name="spread_btn_share">แชร์ลิงก์แอปกับเพื่อน</string>
     <string name="spread_share_title">ลองดูที่แอพ</string>
-    <string name="settings_premium_what_included_9">การสลับช่องโดยป้อนหมายเลขช่อง</string>
     <string name="settings_channel_sort_mode_numb">หมายเลข (โดยหมายเลขช่องสามารถเปลี่ยนได้)</string>
     <string name="ch_opt_change_number">เปลี่ยนเบอร์</string>
     <string name="prov_btn_help">ช่วย</string>
     <string name="prov_help_telegram">เข้าร่วมการแชทในโทรเลข</string>
-    <string name="settings_premium_what_included_5">ไม่มีโฆษณา</string>
     <string name="invalid_domain">โดเมนอาจไม่ถูกต้อง ตรวจสอบข้อมูลที่คุณป้อน</string>
     <string name="example">ตัวอย่าง</string>
     <string name="provider_generic">ผู้ให้บริการทั่วไปหรือเพลย์ลิสต์</string>
     <string name="btn_search">ค้นหา</string>
-    <string name="premium_fea_6">ส่งกระแสข้อมูลไปยังจอแสดงผลแบบไร้สาย</string>
     <string name="wifi_display">จอแสดงผลแบบไร้สาย</string>
     <string name="wifi_display_desc">เล่นสตรีมบนอุปกรณ์อื่น</string>
     <string name="cfg_play_action_pp">หยุดชั่วคราวหรือเล่นต่อ</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">ปิด I</string>
     <string name="prem_sub_add_3m">สมัครสมาชิก (เรียกเก็บเงินทุกๆ 3 เดือน)</string>
     <string name="prem_sub_add_1y">สมัครสมาชิก (เรียกเก็บเงินในแต่ละปี)</string>
-    <string name="premium_fea_pvsearch">ค้นหาด้วยเสียงขณะรับชม ค้นหาช่องตามชื่อหรือเก็บเนื้อหา</string>
     <string name="cfg_play_action_vsearch">ค้นหาด้วยเสียง</string>
     <string name="settings_premium_source_enabled">เปิดใช้งานพรีเมี่ยม</string>
     <string name="cfg_play_action_mute">ปิดเสียง</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">เรื่องคุณภาพเท่านั้น</string>
     <string name="channel_move_cat">เปลี่ยนหมวดหมู่</string>
     <string name="channel_move_new_cat">สร้างหมวดหมู่ใหม่</string>
-    <string name="premium_fea_edit_list">อนุญาตให้แก้ไขหมวดหมู่ ซ่อนช่อง ฯลฯ</string>
     <string name="prov_help_bug">รายงานปัญหาหรือข้อผิดพลาด</string>
     <string name="prov_help_tpl">ปัญหาเทมเพลตผู้ให้บริการรายงาน</string>
     <string name="prov_help_feature">แนะนำคุณสมบัติใหม่</string>
     <string name="prov_help_premium">แจ้งปัญหาการชำระเงินหรือเบี้ยประกันภัย</string>
-    <string name="prov_help_contact_via_chat">ติดต่อผู้พัฒนาผ่านการแชท</string>
     <string name="prov_help_contact_via_email">ติดต่อผู้พัฒนาผ่านทางอีเมล</string>
     <string name="prov_help_provide_more_info">เขียนข้อความของคุณถึงนักพัฒนา</string>
     <string name="cfg_time_imp">ใช้รูปแบบเวลาจักรวรรดิ (am/pm)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">มุมบนซ้าย</string>
     <string name="cat_vr_continue">ดูต่อ</string>
     <string name="cat_vr_continue_prem">วิดีโอที่ดูล่าสุด ซึ่งพร้อมใช้งานในขณะนี้</string>
-    <string name="premium_fea_continue">แสดงวิดีโอที่ดูล่าสุดทั้งหมดที่มีอยู่ในตัวกรองดำเนินการต่อ</string>
     <string name="menu_swap_pip_sound">สลับเสียงระหว่างหน้าจอหลักและ PiP</string>
     <string name="premium_fea_pre_vid_wp">อนุญาตให้แสดงตัวอย่างวิดีโอในขณะที่เล่นวิดีโออื่น</string>
     <string name="category_recent_channels">ล่าสุด</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">ทีวีไกด์</string>
     <string name="cfg_stream_q">แสดงคุณภาพการสตรีม</string>
     <string name="ext_player_copy_clipboard">คัดลอกลิงก์ไปยังคลิปบอร์ดเท่านั้น</string>
-    <string name="premium_fea_mult_prov">อนุญาตให้ใช้ผู้ให้บริการหลายรายพร้อมกัน</string>
     <string name="btn_add_provider">เพิ่มผู้ให้บริการ</string>
     <string name="btn_provider_edit">แก้ไข</string>
     <string name="btn_provider_delete">ลบ</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">ทำเครื่องหมายด้วยตนเอง</string>
     <string name="category_recently_added">เพิ่มมาเร็ว ๆ นี้</string>
     <string name="ask_finish_update">รีสตาร์ทแอปเพื่ออัปเดตเป็นเวอร์ชันใหม่กว่าไหม</string>
-    <string name="cfg_premium_etc">และฟังก์ชั่นสุดคุ้มอีกมากมาย</string>
     <string name="cfg_fine_tune_volume">ปรับระดับเสียงด้วยตนเองแบบละเอียด (จำกัดโดยระดับเสียงของระบบ)</string>
     <string name="cfg_arch_unp">เปิดไฟล์เก็บถาวรใหม่โดยอัตโนมัติเมื่อยกเลิกการสตรีมสดชั่วคราว</string>
     <string name="cfg_ch_more_epg">แสดงชื่อช่องที่ใหญ่กว่า EPG</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">การกดปุ่ม OK ค้างไว้จะเปิดหน้าจอคุณสมบัติในกรณีส่วนใหญ่</string>
     <string name="save_state">บันทึกสถานะ</string>
     <string name="restore_state">คืนค่าสถานะ</string>
-    <string name="pro_studio">โหมดสตูดิโอ ช่วยให้สามารถรับชมสตรีมหลายรายการพร้อมกันได้</string>
     <string name="cfg_prov_channel_name">แสดงชื่อผู้ให้บริการในชื่อช่องเมื่อใช้ผู้ให้บริการหลายราย</string>
     <string name="pla_act_quick_seek_back_20">ถอยหลัง 20 วินาที</string>
     <string name="pla_act_quick_seek_fwd_20">เลื่อนไปข้างหน้า 20 วินาที</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">เปิดใช้งานการสนับสนุนสำหรับผู้ให้บริการที่มีการเชื่อมต่อเพียงจุดเดียว</string>
     <string name="merge_data">รวมข้อมูล</string>
     <string name="reopen_stream_if_paused_for_a_while">เปิดสตรีมอีกครั้งหากหยุดชั่วคราวชั่วขณะหนึ่ง</string>
+    <string name="join_app_community">เข้าร่วมชุมชนแอป</string>
+    <string name="normalize_tv_show_name">ทำให้ชื่อรายการทีวีเป็นปกติ</string>
+    <string name="contact_your_provider">ติดต่อผู้ให้บริการของคุณ</string>
+    <string name="ssl_certificate_issue_detected">ใบรับรอง SSL (HTTPS) ไม่ถูกต้อง</string>
+    <string name="verify_net_before_update">ตรวจสอบความพร้อมใช้งานของเครือข่ายก่อนอัปเดตข้อมูลจากผู้ให้บริการ</string>
+    <string name="timezone">เขตเวลา</string>
     </resources>

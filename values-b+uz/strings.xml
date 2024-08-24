@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">Premium sotib olingan</string>
     <string name="settings_premium_source_subscription">Premium obuna</string>
     <string name="settings_premium_source_unknown">Premium yoqilmagan</string>
-    <string name="settings_premium_what_included">Premium xususiyatlar haqida ko\'proq bilib oling…</string>
-    <string name="settings_premium_what_included_1">Jonli translatsiyani tomosha qilishda rasm ichida tasvir rejimi</string>
-    <string name="settings_premium_what_included_3">Videoga mos keladigan kadr tezligini avtomatik almashtirish</string>
-    <string name="settings_premium_what_included_4">Arxivlar uchun ijro tezligini nazorat qilish</string>
     <string name="settings_premium_toggles_try_afr">Videoga mos keladigan kadr tezligini avtomatik almashtirish</string>
     <string name="settings_premium_toggles_try_afr_toast">Joriy displey yangilanish tezligini qo\'llab-quvvatlaydi</string>
     <string name="settings_premium_toggle_btn_title">Premium funksiyalarni yoqing</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">Ilovani besh yulduz bilan baholang</string>
     <string name="spread_btn_share">Ilova havolasini doʻstingiz bilan baham koʻring</string>
     <string name="spread_share_title">Ilovani ko\'rib chiqing</string>
-    <string name="settings_premium_what_included_9">Kanal raqamini kiritish orqali kanalni almashtirish</string>
     <string name="settings_channel_sort_mode_numb">raqam (kanal raqami bo\'yicha, o\'zgartirish mumkin)</string>
     <string name="ch_opt_change_number">Raqamni o\'zgartirish</string>
     <string name="prov_btn_help">Yordam bering</string>
     <string name="prov_help_telegram">Telegram chatiga qo\'shiling</string>
-    <string name="settings_premium_what_included_5">Reklamalar yo\'q</string>
     <string name="invalid_domain">Domen yaroqsiz. Kirishingizni tekshiring</string>
     <string name="example">Misol</string>
     <string name="provider_generic">Umumiy provayder yoki pleylist</string>
     <string name="btn_search">Qidirmoq</string>
-    <string name="premium_fea_6">Oqimni simsiz displeyga yuboring</string>
     <string name="wifi_display">Simsiz displey</string>
     <string name="wifi_display_desc">Strimni boshqa qurilmada o‘ynatish</string>
     <string name="cfg_play_action_pp">to\'xtatib turish yoki o\'ynashni davom ettirish</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">Yopish</string>
     <string name="prem_sub_add_3m">Obuna bo\'lish (har 3 oyda to\'lanadi)</string>
     <string name="prem_sub_add_1y">Obuna bo\'lish (har yili to\'lanadi)</string>
-    <string name="premium_fea_pvsearch">Tomosha paytida ovozli qidiruv. Kanalni nomi yoki arxiv tarkibi bo\'yicha qidiring.</string>
     <string name="cfg_play_action_vsearch">ovozli qidiruv</string>
     <string name="settings_premium_source_enabled">Premium yoqilgan</string>
     <string name="cfg_play_action_mute">ovozni o\'chirish</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">faqat sifat muhim</string>
     <string name="channel_move_cat">Kategoriyani o\'zgartirish</string>
     <string name="channel_move_new_cat">Yangi turkum yarating</string>
-    <string name="premium_fea_edit_list">Kategoriyalarni tahrirlash, kanallarni yashirish va h.k. imkonini beradi</string>
     <string name="prov_help_bug">Muammo yoki xato haqida xabar bering</string>
     <string name="prov_help_tpl">Provayder shablonidagi muammo haqida xabar bering</string>
     <string name="prov_help_feature">Yangi xususiyatni taklif qiling</string>
     <string name="prov_help_premium">Toʻlov yoki mukofot bilan bogʻliq muammo haqida xabar bering</string>
-    <string name="prov_help_contact_via_chat">chat orqali dasturchi bilan bog\'laning</string>
     <string name="prov_help_contact_via_email">elektron pochta orqali dasturchi bilan bog\'laning</string>
     <string name="prov_help_provide_more_info">Xabaringizni dasturchiga yozing</string>
     <string name="cfg_time_imp">Imperator vaqti formatidan foydalaning (am/pm)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">yuqori chap burchak</string>
     <string name="cat_vr_continue">Tomosha qilishda davom eting</string>
     <string name="cat_vr_continue_prem">Yaqinda koʻrilgan videolar hozir mavjud</string>
-    <string name="premium_fea_continue">Hozirda Davom etish filtrida mavjud bo‘lgan barcha yaqinda ko‘rilgan videolarni ko‘rsatadi</string>
     <string name="menu_swap_pip_sound">Ovozni asosiy ekran va PiP o\'rtasida almashtiring</string>
     <string name="premium_fea_pre_vid_wp">Boshqa videoni o‘ynatganda videoni oldindan ko‘rishga ruxsat bering</string>
     <string name="category_recent_channels">Yaqinda</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">Televizion qo\'llanma</string>
     <string name="cfg_stream_q">Oqim sifatini ko‘rsatish</string>
     <string name="ext_player_copy_clipboard">Havolani faqat vaqtinchalik xotiraga nusxalash</string>
-    <string name="premium_fea_mult_prov">Bir vaqtning o\'zida bir nechta provayderlardan foydalanishga imkon beradi</string>
     <string name="btn_add_provider">Provayder qo\'shing</string>
     <string name="btn_provider_edit">Tahrirlash</string>
     <string name="btn_provider_delete">Oʻchirish</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">Qo\'lda belgilang</string>
     <string name="category_recently_added">Yaqinda qo\'shilgan</string>
     <string name="ask_finish_update">Ilovani yangiroq versiyaga yangilash uchun qayta ishga tushirilsinmi?</string>
-    <string name="cfg_premium_etc">Va boshqa ko\'plab qimmatli funktsiyalar</string>
     <string name="cfg_fine_tune_volume">Ovoz balandligini qo\'lda sozlash (tizim ovozi bilan cheklangan)</string>
     <string name="cfg_arch_unp">Jonli translatsiya to‘xtatilganda arxiv avtomatik ravishda qayta ochiladi</string>
     <string name="cfg_ch_more_epg">Kanal nomini EPG dan kattaroq ko‘rsatish</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">OK tugmasini uzoq bosish ko\'p hollarda xususiyatlar ekranini ochadi</string>
     <string name="save_state">Holatni saqlash</string>
     <string name="restore_state">Holatni tiklash</string>
-    <string name="pro_studio">Bir vaqtning o\'zida bir nechta oqimlarni tomosha qilish imkonini beruvchi studiya rejimi</string>
     <string name="cfg_prov_channel_name">Bir nechta provayderlardan foydalanganda kanal nomida provayder nomini ko\'rsatish</string>
     <string name="pla_act_quick_seek_back_20">20 soniya orqaga qidiring</string>
     <string name="pla_act_quick_seek_fwd_20">20 soniya oldinga intiling</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">Faqat bitta ulanishga ega bo\'lgan provayderni qo\'llab-quvvatlashni yoqing</string>
     <string name="merge_data">Ma\'lumotlarni birlashtirish</string>
     <string name="reopen_stream_if_paused_for_a_while">Agar biroz pauza qilingan bo‘lsa, oqim qayta oching</string>
+    <string name="join_app_community">Ilovalar hamjamiyatiga qo\'shiling</string>
+    <string name="normalize_tv_show_name">Teleko\'rsatuv nomini normallashtirish</string>
+    <string name="contact_your_provider">Provayderingizga murojaat qiling</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) sertifikati yaroqsiz</string>
+    <string name="verify_net_before_update">Provayderlardan ma\'lumotlarni yangilashdan oldin tarmoq mavjudligini tekshiring</string>
+    <string name="timezone">Vaqt mintaqasi</string>
     </resources>

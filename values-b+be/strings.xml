@@ -164,10 +164,6 @@
     <string name="settings_premium_source_purchase">Прэміум набыты</string>
     <string name="settings_premium_source_subscription">Падпіска на прэміум аформлена</string>
     <string name="settings_premium_source_unknown">Прэміум не ўключаны</string>
-    <string name="settings_premium_what_included">Паглядзець спіс магчымасцяў прэміума…</string>
-    <string name="settings_premium_what_included_1">Рэжым карцінка-у-карцінке пры праглядзе прамога эфіру</string>
-    <string name="settings_premium_what_included_3">Аўтаматычная падладка частаты кадраў</string>
-    <string name="settings_premium_what_included_4">Кіраванне хуткасцю прайгравання архіваў</string>
 
     <string name="settings_premium_toggles_try_afr">Аўтаматычна змяняць частату кадраў для супадзення з відэа</string>
     <string name="settings_premium_toggles_try_afr_toast">Бягучы дысплей падтрымлівае частату кадраў</string>
@@ -197,17 +193,14 @@
     <string name="spread_btn_rate">Паставіць рэйтынг у пяць зорак</string>
     <string name="spread_btn_share">Падзяліцца прыкладаннем з сябрам</string>
     <string name="spread_share_title">Паглядзі на прыкладанне</string>
-    <string name="settings_premium_what_included_9">Пераключэнне каналаў уводзячы нумар канала</string>
     <string name="settings_channel_sort_mode_numb">нумару (нумар канала, можа быць зменены)</string>
     <string name="ch_opt_change_number">Змяніць нумар</string>
     <string name="prov_btn_help">Дапамога</string>
     <string name="prov_help_telegram">Зайсці ў чат у Тэлеграм</string>
-    <string name="settings_premium_what_included_5">Адсутнасць рэкламы</string>
     <string name="invalid_domain">Верагодна, дамен няверны. Праверце вашу наладу</string>
     <string name="example">Прыклад</string>
     <string name="provider_generic">Тыповы правайдар ці плэйліст</string>
     <string name="btn_search">Пошук</string>
-    <string name="premium_fea_6">Адаслаць паток на бесправадны дысплей</string>
     <string name="wifi_display">Бесправадны дысплей</string>
     <string name="wifi_display_desc">Прайграваць паток на іншай прыладзе</string>
 
@@ -225,7 +218,6 @@
     <string name="btn_close">Зачыніць</string>
     <string name="prem_sub_add_3m">Падпісацца (штоквартальная аплата)</string>
     <string name="prem_sub_add_1y">Падпісацца (штогадовая аплата)</string>
-    <string name="premium_fea_pvsearch">Галасавы пошук пры праглядзе. Пошук канала па імя ці змесціву архіва.</string>
     <string name="cfg_play_action_vsearch">галасавы пошук</string>
     <string name="settings_premium_source_enabled">Прэміум уключаны</string>
     <string name="cfg_play_action_mute">уключыць/выключыць гук</string>
@@ -258,12 +250,10 @@
     <string name="profile_high_q">максімальная якасць</string>
     <string name="channel_move_cat">Змяніць катэгорыю</string>
     <string name="channel_move_new_cat">Стварыць новую катэгорыю</string>
-    <string name="premium_fea_edit_list">Дазваляе рэдагаваць катэгорыі, хаваць каналы і гд</string>
     <string name="prov_help_bug">Апісаць праблему ці памылку</string>
     <string name="prov_help_tpl">Апісаць праблему шаблону правайдара</string>
     <string name="prov_help_feature">Прапанаваць новую функцыянальнасць</string>
     <string name="prov_help_premium">Апісаць праблему з плацяжамі ці прэміумам</string>
-    <string name="prov_help_contact_via_chat">звязацца з распрацоўнікам у чаце</string>
     <string name="prov_help_contact_via_email">звязацца з распрацоўнікам праз email</string>
     <string name="prov_help_provide_more_info">Напішыце ваша паведамленне распрацоўніку</string>
     <string name="cfg_time_imp">Выкарыстоўваць імперскі фармат часу (am/pm)</string>
@@ -274,7 +264,6 @@
     <string name="cfg_player_clock_tl">верхні левы кут</string>
     <string name="cat_vr_continue">Працягнуць прагляд</string>
     <string name="cat_vr_continue_prem">Нядаўна прагледжанае відэа, даступнае цяпер</string>
-    <string name="premium_fea_continue">Паказвае ўсе нядаўна прагледжаныя відэа, якія цяпер даступныя ў фільтры Працягнуць</string>
     <string name="menu_swap_pip_sound">Пераключыць гук паміж асноўным экранам і PiP</string>
     <string name="premium_fea_pre_vid_wp">Дазволіць прадпрагляд відэа пры прайграванні іншага відэа</string>
     <string name="category_recent_channels">Нядаўнія</string>
@@ -299,7 +288,6 @@
     <string name="menu_tv_guide">Тэлегід</string>
     <string name="cfg_stream_q">Паказваць якасць патоку</string>
     <string name="ext_player_copy_clipboard">Толькі капіяваць спасылку ў буфер абмену</string>
-    <string name="premium_fea_mult_prov">Дазваляе выкарыстоўваць некалькі правайдараў адначасова</string>
     <string name="btn_add_provider">Дадаць правайдара</string>
     <string name="btn_provider_edit">Змяніць</string>
     <string name="btn_provider_delete">Выдаліць</string>
@@ -355,7 +343,6 @@
     <string name="menu_qs_provider_multiple">Адзначыць уручную</string>
     <string name="category_recently_added">Нядаўна дададзеныя</string>
     <string name="ask_finish_update">Перазапусціць прыкладанне для абнаўлення на новую версію?</string>
-    <string name="cfg_premium_etc">І мноства іншых каштоўных функцый</string>
     <string name="cfg_fine_tune_volume">Ручная дакладная налада гучнасці (абмежавана сістэмнай гучнасцю)</string>
 
     <string name="cfg_arch_unp">Аўтаматычна пераадкрываць з архіва пры здыманні прамога эфіру з паўзы</string>
@@ -418,7 +405,6 @@
     <string name="save_state">Захаваць стан</string>
     <string name="restore_state">Аднавіць стан</string>
 
-    <string name="pro_studio">Рэжым студыі, які дазваляе глядзець мноства каналаў адначасова</string>
     <string name="cfg_prov_channel_name">Паказваць імя правайдара ў імя канала пры выкарыстанні некалькіх правайдараў</string>
     <string name="pla_act_quick_seek_back_20">пераматаць назад на 20 секунд</string>
     <string name="pla_act_quick_seek_fwd_20">пераматаць наперад на 20 секунд</string>
@@ -737,4 +723,10 @@
     <string name="support_1conn_provider">Уключыць падтрымку пастаўшчыка, які мае толькі адно злучэнне</string>
     <string name="merge_data">Аб\'яднаць дадзеныя</string>
     <string name="reopen_stream_if_paused_for_a_while">Паўторна адкрыць паток, калі ён быў прыпынены на некаторы час</string>
+    <string name="join_app_community">Далучайцеся да супольнасці праграм</string>
+    <string name="normalize_tv_show_name">Нармалізаваць назву тэлешоў</string>
+    <string name="contact_your_provider">Звярніцеся да пастаўшчыка</string>
+    <string name="ssl_certificate_issue_detected">Сертыфікат SSL (HTTPS) несапраўдны</string>
+    <string name="verify_net_before_update">Праверце даступнасць сеткі перад абнаўленнем даных ад пастаўшчыкоў</string>
+    <string name="timezone">Часавы пояс</string>
     </resources>

@@ -166,10 +166,6 @@
     <string name="settings_premium_source_purchase">Iegādāta prēmija</string>
     <string name="settings_premium_source_subscription">Prēmija parakstīta</string>
     <string name="settings_premium_source_unknown">Premium nav iespējota</string>
-    <string name="settings_premium_what_included">Uzziniet vairāk par piemaksu funkcijām ...</string>
-    <string name="settings_premium_what_included_1">Attēla attēlā režīms, skatoties tiešraidi</string>
-    <string name="settings_premium_what_included_3">Automātiska kadru ātruma pārslēgšana, lai atbilstu video</string>
-    <string name="settings_premium_what_included_4">Atskaņošanas ātruma kontrole arhīviem</string>
 
     <string name="settings_premium_toggles_try_afr">Automātiska slēdža ātruma pārslēgšana, lai atbilstu video</string>
     <string name="settings_premium_toggles_try_afr_toast">Pašreizējā displeja atbalstīti atsvaidzes frekvences</string>
@@ -200,17 +196,14 @@
     <string name="spread_btn_rate">Novērtējiet lietotni ar piecām zvaigznēm</string>
     <string name="spread_btn_share">Koplietojiet lietotnes saiti ar draugu</string>
     <string name="spread_share_title">Apskatiet lietotni</string>
-    <string name="settings_premium_what_included_9">Kanālu pārslēgšana, ievadot kanāla numuru</string>
     <string name="settings_channel_sort_mode_numb">numurs (pēc kanāla numura, var tikt mainīts)</string>
     <string name="ch_opt_change_number">Mainīt numuru</string>
     <string name="prov_btn_help">Palīdzība</string>
     <string name="prov_help_telegram">Pievienojieties tērzēšanai telegrammā</string>
-    <string name="settings_premium_what_included_5">Nav reklāmu</string>
     <string name="invalid_domain">Domēns, iespējams, ir nederīgs. Pārbaudiet ievadi</string>
     <string name="example">Piemērs</string>
     <string name="provider_generic">Vispārējais pakalpojumu sniedzējs vai atskaņošanas saraksts</string>
     <string name="btn_search">Meklēt</string>
-    <string name="premium_fea_6">Sūtīt plūsmu uz bezvadu displeju</string>
     <string name="wifi_display">Bezvadu displejs</string>
     <string name="wifi_display_desc">Atskaņot plūsmu citā ierīcē</string>
 
@@ -228,7 +221,6 @@
     <string name="btn_close">Aizvērt</string>
     <string name="prem_sub_add_3m">Abonēt (par katru 3 mēnešu rēķinu)</string>
     <string name="prem_sub_add_1y">Abonēt (rēķins katru gadu)</string>
-    <string name="premium_fea_pvsearch">Balss meklēšana, skatoties. Meklējiet kanālu pēc nosaukuma vai arhīva satura.</string>
     <string name="cfg_play_action_vsearch">balss meklēšana</string>
     <string name="settings_premium_source_enabled">Premium iespējots</string>
     <string name="cfg_play_action_mute">izslēgt skaņu</string>
@@ -262,12 +254,10 @@
     <string name="profile_high_q">tikai kvalitātes jautājumi</string>
     <string name="channel_move_cat">Mainīt kategoriju</string>
     <string name="channel_move_new_cat">Izveidot jaunu kategoriju</string>
-    <string name="premium_fea_edit_list">Ļauj rediģēt kategorijas, slēpt kanālus utt</string>
     <string name="prov_help_bug">Ziņojiet par problēmu vai kļūdu</string>
     <string name="prov_help_tpl">Ziņojuma sniedzēja veidnes problēma</string>
     <string name="prov_help_feature">Ieteikt jaunu funkciju</string>
     <string name="prov_help_premium">Ziņojiet par problēmām saistībā ar maksājumiem vai piemaksu</string>
-    <string name="prov_help_contact_via_chat">sazinieties ar attīstītāju, izmantojot tērzēšanu</string>
     <string name="prov_help_contact_via_email">sazinieties ar attīstītāju pa e-pastu</string>
     <string name="prov_help_provide_more_info">Uzrakstiet savu ziņu attīstītājam</string>
     <string name="cfg_time_imp">Izmantot imperatora laika formātu (am / pm)</string>
@@ -278,7 +268,6 @@
     <string name="cfg_player_clock_tl">augšējā kreisajā stūrī</string>
     <string name="cat_vr_continue">Turpiniet skatīties</string>
     <string name="cat_vr_continue_prem">Nesen skatītie videoklipi, kas ir pieejami tagad</string>
-    <string name="premium_fea_continue">Rāda visus nesen skatītos videoklipus, kas pašlaik ir pieejami mapē Turpināt filtru</string>
     <string name="menu_swap_pip_sound">Pārslēgt skaņu starp galveno ekrānu un PiP</string>
     <string name="premium_fea_pre_vid_wp">Atļaut video priekšskatījumu parādīt, atskaņojot citu video</string>
     <string name="category_recent_channels">Pēdējie</string>
@@ -303,7 +292,6 @@
     <string name="menu_tv_guide">TV ceļvedis</string>
     <string name="cfg_stream_q">Rādīt straumes kvalitāti</string>
     <string name="ext_player_copy_clipboard">Kopēt saiti tikai uz starpliktuvi</string>
-    <string name="premium_fea_mult_prov">Ļauj vienlaikus izmantot vairākus pakalpojumu sniedzējus</string>
     <string name="btn_add_provider">Pievienot pakalpojumu sniedzēju</string>
     <string name="btn_provider_edit">Rediģēt</string>
     <string name="btn_provider_delete">Dzēst</string>
@@ -360,7 +348,6 @@
     <string name="menu_qs_provider_multiple">Atzīmējiet manuāli</string>
     <string name="category_recently_added">Nesen pievienotās</string>
     <string name="ask_finish_update">Restartējiet lietotni, lai atjauninātu jaunāku versiju?</string>
-    <string name="cfg_premium_etc">Un daudzas citas vērtīgas funkcijas</string>
     <string name="cfg_fine_tune_volume">Manuāla skaņas skaļuma precizēšana (ierobežota pēc sistēmas apjoma)</string>
 
     <string name="cfg_arch_unp">Automātiski atsākt arhīvu, kad tiek atcelta tiešraide</string>
@@ -422,7 +409,6 @@
     <string name="hint_long_ok_menu">Ilgi nospiežot pogu Labi, lielākajā daļā gadījumu tiek atvērts rekvizītu ekrāns</string>
     <string name="save_state">Saglabāt stāvokli</string>
     <string name="restore_state">Atjaunot stāvokli</string>
-<string name="pro_studio">Studijas režīms, ļaujot vienlaikus skatīties vairākas straumes</string>
     <string name="cfg_prov_channel_name">Rādiet pakalpojumu sniedzēja vārdu kanāla nosaukumā, ja izmantojat vairākus pakalpojumu sniedzējus</string>
     <string name="pla_act_quick_seek_back_20">meklējiet atpakaļ par 20 sekundēm</string>
     <string name="pla_act_quick_seek_fwd_20">virzieties uz priekšu par 20 sekundēm</string>
@@ -741,4 +727,10 @@
     <string name="support_1conn_provider">Iespējot atbalstu pakalpojumu sniedzējam, kuram ir tikai viens savienojums</string>
     <string name="merge_data">Apvienot datus</string>
     <string name="reopen_stream_if_paused_for_a_while">Atkārtoti atveriet straumi, ja tā kādu laiku ir apturēta</string>
+    <string name="join_app_community">Pievienojieties lietotņu kopienai</string>
+    <string name="normalize_tv_show_name">Normalizējiet TV pārraides nosaukumu</string>
+    <string name="contact_your_provider">Sazinieties ar pakalpojumu sniedzēju</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) sertifikāts nav derīgs</string>
+    <string name="verify_net_before_update">Pirms pakalpojumu sniedzēju datu atjaunināšanas pārbaudīt tīkla pieejamību</string>
+    <string name="timezone">Laika josla</string>
     </resources>

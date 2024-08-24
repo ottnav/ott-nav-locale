@@ -164,10 +164,6 @@
     <string name="settings_premium_source_purchase">已开通高级会员</string>
     <string name="settings_premium_source_subscription">已订阅高级会员</string>
     <string name="settings_premium_source_unknown">未开通高级会员</string>
-    <string name="settings_premium_what_included">了解高级会员详情......</string>
-    <string name="settings_premium_what_included_1">直播时开启画中画</string>
-    <string name="settings_premium_what_included_3">自动匹配视频播放帧速率</string>
-    <string name="settings_premium_what_included_4">播放速度尽在掌控</string>
 
     <string name="settings_premium_toggles_try_afr">播放帧速率自适应</string>
     <string name="settings_premium_toggles_try_afr_toast">当前显示器的刷新率</string>
@@ -197,17 +193,14 @@
     <string name="spread_btn_rate">记得给5星好评！</string>
     <string name="spread_btn_share">将应用分享给好友</string>
     <string name="spread_share_title">给你推荐个直播软件</string>
-    <string name="settings_premium_what_included_9">输入频道号码来切换频道</string>
     <string name="settings_channel_sort_mode_numb">频道号码</string>
     <string name="ch_opt_change_number">更改频道号码</string>
     <string name="prov_btn_help">帮助</string>
     <string name="prov_help_telegram">打开Telegram跟我们一起聊天</string>
-    <string name="settings_premium_what_included_5">无广告</string>
     <string name="invalid_domain">您输入的域名无效</string>
     <string name="example">示例</string>
     <string name="provider_generic">通用供应商或播放列表</string>
     <string name="btn_search">搜索</string>
-    <string name="premium_fea_6">无线投屏</string>
     <string name="wifi_display">无线显示</string>
     <string name="wifi_display_desc">在另一台设备上播放</string>
 
@@ -225,7 +218,6 @@
     <string name="btn_close">关闭</string>
     <string name="prem_sub_add_3m">季度订阅</string>
     <string name="prem_sub_add_1y">年度订阅</string>
-    <string name="premium_fea_pvsearch">语音搜索。支持按频道名称或回看内容搜索。</string>
     <string name="cfg_play_action_vsearch">语音搜索</string>
     <string name="settings_premium_source_enabled">已开通高级会员</string>
     <string name="cfg_play_action_mute">静音</string>
@@ -258,12 +250,10 @@
     <string name="profile_high_q">质量至上</string>
     <string name="channel_move_cat">更改分类</string>
     <string name="channel_move_new_cat">新建分类</string>
-    <string name="premium_fea_edit_list">编辑分类和隐藏频道等</string>
     <string name="prov_help_bug">反馈问题或错误</string>
     <string name="prov_help_tpl">反馈供应商模板问题</string>
     <string name="prov_help_feature">功能建议</string>
     <string name="prov_help_premium">反馈支付或费用问题</string>
-    <string name="prov_help_contact_via_chat">通过聊天软件联系开发者</string>
     <string name="prov_help_contact_via_email">通过电子邮件联系开发者</string>
     <string name="prov_help_provide_more_info">填写反馈</string>
     <string name="cfg_time_imp">使用12小时制</string>
@@ -274,7 +264,6 @@
     <string name="cfg_player_clock_tl">左上角</string>
     <string name="cat_vr_continue">继续观看</string>
     <string name="cat_vr_continue_prem">观看历史</string>
-    <string name="premium_fea_continue">浏览全部观看历史记录</string>
     <string name="menu_swap_pip_sound">画中画声音切换</string>
     <string name="premium_fea_pre_vid_wp">播放时显示其他视频预览</string>
     <string name="category_recent_channels">观看历史</string>
@@ -299,7 +288,6 @@
     <string name="menu_tv_guide">电视指南</string>
     <string name="cfg_stream_q">显示视频流质量</string>
     <string name="ext_player_copy_clipboard">复制链接</string>
-    <string name="premium_fea_mult_prov">同时使用多个视频供应商</string>
     <string name="btn_add_provider">添加供应商</string>
     <string name="btn_provider_edit">编辑</string>
     <string name="btn_provider_delete">删除</string>
@@ -355,7 +343,6 @@
     <string name="menu_qs_provider_multiple">手动标记</string>
     <string name="category_recently_added">最近添加</string>
     <string name="ask_finish_update">重启应用升级到新版本？</string>
-    <string name="cfg_premium_etc">以及其它众多宝贵功能</string>
     <string name="cfg_fine_tune_volume">音量手动微调</string>
 
     <string name="cfg_arch_unp">暂停直播后继续直播时自动打开回看</string>
@@ -417,7 +404,6 @@
     <string name="hint_long_ok_menu">长按遥控器确定键显示属性</string>
     <string name="save_state">状态保存</string>
     <string name="restore_state">状态恢复</string>
-    <string name="pro_studio">Studio模式，允许同时观看多个流</string>
     <string name="cfg_prov_channel_name">使用多个提供程序时在通道名称中显示提供程序名</string>
     <string name="pla_act_quick_seek_back_20">向后追寻20秒</string>
     <string name="pla_act_quick_seek_fwd_20">向前寻求20秒</string>
@@ -736,4 +722,10 @@
     <string name="support_1conn_provider">启用对仅具有单个连接的提供程序的支持</string>
     <string name="merge_data">合并数据</string>
     <string name="reopen_stream_if_paused_for_a_while">如果暂停一段时间则重新打开流</string>
+    <string name="join_app_community">加入应用社区</string>
+    <string name="normalize_tv_show_name">规范化电视节目名称</string>
+    <string name="contact_your_provider">联系您的提供商</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) 证书无效</string>
+    <string name="verify_net_before_update">在更新提供商的数据之前验证网络可用性</string>
+    <string name="timezone">时区</string>
     </resources>

@@ -164,10 +164,6 @@
     <string name="settings_premium_source_purchase">Đã mua bản cao cấp</string>
     <string name="settings_premium_source_subscription">Đã đăng ký bản cao cấp</string>
     <string name="settings_premium_source_unknown">Bản cao cấp chưa được kích hoạt</string>
-    <string name="settings_premium_what_included">Tìm hiểu về các tính năng cao cấp...</string>
-    <string name="settings_premium_what_included_1">Chế độ hình trong hình khi xem kênh trực tiếp</string>
-    <string name="settings_premium_what_included_3">Tự động chuyển tốc độ khung hình để khớp video</string>
-    <string name="settings_premium_what_included_4">Điều khiển tốc độ phát lại cho các bản lưu trữ</string>
 
     <string name="settings_premium_toggles_try_afr">Tự động chuyển tốc độ khung hình để khớp video</string>
     <string name="settings_premium_toggles_try_afr_toast">Màn hình hiện tại hỗ trợ tốc độ làm tươi (refresh rates)</string>
@@ -197,17 +193,14 @@
     <string name="spread_btn_rate">Đánh giá 5 sao cho ứng dụng này</string>
     <string name="spread_btn_share">Chia sẻ đường liên kết cho bạn bè</string>
     <string name="spread_share_title">Hãy xem qua ứng dụng này</string>
-    <string name="settings_premium_what_included_9">Chuyển kênh bằng cách nhập số kênh</string>
     <string name="settings_channel_sort_mode_numb">số kênh (theo số hiệu kênh, có thể thay đổi)</string>
     <string name="ch_opt_change_number">Thay đổi số kênh</string>
     <string name="prov_btn_help">Trợ giúp</string>
     <string name="prov_help_telegram">Tham gia nhóm trò chuyện Telegram</string>
-    <string name="settings_premium_what_included_5">Không quảng cáo</string>
     <string name="invalid_domain">Tên miền không đúng. Hãy kiểm tra lại</string>
     <string name="example">Ví dụ</string>
     <string name="provider_generic">Nhà cung cấp chung hoặc danh sách phát</string>
     <string name="btn_search">Tìm kiếm</string>
-    <string name="premium_fea_6">Phát luồng trên thiết bị hiển thị không dây</string>
     <string name="wifi_display">Hiển thị không dây</string>
     <string name="wifi_display_desc">Phát luồng trên một thiết bị khác</string>
 
@@ -225,7 +218,6 @@
     <string name="btn_close">Đóng</string>
     <string name="prem_sub_add_3m">Đăng ký (thanh toán mỗi 3 tháng)</string>
     <string name="prem_sub_add_1y">Đăng ký (thanh toán mỗi năm)</string>
-    <string name="premium_fea_pvsearch">Tìm kiếm bằng giọng nói trong khi xem. Tìm kiếm kênh theo tên hoặc nội dung lưu trữ.</string>
     <string name="cfg_play_action_vsearch">tìm kiếm bằng giọng nói</string>
     <string name="settings_premium_source_enabled">Tính năng Cao cấp đã kích hoạt</string>
     <string name="cfg_play_action_mute">tắt tiếng</string>
@@ -258,12 +250,10 @@
     <string name="profile_high_q">chỉ ưu tiên chất lượng</string>
     <string name="channel_move_cat">Thay đổi thể loại</string>
     <string name="channel_move_new_cat">Tạo thể loại mới</string>
-    <string name="premium_fea_edit_list">cho phép chỉnh sửa danh mục thể loại, ẩn kênh, v.v.</string>
     <string name="prov_help_bug">Báo cáo sự cố hoặc lỗi</string>
     <string name="prov_help_tpl">Báo cáo sự cố nhà cung cấp</string>
     <string name="prov_help_feature">Gợi ý tính năng mới</string>
     <string name="prov_help_premium">Báo cáo sự cố về thanh toán hoặc bản cao cấp</string>
-    <string name="prov_help_contact_via_chat">liên hệ với nhà phát triển qua tin nhắn</string>
     <string name="prov_help_contact_via_email">liên hệ với nhà phát triển qua email</string>
     <string name="prov_help_provide_more_info">Viết tin nhắn của bạn cho nhà phát triển (bằng tiếng Anh)</string>
     <string name="cfg_time_imp">Sử dụng định dạng thời gian 12h (am/pm)</string>
@@ -274,7 +264,6 @@
     <string name="cfg_player_clock_tl">góc trên bên trái</string>
     <string name="cat_vr_continue">Tiếp tục xem</string>
     <string name="cat_vr_continue_prem">Các video được xem gần đây hiện có sẵn</string>
-    <string name="premium_fea_continue">Hiển thị tất cả các video được xem gần đây, hiện có sẵn trong bộ lọc Xem tiếp</string>
     <string name="menu_swap_pip_sound">Hoán đổi âm thanh giữa màn hình chính và PiP</string>
     <string name="premium_fea_pre_vid_wp">Cho phép xem trước video trong khi đang phát video khác</string>
     <string name="category_recent_channels">Gần đây</string>
@@ -299,7 +288,6 @@
     <string name="menu_tv_guide">Hướng dẫn TV (TV Guide)</string>
     <string name="cfg_stream_q">Hiển thị chất lượng luồng</string>
     <string name="ext_player_copy_clipboard">Chỉ sao chép liên kết vào khay nhớ tạm</string>
-    <string name="premium_fea_mult_prov">Cho phép một số nhà cung cấp được sử dụng cùng một lúc</string>
     <string name="btn_add_provider">Thêm nhà cung cấp</string>
     <string name="btn_provider_edit">Chỉnh sửa</string>
     <string name="btn_provider_delete">Xoá</string>
@@ -355,7 +343,6 @@
     <string name="menu_qs_provider_multiple">Đánh dấu thủ công</string>
     <string name="category_recently_added">Được thêm gần đây</string>
     <string name="ask_finish_update">Bạn có muốn khởi động lại ứng dụng để cập nhật phiên bản mới?</string>
-    <string name="cfg_premium_etc">Và nhiều tính năng có giá trị khác</string>
     <string name="cfg_fine_tune_volume">Điều chỉnh âm lượng thủ công (giới hạn bởi âm lượng hệ thống)</string>
 
     <string name="cfg_arch_unp">Tự động mở lại bản lưu trữ khi bỏ tạm dừng phát trực tiếp</string>
@@ -417,7 +404,6 @@
     <string name="hint_long_ok_menu">Nhấn giữ phím OK sẽ mở màn hình thuộc tính trong mọi trường hợp</string>
     <string name="save_state">Sao lưu hiện trạng</string>
     <string name="restore_state">Khôi phục</string>
-<string name="pro_studio">Chế độ studio, cho phép xem nhiều luồng cùng lúc</string>
     <string name="cfg_prov_channel_name">Hiển thị tên nhà cung cấp trong tên kênh khi sử dụng nhiều nhà cung cấp</string>
     <string name="pla_act_quick_seek_back_20">tìm kiếm ngược 20 giây</string>
     <string name="pla_act_quick_seek_fwd_20">tìm kiếm về phía trước 20 giây</string>
@@ -736,4 +722,10 @@
     <string name="support_1conn_provider">Cho phép hỗ trợ cho nhà cung cấp chỉ có một kết nối duy nhất</string>
     <string name="merge_data">Hợp nhất dữ liệu</string>
     <string name="reopen_stream_if_paused_for_a_while">Mở lại luồng nếu bị tạm dừng một lúc</string>
+    <string name="join_app_community">Tham gia cộng đồng ứng dụng</string>
+    <string name="normalize_tv_show_name">Bình thường hóa tên chương trình truyền hình</string>
+    <string name="contact_your_provider">Liên hệ với nhà cung cấp của bạn</string>
+    <string name="ssl_certificate_issue_detected">Chứng chỉ SSL (HTTPS) không hợp lệ</string>
+    <string name="verify_net_before_update">Xác minh tính khả dụng của mạng trước khi cập nhật dữ liệu từ nhà cung cấp</string>
+    <string name="timezone">Múi giờ</string>
     </resources>

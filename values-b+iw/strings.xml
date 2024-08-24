@@ -171,10 +171,6 @@
     <string name="settings_premium_source_purchase">פרימיום רכשה</string>
     <string name="settings_premium_source_subscription">מנוי מנוי</string>
     <string name="settings_premium_source_unknown">Premium לא מופעל</string>
-    <string name="settings_premium_what_included">למידע נוסף על תכונות פרמיום …</string>
-    <string name="settings_premium_what_included_1">תמונה במצב תמונה בעת צפייה בזרם חי</string>
-    <string name="settings_premium_what_included_3">שינוי קצב מסגרת אוטומטי כדי להתאים את הווידאו</string>
-    <string name="settings_premium_what_included_4">שליטה מהירות השמעה עבור הארכיונים</string>
 
     <string name="settings_premium_toggles_try_afr">Auto-switch מסגרת הדולר כדי להתאים וידאו</string>
     <string name="settings_premium_toggles_try_afr_toast">הצג הנוכחי נתמך שיעורי רענון</string>
@@ -204,17 +200,14 @@
     <string name="spread_btn_rate">דרג האפליקציה עם חמישה כוכבים</string>
     <string name="spread_btn_share">שתף קישור לאפליקציה עם חבר</string>
     <string name="spread_share_title">תסתכל על האפליקציה</string>
-    <string name="settings_premium_what_included_9">החלפת ערוצים על ידי הזנת מספר ערוץ</string>
     <string name="settings_channel_sort_mode_numb">מספר (לפי מספר ערוץ, ניתן לשנות)</string>
     <string name="ch_opt_change_number">שנה מספר</string>
     <string name="prov_btn_help">עזרה</string>
     <string name="prov_help_telegram">הצטרף לצ\'אט ב- Telegram</string>
-    <string name="settings_premium_what_included_5">ללא פרסומות</string>
     <string name="invalid_domain">הדומיין הוא כנראה לא חוקי. בדוק את הקלט</string>
     <string name="example">דוגמא</string>
     <string name="provider_generic">ספק כללי או רשימת השמעה</string>
     <string name="btn_search">לחפש</string>
-    <string name="premium_fea_6">שלח זרם לתצוגה אלחוטית</string>
     <string name="wifi_display">תצוגה אלחוטית</string>
     <string name="wifi_display_desc">הפעל זרם במכשיר אחר</string>
 
@@ -232,7 +225,6 @@
     <string name="btn_close">סגור</string>
     <string name="prem_sub_add_3m">מנוי (מחויב מדי שלושה חודשים)</string>
     <string name="prem_sub_add_1y">מנוי (מחויב מדי שנה)</string>
-    <string name="premium_fea_pvsearch">חיפוש קולי בעת צפייה. חפש ערוץ לפי שם או תוכן ארכיון.</string>
     <string name="cfg_play_action_vsearch">חיפוש קולי</string>
     <string name="settings_premium_source_enabled">Premium מופעלת</string>
     <string name="cfg_play_action_mute">קול אילם</string>
@@ -265,12 +257,10 @@
     <string name="profile_high_q">רק ענייני איכות</string>
     <string name="channel_move_cat">שנה קטגוריה</string>
     <string name="channel_move_new_cat">צור קטגוריה חדשה</string>
-    <string name="premium_fea_edit_list">מאפשר עריכה של קטגוריות, הסתרת ערוצים וכו \'</string>
     <string name="prov_help_bug">דווח על בעיה או על באג</string>
     <string name="prov_help_tpl">דווח על בעיה בתבנית ספק</string>
     <string name="prov_help_feature">הצע תכונה חדשה</string>
     <string name="prov_help_premium">דווח על בעיה עם תשלומים או פרמיה</string>
-    <string name="prov_help_contact_via_chat">פנה למפתח באמצעות צ\'אט</string>
     <string name="prov_help_contact_via_email">פנה למפתח באמצעות דוא"ל</string>
     <string name="prov_help_provide_more_info">כתוב את ההודעה שלך למפתח</string>
     <string name="cfg_time_imp">השתמש בפורמט הזמן הקיסרי (am / pm)</string>
@@ -281,7 +271,6 @@
     <string name="cfg_player_clock_tl">פינה שמאלית עליונה</string>
     <string name="cat_vr_continue">המשך לצפות</string>
     <string name="cat_vr_continue_prem">סרטונים שנצפו לאחרונה, הזמינים כעת</string>
-    <string name="premium_fea_continue">מציג את כל הסרטונים שנצפו לאחרונה, הזמינים כעת במסנן המשך</string>
     <string name="menu_swap_pip_sound">החלפת קול בין המסך הראשי ו- PiP</string>
     <string name="premium_fea_pre_vid_wp">אפשר להציג את התצוגה המקדימה של הסרטון בעת הפעלת סרטון אחר</string>
     <string name="category_recent_channels">לאחרונה</string>
@@ -306,7 +295,6 @@
     <string name="menu_tv_guide">מדריך שידורי טלוויזיה</string>
     <string name="cfg_stream_q">הצג איכות זרם</string>
     <string name="ext_player_copy_clipboard">העתק קישור ללוח בלבד</string>
-    <string name="premium_fea_mult_prov">מאפשר שימוש במספר ספקים בו-זמנית</string>
     <string name="btn_add_provider">הוסף ספק</string>
     <string name="btn_provider_edit">ערוך</string>
     <string name="btn_provider_delete">מחק</string>
@@ -362,7 +350,6 @@
     <string name="menu_qs_provider_multiple">סמן ידנית</string>
     <string name="category_recently_added">נוספו לאחרונה</string>
     <string name="ask_finish_update">האם להפעיל מחדש את האפליקציה כדי לעדכן לגרסה חדשה יותר?</string>
-    <string name="cfg_premium_etc">ועוד פונקציות רבות ערך</string>
     <string name="cfg_fine_tune_volume">כוונון עוצמת שמע ידני (מוגבל באמצעי האחסון של המערכת)</string>
 
     <string name="cfg_arch_unp">פתח מחדש את הארכיון באופן אוטומטי בעת ביטול ההזרמה של שידור חי</string>
@@ -424,7 +411,6 @@
     <string name="hint_long_ok_menu">לחיצה ארוכה על כפתור OK פותחת את מסך המאפיינים ברוב המקרים</string>
     <string name="save_state">שמור מדינה</string>
     <string name="restore_state">שחזר מצב</string>
-    <string name="pro_studio">מצב סטודיו, מאפשר לצפות בזרמים מרובים בו זמנית</string>
     <string name="cfg_prov_channel_name">הצג שם ספק בשם הערוץ בעת שימוש במספר ספקים</string>
     <string name="pla_act_quick_seek_back_20">חפש אחורה ב 20 שניות</string>
     <string name="pla_act_quick_seek_fwd_20">לחפש קדימה ב 20 שניות</string>
@@ -743,4 +729,10 @@
     <string name="support_1conn_provider">דיחי רוביח קר ול שיש קפסל הכימת רשפא</string>
     <string name="merge_data">םינותנ גוזימ</string>
     <string name="reopen_stream_if_paused_for_a_while">המ ןמזל ההשוה םא םרזה תא שדחמ חתפ</string>
+    <string name="join_app_community">תויצקילפאה תליהקל ףרטצה</string>
+    <string name="normalize_tv_show_name">היזיוולטה תינכות םש תא למרנ</string>
+    <string name="contact_your_provider">ךלש קפסל הנפ</string>
+    <string name="ssl_certificate_issue_detected">יקוח וניא SSL (HTTPS) רושיא</string>
+    <string name="verify_net_before_update">םיקפסמ םינותנ ןוכדע ינפל תשרה תונימז תא קודב</string>
+    <string name="timezone">ןמז רוזא</string>
     </resources>

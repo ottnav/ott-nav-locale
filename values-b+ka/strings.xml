@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">პრემიუმ შეძენილი</string>
     <string name="settings_premium_source_subscription">პრემიუმი გამოწერილია</string>
     <string name="settings_premium_source_unknown">პრემიუმი არ არის ჩართული</string>
-    <string name="settings_premium_what_included">შეიტყვეთ მეტი პრემიუმ ფუნქციების შესახებ…</string>
-    <string name="settings_premium_what_included_1">სურათი სურათში რეჟიმი პირდაპირი სტრიმინგის ყურებისას</string>
-    <string name="settings_premium_what_included_3">კადრების სიხშირის ავტომატური გადართვა ვიდეოს შესატყვისად</string>
-    <string name="settings_premium_what_included_4">არქივებისთვის დაკვრის სიჩქარის კონტროლი</string>
     <string name="settings_premium_toggles_try_afr">ავტომატური გადართვის კადრების სიხშირე ვიდეოს შესატყვისად</string>
     <string name="settings_premium_toggles_try_afr_toast">ამჟამინდელი ეკრანის მხარდაჭერილი განახლების სიხშირე</string>
     <string name="settings_premium_toggle_btn_title">ჩართეთ პრემიუმ ფუნქციები</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">შეაფასეთ აპლიკაცია ხუთი ვარსკვლავით</string>
     <string name="spread_btn_share">გაუზიარეთ აპის ბმული მეგობარს</string>
     <string name="spread_share_title">შეხედეთ აპლიკაციას</string>
-    <string name="settings_premium_what_included_9">არხის გადართვა არხის ნომრის შეყვანით</string>
     <string name="settings_channel_sort_mode_numb">ნომერი (არხის ნომრის მიხედვით, შეიძლება შეიცვალოს)</string>
     <string name="ch_opt_change_number">ნომრის შეცვლა</string>
     <string name="prov_btn_help">დახმარება</string>
     <string name="prov_help_telegram">შეუერთდით ჩეთში Telegram-ში</string>
-    <string name="settings_premium_what_included_5">არანაირი რეკლამა</string>
     <string name="invalid_domain">დომენი სავარაუდოდ არასწორია. შეამოწმეთ თქვენი შეყვანა</string>
     <string name="example">მაგალითი</string>
     <string name="provider_generic">ზოგადი პროვაიდერი ან დასაკრავი სია</string>
     <string name="btn_search">ძიება</string>
-    <string name="premium_fea_6">ნაკადის გაგზავნა უკაბელო ეკრანზე</string>
     <string name="wifi_display">უსადენო დისპლეი</string>
     <string name="wifi_display_desc">ნაკადის თამაში სხვა მოწყობილობაზე</string>
     <string name="cfg_play_action_pp">თამაშის შეჩერება ან განახლება</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">დახურვა</string>
     <string name="prem_sub_add_3m">გამოწერა (დაირიცხება ყოველ 3 თვეში)</string>
     <string name="prem_sub_add_1y">გამოწერა (დაირიცხება ყოველწლიურად)</string>
-    <string name="premium_fea_pvsearch">ხმოვანი ძიება ყურებისას. მოძებნეთ არხი სახელით ან არქივის შიგთავსით.</string>
     <string name="cfg_play_action_vsearch">ხმის ძებნა</string>
     <string name="settings_premium_source_enabled">პრემიუმი ჩართულია</string>
     <string name="cfg_play_action_mute">მდუმარე ხმა</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">მნიშვნელოვანია მხოლოდ ხარისხი</string>
     <string name="channel_move_cat">კატეგორიის შეცვლა</string>
     <string name="channel_move_new_cat">შექმენით ახალი კატეგორია</string>
-    <string name="premium_fea_edit_list">საშუალებას აძლევს კატეგორიების რედაქტირებას, არხების დამალვას და ა.შ</string>
     <string name="prov_help_bug">შეატყობინეთ პრობლემის ან ხარვეზის შესახებ</string>
     <string name="prov_help_tpl">შეატყობინეთ პროვაიდერის შაბლონის პრობლემას</string>
     <string name="prov_help_feature">შემოგვთავაზეთ ახალი ფუნქცია</string>
     <string name="prov_help_premium">შეატყობინეთ პრობლემას გადახდებთან ან პრემიასთან დაკავშირებით</string>
-    <string name="prov_help_contact_via_chat">დაუკავშირდით დეველოპერს ჩატის საშუალებით</string>
     <string name="prov_help_contact_via_email">დაუკავშირდით დეველოპერს ელექტრონული ფოსტით</string>
     <string name="prov_help_provide_more_info">დაწერეთ თქვენი შეტყობინება დეველოპერს</string>
     <string name="cfg_time_imp">გამოიყენეთ იმპერიული დროის ფორმატი (დილის/საღამოს)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">ზედა მარცხენა კუთხე</string>
     <string name="cat_vr_continue">განაგრძეთ ყურება</string>
     <string name="cat_vr_continue_prem">ახლახან ნანახი ვიდეოები, რომლებიც ახლა ხელმისაწვდომია</string>
-    <string name="premium_fea_continue">აჩვენებს ყველა ახლახან ნანახ ვიდეოს, რომლებიც ამჟამად ხელმისაწვდომია Continue ფილტრში</string>
     <string name="menu_swap_pip_sound">შეცვალეთ ხმა მთავარ ეკრანსა და PiP-ს შორის</string>
     <string name="premium_fea_pre_vid_wp">დაუშვით ვიდეოს გადახედვის ჩვენება სხვა ვიდეოს დაკვრის დროს</string>
     <string name="category_recent_channels">Ბოლო</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">სატელევიზიო გზამკვლევი</string>
     <string name="cfg_stream_q">ნაკადის ხარისხის ჩვენება</string>
     <string name="ext_player_copy_clipboard">დააკოპირეთ ბმული მხოლოდ ბუფერში</string>
-    <string name="premium_fea_mult_prov">საშუალებას აძლევს რამდენიმე პროვაიდერს ერთდროულად გამოიყენონ</string>
     <string name="btn_add_provider">პროვაიდერის დამატება</string>
     <string name="btn_provider_edit">რედაქტირება</string>
     <string name="btn_provider_delete">წაშლა</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">მონიშნეთ ხელით</string>
     <string name="category_recently_added">ახლახან დამატებულია</string>
     <string name="ask_finish_update">განაახლეთ აპი უფრო ახალი ვერსიისთვის?</string>
-    <string name="cfg_premium_etc">და მრავალი სხვა ღირებული ფუნქცია</string>
     <string name="cfg_fine_tune_volume">აუდიოს ხმის ხელით დაზუსტება (შეზღუდულია სისტემის მოცულობით)</string>
     <string name="cfg_arch_unp">არქივის ავტომატურად ხელახლა გახსნა პირდაპირი სტრიმინგის შეჩერებისას</string>
     <string name="cfg_ch_more_epg">EPG-ზე დიდი არხის სახელის ჩვენება</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">OK ღილაკზე ხანგრძლივი დაჭერით უმეტეს შემთხვევაში იხსნება თვისებების ეკრანი</string>
     <string name="save_state">სახელმწიფოს შენახვა</string>
     <string name="restore_state">მდგომარეობის აღდგენა</string>
-    <string name="pro_studio">სტუდიის რეჟიმი, რომელიც საშუალებას გაძლევთ უყუროთ რამდენიმე ნაკადს ერთდროულად</string>
     <string name="cfg_prov_channel_name">პროვაიდერის სახელის ჩვენება არხის სახელში მრავალი პროვაიდერის გამოყენებისას</string>
     <string name="pla_act_quick_seek_back_20">იძიეთ უკან 20 წამით</string>
     <string name="pla_act_quick_seek_fwd_20">წინსვლა 20 წამით</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">ჩართეთ მხარდაჭერა პროვაიდერისთვის, რომელსაც აქვს მხოლოდ ერთი კავშირი</string>
     <string name="merge_data">მონაცემების შერწყმა</string>
     <string name="reopen_stream_if_paused_for_a_while">ხელახლა გახსენით ნაკადი, თუ ცოტა ხნით შეჩერებულია</string>
+    <string name="join_app_community">შეუერთდით აპლიკაციის საზოგადოებას</string>
+    <string name="normalize_tv_show_name">სატელევიზიო შოუს სახელის ნორმალიზება</string>
+    <string name="contact_your_provider">დაუკავშირდით თქვენს პროვაიდერს</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) სერთიფიკატი არასწორია</string>
+    <string name="verify_net_before_update">გადაამოწმეთ ქსელის ხელმისაწვდომობა პროვაიდერების მონაცემების განახლებამდე</string>
+    <string name="timezone">დროის სარტყელი</string>
     </resources>

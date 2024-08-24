@@ -170,10 +170,6 @@
     <string name="settings_premium_source_purchase">ਪ੍ਰੀਮੀਅਮ ਖਰੀਦਿਆ</string>
     <string name="settings_premium_source_subscription">ਪ੍ਰੀਮੀਅਮ ਦੀ ਗਾਹਕੀ</string>
     <string name="settings_premium_source_unknown">ਪ੍ਰੀਮੀਅਮ ਸਮਰੱਥ ਨਹੀਂ ਹੈ</string>
-    <string name="settings_premium_what_included">ਪ੍ਰੀਮੀਅਮ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ ...</string>
-    <string name="settings_premium_what_included_1">ਲਾਈਵ ਸਟ੍ਰੀਮ ਦੇਖਦੇ ਹੋਏ ਤਸਵੀਰ-ਇਨ-ਪਿਕਚਰ ਮੋਡ</string>
-    <string name="settings_premium_what_included_3">ਵੀਡੀਓ ਨੂੰ ਮੇਲ ਕਰਨ ਲਈ ਆਟੋਮੈਟਿਕ ਫ੍ਰੇਮ ਰੇਟ ਸਵਿਚ ਕਰਨਾ</string>
-    <string name="settings_premium_what_included_4">ਆਰਕਾਈਵਜ਼ ਲਈ ਪਲੇਬੈਕ ਸਪੀਡ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨਾ</string>
 
     <string name="settings_premium_toggles_try_afr">ਵੀਡੀਓ ਨੂੰ ਮੇਲ ਕਰਨ ਲਈ ਆਟੋ-ਸਵਿਚ ਫ੍ਰੇਮ ਰੇਟ</string>
     <string name="settings_premium_toggles_try_afr_toast">ਮੌਜੂਦਾ ਡਿਸਪਲੇਅ ਸਮਰਪਿਤ ਤਾਜ਼ਾ ਦਰ</string>
@@ -203,17 +199,14 @@
     <string name="spread_btn_rate">ਪੰਜ ਸਟਾਰ ਨਾਲ ਐਪ ਨੂੰ ਦਰਜਾ ਦਿਓ</string>
     <string name="spread_btn_share">ਕਿਸੇ ਦੋਸਤ ਨਾਲ ਐਪ ਲਿੰਕ ਸਾਂਝੇ ਕਰੋ</string>
     <string name="spread_share_title">ਐਪ ਤੇ ਨਜ਼ਰ ਮਾਰੋ</string>
-    <string name="settings_premium_what_included_9">ਚੈਨਲ ਨੰਬਰ ਦਾਖਲ ਕਰਕੇ ਚੈਨਲ ਸਵਿਚ ਕਰਨਾ</string>
     <string name="settings_channel_sort_mode_numb">ਨੰਬਰ (ਚੈਨਲ ਨੰਬਰ ਰਾਹੀਂ, ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ)</string>
     <string name="ch_opt_change_number">ਨੰਬਰ ਬਦਲੋ</string>
     <string name="prov_btn_help">ਮਦਦ ਕਰੋ</string>
     <string name="prov_help_telegram">ਟੈਲੀਗ੍ਰਾਮ ਵਿੱਚ ਚੈਟ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ</string>
-    <string name="settings_premium_what_included_5">ਕੋਈ ਵਿਗਿਆਪਨ ਨਹੀਂ</string>
     <string name="invalid_domain">ਡੋਮੇਨ ਸ਼ਾਇਦ ਅਯੋਗ ਹੈ ਆਪਣੇ ਇਨਪੁਟ ਦੀ ਜਾਂਚ ਕਰੋ</string>
     <string name="example">ਉਦਾਹਰਨ</string>
     <string name="provider_generic">ਆਮ ਪ੍ਰਦਾਤਾ ਜਾਂ ਪਲੇਲਿਸਟ</string>
     <string name="btn_search">ਖੋਜ</string>
-    <string name="premium_fea_6">ਇੱਕ ਵਾਇਰਲੈਸ ਡਿਸਪਲੇ ਲਈ ਸਟ੍ਰੀਮ ਭੇਜੋ</string>
     <string name="wifi_display">ਵਾਇਰਲੈਸ ਡਿਸਪਲੇ</string>
     <string name="wifi_display_desc">ਕਿਸੇ ਹੋਰ ਡਿਵਾਈਸ ਤੇ ਸਟ੍ਰੀਮ ਪਲੇ ਕਰੋ</string>
 
@@ -231,7 +224,6 @@
     <string name="btn_close">ਬੰਦ ਕਰੋ</string>
     <string name="prem_sub_add_3m">ਗਾਹਕ ਬਣੋ (ਹਰੇਕ 3 ਮਹੀਨਿਆਂ ਲਈ ਬਿਲ)</string>
     <string name="prem_sub_add_1y">ਗਾਹਕ ਬਣੋ (ਹਰ ਸਾਲ ਬਿਲ)</string>
-    <string name="premium_fea_pvsearch">ਦੇਖਣ ਦੌਰਾਨ ਵੌਇਸ ਖੋਜ. ਨਾਮ ਦੁਆਰਾ ਚੈਨਲ ਦੀ ਖੋਜ ਕਰੋ, ਜਾਂ ਪੁਰਾਲੇਖ ਸਮਗਰੀ ਨੂੰ.</string>
     <string name="cfg_play_action_vsearch">ਵੌਇਸ ਖੋਜ</string>
     <string name="settings_premium_source_enabled">ਪ੍ਰੀਮੀਅਮ ਸਮਰਥਿਤ</string>
     <string name="cfg_play_action_mute">ਅਵਾਜ਼ ਨੂੰ ਮੂਕ ਕਰੋ</string>
@@ -264,12 +256,10 @@
     <string name="profile_high_q">ਕੇਵਲ ਗੁਣਵੱਤਾ ਮਾਮਲਾ</string>
     <string name="channel_move_cat">ਸ਼੍ਰੇਣੀ ਬਦਲੋ</string>
     <string name="channel_move_new_cat">ਨਵੀਂ ਸ਼੍ਰੇਣੀ ਬਣਾਓ</string>
-    <string name="premium_fea_edit_list">ਵਰਗਾਂ ਨੂੰ ਸੰਪਾਦਿਤ ਕਰਨ, ਚੈਨਲ ਲੁਕਾਉਣ, ਆਦਿ ਦੀ ਆਗਿਆ ਦੇਣਾ</string>
     <string name="prov_help_bug">ਕਿਸੇ ਸਮੱਸਿਆ ਜਾਂ ਬੱਗ ਦੀ ਰਿਪੋਰਟ ਕਰੋ</string>
     <string name="prov_help_tpl">ਪ੍ਰੋਵਾਈਡਰ ਟੈਮਪਲੇਟ ਰਿਪੋਰਟ ਰਿਪੋਰਟ ਕਰੋ</string>
     <string name="prov_help_feature">ਇੱਕ ਨਵੇਂ ਫੀਚਰ ਸੁਝਾਓ</string>
     <string name="prov_help_premium">ਅਦਾਇਗੀਆਂ ਜਾਂ ਪ੍ਰੀਮੀਅਮ ਨਾਲ ਰਿਪੋਰਟ ਕਰੋ</string>
-    <string name="prov_help_contact_via_chat">ਗੱਲਬਾਤ ਦੁਆਰਾ ਸੰਪਰਕ ਵਿਕਾਸਕਾਰ</string>
     <string name="prov_help_contact_via_email">ਈ ਮੇਲ ਰਾਹੀਂ ਸੰਪਰਕ ਡਿਵੈਲਪਰ</string>
     <string name="prov_help_provide_more_info">ਆਪਣਾ ਸੁਨੇਹਾ ਡਿਵੈਲਪਰ ਨੂੰ ਲਿੱਖੋ</string>
     <string name="cfg_time_imp">ਸਾਮਰਾਜ ਦੇ ਸਮੇਂ ਦਾ ਫਾਰਮੈਟ ਵਰਤੋ (ਸਵੇਰੇ / ਸ਼ਾਮ)</string>
@@ -280,7 +270,6 @@
     <string name="cfg_player_clock_tl">ਚੋਟੀ ਦੇ ਖੱਬੇ ਕੋਨੇ</string>
     <string name="cat_vr_continue">ਦੇਖਣਾ ਜਾਰੀ ਰੱਖੋ</string>
     <string name="cat_vr_continue_prem">ਹਾਲ ਹੀ ਵਿੱਚ ਦੇਖੇ ਗਏ ਵੀਡੀਓਜ਼, ਜੋ ਹੁਣ ਉਪਲਬਧ ਹਨ</string>
-    <string name="premium_fea_continue">ਹਾਲ ਹੀ ਵਿੱਚ ਦੇਖੇ ਗਏ ਸਾਰੇ ਵੀਡੀਓਜ਼ ਦਿਖਾਉਂਦਾ ਹੈ, ਜੋ ਵਰਤਮਾਨ ਵਿੱਚ ਫਿਲਟਰ ਜਾਰੀ ਰੱਖੋ ਵਿੱਚ ਉਪਲਬਧ ਹਨ</string>
     <string name="menu_swap_pip_sound">ਮੁੱਖ ਸਕ੍ਰੀਨ ਅਤੇ ਪਿਪ ਦੇ ਵਿਚਕਾਰ ਆਵਾਜ਼ ਸਵੈਪ ਕਰੋ</string>
     <string name="premium_fea_pre_vid_wp">ਕਿਸੇ ਹੋਰ ਵੀਡੀਓ ਨੂੰ ਚਲਾਉਂਦੇ ਸਮੇਂ ਵੀਡੀਓ ਪੂਰਵਦਰਸ਼ਨ ਨੂੰ ਦਿਖਾਓ</string>
     <string name="category_recent_channels">ਹਾਲ ਹੀ</string>
@@ -305,7 +294,6 @@
     <string name="menu_tv_guide">ਟੀਵੀ ਗਾਈਡ</string>
     <string name="cfg_stream_q">ਸਟ੍ਰੀਮ ਕੁਆਲਿਟੀ ਦਿਖਾਓ</string>
     <string name="ext_player_copy_clipboard">ਸਿਰਫ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ</string>
-    <string name="premium_fea_mult_prov">ਕਈ ਪ੍ਰਦਾਤਾਵਾਂ ਨੂੰ ਇੱਕੋ ਸਮੇਂ ਵਰਤਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ</string>
     <string name="btn_add_provider">ਪ੍ਰਦਾਤਾ ਜੋੜੋ</string>
     <string name="btn_provider_edit">ਸੰਪਾਦਿਤ ਕਰੋ</string>
     <string name="btn_provider_delete">ਮਿਟਾਓ</string>
@@ -361,7 +349,6 @@
     <string name="menu_qs_provider_multiple">ਖੁਦ ਮਾਰਕ ਕਰੋ</string>
     <string name="category_recently_added">ਹਾਲ ਹੀ ਸ਼ਾਮਿਲ ਕੀਤਾ ਗਿਆ ਹੈ</string>
     <string name="ask_finish_update">ਨਵੇਂ ਵਰਜਨ ਲਈ ਅਪਡੇਟ ਕਰਨ ਲਈ ਐਪ ਨੂੰ ਰੀਸਟਾਰਟ ਕਰਨਾ ਹੈ?</string>
-    <string name="cfg_premium_etc">ਅਤੇ ਕਈ ਹੋਰ ਕੀਮਤੀ ਫੰਕਸ਼ਨ</string>
     <string name="cfg_fine_tune_volume">ਮੈਨੁਅਲ ਆਡੀਓ ਵਾਲੀਅਮ ਫਾਈਨ-ਟਿਊਨ (ਸਿਸਟਮ ਵਾਲੀਅਮ ਦੁਆਰਾ ਸੀਮਿਤ)</string>
 
     <string name="cfg_arch_unp">ਲਾਈਵ ਸਟ੍ਰੀਮ ਨੂੰ ਅਨਪੌਸ ਕਰਨ ਵੇਲੇ ਆਟੋਮੈਟਿਕਲੀ ਆਰਕਾਈਵ ਦੁਬਾਰਾ ਖੋਲ੍ਹੋ</string>
@@ -423,7 +410,6 @@
     <string name="hint_long_ok_menu">ਲੰਬੇ ਸਮੇਂ ਤੋਂ ਦਬਾਉਣ ਵਾਲਾ ਓਕੇ ਬਟਨ ਜ਼ਿਆਦਾਤਰ ਮਾਮਲਿਆਂ ਵਿੱਚ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਸਕ੍ਰੀਨ ਖੋਲ੍ਹਦਾ ਹੈ</string>
     <string name="save_state">ਰਾਜ ਨੂੰ ਬਚਾਓ</string>
     <string name="restore_state">ਸਥਿਤੀ ਨੂੰ ਬਹਾਲ ਕਰੋ</string>
-<string name="pro_studio">ਸਟੂਡੀਓ ਮੋਡ, ਇਕੋ ਸਮੇਂ ਕਈ ਸਟ੍ਰੀਮਾਂ ਨੂੰ ਦੇਖਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ</string>
     <string name="cfg_prov_channel_name">ਜਦੋਂ ਮਲਟੀਪਲ ਪ੍ਰਦਾਤਾ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ ਤਾਂ ਪ੍ਰਦਾਤਾ ਦਾ ਨਾਮ ਚੈਨਲ ਦੇ ਨਾਮ ਵਿੱਚ ਦਿਖਾਓ</string>
     <string name="pla_act_quick_seek_back_20">20 ਸਕਿੰਟ ਬਾਅਦ ਪਿੱਛੇ ਜਾਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
     <string name="pla_act_quick_seek_fwd_20">ਅੱਗੇ 20 ਸਕਿੰਟ ਦੀ ਭਾਲ ਕਰੋ</string>
@@ -742,4 +728,10 @@
     <string name="support_1conn_provider">ਪ੍ਰਦਾਤਾ ਲਈ ਸਹਾਇਤਾ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ ਜਿਸ ਕੋਲ ਸਿਰਫ਼ ਇੱਕ ਕਨੈਕਸ਼ਨ ਹੈ</string>
     <string name="merge_data">ਡਾਟਾ ਮਿਲਾਓ</string>
     <string name="reopen_stream_if_paused_for_a_while">ਜੇਕਰ ਥੋੜੀ ਦੇਰ ਲਈ ਰੋਕਿਆ ਗਿਆ ਹੋਵੇ ਤਾਂ ਸਟ੍ਰੀਮ ਨੂੰ ਦੁਬਾਰਾ ਖੋਲ੍ਹੋ</string>
+    <string name="join_app_community">ਐਪ ਭਾਈਚਾਰੇ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ</string>
+    <string name="normalize_tv_show_name">ਟੀਵੀ ਸ਼ੋਅ ਦੇ ਨਾਮ ਨੂੰ ਆਮ ਬਣਾਓ</string>
+    <string name="contact_your_provider">ਆਪਣੇ ਪ੍ਰਦਾਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) ਸਰਟੀਫਿਕੇਟ ਅਵੈਧ ਹੈ</string>
+    <string name="verify_net_before_update">ਪ੍ਰਦਾਤਾਵਾਂ ਤੋਂ ਡਾਟਾ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਨੈੱਟਵਰਕ ਦੀ ਉਪਲਬਧਤਾ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="timezone">ਸਮਾਂ ਖੇਤਰ</string>
     </resources>

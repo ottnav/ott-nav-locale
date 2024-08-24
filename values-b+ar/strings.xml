@@ -172,10 +172,6 @@
     <string name="settings_premium_source_purchase">قسط شراؤها</string>
     <string name="settings_premium_source_subscription">اشتراك بريميوم</string>
     <string name="settings_premium_source_unknown">قسط غير ممكن</string>
-    <string name="settings_premium_what_included">تعرف على المزيد حول الميزات المتميزة …</string>
-    <string name="settings_premium_what_included_1">وضع صورة في صورة أثناء مشاهدة البث المباشر</string>
-    <string name="settings_premium_what_included_3">تبديل معدل الإطار التلقائي لمطابقة الفيديو</string>
-    <string name="settings_premium_what_included_4">السيطرة على سرعة التشغيل للمحفوظات</string>
 
     <string name="settings_premium_toggles_try_afr">معدل الإطار التلقائي للتبديل لمطابقة الفيديو</string>
     <string name="settings_premium_toggles_try_afr_toast">يدعم العرض الحالي معدلات التحديث</string>
@@ -205,17 +201,14 @@
     <string name="spread_btn_rate">تقييم التطبيق مع خمس نجوم</string>
     <string name="spread_btn_share">مشاركة رابط التطبيق مع صديق</string>
     <string name="spread_share_title">ألق نظرة على التطبيق</string>
-    <string name="settings_premium_what_included_9">تبديل القنوات عن طريق إدخال رقم القناة</string>
     <string name="settings_channel_sort_mode_numb">رقم (بواسطة رقم القناة ، يمكن تغييره)</string>
     <string name="ch_opt_change_number">تغيير رقم</string>
     <string name="prov_btn_help">مساعدة</string>
     <string name="prov_help_telegram">انضم إلى الدردشة في Telegram</string>
-    <string name="settings_premium_what_included_5">لا اعلانات</string>
     <string name="invalid_domain">النطاق ربما غير صالح. تحقق من ادخالك</string>
     <string name="example">مثال</string>
     <string name="provider_generic">موفر عام أو قائمة تشغيل</string>
     <string name="btn_search">بحث</string>
-    <string name="premium_fea_6">إرسال دفق إلى شاشة لاسلكية</string>
     <string name="wifi_display">عرض لاسلكي</string>
     <string name="wifi_display_desc">تشغيل دفق على جهاز آخر</string>
 
@@ -233,7 +226,6 @@
     <string name="btn_close">قريب</string>
     <string name="prem_sub_add_3m">الاشتراك (يتم الدفع كل 3 أشهر)</string>
     <string name="prem_sub_add_1y">اشترك (فواتير كل عام)</string>
-    <string name="premium_fea_pvsearch">البحث الصوتي أثناء المشاهدة. البحث عن قناة بالاسم ، أو محتويات الأرشيف.</string>
     <string name="cfg_play_action_vsearch">البحث الصوتي</string>
     <string name="settings_premium_source_enabled">قسط ممكن</string>
     <string name="cfg_play_action_mute">صوت منخفض</string>
@@ -266,12 +258,10 @@
     <string name="profile_high_q">فقط مسائل الجودة</string>
     <string name="channel_move_cat">تغيير الفئة</string>
     <string name="channel_move_new_cat">إنشاء فئة جديدة</string>
-    <string name="premium_fea_edit_list">يسمح بتحرير الفئات وإخفاء القنوات وما إلى ذلك</string>
     <string name="prov_help_bug">الإبلاغ عن مشكلة أو خطأ</string>
     <string name="prov_help_tpl">تقرير قالب مزود المشكلة</string>
     <string name="prov_help_feature">اقتراح ميزة جديدة</string>
     <string name="prov_help_premium">أبلغ عن مشكلة في المدفوعات أو قسط التأمين</string>
-    <string name="prov_help_contact_via_chat">الاتصال المطور عبر الدردشة</string>
     <string name="prov_help_contact_via_email">الاتصال المطور عبر البريد الإلكتروني</string>
     <string name="prov_help_provide_more_info">اكتب رسالتك إلى المطور</string>
     <string name="cfg_time_imp">استخدام تنسيق الوقت الإمبراطوري (am / pm)</string>
@@ -282,7 +272,6 @@
     <string name="cfg_player_clock_tl">الزاوية اليسرى في الاعلى</string>
     <string name="cat_vr_continue">مواصلة المشاهدة</string>
     <string name="cat_vr_continue_prem">مقاطع الفيديو التي تم عرضها مؤخرًا ، وهي متاحة الآن</string>
-    <string name="premium_fea_continue">يعرض جميع مقاطع الفيديو التي تم عرضها مؤخرًا والمتوفرة حاليًا في فلتر متابعة</string>
     <string name="menu_swap_pip_sound">تبديل الصوت بين الشاشة الرئيسية و PiP</string>
     <string name="premium_fea_pre_vid_wp">السماح بمعاينة الفيديو ليتم عرضها أثناء تشغيل فيديو آخر</string>
     <string name="category_recent_channels">الأخيرة</string>
@@ -307,7 +296,6 @@
     <string name="menu_tv_guide">دليل التلفاز</string>
     <string name="cfg_stream_q">عرض جودة الدفق</string>
     <string name="ext_player_copy_clipboard">نسخ الرابط إلى الحافظة فقط</string>
-    <string name="premium_fea_mult_prov">يسمح لعدة مزودي لاستخدامها في نفس الوقت</string>
     <string name="btn_add_provider">إضافة مزود</string>
     <string name="btn_provider_edit">تصحيح</string>
     <string name="btn_provider_delete">حذف</string>
@@ -363,7 +351,6 @@
     <string name="menu_qs_provider_multiple">علامة يدويا</string>
     <string name="category_recently_added">وضعت مؤخرا</string>
     <string name="ask_finish_update">أعد تشغيل التطبيق لتحديث الإصدار الأحدث؟</string>
-    <string name="cfg_premium_etc">والعديد من الوظائف القيمة الأخرى</string>
     <string name="cfg_fine_tune_volume">ضبط حجم الصوت يدويًا (محدود بحجم صوت النظام)</string>
 
     <string name="cfg_arch_unp">إعادة فتح الأرشيف تلقائيًا عند إلغاء بث البث المباشر</string>
@@ -425,7 +412,6 @@
     <string name="hint_long_ok_menu">الضغط على زر موافق طويلة يفتح خصائص الشاشة في معظم الحالات</string>
     <string name="save_state">حالة الحفظ</string>
     <string name="restore_state">استعادة الدولة</string>
-<string name="pro_studio">وضع الاستوديو ، مما يسمح بمشاهدة تدفقات متعددة في نفس الوقت</string>
     <string name="cfg_prov_channel_name">إظهار اسم المزود في اسم القناة عند استخدام موفري متعددين</string>
     <string name="pla_act_quick_seek_back_20">تسعى الى الوراء بنسبة 20 ثانية</string>
     <string name="pla_act_quick_seek_fwd_20">السعي إلى الأمام بنسبة 20 ثانية</string>
@@ -744,4 +730,10 @@
     <string name="support_1conn_provider">ﻂﻘﻓ ﺪﺣﺍﻭ ﻝﺎﺼﺗﺍ ﻪﻳﺪﻟ ﻱﺬﻟﺍ ﺮﻓﻮﻤﻠﻟ ﻢﻋﺪﻟﺍ ﻦﻴﻜﻤﺗ</string>
     <string name="merge_data">ﺕﺎﻧﺎﻴﺒﻟﺍ ﺞﻣﺩ</string>
     <string name="reopen_stream_if_paused_for_a_while">ﺖﻗﻮﻟﺍ ﻦﻣ ﺓﺮﺘﻔﻟ ﺎﺘًﻗﺆﻣ ﻪﻓﺎﻘﻳﺇ ﻢﺗ ﺍﺫﺇ ﺚﺒﻟﺍ ﺢﺘﻓ ﺪﻋﺃ</string>
+    <string name="join_app_community">ﺕﺎﻘﻴﺒﻄﺘﻟﺍ ﻊﻤﺘﺠﻣ ﻰﻟﺇ ﻢﻀﻧﺍ</string>
+    <string name="normalize_tv_show_name">ﻲﻧﻮﻳﺰﻔﻠﺘﻟﺍ ﺞﻣﺎﻧﺮﺒﻟﺍ ﻢﺳﺍ ﻊﻴﺒﻄﺗ</string>
+    <string name="contact_your_provider">ﻚﺑ ﺹﺎﺨﻟﺍ ﺔﻣﺪﺨﻟﺍ ﺩﻭﺰﻤﺑ ﻞﺼﺗﺍ</string>
+    <string name="ssl_certificate_issue_detected">ﺔﺤﻟﺎﺻ ﺮﻴﻏ SSL (HTTPS) ﺓﺩﺎﻬﺷ</string>
+    <string name="verify_net_before_update">ﺔﻣﺪﺨﻟﺍ ﻲﻣﺪﻘﻣ ﻦﻣ ﺕﺎﻧﺎﻴﺒﻟﺍ ﺚﻳﺪﺤﺗ ﻞﺒﻗ ﺔﻜﺒﺸﻟﺍ ﺮﻓﻮﺗ ﻦﻣ ﻖﻘﺤﺗ</string>
+    <string name="timezone">ﺔﻴﻨﻣﺰﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ</string>
     </resources>

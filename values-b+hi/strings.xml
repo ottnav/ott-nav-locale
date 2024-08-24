@@ -170,10 +170,6 @@
     <string name="settings_premium_source_purchase">प्रीमियम खरीदा गया</string>
     <string name="settings_premium_source_subscription">प्रीमियम सदस्यता लें</string>
     <string name="settings_premium_source_unknown">प्रीमियम सक्षम नहीं है</string>
-    <string name="settings_premium_what_included">प्रीमियम सुविधाओं के बारे में और जानें ...</string>
-    <string name="settings_premium_what_included_1">लाइव स्ट्रीम देखते समय पिक्चर-इन-पिक्चर मोड</string>
-    <string name="settings_premium_what_included_3">वीडियो से मिलान करने के लिए स्वचालित फ्रेम दर स्विचिंग</string>
-    <string name="settings_premium_what_included_4">अभिलेखागार के लिए प्लेबैक गति को नियंत्रित करना</string>
 
     <string name="settings_premium_toggles_try_afr">वीडियो से मिलान करने के लिए ऑटो स्विच फ्रेम दर</string>
     <string name="settings_premium_toggles_try_afr_toast">वर्तमान प्रदर्शन समर्थित ताज़ा दरों</string>
@@ -205,17 +201,14 @@
     <string name="spread_btn_rate">पांच सितारों के साथ ऐप रेट करें</string>
     <string name="spread_btn_share">एक दोस्त के साथ ऐप लिंक साझा करें</string>
     <string name="spread_share_title">ऐप पर एक नज़र डालें</string>
-    <string name="settings_premium_what_included_9">चैनल नंबर दर्ज करके चैनल स्विचिंग</string>
     <string name="settings_channel_sort_mode_numb">संख्या (चैनल नंबर से, बदला जा सकता है)</string>
     <string name="ch_opt_change_number">अंक बदलो</string>
     <string name="prov_btn_help">मदद</string>
     <string name="prov_help_telegram">टेलीग्राम में चैट में शामिल हों</string>
-    <string name="settings_premium_what_included_5">विज्ञापन नहीं</string>
     <string name="invalid_domain">डोमेन शायद अमान्य है। अपना इनपुट जांचें</string>
     <string name="example">उदाहरण</string>
     <string name="provider_generic">जेनेरिक प्रदाता या प्लेलिस्ट</string>
     <string name="btn_search">खोज</string>
-    <string name="premium_fea_6">वायरलेस डिस्प्ले पर स्ट्रीम भेजें</string>
     <string name="wifi_display">बेतार प्रकट करना</string>
     <string name="wifi_display_desc">किसी अन्य डिवाइस पर स्ट्रीम चलाएं</string>
 
@@ -233,7 +226,6 @@
     <string name="btn_close">बंद करे</string>
     <string name="prem_sub_add_3m">सदस्यता लें (प्रत्येक 3 महीने का बिल)</string>
     <string name="prem_sub_add_1y">सदस्यता लें (प्रत्येक वर्ष बिल किया जाता है)</string>
-    <string name="premium_fea_pvsearch">देखते समय आवाज खोज। नाम से चैनल के लिए खोजें, या संग्रह सामग्री।</string>
     <string name="cfg_play_action_vsearch">आवाज खोज</string>
     <string name="settings_premium_source_enabled">प्रीमियम सक्षम</string>
     <string name="cfg_play_action_mute">ध्वनि म्यूट करें</string>
@@ -266,12 +258,10 @@
     <string name="profile_high_q">केवल गुणवत्ता मायने रखती है</string>
     <string name="channel_move_cat">श्रेणी बदलें</string>
     <string name="channel_move_new_cat">नई श्रेणी बनाएं</string>
-    <string name="premium_fea_edit_list">श्रेणियों के संपादन, चैनल छिपाने आदि की अनुमति देता है</string>
     <string name="prov_help_bug">किसी समस्या या बग की रिपोर्ट करें</string>
     <string name="prov_help_tpl">रिपोर्ट प्रदाता टेम्पलेट समस्या</string>
     <string name="prov_help_feature">एक नई सुविधा सुझाएं</string>
     <string name="prov_help_premium">भुगतान या प्रीमियम के साथ समस्या की रिपोर्ट करें</string>
-    <string name="prov_help_contact_via_chat">चैट के माध्यम से डेवलपर से संपर्क करें</string>
     <string name="prov_help_contact_via_email">ईमेल के माध्यम से डेवलपर से संपर्क करें</string>
     <string name="prov_help_provide_more_info">डेवलपर को अपना संदेश लिखें</string>
     <string name="cfg_time_imp">शाही समय प्रारूप का उपयोग करें (am / pm)</string>
@@ -282,7 +272,6 @@
     <string name="cfg_player_clock_tl">ऊपरी बायां कोना</string>
     <string name="cat_vr_continue">देखते रहना</string>
     <string name="cat_vr_continue_prem">हाल ही में देखे गए वीडियो, जो अब उपलब्ध हैं</string>
-    <string name="premium_fea_continue">हाल ही में देखे गए सभी वीडियो दिखाता है, जो वर्तमान में जारी फ़िल्टर में उपलब्ध हैं</string>
     <string name="menu_swap_pip_sound">मुख्य स्क्रीन और PiP के बीच स्वैप ध्वनि</string>
     <string name="premium_fea_pre_vid_wp">किसी अन्य वीडियो को चलाते समय वीडियो पूर्वावलोकन दिखाने की अनुमति दें</string>
     <string name="category_recent_channels">हाल का</string>
@@ -307,7 +296,6 @@
     <string name="menu_tv_guide">टीवी गाइड</string>
     <string name="cfg_stream_q">स्ट्रीम गुणवत्ता दिखाएं</string>
     <string name="ext_player_copy_clipboard">लिंक को क्लिपबोर्ड पर कॉपी करें</string>
-    <string name="premium_fea_mult_prov">कई प्रदाताओं को एक ही समय में उपयोग करने की अनुमति देता है</string>
     <string name="btn_add_provider">प्रदाता जोड़ें</string>
     <string name="btn_provider_edit">संपादित करें</string>
     <string name="btn_provider_delete">हटाना</string>
@@ -363,7 +351,6 @@
     <string name="menu_qs_provider_multiple">मैन्युअल रूप से चिह्नित करें</string>
     <string name="category_recently_added">हाल ही में जोड़ा</string>
     <string name="ask_finish_update">नए संस्करण के लिए अपडेट करने के लिए एप्लिकेशन को पुनरारंभ करें?</string>
-    <string name="cfg_premium_etc">और कई अन्य मूल्यवान कार्य</string>
     <string name="cfg_fine_tune_volume">मैनुअल ऑडियो वॉल्यूम फाइन-ट्यून (सिस्टम वॉल्यूम द्वारा सीमित)</string>
 
     <string name="cfg_arch_unp">स्वचालित रूप से संग्रह को फिर से खोलना जब लाइव स्ट्रीम को खोलना</string>
@@ -425,7 +412,6 @@
     <string name="hint_long_ok_menu">अधिकांश मामलों में लंबे समय तक ओके बटन दबाने से गुण स्क्रीन खुल जाती है</string>
     <string name="save_state">राज्य बचाओ</string>
     <string name="restore_state">राज्य को पुनर्स्थापित करें</string>
-<string name="pro_studio">स्टूडियो मोड, एक ही समय में कई स्ट्रीम देखने की अनुमति देता है</string>
     <string name="cfg_prov_channel_name">कई प्रदाताओं का उपयोग करते समय चैनल के नाम में प्रदाता का नाम दिखाएं</string>
     <string name="pla_act_quick_seek_back_20">20 सेकंड से पीछे की ओर देखो</string>
     <string name="pla_act_quick_seek_fwd_20">20 सेकंड के लिए आगे की तलाश करें</string>
@@ -744,4 +730,10 @@
     <string name="support_1conn_provider">उस प्रदाता के लिए समर्थन सक्षम करें जिसके पास केवल एक ही कनेक्शन है</string>
     <string name="merge_data">डेटा मर्ज करें</string>
     <string name="reopen_stream_if_paused_for_a_while">यदि कुछ समय के लिए रुका हो तो स्ट्रीम को फिर से खोलें</string>
+    <string name="join_app_community">ऐप समुदाय से जुड़ें</string>
+    <string name="normalize_tv_show_name">टीवी शो का नाम सामान्यीकृत करें</string>
+    <string name="contact_your_provider">अपने प्रदाता से संपर्क करें</string>
+    <string name="ssl_certificate_issue_detected">एसएसएल (एचटीटीपीएस) प्रमाणपत्र अमान्य है</string>
+    <string name="verify_net_before_update">प्रदाताओं से डेटा अपडेट करने से पहले नेटवर्क उपलब्धता सत्यापित करें</string>
+    <string name="timezone">समयक्षेत्र</string>
     </resources>

@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">Premium gekocht</string>
     <string name="settings_premium_source_subscription">Premium ingeschreven</string>
     <string name="settings_premium_source_unknown">Premium niet ingeschakeld</string>
-    <string name="settings_premium_what_included">Meer informatie over premiumfuncties …</string>
-    <string name="settings_premium_what_included_1">Beeld-in-beeld-modus tijdens het bekijken van livestream</string>
-    <string name="settings_premium_what_included_3">Automatische omschakeling beeldfrequentie voor de video</string>
-    <string name="settings_premium_what_included_4">Afspeelsnelheid voor archieven regelen</string>
     <string name="settings_premium_toggles_try_afr">Wisselt de beeldfrequentie automatisch om overeen te komen met de video</string>
     <string name="settings_premium_toggles_try_afr_toast">Huidige weergave ondersteunde vernieuwingsfrequenties</string>
     <string name="settings_premium_toggle_btn_title">Schakel premiumfuncties in</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">Beoordeel app met vijf sterren</string>
     <string name="spread_btn_share">Deel de app-link met een vriend</string>
     <string name="spread_share_title">Bekijk de app</string>
-    <string name="settings_premium_what_included_9">Kanaalomschakeling door het kanaalnummer in te voeren</string>
     <string name="settings_channel_sort_mode_numb">nummer (per kanaalnummer, kan worden gewijzigd)</string>
     <string name="ch_opt_change_number">Verander nummer</string>
     <string name="prov_btn_help">Hulp</string>
     <string name="prov_help_telegram">Deelnemen aan chat in Telegram</string>
-    <string name="settings_premium_what_included_5">Geen advertenties</string>
     <string name="invalid_domain">Domein is waarschijnlijk ongeldig. Controleer je invoer</string>
     <string name="example">Voorbeeld</string>
     <string name="provider_generic">Algemene provider of afspeellijst</string>
     <string name="btn_search">Zoeken</string>
-    <string name="premium_fea_6">Stuur stream naar een draadloos scherm</string>
     <string name="wifi_display">Draadloos beeldscherm</string>
     <string name="wifi_display_desc">Speel stream op een ander apparaat</string>
     <string name="cfg_play_action_pp">het afspelen onderbreken of hervatten</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">Sluiten</string>
     <string name="prem_sub_add_3m">Abonneren (elke 3 maanden gefactureerd)</string>
     <string name="prem_sub_add_1y">Abonneren (elk jaar gefactureerd)</string>
-    <string name="premium_fea_pvsearch">Gesproken zoekopdracht tijdens het kijken. Zoeken naar kanaal op naam of archiefinhoud.</string>
     <string name="cfg_play_action_vsearch">zoeken met spraak</string>
     <string name="settings_premium_source_enabled">Premium ingeschakeld</string>
     <string name="cfg_play_action_mute">geluid dempen</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">alleen kwaliteit is belangrijk</string>
     <string name="channel_move_cat">Wijzig categorie</string>
     <string name="channel_move_new_cat">Maak een nieuwe categorie</string>
-    <string name="premium_fea_edit_list">Hiermee kunt u categorieën bewerken, kanalen verbergen, enz.</string>
     <string name="prov_help_bug">Meld een probleem of bug</string>
     <string name="prov_help_tpl">Meld een probleem met providersjabloon</string>
     <string name="prov_help_feature">suggestie voor een nieuwe programmafunctie</string>
     <string name="prov_help_premium">Meld probleem met betalingen of premium account</string>
-    <string name="prov_help_contact_via_chat">neem chatcontact op met ontwikkelaar</string>
     <string name="prov_help_contact_via_email">neem e-mailcontact op met de ontwikkelaar</string>
     <string name="prov_help_provide_more_info">Schrijf uw bericht aan de ontwikkelaar</string>
     <string name="cfg_time_imp">Gebruik imperiale tijdnotatie (am/pm)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">linker bovenhoek</string>
     <string name="cat_vr_continue">Continue blijven kijken</string>
     <string name="cat_vr_continue_prem">Recent bekeken video\'s, die nu beschikbaar zijn</string>
-    <string name="premium_fea_continue">Toont alle recent bekeken video\'s die momenteel beschikbaar zijn in het filter \'Doorgaan\'</string>
     <string name="menu_swap_pip_sound">Wissel geluid tussen hoofdscherm en PiP</string>
     <string name="premium_fea_pre_vid_wp">Toestaan dat een videovoorbeeld wordt getoond tijdens het afspelen van een andere video</string>
     <string name="category_recent_channels">recent</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">TV-gids</string>
     <string name="cfg_stream_q">Toon streamkwaliteit</string>
     <string name="ext_player_copy_clipboard">Kopieer de link alleen naar het klembord</string>
-    <string name="premium_fea_mult_prov">Hiermee kunnen meerdere providers tegelijkertijd worden gebruikt</string>
     <string name="btn_add_provider">Provider toevoegen</string>
     <string name="btn_provider_edit">Bewerk</string>
     <string name="btn_provider_delete">Verwijder</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">Handmatig markeren</string>
     <string name="category_recently_added">Recent toegevoegd</string>
     <string name="ask_finish_update">De app opnieuw opstarten voor het bijwerken van een nieuwere versie?</string>
-    <string name="cfg_premium_etc">En vele andere waardevolle functies</string>
     <string name="cfg_fine_tune_volume">Handmatig afstemmen van audio volume (beperkt door systeemvolume)</string>
     <string name="cfg_arch_unp">Automatisch het archief opnieuw openen bij het hervatten van de livestream</string>
     <string name="cfg_ch_more_epg">Toon kanaalnaam groter dan EPG</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">Als u lang op de OK-knop drukt, wordt in de meeste gevallen een scherm met eigenschappen geopend</string>
     <string name="save_state">Status opslaan</string>
     <string name="restore_state">Status herstellen</string>
-    <string name="pro_studio">Studiomodus, waardoor meerdere streams tegelijkertijd bekeken kunnen worden</string>
     <string name="cfg_prov_channel_name">Naam provider weergeven bij kanaalnaam bij gebruikmaking van meerdere providers</string>
     <string name="pla_act_quick_seek_back_20">20 seconden achteruit zoeken</string>
     <string name="pla_act_quick_seek_fwd_20">20 seconden vooruit zoeken</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">Schakel ondersteuning in voor providers die slechts één verbinding hebben</string>
     <string name="merge_data">Gegevens samenvoegen</string>
     <string name="reopen_stream_if_paused_for_a_while">Heropen de stream als deze een tijdje is gepauzeerd</string>
+    <string name="join_app_community">Sluit u aan bij de app-community</string>
+    <string name="normalize_tv_show_name">Normaliseer de naam van het tv-programma</string>
+    <string name="contact_your_provider">Neem contact op met uw aanbieder</string>
+    <string name="ssl_certificate_issue_detected">SSL-certificaat (HTTPS) is ongeldig</string>
+    <string name="verify_net_before_update">Controleer de netwerkbeschikbaarheid voordat u gegevens van providers bijwerkt</string>
+    <string name="timezone">Tijdzone</string>
     </resources>

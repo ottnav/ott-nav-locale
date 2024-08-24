@@ -170,10 +170,6 @@
     <string name="settings_premium_source_purchase">حق بیمه خریداری شد</string>
     <string name="settings_premium_source_subscription">حق بیمه مشترک شده است</string>
     <string name="settings_premium_source_unknown">حق بیمه غیر فعال شده است</string>
-    <string name="settings_premium_what_included">درباره ویژگی های حق بیمه بیشتر بدانید …</string>
-    <string name="settings_premium_what_included_1">در حال مشاهده جریان پخش تصویر در حالت عکس</string>
-    <string name="settings_premium_what_included_3">تغییر فریم نرخ خودکار برای مطابقت با ویدئو</string>
-    <string name="settings_premium_what_included_4">کنترل سرعت پخش برای آرشیوها</string>
 
     <string name="settings_premium_toggles_try_afr">تغییر نرخ فریم اتوماتیک برای مطابقت با ویدئو</string>
     <string name="settings_premium_toggles_try_afr_toast">صفحه نمایش کنونی پشتیبانی می کند نرخ بازشو</string>
@@ -205,17 +201,14 @@
     <string name="spread_btn_rate">برنامه را با پنج ستاره مقایسه کنید</string>
     <string name="spread_btn_share">پیوند برنامه را با یک دوست به اشتراک بگذارید</string>
     <string name="spread_share_title">به برنامه نگاه کنید</string>
-    <string name="settings_premium_what_included_9">تعویض کانال با وارد کردن شماره کانال</string>
     <string name="settings_channel_sort_mode_numb">شماره (با شماره کانال، می تواند تغییر کند)</string>
     <string name="ch_opt_change_number">شماره را تغییر دهید</string>
     <string name="prov_btn_help">کمک</string>
     <string name="prov_help_telegram">به چت در Telegram بپیوندید</string>
-    <string name="settings_premium_what_included_5">بدون تبلیغات</string>
     <string name="invalid_domain">دامنه احتمالا نامعتبر است ورودی خود را بررسی کنید</string>
     <string name="example">مثال</string>
     <string name="provider_generic">ارائه دهنده عمومی یا لیست پخش</string>
     <string name="btn_search">جستجو کردن</string>
-    <string name="premium_fea_6">ارسال جریان به صفحه نمایش بی سیم</string>
     <string name="wifi_display">صفحه نمایش بی سیم</string>
     <string name="wifi_display_desc">پخش یک دستگاه دیگر را پخش کنید</string>
 
@@ -233,7 +226,6 @@
     <string name="btn_close">نزدیک</string>
     <string name="prem_sub_add_3m">اشتراک (هر 3 ماه یک بار)</string>
     <string name="prem_sub_add_1y">اشتراک (هر سال صورت حساب)</string>
-    <string name="premium_fea_pvsearch">جستجوی صوتی در حالی که تماشا کنید. جستجو برای کانال با نام یا محتوای بایگانی</string>
     <string name="cfg_play_action_vsearch">جستجوی صوتی</string>
     <string name="settings_premium_source_enabled">حق بیمه فعال</string>
     <string name="cfg_play_action_mute">صدای خاموش</string>
@@ -266,12 +258,10 @@
     <string name="profile_high_q">فقط کیفیت مهم است</string>
     <string name="channel_move_cat">تغییر رده</string>
     <string name="channel_move_new_cat">ایجاد دسته جدید</string>
-    <string name="premium_fea_edit_list">به ویرایش دسته ها، پنهان کردن کانال ها و غیره اجازه می دهد</string>
     <string name="prov_help_bug">گزارش مشکل یا اشکال</string>
     <string name="prov_help_tpl">گزارش مشکل ارائه دهنده قالب</string>
     <string name="prov_help_feature">پیشنهاد یک ویژگی جدید</string>
     <string name="prov_help_premium">گزارش مشکل با پرداخت یا حق بیمه</string>
-    <string name="prov_help_contact_via_chat">از طریق چت با توسعهدهنده تماس بگیرید</string>
     <string name="prov_help_contact_via_email">از طریق ایمیل با توسعه دهنده تماس بگیرید</string>
     <string name="prov_help_provide_more_info">پیام خود را به برنامه نویس بنویسید</string>
     <string name="cfg_time_imp">فرمت زمان امپراتوری (AM / PM) را استفاده کنید</string>
@@ -282,7 +272,6 @@
     <string name="cfg_player_clock_tl">گوشه بالا سمت چپ</string>
     <string name="cat_vr_continue">ادامه تماشا کنید</string>
     <string name="cat_vr_continue_prem">فیلم های اخیرا مشاهده شده که اکنون در دسترس هستند</string>
-    <string name="premium_fea_continue">همه فیلم های اخیر دیده شده را نشان می دهد، که در حال حاضر در Continue filter در دسترس هستند</string>
     <string name="menu_swap_pip_sound">مبادله صدا بین صفحه اصلی و PiP</string>
     <string name="premium_fea_pre_vid_wp">اجازه پخش پیش نمایش ویدیو را هنگام پخش یک ویدیو دیگر نشان دهید</string>
     <string name="category_recent_channels">اخیر</string>
@@ -307,7 +296,6 @@
     <string name="menu_tv_guide">راهنمای تلویزیون</string>
     <string name="cfg_stream_q">نمایش کیفیت جریان</string>
     <string name="ext_player_copy_clipboard">فقط کپی لینک به کلیپ بورد</string>
-    <string name="premium_fea_mult_prov">به چندین ارائه دهنده اجازه می دهد تا همزمان استفاده شود</string>
     <string name="btn_add_provider">افزودن ارائه دهنده</string>
     <string name="btn_provider_edit">ویرایش کنید</string>
     <string name="btn_provider_delete">حذف</string>
@@ -363,7 +351,6 @@
     <string name="menu_qs_provider_multiple">علامت گذاری به صورت دستی</string>
     <string name="category_recently_added">به تازگی اضافه شده</string>
     <string name="ask_finish_update">برنامه را برای به روز رسانی نسخه جدیدتر راه اندازی مجدد کنید؟</string>
-    <string name="cfg_premium_etc">و بسیاری دیگر از توابع با ارزش</string>
     <string name="cfg_fine_tune_volume">تنظیم صدا صوتی دستی (محدود به حجم سیستم)</string>
 
     <string name="cfg_arch_unp">در صورت عدم دسترسی به جریان مستقیم، بایگانی به صورت خودکار بازخوانی شود</string>
@@ -425,7 +412,6 @@
     <string name="hint_long_ok_menu">با فشار دادن طولانی دکمه OK در بیشتر موارد صفحه خصوصیات باز می شود</string>
     <string name="save_state">صرفه جویی در دولت</string>
     <string name="restore_state">بازیابی حالت</string>
-<string name="pro_studio">حالت استودیو ، امکان تماشای چندین جریان همزمان</string>
     <string name="cfg_prov_channel_name">هنگام استفاده از چندین ارائه دهنده ، نام ارائه دهنده را به نام کانال نشان دهید</string>
     <string name="pla_act_quick_seek_back_20">20 ثانیه به عقب برگردید</string>
     <string name="pla_act_quick_seek_fwd_20">20 ثانیه جلو بروید</string>
@@ -744,4 +730,10 @@
     <string name="support_1conn_provider">ﺩﺭﺍﺩ ﻝﺎﺼﺗﺍ ﮏﯾ ﻂﻘﻓ ﻪﮐ ﯼﺍ ﻩﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ ﯼﺍﺮﺑ ﯽﻧﺎﺒﯿﺘﺸﭘ ﻥﺩﺮﮐ ﻝﺎﻌﻓ</string>
     <string name="merge_data">ﺎﻫ ﻩﺩﺍﺩ ﻡﺎﻏﺩﺍ</string>
     <string name="reopen_stream_if_paused_for_a_while">ﺪﯿﻨﮐ ﺯﺎﺑ ﻩﺭﺎﺑﻭﺩ ﺍﺭ ﻥﺎﯾﺮﺟ ،ﯽﺗﺪﻣ ﯼﺍﺮﺑ ﻒﻗﻮﺗ ﺕﺭﻮﺻ ﺭﺩ</string>
+    <string name="join_app_community">ﺪﯾﺪﻧﻮﯿﭙﺑ ﻪﻣﺎﻧﺮﺑ ﻦﻤﺠﻧﺍ ﻪﺑ</string>
+    <string name="normalize_tv_show_name">ﯽﻧﻮﯾﺰﯾﻮﻠﺗ ﻪﻣﺎﻧﺮﺑ ﻡﺎﻧ ﻥﺩﺮﮐ ﯼﺩﺎﻋ</string>
+    <string name="contact_your_provider">ﺪﯾﺮﯿﮕﺑ ﺱﺎﻤﺗ ﺩﻮﺧ ﻩﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ ﺎﺑ</string>
+    <string name="ssl_certificate_issue_detected">ﺖﺳﺍ ﺮﺒﺘﻌﻣﺎﻧ SSL (HTTPS) ﯽﻫﺍﻮﮔ</string>
+    <string name="verify_net_before_update">ﺪﯿﻨﮐ ﺪﯿﯾﺄﺗ ﺍﺭ ﻪﮑﺒﺷ ﻥﺩﻮﺑ ﺱﺮﺘﺳﺩ ﺭﺩ ،ﻥﺎﮔﺪﻨﻫﺩu200cﻪﺋﺍﺭﺍ ﺯﺍ ﺎﻫu200cﻩﺩﺍﺩ ﯽﻧﺎﺳﺭﺯﻭﺭu200cﻪﺑ ﺯﺍ ﻞﺒﻗ</string>
+    <string name="timezone">ﯽﻧﺎﻣﺯ ﻪﻘﻄﻨﻣ</string>
     </resources>

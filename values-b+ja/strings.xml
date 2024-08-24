@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">プレミアム購入</string>
     <string name="settings_premium_source_subscription">プレミアム契約</string>
     <string name="settings_premium_source_unknown">プレミアムが有効</string>
-    <string name="settings_premium_what_included">プレミアム機能の詳細...</string>
-    <string name="settings_premium_what_included_1">ライブストリームを見ながらピクチャーインピクチャーモード</string>
-    <string name="settings_premium_what_included_3">ビデオと一致する自動フレームレート切り替え</string>
-    <string name="settings_premium_what_included_4">アーカイブの再生速度の制御</string>
     <string name="settings_premium_toggles_try_afr">ビデオと一致する自動切り替えフレームレート</string>
     <string name="settings_premium_toggles_try_afr_toast">現在サポートされているリフレッシュレート</string>
     <string name="settings_premium_toggle_btn_title">プレミア機能を有効にする</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">5つ星の評価アプリ</string>
     <string name="spread_btn_share">友達とアプリリンクを共有する</string>
     <string name="spread_share_title">アプリを見てみましょう</string>
-    <string name="settings_premium_what_included_9">チャンネル番号を入力してチャンネルを切り替える</string>
     <string name="settings_channel_sort_mode_numb">番号（チャンネル番号別、変更可能）</string>
     <string name="ch_opt_change_number">番号を変更する</string>
     <string name="prov_btn_help">助けて</string>
     <string name="prov_help_telegram">テレグラムでチャットに参加する</string>
-    <string name="settings_premium_what_included_5">広告なし</string>
     <string name="invalid_domain">ドメインはおそらく無効です。入力を確認する</string>
     <string name="example">例</string>
     <string name="provider_generic">一般的なプロバイダまたはプレイリスト</string>
     <string name="btn_search">サーチ</string>
-    <string name="premium_fea_6">ストリームをワイヤレスディスプレイに送信する</string>
     <string name="wifi_display">ワイヤレスディスプレイ</string>
     <string name="wifi_display_desc">別のデバイスでストリームを再生する</string>
     <string name="cfg_play_action_pp">再生を一時停止または再開する</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">閉じる</string>
     <string name="prem_sub_add_3m">購読する（3か月ごとに請求）</string>
     <string name="prem_sub_add_1y">購読する（毎年請求される）</string>
-    <string name="premium_fea_pvsearch">見ながら音声検索。名前でチャンネルを検索するか、コンテンツをアーカイブします。</string>
     <string name="cfg_play_action_vsearch">音声検索</string>
     <string name="settings_premium_source_enabled">プレミアム対応</string>
     <string name="cfg_play_action_mute">ミュート音</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">品質問題だけ</string>
     <string name="channel_move_cat">カテゴリを変更</string>
     <string name="channel_move_new_cat">新しいカテゴリを作成</string>
-    <string name="premium_fea_edit_list">カテゴリの編集、チャンネルの非表示などを許可します</string>
     <string name="prov_help_bug">問題やバグを報告する</string>
     <string name="prov_help_tpl">レポートプロバイダーテンプレートの問題</string>
     <string name="prov_help_feature">新機能を提案する</string>
     <string name="prov_help_premium">支払いまたは保険料に関する問題を報告する</string>
-    <string name="prov_help_contact_via_chat">チャットで開発者に連絡する</string>
     <string name="prov_help_contact_via_email">メールで開発者に連絡する</string>
     <string name="prov_help_provide_more_info">開発者へのメッセージを書いてください</string>
     <string name="cfg_time_imp">インペリアルタイムフォーマットを使用</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">左上隅</string>
     <string name="cat_vr_continue">見続ける</string>
     <string name="cat_vr_continue_prem">最近視聴したビデオ</string>
-    <string name="premium_fea_continue">[続行]フィルタで現在利用可能な、最近見たすべてのビデオを表示します</string>
     <string name="menu_swap_pip_sound">メイン画面とPiPの間でサウンドを交換する</string>
     <string name="premium_fea_pre_vid_wp">別のビデオの再生中にビデオプレビューを表示することを許可する</string>
     <string name="category_recent_channels">最近</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">テレビガイド</string>
     <string name="cfg_stream_q">ストリーム品質を表示</string>
     <string name="ext_player_copy_clipboard">リンクをクリップボードのみにコピーする</string>
-    <string name="premium_fea_mult_prov">複数のプロバイダを同時に使用することを許可します</string>
     <string name="btn_add_provider">プロバイダを追加</string>
     <string name="btn_provider_edit">編集する</string>
     <string name="btn_provider_delete">削除する</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">手動でマークする</string>
     <string name="category_recently_added">最近追加された</string>
     <string name="ask_finish_update">新しいバージョンにアップデートするためにアプリを再起動しますか？</string>
-    <string name="cfg_premium_etc">そして他の多くの貴重な機能</string>
     <string name="cfg_fine_tune_volume">手動オーディオ音量微調整（システム音量によって制限されます）</string>
     <string name="cfg_arch_unp">ライブストリームの一時停止を解除するときにアーカイブを自動的に再開する</string>
     <string name="cfg_ch_more_epg">EPGより大きいチャンネル名を表示</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">[OK]ボタンを長押しすると、ほとんどの場合プロパティ画面が開きます</string>
     <string name="save_state">状態を保存</string>
     <string name="restore_state">状態を復元する</string>
-<string name="pro_studio">スタジオモード、複数のストリームを同時に視聴可能</string>
     <string name="cfg_prov_channel_name">複数のプロバイダーを使用する場合、チャンネル名にプロバイダー名を表示</string>
     <string name="pla_act_quick_seek_back_20">20秒後方にシークする</string>
     <string name="pla_act_quick_seek_fwd_20">20秒前にシークする</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">接続が 1 つだけあるプロバイダーのサポートを有効にする</string>
     <string name="merge_data">データを結合する</string>
     <string name="reopen_stream_if_paused_for_a_while">ストリームを一時停止した場合に再開する</string>
+    <string name="join_app_community">アプリコミュニティに参加する</string>
+    <string name="normalize_tv_show_name">テレビ番組名を正規化する</string>
+    <string name="contact_your_provider">プロバイダーに連絡してください</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) 証明書が無効です</string>
+    <string name="verify_net_before_update">プロバイダーからのデータを更新する前にネットワークの可用性を確認する</string>
+    <string name="timezone">タイムゾーン</string>
     </resources>

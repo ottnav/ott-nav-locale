@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">Το Premium που αγοράσατε</string>
     <string name="settings_premium_source_subscription">Premium εγγραφεί</string>
     <string name="settings_premium_source_unknown">Το Premium δεν είναι ενεργοποιημένο</string>
-    <string name="settings_premium_what_included">Μάθετε περισσότερα σχετικά με τις δυνατότητες premium ...</string>
-    <string name="settings_premium_what_included_1">Λειτουργία εικόνας σε εικόνα ενώ παρακολουθείτε live stream</string>
-    <string name="settings_premium_what_included_3">Αυτόματη εναλλαγή ρυθμού καρέ για αντιστοίχιση βίντεο</string>
-    <string name="settings_premium_what_included_4">Έλεγχος ταχύτητας αναπαραγωγής αρχείων</string>
     <string name="settings_premium_toggles_try_afr">Αυτόματη αλλαγή ρυθμού καρέ για να ταιριάζει με το βίντεο</string>
     <string name="settings_premium_toggles_try_afr_toast">Η τρέχουσα οθόνη υποστηρίζει τα ποσοστά ανανέωσης</string>
     <string name="settings_premium_toggle_btn_title">Ενεργοποιήστε τις δυνατότητες premium</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">Αξιολογήστε την εφαρμογή με πέντε αστέρια</string>
     <string name="spread_btn_share">Μοιραστείτε τη σύνδεση εφαρμογής με έναν φίλο</string>
     <string name="spread_share_title">Ρίξτε μια ματιά στην εφαρμογή</string>
-    <string name="settings_premium_what_included_9">Μεταγωγή καναλιών εισάγοντας τον αριθμό καναλιού</string>
     <string name="settings_channel_sort_mode_numb">αριθμός (κατά αριθμό καναλιού, μπορεί να αλλάξει)</string>
     <string name="ch_opt_change_number">Αλλαγή αριθμού</string>
     <string name="prov_btn_help">Βοήθεια</string>
     <string name="prov_help_telegram">Συμμετοχή σε συνομιλία στο τηλεγράφημα</string>
-    <string name="settings_premium_what_included_5">Χωρίς διαφημίσεις</string>
     <string name="invalid_domain">Ο τομέας είναι πιθανώς άκυρος. Ελέγξτε την είσοδό σας</string>
     <string name="example">Παράδειγμα</string>
     <string name="provider_generic">Γενικός παροχέας ή playlist</string>
     <string name="btn_search">Ψάξιμο</string>
-    <string name="premium_fea_6">Αποστολή ροής σε μια ασύρματη οθόνη</string>
     <string name="wifi_display">Ασύρματη οθόνη</string>
     <string name="wifi_display_desc">Ροή αναπαραγωγής σε άλλη συσκευή</string>
     <string name="cfg_play_action_pp">παύση ή συνέχιση της αναπαραγωγής</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">Κοντά</string>
     <string name="prem_sub_add_3m">Εγγραφή (χρεώνεται κάθε 3 μήνες)</string>
     <string name="prem_sub_add_1y">Εγγραφείτε (χρεώνεται κάθε χρόνο)</string>
-    <string name="premium_fea_pvsearch">Φωνητική αναζήτηση ενώ παρακολουθείτε. Αναζητήστε το κανάλι με βάση το όνομα ή αρχειοθετήστε τα περιεχόμενα.</string>
     <string name="cfg_play_action_vsearch">φωνητική αναζήτηση</string>
     <string name="settings_premium_source_enabled">Το Premium έχει ενεργοποιηθεί</string>
     <string name="cfg_play_action_mute">σίγαση ήχου</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">μόνο τα θέματα ποιότητας</string>
     <string name="channel_move_cat">Αλλαγή κατηγορίας</string>
     <string name="channel_move_new_cat">Δημιουργία νέας κατηγορίας</string>
-    <string name="premium_fea_edit_list">Επιτρέπει την επεξεργασία κατηγοριών, την απόκρυψη καναλιών κ.λπ.</string>
     <string name="prov_help_bug">Αναφέρετε κάποιο πρόβλημα ή σφάλμα</string>
     <string name="prov_help_tpl">Αναφορά ζητήματος πρότυπου παρόχου</string>
     <string name="prov_help_feature">Προτείνετε ένα νέο χαρακτηριστικό</string>
     <string name="prov_help_premium">Αναφέρετε πρόβλημα με πληρωμές ή ασφάλιστρο</string>
-    <string name="prov_help_contact_via_chat">επικοινωνήστε με τον προγραμματιστή μέσω της συζήτησης</string>
     <string name="prov_help_contact_via_email">επικοινωνήστε με τον προγραμματιστή μέσω ηλεκτρονικού ταχυδρομείου</string>
     <string name="prov_help_provide_more_info">Γράψτε το μήνυμά σας στον προγραμματιστή</string>
     <string name="cfg_time_imp">Χρησιμοποιήστε το αυτοκρατορικό σχήμα ώρας (am / pm)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">πάνω αριστερή γωνία</string>
     <string name="cat_vr_continue">Συνεχίστε να παρακολουθείτε</string>
     <string name="cat_vr_continue_prem">Τα πρόσφατα προβαλλόμενα βίντεο, τα οποία είναι διαθέσιμα τώρα</string>
-    <string name="premium_fea_continue">Εμφανίζει όλα τα βίντεο που έχετε δει πρόσφατα, τα οποία είναι διαθέσιμα αυτήν τη στιγμή στο φίλτρο Συνέχεια</string>
     <string name="menu_swap_pip_sound">Αντικατάσταση ήχου μεταξύ της κύριας οθόνης και του PiP</string>
     <string name="premium_fea_pre_vid_wp">Να επιτρέπεται η προβολή της προεπισκόπησης βίντεο κατά την αναπαραγωγή άλλου βίντεο</string>
     <string name="category_recent_channels">Πρόσφατος</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">οδηγός τηλεόρασης</string>
     <string name="cfg_stream_q">Εμφάνιση ποιότητας ροής</string>
     <string name="ext_player_copy_clipboard">Αντιγραφή συνδέσμου μόνο στο πρόχειρο</string>
-    <string name="premium_fea_mult_prov">Επιτρέπει την ταυτόχρονη χρήση πολλών παρόχων</string>
     <string name="btn_add_provider">Προσθήκη παρόχου</string>
     <string name="btn_provider_edit">Επεξεργασία</string>
     <string name="btn_provider_delete">Διαγράφω</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">Σημειώστε με μη αυτόματο τρόπο</string>
     <string name="category_recently_added">Πρόσφατα προστέθηκε</string>
     <string name="ask_finish_update">Επανεκκινήστε την εφαρμογή για ενημέρωση για νεότερη έκδοση;</string>
-    <string name="cfg_premium_etc">Και πολλές άλλες πολύτιμες λειτουργίες</string>
     <string name="cfg_fine_tune_volume">Χειροκίνητη ρύθμιση της έντασης του ήχου (περιορίζεται από τον όγκο του συστήματος)</string>
     <string name="cfg_arch_unp">Αυτόματη επαναλειτουργία του αρχείου κατά την απενεργοποίηση της ζωντανής ροής</string>
     <string name="cfg_ch_more_epg">Εμφάνιση ονόματος καναλιού μεγαλύτερο από EPG</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">Μεγάλο πάτημα του πλήκτρου OK ανοίγει η οθόνη ιδιοτήτων στις περισσότερες περιπτώσεις</string>
     <string name="save_state">Αποθήκευση κατάστασης</string>
     <string name="restore_state">Επαναφορά της κατάστασης</string>
-    <string name="pro_studio">Studio mode, επιτρέποντας την παρακολούθηση πολλαπλών ροών ταυτόχρονα</string>
     <string name="cfg_prov_channel_name">Να εμφανίζεται το όνομα του παροχέα στο όνομα καναλιού όταν χρησιμοποιείτε πολλούς παρόχους</string>
     <string name="pla_act_quick_seek_back_20">αναζητήστε προς τα πίσω 20 δευτερόλεπτα</string>
     <string name="pla_act_quick_seek_fwd_20">επιδιώξτε 20 δευτερόλεπτα</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">Ενεργοποιήστε την υποστήριξη για πάροχο που έχει μόνο μία σύνδεση</string>
     <string name="merge_data">Συγχώνευση δεδομένων</string>
     <string name="reopen_stream_if_paused_for_a_while">Ανοίξτε ξανά τη ροή εάν σταματήσει για λίγο</string>
+    <string name="join_app_community">Εγγραφείτε στην κοινότητα εφαρμογών</string>
+    <string name="normalize_tv_show_name">Κανονικοποίηση του ονόματος της τηλεοπτικής εκπομπής</string>
+    <string name="contact_your_provider">Επικοινωνήστε με τον πάροχο σας</string>
+    <string name="ssl_certificate_issue_detected">Το πιστοποιητικό SSL (HTTPS) δεν είναι έγκυρο</string>
+    <string name="verify_net_before_update">Επαληθεύστε τη διαθεσιμότητα του δικτύου πριν ενημερώσετε δεδομένα από παρόχους</string>
+    <string name="timezone">Ζώνη ώρας</string>
     </resources>

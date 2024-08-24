@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">Prémiové zakúpené</string>
     <string name="settings_premium_source_subscription">Predplatné Premium</string>
     <string name="settings_premium_source_unknown">Prémiové nie sú povolené</string>
-    <string name="settings_premium_what_included">Zistite viac o prémiových funkciách…</string>
-    <string name="settings_premium_what_included_1">Režim obraz v obraze pri sledovaní živého prenosu</string>
-    <string name="settings_premium_what_included_3">Automatické prepínanie snímkovej frekvencie podľa videa</string>
-    <string name="settings_premium_what_included_4">Ovládanie rýchlosti prehrávania archívov</string>
     <string name="settings_premium_toggles_try_afr">Automatické prepínanie snímkovej frekvencie podľa videa</string>
     <string name="settings_premium_toggles_try_afr_toast">Aktuálny displej podporuje obnovovacie frekvencie</string>
     <string name="settings_premium_toggle_btn_title">Povoliť prémiové funkcie</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">Ohodnoťte aplikáciu piatimi hviezdičkami</string>
     <string name="spread_btn_share">Zdieľajte odkaz na aplikáciu s priateľom</string>
     <string name="spread_share_title">Pozrite sa na aplikáciu</string>
-    <string name="settings_premium_what_included_9">Prepínanie kanálov zadaním čísla kanála</string>
     <string name="settings_channel_sort_mode_numb">číslo (podľa čísla kanálu, možno zmeniť)</string>
     <string name="ch_opt_change_number">Zmeniť číslo</string>
     <string name="prov_btn_help">Pomoc</string>
     <string name="prov_help_telegram">Pripojte sa k chatu v telegrame</string>
-    <string name="settings_premium_what_included_5">Žiadne reklamy</string>
     <string name="invalid_domain">Doména je pravdepodobne neplatná. Skontrolujte svoj vstup</string>
     <string name="example">Príklad</string>
     <string name="provider_generic">Všeobecný poskytovateľ alebo zoznam skladieb</string>
     <string name="btn_search">Vyhľadávanie</string>
-    <string name="premium_fea_6">Pošlite stream na bezdrôtový displej</string>
     <string name="wifi_display">Bezdrôtový displej</string>
     <string name="wifi_display_desc">Prehrajte stream na inom zariadení</string>
     <string name="cfg_play_action_pp">pozastaviť alebo obnoviť prehrávanie</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">Zavrieť</string>
     <string name="prem_sub_add_3m">Prihlásiť sa na odber (účtované každé 3 mesiace)</string>
     <string name="prem_sub_add_1y">Prihlásiť sa na odber (účtované každý rok)</string>
-    <string name="premium_fea_pvsearch">Hlasové vyhľadávanie počas sledovania. Vyhľadajte kanál podľa názvu alebo obsahu archívu.</string>
     <string name="cfg_play_action_vsearch">hlasové vyhľadávanie</string>
     <string name="settings_premium_source_enabled">Prémiové povolené</string>
     <string name="cfg_play_action_mute">stlmiť zvuk</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">záleží len na kvalite</string>
     <string name="channel_move_cat">Zmeniť kategóriu</string>
     <string name="channel_move_new_cat">Vytvorte novú kategóriu</string>
-    <string name="premium_fea_edit_list">Umožňuje úpravu kategórií, skrytie kanálov atď</string>
     <string name="prov_help_bug">Nahláste problém alebo chybu</string>
     <string name="prov_help_tpl">Nahlásiť problém so šablónou poskytovateľa</string>
     <string name="prov_help_feature">Navrhnite novú funkciu</string>
     <string name="prov_help_premium">Nahláste problém s platbami alebo poistným</string>
-    <string name="prov_help_contact_via_chat">kontaktujte vývojára cez chat</string>
     <string name="prov_help_contact_via_email">kontaktujte vývojára prostredníctvom e-mailu</string>
     <string name="prov_help_provide_more_info">Napíšte svoju správu vývojárovi</string>
     <string name="cfg_time_imp">Použiť imperiálny formát času (am/pm)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">ľavom hornom rohu</string>
     <string name="cat_vr_continue">Pokračujte v sledovaní</string>
     <string name="cat_vr_continue_prem">Nedávno prezerané videá, ktoré sú teraz k dispozícii</string>
-    <string name="premium_fea_continue">Zobrazuje všetky naposledy zobrazené videá, ktoré sú momentálne dostupné vo filtri Pokračovať</string>
     <string name="menu_swap_pip_sound">Prepínajte zvuk medzi hlavnou obrazovkou a obrazom v obraze</string>
     <string name="premium_fea_pre_vid_wp">Povoliť zobrazenie ukážky videa počas prehrávania iného videa</string>
     <string name="category_recent_channels">Nedávne</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">TV sprievodca</string>
     <string name="cfg_stream_q">Zobraziť kvalitu streamu</string>
     <string name="ext_player_copy_clipboard">Kopírovať odkaz iba do schránky</string>
-    <string name="premium_fea_mult_prov">Umožňuje použitie viacerých poskytovateľov súčasne</string>
     <string name="btn_add_provider">Pridať poskytovateľa</string>
     <string name="btn_provider_edit">Upraviť</string>
     <string name="btn_provider_delete">Odstrániť</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">Označte ručne</string>
     <string name="category_recently_added">Nedávno pridané</string>
     <string name="ask_finish_update">Reštartovať aplikáciu a aktualizovať ju na novšiu verziu?</string>
-    <string name="cfg_premium_etc">A mnoho ďalších cenných funkcií</string>
     <string name="cfg_fine_tune_volume">Ručné jemné doladenie hlasitosti zvuku (obmedzené hlasitosťou systému)</string>
     <string name="cfg_arch_unp">Automaticky znova otvoriť archív pri zrušení pozastavenia priameho prenosu</string>
     <string name="cfg_ch_more_epg">Zobraziť názov kanála väčší ako EPG</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">Dlhým stlačením tlačidla OK sa vo väčšine prípadov otvorí obrazovka vlastností</string>
     <string name="save_state">Uložiť stav</string>
     <string name="restore_state">Obnoviť stav</string>
-    <string name="pro_studio">Štúdiový režim, ktorý umožňuje sledovať viacero streamov súčasne</string>
     <string name="cfg_prov_channel_name">Pri použití viacerých poskytovateľov zobraziť názov poskytovateľa v názve kanála</string>
     <string name="pla_act_quick_seek_back_20">vyhľadávanie dozadu o 20 sekúnd</string>
     <string name="pla_act_quick_seek_fwd_20">posun dopredu o 20 sekúnd</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">Povoliť podporu pre poskytovateľa, ktorý má iba jedno pripojenie</string>
     <string name="merge_data">Zlúčiť údaje</string>
     <string name="reopen_stream_if_paused_for_a_while">Ak je stream na chvíľu pozastavený, znova otvorte</string>
+    <string name="join_app_community">Pripojte sa ku komunite aplikácie</string>
+    <string name="normalize_tv_show_name">Normalizovať názov televíznej relácie</string>
+    <string name="contact_your_provider">Kontaktujte svojho poskytovateľa</string>
+    <string name="ssl_certificate_issue_detected">Certifikát SSL (HTTPS) je neplatný</string>
+    <string name="verify_net_before_update">Pred aktualizáciou údajov od poskytovateľov overte dostupnosť siete</string>
+    <string name="timezone">Časové pásmo</string>
     </resources>

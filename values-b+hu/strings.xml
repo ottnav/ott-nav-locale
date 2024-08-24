@@ -137,10 +137,6 @@
     <string name="settings_premium_source_purchase">Prémium vásárolt</string>
     <string name="settings_premium_source_subscription">Prémium előfizetés</string>
     <string name="settings_premium_source_unknown">A prémium nincs engedélyezve</string>
-    <string name="settings_premium_what_included">Tudjon meg többet a prémium funkciókról…</string>
-    <string name="settings_premium_what_included_1">Kép a képben mód élő közvetítés nézése közben</string>
-    <string name="settings_premium_what_included_3">Automatikus képkockasebesség váltás a videóhoz</string>
-    <string name="settings_premium_what_included_4">Az archívumok lejátszási sebességének szabályozása</string>
     <string name="settings_premium_toggles_try_afr">A képkockasebesség automatikus váltása a videóhoz igazodva</string>
     <string name="settings_premium_toggles_try_afr_toast">A jelenlegi kijelző támogatja a frissítési gyakoriságot</string>
     <string name="settings_premium_toggle_btn_title">Prémium funkciók engedélyezése</string>
@@ -166,17 +162,14 @@
     <string name="spread_btn_rate">Értékelje az alkalmazást öt csillaggal</string>
     <string name="spread_btn_share">Oszd meg az alkalmazás linkjét egy barátoddal</string>
     <string name="spread_share_title">Vessen egy pillantást az alkalmazásra</string>
-    <string name="settings_premium_what_included_9">Csatornaváltás a csatornaszám megadásával</string>
     <string name="settings_channel_sort_mode_numb">szám (csatornaszám szerint, módosítható)</string>
     <string name="ch_opt_change_number">Szám módosítása</string>
     <string name="prov_btn_help">Segítség</string>
     <string name="prov_help_telegram">Csatlakozzon a csevegéshez a Telegramban</string>
-    <string name="settings_premium_what_included_5">Nincsenek hirdetések</string>
     <string name="invalid_domain">A domain valószínűleg érvénytelen. Ellenőrizze a bevitelt</string>
     <string name="example">Példa</string>
     <string name="provider_generic">Általános szolgáltató vagy lejátszási lista</string>
     <string name="btn_search">Keresés</string>
-    <string name="premium_fea_6">Adatfolyam küldése vezeték nélküli kijelzőre</string>
     <string name="wifi_display">Vezeték nélküli kijelző</string>
     <string name="wifi_display_desc">Az adatfolyam lejátszása másik eszközön</string>
     <string name="cfg_play_action_pp">szüneteltesse vagy folytassa a lejátszást</string>
@@ -193,7 +186,6 @@
     <string name="btn_close">Bezárás</string>
     <string name="prem_sub_add_3m">Előfizetés (3 havonta számlázva)</string>
     <string name="prem_sub_add_1y">Előfizetés (évente számlázva)</string>
-    <string name="premium_fea_pvsearch">Hangalapú keresés nézés közben. Keressen csatornát név vagy archiválási tartalom alapján.</string>
     <string name="cfg_play_action_vsearch">hang Keresés</string>
     <string name="settings_premium_source_enabled">Prémium engedélyezve</string>
     <string name="cfg_play_action_mute">néma hang</string>
@@ -225,12 +217,10 @@
     <string name="profile_high_q">csak a minőség számít</string>
     <string name="channel_move_cat">Kategória módosítása</string>
     <string name="channel_move_new_cat">Új kategória létrehozása</string>
-    <string name="premium_fea_edit_list">Lehetővé teszi kategóriák szerkesztését, csatornák elrejtését stb</string>
     <string name="prov_help_bug">Probléma vagy hiba bejelentése</string>
     <string name="prov_help_tpl">Jelentse be a szolgáltatói sablon problémáját</string>
     <string name="prov_help_feature">Javasoljon új funkciót</string>
     <string name="prov_help_premium">Jelentse be a fizetéssel vagy a prémiummal kapcsolatos problémát</string>
-    <string name="prov_help_contact_via_chat">lépjen kapcsolatba a fejlesztővel chaten keresztül</string>
     <string name="prov_help_contact_via_email">lépjen kapcsolatba a fejlesztővel e-mailben</string>
     <string name="prov_help_provide_more_info">Írja meg üzenetét a fejlesztőnek</string>
     <string name="cfg_time_imp">Használja a brit időformátumot (délelőtt/délután)</string>
@@ -241,7 +231,6 @@
     <string name="cfg_player_clock_tl">bal felső sarok</string>
     <string name="cat_vr_continue">Folytassa a nézést</string>
     <string name="cat_vr_continue_prem">Nemrég megtekintett videók, amelyek már elérhetőek</string>
-    <string name="premium_fea_continue">Megjeleníti az összes nemrég megtekintett videót, amely jelenleg elérhető a Folytatás szűrőben</string>
     <string name="menu_swap_pip_sound">Hangcsere a főképernyő és a PiP között</string>
     <string name="premium_fea_pre_vid_wp">A videó előnézetének megjelenítése másik videó lejátszása közben</string>
     <string name="category_recent_channels">Friss</string>
@@ -264,7 +253,6 @@
     <string name="menu_tv_guide">műsorújság</string>
     <string name="cfg_stream_q">Az adatfolyam minőségének megjelenítése</string>
     <string name="ext_player_copy_clipboard">Csak a vágólapra másolja a hivatkozást</string>
-    <string name="premium_fea_mult_prov">Lehetővé teszi több szolgáltató egyidejű használatát</string>
     <string name="btn_add_provider">Szolgáltató hozzáadása</string>
     <string name="btn_provider_edit">Szerkesztés</string>
     <string name="btn_provider_delete">Töröl</string>
@@ -319,7 +307,6 @@
     <string name="menu_qs_provider_multiple">Jelölje meg kézzel</string>
     <string name="category_recently_added">Nemrég hozzáadott</string>
     <string name="ask_finish_update">Újraindítja az alkalmazást az újabb verzió frissítéséhez?</string>
-    <string name="cfg_premium_etc">És még sok más értékes funkció</string>
     <string name="cfg_fine_tune_volume">Hangerő kézi finomhangolása (a rendszer hangereje korlátozza)</string>
     <string name="cfg_arch_unp">Az archívum automatikus újranyitása az élő közvetítés szüneteltetésének feloldásakor</string>
     <string name="cfg_ch_more_epg">EPG-nél nagyobb csatornanév megjelenítése</string>
@@ -378,7 +365,6 @@
     <string name="hint_long_ok_menu">Az OK gomb hosszan tartó lenyomása a legtöbb esetben megnyitja a tulajdonságok képernyőjét</string>
     <string name="save_state">Állapot mentése</string>
     <string name="restore_state">Állapot visszaállítása</string>
-    <string name="pro_studio">Stúdió mód, amely lehetővé teszi több stream egyidejű megtekintését</string>
     <string name="cfg_prov_channel_name">Több szolgáltató használata esetén jelenítse meg a szolgáltató nevét a csatorna nevében</string>
     <string name="pla_act_quick_seek_back_20">keressen vissza 20 másodperccel</string>
     <string name="pla_act_quick_seek_fwd_20">keressen előre 20 másodperccel</string>
@@ -697,4 +683,10 @@
     <string name="support_1conn_provider">Engedélyezze a támogatást az egyetlen kapcsolattal rendelkező szolgáltató számára</string>
     <string name="merge_data">Adatok egyesítése</string>
     <string name="reopen_stream_if_paused_for_a_while">Nyissa meg újra az adatfolyamot, ha egy ideig szünetel</string>
+    <string name="join_app_community">Csatlakozz az alkalmazásközösséghez</string>
+    <string name="normalize_tv_show_name">A TV-műsor nevének normalizálása</string>
+    <string name="contact_your_provider">Forduljon szolgáltatójához</string>
+    <string name="ssl_certificate_issue_detected">Az SSL (HTTPS) tanúsítvány érvénytelen</string>
+    <string name="verify_net_before_update">A szolgáltatók adatainak frissítése előtt ellenőrizze a hálózat elérhetőségét</string>
+    <string name="timezone">Időzóna</string>
     </resources>

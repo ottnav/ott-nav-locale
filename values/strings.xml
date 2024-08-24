@@ -1,8 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="press_back_once_more_to_exit">Press once more to exit</string>
-
     <string name="search_bar">Search by channels or programs</string>
-
     <string name="menu_search">Search</string>
     <string name="menu_live">Live stream</string>
     <string name="menu_archive">Shows archive</string>
@@ -10,10 +8,8 @@
     <string name="menu_error_require_provider_button">Configure provider</string>
     <string name="menu_error_require_live_but_no_playlist_title">Playlist with channels failed to load</string>
     <string name="menu_error_require_live_but_no_playlist_text">The configured provider or playlist cannot be reached. Please re-check the provider settings and if they seems OK, contact your IPTV provider.</string>
-
     <string name="browse_description_series_number">episode</string>
     <string name="browse_description_header_live">Live channels</string>
-
     <string name="category_movies">All movies</string>
     <string name="category_tv_series">All TV-series</string>
     <string name="category_tv_shows">All TV-shows</string>
@@ -30,7 +26,6 @@
     <string name="category_desc_exact_tv_shows">TV-show</string>
     <string name="category_desc_tv_channel">TV channel</string>
     <string name="category_desc_from_fav">only content from favorite channels</string>
-
     <string name="in_1_minute">in 1 minute</string>
     <string name="in_n_minutes">in 10 minutes</string>
     <string name="player_episode_details_season">season</string>
@@ -40,7 +35,6 @@
     <string name="player_touch_to_cancel">Touch screen to cancel</string>
     <string name="player_state_no_media_ended">Stream not selected (ended)</string>
     <string name="player_state_buffering">Buffering</string>
-
     <string name="error_this_video_requires_external_player">This video requires external player for best experience</string>
     <string name="error_stream_not_reachable_no_connect">Stream not reachable (cannot connect). Contact your provider</string>
     <string name="error_stream_not_reachable_no_resource">Stream not reachable. Contact your provider</string>
@@ -48,9 +42,7 @@
     <string name="error_archive_not_supported_this_channel">Your provider does not provide archives for this channel</string>
     <string name="error_search_nothing_found">Nothing matched your search query</string>
     <string name="error_require_file_permission_grant_and_try_again">Storage access is required. Provide an access and retry the operation</string>
-
     <string name="info_teleguide_loaded">Teleguide (EPG) loaded: records</string>
-
     <string name="player_menu_select_channel_title">Another channel</string>
     <string name="player_menu_set_pause_on_title">Pause playback</string>
     <string name="player_menu_set_pause_off_title">Resume playback</string>
@@ -73,7 +65,6 @@
     <string name="player_menu_pip_on_details">Exit picture-in-picture mode</string>
     <string name="player_menu_pip_swap_details">Swap main channel and PiP one</string>
     <string name="player_menu_last_channel">Last channel</string>
-
     <string name="settings_player_pip_codec">Picture-in-Picture codecs selection</string>
     <string name="settings_player_pip_position_tl">top left</string>
     <string name="settings_player_pip_position_tr">top right</string>
@@ -84,22 +75,17 @@
     <string name="settings_channel_sort_mode_prov">order from provider playlist</string>
     <string name="settings_channel_sort_mode_name">name (favorites first, then alphabetically)</string>
     <string name="settings_run_at_boot">Start application on device boot</string>
-
     <string name="hint_title">Hint</string>
     <string name="hint_fav_sorting">Application sorts channels by watch frequency. Channels you marked as favorite will always be in the top. You may disable automatic sorting by enabling using a provider channel order, however favorites filter will not be available.</string>
     <string name="hint_video_codecs">If source is playing badly, you can try increasing buffer size in settings, switch to another stream decoder (hardware or software), or if anything fails, configure to use an external player for a playback.</string>
     <string name="hint_auto_turn_off">You can configure automatic stream switching off after some idle time (useful when billed per-minute). Idle means no player actions used (for example: menu, seeking, pause, etc).</string>
-
     <string name="settings_provider_select_type_intro1">NOTE: You need an OTT/IPTV provider in order to use this application.</string>
     <string name="settings_provider_select_type_intro2">Application works with user-provided playlists only.</string>
     <string name="settings_provider_select_apply">Apply</string>
     <string name="settings_provider_select_return">Return</string>
-
     <string name="settings_provider_select_status_error">Configuration error. Failed to load data</string>
     <string name="settings_provider_select_status_success">Setting applied successfully</string>
-
     <string name="settings_provider_select_error_live">contains no supported live channels. Check username/key/password/url.</string>
-
     <string name="archive_auto_seek_no">Start from the beginning</string>
     <string name="future_show_sheet_add_wl_title">Remind me to switch to the channel</string>
     <string name="future_show_sheet_search_title">Search in archives</string>
@@ -119,11 +105,9 @@
     <string name="channel_more_hide_desc">Remove from the list</string>
     <string name="hud_short_volume">Volume</string>
     <string name="hud_short_bright">Brightness</string>
-
     <string name="settings_provider">Provider</string>
     <string name="settings_media_library">Media library</string>
     <string name="settings_media_library_dnla">Scan UPnP/DLNA sources in local network</string>
-
     <string name="settings_player">Player</string>
     <string name="settings_player_hide_ui">Hide UI overlay in playback in</string>
     <string name="settings_player_resize_mode">Video scale mode</string>
@@ -132,47 +116,30 @@
     <string name="settings_player_resize_mode_zoom">Zoom to screen</string>
     <string name="settings_player_resize_mode_zoom_in">Zoom out of a screen</string>
     <string name="settings_player_auto_stop_live">Auto turn off broadcast in</string>
-
     <string name="settings_extended">Extended settings</string>
     <string name="settings_extended_hide_adult">Hide adult categories</string>
     <string name="settings_extended_auto_start_last_channel">Automatically start last played channel</string>
     <string name="settings_schedule_epg_reload">Reload EPG teleguide…</string>
-
     <string name="settings_visual">Visual style</string>
-
     <string name="settings_live_quick_channel_switch_delay">Delay before quick-switching channels</string>
-
     <string name="settings_player_buffer_size">Broadcast buffer size</string>
-
     <string name="settings_show_clock_in_player_always">Show current time while watching video</string>
-
     <string name="settings_font_style">Text size</string>
     <string name="settings_palette_style">Color palette scheme</string>
-
     <string name="settings_ui_screen_margins">Screen margins</string>
     <string name="settings_ui_language">App language</string>
-
     <string name="settings_codec">Codecs settings</string>
     <string name="settings_codec_hard">Always use hardware codecs</string>
     <string name="settings_codec_soft_vlc">Always use software VLC codecs</string>
     <string name="settings_codec_external">Always use external player</string>
-
     <string name="settings_epg">EPG teleguide</string>
-
     <string name="settings_external_player">External player</string>
-
     <string name="settings_premium">Premium</string>
     <string name="settings_premium_source_purchase">Premium purchased</string>
     <string name="settings_premium_source_subscription">Premium subscribed</string>
     <string name="settings_premium_source_unknown">Premium not enabled</string>
-    <string name="settings_premium_what_included">Learn more about premium features…</string>
-    <string name="settings_premium_what_included_1">Picture-in-picture mode while watching live stream</string>
-    <string name="settings_premium_what_included_3">Automatic frame rate switching to match video</string>
-    <string name="settings_premium_what_included_4">Controlling playback speed for archives</string>
-
     <string name="settings_premium_toggles_try_afr">Auto-switch frame rate to match video</string>
     <string name="settings_premium_toggles_try_afr_toast">Current display supported refresh rates</string>
-
     <string name="settings_premium_toggle_btn_title">Enable premium features</string>
     <string name="settings_premium_toggle_btn_sub_add">Subscribe</string>
     <string name="settings_premium_toggle_btn_sub_add_desc">Enable premium by subscribing to small recurrent payments</string>
@@ -180,7 +147,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">Enable premium by a single payment</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">Buy no ads pack (also included in all Premium packs)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">Disable ads forever by a single payment</string>
-
     <string name="setting_list_view_title">How lists should be displayed</string>
     <string name="setting_list_view1">simple list</string>
     <string name="cfg_play_deny_buffer">Do not show buffering status</string>
@@ -192,26 +158,21 @@
     <string name="cfg_play_action_last">switch to last played channel</string>
     <string name="cfg_play_action_title">Setup remote controller</string>
     <string name="cfg_trans_wind">Use transparent interface</string>
-
     <string name="do_not_show">do not show</string>
     <string name="spread_title">Like the app? Spread the word!</string>
     <string name="spread_btn_rate">Rate app with five stars</string>
     <string name="spread_btn_share">Share app link with a friend</string>
     <string name="spread_share_title">Take a look at the app</string>
-    <string name="settings_premium_what_included_9">Channel switching by entering channel number</string>
     <string name="settings_channel_sort_mode_numb">number (by channel number, can be changed)</string>
     <string name="ch_opt_change_number">Change number</string>
     <string name="prov_btn_help">Help</string>
     <string name="prov_help_telegram">Join chat in Telegram</string>
-    <string name="settings_premium_what_included_5">No ads</string>
     <string name="invalid_domain">Domain is probably invalid. Check your input</string>
     <string name="example">Example</string>
     <string name="provider_generic">Generic provider or playlist</string>
     <string name="btn_search">Search</string>
-    <string name="premium_fea_6">Send stream to a wireless display</string>
     <string name="wifi_display">Wireless display</string>
     <string name="wifi_display_desc">Play stream on another device</string>
-
     <string name="cfg_play_action_pp">pause or resume play</string>
     <string name="cfg_play_action_btn_red">Action for Red button</string>
     <string name="cfg_play_action_btn_green">Action for Green button</string>
@@ -226,7 +187,6 @@
     <string name="btn_close">Close</string>
     <string name="prem_sub_add_3m">Subscribe (billed each 3 months)</string>
     <string name="prem_sub_add_1y">Subscribe (billed each year)</string>
-    <string name="premium_fea_pvsearch">Voice search while watching. Search for channel by name, or archive contents.</string>
     <string name="cfg_play_action_vsearch">voice search</string>
     <string name="settings_premium_source_enabled">Premium enabled</string>
     <string name="cfg_play_action_mute">mute sound</string>
@@ -244,7 +204,6 @@
     <string name="cfg_video_retry">Times to retry loading the video when error occurred</string>
     <string name="cfg_play_action_2live">Switch to live broadcast of the current channel</string>
     <string name="player_menu_2live">Switch to live</string>
-
     <string name="btn_seek">Seek</string>
     <string name="cfg_play_action_mseek">Starts video seeking view</string>
     <string name="menu_exit">Exit</string>
@@ -259,12 +218,10 @@
     <string name="profile_high_q">only quality matters</string>
     <string name="channel_move_cat">Change category</string>
     <string name="channel_move_new_cat">Create new category</string>
-    <string name="premium_fea_edit_list">Allows editing of categories, hiding channels, etc</string>
     <string name="prov_help_bug">Report a problem or bug</string>
     <string name="prov_help_tpl">Report provider template issue</string>
     <string name="prov_help_feature">Suggest a new feature</string>
     <string name="prov_help_premium">Report problem with payments or premium</string>
-    <string name="prov_help_contact_via_chat">contact developer via chat</string>
     <string name="prov_help_contact_via_email">contact developer via email</string>
     <string name="prov_help_provide_more_info">Write your message to developer</string>
     <string name="cfg_time_imp">Use imperial time format (am/pm)</string>
@@ -275,7 +232,6 @@
     <string name="cfg_player_clock_tl">top left corner</string>
     <string name="cat_vr_continue">Continue watching</string>
     <string name="cat_vr_continue_prem">Recently viewed videos, that are available now</string>
-    <string name="premium_fea_continue">Shows all recently viewed videos, that are currently available in Continue filter</string>
     <string name="menu_swap_pip_sound">Swap sound between main screen and PiP</string>
     <string name="premium_fea_pre_vid_wp">Allow video preview to be shown while playing another video</string>
     <string name="category_recent_channels">Recent</string>
@@ -283,7 +239,6 @@
     <string name="cfg_no_categories">Use plain channels list (with no categories)</string>
     <string name="cfg_section_desc">Item description</string>
     <string name="cfg_section_lists">Lists settings</string>
-
     <string name="cfg_no_hints">Do not show hints</string>
     <string name="child_mode_unlock_cfg">Enter child code to unlock settings</string>
     <string name="cfg_child_mode">Child mode</string>
@@ -294,13 +249,11 @@
     <string name="cfg_player_hide_menu">Timeout to hide menu</string>
     <string name="choose_auto">Choose automatically</string>
     <string name="cfg_stream_tech">Stream technology (if available)</string>
-
     <string name="cfg_show_ch_numbers">Show channel numbers</string>
     <string name="always">always</string>
     <string name="menu_tv_guide">TV Guide</string>
     <string name="cfg_stream_q">Show stream quality</string>
     <string name="ext_player_copy_clipboard">Copy link to clipboard only</string>
-    <string name="premium_fea_mult_prov">Allows several providers to be used at the same time</string>
     <string name="btn_add_provider">Add provider</string>
     <string name="btn_provider_edit">Edit</string>
     <string name="btn_provider_delete">Delete</string>
@@ -320,7 +273,6 @@
     <string name="cfg_codec_exo_q">Hardware codec quality</string>
     <string name="cfg_codec_exo_max">best match</string>
     <string name="cfg_codec_exo_compat">compatibility mode</string>
-
     <string name="suggest_better_prov_tpl">Seems that there is a better template for your provider</string>
     <string name="place_pl_to_downloads">No valid playlist found in downloads</string>
     <string name="only_1_active">Premium required to have several active providers at the same time</string>
@@ -356,9 +308,7 @@
     <string name="menu_qs_provider_multiple">Mark manually</string>
     <string name="category_recently_added">Recently added</string>
     <string name="ask_finish_update">Restart the app to update for newer version?</string>
-    <string name="cfg_premium_etc">And many other valuable functions</string>
     <string name="cfg_fine_tune_volume">Manual audio volume fine-tune (limited by system volume)</string>
-
     <string name="cfg_arch_unp">Automatically reopen archive when unpausing live stream</string>
     <string name="cfg_ch_more_epg">Show channel name larger than EPG</string>
     <string name="show_menu_add_to_cont_watching">Continue watching later</string>
@@ -371,7 +321,6 @@
     <string name="btn_provider_attr_epg">EPG source</string>
     <string name="change_pip_size">Change size</string>
     <string name="change_pip_place">Move on screen</string>
-
     <string name="only_manually_added">only manually added</string>
     <string name="check_for_updates">Check for updates</string>
     <string name="has_updates_starting">Update is available and will start soon</string>
@@ -390,7 +339,6 @@
     <string name="pla_menu_type_grid">grid</string>
     <string name="ch_manage_use_internal">Use internal player</string>
     <string name="cat_manage_start_this_cat_on">Start from this category</string>
-
     <string name="studio_mode_open_in">Open in Studio Mode</string>
     <string name="studio_mode_title">Studio mode</string>
     <string name="studio_mode_remove">Remove screen</string>
@@ -418,8 +366,6 @@
     <string name="hint_long_ok_menu">Long pressing OK button opens properties screen in most cases</string>
     <string name="save_state">Save state</string>
     <string name="restore_state">Restore state</string>
-
-    <string name="pro_studio">Studio mode, allowing to watch multiple streams at the same time</string>
     <string name="cfg_prov_channel_name">Show provider name in channel name when using multiple providers</string>
     <string name="pla_act_quick_seek_back_20">seek backwards by 20 seconds</string>
     <string name="pla_act_quick_seek_fwd_20">seek forward by 20 seconds</string>
@@ -739,4 +685,10 @@
     <string name="support_1conn_provider">Enable support for provider that has only a single connection</string>
     <string name="merge_data">Merge data</string>
     <string name="reopen_stream_if_paused_for_a_while">Reopen stream if paused for a while</string>
+    <string name="join_app_community">Join app community</string>
+    <string name="normalize_tv_show_name">Normalize TV show name</string>
+    <string name="contact_your_provider">Contact your provider</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) certificate is invalid</string>
+    <string name="verify_net_before_update">Verify network availability before updating data from providers</string>
+    <string name="timezone">Timezone</string>
 </resources>

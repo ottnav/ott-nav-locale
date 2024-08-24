@@ -171,10 +171,6 @@
     <string name="settings_premium_source_purchase">프리미엄 구입</string>
     <string name="settings_premium_source_subscription">프리미엄 가입</string>
     <string name="settings_premium_source_unknown">사용할 수없는 프리미엄</string>
-    <string name="settings_premium_what_included">프리미엄 기능에 대해 자세히 알아보기 ...</string>
-    <string name="settings_premium_what_included_1">라이브 스트림을 보면서 PIP (Picture-in-Picture) 모드</string>
-    <string name="settings_premium_what_included_3">비디오와 일치하는 자동 프레임 속도 전환</string>
-    <string name="settings_premium_what_included_4">아카이브의 재생 속도 제어</string>
 
     <string name="settings_premium_toggles_try_afr">비디오와 일치하는 자동 전환 프레임 속도</string>
     <string name="settings_premium_toggles_try_afr_toast">현재 디스플레이에서 지원되는 재생 빈도</string>
@@ -206,17 +202,14 @@
     <string name="spread_btn_rate">별 5 개를 평가하는 앱</string>
     <string name="spread_btn_share">친구와 앱 링크 공유</string>
     <string name="spread_share_title">앱 살펴보기</string>
-    <string name="settings_premium_what_included_9">채널 번호 입력으로 채널 전환</string>
     <string name="settings_channel_sort_mode_numb">번호 (채널 번호에 따라 변경 가능)</string>
     <string name="ch_opt_change_number">번호 변경</string>
     <string name="prov_btn_help">도움</string>
     <string name="prov_help_telegram">Telegram에서 채팅에 참여하십시오</string>
-    <string name="settings_premium_what_included_5">광고 없음</string>
     <string name="invalid_domain">도메인이 유효하지 않은 것 같습니다. 입력 내용을 확인하십시오.</string>
     <string name="example">예</string>
     <string name="provider_generic">일반 공급자 또는 재생 목록</string>
     <string name="btn_search">수색</string>
-    <string name="premium_fea_6">무선 디스플레이로 스트림 보내기</string>
     <string name="wifi_display">무선 디스플레이</string>
     <string name="wifi_display_desc">다른 기기에서 스트림 재생</string>
 
@@ -234,7 +227,6 @@
     <string name="btn_close">닫기</string>
     <string name="prem_sub_add_3m">구독 (3 개월마다 청구)</string>
     <string name="prem_sub_add_1y">구독 (매년 청구)</string>
-    <string name="premium_fea_pvsearch">보고있는 동안 음성 검색. 이름으로 채널을 검색하거나 내용을 보관하십시오.</string>
     <string name="cfg_play_action_vsearch">음성 검색</string>
     <string name="settings_premium_source_enabled">프리미엄 사용</string>
     <string name="cfg_play_action_mute">소리를 음소거하다</string>
@@ -267,12 +259,10 @@
     <string name="profile_high_q">오직 품질 문제</string>
     <string name="channel_move_cat">카테고리 변경</string>
     <string name="channel_move_new_cat">새 카테고리 만들기</string>
-    <string name="premium_fea_edit_list">범주 편집, 채널 숨기기 등을 허용합니다.</string>
     <string name="prov_help_bug">문제 또는 버그보고</string>
     <string name="prov_help_tpl">보고서 공급자 템플릿 문제</string>
     <string name="prov_help_feature">새로운 기능 제안</string>
     <string name="prov_help_premium">지불 또는 프리미엄 문제보고</string>
-    <string name="prov_help_contact_via_chat">채팅을 통해 개발자에게 문의</string>
     <string name="prov_help_contact_via_email">전자 메일을 통해 개발자에게 문의하십시오.</string>
     <string name="prov_help_provide_more_info">개발자에게 메시지 쓰기</string>
     <string name="cfg_time_imp">제국 시간 형식 사용 (am / pm)</string>
@@ -283,7 +273,6 @@
     <string name="cfg_player_clock_tl">왼쪽 상단 구석</string>
     <string name="cat_vr_continue">계속 지켜봐라.</string>
     <string name="cat_vr_continue_prem">최근에 본 동영상 (현재 사용 가능)</string>
-    <string name="premium_fea_continue">최근에 본 모든 동영상을 표시합니다. 현재 계속 필터에서 사용할 수 있습니다.</string>
     <string name="menu_swap_pip_sound">메인 화면과 픽처 인 픽처 사이의 사운드 스왑</string>
     <string name="premium_fea_pre_vid_wp">다른 동영상을 재생하는 동안 동영상 미리보기를 허용합니다.</string>
     <string name="category_recent_channels">충적세</string>
@@ -308,7 +297,6 @@
     <string name="menu_tv_guide">TV 가이드</string>
     <string name="cfg_stream_q">스트림 품질 표시</string>
     <string name="ext_player_copy_clipboard">클립 보드로만 링크 복사</string>
-    <string name="premium_fea_mult_prov">여러 공급자를 동시에 사용할 수 있습니다.</string>
     <string name="btn_add_provider">공급자 추가</string>
     <string name="btn_provider_edit">편집하다</string>
     <string name="btn_provider_delete">지우다</string>
@@ -365,7 +353,6 @@
     <string name="menu_qs_provider_multiple">수동으로 표시</string>
     <string name="category_recently_added">최근에 추가</string>
     <string name="ask_finish_update">최신 버전으로 업데이트하려면 앱을 다시 시작 하시겠습니까?</string>
-    <string name="cfg_premium_etc">기타 많은 유용한 기능</string>
     <string name="cfg_fine_tune_volume">수동 오디오 볼륨 미세 조정 (시스템 볼륨에 의해 제한됨)</string>
 
     <string name="cfg_arch_unp">라이브 스트림 일시 중지시 보관 파일을 자동으로 다시 엽니 다.</string>
@@ -427,7 +414,6 @@
     <string name="hint_long_ok_menu">오래 눌러서 OK 버튼을 누르면 대부분의 경우 속성 화면이 열립니다.</string>
     <string name="save_state">상태 저장</string>
     <string name="restore_state">복원 상태</string>
-<string name="pro_studio">동시에 여러 스트림을 볼 수있는 스튜디오 모드</string>
     <string name="cfg_prov_channel_name">여러 공급자를 사용할 때 채널 이름에 공급자 이름 표시</string>
     <string name="pla_act_quick_seek_back_20">20 초 뒤로 탐색</string>
     <string name="pla_act_quick_seek_fwd_20">20 초 앞으로 탐색</string>
@@ -746,4 +732,10 @@
     <string name="support_1conn_provider">단일 연결만 있는 공급자에 대한 지원 활성화</string>
     <string name="merge_data">데이터 병합</string>
     <string name="reopen_stream_if_paused_for_a_while">잠시 일시중지된 경우 스트림을 다시 엽니다.</string>
+    <string name="join_app_community">앱 커뮤니티에 가입하세요</string>
+    <string name="normalize_tv_show_name">TV 프로그램 이름 표준화</string>
+    <string name="contact_your_provider">제공업체에 문의하세요</string>
+    <string name="ssl_certificate_issue_detected">SSL(HTTPS) 인증서가 유효하지 않습니다.</string>
+    <string name="verify_net_before_update">공급자로부터 데이터를 업데이트하기 전에 네트워크 가용성을 확인하세요.</string>
+    <string name="timezone">시간대</string>
     </resources>

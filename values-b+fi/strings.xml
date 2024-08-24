@@ -138,10 +138,6 @@
     <string name="settings_premium_source_purchase">Premium ostettu</string>
     <string name="settings_premium_source_subscription">Premium tilattu</string>
     <string name="settings_premium_source_unknown">Premium ei ole käytössä</string>
-    <string name="settings_premium_what_included">Lue lisää premium-ominaisuuksista…</string>
-    <string name="settings_premium_what_included_1">Kuva kuvassa -tila katsoessasi suoraa lähetystä</string>
-    <string name="settings_premium_what_included_3">Automaattinen kuvanopeuden vaihto videota vastaavaksi</string>
-    <string name="settings_premium_what_included_4">Arkiston toistonopeuden hallinta</string>
     <string name="settings_premium_toggles_try_afr">Vaihda kuvataajuus automaattisesti vastaamaan videota</string>
     <string name="settings_premium_toggles_try_afr_toast">Nykyinen näyttö tukee virkistystaajuuksia</string>
     <string name="settings_premium_toggle_btn_title">Ota premium-ominaisuudet käyttöön</string>
@@ -167,17 +163,14 @@
     <string name="spread_btn_rate">Arvioi sovellus viidellä tähdellä</string>
     <string name="spread_btn_share">Jaa sovelluslinkki ystävän kanssa</string>
     <string name="spread_share_title">Katso sovellus</string>
-    <string name="settings_premium_what_included_9">Kanavan vaihto syöttämällä kanavan numero</string>
     <string name="settings_channel_sort_mode_numb">numero (kanavanumeron mukaan, voidaan muuttaa)</string>
     <string name="ch_opt_change_number">Vaihda numero</string>
     <string name="prov_btn_help">auta</string>
     <string name="prov_help_telegram">Liity Chatiin Telegramissa</string>
-    <string name="settings_premium_what_included_5">Ei mainoksia</string>
     <string name="invalid_domain">Verkkotunnus on luultavasti virheellinen. Tarkista syötteesi</string>
     <string name="example">Esimerkki</string>
     <string name="provider_generic">Yleinen tarjoaja tai soittolista</string>
     <string name="btn_search">Hae</string>
-    <string name="premium_fea_6">Lähetä suoratoisto langattomalle näytölle</string>
     <string name="wifi_display">Langaton näyttö</string>
     <string name="wifi_display_desc">Toista suoratoisto toisella laitteella</string>
     <string name="cfg_play_action_pp">keskeyttää tai jatkaa toistoa</string>
@@ -194,7 +187,6 @@
     <string name="btn_close">kiinni</string>
     <string name="prem_sub_add_3m">Tilaa (laskutetaan 3 kuukauden välein)</string>
     <string name="prem_sub_add_1y">Tilaa (laskutetaan vuosittain)</string>
-    <string name="premium_fea_pvsearch">Äänihaku katselun aikana. Hae kanavaa nimen tai arkiston sisällön perusteella.</string>
     <string name="cfg_play_action_vsearch">äänihaku</string>
     <string name="settings_premium_source_enabled">Premium käytössä</string>
     <string name="cfg_play_action_mute">mykistää äänen</string>
@@ -226,12 +218,10 @@
     <string name="profile_high_q">vain laadulla on väliä</string>
     <string name="channel_move_cat">Vaihda luokkaa</string>
     <string name="channel_move_new_cat">Luo uusi luokka</string>
-    <string name="premium_fea_edit_list">Mahdollistaa luokkien muokkaamisen, kanavien piilottamisen jne</string>
     <string name="prov_help_bug">Ilmoita ongelmasta tai bugista</string>
     <string name="prov_help_tpl">Ilmoita palveluntarjoajan malliongelmasta</string>
     <string name="prov_help_feature">Ehdota uutta ominaisuutta</string>
     <string name="prov_help_premium">Ilmoita maksu- tai palkkio-ongelmasta</string>
-    <string name="prov_help_contact_via_chat">ota yhteyttä kehittäjään chatin kautta</string>
     <string name="prov_help_contact_via_email">ota yhteyttä kehittäjään sähköpostitse</string>
     <string name="prov_help_provide_more_info">Kirjoita viestisi kehittäjälle</string>
     <string name="cfg_time_imp">Käytä imperial-aikamuotoa (am/pm)</string>
@@ -242,7 +232,6 @@
     <string name="cfg_player_clock_tl">vasen yläkulma</string>
     <string name="cat_vr_continue">Jatka katsomista</string>
     <string name="cat_vr_continue_prem">Äskettäin katsotut videot, jotka ovat nyt saatavilla</string>
-    <string name="premium_fea_continue">Näyttää kaikki äskettäin katsotut videot, jotka ovat tällä hetkellä saatavilla Jatka-suodattimessa</string>
     <string name="menu_swap_pip_sound">Vaihda ääntä päänäytön ja PiP:n välillä</string>
     <string name="premium_fea_pre_vid_wp">Salli videon esikatselun näyttäminen toistaessasi toista videota</string>
     <string name="category_recent_channels">Viimeaikaiset</string>
@@ -265,7 +254,6 @@
     <string name="menu_tv_guide">tv-opas</string>
     <string name="cfg_stream_q">Näytä suoratoiston laatu</string>
     <string name="ext_player_copy_clipboard">Kopioi linkki vain leikepöydälle</string>
-    <string name="premium_fea_mult_prov">Mahdollistaa usean palveluntarjoajan käytön samanaikaisesti</string>
     <string name="btn_add_provider">Lisää palveluntarjoaja</string>
     <string name="btn_provider_edit">Muokata</string>
     <string name="btn_provider_delete">Poistaa</string>
@@ -320,7 +308,6 @@
     <string name="menu_qs_provider_multiple">Merkitse manuaalisesti</string>
     <string name="category_recently_added">Viimeksi lisätyt</string>
     <string name="ask_finish_update">Käynnistetäänkö sovellus uudelleen päivittääksesi uudempaan versioon?</string>
-    <string name="cfg_premium_etc">Ja monia muita arvokkaita toimintoja</string>
     <string name="cfg_fine_tune_volume">Äänenvoimakkuuden manuaalinen hienosäätö (järjestelmän äänenvoimakkuuden rajoittama)</string>
     <string name="cfg_arch_unp">Avaa arkisto automaattisesti uudelleen, kun suoratoisto keskeytetään</string>
     <string name="cfg_ch_more_epg">Näytä kanavan nimi suurempi kuin EPG</string>
@@ -379,7 +366,6 @@
     <string name="hint_long_ok_menu">Pitkä painallus OK-painiketta avaa ominaisuusnäytön useimmissa tapauksissa</string>
     <string name="save_state">Tallenna tila</string>
     <string name="restore_state">Palauta tila</string>
-    <string name="pro_studio">Studiotila, joka mahdollistaa useiden suoratoistojen katselun samanaikaisesti</string>
     <string name="cfg_prov_channel_name">Näytä palveluntarjoajan nimi kanavan nimessä, kun käytät useita palveluntarjoajia</string>
     <string name="pla_act_quick_seek_back_20">hakea taaksepäin 20 sekuntia</string>
     <string name="pla_act_quick_seek_fwd_20">siirry eteenpäin 20 sekuntia</string>
@@ -698,4 +684,10 @@
     <string name="support_1conn_provider">Ota käyttöön tuki palveluntarjoajalle, jolla on vain yksi yhteys</string>
     <string name="merge_data">Yhdistä tiedot</string>
     <string name="reopen_stream_if_paused_for_a_while">Avaa stream uudelleen, jos se on keskeytetty jonkin aikaa</string>
+    <string name="join_app_community">Liity sovellusyhteisöön</string>
+    <string name="normalize_tv_show_name">Normalisoi TV-ohjelman nimi</string>
+    <string name="contact_your_provider">Ota yhteyttä palveluntarjoajaasi</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) -varmenne on virheellinen</string>
+    <string name="verify_net_before_update">Tarkista verkon saatavuus ennen tietojen päivittämistä palveluntarjoajilta</string>
+    <string name="timezone">Aikavyöhyke</string>
     </resources>

@@ -165,10 +165,6 @@
     <string name="settings_premium_source_purchase">Premium ostetud</string>
     <string name="settings_premium_source_subscription">Premium on tellitud</string>
     <string name="settings_premium_source_unknown">Premium pole lubatud</string>
-    <string name="settings_premium_what_included">Lisateave lisatasu funktsioonide kohta ...</string>
-    <string name="settings_premium_what_included_1">Pildistamisrežiim, kui vaatate otseülekannet</string>
-    <string name="settings_premium_what_included_3">Automaatne kaadrisageduse vahetamine video sobitamiseks</string>
-    <string name="settings_premium_what_included_4">Arhiivide taasesituse kiiruse kontrollimine</string>
 
     <string name="settings_premium_toggles_try_afr">Automaatselt lülitage kaadrisagedus, et see sobiks video</string>
     <string name="settings_premium_toggles_try_afr_toast">Praegune ekraan toetab värskendussagedusi</string>
@@ -200,17 +196,14 @@
     <string name="spread_btn_rate">Hinda rakendust viie tärniga</string>
     <string name="spread_btn_share">Jagage rakenduse linki sõbraga</string>
     <string name="spread_share_title">Heitke pilk rakendusele</string>
-    <string name="settings_premium_what_included_9">Kanali vahetamine kanali numbri sisestamisega</string>
     <string name="settings_channel_sort_mode_numb">number (kanali numbri järgi saab muuta)</string>
     <string name="ch_opt_change_number">Muuda numbrit</string>
     <string name="prov_btn_help">Abi</string>
     <string name="prov_help_telegram">Liitu telegrammiga</string>
-    <string name="settings_premium_what_included_5">Reklaame pole</string>
     <string name="invalid_domain">Domeen on ilmselt kehtetu. Kontrollige sisendit</string>
     <string name="example">Näide</string>
     <string name="provider_generic">Üldine pakkuja või esitusloend</string>
     <string name="btn_search">Otsing</string>
-    <string name="premium_fea_6">Saada voog traadita ekraanile</string>
     <string name="wifi_display">Traadita ekraan</string>
     <string name="wifi_display_desc">Esita voog teises seadmes</string>
 
@@ -229,7 +222,6 @@
     <string name="btn_close">Sulge</string>
     <string name="prem_sub_add_3m">Telli (arve iga 3 kuu järel)</string>
     <string name="prem_sub_add_1y">Telli (arveldatakse igal aastal)</string>
-    <string name="premium_fea_pvsearch">Häälotsing vaatamise ajal. Otsige kanalilt nime või arhiivi sisu järgi.</string>
     <string name="cfg_play_action_vsearch">häälotsing</string>
     <string name="settings_premium_source_enabled">Premium on lubatud</string>
     <string name="cfg_play_action_mute">vaigistada</string>
@@ -263,12 +255,10 @@
     <string name="profile_high_q">ainult kvaliteediküsimused</string>
     <string name="channel_move_cat">Muuda kategooriat</string>
     <string name="channel_move_new_cat">Loo uus kategooria</string>
-    <string name="premium_fea_edit_list">Võimaldab kategooriate, kanalite peitmise jne muutmist</string>
     <string name="prov_help_bug">Teatage probleemist või veast</string>
     <string name="prov_help_tpl">Aruande pakkuja malli probleem</string>
     <string name="prov_help_feature">Soovita uut funktsiooni</string>
     <string name="prov_help_premium">Teatage maksete või lisatasu probleemist</string>
-    <string name="prov_help_contact_via_chat">kontakteeruge arendajaga vestluse teel</string>
     <string name="prov_help_contact_via_email">võtke ühendust arendajaga e-posti teel</string>
     <string name="prov_help_provide_more_info">Kirjutage oma sõnum arendajale</string>
     <string name="cfg_time_imp">Kasutage keiserlikku ajavormingut (am / pm)</string>
@@ -279,7 +269,6 @@
     <string name="cfg_player_clock_tl">vasakus nurgas</string>
     <string name="cat_vr_continue">Jätka vaatamist</string>
     <string name="cat_vr_continue_prem">Hiljuti vaadatud videod, mis on nüüd saadaval</string>
-    <string name="premium_fea_continue">Näitab kõiki hiljuti vaadatud videoid, mis on hetkel saadaval menüüs Jätka filter</string>
     <string name="menu_swap_pip_sound">Vaheta peaekraani ja PiP vahel heli</string>
     <string name="premium_fea_pre_vid_wp">Luba videot eelvaates näidata teise video esitamise ajal</string>
     <string name="category_recent_channels">Viimased</string>
@@ -304,7 +293,6 @@
     <string name="menu_tv_guide">Telekava</string>
     <string name="cfg_stream_q">Kuva voo kvaliteet</string>
     <string name="ext_player_copy_clipboard">Kopeeri link lõikepuhvrisse</string>
-    <string name="premium_fea_mult_prov">Võimaldab samaaegselt kasutada mitut teenusepakkujat</string>
     <string name="btn_add_provider">Lisa pakkuja</string>
     <string name="btn_provider_edit">Muuda</string>
     <string name="btn_provider_delete">Kustuta</string>
@@ -361,7 +349,6 @@
     <string name="menu_qs_provider_multiple">Märgi käsitsi</string>
     <string name="category_recently_added">Viimati lisatud</string>
     <string name="ask_finish_update">Uuema versiooni uuendamiseks taaskäivitage rakendus?</string>
-    <string name="cfg_premium_etc">Ja palju muid väärtuslikke funktsioone</string>
     <string name="cfg_fine_tune_volume">Käsitsi helitugevuse häälestamine (piiratud süsteemi mahuga)</string>
 
     <string name="cfg_arch_unp">Avage arhiiv automaatselt, kui tühistate otseülekande</string>
@@ -423,7 +410,6 @@
     <string name="hint_long_ok_menu">Pika nupu OK vajutamine avab enamikul juhtudel atribuutide kuva</string>
     <string name="save_state">Salvesta olek</string>
     <string name="restore_state">Taasta olek</string>
-<string name="pro_studio">Stuudiorežiim, mis võimaldab vaadata mitut voogu korraga</string>
     <string name="cfg_prov_channel_name">Kuva pakkuja nimi kanali nimes, kui kasutate mitut pakkujat</string>
     <string name="pla_act_quick_seek_back_20">otsige 20 sekundit tagasi</string>
     <string name="pla_act_quick_seek_fwd_20">otsi 20 sekundit edasi</string>
@@ -742,4 +728,10 @@
     <string name="support_1conn_provider">Lubage tugi teenusepakkujale, kellel on ainult üks ühendus</string>
     <string name="merge_data">Ühendage andmed</string>
     <string name="reopen_stream_if_paused_for_a_while">Kui olete mõneks ajaks peatanud, avage voog uuesti</string>
+    <string name="join_app_community">Liituge rakenduste kogukonnaga</string>
+    <string name="normalize_tv_show_name">Telesaate nime normaliseerimine</string>
+    <string name="contact_your_provider">Võtke ühendust teenusepakkujaga</string>
+    <string name="ssl_certificate_issue_detected">SSL (HTTPS) sertifikaat on kehtetu</string>
+    <string name="verify_net_before_update">Enne teenusepakkujate andmete värskendamist kontrollige võrgu saadavust</string>
+    <string name="timezone">Ajavöönd</string>
     </resources>

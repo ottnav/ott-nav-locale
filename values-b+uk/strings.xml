@@ -163,10 +163,6 @@
     <string name="settings_premium_source_purchase">Придбано преміум</string>
     <string name="settings_premium_source_subscription">Підписку на преміум оформлено</string>
     <string name="settings_premium_source_unknown">Преміум не увімкнено</string>
-    <string name="settings_premium_what_included">Докладніше про преміум-функції…</string>
-    <string name="settings_premium_what_included_1">Режим картинка у картинці під час перегляду наживо</string>
-    <string name="settings_premium_what_included_3">Автоматичне підлаштування частоти кадрів</string>
-    <string name="settings_premium_what_included_4">Керування швидкістю відтворення для архівів</string>
 
     <string name="settings_premium_toggles_try_afr">Автоматично змінювати частоти кадрів для відповідності відео</string>
     <string name="settings_premium_toggles_try_afr_toast">Даний дисплей підтримує частоту кадрів</string>
@@ -196,17 +192,14 @@
     <string name="spread_btn_rate">Оцініть додаток п\'ятьма зірками</string>
     <string name="spread_btn_share">Поділіться посиланням на програму з другом</string>
     <string name="spread_share_title">Подивись на додаток</string>
-    <string name="settings_premium_what_included_9">Перемикання каналів шляхом введення номера каналу</string>
     <string name="settings_channel_sort_mode_numb">номером (за номером каналу, можна змінити)</string>
     <string name="ch_opt_change_number">Змінити номер</string>
     <string name="prov_btn_help">Довідка</string>
     <string name="prov_help_telegram">Приєднайтеся до чату в телеграмі</string>
-    <string name="settings_premium_what_included_5">Немає оголошень</string>
     <string name="invalid_domain">Можливо, домен недійсний. Перевірте свій вхід</string>
     <string name="example">Приклад</string>
     <string name="provider_generic">Типовий провайдер або плейлист</string>
     <string name="btn_search">Пошук</string>
-    <string name="premium_fea_6">Надіслати потік на безпровідний дисплей</string>
     <string name="wifi_display">Безпровідний дисплей</string>
     <string name="wifi_display_desc">Відтворити потік на іншому пристрої</string>
 
@@ -224,7 +217,6 @@
     <string name="btn_close">Закрити</string>
     <string name="prem_sub_add_3m">Підписатись (оплата раз у 3 місяці)</string>
     <string name="prem_sub_add_1y">Підписатись (щорічна оплата)</string>
-    <string name="premium_fea_pvsearch">Голосовий пошук під час перегляду. Пошук каналу за назвою або вмістом архіву.</string>
     <string name="cfg_play_action_vsearch">голосовий пошук</string>
     <string name="settings_premium_source_enabled">Преміум увімкнено</string>
     <string name="cfg_play_action_mute">вимкнути звук</string>
@@ -257,12 +249,10 @@
     <string name="profile_high_q">найкраща якість</string>
     <string name="channel_move_cat">Змінити категорію</string>
     <string name="channel_move_new_cat">Створити нову категорію</string>
-    <string name="premium_fea_edit_list">Дозволяє редагувати категорії, приховувати канали тощо</string>
     <string name="prov_help_bug">Повідомити про проблему або помилку</string>
     <string name="prov_help_tpl">Описати проблему шаблона провайдера</string>
     <string name="prov_help_feature">Запропонувати нову функцію</string>
     <string name="prov_help_premium">Повідомити про проблему з платежами або преміумом</string>
-    <string name="prov_help_contact_via_chat">зверніться до розробника через чат</string>
     <string name="prov_help_contact_via_email">зверніться до розробника електронною поштою</string>
     <string name="prov_help_provide_more_info">Напишіть своє повідомлення розробнику</string>
     <string name="cfg_time_imp">Використовувати імперський формат часу (am/pm)</string>
@@ -273,7 +263,6 @@
     <string name="cfg_player_clock_tl">верхній лівий кут</string>
     <string name="cat_vr_continue">Продовжити перегляд</string>
     <string name="cat_vr_continue_prem">Нещодавно переглянуте відео доступне зараз</string>
-    <string name="premium_fea_continue">Показує всі нещодавно переглянуті відео, які наразі доступні у фільтрі Продовжити</string>
     <string name="menu_swap_pip_sound">Перемкнути звук між основним екраном і PiP</string>
     <string name="premium_fea_pre_vid_wp">Дозволити попередній перегляд відео під час відтворення іншого відео</string>
     <string name="category_recent_channels">Нещодавні</string>
@@ -298,7 +287,6 @@
     <string name="menu_tv_guide">Телепрограма</string>
     <string name="cfg_stream_q">Показувати якість потоку</string>
     <string name="ext_player_copy_clipboard">Лише скопіювати посилання в буфер обміну</string>
-    <string name="premium_fea_mult_prov">Дозволяє використовувати кількох провайдерів одночасно</string>
     <string name="btn_add_provider">Додати провайдера</string>
     <string name="btn_provider_edit">Змінити</string>
     <string name="btn_provider_delete">Видалити</string>
@@ -354,7 +342,6 @@
     <string name="menu_qs_provider_multiple">Позначити вручну</string>
     <string name="category_recently_added">Нещодавно додані</string>
     <string name="ask_finish_update">Перезапустіть програму для оновлення на нову версію?</string>
-    <string name="cfg_premium_etc">І безліч інших корисних функцій</string>
     <string name="cfg_fine_tune_volume">Ручне точне налаштування гучності (обмежене системною гучністю)</string>
 
     <string name="cfg_arch_unp">Автоматично повторно відкривати архів під час повторного запуску потокового відео</string>
@@ -417,7 +404,6 @@
     <string name="save_state">Зберегти стан</string>
     <string name="restore_state">Відновити стан</string>
 
-    <string name="pro_studio">Студійний режим, що дозволяє переглядати декілька каналів одночасно</string>
     <string name="cfg_prov_channel_name">Показувати назву провайдера в назві каналу при використанні кількох провайдерів</string>
     <string name="pla_act_quick_seek_back_20">перемотати назад на 20 секунд</string>
     <string name="pla_act_quick_seek_fwd_20">перемотати вперед на 20 секунд</string>
@@ -736,4 +722,10 @@
     <string name="support_1conn_provider">Увімкніть підтримку для провайдера, який має лише одне підключення</string>
     <string name="merge_data">Об’єднати дані</string>
     <string name="reopen_stream_if_paused_for_a_while">Повторно відкрити потік, якщо його було призупинено на деякий час</string>
+    <string name="join_app_community">Приєднуйтеся до спільноти програм</string>
+    <string name="normalize_tv_show_name">Нормалізація назви телешоу</string>
+    <string name="contact_your_provider">Зверніться до свого провайдера</string>
+    <string name="ssl_certificate_issue_detected">Сертифікат SSL (HTTPS) недійсний</string>
+    <string name="verify_net_before_update">Перевірте доступність мережі перед оновленням даних від постачальників</string>
+    <string name="timezone">Часовий пояс</string>
     </resources>

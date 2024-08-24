@@ -137,10 +137,6 @@
     <string name="settings_premium_source_purchase">Premium achiziționate</string>
     <string name="settings_premium_source_subscription">Premium abonat</string>
     <string name="settings_premium_source_unknown">Premium nu este activat</string>
-    <string name="settings_premium_what_included">Aflați mai multe despre funcțiile premium ...</string>
-    <string name="settings_premium_what_included_1">Modul Imagine-în-imagine în timp ce urmăriți transmisia live</string>
-    <string name="settings_premium_what_included_3">Comutarea automată a ratei de cadru pentru a se potrivi cu videoclipul</string>
-    <string name="settings_premium_what_included_4">Controlul vitezei de redare pentru arhive</string>
     <string name="settings_premium_toggles_try_afr">Comutarea automată a ratei cadrului pentru a se potrivi video</string>
     <string name="settings_premium_toggles_try_afr_toast">Afișajul curent acceptă ratele de actualizare</string>
     <string name="settings_premium_toggle_btn_title">Activați funcțiile premium</string>
@@ -166,17 +162,14 @@
     <string name="spread_btn_rate">Evaluează aplicația cu cinci stele</string>
     <string name="spread_btn_share">Distribuie link-ul aplicației cu un prieten</string>
     <string name="spread_share_title">Aruncați o privire la aplicație</string>
-    <string name="settings_premium_what_included_9">Comutarea canalului prin introducerea numărului canalului</string>
     <string name="settings_channel_sort_mode_numb">număr (după numărul canalului, poate fi modificat)</string>
     <string name="ch_opt_change_number">Schimbă numărul</string>
     <string name="prov_btn_help">Ajutor</string>
     <string name="prov_help_telegram">Alăturați-vă chat-ului în Telegram</string>
-    <string name="settings_premium_what_included_5">Fără reclame</string>
     <string name="invalid_domain">Domeniul este probabil nevalid. Verificați-vă intrarea</string>
     <string name="example">Exemplu</string>
     <string name="provider_generic">Furnizor sau listă de redare generică</string>
     <string name="btn_search">Căutare</string>
-    <string name="premium_fea_6">Trimiteți un flux pe un afișaj wireless</string>
     <string name="wifi_display">Ecran wireless</string>
     <string name="wifi_display_desc">Redați fluxul pe un alt dispozitiv</string>
     <string name="cfg_play_action_pp">întrerupeți sau reluați jocul</string>
@@ -193,7 +186,6 @@
     <string name="btn_close">Închide</string>
     <string name="prem_sub_add_3m">Abonare (facturat la fiecare 3 luni)</string>
     <string name="prem_sub_add_1y">Abonați-vă (facturați în fiecare an)</string>
-    <string name="premium_fea_pvsearch">Căutare vocală în timp ce urmăriți. Căutați canalul după nume sau arhiva conținutul.</string>
     <string name="cfg_play_action_vsearch">căutare vocală</string>
     <string name="settings_premium_source_enabled">Premium activat</string>
     <string name="cfg_play_action_mute">sunet mut</string>
@@ -225,12 +217,10 @@
     <string name="profile_high_q">contează doar calitatea</string>
     <string name="channel_move_cat">Schimbați categoria</string>
     <string name="channel_move_new_cat">Creați o categorie nouă</string>
-    <string name="premium_fea_edit_list">Permite editarea categoriilor, ascunderea canalelor etc.</string>
     <string name="prov_help_bug">Raportați o problemă sau o eroare</string>
     <string name="prov_help_tpl">Raportează problema șablonului furnizorului</string>
     <string name="prov_help_feature">Propuneți o nouă caracteristică</string>
     <string name="prov_help_premium">Raportați problema cu plățile sau prima</string>
-    <string name="prov_help_contact_via_chat">contactați dezvoltatorul prin chat</string>
     <string name="prov_help_contact_via_email">contactați dezvoltatorul prin e-mail</string>
     <string name="prov_help_provide_more_info">Scrieți-vă mesajul către dezvoltator</string>
     <string name="cfg_time_imp">Folosiți formatul timpului imperial (am / pm)</string>
@@ -241,7 +231,6 @@
     <string name="cfg_player_clock_tl">coltul din stanga sus</string>
     <string name="cat_vr_continue">Continuați să urmăriți</string>
     <string name="cat_vr_continue_prem">Videoclipuri vizionate recent, care sunt disponibile acum</string>
-    <string name="premium_fea_continue">Prezintă toate videoclipurile vizualizate recent, care sunt disponibile în prezent în filtrul Continuare</string>
     <string name="menu_swap_pip_sound">Schimbă sunetul între ecranul principal și PiP</string>
     <string name="premium_fea_pre_vid_wp">Permiteți afișarea previzualizării videoclipurilor în timpul redării unui alt videoclip</string>
     <string name="category_recent_channels">Recent</string>
@@ -264,7 +253,6 @@
     <string name="menu_tv_guide">Ghid TV</string>
     <string name="cfg_stream_q">Afișează calitatea fluxului</string>
     <string name="ext_player_copy_clipboard">Copiați linkul numai în clipboard</string>
-    <string name="premium_fea_mult_prov">Permite utilizarea mai multor furnizori în același timp</string>
     <string name="btn_add_provider">Adăugați furnizor</string>
     <string name="btn_provider_edit">Editați | ×</string>
     <string name="btn_provider_delete">Șterge</string>
@@ -319,7 +307,6 @@
     <string name="menu_qs_provider_multiple">Marcați manual</string>
     <string name="category_recently_added">Adaugat recent</string>
     <string name="ask_finish_update">Reporniți aplicația pentru a actualiza pentru o versiune mai nouă?</string>
-    <string name="cfg_premium_etc">Și multe alte funcții valoroase</string>
     <string name="cfg_fine_tune_volume">Reglarea manuală a volumului audio (limitată de volumul sistemului)</string>
     <string name="cfg_arch_unp">Redeschideți arhiva automat atunci când nu întrerupeți fluxul live</string>
     <string name="cfg_ch_more_epg">Afișează numele canalului mai mare decât EPG</string>
@@ -378,7 +365,6 @@
     <string name="hint_long_ok_menu">Apăsând lung butonul OK deschide ecranul de proprietăți în majoritatea cazurilor</string>
     <string name="save_state">Salvați starea</string>
     <string name="restore_state">Restaurare stare</string>
-    <string name="pro_studio">Mod Studio, permițând vizionarea mai multor fluxuri în același timp</string>
     <string name="cfg_prov_channel_name">Afișați numele furnizorului în numele canalului atunci când utilizați mai mulți furnizori</string>
     <string name="pla_act_quick_seek_back_20">căutați înapoi cu 20 de secunde</string>
     <string name="pla_act_quick_seek_fwd_20">caută înainte cu 20 de secunde</string>
@@ -697,4 +683,10 @@
     <string name="support_1conn_provider">Activați asistența pentru furnizorul care are o singură conexiune</string>
     <string name="merge_data">Îmbinați datele</string>
     <string name="reopen_stream_if_paused_for_a_while">Redeschideți fluxul dacă este întrerupt pentru un timp</string>
+    <string name="join_app_community">Alăturați-vă comunității de aplicații</string>
+    <string name="normalize_tv_show_name">Normalizați numele emisiunii TV</string>
+    <string name="contact_your_provider">Contactați furnizorul dvs</string>
+    <string name="ssl_certificate_issue_detected">Certificatul SSL (HTTPS) este nevalid</string>
+    <string name="verify_net_before_update">Verificați disponibilitatea rețelei înainte de a actualiza datele de la furnizori</string>
+    <string name="timezone">fus orar</string>
     </resources>
