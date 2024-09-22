@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Näytä tiedot ennen videon käynnistämistä</string>
     <string name="premium_note_dev">Premiumin tilaaminen auttaa parantamaan ja tukemaan sovellusta</string>
     <string name="disable_expire_data">Älä näytä vanhenemistilaa</string>
-    <string name="restore_purchases">Palauta ostokset (vianetsintä)</string>
     <string name="future_show_sheet_autoswitch_wl">Vaihda automaattisesti kanavalle, kun se lähetetään</string>
     <string name="reuse_cache_for_quick_start">Käytä välimuistia uudelleen käynnistääksesi sovelluksen nopeasti edellisestä käynnistyksestä (voi toimia väärin joillakin palveluntarjoajilla)</string>
     <string name="use_spacing_between_elem">Käytä elementtien väliä</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Kirjaudu sisään</string>
     <string name="btn_register">Kirjaudu</string>
     <string name="add_device">Lisää laite</string>
-    <string name="claim_purchase">Lunasta osto</string>
     <string name="text_is_case_sensitive">Tekstissä on kirjainkoolla merkitystä</string>
     <string name="password_does_not_match">Salasana ei täsmää</string>
     <string name="login_or_password_incorrect">Kirjautumistunnus tai salasana on väärä</string>
     <string name="change_password">Vaihda salasana</string>
     <string name="use_account_for_manage_premium">Luo tili, jotta voit hallita premium-tiliäsi</string>
     <string name="current_device">Tällä hetkellä käytössä oleva laite</string>
-    <string name="import_old_purchase">Aktivoi vanha ostos</string>
     <string name="acc_can_no_buy_premium">Tilisi ei voi ostaa premiumia. Ota yhteyttä henkilöön, joka antoi tämän tilin sinulle.</string>
     <string name="select_preset">Valitse esiasetus</string>
     <string name="use_cyclic_category_navigation">Ota käyttöön syklinen navigointi luokkien välillä</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) -varmenne on virheellinen</string>
     <string name="verify_net_before_update">Tarkista verkon saatavuus ennen tietojen päivittämistä palveluntarjoajilta</string>
     <string name="timezone">Aikavyöhyke</string>
+    <string name="error_all_device_slots_used">Nykyistä laitetta ei voi aktivoida, koska kaikki premium-paikat ovat varattu. Osta lisää paikkoja tai poista laitteet, joita ei enää käytetä.</string>
+    <string name="contact_support_for_more_options">Ota yhteyttä sovellustukeen saadaksesi lisää vaihtoehtoja</string>
+    <string name="exit_on_back_press">Varmistetaan, että sovellus puretaan muistista, kun takaisin-painiketta painetaan</string>
+    <string name="auto_delete_backup_after_restore">Poista varmuuskopiotiedot välittömästi palauttamisen jälkeen (salli palauttaminen vain kerran)</string>
+    <string name="applies_to_category_of_item">Koskee vain elementin luokkaa</string>
+    <string name="applies_to_every_category">Koskee jokaista luokkaa, kaikki elementit on yhdistetty</string>
+    <string name="group_categories_by_country">Ota käyttöön taittoluokat, ryhmittele ne maata edustavien virtuaalisten luokkien mukaan</string>
     </resources>

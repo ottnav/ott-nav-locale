@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Shfaq informacionin përpara nisjes së videos</string>
     <string name="premium_note_dev">Abonimi në premium ndihmon në përmirësimin dhe mbështetjen e aplikacionit</string>
     <string name="disable_expire_data">Mos shfaq statusin e skadimit</string>
-    <string name="restore_purchases">Rivendos blerjet (Zgjidhja e problemeve)</string>
     <string name="future_show_sheet_autoswitch_wl">Kalo automatikisht në kanal kur të jetë drejtpërdrejt</string>
     <string name="reuse_cache_for_quick_start">Ripërdorni cache-në për fillimin e shpejtë të aplikacionit nga fillimi i mëparshëm (mund të funksionojë gabimisht për disa ofrues)</string>
     <string name="use_spacing_between_elem">Përdorni hapësirën midis elementeve</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Identifikohu</string>
     <string name="btn_register">Regjistrohu</string>
     <string name="add_device">Shto një pajisje</string>
-    <string name="claim_purchase">Kërkoni një blerje</string>
     <string name="text_is_case_sensitive">Teksti është i ndjeshëm ndaj shkronjave të vogla</string>
     <string name="password_does_not_match">Fjalekalimi Nuk perputhet</string>
     <string name="login_or_password_incorrect">Identifikimi ose fjalëkalimi është i pasaktë</string>
     <string name="change_password">Ndrysho fjalekalimin</string>
     <string name="use_account_for_manage_premium">Krijoni një llogari për të menaxhuar llogarinë tuaj premium</string>
     <string name="current_device">Pajisja e përdorur aktualisht</string>
-    <string name="import_old_purchase">Aktivizoni blerjen e vjetër</string>
     <string name="acc_can_no_buy_premium">Llogaria juaj nuk mund të blejë premium. Duhet të kontaktoni personin që ju ka dhënë këtë llogari.</string>
     <string name="select_preset">Zgjidhni një paracaktim</string>
     <string name="use_cyclic_category_navigation">Aktivizo navigimin ciklik midis kategorive</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">Certifikata SSL (HTTPS) është e pavlefshme</string>
     <string name="verify_net_before_update">Verifikoni disponueshmërinë e rrjetit përpara se të përditësoni të dhënat nga ofruesit</string>
     <string name="timezone">Zona kohore</string>
+    <string name="error_all_device_slots_used">Nuk mund të aktivizohet pajisja aktuale, pasi të gjitha slotet premium janë të zëna. Blini më shumë lojëra elektronike ose hiqni pajisjet që nuk përdoren më.</string>
+    <string name="contact_support_for_more_options">Kontaktoni me mbështetjen e aplikacionit për më shumë opsione</string>
+    <string name="exit_on_back_press">Sigurimi që aplikacioni të shkarkohet nga memoria, kur shtypet butoni prapa</string>
+    <string name="auto_delete_backup_after_restore">Fshini të dhënat rezervë menjëherë pas rivendosjes (lejo rikthimin vetëm një herë)</string>
+    <string name="applies_to_category_of_item">Zbatohet vetëm për kategorinë e elementit</string>
+    <string name="applies_to_every_category">Zbatohet për çdo kategori, të gjithë elementët e bashkuar</string>
+    <string name="group_categories_by_country">Aktivizo kategoritë e palosshme, duke i grupuar ato sipas kategorisë virtuale, duke përfaqësuar shtetin</string>
     </resources>

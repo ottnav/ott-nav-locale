@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Videoni ishga tushirishdan oldin ma\'lumotni ko\'rsating</string>
     <string name="premium_note_dev">Premiumga obuna bo\'lish ilovani yaxshilash va qo\'llab-quvvatlashga yordam beradi</string>
     <string name="disable_expire_data">Yaroqlilik muddatini ko\'rsatmang</string>
-    <string name="restore_purchases">Xaridlarni tiklash (Muammolarni bartaraf etish)</string>
     <string name="future_show_sheet_autoswitch_wl">Kanal jonli efirda bo\'lganda unga avtomatik o\'tish</string>
     <string name="reuse_cache_for_quick_start">Ilovani oldingi ishga tushirilgandan tez boshlash uchun keshdan qayta foydalaning (ba\'zi provayderlar uchun noto\'g\'ri ishlashi mumkin)</string>
     <string name="use_spacing_between_elem">Elementlar orasidagi masofadan foydalaning</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Kirish</string>
     <string name="btn_register">Ro\'yxatdan o\'tish</string>
     <string name="add_device">Qurilma qo\'shing</string>
-    <string name="claim_purchase">Xaridni talab qiling</string>
     <string name="text_is_case_sensitive">Matn katta-kichik harflarga sezgir</string>
     <string name="password_does_not_match">Parol mos emas</string>
     <string name="login_or_password_incorrect">Login yoki parol noto\'g\'ri</string>
     <string name="change_password">Kalit so\'zni o\'zgartirish</string>
     <string name="use_account_for_manage_premium">Premium hisobingizni boshqarish uchun hisob yarating</string>
     <string name="current_device">Hozirda ishlatilayotgan qurilma</string>
-    <string name="import_old_purchase">Eski xaridni faollashtiring</string>
     <string name="acc_can_no_buy_premium">Hisobingiz premium xarid qila olmaydi. Ushbu hisobni sizga bergan shaxs bilan bog\'lanishingiz kerak.</string>
     <string name="select_preset">Oldindan sozlashni tanlang</string>
     <string name="use_cyclic_category_navigation">Kategoriyalar orasidagi tsiklik navigatsiyani yoqing</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) sertifikati yaroqsiz</string>
     <string name="verify_net_before_update">Provayderlardan ma\'lumotlarni yangilashdan oldin tarmoq mavjudligini tekshiring</string>
     <string name="timezone">Vaqt mintaqasi</string>
+    <string name="error_all_device_slots_used">Joriy qurilmani faollashtirib bo\'lmaydi, chunki barcha premium slotlar band. Ko\'proq uyalar sotib oling yoki foydalanilmayotgan qurilmalarni olib tashlang.</string>
+    <string name="contact_support_for_more_options">Qo‘shimcha imkoniyatlar uchun ilovani qo‘llab-quvvatlash xizmatiga murojaat qiling</string>
+    <string name="exit_on_back_press">Orqaga tugmasi bosilganda ilova xotiradan olib tashlanishini ta\'minlash</string>
+    <string name="auto_delete_backup_after_restore">Qayta tiklashdan so\'ng darhol zaxiralangan ma\'lumotlarni o\'chiring (faqat bir marta tiklashga ruxsat bering)</string>
+    <string name="applies_to_category_of_item">Faqat element toifasiga tegishli</string>
+    <string name="applies_to_every_category">Har bir toifaga, birlashtirilgan barcha elementlarga tegishli</string>
+    <string name="group_categories_by_country">Katlamali toifalarni yoqish, ularni virtual toifalar boʻyicha guruhlash, mamlakatni ifodalash</string>
     </resources>

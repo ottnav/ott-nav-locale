@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">แสดงข้อมูลก่อนเปิดตัววิดีโอ</string>
     <string name="premium_note_dev">การสมัครสมาชิกพรีเมี่ยมช่วยปรับปรุงและสนับสนุนแอพ</string>
     <string name="disable_expire_data">ไม่แสดงสถานะการหมดอายุ</string>
-    <string name="restore_purchases">กู้คืนการซื้อ (แก้ไขปัญหา)</string>
     <string name="future_show_sheet_autoswitch_wl">สลับไปที่ช่องโดยอัตโนมัติเมื่อจะมีการถ่ายทอดสด</string>
     <string name="reuse_cache_for_quick_start">ใช้แคชซ้ำเพื่อเริ่มแอปอย่างรวดเร็วจากการเปิดตัวครั้งก่อน (อาจทำงานไม่ถูกต้องสำหรับผู้ให้บริการบางราย)</string>
     <string name="use_spacing_between_elem">ใช้ระยะห่างระหว่างองค์ประกอบ</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">เข้าสู่ระบบ</string>
     <string name="btn_register">ลงชื่อ</string>
     <string name="add_device">เพิ่มอุปกรณ์</string>
-    <string name="claim_purchase">เรียกร้องซื้อ</string>
     <string name="text_is_case_sensitive">ข้อความคำนึงถึงตัวพิมพ์เล็กและใหญ่</string>
     <string name="password_does_not_match">รหัสผ่านไม่ถูกต้อง</string>
     <string name="login_or_password_incorrect">เข้าสู่ระบบหรือรหัสผ่านไม่ถูกต้อง</string>
     <string name="change_password">เปลี่ยนรหัสผ่าน</string>
     <string name="use_account_for_manage_premium">สร้างบัญชีเพื่อจัดการบัญชีพรีเมี่ยมของคุณ</string>
     <string name="current_device">อุปกรณ์ที่ใช้อยู่ในปัจจุบัน</string>
-    <string name="import_old_purchase">เปิดใช้งานการซื้อเก่า</string>
     <string name="acc_can_no_buy_premium">บัญชีของคุณไม่สามารถซื้อพรีเมี่ยมได้ คุณควรติดต่อบุคคลที่ให้บัญชีนี้กับคุณ</string>
     <string name="select_preset">เลือกค่าที่ตั้งไว้ล่วงหน้า</string>
     <string name="use_cyclic_category_navigation">เปิดใช้งานการนำทางแบบวนรอบระหว่างหมวดหมู่</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">ใบรับรอง SSL (HTTPS) ไม่ถูกต้อง</string>
     <string name="verify_net_before_update">ตรวจสอบความพร้อมใช้งานของเครือข่ายก่อนอัปเดตข้อมูลจากผู้ให้บริการ</string>
     <string name="timezone">เขตเวลา</string>
+    <string name="error_all_device_slots_used">ไม่สามารถเปิดใช้งานอุปกรณ์ปัจจุบันได้ เนื่องจากช่องพรีเมียมเต็มแล้ว ซื้อช่องเพิ่มหรือถอดอุปกรณ์ที่ไม่ได้ใช้อีกต่อไป</string>
+    <string name="contact_support_for_more_options">ติดต่อฝ่ายสนับสนุนแอปสำหรับตัวเลือกเพิ่มเติม</string>
+    <string name="exit_on_back_press">ตรวจสอบให้แน่ใจว่าแอพไม่ได้โหลดจากหน่วยความจำเมื่อกดปุ่มย้อนกลับ</string>
+    <string name="auto_delete_backup_after_restore">ลบข้อมูลสำรองทันทีหลังจากกู้คืน (อนุญาตให้กู้คืนเพียงครั้งเดียวเท่านั้น)</string>
+    <string name="applies_to_category_of_item">ใช้กับหมวดหมู่ขององค์ประกอบเท่านั้น</string>
+    <string name="applies_to_every_category">ใช้กับทุกหมวดหมู่ ทุกองค์ประกอบที่เข้าร่วม</string>
+    <string name="group_categories_by_country">เปิดใช้งานหมวดหมู่การพับ โดยจัดกลุ่มตามหมวดหมู่เสมือนจริง ซึ่งเป็นตัวแทนของประเทศ</string>
     </resources>

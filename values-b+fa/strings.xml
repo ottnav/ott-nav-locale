@@ -572,7 +572,6 @@
     <string name="show_info_before_vod">قبل از راه اندازی اطلاعات ، اطلاعات را نشان دهید</string>
     <string name="premium_note_dev">عضویت در حق بیمه به بهبود و پشتیبانی برنامه کمک می کند</string>
     <string name="disable_expire_data">وضعیت انقضا نشان داده نشود</string>
-    <string name="restore_purchases">بازگرداندن خریدها (عیب یابی)</string>
     <string name="future_show_sheet_autoswitch_wl">در صورت فعال بودن کانال به طور خودکار به کانال خود بروید</string>
     <string name="reuse_cache_for_quick_start">استفاده مجدد از حافظه پنهان برای شروع برنامه سریع از راه اندازی قبلی (می تواند برای برخی از ارائه دهندگان به اشتباه کار کند)</string>
     <string name="use_spacing_between_elem">از فاصله بین عناصر استفاده کنید</string>
@@ -674,14 +673,12 @@
     <string name="btn_login">ﻥﺪﺷ ﺩﺭﺍﻭ</string>
     <string name="btn_register">ﻡﺎﻧ ﺖﺒﺛ</string>
     <string name="add_device">ﺪﯿﻨﮐ ﻪﻓﺎﺿﺍ ﻩﺎﮕﺘﺳﺩ ﮏﯾ</string>
-    <string name="claim_purchase">ﺪﯿﻨﮐ ﺪﯾﺮﺧ ﯼﺎﻋﺩﺍ</string>
     <string name="text_is_case_sensitive">ﺖﺳﺍ ﺱﺎﺴﺣ ﮏﭼﻮﮐ ﻭ ﮒﺭﺰﺑ ﻑﻭﺮﺣ ﻪﺑ ﻦﺘﻣ</string>
     <string name="password_does_not_match">ﺩﺭﺍﺪﻧ ﺖﻘﺑﺎﻄﻣ ﺭﻮﺒﻋ ﺰﻣﺭ</string>
     <string name="login_or_password_incorrect">ورود یا رمز عبور نادرست است</string>
     <string name="change_password">رمز عبور را تغییر دهید</string>
     <string name="use_account_for_manage_premium">ﺪﯿﻨﮐ ﺩﺎﺠﯾﺍ ﺩﻮﺧ ﻡﻮﯿﻤﯾﺮﭘ ﺏﺎﺴﺣ ﺖﯾﺮﯾﺪﻣ ﯼﺍﺮﺑ ﯼﺮﺑﺭﺎﮐ ﺏﺎﺴﺣ ﮏﯾ</string>
     <string name="current_device">دستگاهی که در حال حاضر استفاده می شود</string>
-    <string name="import_old_purchase">ﺪﯿﻨﮐ ﻝﺎﻌﻓ ﺍﺭ ﯽﻤﯾﺪﻗ ﺪﯾﺮﺧ</string>
     <string name="acc_can_no_buy_premium">.ﺪﯾﺮﯿﮕﺑ ﺱﺎﻤﺗ ﺖﺳﺍ ﻩﺩﺍﺩ ﺎﻤﺷ ﻪﺑ ﺍﺭ ﺏﺎﺴﺣ ﻦﯾﺍ ﻪﮐ ﯽﺼﺨﺷ ﺎﺑ ﺪﯾﺎﺑ ﺎﻤﺷ .ﺩﺮﺨﺑ ﻪﻤﯿﺑ ﻖﺣ ﺪﻧﺍﻮﺗ ﯽﻤﻧ ﺎﻤﺷ ﺏﺎﺴﺣ</string>
     <string name="select_preset">ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺍﺭ ﻢﯿﻈﻨﺗ ﺶﯿﭘ ﮏﯾ</string>
     <string name="use_cyclic_category_navigation">ﺪﯿﻨﮐ ﻝﺎﻌﻓ ﺍﺭ ﺎﻫ ﻪﺘﺳﺩ ﻦﯿﺑ ﯼﺍ ﻪﺧﺮﭼ ﺶﯾﺎﻤﯿﭘ</string>
@@ -736,4 +733,11 @@
     <string name="ssl_certificate_issue_detected">ﺖﺳﺍ ﺮﺒﺘﻌﻣﺎﻧ SSL (HTTPS) ﯽﻫﺍﻮﮔ</string>
     <string name="verify_net_before_update">ﺪﯿﻨﮐ ﺪﯿﯾﺄﺗ ﺍﺭ ﻪﮑﺒﺷ ﻥﺩﻮﺑ ﺱﺮﺘﺳﺩ ﺭﺩ ،ﻥﺎﮔﺪﻨﻫﺩu200cﻪﺋﺍﺭﺍ ﺯﺍ ﺎﻫu200cﻩﺩﺍﺩ ﯽﻧﺎﺳﺭﺯﻭﺭu200cﻪﺑ ﺯﺍ ﻞﺒﻗ</string>
     <string name="timezone">ﯽﻧﺎﻣﺯ ﻪﻘﻄﻨﻣ</string>
+    <string name="error_all_device_slots_used">.ﺪﯿﻨﮐ ﻑﺬﺣ ﺪﻧﻮﺷu200cﯽﻤﻧ ﻩﺩﺎﻔﺘﺳﺍ ﺮﮕﯾﺩ ﻪﮐ ﺍﺭ ﯽﯾﺎﻫu200cﻩﺎﮕﺘﺳﺩ ﺎﯾ ﺪﯾﺮﺨﺑ ﯼﺮﺘﺸﯿﺑ ﯼﺎﻫu200cﺕﻼ﻿ﺳﺍ .ﺪﻧﺍu200cﻩﺪﺷ ﻝﺎﻐﺷﺍ ﻡﻮﯿﻤﯾﺮﭘ ﯼﺎﻫu200cﺕﻼ﻿ﺳﺍ ﻪﻤﻫ ﺍﺮﯾﺯ ،ﺩﺮﮐ ﻝﺎﻌﻓ ﺍﺭ ﯽﻠﻌﻓ ﻩﺎﮕﺘﺳﺩ ﻥﺍﻮﺗu200cﯽﻤﻧ</string>
+    <string name="contact_support_for_more_options">ﺪﯾﺮﯿﮕﺑ ﺱﺎﻤﺗ ﻪﻣﺎﻧﺮﺑ ﯽﻧﺎﺒﯿﺘﺸﭘ ﺎﺑ ﺮﺘﺸﯿﺑ ﯼﺎﻫ ﻪﻨﯾﺰﮔ ﯼﺍﺮﺑ</string>
+    <string name="exit_on_back_press">ﺩﻮﺷ ﯽﻣ ﯼﺮﯿﮔﺭﺎﺑ ﻪﻈﻓﺎﺣ ﺯﺍ ﻪﻣﺎﻧﺮﺑ ﻪﮐ ﺪﯿﻨﮐ ﻞﺻﺎﺣ ﻥﺎﻨﯿﻤﻃﺍ ،ﺖﺸﮔﺯﺎﺑ ﻪﻤﮐﺩ ﻥﺩﺍﺩ ﺭﺎﺸﻓ ﺎﺑ</string>
+    <string name="auto_delete_backup_after_restore">(ﺪﯿﻫﺪﺑ ﺍﺭ ﯽﺑﺎﯾﺯﺎﺑ ﻩﺯﺎﺟﺍ ﺭﺎﺑ ﮏﯾ ﻂﻘﻓ) ﺪﯿﻨﮐ ﻑﺬﺣ ﺍﺭ ﻥﺎﺒﯿﺘﺸﭘ ﺕﺎﻋﻼ﻿ﻃﺍ ﯽﺑﺎﯾﺯﺎﺑ ﺯﺍ ﺲﭘ ﻪﻠﺻﺎﻓﻼ﻿ﺑ</string>
+    <string name="applies_to_category_of_item">ﺩﻮﺷ ﯽﻣ ﻝﺎﻤﻋﺍ ﺮﺼﻨﻋ ﻪﺘﺳﺩ ﯼﺍﺮﺑ ﻂﻘﻓ</string>
+    <string name="applies_to_every_category">ﺪﻧﺍ ﻩﺪﺷ ﻖﺤﻠﻣ ﺮﺻﺎﻨﻋ ﻪﻤﻫ ،ﺩﻮﺷ ﯽﻣ ﻝﺎﻤﻋﺍ ﻪﺘﺳﺩ ﺮﻫ ﯼﺍﺮﺑ</string>
+    <string name="group_categories_by_country">ﺭﻮﺸﮐ ﺯﺍ ﯽﮔﺪﻨﯾﺎﻤﻧ ﻪﺑ ،ﺪﯿﻨﮐ ﯼﺪﻨﺑu200cﻩﻭﺮﮔ ﯼﺯﺎﺠﻣ ﯼﺪﻨﺑu200cﻪﺘﺳﺩ ﺱﺎﺳﺍ ﺮﺑ ﺍﺭ ﺎﻬﻧﺁ ،ﺪﯿﻨﮐ ﻝﺎﻌﻓ ﺍﺭ ﻮﺷﺎﺗ ﯼﺎﻫu200cﻪﺘﺳﺩ</string>
     </resources>

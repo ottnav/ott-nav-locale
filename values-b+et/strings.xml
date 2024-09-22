@@ -570,7 +570,6 @@
     <string name="show_info_before_vod">Enne video käivitamist kuvage teave</string>
     <string name="premium_note_dev">Lisatasu tellimine aitab rakendust täiustada ja toetada</string>
     <string name="disable_expire_data">Ära näita aegumiskuupäeva</string>
-    <string name="restore_purchases">Taasta ostud (tõrkeotsing)</string>
     <string name="future_show_sheet_autoswitch_wl">Lülituge automaatselt kanalile, kui see otseülekannet näeb</string>
     <string name="reuse_cache_for_quick_start">Vahemälu taaskasutamine rakenduse kiireks käivitamiseks eelmisest käivitusest (võib mõne pakkuja puhul valesti töötada)</string>
     <string name="use_spacing_between_elem">Kasutage elementide vahelist tühikut</string>
@@ -672,14 +671,12 @@
     <string name="btn_login">Logi sisse</string>
     <string name="btn_register">Registreeri</string>
     <string name="add_device">Lisage seade</string>
-    <string name="claim_purchase">Taotlege ostu</string>
     <string name="text_is_case_sensitive">Tekst on tõstutundlik</string>
     <string name="password_does_not_match">Salasõna ei klapi</string>
     <string name="login_or_password_incorrect">Sisselogimine või parool on vale</string>
     <string name="change_password">Muuda salasõna</string>
     <string name="use_account_for_manage_premium">Lisatasu konto haldamiseks looge konto</string>
     <string name="current_device">Hetkel kasutusel olev seade</string>
-    <string name="import_old_purchase">Aktiveerige vana ost</string>
     <string name="acc_can_no_buy_premium">Teie konto ei saa lisatasu osta. Peaksite võtma ühendust isikuga, kes teile selle konto andis.</string>
     <string name="select_preset">Valige eelseadistus</string>
     <string name="use_cyclic_category_navigation">Lubage kategooriate vahel tsükliline navigeerimine</string>
@@ -734,4 +731,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) sertifikaat on kehtetu</string>
     <string name="verify_net_before_update">Enne teenusepakkujate andmete värskendamist kontrollige võrgu saadavust</string>
     <string name="timezone">Ajavöönd</string>
+    <string name="error_all_device_slots_used">Praegust seadet ei saa aktiveerida, kuna kõik esmaklassilised pesad on hõivatud. Ostke rohkem pesasid või eemaldage seadmed, mida enam ei kasutata.</string>
+    <string name="contact_support_for_more_options">Lisavõimaluste saamiseks võtke ühendust rakenduse toega</string>
+    <string name="exit_on_back_press">Tagada, et rakendus laaditakse mälust maha, kui vajutate tagasi nuppu</string>
+    <string name="auto_delete_backup_after_restore">Kustutage varukoopiaandmed kohe pärast taastamist (lubage taastada ainult üks kord)</string>
+    <string name="applies_to_category_of_item">Kehtib ainult elemendi kategooria kohta</string>
+    <string name="applies_to_every_category">Kehtib iga kategooria kohta, kõik elemendid on ühendatud</string>
+    <string name="group_categories_by_country">Luba kategooriate voltimine, rühmitamine virtuaalse kategooria järgi, mis esindab riiki</string>
     </resources>

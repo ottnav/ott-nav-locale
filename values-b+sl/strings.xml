@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Prikaži informacije pred zagonom videa</string>
     <string name="premium_note_dev">Naročnina na Premium pomaga izboljšati in podpirati aplikacijo</string>
     <string name="disable_expire_data">Ne prikaži statusa poteka</string>
-    <string name="restore_purchases">Obnovi nakupe (odpravljanje težav)</string>
     <string name="future_show_sheet_autoswitch_wl">Samodejno preklopi na kanal, ko bo v živo</string>
     <string name="reuse_cache_for_quick_start">Ponovno uporabite predpomnilnik za hiter zagon aplikacije od prejšnjega zagona (pri nekaterih ponudnikih lahko deluje nepravilno)</string>
     <string name="use_spacing_between_elem">Uporabite razmik med elementi</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Vpiši se</string>
     <string name="btn_register">Prijavite se</string>
     <string name="add_device">Dodajte napravo</string>
-    <string name="claim_purchase">Zahtevajte nakup</string>
     <string name="text_is_case_sensitive">Besedilo razlikuje med velikimi in malimi črkami</string>
     <string name="password_does_not_match">Geslo se ne ujema</string>
     <string name="login_or_password_incorrect">Prijava ali geslo nista pravilna</string>
     <string name="change_password">Spremeni geslo</string>
     <string name="use_account_for_manage_premium">Ustvarite račun za upravljanje svojega premium računa</string>
     <string name="current_device">Trenutno uporabljena naprava</string>
-    <string name="import_old_purchase">Aktiviraj stari nakup</string>
     <string name="acc_can_no_buy_premium">Vaš račun ne more kupiti premium. Obrnite se na osebo, ki vam je dala ta račun.</string>
     <string name="select_preset">Izberite prednastavitev</string>
     <string name="use_cyclic_category_navigation">Omogoči ciklično krmarjenje med kategorijami</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">Potrdilo SSL (HTTPS) ni veljavno</string>
     <string name="verify_net_before_update">Preverite razpoložljivost omrežja, preden posodobite podatke ponudnikov</string>
     <string name="timezone">Časovni pas</string>
+    <string name="error_all_device_slots_used">Trenutne naprave ni mogoče aktivirati, ker so zasedena vsa premium mesta. Kupite več rež ali odstranite naprave, ki jih ne uporabljate več.</string>
+    <string name="contact_support_for_more_options">Za več možnosti se obrnite na podporo za aplikacijo</string>
+    <string name="exit_on_back_press">Zagotavljanje, da se aplikacija odstrani iz pomnilnika, ko pritisnete gumb za nazaj</string>
+    <string name="auto_delete_backup_after_restore">Izbriši varnostno kopijo podatkov takoj po obnovitvi (obnovitev je dovoljena samo enkrat)</string>
+    <string name="applies_to_category_of_item">Velja samo za kategorijo elementa</string>
+    <string name="applies_to_every_category">Velja za vsako kategorijo, vse elemente združene</string>
+    <string name="group_categories_by_country">Omogoči zložljive kategorije, jih združi po virtualni kategoriji, ki predstavlja državo</string>
     </resources>

@@ -524,7 +524,6 @@
     <string name="show_info_before_vod">Videoya başlamazdan əvvəl məlumatı göstərin</string>
     <string name="premium_note_dev">Premiuma abunə olmaq proqramı təkmilləşdirməyə və dəstəkləməyə kömək edir</string>
     <string name="disable_expire_data">İstifadə müddətini göstərməyin</string>
-    <string name="restore_purchases">Satınalmaları bərpa edin (Problemləri həll edin)</string>
     <string name="future_show_sheet_autoswitch_wl">Canlı olacaq zaman kanala avtomatik keçin</string>
     <string name="reuse_cache_for_quick_start">Əvvəlki işə salındıqdan sonra tətbiqin sürətli başlaması üçün keşi təkrar istifadə edin (bəzi provayderlər üçün səhv işləyə bilər)</string>
     <string name="use_spacing_between_elem">Elementlər arasında boşluqdan istifadə edin</string>
@@ -626,14 +625,12 @@
     <string name="btn_login">Daxil ol</string>
     <string name="btn_register">Qeydiyyatdan keçmək</string>
     <string name="add_device">Cihaz əlavə edin</string>
-    <string name="claim_purchase">Satınalma tələb edin</string>
     <string name="text_is_case_sensitive">Mətn hərflərə həssasdır</string>
     <string name="password_does_not_match">Şifrə uyğun gəlmir</string>
     <string name="login_or_password_incorrect">Giriş və ya parol səhvdir</string>
     <string name="change_password">Parolu dəyişdirin</string>
     <string name="use_account_for_manage_premium">Premium hesabınızı idarə etmək üçün hesab yaradın</string>
     <string name="current_device">Hal-hazırda istifadə olunan cihaz</string>
-    <string name="import_old_purchase">Köhnə alışı aktivləşdirin</string>
     <string name="acc_can_no_buy_premium">Hesabınız mükafat ala bilməz. Bu hesabı sizə verən şəxslə əlaqə saxlamalısınız.</string>
     <string name="select_preset">Əvvəlcədən seçin</string>
     <string name="use_cyclic_category_navigation">Kateqoriyalar arasında tsiklik naviqasiyanı aktivləşdirin</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) sertifikatı etibarsızdır</string>
     <string name="verify_net_before_update">Provayderlərin məlumatlarını yeniləməzdən əvvəl şəbəkənin mövcudluğunu yoxlayın</string>
     <string name="timezone">Saat qurşağı</string>
+    <string name="error_all_device_slots_used">Cari cihazı aktivləşdirmək mümkün deyil, çünki bütün premium yuvalar doludur. Daha çox slot alın və ya artıq istifadə olunmayan cihazları çıxarın.</string>
+    <string name="contact_support_for_more_options">Daha çox seçim üçün proqram dəstəyi ilə əlaqə saxlayın</string>
+    <string name="exit_on_back_press">Geri düyməsinə basıldıqda proqramın yaddaşdan silinməsini təmin etmək</string>
+    <string name="auto_delete_backup_after_restore">Bərpa edildikdən dərhal sonra ehtiyat nüsxəsini silin (yalnız bir dəfə bərpa etməyə icazə verin)</string>
+    <string name="applies_to_category_of_item">Yalnız elementin kateqoriyasına aiddir</string>
+    <string name="applies_to_every_category">Hər bir kateqoriyaya aiddir, bütün elementlər birləşdirilir</string>
+    <string name="group_categories_by_country">Qatlanan kateqoriyaları aktivləşdirin, onları virtual kateqoriyaya görə qruplaşdırın, ölkəni təmsil edin</string>
     </resources>

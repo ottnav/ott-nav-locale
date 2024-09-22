@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Videoyu başlatmadan önce bilgileri göster</string>
     <string name="premium_note_dev">Premium\'a abone olmak uygulamanın iyileştirilmesine ve desteklenmesine yardımcı olur</string>
     <string name="disable_expire_data">Son kullanma durumunu gösterme</string>
-    <string name="restore_purchases">Satın alımları geri yükle (sorun giderme)</string>
     <string name="future_show_sheet_autoswitch_wl">Canlı yayınlanacağı zaman otomatik olarak kanala geç</string>
     <string name="reuse_cache_for_quick_start">Önceki başlatmadan hızlı uygulama başlatmak için önbelleği yeniden kullan (bazı sağlayıcılar için hatalı çalışabilir)</string>
     <string name="use_spacing_between_elem">Öğeler arasında boşluk kullan</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Giriş yap</string>
     <string name="btn_register">Üye ol</string>
     <string name="add_device">Cihaz ekle</string>
-    <string name="claim_purchase">Satın alma talebinde bulunun</string>
     <string name="text_is_case_sensitive">Metin büyük/küçük harfe duyarlıdır</string>
     <string name="password_does_not_match">Parola eşleşmiyor</string>
     <string name="login_or_password_incorrect">Giriş veya şifre yanlış</string>
     <string name="change_password">Şifre değiştir</string>
     <string name="use_account_for_manage_premium">Premium hesabınızı yönetmek için bir hesap oluşturun</string>
     <string name="current_device">Şu anda kullanılan cihaz</string>
-    <string name="import_old_purchase">Eski satın almayı etkinleştir</string>
     <string name="acc_can_no_buy_premium">Hesabınız premium satın alamaz. Bu hesabı size veren kişiyle iletişime geçmelisiniz.</string>
     <string name="select_preset">Bir ön ayar seçin</string>
     <string name="use_cyclic_category_navigation">Kategoriler arasında döngüsel gezinmeyi etkinleştir</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) sertifikası geçersiz</string>
     <string name="verify_net_before_update">Sağlayıcılardan gelen verileri güncellemeden önce ağ kullanılabilirliğini doğrulayın</string>
     <string name="timezone">Saat dilimi</string>
+    <string name="error_all_device_slots_used">Tüm premium slotlar dolu olduğundan mevcut cihaz etkinleştirilemiyor. Daha fazla yuva satın alın veya artık kullanılmayan cihazları kaldırın.</string>
+    <string name="contact_support_for_more_options">Daha fazla seçenek için uygulama desteğiyle iletişime geçin</string>
+    <string name="exit_on_back_press">Geri tuşuna basıldığında uygulamanın hafızadan kaldırılmasının sağlanması</string>
+    <string name="auto_delete_backup_after_restore">Yedekleme verilerini geri yüklemeden hemen sonra silin (geri yüklemeye yalnızca bir kez izin verin)</string>
+    <string name="applies_to_category_of_item">Yalnızca öğenin kategorisi için geçerlidir</string>
+    <string name="applies_to_every_category">Her kategori için geçerlidir, tüm öğeler birleştirilmiştir</string>
+    <string name="group_categories_by_country">Kategorileri katlamayı etkinleştirin, bunları sanal kategoriye göre gruplandırın, ülkeyi temsil edin</string>
     </resources>

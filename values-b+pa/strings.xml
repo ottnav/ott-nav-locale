@@ -570,7 +570,6 @@
     <string name="show_info_before_vod">ਵੀਡੀਓ ਲਾਂਚ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਜਾਣਕਾਰੀ ਦਿਖਾਓ</string>
     <string name="premium_note_dev">ਪ੍ਰੀਮੀਅਮ ਦਾ ਗਾਹਕ ਬਣਨਾ ਐਪ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਅਤੇ ਸਮਰਥਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ</string>
     <string name="disable_expire_data">ਮਿਆਦ ਖਤਮ ਹੋਣ ਦੀ ਸਥਿਤੀ ਨਾ ਦਿਖਾਓ</string>
-    <string name="restore_purchases">ਦੁਬਾਰਾ ਖਰੀਦਦਾਰੀ (ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ)</string>
     <string name="future_show_sheet_autoswitch_wl">ਜਦੋਂ ਇਹ ਲਾਈਵ ਹੋਵੇਗਾ ਤਾਂ ਆਟੋਮੈਟਿਕਲੀ ਚੈਨਲ ਤੇ ਸਵਿਚ ਕਰੋ</string>
     <string name="reuse_cache_for_quick_start">ਪਿਛਲੇ ਐਪਲੀਕੇਸ਼ ਤੋਂ ਤੁਰੰਤ ਐਪ ਅਰੰਭ ਕਰਨ ਲਈ ਕੈਚੇ ਦਾ ਦੁਬਾਰਾ ਉਪਯੋਗ ਕਰੋ (ਕੁਝ ਪ੍ਰਦਾਤਾਵਾਂ ਲਈ ਗਲਤ ਤਰੀਕੇ ਨਾਲ ਕੰਮ ਕਰ ਸਕਦਾ ਹੈ)</string>
     <string name="use_spacing_between_elem">ਤੱਤ ਦੇ ਵਿਚਕਾਰ ਦੂਰੀ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
@@ -672,14 +671,12 @@
     <string name="btn_login">ਲਾਗਿਨ</string>
     <string name="btn_register">ਸਾਇਨ ਅਪ</string>
     <string name="add_device">ਇੱਕ ਡਿਵਾਈਸ ਸ਼ਾਮਲ ਕਰੋ</string>
-    <string name="claim_purchase">ਇੱਕ ਖਰੀਦ ਦਾ ਦਾਅਵਾ ਕਰੋ</string>
     <string name="text_is_case_sensitive">ਟੈਕਸਟ ਕੇਸ-ਸੰਵੇਦਨਸ਼ੀਲ ਹੈ</string>
     <string name="password_does_not_match">ਪਾਸਵਰਡ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ</string>
     <string name="login_or_password_incorrect">ਲਾਗਇਨ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ</string>
     <string name="change_password">ਪਾਸਵਰਡ ਬਦਲੋ</string>
     <string name="use_account_for_manage_premium">ਆਪਣੇ ਪ੍ਰੀਮੀਅਮ ਖਾਤੇ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਲਈ ਇੱਕ ਖਾਤਾ ਬਣਾਓ</string>
     <string name="current_device">ਵਰਤਮਾਨ ਵਿੱਚ ਵਰਤਿਆ ਜੰਤਰ</string>
-    <string name="import_old_purchase">ਪੁਰਾਣੀ ਖਰੀਦ ਨੂੰ ਸਰਗਰਮ ਕਰੋ</string>
     <string name="acc_can_no_buy_premium">ਤੁਹਾਡਾ ਖਾਤਾ ਪ੍ਰੀਮੀਅਮ ਨਹੀਂ ਖਰੀਦ ਸਕਦਾ। ਤੁਹਾਨੂੰ ਉਸ ਵਿਅਕਤੀ ਨਾਲ ਸੰਪਰਕ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ਜਿਸਨੇ ਤੁਹਾਨੂੰ ਇਹ ਖਾਤਾ ਦਿੱਤਾ ਹੈ।</string>
     <string name="select_preset">ਇੱਕ ਪ੍ਰੀਸੈਟ ਚੁਣੋ</string>
     <string name="use_cyclic_category_navigation">ਸ਼੍ਰੇਣੀਆਂ ਵਿਚਕਾਰ ਚੱਕਰੀ ਨੈਵੀਗੇਸ਼ਨ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
@@ -734,4 +731,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) ਸਰਟੀਫਿਕੇਟ ਅਵੈਧ ਹੈ</string>
     <string name="verify_net_before_update">ਪ੍ਰਦਾਤਾਵਾਂ ਤੋਂ ਡਾਟਾ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਨੈੱਟਵਰਕ ਦੀ ਉਪਲਬਧਤਾ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
     <string name="timezone">ਸਮਾਂ ਖੇਤਰ</string>
+    <string name="error_all_device_slots_used">ਮੌਜੂਦਾ ਡਿਵਾਈਸ ਨੂੰ ਐਕਟੀਵੇਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਸਾਰੇ ਪ੍ਰੀਮੀਅਮ ਸਲੋਟਾਂ \'ਤੇ ਕਬਜ਼ਾ ਕਰ ਲਿਆ ਗਿਆ ਹੈ। ਹੋਰ ਸਲਾਟ ਖਰੀਦੋ, ਜਾਂ ਉਹਨਾਂ ਡਿਵਾਈਸਾਂ ਨੂੰ ਹਟਾਓ ਜੋ ਹੁਣ ਵਰਤੀਆਂ ਨਹੀਂ ਜਾਂਦੀਆਂ ਹਨ।</string>
+    <string name="contact_support_for_more_options">ਹੋਰ ਵਿਕਲਪਾਂ ਲਈ ਐਪ ਸਹਾਇਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</string>
+    <string name="exit_on_back_press">ਇਹ ਯਕੀਨੀ ਬਣਾਉਣਾ ਕਿ ਐਪ ਨੂੰ ਮੈਮੋਰੀ ਤੋਂ ਅਨਲੋਡ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਦੋਂ ਬੈਕ ਬਟਨ ਦਬਾਇਆ ਜਾਂਦਾ ਹੈ</string>
+    <string name="auto_delete_backup_after_restore">ਰੀਸਟੋਰ ਕਰਨ ਤੋਂ ਤੁਰੰਤ ਬਾਅਦ ਬੈਕਅੱਪ ਡਾਟਾ ਮਿਟਾਓ (ਸਿਰਫ ਇੱਕ ਵਾਰ ਰੀਸਟੋਰ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ)</string>
+    <string name="applies_to_category_of_item">ਸਿਰਫ਼ ਤੱਤ ਦੀ ਸ਼੍ਰੇਣੀ \'ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ</string>
+    <string name="applies_to_every_category">ਹਰ ਸ਼੍ਰੇਣੀ \'ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ, ਸਾਰੇ ਤੱਤ ਸ਼ਾਮਲ ਹੋਏ</string>
+    <string name="group_categories_by_country">ਦੇਸ਼ ਦੀ ਨੁਮਾਇੰਦਗੀ ਕਰਦੇ ਹੋਏ, ਫੋਲਡਿੰਗ ਸ਼੍ਰੇਣੀਆਂ ਨੂੰ ਵਰਚੁਅਲ ਸ਼੍ਰੇਣੀ ਦੁਆਰਾ ਸਮੂਹੀਕਰਨ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
     </resources>

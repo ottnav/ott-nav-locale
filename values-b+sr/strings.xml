@@ -565,7 +565,6 @@
     <string name="show_info_before_vod">Прикажи информације пре него што покренете видео</string>
     <string name="premium_note_dev">Претплата на премиум помаже побољшати и подржати апликацију</string>
     <string name="disable_expire_data">Не приказуј статус истека</string>
-    <string name="restore_purchases">Вратите куповине (решавање проблема)</string>
     <string name="future_show_sheet_autoswitch_wl">Аутоматски пребаците на канал када ће бити уживо</string>
     <string name="reuse_cache_for_quick_start">Поново употребите кеш меморију за брзи старт апликације од претходног покретања (код неких добављача може радити погрешно)</string>
     <string name="use_spacing_between_elem">Користите размак између елемената</string>
@@ -667,14 +666,12 @@
     <string name="btn_login">Пријавите се</string>
     <string name="btn_register">Пријави се</string>
     <string name="add_device">Додавање уређаја</string>
-    <string name="claim_purchase">Захтевајте куповину</string>
     <string name="text_is_case_sensitive">Текст је осетљив на велика и мала слова</string>
     <string name="password_does_not_match">Лозинка не одговара</string>
     <string name="login_or_password_incorrect">Пријава или лозинка су нетачни</string>
     <string name="change_password">Промени лозинку</string>
     <string name="use_account_for_manage_premium">Направите налог да бисте управљали својим премиум налогом</string>
     <string name="current_device">Уређај који се тренутно користи</string>
-    <string name="import_old_purchase">Активирајте стару куповину</string>
     <string name="acc_can_no_buy_premium">Ваш налог не може да купи премиум. Требало би да контактирате особу која вам је дала овај налог.</string>
     <string name="select_preset">Изаберите унапред подешено</string>
     <string name="use_cyclic_category_navigation">Омогућите цикличну навигацију између категорија</string>
@@ -729,4 +726,11 @@
     <string name="ssl_certificate_issue_detected">ССЛ (ХТТПС) сертификат је неважећи</string>
     <string name="verify_net_before_update">Проверите доступност мреже пре ажурирања података од провајдера</string>
     <string name="timezone">Временска зона</string>
+    <string name="error_all_device_slots_used">Не могу да активирам тренутни уређај, пошто су сви премиум слотови заузети. Купите више слотова или уклоните уређаје који се више не користе.</string>
+    <string name="contact_support_for_more_options">Контактирајте подршку апликације за више опција</string>
+    <string name="exit_on_back_press">Обезбеђивање да се апликација учитава из меморије када се притисне дугме за повратак</string>
+    <string name="auto_delete_backup_after_restore">Избришите резервне податке одмах након враћања (дозволите враћање само једном)</string>
+    <string name="applies_to_category_of_item">Односи се само на категорију елемента</string>
+    <string name="applies_to_every_category">Важи за сваку категорију, све спојене елементе</string>
+    <string name="group_categories_by_country">Омогућите преклапање категорија, груписајући их по виртуелној категорији, представљајући земљу</string>
     </resources>

@@ -576,7 +576,6 @@
     <string name="show_info_before_vod">Parodykite informaciją prieš paleisdami vaizdo įrašą</string>
     <string name="premium_note_dev">Prenumeravę „premium“, galite patobulinti ir palaikyti programą</string>
     <string name="disable_expire_data">Nerodyti galiojimo būsenos</string>
-    <string name="restore_purchases">Atkurkite pirkinius (trikčių šalinimas)</string>
     <string name="future_show_sheet_autoswitch_wl">Automatiškai perjunkite kanalą, kai jis bus tiesiogiai rodomas</string>
     <string name="reuse_cache_for_quick_start">Pakartotinai naudokite talpyklą, kad greitai paleistumėte programą nuo ankstesnio paleidimo (kai kuriems teikėjams ji gali veikti netinkamai)</string>
     <string name="use_spacing_between_elem">Naudokite tarpus tarp elementų</string>
@@ -678,14 +677,12 @@
     <string name="btn_login">Prisijungti</string>
     <string name="btn_register">Registruotis</string>
     <string name="add_device">Pridėkite įrenginį</string>
-    <string name="claim_purchase">Pateikite pretenziją dėl pirkimo</string>
     <string name="text_is_case_sensitive">Tekste skiriamos didžiosios ir mažosios raidės</string>
     <string name="password_does_not_match">Slaptažodžiai nesutampa</string>
     <string name="login_or_password_incorrect">Neteisingas prisijungimo vardas arba slaptažodis</string>
     <string name="change_password">Pakeisti slaptažodį</string>
     <string name="use_account_for_manage_premium">Sukurkite paskyrą, kad galėtumėte valdyti savo „premium“ paskyrą</string>
     <string name="current_device">Šiuo metu naudojamas įrenginys</string>
-    <string name="import_old_purchase">Suaktyvinkite seną pirkinį</string>
     <string name="acc_can_no_buy_premium">Jūsų paskyra negali įsigyti priemokos. Turėtumėte susisiekti su asmeniu, kuris jums suteikė šią paskyrą.</string>
     <string name="select_preset">Pasirinkite išankstinį nustatymą</string>
     <string name="use_cyclic_category_navigation">Įgalinti ciklinį naršymą tarp kategorijų</string>
@@ -740,4 +737,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) sertifikatas netinkamas</string>
     <string name="verify_net_before_update">Prieš atnaujindami duomenis iš teikėjų, patikrinkite tinklo prieinamumą</string>
     <string name="timezone">Laiko juosta</string>
+    <string name="error_all_device_slots_used">Negalima suaktyvinti dabartinio įrenginio, nes visi aukščiausios kokybės lizdai yra užimti. Įsigykite daugiau laiko tarpsnių arba pašalinkite nebenaudojamus įrenginius.</string>
+    <string name="contact_support_for_more_options">Norėdami gauti daugiau parinkčių, susisiekite su programos palaikymo komanda</string>
+    <string name="exit_on_back_press">Užtikrinti, kad programa būtų iškelta iš atminties, kai paspaudžiamas grįžimo mygtukas</string>
+    <string name="auto_delete_backup_after_restore">Ištrinkite atsargines duomenų kopijas iškart po atkūrimo (leisti atkurti tik vieną kartą)</string>
+    <string name="applies_to_category_of_item">Taikoma tik elemento kategorijai</string>
+    <string name="applies_to_every_category">Taikoma kiekvienai kategorijai, visi elementai sujungti</string>
+    <string name="group_categories_by_country">Įgalinti sulankstomas kategorijas, grupuojant jas pagal virtualias kategorijas, atstovaujančias šaliai</string>
     </resources>

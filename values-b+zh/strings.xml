@@ -564,7 +564,6 @@
     <string name="show_info_before_vod">在启动视频之前显示信息</string>
     <string name="premium_note_dev">订阅高级版有助于改进和支持该应用程序</string>
     <string name="disable_expire_data">不显示到期状态</string>
-    <string name="restore_purchases">恢复购买（问题排查）</string>
     <string name="future_show_sheet_autoswitch_wl">直播时自动切换到频道</string>
     <string name="reuse_cache_for_quick_start">重用缓存以从上一次启动快速启动应用程序（对于某些提供商可能无法正常工作）</string>
     <string name="use_spacing_between_elem">在元素之间使用间距</string>
@@ -666,14 +665,12 @@
     <string name="btn_login">登录</string>
     <string name="btn_register">注册</string>
     <string name="add_device">添加设备</string>
-    <string name="claim_purchase">要求购买</string>
     <string name="text_is_case_sensitive">文本区分大小写</string>
     <string name="password_does_not_match">密码不匹配</string>
     <string name="login_or_password_incorrect">登录名或密码不正确</string>
     <string name="change_password">更改密码</string>
     <string name="use_account_for_manage_premium">创建一个帐户来管理您的高级帐户</string>
     <string name="current_device">目前使用的设备</string>
-    <string name="import_old_purchase">激活旧购买</string>
     <string name="acc_can_no_buy_premium">您的帐户无法购买保费。您应该联系向您提供此帐户的人。</string>
     <string name="select_preset">选择一个预设</string>
     <string name="use_cyclic_category_navigation">启用类别之间的循环导航</string>
@@ -728,4 +725,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) 证书无效</string>
     <string name="verify_net_before_update">在更新提供商的数据之前验证网络可用性</string>
     <string name="timezone">时区</string>
+    <string name="error_all_device_slots_used">无法激活当前设备，因为所有高级插槽均已被占用。购买更多插槽，或删除不再使用的设备。</string>
+    <string name="contact_support_for_more_options">联系应用程序支持以获取更多选项</string>
+    <string name="exit_on_back_press">确保按下后退按钮时从内存中卸载应用程序</string>
+    <string name="auto_delete_backup_after_restore">恢复后立即删除备份数据（只允许恢复一次）</string>
+    <string name="applies_to_category_of_item">仅适用于元素的类别</string>
+    <string name="applies_to_every_category">适用于每个类别，所有元素都加入</string>
+    <string name="group_categories_by_country">启用折叠类别，按虚拟类别分组，代表国家/地区</string>
     </resources>

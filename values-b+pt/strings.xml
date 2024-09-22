@@ -571,7 +571,6 @@
     <string name="show_info_before_vod">Mostrar informações antes de lançar o vídeo</string>
     <string name="premium_note_dev">A assinatura do premium ajuda a melhorar e oferecer suporte ao aplicativo</string>
     <string name="disable_expire_data">Não mostrar status de expiração</string>
-    <string name="restore_purchases">Restaurar compras (solucionar problemas)</string>
     <string name="future_show_sheet_autoswitch_wl">Mudar automaticamente para o canal quando estiver ao vivo</string>
     <string name="reuse_cache_for_quick_start">Reutilize o cache para o início rápido do aplicativo a partir do lançamento anterior (pode funcionar incorretamente para alguns provedores)</string>
     <string name="use_spacing_between_elem">Use espaçamento entre os elementos</string>
@@ -673,14 +672,12 @@
     <string name="btn_login">Conecte-se</string>
     <string name="btn_register">Inscrever-se</string>
     <string name="add_device">Adicionar um dispositivo</string>
-    <string name="claim_purchase">Reivindicar uma compra</string>
     <string name="text_is_case_sensitive">O texto diferencia maiúsculas de minúsculas</string>
     <string name="password_does_not_match">Senha não corresponde</string>
     <string name="login_or_password_incorrect">Login ou senha incorretos</string>
     <string name="change_password">Alterar a senha</string>
     <string name="use_account_for_manage_premium">Crie uma conta para gerenciar sua conta premium</string>
     <string name="current_device">Dispositivo usado atualmente</string>
-    <string name="import_old_purchase">Ativar compra antiga</string>
     <string name="acc_can_no_buy_premium">Sua conta não pode comprar premium. Você deve entrar em contato com a pessoa que lhe deu esta conta.</string>
     <string name="select_preset">Selecione uma predefinição</string>
     <string name="use_cyclic_category_navigation">Ativar navegação cíclica entre categorias</string>
@@ -735,4 +732,11 @@
     <string name="ssl_certificate_issue_detected">O certificado SSL (HTTPS) é inválido</string>
     <string name="verify_net_before_update">Verifique a disponibilidade da rede antes de atualizar os dados dos provedores</string>
     <string name="timezone">Fuso horário</string>
+    <string name="error_all_device_slots_used">Não é possível ativar o dispositivo atual, pois todos os slots premium estão ocupados. Compre mais slots ou remova dispositivos que não são mais usados.</string>
+    <string name="contact_support_for_more_options">Entre em contato com o suporte do aplicativo para obter mais opções</string>
+    <string name="exit_on_back_press">Garantir que o aplicativo seja descarregado da memória, quando o botão Voltar for pressionado</string>
+    <string name="auto_delete_backup_after_restore">Exclua os dados de backup imediatamente após a restauração (permitir restauração apenas uma vez)</string>
+    <string name="applies_to_category_of_item">Aplica-se apenas à categoria do elemento</string>
+    <string name="applies_to_every_category">Aplica-se a todas as categorias, todos os elementos unidos</string>
+    <string name="group_categories_by_country">Habilite categorias dobráveis, agrupando-as por categoria virtual, representando o país</string>
     </resources>

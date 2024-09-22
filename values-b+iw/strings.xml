@@ -571,7 +571,6 @@
     <string name="show_info_before_vod">הצג מידע לפני השקת הווידאו</string>
     <string name="premium_note_dev">הרשמה לפרמיה מסייעת בשיפור והתמיכה באפליקציה</string>
     <string name="disable_expire_data">אל תציג סטטוס תפוגה</string>
-    <string name="restore_purchases">שחזר רכישות (פתרון בעיות)</string>
     <string name="future_show_sheet_autoswitch_wl">עבור אוטומטית לערוץ כשהוא יהיה בשידור חי</string>
     <string name="reuse_cache_for_quick_start">שימוש חוזר במטמון להתחלה מהירה של אפליקציה מההשקה הקודמת (יכול לעבוד בצורה לא נכונה עבור ספקים מסוימים)</string>
     <string name="use_spacing_between_elem">השתמש בריווח בין האלמנטים</string>
@@ -673,14 +672,12 @@
     <string name="btn_login">התחברות</string>
     <string name="btn_register">הירשם</string>
     <string name="add_device">הוסף התקן</string>
-    <string name="claim_purchase">תבע רכישה</string>
     <string name="text_is_case_sensitive">תוישיר יולת אוה טסקטה</string>
     <string name="password_does_not_match">המיאתמ אל המסיס</string>
     <string name="login_or_password_incorrect">הכניסה או הסיסמה שגויים</string>
     <string name="change_password">שנה סיסמא</string>
     <string name="use_account_for_manage_premium">ךלש םוימירפה ןובשח לוהינל ןובשח רוצ</string>
     <string name="current_device">מכשיר בשימוש כרגע</string>
-    <string name="import_old_purchase">הנשי השיכר לעפה</string>
     <string name="acc_can_no_buy_premium">.הז ןובשח ךל ןתנש םדאה םע רשק רוציל ךילע .םוימירפ שוכרל לוכי אל ךלש ןובשחה</string>
     <string name="select_preset">שארמ הרדגה רחב</string>
     <string name="use_cyclic_category_navigation">תוירוגטק ןיב ירוזחמ טווינ רשפא</string>
@@ -735,4 +732,11 @@
     <string name="ssl_certificate_issue_detected">יקוח וניא SSL (HTTPS) רושיא</string>
     <string name="verify_net_before_update">םיקפסמ םינותנ ןוכדע ינפל תשרה תונימז תא קודב</string>
     <string name="timezone">ןמז רוזא</string>
+    <string name="error_all_device_slots_used">.דוע שומישב םניאש םירישכמ רסה וא ,םיפסונ םיצירח שוכר .םיסופת םוימירפה יצירח לכש ןוויכמ ,יחכונה רישכמה תא ליעפהל ןתינ אל</string>
+    <string name="contact_support_for_more_options">תופסונ תויורשפא תלבקל היצקילפאה תכימת םע רשק רוצ</string>
+    <string name="exit_on_back_press">ץחלנ הרזחה ןצחל רשאכ ,ןורכיזהמ היצקילפאה תקירפ תחטבה</string>
+    <string name="auto_delete_backup_after_restore">(דבלב תחא םעפ רוזחש רשפא) רוזחשה רחאל דימ יוביג ינותנ קחמ</string>
+    <string name="applies_to_category_of_item">טנמלאה לש הירוגטקה לע קר לח</string>
+    <string name="applies_to_every_category">ופרטצה םיביכרה לכ ,הירוגטק לכ לע לח</string>
+    <string name="group_categories_by_country">הנידמ גציימ ,תילאוטריו הירוגטק יפל ןתוא ץוביק ,תולפקתמ תוירוגטק רשפא</string>
     </resources>

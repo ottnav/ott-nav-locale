@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Toon info alvorens video te starten</string>
     <string name="premium_note_dev">Abonneren op premium helpt bij het verbeteren en ondersteunen van de app</string>
     <string name="disable_expire_data">Laat de vervalstatus niet zien</string>
-    <string name="restore_purchases">Aankopen herstellen (problemen oplossen)</string>
     <string name="future_show_sheet_autoswitch_wl">Schakel automatisch over naar het kanaal wanneer het live is</string>
     <string name="reuse_cache_for_quick_start">Hergebruik de cache voor een snelle start van de app vanaf de vorige lancering (werkt mogelijk niet correct voor sommige providers)</string>
     <string name="use_spacing_between_elem">Gebruik afstand tussen elementen</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Log in</string>
     <string name="btn_register">Inschrijven</string>
     <string name="add_device">Voeg een apparaat toe</string>
-    <string name="claim_purchase">Claim een aankoop</string>
     <string name="text_is_case_sensitive">Tekst is hoofdlettergevoelig</string>
     <string name="password_does_not_match">Wachtwoord komt niet overeen</string>
     <string name="login_or_password_incorrect">Login of wachtwoord is onjuist</string>
     <string name="change_password">Wachtwoord wijzigen</string>
     <string name="use_account_for_manage_premium">Maak een account aan om uw premium account te beheren</string>
     <string name="current_device">Momenteel gebruikt apparaat</string>
-    <string name="import_old_purchase">Activeer oude aankoop</string>
     <string name="acc_can_no_buy_premium">Uw account kan geen premium kopen. U dient contact op te nemen met de persoon die u dit account heeft gegeven.</string>
     <string name="select_preset">Selecteer een voorinstelling</string>
     <string name="use_cyclic_category_navigation">Schakel cyclische navigatie tussen categorieën in</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">SSL-certificaat (HTTPS) is ongeldig</string>
     <string name="verify_net_before_update">Controleer de netwerkbeschikbaarheid voordat u gegevens van providers bijwerkt</string>
     <string name="timezone">Tijdzone</string>
+    <string name="error_all_device_slots_used">Kan het huidige apparaat niet activeren, omdat alle premium slots bezet zijn. Koop meer slots of verwijder apparaten die niet langer worden gebruikt.</string>
+    <string name="contact_support_for_more_options">Neem contact op met app-ondersteuning voor meer opties</string>
+    <string name="exit_on_back_press">Ervoor zorgen dat de app uit het geheugen wordt verwijderd wanneer de terugknop wordt ingedrukt</string>
+    <string name="auto_delete_backup_after_restore">Back-upgegevens onmiddellijk na herstel verwijderen (herstel slechts één keer toestaan)</string>
+    <string name="applies_to_category_of_item">Geldt alleen voor de categorie van het element</string>
+    <string name="applies_to_every_category">Geldt voor elke categorie, alle elementen samengevoegd</string>
+    <string name="group_categories_by_country">Schakel vouwcategorieën in, door ze te groeperen op virtuele categorie, die het land vertegenwoordigt</string>
     </resources>

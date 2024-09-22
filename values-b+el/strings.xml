@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Εμφάνιση πληροφοριών πριν από την έναρξη του βίντεο</string>
     <string name="premium_note_dev">Η εγγραφή στο premium συμβάλλει στη βελτίωση και την υποστήριξη της εφαρμογής</string>
     <string name="disable_expire_data">Να μην εμφανίζεται η κατάσταση λήξης</string>
-    <string name="restore_purchases">Επαναφορά αγορών (Αντιμετώπιση προβλημάτων)</string>
     <string name="future_show_sheet_autoswitch_wl">Μεταβείτε αυτόματα στο κανάλι όταν θα είναι ζωντανό</string>
     <string name="reuse_cache_for_quick_start">Επαναχρησιμοποιήστε την προσωρινή μνήμη για γρήγορη εκκίνηση της εφαρμογής από την προηγούμενη κυκλοφορία (μπορεί να λειτουργήσει λανθασμένα για ορισμένους παρόχους)</string>
     <string name="use_spacing_between_elem">Χρησιμοποιήστε απόσταση μεταξύ των στοιχείων</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Σύνδεση</string>
     <string name="btn_register">Εγγραφείτε</string>
     <string name="add_device">Προσθέστε μια συσκευή</string>
-    <string name="claim_purchase">Διεκδικήστε μια αγορά</string>
     <string name="text_is_case_sensitive">Το κείμενο έχει διάκριση πεζών-κεφαλαίων</string>
     <string name="password_does_not_match">Ο κωδικός δεν ταιριάζει</string>
     <string name="login_or_password_incorrect">Η σύνδεση ή ο κωδικός πρόσβασης είναι λανθασμένη</string>
     <string name="change_password">Αλλαξε κωδικό</string>
     <string name="use_account_for_manage_premium">Δημιουργήστε έναν λογαριασμό για να διαχειριστείτε τον premium λογαριασμό σας</string>
     <string name="current_device">Συσκευή που χρησιμοποιείται αυτήν τη στιγμή</string>
-    <string name="import_old_purchase">Ενεργοποίηση παλιάς αγοράς</string>
     <string name="acc_can_no_buy_premium">Ο λογαριασμός σας δεν μπορεί να αγοράσει premium. Θα πρέπει να επικοινωνήσετε με το άτομο που σας έδωσε αυτόν τον λογαριασμό.</string>
     <string name="select_preset">Επιλέξτε μια προεπιλογή</string>
     <string name="use_cyclic_category_navigation">Ενεργοποίηση κυκλικής πλοήγησης μεταξύ κατηγοριών</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">Το πιστοποιητικό SSL (HTTPS) δεν είναι έγκυρο</string>
     <string name="verify_net_before_update">Επαληθεύστε τη διαθεσιμότητα του δικτύου πριν ενημερώσετε δεδομένα από παρόχους</string>
     <string name="timezone">Ζώνη ώρας</string>
+    <string name="error_all_device_slots_used">Δεν είναι δυνατή η ενεργοποίηση της τρέχουσας συσκευής, καθώς όλες οι θέσεις premium είναι κατειλημμένες. Αγοράστε περισσότερες υποδοχές ή αφαιρέστε συσκευές που δεν χρησιμοποιούνται πλέον.</string>
+    <string name="contact_support_for_more_options">Επικοινωνήστε με την υποστήριξη εφαρμογών για περισσότερες επιλογές</string>
+    <string name="exit_on_back_press">Διασφάλιση ότι η εφαρμογή εκφορτώνεται από τη μνήμη, όταν πατηθεί το κουμπί επιστροφής</string>
+    <string name="auto_delete_backup_after_restore">Διαγράψτε τα δεδομένα αντιγράφων ασφαλείας αμέσως μετά την επαναφορά (επιτρέψτε την επαναφορά μόνο μία φορά)</string>
+    <string name="applies_to_category_of_item">Ισχύει μόνο για την κατηγορία του στοιχείου</string>
+    <string name="applies_to_every_category">Ισχύει για κάθε κατηγορία, όλα τα στοιχεία ενωμένα</string>
+    <string name="group_categories_by_country">Ενεργοποιήστε τις αναδιπλούμενες κατηγορίες, ομαδοποιώντας τις ανά εικονική κατηγορία, αντιπροσωπεύοντας τη χώρα</string>
     </resources>

@@ -573,7 +573,6 @@
     <string name="show_info_before_vod">ভিডিও চালু করার আগে তথ্য প্রদর্শন করুন</string>
     <string name="premium_note_dev">প্রিমিয়াম সাবস্ক্রাইব করা অ্যাপ্লিকেশনটিকে উন্নত ও সহায়তা করতে সহায়তা করে</string>
     <string name="disable_expire_data">মেয়াদোত্তীর্ণের স্থিতি প্রদর্শন করবেন না</string>
-    <string name="restore_purchases">কেনাকাটা পুনরুদ্ধার (সমস্যা সমাধান)</string>
     <string name="future_show_sheet_autoswitch_wl">চ্যানেলটি কখন লাইভ হবে তা স্বয়ংক্রিয়ভাবে স্যুইচ করুন</string>
     <string name="reuse_cache_for_quick_start">পূর্ববর্তী লঞ্চ থেকে দ্রুত অ্যাপ্লিকেশন শুরু করার জন্য ক্যাশে পুনরায় ব্যবহার করুন (কিছু সরবরাহকারীর জন্য ভুলভাবে কাজ করতে পারে)</string>
     <string name="use_spacing_between_elem">উপাদানগুলির মধ্যে ব্যবধান ব্যবহার করুন</string>
@@ -675,14 +674,12 @@
     <string name="btn_login">প্রবেশ করুন</string>
     <string name="btn_register">নিবন্ধন করুন</string>
     <string name="add_device">একটা যন্ত্র সংযোগ কর</string>
-    <string name="claim_purchase">একটি ক্রয় দাবি করুন</string>
     <string name="text_is_case_sensitive">টেক্সট কেস-সংবেদনশীল</string>
     <string name="password_does_not_match">পাসওয়ার্ড মেলে না</string>
     <string name="login_or_password_incorrect">লগইন বা পাসওয়ার্ড ভুল</string>
     <string name="change_password">পাসওয়ার্ড পরিবর্তন করুন</string>
     <string name="use_account_for_manage_premium">আপনার প্রিমিয়াম অ্যাকাউন্ট পরিচালনা করতে একটি অ্যাকাউন্ট তৈরি করুন</string>
     <string name="current_device">বর্তমানে ব্যবহৃত ডিভাইস</string>
-    <string name="import_old_purchase">পুরানো ক্রয় সক্রিয় করুন</string>
     <string name="acc_can_no_buy_premium">আপনার অ্যাকাউন্ট প্রিমিয়াম ক্রয় করতে পারে না. যে ব্যক্তি আপনাকে এই অ্যাকাউন্টটি দিয়েছে তার সাথে আপনার যোগাযোগ করা উচিত।</string>
     <string name="select_preset">একটি প্রিসেট নির্বাচন করুন</string>
     <string name="use_cyclic_category_navigation">বিভাগগুলির মধ্যে চক্রীয় নেভিগেশন সক্ষম করুন৷</string>
@@ -737,4 +734,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) শংসাপত্র অবৈধ৷</string>
     <string name="verify_net_before_update">সরবরাহকারীদের কাছ থেকে ডেটা আপডেট করার আগে নেটওয়ার্কের প্রাপ্যতা যাচাই করুন</string>
     <string name="timezone">টাইমজোন</string>
+    <string name="error_all_device_slots_used">বর্তমান ডিভাইস সক্রিয় করা যাবে না, যেহেতু সমস্ত প্রিমিয়াম স্লট দখল করা হয়েছে৷ আরও স্লট কিনুন, বা আর ব্যবহার করা হয় না এমন ডিভাইসগুলি সরান৷</string>
+    <string name="contact_support_for_more_options">আরও বিকল্পের জন্য অ্যাপ সমর্থনের সাথে যোগাযোগ করুন</string>
+    <string name="exit_on_back_press">ব্যাক বোতাম টিপলে অ্যাপটি মেমরি থেকে আনলোড করা হয়েছে তা নিশ্চিত করা</string>
+    <string name="auto_delete_backup_after_restore">পুনরুদ্ধারের পরে অবিলম্বে ব্যাকআপ ডেটা মুছুন (শুধুমাত্র একবার পুনরুদ্ধারের অনুমতি দিন)</string>
+    <string name="applies_to_category_of_item">শুধুমাত্র উপাদানের বিভাগে প্রযোজ্য</string>
+    <string name="applies_to_every_category">প্রতিটি বিভাগে প্রযোজ্য, সমস্ত উপাদান যোগদান করেছে</string>
+    <string name="group_categories_by_country">ভার্চুয়াল বিভাগ দ্বারা গোষ্ঠীবদ্ধ করে, দেশের প্রতিনিধিত্ব করে ভাঁজ বিভাগগুলি সক্ষম করুন৷</string>
     </resources>

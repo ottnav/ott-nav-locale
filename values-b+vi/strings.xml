@@ -564,7 +564,6 @@
     <string name="show_info_before_vod">Hiển thị thông tin trước khi khởi chạy video</string>
     <string name="premium_note_dev">Đăng ký trả phí giúp cải thiện và hỗ trợ ứng dụng</string>
     <string name="disable_expire_data">Không hiển thị trạng thái hết hạn</string>
-    <string name="restore_purchases">Khôi phục các giao dịch mua (Khắc phục sự cố)</string>
     <string name="future_show_sheet_autoswitch_wl">Tự động chuyển sang kênh khi nó phát trực tiếp</string>
     <string name="reuse_cache_for_quick_start">Sử dụng lại bộ nhớ cache để khởi động nhanh ứng dụng từ lần khởi chạy trước (có thể hoạt động không chính xác đối với một số nhà cung cấp)</string>
     <string name="use_spacing_between_elem">Sử dụng khoảng cách giữa các phần tử</string>
@@ -666,14 +665,12 @@
     <string name="btn_login">Đăng nhập</string>
     <string name="btn_register">Đăng ký</string>
     <string name="add_device">Thêm một thiết bị</string>
-    <string name="claim_purchase">Yêu cầu mua hàng</string>
     <string name="text_is_case_sensitive">Văn bản phân biệt chữ hoa chữ thường</string>
     <string name="password_does_not_match">Mật khẩu không hợp lệ</string>
     <string name="login_or_password_incorrect">Đăng nhập hoặc mật khẩu không chính xác</string>
     <string name="change_password">Đổi mật khẩu</string>
     <string name="use_account_for_manage_premium">Tạo tài khoản để quản lý tài khoản trả phí của bạn</string>
     <string name="current_device">Thiết bị hiện được sử dụng</string>
-    <string name="import_old_purchase">Kích hoạt giao dịch mua cũ</string>
     <string name="acc_can_no_buy_premium">Tài khoản của bạn không thể mua phí bảo hiểm. Bạn nên liên hệ với người đã cấp tài khoản này cho bạn.</string>
     <string name="select_preset">Chọn một giá trị đặt trước</string>
     <string name="use_cyclic_category_navigation">Bật điều hướng tuần hoàn giữa các danh mục</string>
@@ -728,4 +725,11 @@
     <string name="ssl_certificate_issue_detected">Chứng chỉ SSL (HTTPS) không hợp lệ</string>
     <string name="verify_net_before_update">Xác minh tính khả dụng của mạng trước khi cập nhật dữ liệu từ nhà cung cấp</string>
     <string name="timezone">Múi giờ</string>
+    <string name="error_all_device_slots_used">Không thể kích hoạt thiết bị hiện tại vì tất cả các khe cao cấp đã bị chiếm dụng. Mua thêm vị trí hoặc xóa các thiết bị không còn được sử dụng.</string>
+    <string name="contact_support_for_more_options">Liên hệ bộ phận hỗ trợ ứng dụng để có thêm lựa chọn</string>
+    <string name="exit_on_back_press">Đảm bảo rằng ứng dụng được tải khỏi bộ nhớ khi nhấn nút quay lại</string>
+    <string name="auto_delete_backup_after_restore">Xóa dữ liệu sao lưu ngay sau khi khôi phục (chỉ cho phép khôi phục một lần)</string>
+    <string name="applies_to_category_of_item">Chỉ áp dụng cho danh mục của phần tử</string>
+    <string name="applies_to_every_category">Áp dụng cho mọi danh mục, tất cả các thành phần đã tham gia</string>
+    <string name="group_categories_by_country">Kích hoạt tính năng gấp các danh mục, nhóm chúng theo danh mục ảo, đại diện cho quốc gia</string>
     </resources>

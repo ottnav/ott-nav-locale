@@ -565,7 +565,6 @@
     <string name="show_info_before_vod">Паказаць інфармацыю перад запускам відэа</string>
     <string name="premium_note_dev">Падпіска на прэміум дапамагае паляпшаць і падтрымліваць прыкладанне</string>
     <string name="disable_expire_data">Не паказваць тэрмін дзеяння</string>
-    <string name="restore_purchases">Аднавіць пакупкі (Ухіленне непаладак)</string>
     <string name="future_show_sheet_autoswitch_wl">Аўтаматычна перамыкацца на канал, калі ён будзе ў прамым эфіры</string>
     <string name="reuse_cache_for_quick_start">Паўторнае выкарыстанне кэша для хуткага запуску прыкладання з папярэдняга запуску (можа працаваць некарэктна ў некаторых правайдараў)</string>
     <string name="use_spacing_between_elem">Выкарыстоўвайце інтэрвал паміж элементамі</string>
@@ -667,14 +666,12 @@
     <string name="btn_login">Увайсці</string>
     <string name="btn_register">Зарэгістравацца</string>
     <string name="add_device">Дадаць прыладу</string>
-    <string name="claim_purchase">Заявіце куплю</string>
     <string name="text_is_case_sensitive">Тэкст адчувальны да рэгістра</string>
     <string name="password_does_not_match">Пароль не супадае</string>
     <string name="login_or_password_incorrect">Лагін або пароль няправільны</string>
     <string name="change_password">Змяніць пароль</string>
     <string name="use_account_for_manage_premium">Стварыце ўліковы запіс, каб кіраваць сваім прэміум-рахункам</string>
     <string name="current_device">У цяперашні час выкарыстоўваецца прылада</string>
-    <string name="import_old_purchase">Актывуйце старую пакупку</string>
     <string name="acc_can_no_buy_premium">Ваш уліковы запіс не можа набыць прэміум. Вы павінны звязацца з чалавекам, які даў вам гэты ўліковы запіс.</string>
     <string name="select_preset">Выберыце перадусталёўку</string>
     <string name="use_cyclic_category_navigation">Уключыць цыклічную навігацыю паміж катэгорыямі</string>
@@ -729,4 +726,11 @@
     <string name="ssl_certificate_issue_detected">Сертыфікат SSL (HTTPS) несапраўдны</string>
     <string name="verify_net_before_update">Праверце даступнасць сеткі перад абнаўленнем даных ад пастаўшчыкоў</string>
     <string name="timezone">Часавы пояс</string>
+    <string name="error_all_device_slots_used">Немагчыма актываваць бягучую прыладу, бо ўсе прэміум-слоты занятыя. Купіце больш слотаў або выдаліце прылады, якія больш не выкарыстоўваюцца.</string>
+    <string name="contact_support_for_more_options">Каб атрымаць дадатковыя параметры, звярніцеся ў службу падтрымкі праграмы</string>
+    <string name="exit_on_back_press">Пераканайцеся, што праграма выгружаецца з памяці пры націсканні кнопкі "Назад".</string>
+    <string name="auto_delete_backup_after_restore">Выдаліць дадзеныя рэзервовай копіі адразу пасля аднаўлення (дазволіць аднаўленне толькі адзін раз)</string>
+    <string name="applies_to_category_of_item">Прымяняецца толькі да катэгорыі элемента</string>
+    <string name="applies_to_every_category">Прымяняецца да кожнай катэгорыі, усіх аб\'яднаных элементаў</string>
+    <string name="group_categories_by_country">Уключыць згортванне катэгорый, групаванне іх па віртуальнай катэгорыі, якая прадстаўляе краіну</string>
     </resources>

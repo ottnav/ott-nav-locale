@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Show info before launching video</string>
     <string name="premium_note_dev">Subscribing to premium helps improving and supporting the app</string>
     <string name="disable_expire_data">Do not show expiration status</string>
-    <string name="restore_purchases">Restore purchases (Troubleshoot)</string>
     <string name="future_show_sheet_autoswitch_wl">Automatically switch to the channel when it will be live</string>
     <string name="reuse_cache_for_quick_start">Reuse cache for quick app start from the previous launch (can work incorrectly for some providers)</string>
     <string name="use_spacing_between_elem">Use spacing between elements</string>
@@ -629,14 +628,12 @@
     <string name="btn_login">Log in</string>
     <string name="btn_register">Sign up</string>
     <string name="add_device">Add a device</string>
-    <string name="claim_purchase">Claim a purchase</string>
     <string name="text_is_case_sensitive">Text is case-sensitive</string>
     <string name="password_does_not_match">Password does not match</string>
     <string name="login_or_password_incorrect">Login or password is incorrect</string>
     <string name="change_password">Change password</string>
     <string name="use_account_for_manage_premium">Create an account to manage your premium account</string>
     <string name="current_device">Currently used device</string>
-    <string name="import_old_purchase">Activate old purchase</string>
     <string name="acc_can_no_buy_premium">Your account cannot purchase premium. You should contact the person who gave this account to you.</string>
     <string name="select_preset">Select a preset</string>
     <string name="use_cyclic_category_navigation">Enable cyclic navigation between categories</string>
@@ -691,4 +688,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) certificate is invalid</string>
     <string name="verify_net_before_update">Verify network availability before updating data from providers</string>
     <string name="timezone">Timezone</string>
+    <string name="error_all_device_slots_used">Can not activate current device, since all premium slots are occupied. Purchase more slots, or remove devices that are no longer used.</string>
+    <string name="contact_support_for_more_options">Contact app support for more options</string>
+    <string name="exit_on_back_press">Ensuring that the app is unloaded from memory, when back button is pressed</string>
+    <string name="auto_delete_backup_after_restore">Delete backup data immediately after restore (only allow restoring once)</string>
+    <string name="applies_to_category_of_item">Applies only to the category of the element</string>
+    <string name="applies_to_every_category">Applies to every category, all elements joined</string>
+    <string name="group_categories_by_country">Enable folding categories, grouping them by virtual category, representing country</string>
 </resources>

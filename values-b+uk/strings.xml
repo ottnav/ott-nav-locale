@@ -564,7 +564,6 @@
     <string name="show_info_before_vod">Показати інформацію перед запуском відео</string>
     <string name="premium_note_dev">Підписка на Преміум допомагає покращити та підтримувати додаток</string>
     <string name="disable_expire_data">Не показувати статус закінчення терміну дії</string>
-    <string name="restore_purchases">Відновлення покупок (вирішення проблем)</string>
     <string name="future_show_sheet_autoswitch_wl">Автоматично перемикатися на канал, коли він буде наживо</string>
     <string name="reuse_cache_for_quick_start">Повторне використання кешу для швидкого запуску програми з попереднього запуску (для деяких постачальників може працювати некоректно)</string>
     <string name="use_spacing_between_elem">Використовуйте інтервал між елементами</string>
@@ -666,14 +665,12 @@
     <string name="btn_login">Увійти</string>
     <string name="btn_register">зареєструватися</string>
     <string name="add_device">Додайте пристрій</string>
-    <string name="claim_purchase">Заявити про покупку</string>
     <string name="text_is_case_sensitive">Текст чутливий до регістру</string>
     <string name="password_does_not_match">Пароль не збігається</string>
     <string name="login_or_password_incorrect">Логін або пароль неправильні</string>
     <string name="change_password">Змінити пароль</string>
     <string name="use_account_for_manage_premium">Створіть обліковий запис, щоб керувати своїм преміум-аккаунтом</string>
     <string name="current_device">На даний момент використовується пристрій</string>
-    <string name="import_old_purchase">Активувати стару покупку</string>
     <string name="acc_can_no_buy_premium">Ваш обліковий запис не може придбати преміум. Вам слід зв’язатися з особою, яка надала вам цей обліковий запис.</string>
     <string name="select_preset">Виберіть попередній набір</string>
     <string name="use_cyclic_category_navigation">Увімкнути циклічну навігацію між категоріями</string>
@@ -728,4 +725,11 @@
     <string name="ssl_certificate_issue_detected">Сертифікат SSL (HTTPS) недійсний</string>
     <string name="verify_net_before_update">Перевірте доступність мережі перед оновленням даних від постачальників</string>
     <string name="timezone">Часовий пояс</string>
+    <string name="error_all_device_slots_used">Неможливо активувати поточний пристрій, оскільки всі преміальні слоти зайняті. Придбайте більше слотів або видаліть пристрої, які більше не використовуються.</string>
+    <string name="contact_support_for_more_options">Щоб дізнатися більше, зверніться до служби підтримки програми</string>
+    <string name="exit_on_back_press">Переконайтеся, що програма вивантажується з пам’яті, коли натискається кнопка «Назад».</string>
+    <string name="auto_delete_backup_after_restore">Видалити дані резервної копії одразу після відновлення (дозволити відновлення лише один раз)</string>
+    <string name="applies_to_category_of_item">Застосовується лише до категорії елемента</string>
+    <string name="applies_to_every_category">Застосовується до кожної категорії, усіх об’єднаних елементів</string>
+    <string name="group_categories_by_country">Увімкнути згортання категорій, групуючи їх за віртуальними категоріями, які представляють країну</string>
     </resources>

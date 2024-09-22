@@ -525,7 +525,6 @@
     <string name="show_info_before_vod">Zobrazit informace před spuštěním videa</string>
     <string name="premium_note_dev">Přihlášení k odběru prémie pomáhá vylepšovat a podporovat aplikaci</string>
     <string name="disable_expire_data">Nezobrazovat stav vypršení platnosti</string>
-    <string name="restore_purchases">Obnovit nákupy (řešení problémů)</string>
     <string name="future_show_sheet_autoswitch_wl">Až bude kanál živý, automaticky se přepne</string>
     <string name="reuse_cache_for_quick_start">Opakované použití mezipaměti pro rychlé spuštění aplikace od předchozího spuštění (u některých poskytovatelů může fungovat nesprávně)</string>
     <string name="use_spacing_between_elem">Použijte mezery mezi prvky</string>
@@ -627,14 +626,12 @@
     <string name="btn_login">Přihlásit se</string>
     <string name="btn_register">Přihlásit se</string>
     <string name="add_device">Přidat zařízení</string>
-    <string name="claim_purchase">Reklamace nákupu</string>
     <string name="text_is_case_sensitive">V textu se rozlišují velká a malá písmena</string>
     <string name="password_does_not_match">Heslo neodpovídá</string>
     <string name="login_or_password_incorrect">Přihlašovací jméno nebo heslo je nesprávné</string>
     <string name="change_password">Změnit heslo</string>
     <string name="use_account_for_manage_premium">Vytvořte si účet pro správu svého prémiového účtu</string>
     <string name="current_device">Aktuálně používané zařízení</string>
-    <string name="import_old_purchase">Aktivujte starý nákup</string>
     <string name="acc_can_no_buy_premium">Váš účet nemůže zakoupit prémii. Měli byste kontaktovat osobu, která vám tento účet poskytla.</string>
     <string name="select_preset">Vyberte předvolbu</string>
     <string name="use_cyclic_category_navigation">Povolit cyklickou navigaci mezi kategoriemi</string>
@@ -689,4 +686,11 @@
     <string name="ssl_certificate_issue_detected">Certifikát SSL (HTTPS) je neplatný</string>
     <string name="verify_net_before_update">Před aktualizací dat od poskytovatelů ověřte dostupnost sítě</string>
     <string name="timezone">Časové pásmo</string>
+    <string name="error_all_device_slots_used">Aktuální zařízení nelze aktivovat, protože všechny prémiové sloty jsou obsazené. Kupte si další sloty nebo odeberte zařízení, která se již nepoužívají.</string>
+    <string name="contact_support_for_more_options">Pro další možnosti kontaktujte podporu aplikace</string>
+    <string name="exit_on_back_press">Zajištění, že se aplikace po stisknutí tlačítka Zpět načte z paměti</string>
+    <string name="auto_delete_backup_after_restore">Smazat zálohovaná data ihned po obnovení (povolit obnovení pouze jednou)</string>
+    <string name="applies_to_category_of_item">Platí pouze pro kategorii prvku</string>
+    <string name="applies_to_every_category">Platí pro každou kategorii, všechny prvky spojené</string>
+    <string name="group_categories_by_country">Povolit skládání kategorií, seskupování podle virtuální kategorie, reprezentující zemi</string>
     </resources>

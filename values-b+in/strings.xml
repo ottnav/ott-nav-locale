@@ -525,7 +525,6 @@
     <string name="show_info_before_vod">Tampilkan info sebelum meluncurkan video</string>
     <string name="premium_note_dev">Berlangganan premium membantu meningkatkan dan mendukung aplikasi</string>
     <string name="disable_expire_data">Jangan tunjukkan status kedaluwarsa</string>
-    <string name="restore_purchases">Pulihkan pembelian (Pemecahan Masalah)</string>
     <string name="future_show_sheet_autoswitch_wl">Beralih ke saluran secara otomatis ketika akan disiarkan langsung</string>
     <string name="reuse_cache_for_quick_start">Gunakan kembali cache untuk aplikasi cepat mulai dari peluncuran sebelumnya (dapat bekerja secara tidak benar untuk beberapa penyedia)</string>
     <string name="use_spacing_between_elem">Gunakan spasi antar elemen</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Gabung</string>
     <string name="btn_register">Daftar</string>
     <string name="add_device">Tambahkan perangkat</string>
-    <string name="claim_purchase">Klaim pembelian</string>
     <string name="text_is_case_sensitive">Teks peka huruf besar-kecil</string>
     <string name="password_does_not_match">Kata sandi tidak cocok</string>
     <string name="login_or_password_incorrect">Login atau kata sandi salah</string>
     <string name="change_password">Ganti kata sandi</string>
     <string name="use_account_for_manage_premium">Buat akun untuk mengelola akun premium Anda</string>
     <string name="current_device">Perangkat yang saat ini digunakan</string>
-    <string name="import_old_purchase">Aktifkan pembelian lama</string>
     <string name="acc_can_no_buy_premium">Akun Anda tidak dapat membeli premium. Anda harus menghubungi orang yang memberikan akun ini kepada Anda.</string>
     <string name="select_preset">Pilih prasetel</string>
     <string name="use_cyclic_category_navigation">Aktifkan navigasi siklik di antara kategori</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">Sertifikat SSL (HTTPS) tidak valid</string>
     <string name="verify_net_before_update">Verifikasi ketersediaan jaringan sebelum memperbarui data dari penyedia</string>
     <string name="timezone">Zona waktu</string>
+    <string name="error_all_device_slots_used">Tidak dapat mengaktifkan perangkat saat ini, karena semua slot premium sudah terisi. Beli lebih banyak slot, atau hapus perangkat yang tidak lagi digunakan.</string>
+    <string name="contact_support_for_more_options">Hubungi dukungan aplikasi untuk opsi lebih lanjut</string>
+    <string name="exit_on_back_press">Memastikan bahwa aplikasi dikeluarkan dari memori, ketika tombol kembali ditekan</string>
+    <string name="auto_delete_backup_after_restore">Hapus data cadangan segera setelah pemulihan (hanya izinkan pemulihan satu kali)</string>
+    <string name="applies_to_category_of_item">Hanya berlaku untuk kategori elemen</string>
+    <string name="applies_to_every_category">Berlaku untuk setiap kategori, semua elemen bergabung</string>
+    <string name="group_categories_by_country">Aktifkan kategori lipat, kelompokkan berdasarkan kategori virtual, yang mewakili negara</string>
     </resources>

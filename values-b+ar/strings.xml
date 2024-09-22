@@ -572,7 +572,6 @@
     <string name="show_info_before_vod">إظهار المعلومات قبل تشغيل الفيديو</string>
     <string name="premium_note_dev">يساعد الاشتراك في الإصدار المميز في تحسين التطبيق ودعمه</string>
     <string name="disable_expire_data">لا تظهر حالة انتهاء الصلاحية</string>
-    <string name="restore_purchases">استعادة المشتريات (استكشاف الأخطاء وإصلاحها)</string>
     <string name="future_show_sheet_autoswitch_wl">قم بالتبديل تلقائيًا إلى القناة عندما تكون مباشرة</string>
     <string name="reuse_cache_for_quick_start">أعد استخدام ذاكرة التخزين المؤقت لبدء التطبيق السريع من التشغيل السابق (يمكن أن يعمل بشكل غير صحيح مع بعض مقدمي الخدمة)</string>
     <string name="use_spacing_between_elem">استخدم التباعد بين العناصر</string>
@@ -674,14 +673,12 @@
     <string name="btn_login">ﻝﻮﺧﺪﻟﺍ ﻞﻴﺠﺴﺗ</string>
     <string name="btn_register">اشتراك</string>
     <string name="add_device">أضف أداة</string>
-    <string name="claim_purchase">المطالبة بالشراء</string>
     <string name="text_is_case_sensitive">ﻑﺮﺣﻷﺍ ﺔﻟﺎﺤﻟ ﺱﺎﺴﺣ ﺺﻨﻟﺍ</string>
     <string name="password_does_not_match">ﺔﻘﺑﺎﻄﺘﻣ ﺮﻴﻏ ﺮﺴﻟﺍ ﺔﻤﻠﻛ</string>
     <string name="login_or_password_incorrect">تسجيل الدخول أو كلمة المرور غير صحيحة</string>
     <string name="change_password">تغيير كلمة المرور</string>
     <string name="use_account_for_manage_premium">ﺰﻴﻤﻤﻟﺍ ﻚﺑﺎﺴﺣ ﺓﺭﺍﺩﻹ ﺏﺎﺴﺣ ءﺎﺸﻧﺈﺑ ﻢﻗ</string>
     <string name="current_device">الجهاز المستخدم حاليًا</string>
-    <string name="import_old_purchase">ﻢﻳﺪﻘﻟﺍ ءﺍﺮﺸﻟﺍ ﻂﻴﺸﻨﺗ</string>
     <string name="acc_can_no_buy_premium">.ﺏﺎﺴﺤﻟﺍ ﺍﺬﻫ ﻙﺎﻄﻋﺃ ﻱﺬﻟﺍ ﺺﺨﺸﻟﺎﺑ ﻝﺎﺼﺗﻻﺍ ﻚﻴﻠﻋ ﺐﺠﻳ .ﻂﺴﻗ ءﺍﺮﺷ ﻦﻜﻤﻳ ﻻ ﻚﺑﺎﺴﺣ</string>
     <string name="select_preset">ﺎﻘًﺒﺴﻣ ﺍﺩًﺍﺪﻋﺇ ﺩﺪﺣ</string>
     <string name="use_cyclic_category_navigation">ﺕﺎﺌﻔﻟﺍ ﻦﻴﺑ ﻱﺭﻭﺪﻟﺍ ﻞﻘﻨﺘﻟﺍ ﻦﻴﻜﻤﺗ</string>
@@ -736,4 +733,11 @@
     <string name="ssl_certificate_issue_detected">ﺔﺤﻟﺎﺻ ﺮﻴﻏ SSL (HTTPS) ﺓﺩﺎﻬﺷ</string>
     <string name="verify_net_before_update">ﺔﻣﺪﺨﻟﺍ ﻲﻣﺪﻘﻣ ﻦﻣ ﺕﺎﻧﺎﻴﺒﻟﺍ ﺚﻳﺪﺤﺗ ﻞﺒﻗ ﺔﻜﺒﺸﻟﺍ ﺮﻓﻮﺗ ﻦﻣ ﻖﻘﺤﺗ</string>
     <string name="timezone">ﺔﻴﻨﻣﺰﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ</string>
+    <string name="error_all_device_slots_used">.ﺔﻣﺪﺨﺘﺴﻣ ﺪﻌﺗ ﻢﻟ ﻲﺘﻟﺍ ﺓﺰﻬﺟﻷ﻿ﺍ ﺔﻟﺍﺯﺈﺑ ﻢﻗ ﻭﺃ ،ﺕﺎﺤﺘﻔﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ءﺍﺮﺸﺑ ﻢﻗ .ﺔﻟﻮﻐﺸﻣ ﺓﺰﻴﻤﻤﻟﺍ ﺕﺎﺤﺘﻔﻟﺍ ﻊﻴﻤﺟ ﻥﻷ﻿ ﺍﺮًﻈﻧ ،ﻲﻟﺎﺤﻟﺍ ﺯﺎﻬﺠﻟﺍ ﻂﻴﺸﻨﺗ ﻦﻜﻤﻳ ﻻ﻿</string>
+    <string name="contact_support_for_more_options">ﺕﺍﺭﺎﻴﺨﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟ ﻖﻴﺒﻄﺘﻟﺍ ﻢﻋﺪﺑ ﻞﺼﺗﺍ</string>
+    <string name="exit_on_back_press">ﻉﻮﺟﺮﻟﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﻀﻟﺍ ﺪﻨﻋ ،ﺓﺮﻛﺍﺬﻟﺍ ﻦﻣ ﻖﻴﺒﻄﺘﻟﺍ ﻞﻴﻤﺤﺗ ءﺎﻐﻟﺇ ﻦﻣ ﺪﻛﺄﺘﻟﺍ</string>
+    <string name="auto_delete_backup_after_restore">(ﻂﻘﻓ ﺓﺪﺣﺍﻭ ﺓﺮﻣ ﺓﺩﺎﻌﺘﺳﻻ﻿ﺎﺑ ﺡﺎﻤﺴﻟﺍ) ﺓﺩﺎﻌﺘﺳﻻ﻿ﺍ ﺪﻌﺑ ﺓﺮﺷﺎﺒﻣ ﻲﻃﺎﻴﺘﺣﻻ﻿ﺍ ﺦﺴﻨﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻑﺬﺣ</string>
+    <string name="applies_to_category_of_item">ﺮﺼﻨﻌﻟﺍ ﺔﺌﻓ ﻰﻠﻋ ﻂﻘﻓ ﻖﺒﻄﻨﻳ</string>
+    <string name="applies_to_every_category">ﺖﻤﻀﻧﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻴﻤﺟ ،ﺔﺌﻓ ﻞﻛ ﻰﻠﻋ ﻖﺒﻄﻨﻳ</string>
+    <string name="group_categories_by_country">ﺔﻟﻭﺪﻟﺍ ﻞﺜﻤﺗ ﻲﺘﻟﺍ ﺔﻴﺿﺍﺮﺘﻓﻻ﻿ﺍ ﺔﺌﻔﻟﺍ ﺐﺴﺣ ﺎﻬﻌﻴﻤﺠﺗﻭ ،ﻲﻄﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺕﺎﺌﻔﻟﺍ ﻦﻴﻜﻤﺗ</string>
     </resources>

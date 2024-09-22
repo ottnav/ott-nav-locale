@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">ビデオを起動する前に情報を表示</string>
     <string name="premium_note_dev">プレミアムに登録すると、アプリの改善とサポートに役立ちます</string>
     <string name="disable_expire_data">有効期限ステータスを表示しない</string>
-    <string name="restore_purchases">購入を復元する（トラブルシューティング）</string>
     <string name="future_show_sheet_autoswitch_wl">ライブになると自動的にチャンネルに切り替わります</string>
     <string name="reuse_cache_for_quick_start">前回の起動からアプリをすばやく起動するためにキャッシュを再利用します（一部のプロバイダーでは正しく機能しない可能性があります）</string>
     <string name="use_spacing_between_elem">要素間の間隔を使用する</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">ログイン</string>
     <string name="btn_register">サインアップ</string>
     <string name="add_device">デバイスを追加する</string>
-    <string name="claim_purchase">購入を請求する</string>
     <string name="text_is_case_sensitive">テキストでは大文字と小文字が区別されます</string>
     <string name="password_does_not_match">パスワードが一致しません</string>
     <string name="login_or_password_incorrect">ログインまたはパスワードが正しくありません</string>
     <string name="change_password">パスワードを変更する</string>
     <string name="use_account_for_manage_premium">プレミアムアカウントを管理するためのアカウントを作成します</string>
     <string name="current_device">現在使用されているデバイス</string>
-    <string name="import_old_purchase">古い購入を有効にする</string>
     <string name="acc_can_no_buy_premium">アカウントでプレミアムを購入することはできません。このアカウントを提供した人に連絡する必要があります。</string>
     <string name="select_preset">プリセットを選択</string>
     <string name="use_cyclic_category_navigation">カテゴリ間の循環ナビゲーションを有効にする</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) 証明書が無効です</string>
     <string name="verify_net_before_update">プロバイダーからのデータを更新する前にネットワークの可用性を確認する</string>
     <string name="timezone">タイムゾーン</string>
+    <string name="error_all_device_slots_used">すべてのプレミアム スロットが占有されているため、現在のデバイスをアクティブ化できません。追加のスロットを購入するか、使用されなくなったデバイスを削除します。</string>
+    <string name="contact_support_for_more_options">その他のオプションについては、アプリのサポートにお問い合わせください</string>
+    <string name="exit_on_back_press">「戻る」ボタンが押されたときにアプリがメモリからアンロードされるようにする</string>
+    <string name="auto_delete_backup_after_restore">復元後すぐにバックアップデータを削除します (復元は 1 回のみ許可されます)</string>
+    <string name="applies_to_category_of_item">要素のカテゴリにのみ適用されます</string>
+    <string name="applies_to_every_category">すべてのカテゴリに適用され、すべての要素が結合されます</string>
+    <string name="group_categories_by_country">折りたたみカテゴリを有効にして、国を表す仮想カテゴリごとにグループ化します。</string>
     </resources>

@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Pokaż informacje przed uruchomieniem wideo</string>
     <string name="premium_note_dev">Subskrypcja premium pomaga ulepszać i wspierać aplikację</string>
     <string name="disable_expire_data">Nie pokazuj Statusu Wygaśnięcia</string>
-    <string name="restore_purchases">Przywróć zakupy (rozwiązywanie problemów)</string>
     <string name="future_show_sheet_autoswitch_wl">Automatycznie Przełącz się na Kanał, gdy będzie on Nadawany na Żywo</string>
     <string name="reuse_cache_for_quick_start">Ponownie użyj pamięci podręcznej do szybkiego uruchamiania aplikacji przy nastepnym uruchomieniu (może działać nieprawidłowo w przypadku niektórych dostawców)</string>
     <string name="use_spacing_between_elem">Użyj odstępów między elementami</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Zaloguj się</string>
     <string name="btn_register">Zapisz się</string>
     <string name="add_device">Dodaj urządzenie</string>
-    <string name="claim_purchase">Odbierz zakup</string>
     <string name="text_is_case_sensitive">W tekście rozróżniana jest wielkość liter</string>
     <string name="password_does_not_match">Hasło Nie pasuje</string>
     <string name="login_or_password_incorrect">Login lub hasło jest nieprawidłowe</string>
     <string name="change_password">Zmień hasło</string>
     <string name="use_account_for_manage_premium">Utwórz konto, aby zarządzać kontem premium</string>
     <string name="current_device">Aktualnie używane urządzenie</string>
-    <string name="import_old_purchase">Aktywuj stary zakup</string>
     <string name="acc_can_no_buy_premium">Twoje konto nie może kupić premium. Powinieneś skontaktować się z osobą, która przekazała Ci to konto.</string>
     <string name="select_preset">Wybierz ustawienie wstępne</string>
     <string name="use_cyclic_category_navigation">Włącz cykliczną nawigację między kategoriami</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">Certyfikat SSL (HTTPS) jest nieprawidłowy</string>
     <string name="verify_net_before_update">Przed aktualizacją danych od dostawców sprawdź dostępność sieci</string>
     <string name="timezone">Strefa czasowa</string>
+    <string name="error_all_device_slots_used">Nie można aktywować bieżącego urządzenia, ponieważ wszystkie miejsca premium są zajęte. Kup więcej gniazd lub usuń urządzenia, które nie są już używane.</string>
+    <string name="contact_support_for_more_options">Skontaktuj się z pomocą techniczną aplikacji, aby uzyskać więcej opcji</string>
+    <string name="exit_on_back_press">Zapewnienie, że aplikacja zostanie wyładowana z pamięci po naciśnięciu przycisku Wstecz</string>
+    <string name="auto_delete_backup_after_restore">Usuń dane kopii zapasowej natychmiast po przywróceniu (zezwól na jednokrotne przywrócenie)</string>
+    <string name="applies_to_category_of_item">Dotyczy tylko kategorii elementu</string>
+    <string name="applies_to_every_category">Dotyczy każdej kategorii, wszystkie elementy są połączone</string>
+    <string name="group_categories_by_country">Włącz składane kategorie, grupując je według kategorii wirtualnej, reprezentującej kraj</string>
     </resources>

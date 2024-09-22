@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Zeigen der Infos, bevor das Video startet</string>
     <string name="premium_note_dev">Durch das Abonnieren von Premium können Sie die App verbessern und unterstützen</string>
     <string name="disable_expire_data">Ablaufstatus nicht anzeigen</string>
-    <string name="restore_purchases">Einkäufe wiederherstellen (Fehlerbehebung)</string>
     <string name="future_show_sheet_autoswitch_wl">Wechseln Sie automatisch zum Sender, wenn dieser live sein wird</string>
     <string name="reuse_cache_for_quick_start">Cache für schnellen App-Start vom vorherigen Start wiederverwenden (kann bei einigen Anbietern falsch funktionieren)</string>
     <string name="use_spacing_between_elem">Verwenden Sie den Abstand zwischen Zeilen</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Einloggen</string>
     <string name="btn_register">Anmelden</string>
     <string name="add_device">Gerät hinzufügen</string>
-    <string name="claim_purchase">Fordern Sie einen Kauf an</string>
     <string name="text_is_case_sensitive">Beim Text wird zwischen Groß- und Kleinschreibung unterschieden</string>
     <string name="password_does_not_match">Passwort stimmt nicht überein</string>
     <string name="login_or_password_incorrect">Login oder Passwort ist falsch</string>
     <string name="change_password">Kennwort ändern</string>
     <string name="use_account_for_manage_premium">Erstellen Sie ein Konto, um Ihr Premium-Konto zu verwalten</string>
     <string name="current_device">Derzeit verwendetes Gerät</string>
-    <string name="import_old_purchase">Alten Kauf aktivieren</string>
     <string name="acc_can_no_buy_premium">Ihr Konto kann keine Prämie kaufen. Wenden Sie sich an die Person, die Ihnen dieses Konto gegeben hat.</string>
     <string name="select_preset">Wählen Sie eine Voreinstellung aus</string>
     <string name="use_cyclic_category_navigation">Aktivieren Sie die zyklische Navigation zwischen den Kategorien</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">Das SSL-Zertifikat (HTTPS) ist ungültig</string>
     <string name="verify_net_before_update">Überprüfen Sie die Netzwerkverfügbarkeit, bevor Sie Daten von Anbietern aktualisieren</string>
     <string name="timezone">Zeitzone</string>
+    <string name="error_all_device_slots_used">Das aktuelle Gerät kann nicht aktiviert werden, da alle Premium-Slots belegt sind. Erwerben Sie weitere Steckplätze oder entfernen Sie Geräte, die nicht mehr verwendet werden.</string>
+    <string name="contact_support_for_more_options">Kontaktieren Sie den App-Support für weitere Optionen</string>
+    <string name="exit_on_back_press">Sicherstellen, dass die App aus dem Speicher entladen wird, wenn die Zurück-Taste gedrückt wird</string>
+    <string name="auto_delete_backup_after_restore">Sicherungsdaten sofort nach der Wiederherstellung löschen (Wiederherstellung nur einmal zulassen)</string>
+    <string name="applies_to_category_of_item">Gilt nur für die Kategorie des Elements</string>
+    <string name="applies_to_every_category">Gilt für jede Kategorie, alle Elemente verbunden</string>
+    <string name="group_categories_by_country">Aktivieren Sie Faltkategorien und gruppieren Sie sie nach virtuellen Kategorien, die das Land darstellen</string>
     </resources>

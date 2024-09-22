@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Показване на информация преди пускането на видео</string>
     <string name="premium_note_dev">Абонирането за премиум помага за подобряването и поддържането на приложението</string>
     <string name="disable_expire_data">Не показвай статуса на изтичане</string>
-    <string name="restore_purchases">Възстановяване на покупки (Отстраняване на неизправности)</string>
     <string name="future_show_sheet_autoswitch_wl">Автоматично превключване към канала, когато той ще бъде на живо</string>
     <string name="reuse_cache_for_quick_start">Повторно използване на кеша за бързо стартиране на приложението от предишното стартиране (може да работи неправилно за някои доставчици)</string>
     <string name="use_spacing_between_elem">Остави разстояние между елементите</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Влизане</string>
     <string name="btn_register">Регистрирай се</string>
     <string name="add_device">Добави устройство</string>
-    <string name="claim_purchase">Заявете покупка</string>
     <string name="text_is_case_sensitive">Текстът е чувствителен към малки и големи букви</string>
     <string name="password_does_not_match">Паролата не съвпада</string>
     <string name="login_or_password_incorrect">Входът или паролата са неправилни</string>
     <string name="change_password">Промяна на паролата</string>
     <string name="use_account_for_manage_premium">Създайте акаунт, за да управлявате своя премиум акаунт</string>
     <string name="current_device">Използвано в момента устройство</string>
-    <string name="import_old_purchase">Активиране на стара покупка</string>
     <string name="acc_can_no_buy_premium">Вашият акаунт не може да закупи премиум. Трябва да се свържете с лицето, което ви е предоставило този акаунт.</string>
     <string name="select_preset">Изберете предварително зададена настройка</string>
     <string name="use_cyclic_category_navigation">Активирай циклична навигация между категории</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) сертификатът е невалиден</string>
     <string name="verify_net_before_update">Проверете наличността на мрежата, преди да актуализирате данните от доставчиците</string>
     <string name="timezone">Часова зона</string>
+    <string name="error_all_device_slots_used">Не може да се активира текущото устройство, тъй като всички премиум слотове са заети. Купете повече слотове или премахнете устройства, които вече не се използват.</string>
+    <string name="contact_support_for_more_options">Свържете се с поддръжката на приложението за повече опции</string>
+    <string name="exit_on_back_press">Гарантиране, че приложението се разтоварва от паметта при натискане на бутона за връщане назад</string>
+    <string name="auto_delete_backup_after_restore">Изтрийте архивните данни веднага след възстановяване (разрешете възстановяването само веднъж)</string>
+    <string name="applies_to_category_of_item">Отнася се само за категорията на елемента</string>
+    <string name="applies_to_every_category">Отнася се за всяка категория, всички обединени елементи</string>
+    <string name="group_categories_by_country">Активиране на сгъваеми категории, групирането им по виртуална категория, представяща държава</string>
     </resources>

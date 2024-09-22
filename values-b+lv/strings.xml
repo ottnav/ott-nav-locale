@@ -569,7 +569,6 @@
     <string name="show_info_before_vod">Rādīt informāciju pirms videoklipa palaišanas</string>
     <string name="premium_note_dev">Abonēšana premium palīdz uzlabot un atbalstīt lietotni</string>
     <string name="disable_expire_data">Nerādīt derīguma termiņu</string>
-    <string name="restore_purchases">Atjaunot pirkumus (problēmu novēršana)</string>
     <string name="future_show_sheet_autoswitch_wl">Automātiski pārslēdzieties uz kanālu, kad tas tiks rādīts tiešsaistē</string>
     <string name="reuse_cache_for_quick_start">Atkārtoti izmantojiet kešatmiņu, lai ātri sāktu lietotni no iepriekšējās palaišanas (dažiem pakalpojumu sniedzējiem tā var darboties nepareizi)</string>
     <string name="use_spacing_between_elem">Izmantojiet atstarpi starp elementiem</string>
@@ -671,14 +670,12 @@
     <string name="btn_login">Pieslēgties</string>
     <string name="btn_register">Pierakstīties</string>
     <string name="add_device">Pievienojiet ierīci</string>
-    <string name="claim_purchase">Pieprasiet pirkumu</string>
     <string name="text_is_case_sensitive">Tekstā ir reģistrjutīgs</string>
     <string name="password_does_not_match">Parole neatbilst</string>
     <string name="login_or_password_incorrect">Pieteikšanās vārds vai parole ir nepareiza</string>
     <string name="change_password">Mainiet paroli</string>
     <string name="use_account_for_manage_premium">Izveidojiet kontu, lai pārvaldītu savu premium kontu</string>
     <string name="current_device">Šobrīd lietota ierīce</string>
-    <string name="import_old_purchase">Aktivizējiet veco pirkumu</string>
     <string name="acc_can_no_buy_premium">Jūsu kontā nevar iegādāties prēmiju. Jums jāsazinās ar personu, kas jums piešķīra šo kontu.</string>
     <string name="select_preset">Izvēlieties sākotnējo iestatījumu</string>
     <string name="use_cyclic_category_navigation">Iespējot ciklisko navigāciju starp kategorijām</string>
@@ -733,4 +730,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) sertifikāts nav derīgs</string>
     <string name="verify_net_before_update">Pirms pakalpojumu sniedzēju datu atjaunināšanas pārbaudīt tīkla pieejamību</string>
     <string name="timezone">Laika josla</string>
+    <string name="error_all_device_slots_used">Nevar aktivizēt pašreizējo ierīci, jo visas premium slots ir aizņemtas. Iegādājieties vairāk slotu vai noņemiet ierīces, kuras vairs neizmantojat.</string>
+    <string name="contact_support_for_more_options">Lai uzzinātu vairāk par iespējām, sazinieties ar lietotņu atbalstu</string>
+    <string name="exit_on_back_press">Nodrošinot, ka lietotne tiek izlādēta no atmiņas, kad tiek nospiesta poga Atpakaļ</string>
+    <string name="auto_delete_backup_after_restore">Dzēsiet dublējuma datus uzreiz pēc atjaunošanas (atļaujiet atjaunot tikai vienu reizi)</string>
+    <string name="applies_to_category_of_item">Attiecas tikai uz elementa kategoriju</string>
+    <string name="applies_to_every_category">Attiecas uz katru kategoriju, visi elementi ir savienoti</string>
+    <string name="group_categories_by_country">Iespējot locīšanas kategorijas, grupējot tās pēc virtuālās kategorijas, kas pārstāv valsti</string>
     </resources>

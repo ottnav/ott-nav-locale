@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">Visa info innan du startar video</string>
     <string name="premium_note_dev">Prenumerera på premium hjälper till att förbättra och stödja appen</string>
     <string name="disable_expire_data">Visa inte utgångsstatus</string>
-    <string name="restore_purchases">Återställ inköp (Felsök)</string>
     <string name="future_show_sheet_autoswitch_wl">Byt automatiskt till kanalen när den är live</string>
     <string name="reuse_cache_for_quick_start">Återanvänd cache för snabb appstart från föregående lansering (kan fungera fel för vissa leverantörer)</string>
     <string name="use_spacing_between_elem">Använd avståndet mellan elementen</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Logga in</string>
     <string name="btn_register">Bli Medlem</string>
     <string name="add_device">Lägg till en enhet</string>
-    <string name="claim_purchase">Gör anspråk på ett köp</string>
     <string name="text_is_case_sensitive">Texten är skiftlägeskänslig</string>
     <string name="password_does_not_match">Lösenordet matchar inte</string>
     <string name="login_or_password_incorrect">Inloggning eller lösenord är felaktigt</string>
     <string name="change_password">ändra lösenord</string>
     <string name="use_account_for_manage_premium">Skapa ett konto för att hantera ditt premiumkonto</string>
     <string name="current_device">För närvarande använd enhet</string>
-    <string name="import_old_purchase">Aktivera gammalt köp</string>
     <string name="acc_can_no_buy_premium">Ditt konto kan inte köpa premium. Du bör kontakta personen som gav detta konto till dig.</string>
     <string name="select_preset">Välj en förinställning</string>
     <string name="use_cyclic_category_navigation">Aktivera cyklisk navigering mellan kategorier</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) certifikat är ogiltigt</string>
     <string name="verify_net_before_update">Verifiera nätverkstillgänglighet innan du uppdaterar data från leverantörer</string>
     <string name="timezone">Tidszon</string>
+    <string name="error_all_device_slots_used">Kan inte aktivera aktuell enhet eftersom alla premiumplatser är upptagna. Köp fler platser eller ta bort enheter som inte längre används.</string>
+    <string name="contact_support_for_more_options">Kontakta appsupport för fler alternativ</string>
+    <string name="exit_on_back_press">Se till att appen laddas ur minnet när bakåtknappen trycks ned</string>
+    <string name="auto_delete_backup_after_restore">Ta bort säkerhetskopia omedelbart efter återställning (tillåt endast återställning en gång)</string>
+    <string name="applies_to_category_of_item">Gäller endast kategorin för elementet</string>
+    <string name="applies_to_every_category">Gäller alla kategorier, alla element sammanfogade</string>
+    <string name="group_categories_by_country">Aktivera vikningskategorier, gruppera dem efter virtuell kategori, representerande land</string>
     </resources>

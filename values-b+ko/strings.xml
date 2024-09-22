@@ -574,7 +574,6 @@
     <string name="show_info_before_vod">비디오를 시작하기 전에 정보 표시</string>
     <string name="premium_note_dev">프리미엄에 가입하면 앱 개선 및 지원에 도움이됩니다.</string>
     <string name="disable_expire_data">만료 상태 표시 안함</string>
-    <string name="restore_purchases">구매 복원 (문제 해결)</string>
     <string name="future_show_sheet_autoswitch_wl">라이브가 시작되면 자동으로 채널로 전환</string>
     <string name="reuse_cache_for_quick_start">이전 실행에서 빠른 앱 시작을 위해 캐시 재사용 (일부 제공 업체에서는 제대로 작동하지 않을 수 있음)</string>
     <string name="use_spacing_between_elem">요소 사이에 간격 사용</string>
@@ -676,14 +675,12 @@
     <string name="btn_login">로그인</string>
     <string name="btn_register">가입하기</string>
     <string name="add_device">장치를 추가하다</string>
-    <string name="claim_purchase">구매 요청</string>
     <string name="text_is_case_sensitive">"텍스트는 대소문자를 구분합니다."</string>
     <string name="password_does_not_match">"비밀번호가 일치하지 않습니다"</string>
     <string name="login_or_password_incorrect">로그인 또는 비밀번호가 올바르지 않습니다.</string>
     <string name="change_password">비밀번호 변경</string>
     <string name="use_account_for_manage_premium">"프리미엄 계정을 관리할 계정을 만드세요"</string>
     <string name="current_device">현재 사용 중인 기기</string>
-    <string name="import_old_purchase">"이전 구매 활성화"</string>
     <string name="acc_can_no_buy_premium">"귀하의 계정은 프리미엄을 구매할 수 없습니다. ""이 계정을 제공한 사람에게 연락해야 합니다."</string>
     <string name="select_preset">사전 설정 선택</string>
     <string name="use_cyclic_category_navigation">"범주 간 순환 탐색 활성화"</string>
@@ -738,4 +735,11 @@
     <string name="ssl_certificate_issue_detected">SSL(HTTPS) 인증서가 유효하지 않습니다.</string>
     <string name="verify_net_before_update">공급자로부터 데이터를 업데이트하기 전에 네트워크 가용성을 확인하세요.</string>
     <string name="timezone">시간대</string>
+    <string name="error_all_device_slots_used">모든 프리미엄 슬롯이 사용 중이므로 현재 장치를 활성화할 수 없습니다. 추가 슬롯을 구매하거나 더 이상 사용하지 않는 장치를 제거하세요.</string>
+    <string name="contact_support_for_more_options">더 많은 옵션을 알아보려면 앱 지원팀에 문의하세요.</string>
+    <string name="exit_on_back_press">뒤로 버튼을 눌렀을 때 앱이 메모리에서 언로드되었는지 확인</string>
+    <string name="auto_delete_backup_after_restore">복원 후 즉시 백업 데이터 삭제(복원은 한 번만 허용)</string>
+    <string name="applies_to_category_of_item">요소의 카테고리에만 적용됩니다.</string>
+    <string name="applies_to_every_category">모든 카테고리에 적용되며, 결합된 모든 요소</string>
+    <string name="group_categories_by_country">접이식 카테고리를 활성화하고 가상 카테고리별로 그룹화하여 국가를 나타냅니다.</string>
     </resources>

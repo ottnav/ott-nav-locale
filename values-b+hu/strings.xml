@@ -525,7 +525,6 @@
     <string name="show_info_before_vod">Információk megjelenítése a videó elindítása előtt</string>
     <string name="premium_note_dev">A prémiumra való előfizetés segít az alkalmazás fejlesztésében és támogatásában</string>
     <string name="disable_expire_data">Ne jelenjen meg a lejárati állapot</string>
-    <string name="restore_purchases">Vásárlások visszaállítása (hibaelhárítás)</string>
     <string name="future_show_sheet_autoswitch_wl">Automatikus váltás a csatornára, amikor az élő lesz</string>
     <string name="reuse_cache_for_quick_start">Használja újra a gyorsítótárat az alkalmazás gyors indításához az előző indításból (egyes szolgáltatóknál hibásan működhet)</string>
     <string name="use_spacing_between_elem">Használjon távolságot az elemek között</string>
@@ -627,14 +626,12 @@
     <string name="btn_login">Belépés</string>
     <string name="btn_register">Regisztrálj</string>
     <string name="add_device">Eszköz hozzáadása</string>
-    <string name="claim_purchase">Vásárlás igénylése</string>
     <string name="text_is_case_sensitive">A szöveg megkülönbözteti a kis- és nagybetűket</string>
     <string name="password_does_not_match">Jelszó nem egyezik</string>
     <string name="login_or_password_incorrect">A bejelentkezés vagy a jelszó helytelen</string>
     <string name="change_password">Jelszó módosítása</string>
     <string name="use_account_for_manage_premium">Hozzon létre egy fiókot a prémium fiók kezeléséhez</string>
     <string name="current_device">Jelenleg használt készülék</string>
-    <string name="import_old_purchase">Régi vásárlás aktiválása</string>
     <string name="acc_can_no_buy_premium">A fiókja nem vásárolhat prémiumot. Vegye fel a kapcsolatot azzal a személlyel, aki ezt a fiókot adta Önnek.</string>
     <string name="select_preset">Válasszon egy előre beállított beállítást</string>
     <string name="use_cyclic_category_navigation">Ciklikus navigáció engedélyezése a kategóriák között</string>
@@ -689,4 +686,11 @@
     <string name="ssl_certificate_issue_detected">Az SSL (HTTPS) tanúsítvány érvénytelen</string>
     <string name="verify_net_before_update">A szolgáltatók adatainak frissítése előtt ellenőrizze a hálózat elérhetőségét</string>
     <string name="timezone">Időzóna</string>
+    <string name="error_all_device_slots_used">Az aktuális eszközt nem lehet aktiválni, mivel az összes prémium slot foglalt. Vásároljon több slotot, vagy távolítsa el a már nem használt eszközöket.</string>
+    <string name="contact_support_for_more_options">További lehetőségekért forduljon az alkalmazástámogatáshoz</string>
+    <string name="exit_on_back_press">Győződjön meg arról, hogy az alkalmazás a vissza gomb megnyomásakor kikerül a memóriából</string>
+    <string name="auto_delete_backup_after_restore">A biztonsági másolat adatainak törlése azonnal a visszaállítás után (csak egyszer engedélyezze a visszaállítást)</string>
+    <string name="applies_to_category_of_item">Csak az elem kategóriájára vonatkozik</string>
+    <string name="applies_to_every_category">Minden kategóriára vonatkozik, minden egyes elemre</string>
+    <string name="group_categories_by_country">Összecsukható kategóriák engedélyezése, virtuális kategória szerinti csoportosítás, országot jelölve</string>
     </resources>

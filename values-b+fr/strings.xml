@@ -571,7 +571,6 @@
     <string name="show_info_before_vod">Afficher les informations avant de lancer la vidéo</string>
     <string name="premium_note_dev">L\'abonnement à Premium permet d\'améliorer et de soutenir l\'application</string>
     <string name="disable_expire_data">Ne pas afficher l\'état d\'expiration</string>
-    <string name="restore_purchases">Restaurer les achats (dépanner)</string>
     <string name="future_show_sheet_autoswitch_wl">Passer automatiquement à la chaîne lorsqu\'elle sera en direct</string>
     <string name="reuse_cache_for_quick_start">Réutiliser le cache pour un démarrage rapide de l\'application à partir du lancement précédent (peut ne pas fonctionner correctement pour certains fournisseurs)</string>
     <string name="use_spacing_between_elem">Utiliser l\'espacement entre les éléments</string>
@@ -673,14 +672,12 @@
     <string name="btn_login">Connexion</string>
     <string name="btn_register">S\'inscrire</string>
     <string name="add_device">Ajouter un périphérique</string>
-    <string name="claim_purchase">Réclamer un achat</string>
     <string name="text_is_case_sensitive">Le texte est sensible à la casse</string>
     <string name="password_does_not_match">Le mot de passe ne correspond pas</string>
     <string name="login_or_password_incorrect">L\'identifiant ou le mot de passe est incorrect</string>
     <string name="change_password">Changer le mot de passe</string>
     <string name="use_account_for_manage_premium">Créez un compte pour gérer votre compte premium</string>
     <string name="current_device">Appareil actuellement utilisé</string>
-    <string name="import_old_purchase">Activer l\'ancien achat</string>
     <string name="acc_can_no_buy_premium">Votre compte ne peut pas acheter de prime. Vous devez contacter la personne qui vous a donné ce compte.</string>
     <string name="select_preset">Sélectionnez un préréglage</string>
     <string name="use_cyclic_category_navigation">Activer la navigation en boucle entre les catégories</string>
@@ -735,4 +732,11 @@
     <string name="ssl_certificate_issue_detected">Le certificat SSL (HTTPS) n\'est pas valide</string>
     <string name="verify_net_before_update">Vérifier la disponibilité du réseau avant de mettre à jour les données des fournisseurs</string>
     <string name="timezone">Fuseau horaire</string>
+    <string name="error_all_device_slots_used">Impossible d\'activer l\'appareil actuel, car tous les emplacements premium sont occupés. Achetez plus d\'emplacements ou supprimez les appareils qui ne sont plus utilisés.</string>
+    <string name="contact_support_for_more_options">Contactez l\'assistance de l\'application pour plus d\'options</string>
+    <string name="exit_on_back_press">S\'assurer que l\'application est déchargée de la mémoire lorsque le bouton Retour est enfoncé</string>
+    <string name="auto_delete_backup_after_restore">Supprimer les données de sauvegarde immédiatement après la restauration (autoriser la restauration une seule fois)</string>
+    <string name="applies_to_category_of_item">S\'applique uniquement à la catégorie de l\'élément</string>
+    <string name="applies_to_every_category">S\'applique à chaque catégorie, tous les éléments joints</string>
+    <string name="group_categories_by_country">Activer les catégories pliantes, en les regroupant par catégorie virtuelle, représentant le pays</string>
     </resources>

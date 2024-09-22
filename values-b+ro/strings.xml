@@ -525,7 +525,6 @@
     <string name="show_info_before_vod">Afișați informații înainte de lansarea videoclipului</string>
     <string name="premium_note_dev">Abonarea la premium ajută la îmbunătățirea și sprijinirea aplicației</string>
     <string name="disable_expire_data">Nu afișați starea de expirare</string>
-    <string name="restore_purchases">Restabiliți achizițiile (depanare)</string>
     <string name="future_show_sheet_autoswitch_wl">Comutați automat la canal când va fi live</string>
     <string name="reuse_cache_for_quick_start">Reutilizați memoria cache pentru pornirea rapidă a aplicației de la lansarea anterioară (poate funcționa incorect pentru unii furnizori)</string>
     <string name="use_spacing_between_elem">Folosiți spațiere între elemente</string>
@@ -627,14 +626,12 @@
     <string name="btn_login">Autentificare</string>
     <string name="btn_register">Inscrie-te</string>
     <string name="add_device">Adaugă un dispozitiv</string>
-    <string name="claim_purchase">Revendicați o achiziție</string>
     <string name="text_is_case_sensitive">Textul este sensibil la majuscule</string>
     <string name="password_does_not_match">Parola nu se potriveste</string>
     <string name="login_or_password_incorrect">Autentificarea sau parola sunt incorecte</string>
     <string name="change_password">Schimbați parola</string>
     <string name="use_account_for_manage_premium">Creați un cont pentru a vă gestiona contul premium</string>
     <string name="current_device">Dispozitiv folosit în prezent</string>
-    <string name="import_old_purchase">Activați achiziția veche</string>
     <string name="acc_can_no_buy_premium">Contul dvs. nu poate cumpăra premium. Ar trebui să contactați persoana care v-a dat acest cont.</string>
     <string name="select_preset">Selectați o presetare</string>
     <string name="use_cyclic_category_navigation">Activați navigarea ciclică între categorii</string>
@@ -689,4 +686,11 @@
     <string name="ssl_certificate_issue_detected">Certificatul SSL (HTTPS) este nevalid</string>
     <string name="verify_net_before_update">Verificați disponibilitatea rețelei înainte de a actualiza datele de la furnizori</string>
     <string name="timezone">fus orar</string>
+    <string name="error_all_device_slots_used">Nu se poate activa dispozitivul actual, deoarece toate sloturile premium sunt ocupate. Cumpărați mai multe sloturi sau eliminați dispozitivele care nu mai sunt folosite.</string>
+    <string name="contact_support_for_more_options">Contactați asistența aplicației pentru mai multe opțiuni</string>
+    <string name="exit_on_back_press">Asigurarea că aplicația este descărcată din memorie, atunci când butonul înapoi este apăsat</string>
+    <string name="auto_delete_backup_after_restore">Ștergeți datele de rezervă imediat după restaurare (permiteți restaurarea o singură dată)</string>
+    <string name="applies_to_category_of_item">Se aplică numai categoriei elementului</string>
+    <string name="applies_to_every_category">Se aplică pentru fiecare categorie, toate elementele unite</string>
+    <string name="group_categories_by_country">Activați categoriile de pliere, grupându-le pe categorii virtuale, reprezentând țara</string>
     </resources>

@@ -526,7 +526,6 @@
     <string name="show_info_before_vod">ინფორმაციის ჩვენება ვიდეოს გაშვებამდე</string>
     <string name="premium_note_dev">Premium-ის გამოწერა ხელს უწყობს აპის გაუმჯობესებას და მხარდაჭერას</string>
     <string name="disable_expire_data">არ აჩვენოთ ვადის გასვლის სტატუსი</string>
-    <string name="restore_purchases">შესყიდვების აღდგენა (პრობლემების მოგვარება)</string>
     <string name="future_show_sheet_autoswitch_wl">ავტომატურად გადაერთეთ არხზე, როდესაც ის პირდაპირ ეთერში იქნება</string>
     <string name="reuse_cache_for_quick_start">ხელახლა გამოიყენე ქეში აპლიკაციის სწრაფი დაწყებისთვის წინა გაშვებიდან (შეიძლება არასწორად იმუშაოს ზოგიერთი პროვაიდერისთვის)</string>
     <string name="use_spacing_between_elem">გამოიყენეთ მანძილი ელემენტებს შორის</string>
@@ -628,14 +627,12 @@
     <string name="btn_login">Შესვლა</string>
     <string name="btn_register">დარეგისტრირდით</string>
     <string name="add_device">Დაამატე მოწყობილობა</string>
-    <string name="claim_purchase">მოითხოვეთ შესყიდვა</string>
     <string name="text_is_case_sensitive">ტექსტი მგრძნობიარეა რეგისტრის მიხედვით</string>
     <string name="password_does_not_match">Პაროლი არ ემთხვევა</string>
     <string name="login_or_password_incorrect">შესვლა ან პაროლი არასწორია</string>
     <string name="change_password">Პაროლის შეცვლა</string>
     <string name="use_account_for_manage_premium">შექმენით ანგარიში თქვენი პრემიუმ ანგარიშის სამართავად</string>
     <string name="current_device">ამჟამად გამოყენებული მოწყობილობა</string>
-    <string name="import_old_purchase">გააქტიურეთ ძველი შესყიდვა</string>
     <string name="acc_can_no_buy_premium">თქვენს ანგარიშს არ შეუძლია პრემიის შეძენა. თქვენ უნდა დაუკავშირდეთ იმ პირს, ვინც მოგცათ ეს ანგარიში.</string>
     <string name="select_preset">აირჩიეთ წინასწარ დაყენებული</string>
     <string name="use_cyclic_category_navigation">ჩართეთ ციკლური ნავიგაცია კატეგორიებს შორის</string>
@@ -690,4 +687,11 @@
     <string name="ssl_certificate_issue_detected">SSL (HTTPS) სერთიფიკატი არასწორია</string>
     <string name="verify_net_before_update">გადაამოწმეთ ქსელის ხელმისაწვდომობა პროვაიდერების მონაცემების განახლებამდე</string>
     <string name="timezone">დროის სარტყელი</string>
+    <string name="error_all_device_slots_used">მიმდინარე მოწყობილობის გააქტიურება შეუძლებელია, რადგან ყველა პრემიუმ სლოტი დაკავებულია. შეიძინეთ მეტი სლოტი, ან წაშალეთ მოწყობილობები, რომლებიც აღარ გამოიყენება.</string>
+    <string name="contact_support_for_more_options">დაუკავშირდით აპის მხარდაჭერას დამატებითი ვარიანტებისთვის</string>
+    <string name="exit_on_back_press">იმის უზრუნველყოფა, რომ აპი განტვირთულია მეხსიერებიდან, როდესაც დააჭირეთ უკანა ღილაკს</string>
+    <string name="auto_delete_backup_after_restore">წაშალეთ სარეზერვო მონაცემები აღდგენისთანავე (მხოლოდ ერთხელ დაუშვით აღდგენა)</string>
+    <string name="applies_to_category_of_item">ვრცელდება მხოლოდ ელემენტის კატეგორიაზე</string>
+    <string name="applies_to_every_category">ვრცელდება ყველა კატეგორიაზე, ყველა ელემენტი გაერთიანებულია</string>
+    <string name="group_categories_by_country">ჩართეთ დასაკეცი კატეგორიები, მათი დაჯგუფება ვირტუალური კატეგორიის მიხედვით, ქვეყნის წარმომადგენლობით</string>
     </resources>
