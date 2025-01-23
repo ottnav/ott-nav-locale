@@ -384,7 +384,6 @@
     <string name="help_faq">Dažnai užduodami klausimai</string>
     <string name="pla_menu_item_visibility">Meniu mygtukų matomumas</string>
     <string name="pla_menu_type">Meniu vizualinis stilius</string>
-    <string name="pla_menu_type_list">sąrašą</string>
     <string name="pla_menu_type_grid">tinklelis</string>
     <string name="ch_manage_use_internal">Naudokite vidinį grotuvą</string>
     <string name="cat_manage_start_this_cat_on">Pradėkite nuo šios kategorijos</string>
@@ -744,4 +743,19 @@
     <string name="applies_to_category_of_item">Taikoma tik elemento kategorijai</string>
     <string name="applies_to_every_category">Taikoma kiekvienai kategorijai, visi elementai sujungti</string>
     <string name="group_categories_by_country">Įgalinti sulankstomas kategorijas, grupuojant jas pagal virtualias kategorijas, atstovaujančias šaliai</string>
+    <string name="with_lower_priority">su mažesniu prioritetu</string>
+    <string name="vod_folder_tv_show">TV laidos</string>
+    <string name="radio_stations">Radijo stotys</string>
+    <string name="reversed_direction">Atvirkštinė kryptis</string>
+    <string name="remove_some_provider_categories">Pašalinkite kai kurias kategorijas iš teikėjo duomenų</string>
+    <string name="rename_provider_categories">Pervardykite kategorijas iš teikėjo duomenų</string>
+    <string name="use_deep_search">Išsami paieška (pagal aktorius, šalis ir kt.)</string>
+    <string name="row_1_view">Vienos eilės vaizdas</string>
+    <string name="column_1_view">Vieno stulpelio vaizdas</string>
+    <string name="background_color">Fono spalva</string>
+    <string name="opacity">Neskaidrumas</string>
+    <string name="use_vertical_player_when_browsing">Naršydami kanalus naudokite vertikalų grotuvą</string>
+    <string name="discover_new_content">Atraskite naują turinį</string>
+    <string name="highest_rated">Geriausiai įvertinta</string>
+    <string name="random_selection">Atsitiktinis pasirinkimas</string>
     </resources>

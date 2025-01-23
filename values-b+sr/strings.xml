@@ -372,7 +372,6 @@
     <string name="help_faq">Често постављена питања</string>
     <string name="pla_menu_item_visibility">Видљивост мени дугмића</string>
     <string name="pla_menu_type">Визуелни стил менија</string>
-    <string name="pla_menu_type_list">листа</string>
     <string name="pla_menu_type_grid">мрежа</string>
     <string name="ch_manage_use_internal">Користи интерни плејер</string>
     <string name="cat_manage_start_this_cat_on">Почни од ове категорије</string>
@@ -733,4 +732,19 @@
     <string name="applies_to_category_of_item">Односи се само на категорију елемента</string>
     <string name="applies_to_every_category">Важи за сваку категорију, све спојене елементе</string>
     <string name="group_categories_by_country">Омогућите преклапање категорија, груписајући их по виртуелној категорији, представљајући земљу</string>
+    <string name="with_lower_priority">са нижим приоритетом</string>
+    <string name="vod_folder_tv_show">ТВ емисије</string>
+    <string name="radio_stations">Радио станице</string>
+    <string name="reversed_direction">Обрнути смер</string>
+    <string name="remove_some_provider_categories">Уклоните неке категорије из података добављача</string>
+    <string name="rename_provider_categories">Преименујте категорије из података провајдера</string>
+    <string name="use_deep_search">Дубока претрага (по глумцима, земљама итд.)</string>
+    <string name="row_1_view">Поглед у једном реду</string>
+    <string name="column_1_view">Приказ једне колоне</string>
+    <string name="background_color">Боја позадине</string>
+    <string name="opacity">Опацити</string>
+    <string name="use_vertical_player_when_browsing">Користите вертикални плејер када претражујете канале</string>
+    <string name="discover_new_content">Откријте нови садржај</string>
+    <string name="highest_rated">Најбоље рангиран</string>
+    <string name="random_selection">Случајни избор</string>
     </resources>

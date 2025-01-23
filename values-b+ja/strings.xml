@@ -335,7 +335,6 @@
     <string name="help_faq">よくある質問</string>
     <string name="pla_menu_item_visibility">メニューボタンの可視性</string>
     <string name="pla_menu_type">メニューのビジュアルスタイル</string>
-    <string name="pla_menu_type_list">リスト</string>
     <string name="pla_menu_type_grid">グリッド</string>
     <string name="ch_manage_use_internal">内部プレーヤーを使用</string>
     <string name="cat_manage_start_this_cat_on">このカテゴリから始める</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">要素のカテゴリにのみ適用されます</string>
     <string name="applies_to_every_category">すべてのカテゴリに適用され、すべての要素が結合されます</string>
     <string name="group_categories_by_country">折りたたみカテゴリを有効にして、国を表す仮想カテゴリごとにグループ化します。</string>
+    <string name="with_lower_priority">優先度が低い</string>
+    <string name="vod_folder_tv_show">テレビ番組</string>
+    <string name="radio_stations">ラジオ局</string>
+    <string name="reversed_direction">逆方向</string>
+    <string name="remove_some_provider_categories">プロバイダー データから一部のカテゴリを削除する</string>
+    <string name="rename_provider_categories">プロバイダーデータからカテゴリの名前を変更する</string>
+    <string name="use_deep_search">詳細な検索 (俳優、国などによる)</string>
+    <string name="row_1_view">単一行ビュー</string>
+    <string name="column_1_view">単一列ビュー</string>
+    <string name="background_color">背景色</string>
+    <string name="opacity">不透明度</string>
+    <string name="use_vertical_player_when_browsing">チャンネルを閲覧するときに垂直プレーヤーを使用する</string>
+    <string name="discover_new_content">新しいコンテンツを発見する</string>
+    <string name="highest_rated">最高ランクの上位</string>
+    <string name="random_selection">ランダムな選択</string>
     </resources>

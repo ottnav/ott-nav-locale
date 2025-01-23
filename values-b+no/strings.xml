@@ -335,7 +335,6 @@
     <string name="help_faq">Ofte stilte spørsmål</string>
     <string name="pla_menu_item_visibility">Synlighet av menyknapper</string>
     <string name="pla_menu_type">Meny visuell stil</string>
-    <string name="pla_menu_type_list">liste</string>
     <string name="pla_menu_type_grid">Nett</string>
     <string name="ch_manage_use_internal">Bruk intern spiller</string>
     <string name="cat_manage_start_this_cat_on">Start fra denne kategorien</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Gjelder kun kategorien til elementet</string>
     <string name="applies_to_every_category">Gjelder alle kategorier, alle elementer sammenføyd</string>
     <string name="group_categories_by_country">Aktiver brettekategorier, grupper dem etter virtuell kategori, som representerer land</string>
+    <string name="with_lower_priority">med lavere prioritet</string>
+    <string name="vod_folder_tv_show">TV-programmer</string>
+    <string name="radio_stations">Radiostasjoner</string>
+    <string name="reversed_direction">Omvendt retning</string>
+    <string name="remove_some_provider_categories">Fjern noen kategorier fra leverandørdata</string>
+    <string name="rename_provider_categories">Gi nytt navn til kategorier fra leverandørdata</string>
+    <string name="use_deep_search">Dypsøk (etter skuespillere, land osv.)</string>
+    <string name="row_1_view">Enkeltradsvisning</string>
+    <string name="column_1_view">Enkel kolonnevisning</string>
+    <string name="background_color">Bakgrunnsfarge</string>
+    <string name="opacity">Opasitet</string>
+    <string name="use_vertical_player_when_browsing">Bruk vertikal spiller når du blar gjennom kanaler</string>
+    <string name="discover_new_content">Oppdag nytt innhold</string>
+    <string name="highest_rated">Topp best rangert</string>
+    <string name="random_selection">Tilfeldig utvalg</string>
     </resources>

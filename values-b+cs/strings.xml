@@ -334,7 +334,6 @@
     <string name="help_faq">Často kladené otázky</string>
     <string name="pla_menu_item_visibility">Viditelnost tlačítek nabídky</string>
     <string name="pla_menu_type">Vizuální styl menu</string>
-    <string name="pla_menu_type_list">seznam</string>
     <string name="pla_menu_type_grid">mřížka</string>
     <string name="ch_manage_use_internal">Použijte interní přehrávač</string>
     <string name="cat_manage_start_this_cat_on">Začněte z této kategorie</string>
@@ -693,4 +692,19 @@
     <string name="applies_to_category_of_item">Platí pouze pro kategorii prvku</string>
     <string name="applies_to_every_category">Platí pro každou kategorii, všechny prvky spojené</string>
     <string name="group_categories_by_country">Povolit skládání kategorií, seskupování podle virtuální kategorie, reprezentující zemi</string>
+    <string name="with_lower_priority">s nižší prioritou</string>
+    <string name="vod_folder_tv_show">televizní pořady</string>
+    <string name="radio_stations">Rozhlasové stanice</string>
+    <string name="reversed_direction">Obrácený směr</string>
+    <string name="remove_some_provider_categories">Odeberte některé kategorie z dat poskytovatele</string>
+    <string name="rename_provider_categories">Přejmenujte kategorie z dat poskytovatele</string>
+    <string name="use_deep_search">Hluboké vyhledávání (podle herců, zemí atd.)</string>
+    <string name="row_1_view">Pohled na jeden řádek</string>
+    <string name="column_1_view">Pohled na jeden sloupec</string>
+    <string name="background_color">Barva pozadí</string>
+    <string name="opacity">Neprůhlednost</string>
+    <string name="use_vertical_player_when_browsing">Při procházení kanálů používejte vertikální přehrávač</string>
+    <string name="discover_new_content">Objevte nový obsah</string>
+    <string name="highest_rated">Nejlépe hodnocené</string>
+    <string name="random_selection">Náhodný výběr</string>
     </resources>

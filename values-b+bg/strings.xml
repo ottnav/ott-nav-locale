@@ -335,7 +335,6 @@
     <string name="help_faq">Често задавани въпроси</string>
     <string name="pla_menu_item_visibility">Видимост на бутоните от менюто</string>
     <string name="pla_menu_type">Меню визуален стил</string>
-    <string name="pla_menu_type_list">Списък</string>
     <string name="pla_menu_type_grid">Решетка</string>
     <string name="ch_manage_use_internal">Използване на вътрешен плейър</string>
     <string name="cat_manage_start_this_cat_on">Започване от тази категория</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Отнася се само за категорията на елемента</string>
     <string name="applies_to_every_category">Отнася се за всяка категория, всички обединени елементи</string>
     <string name="group_categories_by_country">Активиране на сгъваеми категории, групирането им по виртуална категория, представяща държава</string>
+    <string name="with_lower_priority">с по-нисък приоритет</string>
+    <string name="vod_folder_tv_show">телевизионни предавания</string>
+    <string name="radio_stations">Радиостанции</string>
+    <string name="reversed_direction">Обърната посока</string>
+    <string name="remove_some_provider_categories">Премахнете някои категории от данните на доставчика</string>
+    <string name="rename_provider_categories">Преименувайте категории от данни на доставчика</string>
+    <string name="use_deep_search">Задълбочено търсене (по актьори, държави и т.н.)</string>
+    <string name="row_1_view">Изглед на един ред</string>
+    <string name="column_1_view">Изглед с една колона</string>
+    <string name="background_color">Цвят на фона</string>
+    <string name="opacity">Непрозрачност</string>
+    <string name="use_vertical_player_when_browsing">Използвайте вертикален плейър, когато преглеждате канали</string>
+    <string name="discover_new_content">Открийте ново съдържание</string>
+    <string name="highest_rated">Топ най-добре класиран</string>
+    <string name="random_selection">Случаен избор</string>
     </resources>

@@ -128,7 +128,7 @@
     <string name="settings_palette_style">Renk Paleti Şeması</string>
     <string name="settings_ui_screen_margins">Ekran kenar boşlukları</string>
     <string name="settings_ui_language">Uygulama Dili</string>
-    <string name="settings_codec">Her zaman VLC yazılım kodeklerini kullan</string>
+    <string name="settings_codec">Kodek ayarları</string>
     <string name="settings_codec_hard">Her zaman donanım codec bileşenlerini kullan</string>
     <string name="settings_codec_soft_vlc">Her zaman VLC yazılım kodeklerini kullan</string>
     <string name="settings_codec_external">Her zaman harici oynatıcıyı kullan</string>
@@ -335,7 +335,6 @@
     <string name="help_faq">Sıkça Sorulan Sorular</string>
     <string name="pla_menu_item_visibility">Menü butonları görünürlüğü</string>
     <string name="pla_menu_type">Menü görsel stili…</string>
-    <string name="pla_menu_type_list">Liste</string>
     <string name="pla_menu_type_grid">Izgara</string>
     <string name="ch_manage_use_internal">Dahili oynatıcıyı kullan</string>
     <string name="cat_manage_start_this_cat_on">Bu kategoriden başla</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Yalnızca öğenin kategorisi için geçerlidir</string>
     <string name="applies_to_every_category">Her kategori için geçerlidir, tüm öğeler birleştirilmiştir</string>
     <string name="group_categories_by_country">Kategorileri katlamayı etkinleştirin, bunları sanal kategoriye göre gruplandırın, ülkeyi temsil edin</string>
+    <string name="with_lower_priority">daha düşük öncelikli</string>
+    <string name="vod_folder_tv_show">TV şovları</string>
+    <string name="radio_stations">Radyo istasyonları</string>
+    <string name="reversed_direction">Ters yön</string>
+    <string name="remove_some_provider_categories">Sağlayıcı verilerinden bazı kategorileri kaldırın</string>
+    <string name="rename_provider_categories">Sağlayıcı verilerinden kategorileri yeniden adlandırın</string>
+    <string name="use_deep_search">Derin arama (aktörlere, ülkelere vb. göre)</string>
+    <string name="row_1_view">Tek satır görünümü</string>
+    <string name="column_1_view">Tek sütun görünümü</string>
+    <string name="background_color">Arka plan rengi</string>
+    <string name="opacity">Opaklık</string>
+    <string name="use_vertical_player_when_browsing">Kanallara göz atarken dikey oynatıcıyı kullanın</string>
+    <string name="discover_new_content">Yeni içeriği keşfedin</string>
+    <string name="highest_rated">En iyi sıralamaya sahip</string>
+    <string name="random_selection">Rastgele seçim</string>
     </resources>

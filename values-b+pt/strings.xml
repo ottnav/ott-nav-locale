@@ -27,7 +27,7 @@
     <string name="category_by_country">Filtrar por país de origem</string>
     <string name="category_by_unsorted">Todos</string>
     <string name="category_by_favorite">Favoritos</string>
-    <string name="category_desc_movies">Filtro automático de odas as séries</string>
+    <string name="category_desc_movies">Filtro automático de todas as séries</string>
     <string name="category_desc_tv_series">Filtro automático de todas as séries</string>
     <string name="category_desc_tv_shows">Filtro automático de todos os programas de TV</string>
     <string name="category_desc_exact_tv_shows">Programas de TV</string>
@@ -379,7 +379,6 @@
     <string name="help_faq">Perguntas frequentes</string>
     <string name="pla_menu_item_visibility">Visibilidade dos botões de menu</string>
     <string name="pla_menu_type">Visual do menu</string>
-    <string name="pla_menu_type_list">lista</string>
     <string name="pla_menu_type_grid">grade</string>
     <string name="ch_manage_use_internal">utilizar player interno</string>
     <string name="cat_manage_start_this_cat_on">Comece nesta categoria</string>
@@ -739,4 +738,19 @@
     <string name="applies_to_category_of_item">Aplica-se apenas à categoria do elemento</string>
     <string name="applies_to_every_category">Aplica-se a todas as categorias, todos os elementos unidos</string>
     <string name="group_categories_by_country">Habilite categorias dobráveis, agrupando-as por categoria virtual, representando o país</string>
+    <string name="with_lower_priority">com menor prioridade</string>
+    <string name="vod_folder_tv_show">Programas de TV</string>
+    <string name="radio_stations">Estações de rádio</string>
+    <string name="reversed_direction">Direção invertida</string>
+    <string name="remove_some_provider_categories">Remova algumas categorias dos dados do provedor</string>
+    <string name="rename_provider_categories">Renomear categorias dos dados do provedor</string>
+    <string name="use_deep_search">Pesquisa profunda (por atores, países, etc.)</string>
+    <string name="row_1_view">Visualização de linha única</string>
+    <string name="column_1_view">Visualização de coluna única</string>
+    <string name="background_color">Cor de fundo</string>
+    <string name="opacity">Opacidade</string>
+    <string name="use_vertical_player_when_browsing">Use o player vertical ao navegar pelos canais</string>
+    <string name="discover_new_content">Descubra novos conteúdos</string>
+    <string name="highest_rated">Top melhor classificado</string>
+    <string name="random_selection">Seleção aleatória</string>
     </resources>

@@ -380,7 +380,6 @@
     <string name="help_faq">अक्सर पूछे जाने वाले प्रश्न</string>
     <string name="pla_menu_item_visibility">मेनू बटन दृश्यता</string>
     <string name="pla_menu_type">मेनू दृश्य शैली</string>
-    <string name="pla_menu_type_list">सूची</string>
     <string name="pla_menu_type_grid">ग्रिड</string>
     <string name="ch_manage_use_internal">आंतरिक खिलाड़ी का उपयोग करें</string>
     <string name="cat_manage_start_this_cat_on">इस श्रेणी से शुरू करें</string>
@@ -740,4 +739,19 @@
     <string name="applies_to_category_of_item">केवल तत्व की श्रेणी पर लागू होता है</string>
     <string name="applies_to_every_category">हर श्रेणी पर लागू होता है, सभी तत्व शामिल होते हैं</string>
     <string name="group_categories_by_country">श्रेणियों को मोड़ने में सक्षम करें, उन्हें वर्चुअल श्रेणी के आधार पर समूहित करें, देश का प्रतिनिधित्व करें</string>
+    <string name="with_lower_priority">कम प्राथमिकता के साथ</string>
+    <string name="vod_folder_tv_show">टीवी शो</string>
+    <string name="radio_stations">रेडियो स्टेशन</string>
+    <string name="reversed_direction">उलटी दिशा</string>
+    <string name="remove_some_provider_categories">प्रदाता डेटा से कुछ श्रेणियाँ हटाएँ</string>
+    <string name="rename_provider_categories">प्रदाता डेटा से श्रेणियों का नाम बदलें</string>
+    <string name="use_deep_search">गहन खोज (अभिनेताओं, देशों आदि द्वारा)</string>
+    <string name="row_1_view">एकल पंक्ति दृश्य</string>
+    <string name="column_1_view">एकल स्तंभ दृश्य</string>
+    <string name="background_color">पृष्ठभूमि का रंग</string>
+    <string name="opacity">अस्पष्टता</string>
+    <string name="use_vertical_player_when_browsing">चैनल ब्राउज़ करते समय वर्टिकल प्लेयर का उपयोग करें</string>
+    <string name="discover_new_content">नई सामग्री खोजें</string>
+    <string name="highest_rated">शीर्ष सर्वश्रेष्ठ रैंक</string>
+    <string name="random_selection">यादृच्छिक चयन</string>
     </resources>

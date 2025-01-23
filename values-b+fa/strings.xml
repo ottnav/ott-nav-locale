@@ -380,7 +380,6 @@
     <string name="help_faq">سوالات متداول</string>
     <string name="pla_menu_item_visibility">قابلیت مشاهده دکمه های منو</string>
     <string name="pla_menu_type">سبک بصری منو</string>
-    <string name="pla_menu_type_list">فهرست</string>
     <string name="pla_menu_type_grid">توری</string>
     <string name="ch_manage_use_internal">از پخش کننده داخلی استفاده کنید</string>
     <string name="cat_manage_start_this_cat_on">از این دسته شروع کنید</string>
@@ -740,4 +739,19 @@
     <string name="applies_to_category_of_item">ﺩﻮﺷ ﯽﻣ ﻝﺎﻤﻋﺍ ﺮﺼﻨﻋ ﻪﺘﺳﺩ ﯼﺍﺮﺑ ﻂﻘﻓ</string>
     <string name="applies_to_every_category">ﺪﻧﺍ ﻩﺪﺷ ﻖﺤﻠﻣ ﺮﺻﺎﻨﻋ ﻪﻤﻫ ،ﺩﻮﺷ ﯽﻣ ﻝﺎﻤﻋﺍ ﻪﺘﺳﺩ ﺮﻫ ﯼﺍﺮﺑ</string>
     <string name="group_categories_by_country">ﺭﻮﺸﮐ ﺯﺍ ﯽﮔﺪﻨﯾﺎﻤﻧ ﻪﺑ ،ﺪﯿﻨﮐ ﯼﺪﻨﺑu200cﻩﻭﺮﮔ ﯼﺯﺎﺠﻣ ﯼﺪﻨﺑu200cﻪﺘﺳﺩ ﺱﺎﺳﺍ ﺮﺑ ﺍﺭ ﺎﻬﻧﺁ ،ﺪﯿﻨﮐ ﻝﺎﻌﻓ ﺍﺭ ﻮﺷﺎﺗ ﯼﺎﻫu200cﻪﺘﺳﺩ</string>
+    <string name="with_lower_priority">ﺮﺘﻤﮐ ﺖﯾﻮﻟﻭﺍ ﺎﺑ</string>
+    <string name="vod_folder_tv_show">ﯽﻧﻮﯾﺰﯾﻮﻠﺗ ﯼﺎﻫ ﻪﻣﺎﻧﺮﺑ</string>
+    <string name="radio_stations">ﯽﯾﻮﯾﺩﺍﺭ ﯼﺎﻫ ﻩﺎﮕﺘﺴﯾﺍ</string>
+    <string name="reversed_direction">ﺱﻮﮑﻌﻣ ﺖﻬﺟ</string>
+    <string name="remove_some_provider_categories">ﺪﯿﻨﮐ ﻑﺬﺣ ﻩﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ ﯼﺎﻫ ﻩﺩﺍﺩ ﺯﺍ ﺍﺭ ﺎﻫ ﻪﺘﺳﺩ ﺯﺍ ﯽﺧﺮﺑ</string>
+    <string name="rename_provider_categories">ﻩﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ ﯼﺎﻫ ﻩﺩﺍﺩ ﺯﺍ ﺎﻫ ﻪﺘﺳﺩ ﻡﺎﻧ ﺮﯿﯿﻐﺗ</string>
+    <string name="use_deep_search">(ﻩﺮﯿﻏ ﻭ ﺎﻫﺭﻮﺸﮐ ،ﻥﺍﺮﮕﯾﺯﺎﺑ ﺱﺎﺳﺍ ﺮﺑ) ﻖﯿﻤﻋ ﯼﻮﺠﺘﺴﺟ</string>
+    <string name="row_1_view">ﯽﻔﯾﺩﺭ ﮏﺗ ﯼﺎﻤﻧ</string>
+    <string name="column_1_view">ﯽﻧﻮﺘﺳ ﮏﺗ ﯼﺎﻤﻧ</string>
+    <string name="background_color">ﻪﻨﯿﻣﺯ ﺲﭘ ﮓﻧﺭ</string>
+    <string name="opacity">ﺕﺭﻭﺪﮐ</string>
+    <string name="use_vertical_player_when_browsing">ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﯼﺩﻮﻤﻋ ﻩﺪﻨﻨﮐ ﺶﺨﭘ ﺯﺍ ﺎﻫ ﻝﺎﻧﺎﮐ ﺭﻭﺮﻣ ﻡﺎﮕﻨﻫ</string>
+    <string name="discover_new_content">ﺪﯿﻨﮐ ﻒﺸﮐ ﺍﺭ ﺪﯾﺪﺟ ﯼﺍﻮﺘﺤﻣ</string>
+    <string name="highest_rated">ﺮﺗﺮﺑ ﻪﺒﺗﺭ ﻦﯾﺮﺘﻬﺑ</string>
+    <string name="random_selection">ﯽﻓﺩﺎﺼﺗ ﺏﺎﺨﺘﻧﺍ</string>
     </resources>

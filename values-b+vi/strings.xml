@@ -372,7 +372,6 @@
     <string name="help_faq">Câu hỏi thường gặp</string>
     <string name="pla_menu_item_visibility">Hiển thị các nút menu</string>
     <string name="pla_menu_type">Phong cách menu</string>
-    <string name="pla_menu_type_list">danh sách</string>
     <string name="pla_menu_type_grid">lưới</string>
     <string name="ch_manage_use_internal">Sử dụng trình phát ngoài</string>
     <string name="cat_manage_start_this_cat_on">Bắt đầu từ danh mục này</string>
@@ -732,4 +731,19 @@
     <string name="applies_to_category_of_item">Chỉ áp dụng cho danh mục của phần tử</string>
     <string name="applies_to_every_category">Áp dụng cho mọi danh mục, tất cả các thành phần đã tham gia</string>
     <string name="group_categories_by_country">Kích hoạt tính năng gấp các danh mục, nhóm chúng theo danh mục ảo, đại diện cho quốc gia</string>
+    <string name="with_lower_priority">với mức độ ưu tiên thấp hơn</string>
+    <string name="vod_folder_tv_show">chương trình truyền hình</string>
+    <string name="radio_stations">Đài phát thanh</string>
+    <string name="reversed_direction">Hướng ngược lại</string>
+    <string name="remove_some_provider_categories">Xóa một số danh mục khỏi dữ liệu nhà cung cấp</string>
+    <string name="rename_provider_categories">Đổi tên danh mục từ dữ liệu nhà cung cấp</string>
+    <string name="use_deep_search">Tìm kiếm sâu (theo diễn viên, quốc gia, v.v.)</string>
+    <string name="row_1_view">Chế độ xem hàng đơn</string>
+    <string name="column_1_view">Chế độ xem cột đơn</string>
+    <string name="background_color">Màu nền</string>
+    <string name="opacity">Độ mờ</string>
+    <string name="use_vertical_player_when_browsing">Sử dụng trình phát dọc khi duyệt kênh</string>
+    <string name="discover_new_content">Khám phá nội dung mới</string>
+    <string name="highest_rated">Xếp hạng tốt nhất hàng đầu</string>
+    <string name="random_selection">Lựa chọn ngẫu nhiên</string>
     </resources>

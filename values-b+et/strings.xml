@@ -378,7 +378,6 @@
     <string name="help_faq">Korduma kippuvad küsimused</string>
     <string name="pla_menu_item_visibility">Menüünuppude nähtavus</string>
     <string name="pla_menu_type">Menüü visuaalne stiil</string>
-    <string name="pla_menu_type_list">nimekirja</string>
     <string name="pla_menu_type_grid">võrku</string>
     <string name="ch_manage_use_internal">Kasutage sisemist mängijat</string>
     <string name="cat_manage_start_this_cat_on">Alustage sellest kategooriast</string>
@@ -738,4 +737,19 @@
     <string name="applies_to_category_of_item">Kehtib ainult elemendi kategooria kohta</string>
     <string name="applies_to_every_category">Kehtib iga kategooria kohta, kõik elemendid on ühendatud</string>
     <string name="group_categories_by_country">Luba kategooriate voltimine, rühmitamine virtuaalse kategooria järgi, mis esindab riiki</string>
+    <string name="with_lower_priority">madalama prioriteediga</string>
+    <string name="vod_folder_tv_show">Telesaated</string>
+    <string name="radio_stations">Raadiojaamad</string>
+    <string name="reversed_direction">Pööratud suund</string>
+    <string name="remove_some_provider_categories">Eemaldage teenusepakkuja andmetest mõned kategooriad</string>
+    <string name="rename_provider_categories">Kategooriate ümbernimetamine teenusepakkuja andmete põhjal</string>
+    <string name="use_deep_search">Põhjalik otsing (näitlejate, riikide jne järgi)</string>
+    <string name="row_1_view">Üherealine vaade</string>
+    <string name="column_1_view">Ühe veeru vaade</string>
+    <string name="background_color">Taustavärv</string>
+    <string name="opacity">Läbipaistmatus</string>
+    <string name="use_vertical_player_when_browsing">Kasutage kanalite sirvimisel vertikaalset pleierit</string>
+    <string name="discover_new_content">Avastage uut sisu</string>
+    <string name="highest_rated">Parima asetusega</string>
+    <string name="random_selection">Juhuslik valik</string>
     </resources>

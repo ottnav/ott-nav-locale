@@ -335,7 +335,6 @@
     <string name="help_faq">คำถามที่พบบ่อย</string>
     <string name="pla_menu_item_visibility">การมองเห็นปุ่มเมนู</string>
     <string name="pla_menu_type">สไตล์ภาพเมนู</string>
-    <string name="pla_menu_type_list">รายการ</string>
     <string name="pla_menu_type_grid">กริด</string>
     <string name="ch_manage_use_internal">ใช้เครื่องเล่นภายใน</string>
     <string name="cat_manage_start_this_cat_on">เริ่มจากหมวดนี้</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">ใช้กับหมวดหมู่ขององค์ประกอบเท่านั้น</string>
     <string name="applies_to_every_category">ใช้กับทุกหมวดหมู่ ทุกองค์ประกอบที่เข้าร่วม</string>
     <string name="group_categories_by_country">เปิดใช้งานหมวดหมู่การพับ โดยจัดกลุ่มตามหมวดหมู่เสมือนจริง ซึ่งเป็นตัวแทนของประเทศ</string>
+    <string name="with_lower_priority">โดยมีลำดับความสำคัญต่ำกว่า</string>
+    <string name="vod_folder_tv_show">รายการทีวี</string>
+    <string name="radio_stations">สถานีวิทยุ</string>
+    <string name="reversed_direction">ทิศทางกลับกัน</string>
+    <string name="remove_some_provider_categories">ลบบางหมวดหมู่ออกจากข้อมูลผู้ให้บริการ</string>
+    <string name="rename_provider_categories">เปลี่ยนชื่อหมวดหมู่จากข้อมูลของผู้ให้บริการ</string>
+    <string name="use_deep_search">การค้นหาเชิงลึก (ตามนักแสดง ประเทศ ฯลฯ)</string>
+    <string name="row_1_view">มุมมองแถวเดียว</string>
+    <string name="column_1_view">มุมมองคอลัมน์เดียว</string>
+    <string name="background_color">สีพื้นหลัง</string>
+    <string name="opacity">ความทึบ</string>
+    <string name="use_vertical_player_when_browsing">ใช้เครื่องเล่นแนวตั้งเมื่อเรียกดูช่อง</string>
+    <string name="discover_new_content">ค้นพบเนื้อหาใหม่</string>
+    <string name="highest_rated">ติดอันดับดีที่สุด</string>
+    <string name="random_selection">สุ่มเลือก</string>
     </resources>

@@ -377,7 +377,6 @@
     <string name="help_faq">Bieži uzdotie jautājumi</string>
     <string name="pla_menu_item_visibility">Izvēlnes pogas redzamība</string>
     <string name="pla_menu_type">Izvēlnes vizuālais stils</string>
-    <string name="pla_menu_type_list">sarakstu</string>
     <string name="pla_menu_type_grid">režģis</string>
     <string name="ch_manage_use_internal">Izmantojiet iekšējo atskaņotāju</string>
     <string name="cat_manage_start_this_cat_on">Sāciet no šīs kategorijas</string>
@@ -737,4 +736,19 @@
     <string name="applies_to_category_of_item">Attiecas tikai uz elementa kategoriju</string>
     <string name="applies_to_every_category">Attiecas uz katru kategoriju, visi elementi ir savienoti</string>
     <string name="group_categories_by_country">Iespējot locīšanas kategorijas, grupējot tās pēc virtuālās kategorijas, kas pārstāv valsti</string>
+    <string name="with_lower_priority">ar zemāku prioritāti</string>
+    <string name="vod_folder_tv_show">TV šovi</string>
+    <string name="radio_stations">Radiostacijas</string>
+    <string name="reversed_direction">Apgriezts virziens</string>
+    <string name="remove_some_provider_categories">Noņemiet dažas kategorijas no pakalpojumu sniedzēja datiem</string>
+    <string name="rename_provider_categories">Pārdēvējiet kategorijas no pakalpojumu sniedzēja datiem</string>
+    <string name="use_deep_search">Padziļināta meklēšana (pēc aktieriem, valstīm utt.)</string>
+    <string name="row_1_view">Vienas rindas skats</string>
+    <string name="column_1_view">Vienas kolonnas skats</string>
+    <string name="background_color">Fona krāsa</string>
+    <string name="opacity">Necaurredzamība</string>
+    <string name="use_vertical_player_when_browsing">Pārlūkojot kanālus, izmantojiet vertikālo atskaņotāju</string>
+    <string name="discover_new_content">Atklājiet jaunu saturu</string>
+    <string name="highest_rated">Labākais reitings</string>
+    <string name="random_selection">Nejauša atlase</string>
     </resources>

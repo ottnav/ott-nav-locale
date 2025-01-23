@@ -335,7 +335,6 @@
     <string name="help_faq">Često Postavljena Pitanja</string>
     <string name="pla_menu_item_visibility">Vidljivost dugmadi menija</string>
     <string name="pla_menu_type">Vizuelni stil menija</string>
-    <string name="pla_menu_type_list">lista</string>
     <string name="pla_menu_type_grid">grid</string>
     <string name="ch_manage_use_internal">Koristite interni plejer</string>
     <string name="cat_manage_start_this_cat_on">Krenite od ove kategorije</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Primjenjuje se samo na kategoriju elementa</string>
     <string name="applies_to_every_category">Primjenjuje se na svaku kategoriju, sve spojene elemente</string>
     <string name="group_categories_by_country">Omogućite preklapanje kategorija, grupisajući ih po virtuelnoj kategoriji, predstavljajući zemlju</string>
+    <string name="with_lower_priority">sa nižim prioritetom</string>
+    <string name="vod_folder_tv_show">TV emisije</string>
+    <string name="radio_stations">Radio stanice</string>
+    <string name="reversed_direction">Obrnuti smjer</string>
+    <string name="remove_some_provider_categories">Uklonite neke kategorije iz podataka dobavljača</string>
+    <string name="rename_provider_categories">Preimenujte kategorije iz podataka provajdera</string>
+    <string name="use_deep_search">Duboka pretraga (po glumcima, zemljama, itd.)</string>
+    <string name="row_1_view">Pogled u jednom redu</string>
+    <string name="column_1_view">Pogled sa jednom kolonom</string>
+    <string name="background_color">Boja pozadine</string>
+    <string name="opacity">Opacity</string>
+    <string name="use_vertical_player_when_browsing">Koristite vertikalni plejer kada pretražujete kanale</string>
+    <string name="discover_new_content">Otkrijte nove sadržaje</string>
+    <string name="highest_rated">Najbolje rangiran</string>
+    <string name="random_selection">Slučajni odabir</string>
     </resources>

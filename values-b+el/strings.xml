@@ -335,7 +335,6 @@
     <string name="help_faq">Συχνές ερωτήσεις</string>
     <string name="pla_menu_item_visibility">Ορατότητα κουμπιών μενού</string>
     <string name="pla_menu_type">Μενού οπτικού στυλ</string>
-    <string name="pla_menu_type_list">λίστα</string>
     <string name="pla_menu_type_grid">πλέγμα</string>
     <string name="ch_manage_use_internal">Χρησιμοποιήστε την εσωτερική συσκευή αναπαραγωγής</string>
     <string name="cat_manage_start_this_cat_on">Ξεκινήστε από αυτήν την κατηγορία</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Ισχύει μόνο για την κατηγορία του στοιχείου</string>
     <string name="applies_to_every_category">Ισχύει για κάθε κατηγορία, όλα τα στοιχεία ενωμένα</string>
     <string name="group_categories_by_country">Ενεργοποιήστε τις αναδιπλούμενες κατηγορίες, ομαδοποιώντας τις ανά εικονική κατηγορία, αντιπροσωπεύοντας τη χώρα</string>
+    <string name="with_lower_priority">με χαμηλότερη προτεραιότητα</string>
+    <string name="vod_folder_tv_show">τηλεοπτικές εκπομπές</string>
+    <string name="radio_stations">Ραδιοφωνικοί σταθμοί</string>
+    <string name="reversed_direction">Αντίστροφη κατεύθυνση</string>
+    <string name="remove_some_provider_categories">Καταργήστε ορισμένες κατηγορίες από τα δεδομένα παρόχου</string>
+    <string name="rename_provider_categories">Μετονομασία κατηγοριών από δεδομένα παρόχου</string>
+    <string name="use_deep_search">Βαθιά αναζήτηση (κατά ηθοποιούς, χώρες κ.λπ.)</string>
+    <string name="row_1_view">Προβολή μονής σειράς</string>
+    <string name="column_1_view">Προβολή μονής στήλης</string>
+    <string name="background_color">Χρώμα φόντου</string>
+    <string name="opacity">Αδιαφάνεια</string>
+    <string name="use_vertical_player_when_browsing">Χρησιμοποιήστε κάθετη συσκευή αναπαραγωγής κατά την περιήγηση σε κανάλια</string>
+    <string name="discover_new_content">Ανακαλύψτε νέο περιεχόμενο</string>
+    <string name="highest_rated">Κορυφαία καλύτερη κατάταξη</string>
+    <string name="random_selection">Τυχαία επιλογή</string>
     </resources>

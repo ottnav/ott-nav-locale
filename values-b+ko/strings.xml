@@ -382,7 +382,6 @@
     <string name="help_faq">자주 묻는 질문</string>
     <string name="pla_menu_item_visibility">메뉴 버튼 공개 설정</string>
     <string name="pla_menu_type">메뉴 비주얼 스타일</string>
-    <string name="pla_menu_type_list">명부</string>
     <string name="pla_menu_type_grid">그리드</string>
     <string name="ch_manage_use_internal">내부 플레이어 사용</string>
     <string name="cat_manage_start_this_cat_on">이 카테고리에서 시작</string>
@@ -742,4 +741,19 @@
     <string name="applies_to_category_of_item">요소의 카테고리에만 적용됩니다.</string>
     <string name="applies_to_every_category">모든 카테고리에 적용되며, 결합된 모든 요소</string>
     <string name="group_categories_by_country">접이식 카테고리를 활성화하고 가상 카테고리별로 그룹화하여 국가를 나타냅니다.</string>
+    <string name="with_lower_priority">우선순위가 낮은</string>
+    <string name="vod_folder_tv_show">TV 프로그램</string>
+    <string name="radio_stations">라디오 방송국</string>
+    <string name="reversed_direction">역방향</string>
+    <string name="remove_some_provider_categories">제공자 데이터에서 일부 카테고리 제거</string>
+    <string name="rename_provider_categories">공급자 데이터에서 카테고리 이름 바꾸기</string>
+    <string name="use_deep_search">심층 검색(배우, 국가 등)</string>
+    <string name="row_1_view">단일 행 보기</string>
+    <string name="column_1_view">단일 열 보기</string>
+    <string name="background_color">배경색</string>
+    <string name="opacity">불투명</string>
+    <string name="use_vertical_player_when_browsing">채널 탐색 시 세로 플레이어 사용</string>
+    <string name="discover_new_content">새로운 콘텐츠를 발견하세요</string>
+    <string name="highest_rated">최고 최고 순위</string>
+    <string name="random_selection">무작위 선택</string>
     </resources>

@@ -336,7 +336,6 @@
     <string name="help_faq">Preguntas frecuentes</string>
     <string name="pla_menu_item_visibility">Visibilidad de los botones del menú</string>
     <string name="pla_menu_type">Estilo visual del menú</string>
-    <string name="pla_menu_type_list">Lista</string>
     <string name="pla_menu_type_grid">Cuadrícula</string>
     <string name="ch_manage_use_internal">Usar reproductor interno</string>
     <string name="cat_manage_start_this_cat_on">Empezar desde esta categoría</string>
@@ -695,4 +694,19 @@
     <string name="applies_to_category_of_item">Se aplica sólo a la categoría del elemento.</string>
     <string name="applies_to_every_category">Se aplica a todas las categorías, todos los elementos unidos.</string>
     <string name="group_categories_by_country">Habilitar categorías plegables, agrupándolas por categoría virtual, representando país</string>
+    <string name="with_lower_priority">con menor prioridad</string>
+    <string name="vod_folder_tv_show">programas de televisión</string>
+    <string name="radio_stations">Estaciones de radio</string>
+    <string name="reversed_direction">Dirección invertida</string>
+    <string name="remove_some_provider_categories">Eliminar algunas categorías de los datos del proveedor</string>
+    <string name="rename_provider_categories">Cambiar el nombre de las categorías a partir de los datos del proveedor</string>
+    <string name="use_deep_search">Búsqueda profunda (por actores, países, etc)</string>
+    <string name="row_1_view">Vista de una sola fila</string>
+    <string name="column_1_view">Vista de una sola columna</string>
+    <string name="background_color">Color de fondo</string>
+    <string name="opacity">Opacidad</string>
+    <string name="use_vertical_player_when_browsing">Utilice el reproductor vertical al explorar canales</string>
+    <string name="discover_new_content">Descubre nuevo contenido</string>
+    <string name="highest_rated">Mejor clasificado</string>
+    <string name="random_selection">Selección aleatoria</string>
     </resources>

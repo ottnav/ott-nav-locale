@@ -335,7 +335,6 @@
     <string name="help_faq">Usein Kysytyt Kysymykset</string>
     <string name="pla_menu_item_visibility">Valikkopainikkeiden näkyvyys</string>
     <string name="pla_menu_type">Valikko visuaalinen tyyli</string>
-    <string name="pla_menu_type_list">lista</string>
     <string name="pla_menu_type_grid">ruudukko</string>
     <string name="ch_manage_use_internal">Käytä sisäistä soitinta</string>
     <string name="cat_manage_start_this_cat_on">Aloita tästä kategoriasta</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Koskee vain elementin luokkaa</string>
     <string name="applies_to_every_category">Koskee jokaista luokkaa, kaikki elementit on yhdistetty</string>
     <string name="group_categories_by_country">Ota käyttöön taittoluokat, ryhmittele ne maata edustavien virtuaalisten luokkien mukaan</string>
+    <string name="with_lower_priority">alhaisemmalla prioriteetilla</string>
+    <string name="vod_folder_tv_show">TV-ohjelmat</string>
+    <string name="radio_stations">Radioasemat</string>
+    <string name="reversed_direction">Käänteinen suunta</string>
+    <string name="remove_some_provider_categories">Poista joitain luokkia palveluntarjoajan tiedoista</string>
+    <string name="rename_provider_categories">Nimeä luokat uudelleen palveluntarjoajan tiedoista</string>
+    <string name="use_deep_search">Tarkka haku (näyttelijöiden, maiden jne. mukaan)</string>
+    <string name="row_1_view">Yksirivinen näkymä</string>
+    <string name="column_1_view">Yhden sarakkeen näkymä</string>
+    <string name="background_color">Taustaväri</string>
+    <string name="opacity">Peittävyys</string>
+    <string name="use_vertical_player_when_browsing">Käytä pystysuuntaista soitinta kanavia selatessasi</string>
+    <string name="discover_new_content">Löydä uutta sisältöä</string>
+    <string name="highest_rated">Paras paras sijoitus</string>
+    <string name="random_selection">Satunnainen valinta</string>
     </resources>

@@ -378,7 +378,6 @@
     <string name="help_faq">ਅਕਸਰ ਪੁੱਛੇ ਜਾਣ ਵਾਲੇ ਸਵਾਲ</string>
     <string name="pla_menu_item_visibility">ਮੇਨੂ ਬਟਨ ਦੀ ਦਿੱਖ</string>
     <string name="pla_menu_type">ਮੇਨੂ ਵਿਜ਼ੁਅਲ ਸਟਾਈਲ</string>
-    <string name="pla_menu_type_list">ਸੂਚੀ</string>
     <string name="pla_menu_type_grid">ਗਰਿੱਡ</string>
     <string name="ch_manage_use_internal">ਅੰਦਰੂਨੀ ਖਿਡਾਰੀ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
     <string name="cat_manage_start_this_cat_on">ਇਸ ਸ਼੍ਰੇਣੀ ਤੋਂ ਸ਼ੁਰੂ ਕਰੋ</string>
@@ -738,4 +737,19 @@
     <string name="applies_to_category_of_item">ਸਿਰਫ਼ ਤੱਤ ਦੀ ਸ਼੍ਰੇਣੀ \'ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ</string>
     <string name="applies_to_every_category">ਹਰ ਸ਼੍ਰੇਣੀ \'ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ, ਸਾਰੇ ਤੱਤ ਸ਼ਾਮਲ ਹੋਏ</string>
     <string name="group_categories_by_country">ਦੇਸ਼ ਦੀ ਨੁਮਾਇੰਦਗੀ ਕਰਦੇ ਹੋਏ, ਫੋਲਡਿੰਗ ਸ਼੍ਰੇਣੀਆਂ ਨੂੰ ਵਰਚੁਅਲ ਸ਼੍ਰੇਣੀ ਦੁਆਰਾ ਸਮੂਹੀਕਰਨ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
+    <string name="with_lower_priority">ਘੱਟ ਤਰਜੀਹ ਦੇ ਨਾਲ</string>
+    <string name="vod_folder_tv_show">ਟੀਵੀ ਸ਼ੋਅ</string>
+    <string name="radio_stations">ਰੇਡੀਓ ਸਟੇਸ਼ਨ</string>
+    <string name="reversed_direction">ਉਲਟ ਦਿਸ਼ਾ</string>
+    <string name="remove_some_provider_categories">ਪ੍ਰਦਾਤਾ ਡੇਟਾ ਤੋਂ ਕੁਝ ਸ਼੍ਰੇਣੀਆਂ ਨੂੰ ਹਟਾਓ</string>
+    <string name="rename_provider_categories">ਪ੍ਰਦਾਤਾ ਡੇਟਾ ਤੋਂ ਸ਼੍ਰੇਣੀਆਂ ਦਾ ਨਾਮ ਬਦਲੋ</string>
+    <string name="use_deep_search">ਡੂੰਘੀ ਖੋਜ (ਅਦਾਕਾਰ, ਦੇਸ਼ਾਂ, ਆਦਿ ਦੁਆਰਾ)</string>
+    <string name="row_1_view">ਸਿੰਗਲ ਕਤਾਰ ਦ੍ਰਿਸ਼</string>
+    <string name="column_1_view">ਸਿੰਗਲ ਕਾਲਮ ਦ੍ਰਿਸ਼</string>
+    <string name="background_color">ਬੈਕਗ੍ਰਾਊਂਡ ਦਾ ਰੰਗ</string>
+    <string name="opacity">ਧੁੰਦਲਾਪਨ</string>
+    <string name="use_vertical_player_when_browsing">ਚੈਨਲਾਂ ਨੂੰ ਬ੍ਰਾਊਜ਼ ਕਰਨ ਵੇਲੇ ਵਰਟੀਕਲ ਪਲੇਅਰ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="discover_new_content">ਨਵੀਂ ਸਮੱਗਰੀ ਖੋਜੋ</string>
+    <string name="highest_rated">ਸਿਖਰ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਦਰਜਾ ਪ੍ਰਾਪਤ</string>
+    <string name="random_selection">ਬੇਤਰਤੀਬ ਚੋਣ</string>
     </resources>

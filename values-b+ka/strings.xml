@@ -335,7 +335,6 @@
     <string name="help_faq">Ხშირად დასმული შეკითხვები</string>
     <string name="pla_menu_item_visibility">მენიუს ღილაკების ხილვადობა</string>
     <string name="pla_menu_type">მენიუს ვიზუალური სტილი</string>
-    <string name="pla_menu_type_list">სია</string>
     <string name="pla_menu_type_grid">ბადე</string>
     <string name="ch_manage_use_internal">გამოიყენეთ შიდა პლეერი</string>
     <string name="cat_manage_start_this_cat_on">დაიწყეთ ამ კატეგორიიდან</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">ვრცელდება მხოლოდ ელემენტის კატეგორიაზე</string>
     <string name="applies_to_every_category">ვრცელდება ყველა კატეგორიაზე, ყველა ელემენტი გაერთიანებულია</string>
     <string name="group_categories_by_country">ჩართეთ დასაკეცი კატეგორიები, მათი დაჯგუფება ვირტუალური კატეგორიის მიხედვით, ქვეყნის წარმომადგენლობით</string>
+    <string name="with_lower_priority">უფრო დაბალი პრიორიტეტით</string>
+    <string name="vod_folder_tv_show">სატელევიზიო შოუები</string>
+    <string name="radio_stations">რადიოსადგურები</string>
+    <string name="reversed_direction">შებრუნებული მიმართულება</string>
+    <string name="remove_some_provider_categories">წაშალეთ რამდენიმე კატეგორია პროვაიდერის მონაცემებიდან</string>
+    <string name="rename_provider_categories">კატეგორიების გადარქმევა პროვაიდერის მონაცემებიდან</string>
+    <string name="use_deep_search">ღრმა ძიება (მსახიობების, ქვეყნების და ა.შ.)</string>
+    <string name="row_1_view">ერთი რიგის ხედი</string>
+    <string name="column_1_view">ერთი სვეტის ხედი</string>
+    <string name="background_color">ფონის ფერი</string>
+    <string name="opacity">გამჭვირვალობა</string>
+    <string name="use_vertical_player_when_browsing">გამოიყენეთ ვერტიკალური პლეერი არხების დათვალიერებისას</string>
+    <string name="discover_new_content">აღმოაჩინეთ ახალი შინაარსი</string>
+    <string name="highest_rated">საუკეთესო რეიტინგში</string>
+    <string name="random_selection">შემთხვევითი შერჩევა</string>
     </resources>

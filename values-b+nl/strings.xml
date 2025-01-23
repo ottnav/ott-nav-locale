@@ -335,7 +335,6 @@
     <string name="help_faq">Veel Gestelde Vragen</string>
     <string name="pla_menu_item_visibility">Zichtbaarheid menuknoppen</string>
     <string name="pla_menu_type">Visuele stijl menu</string>
-    <string name="pla_menu_type_list">lijst</string>
     <string name="pla_menu_type_grid">rooster</string>
     <string name="ch_manage_use_internal">Gebruik interne speler</string>
     <string name="cat_manage_start_this_cat_on">Begin met deze categorie</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Geldt alleen voor de categorie van het element</string>
     <string name="applies_to_every_category">Geldt voor elke categorie, alle elementen samengevoegd</string>
     <string name="group_categories_by_country">Schakel vouwcategorieën in, door ze te groeperen op virtuele categorie, die het land vertegenwoordigt</string>
+    <string name="with_lower_priority">met een lagere prioriteit</string>
+    <string name="vod_folder_tv_show">TV-programma\'s</string>
+    <string name="radio_stations">Radiostations</string>
+    <string name="reversed_direction">Omgekeerde richting</string>
+    <string name="remove_some_provider_categories">Verwijder enkele categorieën uit providergegevens</string>
+    <string name="rename_provider_categories">Hernoem categorieën uit providergegevens</string>
+    <string name="use_deep_search">Diep zoeken (op acteurs, landen, enz.)</string>
+    <string name="row_1_view">Weergave met één rij</string>
+    <string name="column_1_view">Weergave met één kolom</string>
+    <string name="background_color">Achtergrondkleur</string>
+    <string name="opacity">Dekking</string>
+    <string name="use_vertical_player_when_browsing">Gebruik de verticale speler bij het bladeren door kanalen</string>
+    <string name="discover_new_content">Ontdek nieuwe inhoud</string>
+    <string name="highest_rated">Top best gerangschikt</string>
+    <string name="random_selection">Willekeurige selectie</string>
     </resources>

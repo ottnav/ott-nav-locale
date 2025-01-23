@@ -335,7 +335,6 @@
     <string name="help_faq">Pogosto zastavljena vprašanja</string>
     <string name="pla_menu_item_visibility">Vidnost menijskih gumbov</string>
     <string name="pla_menu_type">Vizualni slog menija</string>
-    <string name="pla_menu_type_list">seznam</string>
     <string name="pla_menu_type_grid">mreža</string>
     <string name="ch_manage_use_internal">Uporabite notranji predvajalnik</string>
     <string name="cat_manage_start_this_cat_on">Začnite s to kategorijo</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Velja samo za kategorijo elementa</string>
     <string name="applies_to_every_category">Velja za vsako kategorijo, vse elemente združene</string>
     <string name="group_categories_by_country">Omogoči zložljive kategorije, jih združi po virtualni kategoriji, ki predstavlja državo</string>
+    <string name="with_lower_priority">z nižjo prioriteto</string>
+    <string name="vod_folder_tv_show">TV oddaje</string>
+    <string name="radio_stations">Radijske postaje</string>
+    <string name="reversed_direction">Obrnjena smer</string>
+    <string name="remove_some_provider_categories">Odstranite nekatere kategorije iz podatkov ponudnika</string>
+    <string name="rename_provider_categories">Preimenujte kategorije iz podatkov ponudnika</string>
+    <string name="use_deep_search">Poglobljeno iskanje (po akterjih, državah itd.)</string>
+    <string name="row_1_view">Pogled v eno vrstico</string>
+    <string name="column_1_view">Pogled v enem stolpcu</string>
+    <string name="background_color">Barva ozadja</string>
+    <string name="opacity">Motnost</string>
+    <string name="use_vertical_player_when_browsing">Pri brskanju po kanalih uporabite navpični predvajalnik</string>
+    <string name="discover_new_content">Odkrijte novo vsebino</string>
+    <string name="highest_rated">Najvišje najbolje uvrščen</string>
+    <string name="random_selection">Naključna izbira</string>
     </resources>

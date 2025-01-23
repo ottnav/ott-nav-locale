@@ -334,7 +334,6 @@
     <string name="help_faq">Întrebări frecvente</string>
     <string name="pla_menu_item_visibility">Vizibilitate butoane meniu</string>
     <string name="pla_menu_type">Meniu stil vizual</string>
-    <string name="pla_menu_type_list">listă</string>
     <string name="pla_menu_type_grid">grilă</string>
     <string name="ch_manage_use_internal">Folosiți playerul intern</string>
     <string name="cat_manage_start_this_cat_on">Începeți din această categorie</string>
@@ -693,4 +692,19 @@
     <string name="applies_to_category_of_item">Se aplică numai categoriei elementului</string>
     <string name="applies_to_every_category">Se aplică pentru fiecare categorie, toate elementele unite</string>
     <string name="group_categories_by_country">Activați categoriile de pliere, grupându-le pe categorii virtuale, reprezentând țara</string>
+    <string name="with_lower_priority">cu prioritate mai mică</string>
+    <string name="vod_folder_tv_show">Emisiuni TV</string>
+    <string name="radio_stations">Posturi de radio</string>
+    <string name="reversed_direction">Direcție inversată</string>
+    <string name="remove_some_provider_categories">Eliminați unele categorii din datele furnizorului</string>
+    <string name="rename_provider_categories">Redenumiți categoriile din datele furnizorului</string>
+    <string name="use_deep_search">Căutare profundă (după actori, țări etc.)</string>
+    <string name="row_1_view">Vedere pe un singur rând</string>
+    <string name="column_1_view">Vedere cu o singură coloană</string>
+    <string name="background_color">Culoare de fundal</string>
+    <string name="opacity">Opacitate</string>
+    <string name="use_vertical_player_when_browsing">Utilizați playerul vertical când navigați pe canale</string>
+    <string name="discover_new_content">Descoperiți conținut nou</string>
+    <string name="highest_rated">Cel mai bine clasat</string>
+    <string name="random_selection">Selectare aleatorie</string>
     </resources>

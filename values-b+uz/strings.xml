@@ -335,7 +335,6 @@
     <string name="help_faq">Tez-tez so\'raladigan savollar</string>
     <string name="pla_menu_item_visibility">Menyu tugmalarining ko\'rinishi</string>
     <string name="pla_menu_type">Vizual menyu uslubi</string>
-    <string name="pla_menu_type_list">ro\'yxati</string>
     <string name="pla_menu_type_grid">panjara</string>
     <string name="ch_manage_use_internal">Ichki pleerdan foydalaning</string>
     <string name="cat_manage_start_this_cat_on">Ushbu toifadan boshlang</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Faqat element toifasiga tegishli</string>
     <string name="applies_to_every_category">Har bir toifaga, birlashtirilgan barcha elementlarga tegishli</string>
     <string name="group_categories_by_country">Katlamali toifalarni yoqish, ularni virtual toifalar boʻyicha guruhlash, mamlakatni ifodalash</string>
+    <string name="with_lower_priority">pastroq ustuvorlik bilan</string>
+    <string name="vod_folder_tv_show">Teleko\'rsatuvlar</string>
+    <string name="radio_stations">Radio stantsiyalari</string>
+    <string name="reversed_direction">Teskari yo\'nalish</string>
+    <string name="remove_some_provider_categories">Ba\'zi toifalarni provayder ma\'lumotlaridan olib tashlang</string>
+    <string name="rename_provider_categories">Provayder ma\'lumotlaridan toifalarni qayta nomlash</string>
+    <string name="use_deep_search">Chuqur qidiruv (aktyorlar, mamlakatlar va boshqalar bo\'yicha)</string>
+    <string name="row_1_view">Bir qatorli ko\'rinish</string>
+    <string name="column_1_view">Yagona ustunli ko\'rinish</string>
+    <string name="background_color">Fon rangi</string>
+    <string name="opacity">Shaffoflik</string>
+    <string name="use_vertical_player_when_browsing">Kanallarni ko\'rib chiqishda vertikal pleerdan foydalaning</string>
+    <string name="discover_new_content">Yangi tarkibni kashf eting</string>
+    <string name="highest_rated">Yuqori eng yaxshi reyting</string>
+    <string name="random_selection">Tasodifiy tanlov</string>
     </resources>

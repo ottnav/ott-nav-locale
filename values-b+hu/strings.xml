@@ -334,7 +334,6 @@
     <string name="help_faq">Gyakran Ismételt Kérdések</string>
     <string name="pla_menu_item_visibility">A menügombok láthatósága</string>
     <string name="pla_menu_type">Menü vizuális stílusa</string>
-    <string name="pla_menu_type_list">lista</string>
     <string name="pla_menu_type_grid">rács</string>
     <string name="ch_manage_use_internal">Használjon belső lejátszót</string>
     <string name="cat_manage_start_this_cat_on">Kezdje ebből a kategóriából</string>
@@ -693,4 +692,19 @@
     <string name="applies_to_category_of_item">Csak az elem kategóriájára vonatkozik</string>
     <string name="applies_to_every_category">Minden kategóriára vonatkozik, minden egyes elemre</string>
     <string name="group_categories_by_country">Összecsukható kategóriák engedélyezése, virtuális kategória szerinti csoportosítás, országot jelölve</string>
+    <string name="with_lower_priority">alacsonyabb prioritással</string>
+    <string name="vod_folder_tv_show">TV-műsorok</string>
+    <string name="radio_stations">Rádióállomások</string>
+    <string name="reversed_direction">Fordított irány</string>
+    <string name="remove_some_provider_categories">Távolítson el néhány kategóriát a szolgáltatói adatokból</string>
+    <string name="rename_provider_categories">Kategóriák átnevezése a szolgáltatói adatokból</string>
+    <string name="use_deep_search">Mély keresés (színészek, országok stb. szerint)</string>
+    <string name="row_1_view">Egysoros nézet</string>
+    <string name="column_1_view">Egyoszlopos nézet</string>
+    <string name="background_color">Háttérszín</string>
+    <string name="opacity">Átlátszatlanság</string>
+    <string name="use_vertical_player_when_browsing">Használja a függőleges lejátszót a csatornák böngészéséhez</string>
+    <string name="discover_new_content">Fedezzen fel új tartalmat</string>
+    <string name="highest_rated">Legjobb helyezett</string>
+    <string name="random_selection">Véletlenszerű kiválasztás</string>
     </resources>

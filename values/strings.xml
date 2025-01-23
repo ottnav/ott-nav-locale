@@ -335,7 +335,6 @@
     <string name="help_faq">Frequently asked questions</string>
     <string name="pla_menu_item_visibility">Menu buttons visibility</string>
     <string name="pla_menu_type">Menu visual style</string>
-    <string name="pla_menu_type_list">list</string>
     <string name="pla_menu_type_grid">grid</string>
     <string name="ch_manage_use_internal">Use internal player</string>
     <string name="cat_manage_start_this_cat_on">Start from this category</string>
@@ -695,4 +694,19 @@
     <string name="applies_to_category_of_item">Applies only to the category of the element</string>
     <string name="applies_to_every_category">Applies to every category, all elements joined</string>
     <string name="group_categories_by_country">Enable folding categories, grouping them by virtual category, representing country</string>
+    <string name="with_lower_priority">with lower priority</string>
+    <string name="vod_folder_tv_show">TV shows</string>
+    <string name="radio_stations">Radio stations</string>
+    <string name="reversed_direction">Reversed direction</string>
+    <string name="remove_some_provider_categories">Remove some categories from provider data</string>
+    <string name="rename_provider_categories">Rename categories from provider data</string>
+    <string name="use_deep_search">Deep search (by actors, countries, etc)</string>
+    <string name="row_1_view">Single row view</string>
+    <string name="column_1_view">Single column view</string>
+    <string name="background_color">Background color</string>
+    <string name="opacity">Opacity</string>
+    <string name="use_vertical_player_when_browsing">Use vertical player when browsing channels</string>
+    <string name="discover_new_content">Discover new content</string>
+    <string name="highest_rated">Top best ranked</string>
+    <string name="random_selection">Random selection</string>
 </resources>

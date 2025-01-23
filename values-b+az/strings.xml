@@ -335,7 +335,6 @@
     <string name="help_faq">Tez-tez soruşulan suallar</string>
     <string name="pla_menu_item_visibility">Menyu düymələrinin görünməsi</string>
     <string name="pla_menu_type">Menyu vizual üslubu</string>
-    <string name="pla_menu_type_list">siyahı</string>
     <string name="pla_menu_type_grid">şəbəkə</string>
     <string name="ch_manage_use_internal">Daxili pleyerdən istifadə edin</string>
     <string name="cat_manage_start_this_cat_on">Bu kateqoriyadan başlayın</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Yalnız elementin kateqoriyasına aiddir</string>
     <string name="applies_to_every_category">Hər bir kateqoriyaya aiddir, bütün elementlər birləşdirilir</string>
     <string name="group_categories_by_country">Qatlanan kateqoriyaları aktivləşdirin, onları virtual kateqoriyaya görə qruplaşdırın, ölkəni təmsil edin</string>
+    <string name="with_lower_priority">daha aşağı prioritetlə</string>
+    <string name="vod_folder_tv_show">TV şouları</string>
+    <string name="radio_stations">Radio stansiyaları</string>
+    <string name="reversed_direction">Ters istiqamət</string>
+    <string name="remove_some_provider_categories">Bəzi kateqoriyaları provayder məlumatlarından silin</string>
+    <string name="rename_provider_categories">Provayder məlumatından kateqoriyaların adını dəyişdirin</string>
+    <string name="use_deep_search">Dərin axtarış (aktyorlar, ölkələr və s. üzrə)</string>
+    <string name="row_1_view">Tək sıra görünüşü</string>
+    <string name="column_1_view">Tək sütun görünüşü</string>
+    <string name="background_color">Fon rəngi</string>
+    <string name="opacity">Qeyri-şəffaflıq</string>
+    <string name="use_vertical_player_when_browsing">Kanallara baxarkən şaquli pleyerdən istifadə edin</string>
+    <string name="discover_new_content">Yeni məzmun kəşf edin</string>
+    <string name="highest_rated">Ən yaxşı reytinqli</string>
+    <string name="random_selection">Təsadüfi seçim</string>
     </resources>

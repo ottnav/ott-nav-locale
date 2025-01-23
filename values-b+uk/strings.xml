@@ -371,7 +371,6 @@
     <string name="help_faq">Часті запитання</string>
     <string name="pla_menu_item_visibility">Видимість кнопок меню</string>
     <string name="pla_menu_type">Зовнішній вигляд меню</string>
-    <string name="pla_menu_type_list">список</string>
     <string name="pla_menu_type_grid">талиця</string>
     <string name="ch_manage_use_internal">Використовувати внутрішній програвач</string>
     <string name="cat_manage_start_this_cat_on">Починати з цієї категорії</string>
@@ -732,4 +731,19 @@
     <string name="applies_to_category_of_item">Застосовується лише до категорії елемента</string>
     <string name="applies_to_every_category">Застосовується до кожної категорії, усіх об’єднаних елементів</string>
     <string name="group_categories_by_country">Увімкнути згортання категорій, групуючи їх за віртуальними категоріями, які представляють країну</string>
+    <string name="with_lower_priority">з нижчим пріоритетом</string>
+    <string name="vod_folder_tv_show">телешоу</string>
+    <string name="radio_stations">Радіостанції</string>
+    <string name="reversed_direction">Зворотний напрямок</string>
+    <string name="remove_some_provider_categories">Видаліть деякі категорії з даних постачальника</string>
+    <string name="rename_provider_categories">Перейменуйте категорії з даних постачальника</string>
+    <string name="use_deep_search">Глибокий пошук (за акторами, країнами тощо)</string>
+    <string name="row_1_view">Вигляд в один ряд</string>
+    <string name="column_1_view">Перегляд одного стовпця</string>
+    <string name="background_color">Колір фону</string>
+    <string name="opacity">Непрозорість</string>
+    <string name="use_vertical_player_when_browsing">Використовуйте вертикальний плеєр під час перегляду каналів</string>
+    <string name="discover_new_content">Відкрийте для себе новий вміст</string>
+    <string name="highest_rated">Найвищий рейтинг</string>
+    <string name="random_selection">Випадковий вибір</string>
     </resources>

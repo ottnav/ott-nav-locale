@@ -379,7 +379,6 @@
     <string name="help_faq">שאלות נפוצות</string>
     <string name="pla_menu_item_visibility">לחצני תפריט</string>
     <string name="pla_menu_type">תפריט חזותי בסגנון</string>
-    <string name="pla_menu_type_list">רשימה</string>
     <string name="pla_menu_type_grid">רשת</string>
     <string name="ch_manage_use_internal">השתמש בנגן פנימי</string>
     <string name="cat_manage_start_this_cat_on">התחל מקטגוריה זו</string>
@@ -739,4 +738,19 @@
     <string name="applies_to_category_of_item">טנמלאה לש הירוגטקה לע קר לח</string>
     <string name="applies_to_every_category">ופרטצה םיביכרה לכ ,הירוגטק לכ לע לח</string>
     <string name="group_categories_by_country">הנידמ גציימ ,תילאוטריו הירוגטק יפל ןתוא ץוביק ,תולפקתמ תוירוגטק רשפא</string>
+    <string name="with_lower_priority">רתוי הכומנ תופידעב</string>
+    <string name="vod_folder_tv_show">היזיוולט תוינכות</string>
+    <string name="radio_stations">וידר תונחת</string>
+    <string name="reversed_direction">ךופה ןוויכ</string>
+    <string name="remove_some_provider_categories">קפסה ינותנמ תוירוגטק המכ רסה</string>
+    <string name="rename_provider_categories">קפס ינותנמ תוירוגטק םש הנש</string>
+    <string name="use_deep_search">(\'וכו תונידמ ,םינקחש יפל) קומע שופיח</string>
+    <string name="row_1_view">תחא הרושב הגוצת</string>
+    <string name="column_1_view">תדדוב הדומע תגוצת</string>
+    <string name="background_color">עקר עבצ</string>
+    <string name="opacity">תוּמיטִאֲ</string>
+    <string name="use_vertical_player_when_browsing">םיצורעב השילג תעב יכנא ןגנב שמתשה</string>
+    <string name="discover_new_content">שדח ןכות הלג</string>
+    <string name="highest_rated">רתויב בוטה גורידב</string>
+    <string name="random_selection">תיארקא הריחב</string>
     </resources>

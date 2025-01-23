@@ -380,7 +380,6 @@
     <string name="help_faq">أسئلة مكررة</string>
     <string name="pla_menu_item_visibility">أزرار القائمة وضوح</string>
     <string name="pla_menu_type">نمط القائمة البصرية</string>
-    <string name="pla_menu_type_list">قائمة</string>
     <string name="pla_menu_type_grid">شبكة</string>
     <string name="ch_manage_use_internal">استخدام لاعب داخلي</string>
     <string name="cat_manage_start_this_cat_on">ابدأ من هذه الفئة</string>
@@ -740,4 +739,19 @@
     <string name="applies_to_category_of_item">ﺮﺼﻨﻌﻟﺍ ﺔﺌﻓ ﻰﻠﻋ ﻂﻘﻓ ﻖﺒﻄﻨﻳ</string>
     <string name="applies_to_every_category">ﺖﻤﻀﻧﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻴﻤﺟ ،ﺔﺌﻓ ﻞﻛ ﻰﻠﻋ ﻖﺒﻄﻨﻳ</string>
     <string name="group_categories_by_country">ﺔﻟﻭﺪﻟﺍ ﻞﺜﻤﺗ ﻲﺘﻟﺍ ﺔﻴﺿﺍﺮﺘﻓﻻ﻿ﺍ ﺔﺌﻔﻟﺍ ﺐﺴﺣ ﺎﻬﻌﻴﻤﺠﺗﻭ ،ﻲﻄﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺕﺎﺌﻔﻟﺍ ﻦﻴﻜﻤﺗ</string>
+    <string name="with_lower_priority">ﻞﻗﺃ ﺔﻳﻮﻟﻭﺃ ﻊﻣ</string>
+    <string name="vod_folder_tv_show">ﺔﻴﻧﻮﻳﺰﻔﻠﺘﻟﺍ ﺞﻣﺍﺮﺒﻟﺍ</string>
+    <string name="radio_stations">ﻮﻳﺩﺍﺮﻟﺍ ﺕﺎﻄﺤﻣ</string>
+    <string name="reversed_direction">ﺲﻛﺎﻌﻤﻟﺍ ﻩﺎﺠﺗﻻ﻿ﺍ</string>
+    <string name="remove_some_provider_categories">ﺮﻓﻮﻤﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻦﻣ ﺕﺎﺌﻔﻟﺍ ﺾﻌﺑ ﺔﻟﺍﺯﺈﺑ ﻢﻗ</string>
+    <string name="rename_provider_categories">ﺮﻓﻮﻤﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻦﻣ ﺕﺎﺌﻔﻟﺍ ﺔﻴﻤﺴﺗ ﺓﺩﺎﻋﺇ</string>
+    <string name="use_deep_search">(ﺦﻟﺍ ،ﻥﺍﺪﻠﺒﻟﺍ ،ﻦﻴﻠﺜﻤﻤﻟﺍ ﺐﺴﺣ) ﻖﻴﻤﻋ ﺚﺤﺑ</string>
+    <string name="row_1_view">ﺪﺣﺍﻭ ﻒﺻ ﺽﺮﻋ</string>
+    <string name="column_1_view">ﺪﺣﺍﻭ ﺩﻮﻤﻋ ﺽﺮﻋ</string>
+    <string name="background_color">ﺔﻴﻔﻠﺨﻟﺍ ﻥﻮﻟ</string>
+    <string name="opacity">ﺔﻣﺎﺘﻌﻟﺍ</string>
+    <string name="use_vertical_player_when_browsing">ﺕﺍﻮﻨﻘﻟﺍ ﺢﻔﺼﺗ ﺪﻨﻋ ﻱﺩﻮﻤﻌﻟﺍ ﻞﻐﺸﻤﻟﺍ ﻡﺪﺨﺘﺳﺍ</string>
+    <string name="discover_new_content">ﺪﻳﺪﺟ ﻯﻮﺘﺤﻣ ﻑﺎﺸﺘﻛﺍ</string>
+    <string name="highest_rated">ﺔﺒﺗﺮﻣ ﻞﻀﻓﺃ ﻰﻠﻋﺃ</string>
+    <string name="random_selection">ﻲﺋﺍﻮﺸﻋ ﺭﺎﻴﺘﺧﺍ</string>
     </resources>

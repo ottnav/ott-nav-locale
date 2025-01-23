@@ -381,7 +381,6 @@
     <string name="help_faq">সচরাচর জিজ্ঞাস্য</string>
     <string name="pla_menu_item_visibility">মেনু বোতাম দৃশ্যমানতা</string>
     <string name="pla_menu_type">মেনু চাক্ষুষ শৈলী</string>
-    <string name="pla_menu_type_list">তালিকা</string>
     <string name="pla_menu_type_grid">গ্রিড</string>
     <string name="ch_manage_use_internal">অভ্যন্তরীণ প্লেয়ার ব্যবহার করুন</string>
     <string name="cat_manage_start_this_cat_on">এই বিভাগ থেকে শুরু করুন</string>
@@ -741,4 +740,19 @@
     <string name="applies_to_category_of_item">শুধুমাত্র উপাদানের বিভাগে প্রযোজ্য</string>
     <string name="applies_to_every_category">প্রতিটি বিভাগে প্রযোজ্য, সমস্ত উপাদান যোগদান করেছে</string>
     <string name="group_categories_by_country">ভার্চুয়াল বিভাগ দ্বারা গোষ্ঠীবদ্ধ করে, দেশের প্রতিনিধিত্ব করে ভাঁজ বিভাগগুলি সক্ষম করুন৷</string>
+    <string name="with_lower_priority">কম অগ্রাধিকার সহ</string>
+    <string name="vod_folder_tv_show">টিভি শো</string>
+    <string name="radio_stations">রেডিও স্টেশন</string>
+    <string name="reversed_direction">বিপরীত দিক</string>
+    <string name="remove_some_provider_categories">প্রদানকারীর ডেটা থেকে কিছু বিভাগ সরান</string>
+    <string name="rename_provider_categories">প্রদানকারীর ডেটা থেকে বিভাগগুলির নাম পরিবর্তন করুন</string>
+    <string name="use_deep_search">গভীর অনুসন্ধান (অভিনেতা, দেশ, ইত্যাদি দ্বারা)</string>
+    <string name="row_1_view">একক সারি ভিউ</string>
+    <string name="column_1_view">একক কলাম ভিউ</string>
+    <string name="background_color">পটভূমির রঙ</string>
+    <string name="opacity">অস্বচ্ছতা</string>
+    <string name="use_vertical_player_when_browsing">চ্যানেল ব্রাউজ করার সময় উল্লম্ব প্লেয়ার ব্যবহার করুন</string>
+    <string name="discover_new_content">নতুন বিষয়বস্তু আবিষ্কার করুন</string>
+    <string name="highest_rated">শীর্ষ সেরা স্থান</string>
+    <string name="random_selection">এলোমেলো নির্বাচন</string>
     </resources>

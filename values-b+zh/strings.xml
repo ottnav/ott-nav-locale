@@ -372,7 +372,6 @@
     <string name="help_faq">常见问题</string>
     <string name="pla_menu_item_visibility">显示/隐藏菜单按钮</string>
     <string name="pla_menu_type">菜单样式</string>
-    <string name="pla_menu_type_list">列表</string>
     <string name="pla_menu_type_grid">网格</string>
     <string name="ch_manage_use_internal">使用内置播放器</string>
     <string name="cat_manage_start_this_cat_on">首选分类</string>
@@ -732,4 +731,19 @@
     <string name="applies_to_category_of_item">仅适用于元素的类别</string>
     <string name="applies_to_every_category">适用于每个类别，所有元素都加入</string>
     <string name="group_categories_by_country">启用折叠类别，按虚拟类别分组，代表国家/地区</string>
+    <string name="with_lower_priority">优先级较低</string>
+    <string name="vod_folder_tv_show">电视节目</string>
+    <string name="radio_stations">广播电台</string>
+    <string name="reversed_direction">方向相反</string>
+    <string name="remove_some_provider_categories">从提供商数据中删除一些类别</string>
+    <string name="rename_provider_categories">重命名提供商数据中的类别</string>
+    <string name="use_deep_search">深度搜索（按参与者、国家等）</string>
+    <string name="row_1_view">单行视图</string>
+    <string name="column_1_view">单列视图</string>
+    <string name="background_color">背景颜色</string>
+    <string name="opacity">不透明度</string>
+    <string name="use_vertical_player_when_browsing">浏览频道时使用垂直播放器</string>
+    <string name="discover_new_content">发现新内容</string>
+    <string name="highest_rated">最佳排名</string>
+    <string name="random_selection">随机选择</string>
     </resources>

@@ -335,7 +335,6 @@
     <string name="help_faq">Häufig gestellte Fragen</string>
     <string name="pla_menu_item_visibility">Sichtbarkeit der Menütasten</string>
     <string name="pla_menu_type">Menü aussehen</string>
-    <string name="pla_menu_type_list">Liste</string>
     <string name="pla_menu_type_grid">Gitter</string>
     <string name="ch_manage_use_internal">Verwenden Sie den internen Player</string>
     <string name="cat_manage_start_this_cat_on">Beginnen Sie mit dieser Kategorie</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Gilt nur für die Kategorie des Elements</string>
     <string name="applies_to_every_category">Gilt für jede Kategorie, alle Elemente verbunden</string>
     <string name="group_categories_by_country">Aktivieren Sie Faltkategorien und gruppieren Sie sie nach virtuellen Kategorien, die das Land darstellen</string>
+    <string name="with_lower_priority">mit niedrigerer Priorität</string>
+    <string name="vod_folder_tv_show">Fernsehsendungen</string>
+    <string name="radio_stations">Radiosender</string>
+    <string name="reversed_direction">Umgekehrte Richtung</string>
+    <string name="remove_some_provider_categories">Entfernen Sie einige Kategorien aus den Anbieterdaten</string>
+    <string name="rename_provider_categories">Kategorien aus Anbieterdaten umbenennen</string>
+    <string name="use_deep_search">Tiefensuche (nach Schauspielern, Ländern usw.)</string>
+    <string name="row_1_view">Einzelzeilenansicht</string>
+    <string name="column_1_view">Einspaltige Ansicht</string>
+    <string name="background_color">Hintergrundfarbe</string>
+    <string name="opacity">Opazität</string>
+    <string name="use_vertical_player_when_browsing">Verwenden Sie beim Durchsuchen von Kanälen den vertikalen Player</string>
+    <string name="discover_new_content">Entdecken Sie neue Inhalte</string>
+    <string name="highest_rated">Top am besten bewertet</string>
+    <string name="random_selection">Zufällige Auswahl</string>
     </resources>

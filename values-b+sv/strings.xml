@@ -335,7 +335,6 @@
     <string name="help_faq">Vanliga frågor</string>
     <string name="pla_menu_item_visibility">Menyknapparnas synlighet</string>
     <string name="pla_menu_type">Menyns visuella stil</string>
-    <string name="pla_menu_type_list">Lista</string>
     <string name="pla_menu_type_grid">Rutnät</string>
     <string name="ch_manage_use_internal">Använd intern spelare</string>
     <string name="cat_manage_start_this_cat_on">Börja från den här kategorin</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Gäller endast kategorin för elementet</string>
     <string name="applies_to_every_category">Gäller alla kategorier, alla element sammanfogade</string>
     <string name="group_categories_by_country">Aktivera vikningskategorier, gruppera dem efter virtuell kategori, representerande land</string>
+    <string name="with_lower_priority">med lägre prioritet</string>
+    <string name="vod_folder_tv_show">TV-program</string>
+    <string name="radio_stations">Radiostationer</string>
+    <string name="reversed_direction">Omvänd riktning</string>
+    <string name="remove_some_provider_categories">Ta bort vissa kategorier från leverantörsdata</string>
+    <string name="rename_provider_categories">Byt namn på kategorier från leverantörsdata</string>
+    <string name="use_deep_search">Djupsökning (efter skådespelare, länder, etc)</string>
+    <string name="row_1_view">Enkelradsvy</string>
+    <string name="column_1_view">En kolumnvy</string>
+    <string name="background_color">Bakgrundsfärg</string>
+    <string name="opacity">Opacitet</string>
+    <string name="use_vertical_player_when_browsing">Använd vertikal spelare när du bläddrar i kanaler</string>
+    <string name="discover_new_content">Upptäck nytt innehåll</string>
+    <string name="highest_rated">Topp bäst rankad</string>
+    <string name="random_selection">Slumpmässigt urval</string>
     </resources>

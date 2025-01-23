@@ -379,7 +379,6 @@
     <string name="help_faq">Questions fréquemment posées</string>
     <string name="pla_menu_item_visibility">Visibilité des boutons de menu</string>
     <string name="pla_menu_type">Style du menu</string>
-    <string name="pla_menu_type_list">Liste</string>
     <string name="pla_menu_type_grid">Grille</string>
     <string name="ch_manage_use_internal">Utiliser un lecteur interne</string>
     <string name="cat_manage_start_this_cat_on">Placer au début de cette catégorie</string>
@@ -739,4 +738,19 @@
     <string name="applies_to_category_of_item">S\'applique uniquement à la catégorie de l\'élément</string>
     <string name="applies_to_every_category">S\'applique à chaque catégorie, tous les éléments joints</string>
     <string name="group_categories_by_country">Activer les catégories pliantes, en les regroupant par catégorie virtuelle, représentant le pays</string>
+    <string name="with_lower_priority">avec une priorité inférieure</string>
+    <string name="vod_folder_tv_show">Émissions de télévision</string>
+    <string name="radio_stations">Radios</string>
+    <string name="reversed_direction">Direction inversée</string>
+    <string name="remove_some_provider_categories">Supprimer certaines catégories des données du fournisseur</string>
+    <string name="rename_provider_categories">Renommer les catégories à partir des données du fournisseur</string>
+    <string name="use_deep_search">Recherche approfondie (par acteurs, pays, etc.)</string>
+    <string name="row_1_view">Vue sur une seule ligne</string>
+    <string name="column_1_view">Vue à une seule colonne</string>
+    <string name="background_color">Couleur de fond</string>
+    <string name="opacity">Opacité</string>
+    <string name="use_vertical_player_when_browsing">Utilisez le lecteur vertical lorsque vous parcourez les chaînes</string>
+    <string name="discover_new_content">Découvrez du nouveau contenu</string>
+    <string name="highest_rated">Les mieux classés</string>
+    <string name="random_selection">Sélection aléatoire</string>
     </resources>

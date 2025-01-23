@@ -379,7 +379,6 @@
     <string name="help_faq">Soalan yang kerap ditanya</string>
     <string name="pla_menu_item_visibility">Penglihatan butang menu</string>
     <string name="pla_menu_type">Gaya visual menu</string>
-    <string name="pla_menu_type_list">senarai</string>
     <string name="pla_menu_type_grid">grid</string>
     <string name="ch_manage_use_internal">Gunakan pemain dalaman</string>
     <string name="cat_manage_start_this_cat_on">Mulakan dari kategori ini</string>
@@ -739,4 +738,19 @@
     <string name="applies_to_category_of_item">Terpakai hanya pada kategori elemen</string>
     <string name="applies_to_every_category">Terpakai untuk setiap kategori, semua elemen yang digabungkan</string>
     <string name="group_categories_by_country">Dayakan kategori lipat, kumpulkan mengikut kategori maya, mewakili negara</string>
+    <string name="with_lower_priority">dengan keutamaan yang lebih rendah</string>
+    <string name="vod_folder_tv_show">Rancangan TV</string>
+    <string name="radio_stations">Stesen radio</string>
+    <string name="reversed_direction">Arah terbalik</string>
+    <string name="remove_some_provider_categories">Alih keluar beberapa kategori daripada data pembekal</string>
+    <string name="rename_provider_categories">Namakan semula kategori daripada data pembekal</string>
+    <string name="use_deep_search">Carian mendalam (oleh pelakon, negara, dll)</string>
+    <string name="row_1_view">Pandangan baris tunggal</string>
+    <string name="column_1_view">Paparan lajur tunggal</string>
+    <string name="background_color">Warna latar belakang</string>
+    <string name="opacity">Kelegapan</string>
+    <string name="use_vertical_player_when_browsing">Gunakan pemain menegak semasa menyemak imbas saluran</string>
+    <string name="discover_new_content">Temui kandungan baharu</string>
+    <string name="highest_rated">Kedudukan terbaik teratas</string>
+    <string name="random_selection">Pemilihan rawak</string>
     </resources>

@@ -335,7 +335,6 @@
     <string name="help_faq">Pyetjet e bëra shpesh</string>
     <string name="pla_menu_item_visibility">Dukshmëria e butonave të menysë</string>
     <string name="pla_menu_type">Stili vizual i menusë</string>
-    <string name="pla_menu_type_list">listë</string>
     <string name="pla_menu_type_grid">rrjetë</string>
     <string name="ch_manage_use_internal">Përdorni luajtësin e brendshëm</string>
     <string name="cat_manage_start_this_cat_on">Filloni nga kjo kategori</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Zbatohet vetëm për kategorinë e elementit</string>
     <string name="applies_to_every_category">Zbatohet për çdo kategori, të gjithë elementët e bashkuar</string>
     <string name="group_categories_by_country">Aktivizo kategoritë e palosshme, duke i grupuar ato sipas kategorisë virtuale, duke përfaqësuar shtetin</string>
+    <string name="with_lower_priority">me prioritet më të ulët</string>
+    <string name="vod_folder_tv_show">Shfaqje televizive</string>
+    <string name="radio_stations">Stacione radiofonike</string>
+    <string name="reversed_direction">Drejtim i kundërt</string>
+    <string name="remove_some_provider_categories">Hiqni disa kategori nga të dhënat e ofruesit</string>
+    <string name="rename_provider_categories">Riemërtoni kategoritë nga të dhënat e ofruesit</string>
+    <string name="use_deep_search">Kërkim i thellë (sipas aktorëve, vendeve, etj.)</string>
+    <string name="row_1_view">Pamje me një rresht</string>
+    <string name="column_1_view">Pamje me një kolonë</string>
+    <string name="background_color">Ngjyra e sfondit</string>
+    <string name="opacity">Opaciteti</string>
+    <string name="use_vertical_player_when_browsing">Përdorni luajtësin vertikal kur shfletoni kanale</string>
+    <string name="discover_new_content">Zbuloni përmbajtje të reja</string>
+    <string name="highest_rated">Kryesisht i renditur më mirë</string>
+    <string name="random_selection">Zgjedhja e rastësishme</string>
     </resources>

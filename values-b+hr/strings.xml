@@ -334,7 +334,6 @@
     <string name="help_faq">Često postavljana pitanja</string>
     <string name="pla_menu_item_visibility">Vidljivost gumba izbornika</string>
     <string name="pla_menu_type">Izborni vizualni stil</string>
-    <string name="pla_menu_type_list">popis</string>
     <string name="pla_menu_type_grid">rešetka</string>
     <string name="ch_manage_use_internal">Koristite interni player</string>
     <string name="cat_manage_start_this_cat_on">Počnite od ove kategorije</string>
@@ -693,4 +692,19 @@
     <string name="applies_to_category_of_item">Primjenjuje se samo na kategoriju elementa</string>
     <string name="applies_to_every_category">Primjenjuje se na svaku kategoriju, svi spojeni elementi</string>
     <string name="group_categories_by_country">Omogućite sklopive kategorije, grupirajući ih po virtualnoj kategoriji, predstavljajući zemlju</string>
+    <string name="with_lower_priority">s nižim prioritetom</string>
+    <string name="vod_folder_tv_show">TV emisije</string>
+    <string name="radio_stations">Radio stanice</string>
+    <string name="reversed_direction">Obrnuti smjer</string>
+    <string name="remove_some_provider_categories">Uklonite neke kategorije iz podataka pružatelja usluga</string>
+    <string name="rename_provider_categories">Preimenujte kategorije iz podataka pružatelja usluga</string>
+    <string name="use_deep_search">Duboko pretraživanje (po glumcima, zemljama itd.)</string>
+    <string name="row_1_view">Prikaz jednog retka</string>
+    <string name="column_1_view">Prikaz jednog stupca</string>
+    <string name="background_color">Boja pozadine</string>
+    <string name="opacity">Neprozirnost</string>
+    <string name="use_vertical_player_when_browsing">Koristite okomiti player kada pregledavate kanale</string>
+    <string name="discover_new_content">Otkrijte novi sadržaj</string>
+    <string name="highest_rated">Prvo najbolje rangirani</string>
+    <string name="random_selection">Slučajni odabir</string>
     </resources>

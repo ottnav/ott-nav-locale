@@ -335,7 +335,6 @@
     <string name="help_faq">Domande frequenti</string>
     <string name="pla_menu_item_visibility">Visibilità pulsanti menu</string>
     <string name="pla_menu_type">Menu stile visivo</string>
-    <string name="pla_menu_type_list">Elenco</string>
     <string name="pla_menu_type_grid">Griglia</string>
     <string name="ch_manage_use_internal">Usa player interno</string>
     <string name="cat_manage_start_this_cat_on">Inizia da questa categoria</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Si applica solo alla categoria dell\'elemento</string>
     <string name="applies_to_every_category">Si applica ad ogni categoria, tutti gli elementi uniti</string>
     <string name="group_categories_by_country">Abilita le categorie pieghevoli, raggruppandole per categoria virtuale, che rappresenta il paese</string>
+    <string name="with_lower_priority">con priorità più bassa</string>
+    <string name="vod_folder_tv_show">Programmi televisivi</string>
+    <string name="radio_stations">Stazioni radiofoniche</string>
+    <string name="reversed_direction">Direzione invertita</string>
+    <string name="remove_some_provider_categories">Rimuovi alcune categorie dai dati del fornitore</string>
+    <string name="rename_provider_categories">Rinominare le categorie dai dati del fornitore</string>
+    <string name="use_deep_search">Ricerca approfondita (per attori, paesi, ecc.)</string>
+    <string name="row_1_view">Visualizzazione a riga singola</string>
+    <string name="column_1_view">Visualizzazione a colonna singola</string>
+    <string name="background_color">Colore di sfondo</string>
+    <string name="opacity">Opacità</string>
+    <string name="use_vertical_player_when_browsing">Utilizza il player verticale durante la navigazione tra i canali</string>
+    <string name="discover_new_content">Scopri nuovi contenuti</string>
+    <string name="highest_rated">I migliori classificati</string>
+    <string name="random_selection">Selezione casuale</string>
     </resources>

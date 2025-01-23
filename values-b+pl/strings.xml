@@ -335,7 +335,6 @@
     <string name="help_faq">Często Zadawane Pytania</string>
     <string name="pla_menu_item_visibility">Widoczność Przycisków Menu</string>
     <string name="pla_menu_type">Styl Wizualny Menu</string>
-    <string name="pla_menu_type_list">lista</string>
     <string name="pla_menu_type_grid">krata</string>
     <string name="ch_manage_use_internal">Użyj Wewnętrznego Odtwarzacza</string>
     <string name="cat_manage_start_this_cat_on">Zaczynaj od tej kategorii</string>
@@ -694,4 +693,19 @@
     <string name="applies_to_category_of_item">Dotyczy tylko kategorii elementu</string>
     <string name="applies_to_every_category">Dotyczy każdej kategorii, wszystkie elementy są połączone</string>
     <string name="group_categories_by_country">Włącz składane kategorie, grupując je według kategorii wirtualnej, reprezentującej kraj</string>
+    <string name="with_lower_priority">z niższym priorytetem</string>
+    <string name="vod_folder_tv_show">Programy telewizyjne</string>
+    <string name="radio_stations">Stacje radiowe</string>
+    <string name="reversed_direction">Odwrócony kierunek</string>
+    <string name="remove_some_provider_categories">Usuń niektóre kategorie z danych dostawcy</string>
+    <string name="rename_provider_categories">Zmień nazwę kategorii na podstawie danych dostawcy</string>
+    <string name="use_deep_search">Głębokie wyszukiwanie (według aktorów, krajów itp.)</string>
+    <string name="row_1_view">Widok pojedynczego rzędu</string>
+    <string name="column_1_view">Widok pojedynczej kolumny</string>
+    <string name="background_color">Kolor tła</string>
+    <string name="opacity">Nieprzezroczystość</string>
+    <string name="use_vertical_player_when_browsing">Podczas przeglądania kanałów używaj odtwarzacza pionowego</string>
+    <string name="discover_new_content">Odkryj nową zawartość</string>
+    <string name="highest_rated">Najlepiej w rankingu</string>
+    <string name="random_selection">Losowy wybór</string>
     </resources>
