@@ -707,4 +707,7 @@
     <string name="discover_new_content">Objevte nový obsah</string>
     <string name="highest_rated">Nejlépe hodnocené</string>
     <string name="random_selection">Náhodný výběr</string>
+    <string name="activate_by_id_number">Aktivujte podle ID čísla</string>
+    <string name="input_next_letter_of_the_search">Zadejte další písmeno vyhledávacího řádku</string>
+    <string name="cat_sort_mode">Třídit kategorie od</string>
     </resources>

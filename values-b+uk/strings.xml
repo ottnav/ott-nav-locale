@@ -746,4 +746,7 @@
     <string name="discover_new_content">Відкрийте для себе новий вміст</string>
     <string name="highest_rated">Найвищий рейтинг</string>
     <string name="random_selection">Випадковий вибір</string>
+    <string name="activate_by_id_number">Активуйте за ідентифікаційним номером</string>
+    <string name="input_next_letter_of_the_search">Введіть Наступний лист пошукового рядка</string>
+    <string name="cat_sort_mode">Сортувати категорії за</string>
     </resources>

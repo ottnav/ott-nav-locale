@@ -708,4 +708,7 @@
     <string name="discover_new_content">Yeni içeriği keşfedin</string>
     <string name="highest_rated">En iyi sıralamaya sahip</string>
     <string name="random_selection">Rastgele seçim</string>
+    <string name="activate_by_id_number">Kimlik numarasına göre etkinleştirin</string>
+    <string name="input_next_letter_of_the_search">Arama hattının bir sonraki harfini girin</string>
+    <string name="cat_sort_mode">Kategorileri sıralayın</string>
     </resources>

@@ -708,4 +708,7 @@
     <string name="discover_new_content">Temukan konten baru</string>
     <string name="highest_rated">Peringkat terbaik teratas</string>
     <string name="random_selection">Pilihan acak</string>
+    <string name="activate_by_id_number">Aktifkan dengan Nomor ID</string>
+    <string name="input_next_letter_of_the_search">Masukkan surat berikutnya dari baris pencarian</string>
+    <string name="cat_sort_mode">Urutkan kategori berdasarkan</string>
     </resources>

@@ -708,4 +708,7 @@
     <string name="discover_new_content">ค้นพบเนื้อหาใหม่</string>
     <string name="highest_rated">ติดอันดับดีที่สุด</string>
     <string name="random_selection">สุ่มเลือก</string>
+    <string name="activate_by_id_number">เปิดใช้งานตามหมายเลขรหัส</string>
+    <string name="input_next_letter_of_the_search">ป้อนตัวอักษรถัดไปของสายการค้นหา</string>
+    <string name="cat_sort_mode">จัดเรียงหมวดหมู่โดย</string>
     </resources>

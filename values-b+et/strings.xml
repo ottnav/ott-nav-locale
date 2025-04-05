@@ -752,4 +752,7 @@
     <string name="discover_new_content">Avastage uut sisu</string>
     <string name="highest_rated">Parima asetusega</string>
     <string name="random_selection">Juhuslik valik</string>
+    <string name="activate_by_id_number">Aktiveerige ID numbri järgi</string>
+    <string name="input_next_letter_of_the_search">Sisestage järgmine otsingurida</string>
+    <string name="cat_sort_mode">Sorteerige kategooriaid</string>
     </resources>

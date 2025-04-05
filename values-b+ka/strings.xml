@@ -708,4 +708,7 @@
     <string name="discover_new_content">აღმოაჩინეთ ახალი შინაარსი</string>
     <string name="highest_rated">საუკეთესო რეიტინგში</string>
     <string name="random_selection">შემთხვევითი შერჩევა</string>
+    <string name="activate_by_id_number">გააქტიურება პირადობის ნომრით</string>
+    <string name="input_next_letter_of_the_search">შეიტანეთ საძიებო ხაზის შემდეგი ასო</string>
+    <string name="cat_sort_mode">დაალაგეთ კატეგორიები</string>
     </resources>

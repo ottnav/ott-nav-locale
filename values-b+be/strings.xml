@@ -747,4 +747,7 @@
     <string name="discover_new_content">Адкрыйце для сябе новы кантэнт</string>
     <string name="highest_rated">Топ лепшых у рэйтынгу</string>
     <string name="random_selection">Выпадковы выбар</string>
+    <string name="activate_by_id_number">Актывуйце ідэнтыфікацыйны нумар</string>
+    <string name="input_next_letter_of_the_search">Увядзіце наступную літару лініі пошуку</string>
+    <string name="cat_sort_mode">Сартаваць катэгорыі па</string>
     </resources>

@@ -753,4 +753,7 @@
     <string name="discover_new_content">שדח ןכות הלג</string>
     <string name="highest_rated">רתויב בוטה גורידב</string>
     <string name="random_selection">תיארקא הריחב</string>
+    <string name="activate_by_id_number">ההזמ רפסמ יפל לעפה</string>
+    <string name="input_next_letter_of_the_search">שופיחה וק לש האבה תואה תא ןזה</string>
+    <string name="cat_sort_mode">יפל תוירוגטק ןיימ</string>
     </resources>

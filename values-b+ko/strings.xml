@@ -756,4 +756,7 @@
     <string name="discover_new_content">새로운 콘텐츠를 발견하세요</string>
     <string name="highest_rated">최고 최고 순위</string>
     <string name="random_selection">무작위 선택</string>
+    <string name="activate_by_id_number">ID 번호로 활성화하십시오</string>
+    <string name="input_next_letter_of_the_search">입력 검색 라인의 다음 문자</string>
+    <string name="cat_sort_mode">카테고리를 정렬하십시오</string>
     </resources>

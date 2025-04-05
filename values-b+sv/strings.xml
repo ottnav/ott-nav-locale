@@ -708,4 +708,7 @@
     <string name="discover_new_content">Upptäck nytt innehåll</string>
     <string name="highest_rated">Topp bäst rankad</string>
     <string name="random_selection">Slumpmässigt urval</string>
+    <string name="activate_by_id_number">Aktivera med ID-nummer</string>
+    <string name="input_next_letter_of_the_search">Ange nästa bokstav i söklinjen</string>
+    <string name="cat_sort_mode">Sortera kategorier av</string>
     </resources>

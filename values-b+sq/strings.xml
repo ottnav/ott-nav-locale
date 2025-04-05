@@ -708,4 +708,7 @@
     <string name="discover_new_content">Zbuloni përmbajtje të reja</string>
     <string name="highest_rated">Kryesisht i renditur më mirë</string>
     <string name="random_selection">Zgjedhja e rastësishme</string>
+    <string name="activate_by_id_number">Aktivizoni sipas numrit të identitetit</string>
+    <string name="input_next_letter_of_the_search">Inpute Letrën tjetër të Linjës së Kërkimit</string>
+    <string name="cat_sort_mode">Rendit kategoritë nga</string>
     </resources>

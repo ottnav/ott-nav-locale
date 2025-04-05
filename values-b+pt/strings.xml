@@ -753,4 +753,7 @@
     <string name="discover_new_content">Descubra novos conteúdos</string>
     <string name="highest_rated">Top melhor classificado</string>
     <string name="random_selection">Seleção aleatória</string>
+    <string name="activate_by_id_number">Ativar por número de identificação</string>
+    <string name="input_next_letter_of_the_search">Entrar a próxima carta da linha de pesquisa</string>
+    <string name="cat_sort_mode">Classificar categorias por</string>
     </resources>

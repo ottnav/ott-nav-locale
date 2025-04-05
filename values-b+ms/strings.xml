@@ -753,4 +753,7 @@
     <string name="discover_new_content">Temui kandungan baharu</string>
     <string name="highest_rated">Kedudukan terbaik teratas</string>
     <string name="random_selection">Pemilihan rawak</string>
+    <string name="activate_by_id_number">Aktifkan mengikut nombor ID</string>
+    <string name="input_next_letter_of_the_search">Masukkan huruf seterusnya garis carian</string>
+    <string name="cat_sort_mode">Susun kategori oleh</string>
     </resources>

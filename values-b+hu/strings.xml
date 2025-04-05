@@ -707,4 +707,7 @@
     <string name="discover_new_content">Fedezzen fel új tartalmat</string>
     <string name="highest_rated">Legjobb helyezett</string>
     <string name="random_selection">Véletlenszerű kiválasztás</string>
+    <string name="activate_by_id_number">Aktiválja az azonosító szám szerint</string>
+    <string name="input_next_letter_of_the_search">Mutassa be a keresési sor következő betűjét</string>
+    <string name="cat_sort_mode">Rendezze a kategóriákat</string>
     </resources>

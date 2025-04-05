@@ -709,4 +709,7 @@
     <string name="discover_new_content">Discover new content</string>
     <string name="highest_rated">Top best ranked</string>
     <string name="random_selection">Random selection</string>
+    <string name="activate_by_id_number">Activate by ID number</string>
+    <string name="input_next_letter_of_the_search">Input next letter of the search line</string>
+    <string name="cat_sort_mode">Sort categories by</string>
 </resources>

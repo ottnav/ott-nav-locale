@@ -708,4 +708,7 @@
     <string name="discover_new_content">Ανακαλύψτε νέο περιεχόμενο</string>
     <string name="highest_rated">Κορυφαία καλύτερη κατάταξη</string>
     <string name="random_selection">Τυχαία επιλογή</string>
+    <string name="activate_by_id_number">Ενεργοποιήστε με τον αριθμό ταυτότητας</string>
+    <string name="input_next_letter_of_the_search">Εισαγάγετε το επόμενο γράμμα της γραμμής αναζήτησης</string>
+    <string name="cat_sort_mode">Ταξινόμηση κατηγοριών κατά</string>
     </resources>

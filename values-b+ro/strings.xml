@@ -707,4 +707,7 @@
     <string name="discover_new_content">Descoperiți conținut nou</string>
     <string name="highest_rated">Cel mai bine clasat</string>
     <string name="random_selection">Selectare aleatorie</string>
+    <string name="activate_by_id_number">Activați după numărul de identificare</string>
+    <string name="input_next_letter_of_the_search">Introduceți litera următoare a liniei de căutare</string>
+    <string name="cat_sort_mode">Sortează categorii după</string>
     </resources>

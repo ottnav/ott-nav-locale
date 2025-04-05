@@ -708,4 +708,7 @@
     <string name="discover_new_content">Odkrijte novo vsebino</string>
     <string name="highest_rated">Najvišje najbolje uvrščen</string>
     <string name="random_selection">Naključna izbira</string>
+    <string name="activate_by_id_number">Aktivirajte po ID</string>
+    <string name="input_next_letter_of_the_search">Vnesite naslednjo črko iskalne vrstice</string>
+    <string name="cat_sort_mode">Razvrsti kategorije do</string>
     </resources>

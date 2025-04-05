@@ -708,4 +708,7 @@
     <string name="discover_new_content">Ontdek nieuwe inhoud</string>
     <string name="highest_rated">Top best gerangschikt</string>
     <string name="random_selection">Willekeurige selectie</string>
+    <string name="activate_by_id_number">Activeren door ID-nummer</string>
+    <string name="input_next_letter_of_the_search">Voer de volgende letter van de zoekregel in</string>
+    <string name="cat_sort_mode">Sorteer categorieën door</string>
     </resources>

@@ -752,4 +752,7 @@
     <string name="discover_new_content">ਨਵੀਂ ਸਮੱਗਰੀ ਖੋਜੋ</string>
     <string name="highest_rated">ਸਿਖਰ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਦਰਜਾ ਪ੍ਰਾਪਤ</string>
     <string name="random_selection">ਬੇਤਰਤੀਬ ਚੋਣ</string>
+    <string name="activate_by_id_number">ID ਨੰਬਰ ਦੁਆਰਾ ਸਰਗਰਮ ਕਰੋ</string>
+    <string name="input_next_letter_of_the_search">ਖੋਜ ਲਾਈਨ ਦਾ ਅਗਲਾ ਪੱਤਰ ਇੰਪੁੱਟ</string>
+    <string name="cat_sort_mode">ਸ਼੍ਰੇਣੀਆਂ ਅਨੁਸਾਰ ਕ੍ਰਮਬੱਧ</string>
     </resources>

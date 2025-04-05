@@ -746,4 +746,7 @@
     <string name="discover_new_content">Khám phá nội dung mới</string>
     <string name="highest_rated">Xếp hạng tốt nhất hàng đầu</string>
     <string name="random_selection">Lựa chọn ngẫu nhiên</string>
+    <string name="activate_by_id_number">Kích hoạt theo số ID</string>
+    <string name="input_next_letter_of_the_search">Nhập chữ cái tiếp theo của dòng tìm kiếm</string>
+    <string name="cat_sort_mode">Sắp xếp danh mục theo</string>
     </resources>

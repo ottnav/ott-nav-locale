@@ -709,4 +709,7 @@
     <string name="discover_new_content">Descubre nuevo contenido</string>
     <string name="highest_rated">Mejor clasificado</string>
     <string name="random_selection">Selección aleatoria</string>
+    <string name="activate_by_id_number">Activar por número de identificación</string>
+    <string name="input_next_letter_of_the_search">Entrada la siguiente letra de la línea de búsqueda</string>
+    <string name="cat_sort_mode">Clasificar categorías por</string>
     </resources>

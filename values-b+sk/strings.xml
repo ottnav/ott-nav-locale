@@ -708,4 +708,7 @@
     <string name="discover_new_content">Objavte nový obsah</string>
     <string name="highest_rated">Najlepšie hodnotené</string>
     <string name="random_selection">Náhodný výber</string>
+    <string name="activate_by_id_number">Aktivujte podľa čísla ID</string>
+    <string name="input_next_letter_of_the_search">Zadajte ďalšie písmeno vyhľadávacieho riadku</string>
+    <string name="cat_sort_mode">Triediť kategórie podľa</string>
     </resources>

@@ -708,4 +708,7 @@
     <string name="discover_new_content">Yangi tarkibni kashf eting</string>
     <string name="highest_rated">Yuqori eng yaxshi reyting</string>
     <string name="random_selection">Tasodifiy tanlov</string>
+    <string name="activate_by_id_number">ID raqami bilan faollashtirish</string>
+    <string name="input_next_letter_of_the_search">Qidiruv liniyasining keyingi harfi</string>
+    <string name="cat_sort_mode">Kategoriyalarni tartiblash</string>
     </resources>

@@ -747,4 +747,7 @@
     <string name="discover_new_content">Откријте нови садржај</string>
     <string name="highest_rated">Најбоље рангиран</string>
     <string name="random_selection">Случајни избор</string>
+    <string name="activate_by_id_number">Активирајте ИД-ом ИД-а</string>
+    <string name="input_next_letter_of_the_search">Унесите следеће слово линије за претрагу</string>
+    <string name="cat_sort_mode">Сортирај категорије</string>
     </resources>

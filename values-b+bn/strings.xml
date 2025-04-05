@@ -755,4 +755,7 @@
     <string name="discover_new_content">নতুন বিষয়বস্তু আবিষ্কার করুন</string>
     <string name="highest_rated">শীর্ষ সেরা স্থান</string>
     <string name="random_selection">এলোমেলো নির্বাচন</string>
+    <string name="activate_by_id_number">আইডি নম্বর দ্বারা সক্রিয় করুন</string>
+    <string name="input_next_letter_of_the_search">অনুসন্ধান লাইনের পরবর্তী চিঠি ইনপুট</string>
+    <string name="cat_sort_mode">দ্বারা বিভাগ বাছাই</string>
     </resources>

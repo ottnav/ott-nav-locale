@@ -751,4 +751,7 @@
     <string name="discover_new_content">Atklājiet jaunu saturu</string>
     <string name="highest_rated">Labākais reitings</string>
     <string name="random_selection">Nejauša atlase</string>
+    <string name="activate_by_id_number">Aktivizēt pēc ID numuru</string>
+    <string name="input_next_letter_of_the_search">Ievadiet nākamo meklēšanas rindas burtu</string>
+    <string name="cat_sort_mode">Šķirot kategorijas pēc</string>
     </resources>

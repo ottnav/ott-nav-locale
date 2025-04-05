@@ -708,4 +708,7 @@
     <string name="discover_new_content">Yeni məzmun kəşf edin</string>
     <string name="highest_rated">Ən yaxşı reytinqli</string>
     <string name="random_selection">Təsadüfi seçim</string>
+    <string name="activate_by_id_number">Şəxsiyyət nömrəsi ilə aktivləşdirin</string>
+    <string name="input_next_letter_of_the_search">Axtarış xəttinin növbəti məktubu</string>
+    <string name="cat_sort_mode">Sort kateqoriyalarına görə</string>
     </resources>

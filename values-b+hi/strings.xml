@@ -754,4 +754,7 @@
     <string name="discover_new_content">नई सामग्री खोजें</string>
     <string name="highest_rated">शीर्ष सर्वश्रेष्ठ रैंक</string>
     <string name="random_selection">यादृच्छिक चयन</string>
+    <string name="activate_by_id_number">आईडी नंबर द्वारा सक्रिय करें</string>
+    <string name="input_next_letter_of_the_search">खोज लाइन का अगला पत्र इनपुट</string>
+    <string name="cat_sort_mode">द्वारा श्रेणियों को क्रमबद्ध करें</string>
     </resources>

@@ -708,4 +708,7 @@
     <string name="discover_new_content">新しいコンテンツを発見する</string>
     <string name="highest_rated">最高ランクの上位</string>
     <string name="random_selection">ランダムな選択</string>
+    <string name="activate_by_id_number">ID番号でアクティブ化します</string>
+    <string name="input_next_letter_of_the_search">検索行の次の文字を入力します</string>
+    <string name="cat_sort_mode">別のカテゴリ</string>
     </resources>

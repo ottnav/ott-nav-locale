@@ -732,10 +732,10 @@
     <string name="ssl_certificate_issue_detected">ﺖﺳﺍ ﺮﺒﺘﻌﻣﺎﻧ SSL (HTTPS) ﯽﻫﺍﻮﮔ</string>
     <string name="verify_net_before_update">ﺪﯿﻨﮐ ﺪﯿﯾﺄﺗ ﺍﺭ ﻪﮑﺒﺷ ﻥﺩﻮﺑ ﺱﺮﺘﺳﺩ ﺭﺩ ،ﻥﺎﮔﺪﻨﻫﺩu200cﻪﺋﺍﺭﺍ ﺯﺍ ﺎﻫu200cﻩﺩﺍﺩ ﯽﻧﺎﺳﺭﺯﻭﺭu200cﻪﺑ ﺯﺍ ﻞﺒﻗ</string>
     <string name="timezone">ﯽﻧﺎﻣﺯ ﻪﻘﻄﻨﻣ</string>
-    <string name="error_all_device_slots_used">.ﺪﯿﻨﮐ ﻑﺬﺣ ﺪﻧﻮﺷu200cﯽﻤﻧ ﻩﺩﺎﻔﺘﺳﺍ ﺮﮕﯾﺩ ﻪﮐ ﺍﺭ ﯽﯾﺎﻫu200cﻩﺎﮕﺘﺳﺩ ﺎﯾ ﺪﯾﺮﺨﺑ ﯼﺮﺘﺸﯿﺑ ﯼﺎﻫu200cﺕﻼ﻿ﺳﺍ .ﺪﻧﺍu200cﻩﺪﺷ ﻝﺎﻐﺷﺍ ﻡﻮﯿﻤﯾﺮﭘ ﯼﺎﻫu200cﺕﻼ﻿ﺳﺍ ﻪﻤﻫ ﺍﺮﯾﺯ ،ﺩﺮﮐ ﻝﺎﻌﻓ ﺍﺭ ﯽﻠﻌﻓ ﻩﺎﮕﺘﺳﺩ ﻥﺍﻮﺗu200cﯽﻤﻧ</string>
+    <string name="error_all_device_slots_used">.ﺪﯿﻨﮐ ﻑﺬﺣ ﺪﻧﻮﺷu200cﯽﻤﻧ ﻩﺩﺎﻔﺘﺳﺍ ﺮﮕﯾﺩ ﻪﮐ ﺍﺭ ﯽﯾﺎﻫu200cﻩﺎﮕﺘﺳﺩ ﺎﯾ ﺪﯾﺮﺨﺑ ﯼﺮﺘﺸﯿﺑ ﯼﺎﻫu200cﺕﻼﺳﺍ .ﺪﻧﺍu200cﻩﺪﺷ ﻝﺎﻐﺷﺍ ﻡﻮﯿﻤﯾﺮﭘ ﯼﺎﻫu200cﺕﻼﺳﺍ ﻪﻤﻫ ﺍﺮﯾﺯ ،ﺩﺮﮐ ﻝﺎﻌﻓ ﺍﺭ ﯽﻠﻌﻓ ﻩﺎﮕﺘﺳﺩ ﻥﺍﻮﺗu200cﯽﻤﻧ</string>
     <string name="contact_support_for_more_options">ﺪﯾﺮﯿﮕﺑ ﺱﺎﻤﺗ ﻪﻣﺎﻧﺮﺑ ﯽﻧﺎﺒﯿﺘﺸﭘ ﺎﺑ ﺮﺘﺸﯿﺑ ﯼﺎﻫ ﻪﻨﯾﺰﮔ ﯼﺍﺮﺑ</string>
     <string name="exit_on_back_press">ﺩﻮﺷ ﯽﻣ ﯼﺮﯿﮔﺭﺎﺑ ﻪﻈﻓﺎﺣ ﺯﺍ ﻪﻣﺎﻧﺮﺑ ﻪﮐ ﺪﯿﻨﮐ ﻞﺻﺎﺣ ﻥﺎﻨﯿﻤﻃﺍ ،ﺖﺸﮔﺯﺎﺑ ﻪﻤﮐﺩ ﻥﺩﺍﺩ ﺭﺎﺸﻓ ﺎﺑ</string>
-    <string name="auto_delete_backup_after_restore">(ﺪﯿﻫﺪﺑ ﺍﺭ ﯽﺑﺎﯾﺯﺎﺑ ﻩﺯﺎﺟﺍ ﺭﺎﺑ ﮏﯾ ﻂﻘﻓ) ﺪﯿﻨﮐ ﻑﺬﺣ ﺍﺭ ﻥﺎﺒﯿﺘﺸﭘ ﺕﺎﻋﻼ﻿ﻃﺍ ﯽﺑﺎﯾﺯﺎﺑ ﺯﺍ ﺲﭘ ﻪﻠﺻﺎﻓﻼ﻿ﺑ</string>
+    <string name="auto_delete_backup_after_restore">(ﺪﯿﻫﺪﺑ ﺍﺭ ﯽﺑﺎﯾﺯﺎﺑ ﻩﺯﺎﺟﺍ ﺭﺎﺑ ﮏﯾ ﻂﻘﻓ) ﺪﯿﻨﮐ ﻑﺬﺣ ﺍﺭ ﻥﺎﺒﯿﺘﺸﭘ ﺕﺎﻋﻼﻃﺍ ﯽﺑﺎﯾﺯﺎﺑ ﺯﺍ ﺲﭘ ﻪﻠﺻﺎﻓﻼﺑ</string>
     <string name="applies_to_category_of_item">ﺩﻮﺷ ﯽﻣ ﻝﺎﻤﻋﺍ ﺮﺼﻨﻋ ﻪﺘﺳﺩ ﯼﺍﺮﺑ ﻂﻘﻓ</string>
     <string name="applies_to_every_category">ﺪﻧﺍ ﻩﺪﺷ ﻖﺤﻠﻣ ﺮﺻﺎﻨﻋ ﻪﻤﻫ ،ﺩﻮﺷ ﯽﻣ ﻝﺎﻤﻋﺍ ﻪﺘﺳﺩ ﺮﻫ ﯼﺍﺮﺑ</string>
     <string name="group_categories_by_country">ﺭﻮﺸﮐ ﺯﺍ ﯽﮔﺪﻨﯾﺎﻤﻧ ﻪﺑ ،ﺪﯿﻨﮐ ﯼﺪﻨﺑu200cﻩﻭﺮﮔ ﯼﺯﺎﺠﻣ ﯼﺪﻨﺑu200cﻪﺘﺳﺩ ﺱﺎﺳﺍ ﺮﺑ ﺍﺭ ﺎﻬﻧﺁ ،ﺪﯿﻨﮐ ﻝﺎﻌﻓ ﺍﺭ ﻮﺷﺎﺗ ﯼﺎﻫu200cﻪﺘﺳﺩ</string>
@@ -754,4 +754,7 @@
     <string name="discover_new_content">ﺪﯿﻨﮐ ﻒﺸﮐ ﺍﺭ ﺪﯾﺪﺟ ﯼﺍﻮﺘﺤﻣ</string>
     <string name="highest_rated">ﺮﺗﺮﺑ ﻪﺒﺗﺭ ﻦﯾﺮﺘﻬﺑ</string>
     <string name="random_selection">ﯽﻓﺩﺎﺼﺗ ﺏﺎﺨﺘﻧﺍ</string>
+    <string name="activate_by_id_number">ﺪﯾﻮﺷ ﻝﺎﻌﻓ ﻪﺳﺎﻨﺷ ﻩﺭﺎﻤﺷ ﺎﺑ</string>
+    <string name="input_next_letter_of_the_search">ﻮﺠﺘﺴﺟ ﻂﺧ ﯼﺪﻌﺑ ﻑﺮﺣ ﻥﺩﺮﮐ ﺩﺭﺍﻭ</string>
+    <string name="cat_sort_mode">ﻂﺳﻮﺗ ﯼﺪﻨﺑ ﻪﺘﺳﺩ ﯼﺪﻨﺑ ﻪﻘﺒﻃ</string>
     </resources>

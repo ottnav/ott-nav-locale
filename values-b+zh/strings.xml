@@ -746,4 +746,7 @@
     <string name="discover_new_content">发现新内容</string>
     <string name="highest_rated">最佳排名</string>
     <string name="random_selection">随机选择</string>
+    <string name="activate_by_id_number">通过ID数字激活</string>
+    <string name="input_next_letter_of_the_search">输入搜索行的下一个字母</string>
+    <string name="cat_sort_mode">排序类别</string>
     </resources>

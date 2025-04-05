@@ -708,4 +708,7 @@
     <string name="discover_new_content">Открийте ново съдържание</string>
     <string name="highest_rated">Топ най-добре класиран</string>
     <string name="random_selection">Случаен избор</string>
+    <string name="activate_by_id_number">Активирайте се с идентификационен номер</string>
+    <string name="input_next_letter_of_the_search">Въвеждане на следващата буква от линията за търсене</string>
+    <string name="cat_sort_mode">Сортирайте категории от</string>
     </resources>

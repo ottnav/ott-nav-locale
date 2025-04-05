@@ -758,4 +758,7 @@
     <string name="discover_new_content">Atraskite naują turinį</string>
     <string name="highest_rated">Geriausiai įvertinta</string>
     <string name="random_selection">Atsitiktinis pasirinkimas</string>
+    <string name="activate_by_id_number">Suaktyvinkite pagal ID numerį</string>
+    <string name="input_next_letter_of_the_search">Įveskite kitą paieškos eilutės raidę</string>
+    <string name="cat_sort_mode">Rūšiuoti kategorijas pagal</string>
     </resources>

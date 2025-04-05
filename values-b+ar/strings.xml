@@ -732,17 +732,17 @@
     <string name="ssl_certificate_issue_detected">ﺔﺤﻟﺎﺻ ﺮﻴﻏ SSL (HTTPS) ﺓﺩﺎﻬﺷ</string>
     <string name="verify_net_before_update">ﺔﻣﺪﺨﻟﺍ ﻲﻣﺪﻘﻣ ﻦﻣ ﺕﺎﻧﺎﻴﺒﻟﺍ ﺚﻳﺪﺤﺗ ﻞﺒﻗ ﺔﻜﺒﺸﻟﺍ ﺮﻓﻮﺗ ﻦﻣ ﻖﻘﺤﺗ</string>
     <string name="timezone">ﺔﻴﻨﻣﺰﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ</string>
-    <string name="error_all_device_slots_used">.ﺔﻣﺪﺨﺘﺴﻣ ﺪﻌﺗ ﻢﻟ ﻲﺘﻟﺍ ﺓﺰﻬﺟﻷ﻿ﺍ ﺔﻟﺍﺯﺈﺑ ﻢﻗ ﻭﺃ ،ﺕﺎﺤﺘﻔﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ءﺍﺮﺸﺑ ﻢﻗ .ﺔﻟﻮﻐﺸﻣ ﺓﺰﻴﻤﻤﻟﺍ ﺕﺎﺤﺘﻔﻟﺍ ﻊﻴﻤﺟ ﻥﻷ﻿ ﺍﺮًﻈﻧ ،ﻲﻟﺎﺤﻟﺍ ﺯﺎﻬﺠﻟﺍ ﻂﻴﺸﻨﺗ ﻦﻜﻤﻳ ﻻ﻿</string>
+    <string name="error_all_device_slots_used">.ﺔﻣﺪﺨﺘﺴﻣ ﺪﻌﺗ ﻢﻟ ﻲﺘﻟﺍ ﺓﺰﻬﺟﻷﺍ ﺔﻟﺍﺯﺈﺑ ﻢﻗ ﻭﺃ ،ﺕﺎﺤﺘﻔﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ءﺍﺮﺸﺑ ﻢﻗ .ﺔﻟﻮﻐﺸﻣ ﺓﺰﻴﻤﻤﻟﺍ ﺕﺎﺤﺘﻔﻟﺍ ﻊﻴﻤﺟ ﻥﻷ ﺍﺮًﻈﻧ ،ﻲﻟﺎﺤﻟﺍ ﺯﺎﻬﺠﻟﺍ ﻂﻴﺸﻨﺗ ﻦﻜﻤﻳ ﻻ</string>
     <string name="contact_support_for_more_options">ﺕﺍﺭﺎﻴﺨﻟﺍ ﻦﻣ ﺪﻳﺰﻤﻟ ﻖﻴﺒﻄﺘﻟﺍ ﻢﻋﺪﺑ ﻞﺼﺗﺍ</string>
     <string name="exit_on_back_press">ﻉﻮﺟﺮﻟﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﻀﻟﺍ ﺪﻨﻋ ،ﺓﺮﻛﺍﺬﻟﺍ ﻦﻣ ﻖﻴﺒﻄﺘﻟﺍ ﻞﻴﻤﺤﺗ ءﺎﻐﻟﺇ ﻦﻣ ﺪﻛﺄﺘﻟﺍ</string>
-    <string name="auto_delete_backup_after_restore">(ﻂﻘﻓ ﺓﺪﺣﺍﻭ ﺓﺮﻣ ﺓﺩﺎﻌﺘﺳﻻ﻿ﺎﺑ ﺡﺎﻤﺴﻟﺍ) ﺓﺩﺎﻌﺘﺳﻻ﻿ﺍ ﺪﻌﺑ ﺓﺮﺷﺎﺒﻣ ﻲﻃﺎﻴﺘﺣﻻ﻿ﺍ ﺦﺴﻨﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻑﺬﺣ</string>
+    <string name="auto_delete_backup_after_restore">(ﻂﻘﻓ ﺓﺪﺣﺍﻭ ﺓﺮﻣ ﺓﺩﺎﻌﺘﺳﻻﺎﺑ ﺡﺎﻤﺴﻟﺍ) ﺓﺩﺎﻌﺘﺳﻻﺍ ﺪﻌﺑ ﺓﺮﺷﺎﺒﻣ ﻲﻃﺎﻴﺘﺣﻻﺍ ﺦﺴﻨﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻑﺬﺣ</string>
     <string name="applies_to_category_of_item">ﺮﺼﻨﻌﻟﺍ ﺔﺌﻓ ﻰﻠﻋ ﻂﻘﻓ ﻖﺒﻄﻨﻳ</string>
     <string name="applies_to_every_category">ﺖﻤﻀﻧﺍ ﺮﺻﺎﻨﻌﻟﺍ ﻊﻴﻤﺟ ،ﺔﺌﻓ ﻞﻛ ﻰﻠﻋ ﻖﺒﻄﻨﻳ</string>
-    <string name="group_categories_by_country">ﺔﻟﻭﺪﻟﺍ ﻞﺜﻤﺗ ﻲﺘﻟﺍ ﺔﻴﺿﺍﺮﺘﻓﻻ﻿ﺍ ﺔﺌﻔﻟﺍ ﺐﺴﺣ ﺎﻬﻌﻴﻤﺠﺗﻭ ،ﻲﻄﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺕﺎﺌﻔﻟﺍ ﻦﻴﻜﻤﺗ</string>
+    <string name="group_categories_by_country">ﺔﻟﻭﺪﻟﺍ ﻞﺜﻤﺗ ﻲﺘﻟﺍ ﺔﻴﺿﺍﺮﺘﻓﻻﺍ ﺔﺌﻔﻟﺍ ﺐﺴﺣ ﺎﻬﻌﻴﻤﺠﺗﻭ ،ﻲﻄﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺕﺎﺌﻔﻟﺍ ﻦﻴﻜﻤﺗ</string>
     <string name="with_lower_priority">ﻞﻗﺃ ﺔﻳﻮﻟﻭﺃ ﻊﻣ</string>
     <string name="vod_folder_tv_show">ﺔﻴﻧﻮﻳﺰﻔﻠﺘﻟﺍ ﺞﻣﺍﺮﺒﻟﺍ</string>
     <string name="radio_stations">ﻮﻳﺩﺍﺮﻟﺍ ﺕﺎﻄﺤﻣ</string>
-    <string name="reversed_direction">ﺲﻛﺎﻌﻤﻟﺍ ﻩﺎﺠﺗﻻ﻿ﺍ</string>
+    <string name="reversed_direction">ﺲﻛﺎﻌﻤﻟﺍ ﻩﺎﺠﺗﻻﺍ</string>
     <string name="remove_some_provider_categories">ﺮﻓﻮﻤﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻦﻣ ﺕﺎﺌﻔﻟﺍ ﺾﻌﺑ ﺔﻟﺍﺯﺈﺑ ﻢﻗ</string>
     <string name="rename_provider_categories">ﺮﻓﻮﻤﻟﺍ ﺕﺎﻧﺎﻴﺑ ﻦﻣ ﺕﺎﺌﻔﻟﺍ ﺔﻴﻤﺴﺗ ﺓﺩﺎﻋﺇ</string>
     <string name="use_deep_search">(ﺦﻟﺍ ،ﻥﺍﺪﻠﺒﻟﺍ ،ﻦﻴﻠﺜﻤﻤﻟﺍ ﺐﺴﺣ) ﻖﻴﻤﻋ ﺚﺤﺑ</string>
@@ -754,4 +754,7 @@
     <string name="discover_new_content">ﺪﻳﺪﺟ ﻯﻮﺘﺤﻣ ﻑﺎﺸﺘﻛﺍ</string>
     <string name="highest_rated">ﺔﺒﺗﺮﻣ ﻞﻀﻓﺃ ﻰﻠﻋﺃ</string>
     <string name="random_selection">ﻲﺋﺍﻮﺸﻋ ﺭﺎﻴﺘﺧﺍ</string>
+    <string name="activate_by_id_number">ﺔﻳﻮﻬﻟﺍ ﻢﻗﺭ ﻂﻴﺸﻨﺗ</string>
+    <string name="input_next_letter_of_the_search">ﺚﺤﺒﻟﺍ ﻂﺧ ﻦﻣ ﻲﻟﺎﺘﻟﺍ ﻑﺮﺤﻟﺍ ﻝﺎﺧﺩﺇ</string>
+    <string name="cat_sort_mode">ﺔﻄﺳﺍﻮﺑ ﺕﺎﺌﻔﻟﺍ ﺯﺮﻓ</string>
     </resources>
