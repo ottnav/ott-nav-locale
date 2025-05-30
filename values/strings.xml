@@ -654,7 +654,7 @@
     <string name="lock_immediately">Lock immediately</string>
     <string name="genre">Genre</string>
     <string name="cast">Cast</string>
-    <string name="producer">Producer</string>
+    <string name="producer">Director</string>
     <string name="retry">Retry</string>
     <string name="undo">Revert changes</string>
     <string name="set_for_phone">Set recommended setup for phones</string>
