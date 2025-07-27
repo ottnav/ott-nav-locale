@@ -303,7 +303,6 @@
     <string name="provider_field_pass">Parole</string>
     <string name="provider_field_token">Pieejas atslēga</string>
     <string name="provider_field_server">Serveris</string>
-    <string name="provider_field_active">Aktīvs</string>
     <string name="cfg_prov_categories_merge">Kategorijas no dažādiem pakalpojumu sniedzējiem</string>
     <string name="cfg_prov_categories_merge_prepend">Atšķirīga kategorija ar pakalpojumu sniedzēja nosaukumu</string>
     <string name="cfg_prov_categories_merge_mix">Apvienojiet kategorijas, ja nosaukumi atbilst</string>
@@ -754,4 +753,12 @@
     <string name="activate_by_id_number">Aktivizēt pēc ID numuru</string>
     <string name="input_next_letter_of_the_search">Ievadiet nākamo meklēšanas rindas burtu</string>
     <string name="cat_sort_mode">Šķirot kategorijas pēc</string>
+    <string name="only_works_if_suppored_by_provider">Darbojas tikai tad, ja to atbalsta pakalpojumu sniedzējs</string>
+    <string name="show_preview_on_seek">Rādīt attēlu priekšskatījumu, veicot atpakaļgaitu vai ātri uz priekšu</string>
+    <string name="auto_select_vtrack_by_resolution">Automātiska video celiņa izvēle, pamatojoties uz izšķirtspēju</string>
+    <string name="blacklist_afr_modes">Izslēdziet šos ekrāna režīmus no automātiskā pārslēgšanas</string>
+    <string name="err_timeout">Pakalpojumu sniedzēja avots nereaģē</string>
+    <string name="device_type">Ierīces tips</string>
+    <string name="select_tags">Atlasiet tagus</string>
+    <string name="watch_trailer">Pulksteņa treileris</string>
     </resources>

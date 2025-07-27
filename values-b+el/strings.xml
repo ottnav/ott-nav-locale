@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Κωδικός πρόσβασης</string>
     <string name="provider_field_token">Διακριτικό πρόσβασης</string>
     <string name="provider_field_server">Υπηρέτης</string>
-    <string name="provider_field_active">Ενεργός</string>
     <string name="cfg_prov_categories_merge">Κατηγορίες από διαφορετικούς παρόχους</string>
     <string name="cfg_prov_categories_merge_prepend">Προσαρμόστε την κατηγορία με το όνομα του παροχέα</string>
     <string name="cfg_prov_categories_merge_mix">Συγχώνευση κατηγοριών εάν το όνομα ταιριάζει</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Ενεργοποιήστε με τον αριθμό ταυτότητας</string>
     <string name="input_next_letter_of_the_search">Εισαγάγετε το επόμενο γράμμα της γραμμής αναζήτησης</string>
     <string name="cat_sort_mode">Ταξινόμηση κατηγοριών κατά</string>
+    <string name="only_works_if_suppored_by_provider">Λειτουργεί μόνο εάν υποστηρίζεται από τον πάροχο</string>
+    <string name="show_preview_on_seek">Εμφάνιση προεπισκόπησης εικόνων ενώ κάνετε επανένταξη ή γρήγορη προς τα εμπρός</string>
+    <string name="auto_select_vtrack_by_resolution">Αυτόματη επιλογή κομματιού βίντεο βασίζεται σε ανάλυση</string>
+    <string name="blacklist_afr_modes">Εξαιρέστε αυτές τις λειτουργίες οθόνης από την αυτόματη αλλαγή</string>
+    <string name="err_timeout">Η πηγή παροχής δεν ανταποκρίνεται</string>
+    <string name="device_type">Τύπος συσκευής</string>
+    <string name="select_tags">Επιλέξτε ετικέτες</string>
+    <string name="watch_trailer">Παρακολούθηση του ρυμουλκούμενου</string>
     </resources>

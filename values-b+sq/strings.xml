@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Fjalëkalimi</string>
     <string name="provider_field_token">Shenja e hyrjes</string>
     <string name="provider_field_server">Serveri</string>
-    <string name="provider_field_active">Aktiv</string>
     <string name="cfg_prov_categories_merge">Kategoritë nga ofrues të ndryshëm</string>
     <string name="cfg_prov_categories_merge_prepend">Përgatitni kategorinë me emrin e ofruesit</string>
     <string name="cfg_prov_categories_merge_mix">Bashkoni kategoritë nëse emri përputhet</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Aktivizoni sipas numrit të identitetit</string>
     <string name="input_next_letter_of_the_search">Inpute Letrën tjetër të Linjës së Kërkimit</string>
     <string name="cat_sort_mode">Rendit kategoritë nga</string>
+    <string name="only_works_if_suppored_by_provider">Funksionon vetëm nëse mbështetet nga ofruesi</string>
+    <string name="show_preview_on_seek">Shfaq parapamjen e imazhit ndërsa bëni rewind ose shpejt përpara</string>
+    <string name="auto_select_vtrack_by_resolution">Përzgjedhja automatike e gjurmëve të videos bazohet në rezolucion</string>
+    <string name="blacklist_afr_modes">Përjashtoni këto mënyra të ekranit nga Auto-Switch</string>
+    <string name="err_timeout">Burimi i ofruesit nuk përgjigjet</string>
+    <string name="device_type">Lloji i pajisjes</string>
+    <string name="select_tags">Zgjidhni Etiketat</string>
+    <string name="watch_trailer">Shikoni rimorkio</string>
     </resources>

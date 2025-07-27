@@ -265,7 +265,6 @@
     <string name="provider_field_pass">パスワード</string>
     <string name="provider_field_token">アクセストークン</string>
     <string name="provider_field_server">サーバ</string>
-    <string name="provider_field_active">アクティブ</string>
     <string name="cfg_prov_categories_merge">さまざまなプロバイダのカテゴリ</string>
     <string name="cfg_prov_categories_merge_prepend">プロバイダ名の前にカテゴリを追加</string>
     <string name="cfg_prov_categories_merge_mix">名前が一致する場合はカテゴリを結合</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">ID番号でアクティブ化します</string>
     <string name="input_next_letter_of_the_search">検索行の次の文字を入力します</string>
     <string name="cat_sort_mode">別のカテゴリ</string>
+    <string name="only_works_if_suppored_by_provider">プロバイダーによってサポートされている場合にのみ機能します</string>
+    <string name="show_preview_on_seek">巻き戻し中に画像プレビューを表示するか、早送りします</string>
+    <string name="auto_select_vtrack_by_resolution">解像度に基づいた自動ビデオトラックの選択</string>
+    <string name="blacklist_afr_modes">これらの画面モードをAuto-Switchから除外します</string>
+    <string name="err_timeout">プロバイダーソースは応答しません</string>
+    <string name="device_type">デバイスタイプ</string>
+    <string name="select_tags">タグを選択します</string>
+    <string name="watch_trailer">トレーラーを見る</string>
     </resources>

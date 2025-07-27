@@ -265,7 +265,6 @@
     <string name="provider_field_pass">heslo</string>
     <string name="provider_field_token">Prístupový token</string>
     <string name="provider_field_server">Server</string>
-    <string name="provider_field_active">Aktívne</string>
     <string name="cfg_prov_categories_merge">Kategórie od rôznych poskytovateľov</string>
     <string name="cfg_prov_categories_merge_prepend">Pred kategóriu pridajte názov poskytovateľa</string>
     <string name="cfg_prov_categories_merge_mix">Zlúčte kategórie, ak sa názov zhoduje</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Aktivujte podľa čísla ID</string>
     <string name="input_next_letter_of_the_search">Zadajte ďalšie písmeno vyhľadávacieho riadku</string>
     <string name="cat_sort_mode">Triediť kategórie podľa</string>
+    <string name="only_works_if_suppored_by_provider">Funguje iba vtedy, ak je podporovaný poskytovateľom</string>
+    <string name="show_preview_on_seek">Zobraziť ukážku obrázka pri vykonávaní prevíjania alebo rýchleho vpred</string>
+    <string name="auto_select_vtrack_by_resolution">Automatický výber videozáznamov zakladá na rozlíšení</string>
+    <string name="blacklist_afr_modes">Vylúčiť tieto režimy obrazovky z automatického prepínania</string>
+    <string name="err_timeout">Zdroj poskytovateľa nereaguje</string>
+    <string name="device_type">Typ zariadenia</string>
+    <string name="select_tags">Vyberte značky</string>
+    <string name="watch_trailer">Príves</string>
     </resources>

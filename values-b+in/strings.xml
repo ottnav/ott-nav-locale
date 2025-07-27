@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Kata sandi</string>
     <string name="provider_field_token">Token akses</string>
     <string name="provider_field_server">Server</string>
-    <string name="provider_field_active">Aktif</string>
     <string name="cfg_prov_categories_merge">Kategori dari penyedia yang berbeda</string>
     <string name="cfg_prov_categories_merge_prepend">Tambahkan kategori dengan nama penyedia</string>
     <string name="cfg_prov_categories_merge_mix">Gabungkan kategori jika namanya cocok</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Aktifkan dengan Nomor ID</string>
     <string name="input_next_letter_of_the_search">Masukkan surat berikutnya dari baris pencarian</string>
     <string name="cat_sort_mode">Urutkan kategori berdasarkan</string>
+    <string name="only_works_if_suppored_by_provider">Hanya berfungsi jika didukung oleh penyedia</string>
+    <string name="show_preview_on_seek">Tampilkan pratinjau gambar saat melakukan mundur atau maju cepat</string>
+    <string name="auto_select_vtrack_by_resolution">Pilihan trek video otomatis berdasarkan resolusi</string>
+    <string name="blacklist_afr_modes">Kecualikan mode layar ini dari auto-switch</string>
+    <string name="err_timeout">Sumber penyedia tidak merespons</string>
+    <string name="device_type">Jenis perangkat</string>
+    <string name="select_tags">Pilih tag</string>
+    <string name="watch_trailer">Tonton trailer</string>
     </resources>

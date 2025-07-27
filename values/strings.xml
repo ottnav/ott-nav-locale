@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Password</string>
     <string name="provider_field_token">Access token</string>
     <string name="provider_field_server">Server</string>
-    <string name="provider_field_active">Active</string>
     <string name="cfg_prov_categories_merge">Categories from different providers</string>
     <string name="cfg_prov_categories_merge_prepend">Prepend category with provider name</string>
     <string name="cfg_prov_categories_merge_mix">Merge categories if name matches</string>
@@ -712,4 +711,12 @@
     <string name="activate_by_id_number">Activate by ID number</string>
     <string name="input_next_letter_of_the_search">Input next letter of the search line</string>
     <string name="cat_sort_mode">Sort categories by</string>
+    <string name="only_works_if_suppored_by_provider">Only works if supported by provider</string>
+    <string name="show_preview_on_seek">Show image preview while doing rewind or fast forward</string>
+    <string name="auto_select_vtrack_by_resolution">Automatic video track selection basing on resolution</string>
+    <string name="blacklist_afr_modes">Exclude these screen modes from auto-switch</string>
+    <string name="err_timeout">Provider source does not respond</string>
+    <string name="device_type">Device type</string>
+    <string name="select_tags">Select tags</string>
+    <string name="watch_trailer">Watch trailer</string>
 </resources>

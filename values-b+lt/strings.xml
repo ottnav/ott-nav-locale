@@ -311,7 +311,6 @@
     <string name="provider_field_pass">Slaptažodis</string>
     <string name="provider_field_token">Prieigos raktas</string>
     <string name="provider_field_server">Serveris</string>
-    <string name="provider_field_active">Aktyvus</string>
     <string name="cfg_prov_categories_merge">Įvairių teikėjų kategorijos</string>
     <string name="cfg_prov_categories_merge_prepend">Preparuoti kategoriją su paslaugų teikėjo pavadinimu</string>
     <string name="cfg_prov_categories_merge_mix">Sujungti kategorijas, jei atitinka pavadinimą</string>
@@ -761,4 +760,12 @@
     <string name="activate_by_id_number">Suaktyvinkite pagal ID numerį</string>
     <string name="input_next_letter_of_the_search">Įveskite kitą paieškos eilutės raidę</string>
     <string name="cat_sort_mode">Rūšiuoti kategorijas pagal</string>
+    <string name="only_works_if_suppored_by_provider">Veikia tik tuo atveju, jei palaiko teikėjas</string>
+    <string name="show_preview_on_seek">Rodyti vaizdo peržiūrą darydami atsukimą arba greitai į priekį</string>
+    <string name="auto_select_vtrack_by_resolution">Automatinis vaizdo takelių pasirinkimas, pagrįstas skiriamąja geba</string>
+    <string name="blacklist_afr_modes">Išimkite šiuos ekrano režimus iš automatinio jungiklio</string>
+    <string name="err_timeout">Teikėjo šaltinis neatsako</string>
+    <string name="device_type">Įrenginio tipas</string>
+    <string name="select_tags">Pasirinkite Žymos</string>
+    <string name="watch_trailer">Žiūrėkite priekabą</string>
     </resources>

@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Geslo</string>
     <string name="provider_field_token">Dostopni žeton</string>
     <string name="provider_field_server">Strežnik</string>
-    <string name="provider_field_active">Aktiven</string>
     <string name="cfg_prov_categories_merge">Kategorije različnih ponudnikov</string>
     <string name="cfg_prov_categories_merge_prepend">Pred kategorijo dodajte ime ponudnika</string>
     <string name="cfg_prov_categories_merge_mix">Spoji kategorije, če se ime ujema</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Aktivirajte po ID</string>
     <string name="input_next_letter_of_the_search">Vnesite naslednjo črko iskalne vrstice</string>
     <string name="cat_sort_mode">Razvrsti kategorije do</string>
+    <string name="only_works_if_suppored_by_provider">Deluje samo, če ga podpira ponudnik</string>
+    <string name="show_preview_on_seek">Prikažite predogled slike med previjanjem ali hitrim naprej</string>
+    <string name="auto_select_vtrack_by_resolution">Samodejna izbira video posnetkov, ki temelji na ločljivosti</string>
+    <string name="blacklist_afr_modes">Izključite te načine zaslona iz samodejnega stikala</string>
+    <string name="err_timeout">Vir ponudnika se ne odziva</string>
+    <string name="device_type">Vrsta naprave</string>
+    <string name="select_tags">Izberite oznake</string>
+    <string name="watch_trailer">Oglejte si napovednik</string>
     </resources>

@@ -307,7 +307,6 @@
     <string name="provider_field_pass">पारण शब्द</string>
     <string name="provider_field_token">एक्सेस टोकन</string>
     <string name="provider_field_server">सर्वर</string>
-    <string name="provider_field_active">सक्रिय</string>
     <string name="cfg_prov_categories_merge">विभिन्न प्रदाताओं से श्रेणियाँ</string>
     <string name="cfg_prov_categories_merge_prepend">प्रदाता नाम के साथ प्रीपेन्ड श्रेणी</string>
     <string name="cfg_prov_categories_merge_mix">यदि नाम से मेल खाता है तो श्रेणियों को मर्ज करें</string>
@@ -757,4 +756,12 @@
     <string name="activate_by_id_number">आईडी नंबर द्वारा सक्रिय करें</string>
     <string name="input_next_letter_of_the_search">खोज लाइन का अगला पत्र इनपुट</string>
     <string name="cat_sort_mode">द्वारा श्रेणियों को क्रमबद्ध करें</string>
+    <string name="only_works_if_suppored_by_provider">केवल काम करता है यदि प्रदाता द्वारा समर्थित है</string>
+    <string name="show_preview_on_seek">रिवाइंड या फास्ट फॉरवर्ड करते समय छवि पूर्वावलोकन दिखाएं</string>
+    <string name="auto_select_vtrack_by_resolution">संकल्प पर स्वचालित वीडियो ट्रैक चयन आधार</string>
+    <string name="blacklist_afr_modes">इन स्क्रीन मोड को ऑटो-स्विच से बाहर करें</string>
+    <string name="err_timeout">प्रदाता स्रोत जवाब नहीं देता है</string>
+    <string name="device_type">युक्ति प्रकार</string>
+    <string name="select_tags">टैग का चयन करें</string>
+    <string name="watch_trailer">ट्रेलर देखें</string>
     </resources>

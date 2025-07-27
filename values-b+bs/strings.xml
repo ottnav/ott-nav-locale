@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Lozinka</string>
     <string name="provider_field_token">Pristupni token</string>
     <string name="provider_field_server">Server</string>
-    <string name="provider_field_active">Aktivan</string>
     <string name="cfg_prov_categories_merge">Kategorije različitih provajdera</string>
     <string name="cfg_prov_categories_merge_prepend">Dodaj kategoriju s imenom provajdera</string>
     <string name="cfg_prov_categories_merge_mix">Spojite kategorije ako se naziv podudara</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Aktivirajte po ID broju</string>
     <string name="input_next_letter_of_the_search">Unesite sljedeće slovo linije pretraživanja</string>
     <string name="cat_sort_mode">Poredaj kategorije po</string>
+    <string name="only_works_if_suppored_by_provider">Samo radi ako podržava dobavljač</string>
+    <string name="show_preview_on_seek">Prikaži pregled slike dok radite premotavanje ili brzo naprijed</string>
+    <string name="auto_select_vtrack_by_resolution">Automatska odabira video zapisa Uspostavljanje rezolucije</string>
+    <string name="blacklist_afr_modes">Isključite ove režime ekrana sa automatskog prekidača</string>
+    <string name="err_timeout">Izvor provajdera ne reagira</string>
+    <string name="device_type">Vrsta uređaja</string>
+    <string name="select_tags">Odaberite oznake</string>
+    <string name="watch_trailer">Prikolica za gledanje</string>
     </resources>

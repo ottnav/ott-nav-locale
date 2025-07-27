@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Parola</string>
     <string name="provider_field_token">Erişim belirteci</string>
     <string name="provider_field_server">Sunucu</string>
-    <string name="provider_field_active">Aktif</string>
     <string name="cfg_prov_categories_merge">Farklı sağlayıcılardan kategoriler</string>
     <string name="cfg_prov_categories_merge_prepend">Kategorinin önüne sağlayıcı adını ekle</string>
     <string name="cfg_prov_categories_merge_mix">Ad eşleşirse kategorileri birleştir</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Kimlik numarasına göre etkinleştirin</string>
     <string name="input_next_letter_of_the_search">Arama hattının bir sonraki harfini girin</string>
     <string name="cat_sort_mode">Kategorileri sıralayın</string>
+    <string name="only_works_if_suppored_by_provider">Yalnızca sağlayıcı tarafından desteklenirse çalışır</string>
+    <string name="show_preview_on_seek">Geri sararken veya hızlı ilerlerken resim önizlemesini gösterin</string>
+    <string name="auto_select_vtrack_by_resolution">Çözünürlüğe dayanarak otomatik video izi seçimi</string>
+    <string name="blacklist_afr_modes">Bu ekran modlarını otomatik anahtardan hariç tutun</string>
+    <string name="err_timeout">Sağlayıcı kaynağı yanıt vermiyor</string>
+    <string name="device_type">Cihaz türü</string>
+    <string name="select_tags">Etiketleri seçin</string>
+    <string name="watch_trailer">İzle fragmanı</string>
     </resources>

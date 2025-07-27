@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Parol</string>
     <string name="provider_field_token">Kirish belgisi</string>
     <string name="provider_field_server">Server</string>
-    <string name="provider_field_active">Faol</string>
     <string name="cfg_prov_categories_merge">Turli provayderlarning toifalari</string>
     <string name="cfg_prov_categories_merge_prepend">Provayder nomi bilan toifani oldinga yozing</string>
     <string name="cfg_prov_categories_merge_mix">Agar nom mos kelsa, toifalarni birlashtiring</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">ID raqami bilan faollashtirish</string>
     <string name="input_next_letter_of_the_search">Qidiruv liniyasining keyingi harfi</string>
     <string name="cat_sort_mode">Kategoriyalarni tartiblash</string>
+    <string name="only_works_if_suppored_by_provider">Faqat provayder tomonidan qo\'llab-quvvatlansa, faqat ishlaydi</string>
+    <string name="show_preview_on_seek">Oldinni qayta ko\'rib chiqish yoki oldinga siljish paytida rasmni oldindan ko\'rish-ni ko\'rsating</string>
+    <string name="auto_select_vtrack_by_resolution">Rezolyutsiyaga asoslanadigan avtomatik video trekni tanlash</string>
+    <string name="blacklist_afr_modes">Ushbu ekran rejimlarini avtomatik almashtirishdan chiqarib tashlang</string>
+    <string name="err_timeout">Provayder manbasi javob bermaydi</string>
+    <string name="device_type">Qurilma turi</string>
+    <string name="select_tags">Teglarni tanlang</string>
+    <string name="watch_trailer">Tomosha treyleri</string>
     </resources>

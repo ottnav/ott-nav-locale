@@ -265,7 +265,6 @@
     <string name="provider_field_pass">parol</string>
     <string name="provider_field_token">Giriş nişanı</string>
     <string name="provider_field_server">Server</string>
-    <string name="provider_field_active">Aktiv</string>
     <string name="cfg_prov_categories_merge">Müxtəlif provayderlərin kateqoriyaları</string>
     <string name="cfg_prov_categories_merge_prepend">Provayder adı ilə kateqoriyaya yazın</string>
     <string name="cfg_prov_categories_merge_mix">Adı uyğun gəlirsə, kateqoriyaları birləşdirin</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Şəxsiyyət nömrəsi ilə aktivləşdirin</string>
     <string name="input_next_letter_of_the_search">Axtarış xəttinin növbəti məktubu</string>
     <string name="cat_sort_mode">Sort kateqoriyalarına görə</string>
+    <string name="only_works_if_suppored_by_provider">Yalnız provayder tərəfindən dəstəklənirsə işləyir</string>
+    <string name="show_preview_on_seek">Geri və ya irəli irəliləyərkən görüntü görüntüsünü göstərin</string>
+    <string name="auto_select_vtrack_by_resolution">Qətnaməyə əsasən avtomatik video track seçimi</string>
+    <string name="blacklist_afr_modes">Bu ekran rejimlərini avtomatik açardan istisna edin</string>
+    <string name="err_timeout">Provayder mənbəyi cavab vermir</string>
+    <string name="device_type">Cihaz növü</string>
+    <string name="select_tags">Etiketləri seçin</string>
+    <string name="watch_trailer">Trailerə baxın</string>
     </resources>

@@ -307,7 +307,6 @@
     <string name="provider_field_pass">كلمه السر</string>
     <string name="provider_field_token">رمز وصول</string>
     <string name="provider_field_server">الخادم</string>
-    <string name="provider_field_active">نشيط</string>
     <string name="cfg_prov_categories_merge">فئات من مختلف مقدمي الخدمات</string>
     <string name="cfg_prov_categories_merge_prepend">Prepend الفئة مع اسم مزود</string>
     <string name="cfg_prov_categories_merge_mix">دمج الفئات إذا تطابق الاسم</string>
@@ -757,4 +756,12 @@
     <string name="activate_by_id_number">ﺔﻳﻮﻬﻟﺍ ﻢﻗﺭ ﻂﻴﺸﻨﺗ</string>
     <string name="input_next_letter_of_the_search">ﺚﺤﺒﻟﺍ ﻂﺧ ﻦﻣ ﻲﻟﺎﺘﻟﺍ ﻑﺮﺤﻟﺍ ﻝﺎﺧﺩﺇ</string>
     <string name="cat_sort_mode">ﺔﻄﺳﺍﻮﺑ ﺕﺎﺌﻔﻟﺍ ﺯﺮﻓ</string>
+    <string name="only_works_if_suppored_by_provider">ﺩﻭﺰﻤﻟﺍ ﻞﺒﻗ ﻦﻣ ﺎﻣًﻮﻋﺪﻣ ﻥﺎﻛ ﺍﺫﺇ ﻂﻘﻓ ﻞﻤﻌﻳ</string>
+    <string name="show_preview_on_seek">ﻡﺎﻣﻷ﻿ﺍ ﻰﻟﺇ ﺔﻋﺮﺴﺑ ﻭﺃ ﻊﻴﺟﺮﺘﻟﺍ ءﺎﻨﺛﺃ ﺓﺭﻮﺼﻟﺍ ﺔﻨﻳﺎﻌﻣ ﺭﺎﻬﻇﺇ</string>
+    <string name="auto_select_vtrack_by_resolution">ﺭﺍﺮﻘﻟﺍ ﻲﻓ ﻲﺋﺎﻘﻠﺘﻟﺍ ﻮﻳﺪﻴﻔﻟﺍ ﺭﺎﺴﻣ ﺭﺎﻴﺘﺧﺍ</string>
+    <string name="blacklist_afr_modes">ﻲﺋﺎﻘﻠﺘﻟﺍ ﻞﻳﺪﺒﺘﻟﺍ ﻦﻣ ﻩﺬﻫ ﺔﺷﺎﺸﻟﺍ ﻉﺎﺿﻭﺃ ﺩﺎﻌﺒﺘﺳﺍ</string>
+    <string name="err_timeout">ﺐﻴﺠﺘﺴﻳ ﻻ﻿ ﺩﻭﺰﻤﻟﺍ ﺭﺪﺼﻣ</string>
+    <string name="device_type">ﺯﺎﻬﺠﻟﺍ ﻉﻮﻧ</string>
+    <string name="select_tags">ﺕﺎﻣﻼ﻿ﻌﻟﺍ ﺩﺪﺣ</string>
+    <string name="watch_trailer">ﺓﺭﻮﻄﻘﻤﻟﺍ ﺓﺪﻫﺎﺸﻣ</string>
     </resources>

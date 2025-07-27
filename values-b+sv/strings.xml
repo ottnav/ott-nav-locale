@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Lösenord</string>
     <string name="provider_field_token">Åtkomsttoken</string>
     <string name="provider_field_server">Server</string>
-    <string name="provider_field_active">Aktiv</string>
     <string name="cfg_prov_categories_merge">Kategorier från olika leverantörer</string>
     <string name="cfg_prov_categories_merge_prepend">Förbered kategori med leverantörens namn</string>
     <string name="cfg_prov_categories_merge_mix">Slå samman kategorier om namnet matchar</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Aktivera med ID-nummer</string>
     <string name="input_next_letter_of_the_search">Ange nästa bokstav i söklinjen</string>
     <string name="cat_sort_mode">Sortera kategorier av</string>
+    <string name="only_works_if_suppored_by_provider">Fungerar bara om det stöds av leverantören</string>
+    <string name="show_preview_on_seek">Visa förhandsvisning av bilden när du gör spolning eller snabb framåt</string>
+    <string name="auto_select_vtrack_by_resolution">Automatisk videospårval baseras i upplösning</string>
+    <string name="blacklist_afr_modes">Utesluta dessa skärmlägen från auto-switch</string>
+    <string name="err_timeout">Leverantörskällan svarar inte</string>
+    <string name="device_type">Enhetstyp</string>
+    <string name="select_tags">Välj taggar</string>
+    <string name="watch_trailer">Titta på trailern</string>
     </resources>

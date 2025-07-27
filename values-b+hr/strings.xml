@@ -264,7 +264,6 @@
     <string name="provider_field_pass">Zaporka</string>
     <string name="provider_field_token">Pristupni žeton</string>
     <string name="provider_field_server">server</string>
-    <string name="provider_field_active">Aktivan</string>
     <string name="cfg_prov_categories_merge">Kategorije od različitih pružatelja usluga</string>
     <string name="cfg_prov_categories_merge_prepend">Dodajte kategoriju s imenom pružatelja usluga</string>
     <string name="cfg_prov_categories_merge_mix">Spajanje kategorija ako se ime podudara</string>
@@ -710,4 +709,12 @@
     <string name="activate_by_id_number">Aktivirajte se ID brojem</string>
     <string name="input_next_letter_of_the_search">Unesite sljedeće slovo retka za pretraživanje</string>
     <string name="cat_sort_mode">Sortirati kategorije prema</string>
+    <string name="only_works_if_suppored_by_provider">Radi samo ako ga podržava davatelj</string>
+    <string name="show_preview_on_seek">Prikaži pregled slike dok radite premotavanje ili brzo naprijed</string>
+    <string name="auto_select_vtrack_by_resolution">Automatski odabir video zapisa koji se temelji na rezoluciji</string>
+    <string name="blacklist_afr_modes">Isključite ove načine zaslona iz automatskog prebacivanja</string>
+    <string name="err_timeout">Izvor pružatelja usluga ne reagira</string>
+    <string name="device_type">Vrsta uređaja</string>
+    <string name="select_tags">Odaberite oznake</string>
+    <string name="watch_trailer">Prikolica za gledanje</string>
     </resources>

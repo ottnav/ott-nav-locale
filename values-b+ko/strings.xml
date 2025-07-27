@@ -308,7 +308,6 @@
     <string name="provider_field_pass">암호</string>
     <string name="provider_field_token">액세스 토큰</string>
     <string name="provider_field_server">섬기는 사람</string>
-    <string name="provider_field_active">유효한</string>
     <string name="cfg_prov_categories_merge">다른 공급자의 카테고리</string>
     <string name="cfg_prov_categories_merge_prepend">공급자 이름을 카테고리 앞에 추가하십시오.</string>
     <string name="cfg_prov_categories_merge_mix">이름이 일치하면 카테고리 병합</string>
@@ -759,4 +758,12 @@
     <string name="activate_by_id_number">ID 번호로 활성화하십시오</string>
     <string name="input_next_letter_of_the_search">입력 검색 라인의 다음 문자</string>
     <string name="cat_sort_mode">카테고리를 정렬하십시오</string>
+    <string name="only_works_if_suppored_by_provider">제공자가 지원하는 경우에만 작동합니다</string>
+    <string name="show_preview_on_seek">되감기 또는 빨리 전달하는 동안 이미지 미리보기를 표시하십시오</string>
+    <string name="auto_select_vtrack_by_resolution">해상도를 기반으로 자동 비디오 트랙 선택</string>
+    <string name="blacklist_afr_modes">이 화면 모드를 자동 스위치에서 제외하십시오</string>
+    <string name="err_timeout">제공자 소스는 응답하지 않습니다</string>
+    <string name="device_type">장치 유형</string>
+    <string name="select_tags">태그를 선택하십시오</string>
+    <string name="watch_trailer">트레일러보기</string>
     </resources>

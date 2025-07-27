@@ -306,7 +306,6 @@
     <string name="provider_field_pass">Mot de passe</string>
     <string name="provider_field_token">Jeton d\'accès</string>
     <string name="provider_field_server">Serveur</string>
-    <string name="provider_field_active">Actif</string>
     <string name="cfg_prov_categories_merge">Catégories de différents fournisseurs</string>
     <string name="cfg_prov_categories_merge_prepend">Ajouter la catégorie avec le nom du fournisseur</string>
     <string name="cfg_prov_categories_merge_mix">Fusionner les catégories si le nom correspond</string>
@@ -756,4 +755,12 @@
     <string name="activate_by_id_number">Activer par numéro d\'identification</string>
     <string name="input_next_letter_of_the_search">Entrez la lettre suivante de la ligne de recherche</string>
     <string name="cat_sort_mode">Trier les catégories par</string>
+    <string name="only_works_if_suppored_by_provider">Ne fonctionne que si cela est soutenu par le fournisseur</string>
+    <string name="show_preview_on_seek">Afficher l\'aperçu de l\'image tout en faisant du rembobinage ou en avant rapidement</string>
+    <string name="auto_select_vtrack_by_resolution">Sélection automatique de la piste vidéo basant sur la résolution</string>
+    <string name="blacklist_afr_modes">Exclure ces modes d\'écran à partir de commutation automatique</string>
+    <string name="err_timeout">La source du fournisseur ne répond pas</string>
+    <string name="device_type">Type d\'appareil</string>
+    <string name="select_tags">Sélectionner les balises</string>
+    <string name="watch_trailer">Remorque</string>
     </resources>

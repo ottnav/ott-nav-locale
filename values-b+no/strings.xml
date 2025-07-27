@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Passord</string>
     <string name="provider_field_token">Tilgangstoken</string>
     <string name="provider_field_server">Server</string>
-    <string name="provider_field_active">Aktiv</string>
     <string name="cfg_prov_categories_merge">Kategorier fra ulike leverandører</string>
     <string name="cfg_prov_categories_merge_prepend">Legg til kategori med leverandørnavn</string>
     <string name="cfg_prov_categories_merge_mix">Slå sammen kategorier hvis navnet samsvarer</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Aktiver etter ID-nummer</string>
     <string name="input_next_letter_of_the_search">Skriv inn neste bokstav i søkelinjen</string>
     <string name="cat_sort_mode">Sorter kategorier av</string>
+    <string name="only_works_if_suppored_by_provider">Fungerer bare hvis det støttes av leverandøren</string>
+    <string name="show_preview_on_seek">Vis forhåndsvisning av bildet mens du spoler tilbake eller spol fremover</string>
+    <string name="auto_select_vtrack_by_resolution">Automatisk videosporvalg som baserer seg på oppløsning</string>
+    <string name="blacklist_afr_modes">Ekskludere disse skjermmodusene fra automatisk bytte</string>
+    <string name="err_timeout">Leverandørkilde svarer ikke</string>
+    <string name="device_type">Enhetstype</string>
+    <string name="select_tags">Velg tagger</string>
+    <string name="watch_trailer">Se trailer</string>
     </resources>

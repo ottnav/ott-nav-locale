@@ -306,7 +306,6 @@
     <string name="provider_field_pass">סיסמה</string>
     <string name="provider_field_token">אסימון גישה</string>
     <string name="provider_field_server">שרת</string>
-    <string name="provider_field_active">פעיל</string>
     <string name="cfg_prov_categories_merge">קטגוריות של ספקים שונים</string>
     <string name="cfg_prov_categories_merge_prepend">הוסף קטגוריה עם שם ספק</string>
     <string name="cfg_prov_categories_merge_mix">מזג את הקטגוריות אם השם תואם</string>
@@ -756,4 +755,12 @@
     <string name="activate_by_id_number">ההזמ רפסמ יפל לעפה</string>
     <string name="input_next_letter_of_the_search">שופיחה וק לש האבה תואה תא ןזה</string>
     <string name="cat_sort_mode">יפל תוירוגטק ןיימ</string>
+    <string name="only_works_if_suppored_by_provider">קפס ידי לע ךמתנ םא קר דבוע</string>
+    <string name="show_preview_on_seek">המידק ריהמ וא שדחמ דעצ ידכ ךות הנומת לש המידקמ הגוצת גצה</string>
+    <string name="auto_select_vtrack_by_resolution">היצולוזר לע תססבמ תיטמוטוא ואדיו תועוצר תריחב</string>
+    <string name="blacklist_afr_modes">יטמוטוא גתממ הלא ךסמ יבצמ לולכת</string>
+    <string name="err_timeout">ביגמ וניא קפסה רוקמ</string>
+    <string name="device_type">רישכמ גוס</string>
+    <string name="select_tags">תויגת רחב</string>
+    <string name="watch_trailer">רליירטב הפצ</string>
     </resources>

@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Hasło</string>
     <string name="provider_field_token">Klucz dostępu</string>
     <string name="provider_field_server">Serwer</string>
-    <string name="provider_field_active">Aktywny</string>
     <string name="cfg_prov_categories_merge">Kategorie od różnych dostawców</string>
     <string name="cfg_prov_categories_merge_prepend">Dodaj Nazwę Dostawcy przed Nazwą Kategorii</string>
     <string name="cfg_prov_categories_merge_mix">Scal kategorie, jeśli nazwa pasuje</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Aktywuj według numeru identyfikacyjnego</string>
     <string name="input_next_letter_of_the_search">Wejście następna litera wiersza wyszukiwania</string>
     <string name="cat_sort_mode">Sortować kategorie według</string>
+    <string name="only_works_if_suppored_by_provider">Działa tylko wtedy, gdy jest obsługiwany przez dostawcę</string>
+    <string name="show_preview_on_seek">Pokaż podgląd obrazu, wykonując przewijanie lub szybkie przekazanie</string>
+    <string name="auto_select_vtrack_by_resolution">Automatyczne wybór ścieżek wideo opiera się na rozdzielczości</string>
+    <string name="blacklist_afr_modes">Wyklucz te tryby ekranu z automatycznego przełącznika</string>
+    <string name="err_timeout">Źródło dostawcy nie odpowiada</string>
+    <string name="device_type">Typ urządzenia</string>
+    <string name="select_tags">Wybierz tagi</string>
+    <string name="watch_trailer">Watch Trailer</string>
     </resources>

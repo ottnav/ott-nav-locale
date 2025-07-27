@@ -299,7 +299,6 @@
     <string name="provider_field_pass">Mật khẩu</string>
     <string name="provider_field_token">Access token</string>
     <string name="provider_field_server">Máy chủ</string>
-    <string name="provider_field_active">Kích hoạt</string>
     <string name="cfg_prov_categories_merge">Danh mục từ các nhà cung cấp khác nhau</string>
     <string name="cfg_prov_categories_merge_prepend">Chuẩn bị danh mục với tên nhà cung cấp</string>
     <string name="cfg_prov_categories_merge_mix">Hợp nhất danh mục nếu trùng tên</string>
@@ -749,4 +748,12 @@
     <string name="activate_by_id_number">Kích hoạt theo số ID</string>
     <string name="input_next_letter_of_the_search">Nhập chữ cái tiếp theo của dòng tìm kiếm</string>
     <string name="cat_sort_mode">Sắp xếp danh mục theo</string>
+    <string name="only_works_if_suppored_by_provider">Chỉ hoạt động nếu được nhà cung cấp hỗ trợ</string>
+    <string name="show_preview_on_seek">Hiển thị xem trước hình ảnh trong khi thực hiện tua lại hoặc chuyển tiếp nhanh</string>
+    <string name="auto_select_vtrack_by_resolution">Lựa chọn theo dõi video tự động dựa trên độ phân giải</string>
+    <string name="blacklist_afr_modes">Loại trừ các chế độ màn hình này khỏi chuyển đổi tự động</string>
+    <string name="err_timeout">Nguồn nhà cung cấp không phản hồi</string>
+    <string name="device_type">Loại thiết bị</string>
+    <string name="select_tags">Chọn thẻ</string>
+    <string name="watch_trailer">Xem trailer</string>
     </resources>

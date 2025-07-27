@@ -265,7 +265,6 @@
     <string name="provider_field_pass">парола</string>
     <string name="provider_field_token">Жетон за достъп</string>
     <string name="provider_field_server">Сървър</string>
-    <string name="provider_field_active">Активен</string>
     <string name="cfg_prov_categories_merge">Категории от различни доставчици</string>
     <string name="cfg_prov_categories_merge_prepend">Предварителна категория с име на доставчика</string>
     <string name="cfg_prov_categories_merge_mix">Обединяване на категории, ако името съвпада</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Активирайте се с идентификационен номер</string>
     <string name="input_next_letter_of_the_search">Въвеждане на следващата буква от линията за търсене</string>
     <string name="cat_sort_mode">Сортирайте категории от</string>
+    <string name="only_works_if_suppored_by_provider">Работи само ако се поддържа от доставчика</string>
+    <string name="show_preview_on_seek">Показване на визуализация на изображението, докато правите пренавиване или бързо напред</string>
+    <string name="auto_select_vtrack_by_resolution">Автоматичен избор на видео песен, основаващ се на резолюция</string>
+    <string name="blacklist_afr_modes">Изключете тези режими на екрана от автоматично превключване</string>
+    <string name="err_timeout">Източникът на доставчика не отговаря</string>
+    <string name="device_type">Тип на устройството</string>
+    <string name="select_tags">Изберете маркери</string>
+    <string name="watch_trailer">Гледайте трейлър</string>
     </resources>

@@ -298,7 +298,6 @@
     <string name="provider_field_pass">Пароль</string>
     <string name="provider_field_token">Ключ доступу</string>
     <string name="provider_field_server">Сервер</string>
-    <string name="provider_field_active">Активний</string>
     <string name="cfg_prov_categories_merge">Категорії від різних провайдерів</string>
     <string name="cfg_prov_categories_merge_prepend">Писати назву провайдера перед назвою категорії</string>
     <string name="cfg_prov_categories_merge_mix">Об\'єднувати категорії, якщо назви співпадають</string>
@@ -749,4 +748,12 @@
     <string name="activate_by_id_number">Активуйте за ідентифікаційним номером</string>
     <string name="input_next_letter_of_the_search">Введіть Наступний лист пошукового рядка</string>
     <string name="cat_sort_mode">Сортувати категорії за</string>
+    <string name="only_works_if_suppored_by_provider">Працює лише за підтримки постачальника</string>
+    <string name="show_preview_on_seek">Показати попередній перегляд зображень, роблячи перемотування або швидке вперед</string>
+    <string name="auto_select_vtrack_by_resolution">Автоматичний вибір віде -треку, що базується на роздільній здатності</string>
+    <string name="blacklist_afr_modes">Виключіть ці режими екрана з автоматичного перемикання</string>
+    <string name="err_timeout">Джерело постачальника не відповідає</string>
+    <string name="device_type">Тип пристрою</string>
+    <string name="select_tags">Виберіть теги</string>
+    <string name="watch_trailer">Дивіться трейлер</string>
     </resources>

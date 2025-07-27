@@ -265,7 +265,6 @@
     <string name="provider_field_pass">Salasana</string>
     <string name="provider_field_token">Käyttöoikeustunnus</string>
     <string name="provider_field_server">Palvelin</string>
-    <string name="provider_field_active">Aktiivinen</string>
     <string name="cfg_prov_categories_merge">Kategoriat eri soittolistoilta</string>
     <string name="cfg_prov_categories_merge_prepend">Liitä kategorian eteen soittolistan nimi</string>
     <string name="cfg_prov_categories_merge_mix">Yhdistä samalla nimellä olevat kategoriat</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">Aktivoi ID-numeron mukaan</string>
     <string name="input_next_letter_of_the_search">Syötä hakulinjan seuraava kirjain</string>
     <string name="cat_sort_mode">Lajitella luokat</string>
+    <string name="only_works_if_suppored_by_provider">Toimii vain, jos palveluntarjoaja tukee sitä</string>
+    <string name="show_preview_on_seek">Näytä kuvan esikatselu, kun teet taaksepäin tai nopeasti eteenpäin</string>
+    <string name="auto_select_vtrack_by_resolution">Automaattinen videon kappaleen valinta perustaa resoluutiossa</string>
+    <string name="blacklist_afr_modes">Sulje nämä näyttötilat pois automaattisesta kytkimestä</string>
+    <string name="err_timeout">Palveluntarjoajan lähde ei vastaa</string>
+    <string name="device_type">Laitetyyppi</string>
+    <string name="select_tags">Valitse tunnisteet</string>
+    <string name="watch_trailer">Katso perävaunu</string>
     </resources>

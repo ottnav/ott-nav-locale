@@ -304,7 +304,6 @@
     <string name="provider_field_pass">Parool</string>
     <string name="provider_field_token">Juurdepääsumärk</string>
     <string name="provider_field_server">Server</string>
-    <string name="provider_field_active">Aktiivne</string>
     <string name="cfg_prov_categories_merge">Erinevate pakkujate kategooriad</string>
     <string name="cfg_prov_categories_merge_prepend">Kategooria sõltub teenusepakkuja nimest</string>
     <string name="cfg_prov_categories_merge_mix">Kategooriate ühendamine, kui nimi vastab</string>
@@ -755,4 +754,12 @@
     <string name="activate_by_id_number">Aktiveerige ID numbri järgi</string>
     <string name="input_next_letter_of_the_search">Sisestage järgmine otsingurida</string>
     <string name="cat_sort_mode">Sorteerige kategooriaid</string>
+    <string name="only_works_if_suppored_by_provider">Töötab ainult siis, kui toetab pakkuja</string>
+    <string name="show_preview_on_seek">Näidake pildi eelvaadet, tehes taastumist või kiiresti edasi</string>
+    <string name="auto_select_vtrack_by_resolution">Automaatne videoradade valik, mis põhineb eraldusvõimel</string>
+    <string name="blacklist_afr_modes">Välistage need ekraanirežiimid automaatsest lülitamisest</string>
+    <string name="err_timeout">Pakkuja allikas ei reageeri</string>
+    <string name="device_type">Seadme tüüp</string>
+    <string name="select_tags">Valige sildid</string>
+    <string name="watch_trailer">Vaata treiler</string>
     </resources>

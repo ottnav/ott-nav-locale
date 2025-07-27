@@ -299,7 +299,6 @@
     <string name="provider_field_pass">Лозинка</string>
     <string name="provider_field_token">Приступни токен</string>
     <string name="provider_field_server">Сервер</string>
-    <string name="provider_field_active">Активан</string>
     <string name="cfg_prov_categories_merge">Категорије од других провајдера</string>
     <string name="cfg_prov_categories_merge_prepend">Додајте категорију са именом провајдера</string>
     <string name="cfg_prov_categories_merge_mix">Споји категорије ако се име подудара</string>
@@ -750,4 +749,12 @@
     <string name="activate_by_id_number">Активирајте ИД-ом ИД-а</string>
     <string name="input_next_letter_of_the_search">Унесите следеће слово линије за претрагу</string>
     <string name="cat_sort_mode">Сортирај категорије</string>
+    <string name="only_works_if_suppored_by_provider">Дјелује само ако га подржава провајдер</string>
+    <string name="show_preview_on_seek">Прикажи преглед слика док радите премотавање уназад или брзо напред</string>
+    <string name="auto_select_vtrack_by_resolution">Аутоматска одабира видео записа Басинг на резолуцији</string>
+    <string name="blacklist_afr_modes">Искључите ове начине екрана из аутоматског прекидача</string>
+    <string name="err_timeout">Извор провајдера не реагује</string>
+    <string name="device_type">Тип уређаја</string>
+    <string name="select_tags">Изаберите ознаке</string>
+    <string name="watch_trailer">Приколица за гледање</string>
     </resources>

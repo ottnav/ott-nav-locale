@@ -306,7 +306,6 @@
     <string name="provider_field_pass">Kata laluan</string>
     <string name="provider_field_token">Token akses</string>
     <string name="provider_field_server">Pelayan</string>
-    <string name="provider_field_active">Aktif</string>
     <string name="cfg_prov_categories_merge">Kategori dari pembekal yang berbeza</string>
     <string name="cfg_prov_categories_merge_prepend">Sediakan kategori dengan nama penyedia</string>
     <string name="cfg_prov_categories_merge_mix">Gabungkan kategori jika nama cocok</string>
@@ -756,4 +755,12 @@
     <string name="activate_by_id_number">Aktifkan mengikut nombor ID</string>
     <string name="input_next_letter_of_the_search">Masukkan huruf seterusnya garis carian</string>
     <string name="cat_sort_mode">Susun kategori oleh</string>
+    <string name="only_works_if_suppored_by_provider">Hanya berfungsi jika disokong oleh penyedia</string>
+    <string name="show_preview_on_seek">Tunjukkan Pratonton Imej semasa melakukan Rewind atau Fast Forward</string>
+    <string name="auto_select_vtrack_by_resolution">Pemilihan Trek Video Automatik Berdasarkan Resolusi</string>
+    <string name="blacklist_afr_modes">Tidak termasuk mod skrin ini dari auto-switch</string>
+    <string name="err_timeout">Sumber penyedia tidak bertindak balas</string>
+    <string name="device_type">Jenis peranti</string>
+    <string name="select_tags">Pilih tag</string>
+    <string name="watch_trailer">Tonton treler</string>
     </resources>

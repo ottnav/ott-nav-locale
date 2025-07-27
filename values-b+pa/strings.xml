@@ -305,7 +305,6 @@
     <string name="provider_field_pass">ਪਾਸਵਰਡ</string>
     <string name="provider_field_token">ਪਹੁੰਚ ਟੋਕਨ</string>
     <string name="provider_field_server">ਸਰਵਰ</string>
-    <string name="provider_field_active">ਕਿਰਿਆਸ਼ੀਲ</string>
     <string name="cfg_prov_categories_merge">ਵੱਖਰੇ ਪ੍ਰਦਾਤਾਵਾਂ ਤੋਂ ਵਰਗ</string>
     <string name="cfg_prov_categories_merge_prepend">ਪ੍ਰਦਾਤਾ ਨਾਮ ਨਾਲ ਸ਼੍ਰੇਣੀ ਪ੍ਰੀਡ ਕਰੋ</string>
     <string name="cfg_prov_categories_merge_mix">ਜੇ ਨਾਮ ਮੇਲ ਖਾਂਦੇ ਹੋਣ ਤਾਂ ਸ਼੍ਰੇਣੀਆਂ ਨੂੰ ਮਿਲਾਓ</string>
@@ -755,4 +754,12 @@
     <string name="activate_by_id_number">ID ਨੰਬਰ ਦੁਆਰਾ ਸਰਗਰਮ ਕਰੋ</string>
     <string name="input_next_letter_of_the_search">ਖੋਜ ਲਾਈਨ ਦਾ ਅਗਲਾ ਪੱਤਰ ਇੰਪੁੱਟ</string>
     <string name="cat_sort_mode">ਸ਼੍ਰੇਣੀਆਂ ਅਨੁਸਾਰ ਕ੍ਰਮਬੱਧ</string>
+    <string name="only_works_if_suppored_by_provider">ਕੇਵਲ ਤਾਂ ਹੀ ਕੰਮ ਕਰਦਾ ਹੈ ਜੇ ਪ੍ਰਦਾਤਾ ਦੁਆਰਾ ਸਹਿਯੋਗੀ ਹੈ</string>
+    <string name="show_preview_on_seek">ਰੀਵਾਈਜ਼ ਜਾਂ ਤੇਜ਼ ਅੱਗੇ ਕਰਨ ਵੇਲੇ ਚਿੱਤਰ ਝਲਕ ਦਿਖਾਓ</string>
+    <string name="auto_select_vtrack_by_resolution">ਰੈਜ਼ੋਲੂਸ਼ਨ \'ਤੇ ਆਟੋਮੈਟਿਕ ਵੀਡੀਓ ਟ੍ਰੈਕ ਚੋਣ</string>
+    <string name="blacklist_afr_modes">ਆਟੋ-ਸਵਿਚ ਤੋਂ ਇਨ੍ਹਾਂ ਸਕ੍ਰੀਨ ਦੇ s ੰਗਾਂ ਨੂੰ ਬਾਹਰ ਕੱ .ੋ</string>
+    <string name="err_timeout">ਪ੍ਰਦਾਤਾ ਸਰੋਤ ਜਵਾਬ ਨਹੀਂ ਦਿੰਦਾ</string>
+    <string name="device_type">ਜੰਤਰ ਕਿਸਮ</string>
+    <string name="select_tags">ਟੈਗਸ ਚੁਣੋ</string>
+    <string name="watch_trailer">ਟ੍ਰੇਲਰ ਵੇਖੋ</string>
     </resources>

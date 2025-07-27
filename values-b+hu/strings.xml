@@ -264,7 +264,6 @@
     <string name="provider_field_pass">Jelszó</string>
     <string name="provider_field_token">Hozzáférési token</string>
     <string name="provider_field_server">szerver</string>
-    <string name="provider_field_active">Aktív</string>
     <string name="cfg_prov_categories_merge">Kategóriák különböző szolgáltatóktól</string>
     <string name="cfg_prov_categories_merge_prepend">A kategória elé a szolgáltató nevét</string>
     <string name="cfg_prov_categories_merge_mix">Kategóriák egyesítése, ha a név egyezik</string>
@@ -710,4 +709,12 @@
     <string name="activate_by_id_number">Aktiválja az azonosító szám szerint</string>
     <string name="input_next_letter_of_the_search">Mutassa be a keresési sor következő betűjét</string>
     <string name="cat_sort_mode">Rendezze a kategóriákat</string>
+    <string name="only_works_if_suppored_by_provider">Csak akkor működik, ha a szolgáltató támogatja</string>
+    <string name="show_preview_on_seek">Mutassa meg a kép előnézetét, miközben visszatekerhet vagy gyors</string>
+    <string name="auto_select_vtrack_by_resolution">Automatikus video pálya kiválasztása a felbontáshoz</string>
+    <string name="blacklist_afr_modes">Kivéve ezeket a képernyő módokat az Auto-Switch-ből</string>
+    <string name="err_timeout">A szolgáltató forrás nem válaszol</string>
+    <string name="device_type">Eszköztípus</string>
+    <string name="select_tags">Válassza ki a címkéket</string>
+    <string name="watch_trailer">Órás pótkocsi</string>
     </resources>

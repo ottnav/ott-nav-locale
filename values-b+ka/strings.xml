@@ -265,7 +265,6 @@
     <string name="provider_field_pass">პაროლი</string>
     <string name="provider_field_token">წვდომის ჟეტონი</string>
     <string name="provider_field_server">სერვერი</string>
-    <string name="provider_field_active">აქტიური</string>
     <string name="cfg_prov_categories_merge">კატეგორიები სხვადასხვა პროვაიდერებისგან</string>
     <string name="cfg_prov_categories_merge_prepend">მოამზადეთ კატეგორია პროვაიდერის სახელით</string>
     <string name="cfg_prov_categories_merge_mix">შეაერთეთ კატეგორიები, თუ სახელი ემთხვევა</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">გააქტიურება პირადობის ნომრით</string>
     <string name="input_next_letter_of_the_search">შეიტანეთ საძიებო ხაზის შემდეგი ასო</string>
     <string name="cat_sort_mode">დაალაგეთ კატეგორიები</string>
+    <string name="only_works_if_suppored_by_provider">მუშაობს მხოლოდ იმ შემთხვევაში, თუ მხარს უჭერს პროვაიდერს</string>
+    <string name="show_preview_on_seek">აჩვენეთ სურათის გადახედვა გადახედვისას ან სწრაფი ნაბიჯით</string>
+    <string name="auto_select_vtrack_by_resolution">ავტომატური ვიდეო ტრეკების შერჩევის საფუძველზე რეზოლუცია</string>
+    <string name="blacklist_afr_modes">გამორიცხეთ ეს ეკრანის რეჟიმები ავტო-შეცვლისგან</string>
+    <string name="err_timeout">პროვაიდერის წყარო არ პასუხობს</string>
+    <string name="device_type">მოწყობილობის ტიპი</string>
+    <string name="select_tags">აირჩიეთ ტეგები</string>
+    <string name="watch_trailer">უყურეთ ტრეილერს</string>
     </resources>

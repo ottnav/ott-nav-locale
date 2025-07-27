@@ -299,7 +299,6 @@
     <string name="provider_field_pass">密码</string>
     <string name="provider_field_token">接入码</string>
     <string name="provider_field_server">服务器</string>
-    <string name="provider_field_active">启用</string>
     <string name="cfg_prov_categories_merge">来自不同供应商的分类</string>
     <string name="cfg_prov_categories_merge_prepend">类名-供应商名</string>
     <string name="cfg_prov_categories_merge_mix">同类合并</string>
@@ -749,4 +748,12 @@
     <string name="activate_by_id_number">通过ID数字激活</string>
     <string name="input_next_letter_of_the_search">输入搜索行的下一个字母</string>
     <string name="cat_sort_mode">排序类别</string>
+    <string name="only_works_if_suppored_by_provider">仅当提供者支持时才能起作用</string>
+    <string name="show_preview_on_seek">在进行倒带或快速前进时显示图像预览</string>
+    <string name="auto_select_vtrack_by_resolution">自动视频轨道选择基于分辨率</string>
+    <string name="blacklist_afr_modes">从自动开关中排除这些屏幕模式</string>
+    <string name="err_timeout">提供商来源不回应</string>
+    <string name="device_type">设备类型</string>
+    <string name="select_tags">选择标签</string>
+    <string name="watch_trailer">观看预告片</string>
     </resources>

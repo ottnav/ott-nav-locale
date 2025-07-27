@@ -265,7 +265,6 @@
     <string name="provider_field_pass">รหัสผ่าน</string>
     <string name="provider_field_token">โทเค็นการเข้าถึง</string>
     <string name="provider_field_server">เซิร์ฟเวอร์</string>
-    <string name="provider_field_active">คล่องแคล่ว</string>
     <string name="cfg_prov_categories_merge">หมวดหมู่จากผู้ให้บริการต่างๆ</string>
     <string name="cfg_prov_categories_merge_prepend">นำหน้าหมวดหมู่ด้วยชื่อผู้ให้บริการ</string>
     <string name="cfg_prov_categories_merge_mix">รวมหมวดหมู่หากชื่อตรงกัน</string>
@@ -711,4 +710,12 @@
     <string name="activate_by_id_number">เปิดใช้งานตามหมายเลขรหัส</string>
     <string name="input_next_letter_of_the_search">ป้อนตัวอักษรถัดไปของสายการค้นหา</string>
     <string name="cat_sort_mode">จัดเรียงหมวดหมู่โดย</string>
+    <string name="only_works_if_suppored_by_provider">ใช้งานได้เฉพาะในกรณีที่รองรับโดยผู้ให้บริการ</string>
+    <string name="show_preview_on_seek">แสดงตัวอย่างภาพขณะทำย้อนกลับหรือไปข้างหน้าอย่างรวดเร็ว</string>
+    <string name="auto_select_vtrack_by_resolution">การเลือกแทร็กวิดีโออัตโนมัติโดยใช้ความละเอียด</string>
+    <string name="blacklist_afr_modes">ไม่รวมโหมดหน้าจอเหล่านี้จากการสลับอัตโนมัติ</string>
+    <string name="err_timeout">แหล่งที่มาของผู้ให้บริการไม่ตอบสนอง</string>
+    <string name="device_type">ประเภทอุปกรณ์</string>
+    <string name="select_tags">เลือกแท็ก</string>
+    <string name="watch_trailer">ดูรถเทรลเลอร์</string>
     </resources>

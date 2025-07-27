@@ -254,7 +254,7 @@
     <string name="cfg_stream_q">Afișează calitatea fluxului</string>
     <string name="ext_player_copy_clipboard">Copiați linkul numai în clipboard</string>
     <string name="btn_add_provider">Adăugați furnizor</string>
-    <string name="btn_provider_edit">Editați | ×</string>
+    <string name="btn_provider_edit">Edita</string>
     <string name="btn_provider_delete">Șterge</string>
     <string name="provider_playlist">Listă de redare</string>
     <string name="provider_playlist_file">Playlist din fișier</string>
@@ -264,7 +264,6 @@
     <string name="provider_field_pass">Parola</string>
     <string name="provider_field_token">Jeton de acces</string>
     <string name="provider_field_server">Server</string>
-    <string name="provider_field_active">Activ</string>
     <string name="cfg_prov_categories_merge">Categorii de la diverși furnizori</string>
     <string name="cfg_prov_categories_merge_prepend">Pregătiți categoria cu numele furnizorului</string>
     <string name="cfg_prov_categories_merge_mix">Combinați categoriile dacă numele se potrivesc</string>
@@ -710,4 +709,12 @@
     <string name="activate_by_id_number">Activați după numărul de identificare</string>
     <string name="input_next_letter_of_the_search">Introduceți litera următoare a liniei de căutare</string>
     <string name="cat_sort_mode">Sortează categorii după</string>
+    <string name="only_works_if_suppored_by_provider">Funcționează numai dacă este susținut de furnizor</string>
+    <string name="show_preview_on_seek">Afișați previzualizarea imaginii în timp ce faceți derulare sau înainte rapid</string>
+    <string name="auto_select_vtrack_by_resolution">Selecție automată a pieselor video bazându -se pe rezoluție</string>
+    <string name="blacklist_afr_modes">Excludeți aceste moduri de ecran din comutatorul automat</string>
+    <string name="err_timeout">Sursa furnizorului nu răspunde</string>
+    <string name="device_type">Tip de dispozitiv</string>
+    <string name="select_tags">Selectați etichete</string>
+    <string name="watch_trailer">Urmăriți remorca</string>
     </resources>

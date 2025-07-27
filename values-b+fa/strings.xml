@@ -307,7 +307,6 @@
     <string name="provider_field_pass">کلمه عبور</string>
     <string name="provider_field_token">نشانه دسترسی</string>
     <string name="provider_field_server">سرور</string>
-    <string name="provider_field_active">فعال</string>
     <string name="cfg_prov_categories_merge">دسته بندی ها از ارائه دهندگان مختلف</string>
     <string name="cfg_prov_categories_merge_prepend">لیست را با نام ارائه دهنده اضافه کنید</string>
     <string name="cfg_prov_categories_merge_mix">دسته بندی را با هم ترکیب کنید</string>
@@ -757,4 +756,12 @@
     <string name="activate_by_id_number">ﺪﯾﻮﺷ ﻝﺎﻌﻓ ﻪﺳﺎﻨﺷ ﻩﺭﺎﻤﺷ ﺎﺑ</string>
     <string name="input_next_letter_of_the_search">ﻮﺠﺘﺴﺟ ﻂﺧ ﯼﺪﻌﺑ ﻑﺮﺣ ﻥﺩﺮﮐ ﺩﺭﺍﻭ</string>
     <string name="cat_sort_mode">ﻂﺳﻮﺗ ﯼﺪﻨﺑ ﻪﺘﺳﺩ ﯼﺪﻨﺑ ﻪﻘﺒﻃ</string>
+    <string name="only_works_if_suppored_by_provider">ﺪﻨﮐ ﯽﻣ ﺭﺎﮐ ﻩﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ ﻂﺳﻮﺗ ﯽﻧﺎﺒﯿﺘﺸﭘ ﺕﺭﻮﺻ ﺭﺩ ﻂﻘﻓ</string>
+    <string name="show_preview_on_seek">ﺪﯿﻫﺩ ﻥﺎﺸﻧ ﻮﻠﺟ ﻪﺑ ﻊﯾﺮﺳ ﺎﯾ ﺐﻘﻋ ﻡﺎﺠﻧﺍ ﻡﺎﮕﻨﻫ ﺍﺭ ﺮﯾﻮﺼﺗ ﺶﯾﺎﻤﻧ ﺶﯿﭘ</string>
+    <string name="auto_select_vtrack_by_resolution">ﺡﻮﺿﻭ ﺱﺎﺳﺍ ﺮﺑ ﺭﺎﮐﺩﻮﺧ ﯽﯾﻮﯾﺪﯾﻭ ﮓﻨﻫﺁ ﺏﺎﺨﺘﻧﺍ</string>
+    <string name="blacklist_afr_modes">ﺪﯿﻨﮐ ﻑﺬﺣ ﺭﺎﮐﺩﻮﺧ ﭻﯿﺋﻮﺳ ﺯﺍ ﺍﺭ ﻪﺤﻔﺻ ﯼﺎﻫ ﺖﻟﺎﺣ ﻦﯾﺍ</string>
+    <string name="err_timeout">ﺪﻫﺩ ﯽﻤﻧ ﺦﺳﺎﭘ ﻩﺪﻨﻫﺩ ﻪﺋﺍﺭﺍ ﻊﺒﻨﻣ</string>
+    <string name="device_type">ﻩﺎﮕﺘﺳﺩ ﻉﻮﻧ</string>
+    <string name="select_tags">ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺍﺭ ﺎﻫ ﺐﺴﭼﺮﺑ</string>
+    <string name="watch_trailer">ﺪﯿﻨﮐ ﺎﺷﺎﻤﺗ ﺍﺭ ﺮﻠﯾﺮﺗ</string>
     </resources>

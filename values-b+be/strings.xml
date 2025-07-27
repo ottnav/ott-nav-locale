@@ -299,7 +299,6 @@
     <string name="provider_field_pass">Пароль</string>
     <string name="provider_field_token">Ключ доступу</string>
     <string name="provider_field_server">Сервер</string>
-    <string name="provider_field_active">Актыўны</string>
     <string name="cfg_prov_categories_merge">Катэгорыі ад розных правайдараў</string>
     <string name="cfg_prov_categories_merge_prepend">Пісаць назву правайдара да назвы катэгорыі</string>
     <string name="cfg_prov_categories_merge_mix">Склейваць катэгорыі пры супадзенні назваў</string>
@@ -750,4 +749,12 @@
     <string name="activate_by_id_number">Актывуйце ідэнтыфікацыйны нумар</string>
     <string name="input_next_letter_of_the_search">Увядзіце наступную літару лініі пошуку</string>
     <string name="cat_sort_mode">Сартаваць катэгорыі па</string>
+    <string name="only_works_if_suppored_by_provider">Працуе толькі ў тым выпадку, калі падтрымліваецца пастаўшчык</string>
+    <string name="show_preview_on_seek">Паказаць папярэдні прагляд малюнкаў, робячы перамогу альбо хутка наперад</string>
+    <string name="auto_select_vtrack_by_resolution">Аўтаматычны выбар відэа -трэка абапіраецца на дазвол</string>
+    <string name="blacklist_afr_modes">Выключыць гэтыя рэжымы экрана з аўтаматычнага пераключэння</string>
+    <string name="err_timeout">Крыніца правайдэра не адказвае</string>
+    <string name="device_type">Тып прылады</string>
+    <string name="select_tags">Выберыце тэгі</string>
+    <string name="watch_trailer">Глядзіце трэйлер</string>
     </resources>
