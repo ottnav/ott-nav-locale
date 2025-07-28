@@ -52,6 +52,7 @@ If you wish to improve translation or add a new one - create a pull request
 + values-b+th: ไทย
 + values-b+tr: Türk
 + values-b+uk: Українська
++ values-b+ur: اُردُو
 + values-b+uz: Oʻzbek tili
 + values-b+zh: 中国
 + values-b+vi: Tiếng Việt
