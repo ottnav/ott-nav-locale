@@ -1,9 +1,6 @@
 <resources>
     <string name="press_back_once_more_to_exit">לחץ פעם נוספת כדי לצאת</string>
-
     <string name="search_bar">חפש לפי ערוצים או תוכניות</string>
-
-
     <string name="menu_search">חיפוש וידאו</string>
     <string name="menu_live">שידור חי</string>
     <string name="menu_archive">מציג ארכיון</string>
@@ -11,12 +8,8 @@
     <string name="menu_error_require_provider_button">הגדר ספק</string>
     <string name="menu_error_require_live_but_no_playlist_title">רשימת השמעה עם ערוצים נכשלה</string>
     <string name="menu_error_require_live_but_no_playlist_text">לא ניתן להגיע לספק או לפלייליסט שהוגדרו. אנא בדוק שוב את הגדרות ספק אם הם נראים בסדר, פנה לספק ה- IPTV שלך.</string>
-
-
     <string name="browse_description_series_number">פרק</string>
     <string name="browse_description_header_live">ערוצים חיים</string>
-
-
     <string name="category_movies">כל הסרטים</string>
     <string name="category_tv_series">כל סדרות הטלוויזיה</string>
     <string name="category_tv_shows">כל תוכניות טלוויזיה</string>
@@ -33,8 +26,6 @@
     <string name="category_desc_exact_tv_shows">תוכנית טלוויזיה</string>
     <string name="category_desc_tv_channel">ערוץ טלוויזיה</string>
     <string name="category_desc_from_fav">רק תוכן מערוצים מועדפים</string>
-
-
     <string name="in_1_minute">ב 1 דקה</string>
     <string name="in_n_minutes">בתוך 10 דקות</string>
     <string name="player_episode_details_season">עונה</string>
@@ -44,8 +35,6 @@
     <string name="player_touch_to_cancel">גע במסך כדי לבטל</string>
     <string name="player_state_no_media_ended">הזרם לא נבחר (הסתיים)</string>
     <string name="player_state_buffering">אגירה</string>
-
-
     <string name="error_this_video_requires_external_player">סרטון זה דורש נגן חיצוני לחוויה הטובה ביותר</string>
     <string name="error_stream_not_reachable_no_connect">הזרם אינו נגיש (לא ניתן להתחבר). פנה לספק שלך</string>
     <string name="error_stream_not_reachable_no_resource">הזרם אינו נגיש. פנה לספק שלך</string>
@@ -53,9 +42,7 @@
     <string name="error_archive_not_supported_this_channel">הספק שלך אינו מספק ארכיונים לערוץ זה</string>
     <string name="error_search_nothing_found">שום דבר לא התאים לשאילתת החיפוש שלך</string>
     <string name="error_require_file_permission_grant_and_try_again">נדרשת גישת אחסון. ספק גישה ונסה שנית את הפעולה</string>
-
     <string name="info_teleguide_loaded">Teleguide (EPG) טעון: רשומות</string>
-
     <string name="player_menu_select_channel_title">ערוץ נוסף</string>
     <string name="player_menu_set_pause_on_title">השהה את ההשמעה</string>
     <string name="player_menu_set_pause_off_title">לחדש את ההשמעה</string>
@@ -89,22 +76,17 @@
     <string name="settings_channel_sort_mode_prov">סדר מפלייליסט ספק</string>
     <string name="settings_channel_sort_mode_name">שם (מועדפים תחילה, ולאחר מכן בסדר אלפביתי)</string>
     <string name="settings_run_at_boot">הפעל את היישום על אתחול המכשיר</string>
-
-    <string name="hint_title">רֶמֶז</string>
-    <string name="hint_fav_sorting">היישום ממיין ערוצים לפי תדירות השעון. ערוצים שסימנת כחובבים יהיו תמיד בחלק העליון. תוכל להשבית את המיון האוטומטי על ידי הפעלת הזמנה לערוץ ספק, אך המסנן \'מועדפים\' לא יהיה זמין.</string>
+    <string name="hint_title">רמז</string>
+    <string name="hint_fav_sorting">היישום ממיין ערוצים לפי תדירות השעון. ערוצים שסימנת כחובבים יהיו תמיד בחלק העליון. תוכל להשבית את המיון האוטומטי על ידי הפעלת הזמנה לערוץ ספק, אך המסנן מועדפים לא יהיה זמין.</string>
     <string name="hint_video_codecs">אם המקור פועל בצורה גרועה, באפשרותך לנסות להגדיל את גודל המאגר בהגדרות, לעבור למפענח זרם אחר (חומרה או תוכנה), או אם משהו נכשל, הגדר להשתמש בנגן חיצוני להפעלה.</string>
-    <string name="hint_auto_turn_off">אתה יכול להגדיר זרם אוטומטי כיבוי לאחר זמן סרק (שימושי כאשר מחויב לדקה). לא פעיל פירושו לא פעולות השחקן המשמש (למשל: תפריט, חיפוש, הפסקה, וכו \').</string>
-
+    <string name="hint_auto_turn_off">אתה יכול להגדיר זרם אוטומטי כיבוי לאחר זמן סרק (שימושי כאשר מחויב לדקה). לא פעיל פירושו לא פעולות השחקן המשמש (למשל: תפריט, חיפוש, הפסקה וכו..).</string>
     <string name="settings_provider_select_type_intro1">הערה: תזדקק לספק OTT / IPTV כדי להשתמש ביישום זה.</string>
     <string name="settings_provider_select_type_intro2">היישום פועל עם פלייליסטים שסופקו על ידי המשתמש בלבד.</string>
     <string name="settings_provider_select_apply">אשר</string>
     <string name="settings_provider_select_return">חזרה</string>
-
     <string name="settings_provider_select_status_error">שגיאת תצורה. טעינת הנתונים נכשלה</string>
     <string name="settings_provider_select_status_success">ההגדרה הוחלה בהצלחה</string>
-
     <string name="settings_provider_select_error_live">לא מכיל ערוצים חיים נתמכים. בדוק שם משתמש / מפתח / סיסמה / כתובת אתר.</string>
-
     <string name="archive_auto_seek_no">לא, תראה מההתחלה</string>
     <string name="future_show_sheet_add_wl_title">הזכר לי לעבור לערוץ</string>
     <string name="future_show_sheet_search_title">חיפוש בארכיונים</string>
@@ -123,12 +105,10 @@
     <string name="disk_is_full">האחסון מלא. לנקות קצת מקום.</string>
     <string name="channel_more_hide_desc">הסר מהרשימה</string>
     <string name="hud_short_volume">עוצמת קול</string>
-    <string name="hud_short_bright">בְּהִירוּת</string>
-
+    <string name="hud_short_bright">בהירות</string>
     <string name="settings_provider">ספק</string>
     <string name="settings_media_library">ספריית מדיה</string>
     <string name="settings_media_library_dnla">סריקת מקורות UPnP / DLNA ברשת המקומית</string>
-
     <string name="settings_player">הגדרות נגן</string>
     <string name="settings_player_hide_ui">הסתר שכבת ממשק משתמש בהפעלה</string>
     <string name="settings_player_resize_mode">מצב סולם וידאו</string>
@@ -137,44 +117,30 @@
     <string name="settings_player_resize_mode_zoom">זום למסך</string>
     <string name="settings_player_resize_mode_zoom_in">התרחקו ממסך</string>
     <string name="settings_player_auto_stop_live">כיבוי אוטומטי של השידור</string>
-
     <string name="settings_extended">הגדרות מורחבות</string>
     <string name="settings_extended_hide_adult">הסתר קטגוריות של מבוגרים</string>
     <string name="settings_extended_auto_start_last_channel">הפעל את ערוץ ההפעלה האחרון באופן אוטומטי</string>
-    <string name="settings_schedule_epg_reload">טען מחדש את EPG teleguide …</string>
-
+    <string name="settings_schedule_epg_reload">טען מחדש את מדריך התוכניות Epg …</string>
     <string name="settings_visual">הגדרות תצוגה</string>
-
     <string name="settings_live_quick_channel_switch_delay">עיכוב לפני ערוצי מיתוג מהירים</string>
-
     <string name="settings_player_buffer_size">גודל שידור חיץ</string>
-
     <string name="settings_show_clock_in_player_always">הצג את השעה הנוכחית בעת צפייה בסרטון</string>
-
     <string name="settings_font_style">גודל טקסט</string>
     <string name="settings_palette_style">ערכת הצבעים</string>
-
     <string name="settings_ui_screen_margins">שולי מסך</string>
     <string name="settings_ui_language">שפה (אם לא הוגדרה, משתמש כברירת מחדל)</string>
-
     <string name="settings_codec">הגדרות Codec</string>
     <string name="settings_codec_hard">השתמש תמיד ב- Codec חומרה</string>
     <string name="settings_codec_soft_vlc">Vlc codec</string>
     <string name="settings_codec_external">השתמש תמיד בנגן חיצוני</string>
-
-    <string name="settings_epg">EPG Teleguide</string>
-
+    <string name="settings_epg">מדריך התוכניות Epg</string>
     <string name="settings_external_player">נגן חיצוני (נסה הכל כברירת מחדל)</string>
-
-
     <string name="settings_premium">פּרֶמיָה</string>
     <string name="settings_premium_source_purchase">פרימיום רכשה</string>
     <string name="settings_premium_source_subscription">מנוי מנוי</string>
     <string name="settings_premium_source_unknown">Premium לא מופעל</string>
-
     <string name="settings_premium_toggles_try_afr">Auto-switch מסגרת הדולר כדי להתאים וידאו</string>
     <string name="settings_premium_toggles_try_afr_toast">הצג הנוכחי נתמך שיעורי רענון</string>
-
     <string name="settings_premium_toggle_btn_title">הפעל תכונות פרימיום</string>
     <string name="settings_premium_toggle_btn_sub_add">הירשם</string>
     <string name="settings_premium_toggle_btn_sub_add_desc">אפשר פרמיה על ידי ההרשמה לתשלומים חוזרים ונשנים קטנים</string>
@@ -182,7 +148,6 @@
     <string name="settings_premium_toggle_btn_buy_add_desc">אפשר פרמיה בתשלום אחד</string>
     <string name="settings_premium_toggle_btn_buy_no_ads">אין לקנות מודעות Pack (כלולים גם את כל חבילות Premium)</string>
     <string name="settings_premium_toggle_btn_buy_no_ads_desc">השבת מודעות לתמיד באמצעות תשלום יחיד</string>
-
     <string name="setting_list_view_title">כיצד להציג רשימות</string>
     <string name="setting_list_view1">רשימה פשוטה</string>
     <string name="cfg_play_deny_buffer">אל תציג מצב חציצה</string>
@@ -194,7 +159,6 @@
     <string name="cfg_play_action_last">עבור לערוץ האחרון שיחק</string>
     <string name="cfg_play_action_title">הגדרת בקר מרחוק</string>
     <string name="cfg_trans_wind">השתמש בממשק שקוף</string>
-
     <string name="do_not_show">אל תראה</string>
     <string name="spread_title">כמו האפליקציה? תפיץ את המילה!</string>
     <string name="spread_btn_rate">דרג האפליקציה עם חמישה כוכבים</string>
@@ -210,7 +174,6 @@
     <string name="btn_search">לחפש</string>
     <string name="wifi_display">תצוגה אלחוטית</string>
     <string name="wifi_display_desc">הפעל זרם במכשיר אחר</string>
-
     <string name="cfg_play_action_pp">להשהות או לחדש את ההפעלה</string>
     <string name="cfg_play_action_btn_red">פעולה עבור כפתור אדום</string>
     <string name="cfg_play_action_btn_green">פעולה עבור כפתור ירוק</string>
@@ -242,7 +205,6 @@
     <string name="cfg_video_retry">פעמים כדי לנסות שוב את הסרטון כאשר אירעה שגיאה</string>
     <string name="cfg_play_action_2live">עבור לשידור חי של הערוץ הנוכחי</string>
     <string name="player_menu_2live">עבור לגור</string>
-
     <string name="btn_seek">חפשו</string>
     <string name="cfg_play_action_mseek">הפעלת תצוגת חיפוש וידאו</string>
     <string name="menu_exit">צא</string>
@@ -278,7 +240,6 @@
     <string name="cfg_no_categories">השתמש ברשימת ערוצים רגילה (ללא קטגוריות)</string>
     <string name="cfg_section_desc">תיאור פריט</string>
     <string name="cfg_section_lists">הגדרות רשימה</string>
-
     <string name="cfg_no_hints">אל תציג רמזים</string>
     <string name="child_mode_unlock_cfg">הזן קוד צאצא כדי לבטל את הנעילה של ההגדרות</string>
     <string name="cfg_child_mode">מצב רוח של ילד</string>
@@ -289,7 +250,6 @@
     <string name="cfg_player_hide_menu">פסק זמן להסתרת התפריט (בשניות)</string>
     <string name="choose_auto">בחר באופן אוטומטי</string>
     <string name="cfg_stream_tech">טכנולוגיית זרם (אם זמינה)</string>
-
     <string name="cfg_show_ch_numbers">הצג מספרי ערוצים</string>
     <string name="always">תמיד</string>
     <string name="menu_tv_guide">מדריך שידורי טלוויזיה</string>
@@ -313,7 +273,6 @@
     <string name="cfg_codec_exo_q">חומרה איכות codec</string>
     <string name="cfg_codec_exo_max">ההתאמה הטובה ביותר</string>
     <string name="cfg_codec_exo_compat">מצב תאימות</string>
-
     <string name="suggest_better_prov_tpl">נראה כי יש תבנית טובה יותר עבור ספק שלך</string>
     <string name="place_pl_to_downloads">לא נמצא פלייליסט חוקי בהורדות</string>
     <string name="only_1_active">Premium נדרש מספר ספקים פעילים באותו זמן</string>
@@ -350,7 +309,6 @@
     <string name="category_recently_added">נוספו לאחרונה</string>
     <string name="ask_finish_update">האם להפעיל מחדש את האפליקציה כדי לעדכן לגרסה חדשה יותר?</string>
     <string name="cfg_fine_tune_volume">כוונון עוצמת שמע ידני (מוגבל באמצעי האחסון של המערכת)</string>
-
     <string name="cfg_arch_unp">פתח מחדש את הארכיון באופן אוטומטי בעת ביטול ההזרמה של שידור חי</string>
     <string name="cfg_ch_more_epg">הצג שם ערוץ גדול יותר מ- EPG</string>
     <string name="show_menu_add_to_cont_watching">המשך לצפות במועד מאוחר יותר</string>
@@ -363,7 +321,6 @@
     <string name="btn_provider_attr_epg">מקור EPG</string>
     <string name="change_pip_size">שנה את הגודל</string>
     <string name="change_pip_place">העבר על המסך</string>
-
     <string name="only_manually_added">הוספה ידנית בלבד</string>
     <string name="check_for_updates">בדוק עדכונים</string>
     <string name="has_updates_starting">העדכון זמין ויתחיל בקרוב</string>
@@ -381,7 +338,6 @@
     <string name="pla_menu_type_grid">רשת</string>
     <string name="ch_manage_use_internal">השתמש בנגן פנימי</string>
     <string name="cat_manage_start_this_cat_on">התחל מקטגוריה זו</string>
-
     <string name="studio_mode_open_in">פתח במצב סטודיו</string>
     <string name="studio_mode_title">מצב סטודיו</string>
     <string name="studio_mode_remove">הסר את המסך</string>
@@ -584,183 +540,183 @@
     <string name="use_fixed_screen_res">השתמש ברזולוציית מסך קבועה</string>
     <string name="use_local_ch_numbers">השתמש במיקום הערוץ בקטגוריה כמספר ערוץ</string>
     <string name="check_faq">עיין בשאלות נפוצות לגבי הפתרונות האפשריים לבעיה שלך.</string>
-    <string name="arch_ask_leave_cfg">ןויכראב ןוטרסה תעמשה תא בזוע התא רשאכ לאש</string>
-    <string name="arch_ask_leave_ask">עגרכ ןויכראה ןוטרס תלעפה תא קיספהל ךנוצרב םאה?</string>
-    <string name="compact_list">תיטקפמוק המישר</string>
-    <string name="lock_settings">היצקילפאה תורדגהל השיג לבגה</string>
-    <string name="mass_hide_offer">ןכ םג םירחא םיטנמלא לש תוארנה תא תונשל הצור התא םאה?</string>
-    <string name="mass_hide_header">תויולג תויושי</string>
-    <string name="xt_compact_card">דחוימב םירצ םיפלק</string>
-    <string name="clear_downloaded_data">ודרוהש םינותנ הקנ</string>
-    <string name="epg_multi_threaded">.ןוכדעה ןמזב היצקילפאה יעוציב לע עיפשהל יושע ךא רתוי רהמ הניעטל םרוג .EPG ןוכדע תעב םיאשונ רפסמב שמתשה</string>
+    <string name="arch_ask_leave_cfg">שאל כאשר אתה עוזב את השמעת הסרטון בארכיון</string>
+    <string name="arch_ask_leave_ask">?האם ברצונך להפסיק את הפעלת סרטון הארכיון כרגע</string>
+    <string name="compact_list">רשימה קומפקטית</string>
+    <string name="lock_settings">הגבל גישה להגדרות האפליקציה</string>
+    <string name="mass_hide_offer">?האם אתה רוצה לשנות את הנראות של אלמנטים אחרים גם כן</string>
+    <string name="mass_hide_header">ישויות גלויות</string>
+    <string name="xt_compact_card">קלפים צרים במיוחד</string>
+    <string name="clear_downloaded_data">נקה נתונים שהורדו</string>
+    <string name="epg_multi_threaded">השתמש במספר נושאים בעת עדכון GPE. גורם לטעינה מהר יותר אך עשוי להשפיע על ביצועי האפליקציה בזמן העדכון.</string>
     <string name="switch_instantly">לעבור מיד</string>
-    <string name="buffer_size_no">.ךומס ןכותב הפוצ םא ץלמומו תוחפ ןורכיזב שמתשמ .הלעפה ץיח ןיא</string>
-    <string name="buffer_size_p1">לדגומ ץיח לדוג</string>
-    <string name="buffer_size_p2">לודג ץיח לדוג</string>
-    <string name="buffer_size_p3">קנע ץיח לדוג</string>
+    <string name="buffer_size_no">אין חיץ הפעלה. משתמש בזיכרון פחות ומומלץ אם צופה בתוכן סמוך.</string>
+    <string name="buffer_size_p1">גודל חיץ מוגדל</string>
+    <string name="buffer_size_p2">גודל חיץ גדול</string>
+    <string name="buffer_size_p3">גודל חיץ ענק</string>
     <string name="font_size_sm">קָטָן</string>
     <string name="font_size_lr">גָדוֹל</string>
     <string name="font_size_hg">עָצוּם</string>
     <string name="font_size_gi">ענק (עשוי להסתיר כמה אפשרויות)</string>
-    <string name="max_results_to_show">גיצהל שיש תילמיסקמ תואצות תריפס</string>
-    <string name="set_scale_x">X תוטנידרואוק לש תישיא םאתומ הדימ הנק רדגה</string>
-    <string name="record_activity_history">תוליעפה תיירוטסיה תא טלקה</string>
-    <string name="use_local_search">דבלב ימוקמ שופיחב שמתשה</string>
-    <string name="prefer_cloud_storage">.ןנע ןוסחאב וא םירושיק-רפיהב תאז םוקמב שמתשה .תוידיתעה תואסרגב םילבגומ תויהל םילולעו יוביגל אשונ םניא םהש ןוויכמ םיצבקב שמתשהל ץלמומ אל</string>
-    <string name="use_system_picker">תכרעמה ידי לע קפוסמה ררוב תועצמאב רחב</string>
-    <string name="selection_bitrate">תויביס בצק יפל הריחב רחא בוקע</string>
-    <string name="selection_bitrate_lowest">רתויב ךומנה תויביסה בצק תא ףדעה</string>
-    <string name="selection_bitrate_highest">רתויב הובגה תויביסה בצק תא ףדעה</string>
-    <string name="launcher_mode">(היצקילפאהמ אצת לא) רגשמ בצמ</string>
-    <string name="current_epg_info">יחכונה רודישה לע עדימ</string>
-    <string name="change_codec_if_no_playback">רחא קדוק תוסנל לוכי התא הליחתמ אל הלעפהה םא</string>
-    <string name="player_menu_and_hud">הלעמ-שאר תגוצתו ןגנ טירפת</string>
-    <string name="keep_hud_while_in_menu">לעופ טירפתהש ןמזב הלעמל שארה תגצה לע רומש</string>
-    <string name="media_tunneling">טלפה רישכמל תורישי הידמ לולסמ תרהנמ</string>
-    <string name="menu_qs_keep_fav">םיקפסה לכמ םיגצומה םיפדעומ םיצורע לע רומש</string>
-    <string name="list_view_side_by_side">הז דצל הז</string>
-    <string name="list_num_columns">תודומעה רפסמ</string>
-    <string name="show_on_main_screen">ישארה ךסמב תאז גיצהל רשפא</string>
-    <string name="add_temp_stream_link">הירפסל םרזל ינמז רושיק ףסוה</string>
+    <string name="max_results_to_show">ספירת תוצאות מקסימלית שיש להציג</string>
+    <string name="set_scale_x">הגדר קנה מידה מותאם אישית של קואורדינטות X</string>
+    <string name="record_activity_history">הקלט את היסטוריית הפעילות</string>
+    <string name="use_local_search">השתמש בחיפוש מקומי בלבד</string>
+    <string name="prefer_cloud_storage">לא מומלץ להשתמש בקבצים מכיוון שהם אינם נושא לגיבוי ועלולים להיות מוגבלים בגרסאות העתידיות. השתמש במקום זאת בהיפר-קישורים או באחסון ענן.</string>
+    <string name="use_system_picker">בחר באמצעות בורר המסופק על ידי המערכת</string>
+    <string name="selection_bitrate">עקוב אחר בחירה לפי קצב סיביות</string>
+    <string name="selection_bitrate_lowest">העדף את קצב הסיביות הנמוך ביותר</string>
+    <string name="selection_bitrate_highest">העדף את קצב הסיביות הגבוה ביותר</string>
+    <string name="launcher_mode">מצב משגר )אל תצא מהאפליקציה(</string>
+    <string name="current_epg_info">מידע על השידור הנוכחי</string>
+    <string name="change_codec_if_no_playback">אם ההפעלה לא מתחילה אתה יכול לנסות קודק אחר</string>
+    <string name="player_menu_and_hud">תפריט נגן ותצוגת ראש-מעלה</string>
+    <string name="keep_hud_while_in_menu">שמור על הצגת הראש למעלה בזמן שהתפריט פועל</string>
+    <string name="media_tunneling">מנהרת מסלול מדיה ישירות למכשיר הפלט</string>
+    <string name="menu_qs_keep_fav">שמור על ערוצים מועדפים המוצגים מכל הספקים</string>
+    <string name="list_view_side_by_side">זה לצד זה</string>
+    <string name="list_num_columns">מספר העמודות</string>
+    <string name="show_on_main_screen">אפשר להציג זאת במסך הראשי</string>
+    <string name="add_temp_stream_link">הוסף קישור זמני לזרם לספריה</string>
     <string name="auto_start_this_ch_on_start">הפעל הפעלה אוטומטית של ערוץ זה בהתחלת האפליקציה</string>
-    <string name="hint_themes">רתויב ךל םיאתמה תא רוחבל לוכי התאו םייתוזח םיאשונ ןומה היצקילפאל שיש ת?</string>
-    <string name="hint_customizing">הרדגהל םינתינ םיעבצ ,תומישר ,םיטירפת - היצקילפאב טביה לכ טעמכש תעדי םא?</string>
+    <string name="hint_themes">?ת שיש לאפליקציה המון נושאים חזותיים ואתה יכול לבחור את המתאים לך ביותר</string>
+    <string name="hint_customizing">?אם ידעת שכמעט כל היבט באפליקציה - תפריטים, רשימות, צבעים ניתנים להגדרה</string>
     <string name="hint_setup_keys">באפשרותך להגדיר את לחצני השלט הרחוק שלך לכל פעולה עדיפה</string>
     <string name="hint_setup_touch">אתה יכול להגדיר ברזים כפולים והחלפות באזורי מסך שונים לכל פעולה עדיפה</string>
-    <string name="delay_before_acting">קחשמה ינפל בוכיע</string>
-    <string name="select_category">הירוגטק רחב</string>
-    <string name="launcher_button">רגשמ ירותפכ</string>
-    <string name="track_language">הפש רחא בוקע</string>
-    <string name="track_language_list">הפש ידוק לש םיקיספב תדרפומ המישר</string>
-    <string name="fold_ch_pri_suffixes">םיצורעה תמישר לופיק תעב ושמשיש תופדעומ םש תומויס</string>
+    <string name="delay_before_acting">עיכוב לפני המשחק</string>
+    <string name="select_category">בחר קטגוריה</string>
+    <string name="launcher_button">כפתורי משגר</string>
+    <string name="track_language">עקוב אחר שפה</string>
+    <string name="track_language_list">רשימה מופרדת בפסיקים של קודי שפה</string>
+    <string name="fold_ch_pri_suffixes">סיומות שם מועדפות שישמשו בעת קיפול רשימת הערוצים</string>
     <string name="fold_ch_by">מה לקחת בחשבון בעת מיזוג</string>
-    <string name="place_in_other_category">תרחא הירוגטקל בצה</string>
-    <string name="yesterday">לומתא</string>
-    <string name="tomorrow">רחָמָ</string>
-    <string name="show_ip_address">IP תבותכ גצה</string>
-    <string name="user_profiles">שמתשמ יליפורפ</string>
-    <string name="add_new_item">שדח המישר טירפ ףסוה</string>
-    <string name="change_image">הנומת הנש</string>
-    <string name="also_allow_in_recommendations">תוצלמה םג רשפא</string>
-    <string name="text_shadow_sz">טסקט לצ לדוג</string>
-    <string name="text_width_sz">טסקטה בחור לדוג</string>
-    <string name="text_narrow">רצ טסקט</string>
+    <string name="place_in_other_category">הצב לקטגוריה אחרת</string>
+    <string name="yesterday">אתמול</string>
+    <string name="tomorrow">ָמָחר</string>
+    <string name="show_ip_address">הצג כתובת PI</string>
+    <string name="user_profiles">פרופילי משתמש</string>
+    <string name="add_new_item">הוסף פריט רשימה חדש</string>
+    <string name="change_image">שנה תמונה</string>
+    <string name="also_allow_in_recommendations">אפשר גם המלצות</string>
+    <string name="text_shadow_sz">גודל צל טקסט</string>
+    <string name="text_width_sz">גודל רוחב הטקסט</string>
+    <string name="text_narrow">טקסט צר</string>
     <string name="text_normal">רגיל</string>
-    <string name="text_bold">שגדומ טסקט</string>
-    <string name="horizontal_gallery_view">תיקפוא הירלג תגוצת</string>
+    <string name="text_bold">טקסט מודגש</string>
+    <string name="horizontal_gallery_view">תצוגת גלריה אופקית</string>
     <string name="text_style">טקסט</string>
-    <string name="mark_all_visible">יולגכ לכה ןמס</string>
-    <string name="mark_all_hidden">רתסומכ לכה ןמס</string>
-    <string name="streams_just_started">וליחתה קר םימרזה</string>
-    <string name="auto_number_fav_channels">םיבוהאה םיצורעל םייטמוטוא םירפסמ הצקה</string>
+    <string name="mark_all_visible">סמן הכל כגלוי</string>
+    <string name="mark_all_hidden">סמן הכל כמוסתר</string>
+    <string name="streams_just_started">הזרמים רק התחילו</string>
+    <string name="auto_number_fav_channels">הקצה מספרים אוטומטיים לערוצים האהובים</string>
     <string name="max_epg_history_to_keep">מקסימום ימים לזכור (מגביל את זמינות הארכיון)</string>
-    <string name="vertical_gallery_view">תיכנא הירלג תגוצת</string>
-    <string name="if_ch_name_starts_or_ends">םיאבה םירבדב םייתסמ וא ליחתמ ץורעה םש םא</string>
-    <string name="max_file_size">טסיליילפל רתומה יברמה ץבוקה לדוג</string>
-    <string name="quick_actions">תוריהמ תולועפ</string>
-    <string name="clear_list">המישרה תא הקנ</string>
-    <string name="ignored_words">םיליממ ומלעתה</string>
-    <string name="restore_original_state">ירוקמה בצמל רזחש</string>
-    <string name="text_color">טסקט עבצ</string>
-    <string name="accent_text_color">אטבמ טסקט עבצ</string>
-    <string name="hide_name_if_has_poster">ןימז רטסופ םא םש רתסה</string>
-    <string name="use_future_in_search">שופיחב תוידיתע תומושרב שמתשה</string>
+    <string name="vertical_gallery_view">תצוגת גלריה אנכית</string>
+    <string name="if_ch_name_starts_or_ends">אם שם הערוץ מתחיל או מסתיים בדברים הבאים</string>
+    <string name="max_file_size">גודל הקובץ המרבי המותר לפלייליסט</string>
+    <string name="quick_actions">פעולות מהירות</string>
+    <string name="clear_list">נקה את הרשימה</string>
+    <string name="ignored_words">התעלמו ממילים</string>
+    <string name="restore_original_state">שחזר למצב המקורי</string>
+    <string name="text_color">צבע טקסט</string>
+    <string name="accent_text_color">הדגשה צבע טקסט</string>
+    <string name="hide_name_if_has_poster">הסתר שם אם פוסטר זמין</string>
+    <string name="use_future_in_search">השתמש ברשומות עתידיות בחיפוש</string>
     <string name="email_address">כתובת דוא"ל</string>
     <string name="password">סיסמה</string>
     <string name="btn_login">התחברות</string>
     <string name="btn_register">הירשם</string>
     <string name="add_device">הוסף התקן</string>
-    <string name="text_is_case_sensitive">תוישיר יולת אוה טסקטה</string>
-    <string name="password_does_not_match">המיאתמ אל המסיס</string>
+    <string name="text_is_case_sensitive">הטקסט הוא תלוי רישיות</string>
+    <string name="password_does_not_match">סיסמה לא מתאימה</string>
     <string name="login_or_password_incorrect">הכניסה או הסיסמה שגויים</string>
     <string name="change_password">שנה סיסמא</string>
-    <string name="use_account_for_manage_premium">ךלש םוימירפה ןובשח לוהינל ןובשח רוצ</string>
+    <string name="use_account_for_manage_premium">צור חשבון לניהול חשבון הפרימיום שלך</string>
     <string name="current_device">מכשיר בשימוש כרגע</string>
-    <string name="acc_can_no_buy_premium">.הז ןובשח ךל ןתנש םדאה םע רשק רוציל ךילע .םוימירפ שוכרל לוכי אל ךלש ןובשחה</string>
-    <string name="select_preset">שארמ הרדגה רחב</string>
-    <string name="use_cyclic_category_navigation">תוירוגטק ןיב ירוזחמ טווינ רשפא</string>
-    <string name="ask_add_pwd_to_protect_data">םינותנה לע ןגהל ידכ המסיס ףיסוהל ךנוצרב םאה?</string>
-    <string name="use2click_mode_in_preview">.אלמ ךסמב ץורע תלעפה ליחתת היינש הציחל .הציחל רחאל קר ןוטרס לש המידקמ הגוצת לחתה</string>
-    <string name="clear_modifications">ירוקמה בצמה תא רזחשו םייונישה לכ תא הקנ</string>
-    <string name="save_load_to_user_url">םינותנ ןוסחאל שמתשמה ידי לע קפוסש תרשב שמתשה</string>
-    <string name="action_complete">המלשוה הלועפה</string>
-    <string name="use_always_if_possible">רשפא םא דימת שמתשהל ךירצ</string>
-    <string name="try_pin_activation">PIN תלעפהב שמתשהל ךנוצרב םאה</string>
-    <string name="finger_controller">עבצא תרקב לש ט\'גדיוו</string>
-    <string name="fine_tune_text_for_fields">םיקיודמ תודש רובע טסקטה עבצ תא ןנווכ</string>
-    <string name="field_name_of_tv_channel">היזיוולט ץורע לש םש</string>
-    <string name="field_name_of_tv_show">יחכונה רודישה םש</string>
-    <string name="cfg_play_deny_hud_on_update">רודיש ןוכדעב heads-up-display ץיפקהל ןיא</string>
-    <string name="provider_reports_sub_expired">.ךלש יונמה לש ופקות גפש חוודמ ךלש קפסה</string>
-    <string name="btn_ignore">םלעתהל</string>
-    <string name="use_vertical_view_on_phone">ןופלטב תיכנא הגוצתב שמתשה</string>
-    <string name="lock_immediately">דימ לענ</string>
-    <string name="genre">רנא\'ָז</string>
-    <string name="cast">קהלל</string>
-    <string name="producer">ןרָציַ</string>
-    <string name="retry">בוש הסנ</string>
-    <string name="undo">םייוניש רזחה</string>
-    <string name="set_for_phone">םינופלטל תצלמומ הרדגה רדגה</string>
-    <string name="trust_these_sources">הלאה תורוקמה לע ךומס</string>
-    <string name="release_date">האצוה ךיראת</string>
-    <string name="dirs_should_be_first">תוירפס הליחת םושרל שי</string>
-    <string name="hide_password">התנזה תעב המסיס גיצת לא</string>
-    <string name="clear_data_not_currently_used">תעכ שומישב םניאש םינותנ קחמ</string>
-    <string name="other_backup_options">תורחא יוביג תויורשפא</string>
-    <string name="file_on_a_device">יחכונה רישכמב ץבוק</string>
-    <string name="do_not_switch_to_dup_on_error">.תיטמוטוא האיגשב רחא רוקמל רובעת לא</string>
-    <string name="reload_on_new_channels">םישדח ואדיו יצורע והוז רשאכ םינותנ שדחמ ןעט</string>
-    <string name="allow_changing_system_cat_order">תכרעמ תוירוגטק לש רדס יוניש רשפא</string>
-    <string name="invert_selection">ךופה הריחב</string>
-    <string name="req_pass_on_start">היצקילפאה תלעפה תעב המסיס שורד</string>
-    <string name="toggle_password_visibility">המסיסה תוארנ תא ףלחה</string>
-    <string name="copy_settings_to_this_profile">יחכונה ליפורפל תורדגהה תא קתעה</string>
-    <string name="via_qr_code">ךלש ןופלטב QR דוק תועצמאב</string>
-    <string name="can_not_be_edited">הרוסא הז ביכר תכירע</string>
-    <string name="action_can_not_undo_continue">ךישמהל ךנוצרב םאה ,וזה הלועפה תא לטבל ןתינ אל?</string>
-    <string name="use_same_as_in_live">םייח םירודיש רובע ומכ ךרע ותואב שמתשה</string>
-    <string name="refresh_periodically">תעל תעמ ןנער</string>
-    <string name="user_guide">שמתשמל ךירדמ</string>
-    <string name="support_1conn_provider">דיחי רוביח קר ול שיש קפסל הכימת רשפא</string>
-    <string name="merge_data">םינותנ גוזימ</string>
-    <string name="reopen_stream_if_paused_for_a_while">המ ןמזל ההשוה םא םרזה תא שדחמ חתפ</string>
-    <string name="join_app_community">תויצקילפאה תליהקל ףרטצה</string>
-    <string name="normalize_tv_show_name">היזיוולטה תינכות םש תא למרנ</string>
-    <string name="contact_your_provider">ךלש קפסל הנפ</string>
-    <string name="ssl_certificate_issue_detected">יקוח וניא SSL (HTTPS) רושיא</string>
-    <string name="verify_net_before_update">םיקפסמ םינותנ ןוכדע ינפל תשרה תונימז תא קודב</string>
-    <string name="timezone">ןמז רוזא</string>
-    <string name="error_all_device_slots_used">.דוע שומישב םניאש םירישכמ רסה וא ,םיפסונ םיצירח שוכר .םיסופת םוימירפה יצירח לכש ןוויכמ ,יחכונה רישכמה תא ליעפהל ןתינ אל</string>
-    <string name="contact_support_for_more_options">תופסונ תויורשפא תלבקל היצקילפאה תכימת םע רשק רוצ</string>
-    <string name="exit_on_back_press">ץחלנ הרזחה ןצחל רשאכ ,ןורכיזהמ היצקילפאה תקירפ תחטבה</string>
-    <string name="auto_delete_backup_after_restore">(דבלב תחא םעפ רוזחש רשפא) רוזחשה רחאל דימ יוביג ינותנ קחמ</string>
-    <string name="applies_to_category_of_item">טנמלאה לש הירוגטקה לע קר לח</string>
-    <string name="applies_to_every_category">ופרטצה םיביכרה לכ ,הירוגטק לכ לע לח</string>
-    <string name="group_categories_by_country">הנידמ גציימ ,תילאוטריו הירוגטק יפל ןתוא ץוביק ,תולפקתמ תוירוגטק רשפא</string>
-    <string name="with_lower_priority">רתוי הכומנ תופידעב</string>
-    <string name="vod_folder_tv_show">היזיוולט תוינכות</string>
-    <string name="radio_stations">וידר תונחת</string>
-    <string name="reversed_direction">ךופה ןוויכ</string>
-    <string name="remove_some_provider_categories">קפסה ינותנמ תוירוגטק המכ רסה</string>
-    <string name="rename_provider_categories">קפס ינותנמ תוירוגטק םש הנש</string>
-    <string name="use_deep_search">(\'וכו תונידמ ,םינקחש יפל) קומע שופיח</string>
-    <string name="row_1_view">תחא הרושב הגוצת</string>
-    <string name="column_1_view">תדדוב הדומע תגוצת</string>
-    <string name="background_color">עקר עבצ</string>
-    <string name="opacity">תוּמיטִאֲ</string>
-    <string name="use_vertical_player_when_browsing">םיצורעב השילג תעב יכנא ןגנב שמתשה</string>
-    <string name="discover_new_content">שדח ןכות הלג</string>
-    <string name="highest_rated">רתויב בוטה גורידב</string>
-    <string name="random_selection">תיארקא הריחב</string>
-    <string name="activate_by_id_number">ההזמ רפסמ יפל לעפה</string>
-    <string name="input_next_letter_of_the_search">שופיחה וק לש האבה תואה תא ןזה</string>
-    <string name="cat_sort_mode">יפל תוירוגטק ןיימ</string>
-    <string name="only_works_if_suppored_by_provider">קפס ידי לע ךמתנ םא קר דבוע</string>
-    <string name="show_preview_on_seek">המידק ריהמ וא שדחמ דעצ ידכ ךות הנומת לש המידקמ הגוצת גצה</string>
-    <string name="auto_select_vtrack_by_resolution">היצולוזר לע תססבמ תיטמוטוא ואדיו תועוצר תריחב</string>
-    <string name="blacklist_afr_modes">יטמוטוא גתממ הלא ךסמ יבצמ לולכת</string>
-    <string name="err_timeout">ביגמ וניא קפסה רוקמ</string>
-    <string name="device_type">רישכמ גוס</string>
-    <string name="select_tags">תויגת רחב</string>
-    <string name="watch_trailer">רליירטב הפצ</string>
+    <string name="acc_can_no_buy_premium">החשבון שלך לא יכול לרכוש פרימיום. עליך ליצור קשר עם האדם שנתן לך חשבון זה.</string>
+    <string name="select_preset">בחר הגדרה מראש</string>
+    <string name="use_cyclic_category_navigation">אפשר ניווט מחזורי בין קטגוריות</string>
+    <string name="ask_add_pwd_to_protect_data">?האם ברצונך להוסיף סיסמה כדי להגן על הנתונים</string>
+    <string name="use2click_mode_in_preview">התחל תצוגה מקדימה של סרטון רק לאחר לחיצה. לחיצה שנייה תתחיל הפעלת ערוץ במסך מלא.</string>
+    <string name="clear_modifications">נקה את כל השינויים ושחזר את המצב המקורי</string>
+    <string name="save_load_to_user_url">השתמש בשרת שסופק על ידי המשתמש לאחסון נתונים</string>
+    <string name="action_complete">הפעולה הושלמה</string>
+    <string name="use_always_if_possible">צריך להשתמש תמיד אם אפשר</string>
+    <string name="try_pin_activation">האם ברצונך להשתמש בהפעלת NIP</string>
+    <string name="finger_controller">ווידג'\ט של בקרת אצבע</string>
+    <string name="fine_tune_text_for_fields">כוונן את צבע הטקסט עבור שדות מדויקים</string>
+    <string name="field_name_of_tv_channel">שם של ערוץ טלוויזיה</string>
+    <string name="field_name_of_tv_show">שם השידור הנוכחי</string>
+    <string name="cfg_play_deny_hud_on_update">אין להקפיץ yalpsid-pu-sdaeh בעדכון שידור</string>
+    <string name="provider_reports_sub_expired">הספק שלך מדווח שפג תוקפו של המנוי שלך.</string>
+    <string name="btn_ignore">להתעלם</string>
+    <string name="use_vertical_view_on_phone">השתמש בתצוגה אנכית בטלפון</string>
+    <string name="lock_immediately">נעל מיד</string>
+    <string name="genre">זָ'אנר</string>
+    <string name="cast">שחקנים</string>
+    <string name="producer">ַיצָרן</string>
+    <string name="retry">נסה שוב</string>
+    <string name="undo">החזר שינויים</string>
+    <string name="set_for_phone">הגדר הגדרה מומלצת לטלפונים</string>
+    <string name="trust_these_sources">סמוך על המקורות האלה</string>
+    <string name="release_date">תאריך הוצאה</string>
+    <string name="dirs_should_be_first">יש לרשום תחילה ספריות</string>
+    <string name="hide_password">אל תציג סיסמה בעת הזנתה</string>
+    <string name="clear_data_not_currently_used">מחק נתונים שאינם בשימוש כעת</string>
+    <string name="other_backup_options">אפשרויות גיבוי אחרות</string>
+    <string name="file_on_a_device">קובץ במכשיר הנוכחי</string>
+    <string name="do_not_switch_to_dup_on_error">אל תעבור למקור אחר בשגיאה אוטומטית.</string>
+    <string name="reload_on_new_channels">טען מחדש נתונים כאשר זוהו ערוצי וידאו חדשים</string>
+    <string name="allow_changing_system_cat_order">אפשר שינוי סדר של קטגוריות מערכת</string>
+    <string name="invert_selection">בחירה הפוך</string>
+    <string name="req_pass_on_start">דרוש סיסמה בעת הפעלת האפליקציה</string>
+    <string name="toggle_password_visibility">החלף את נראות הסיסמה</string>
+    <string name="copy_settings_to_this_profile">העתק את ההגדרות לפרופיל הנוכחי</string>
+    <string name="via_qr_code">באמצעות קוד QR בטלפון שלך</string>
+    <string name="can_not_be_edited">עריכת רכיב זה אסורה</string>
+    <string name="action_can_not_undo_continue">?לא ניתן לבטל את הפעולה הזו, האם ברצונך להמשיך</string>
+    <string name="use_same_as_in_live">השתמש באותו ערך כמו עבור השידורים החיים</string>
+    <string name="refresh_periodically">רענן מעת לעת</string>
+    <string name="user_guide">מדריך למשתמש</string>
+    <string name="support_1conn_provider">אפשר תמיכה לספק שיש לו רק חיבור יחיד</string>
+    <string name="merge_data">מיזוג נתונים</string>
+    <string name="reopen_stream_if_paused_for_a_while">פתח מחדש את הזרם אם הושהה לזמן מה</string>
+    <string name="join_app_community">הצטרף לקהילת האפליקציות</string>
+    <string name="normalize_tv_show_name">נירמול את שם תוכנית הטלוויזיה</string>
+    <string name="contact_your_provider">פנה לספק שלך</string>
+    <string name="ssl_certificate_issue_detected">זוהתה בעיית אישור SSL</string>
+    <string name="verify_net_before_update">בדוק את זמינות הרשת לפני עדכון נתונים מספקים</string>
+    <string name="timezone">אזור זמן</string>
+    <string name="error_all_device_slots_used">לא ניתן להפעיל את המכשיר הנוכחי, מכיוון שכל חריצי הפרימיום תפוסים. רכוש חריצים נוספים, או הסר מכשירים שאינם בשימוש עוד.</string>
+    <string name="contact_support_for_more_options">צור קשר עם תמיכת האפליקציה לקבלת אפשרויות נוספות</string>
+    <string name="exit_on_back_press">הבטחת פריקת האפליקציה מהזיכרון, כאשר לחצן החזרה נלחץ</string>
+    <string name="auto_delete_backup_after_restore">מחק נתוני גיבוי מיד לאחר השחזור (אפשר שחזור פעם אחת בלבד)</string>
+    <string name="applies_to_category_of_item">חל רק על הקטגוריה של הפריט</string>
+    <string name="applies_to_every_category">חל על כל קטגוריה, כל הרכיבים הצטרפו</string>
+    <string name="group_categories_by_country">אפשר קטגוריות מתקפלות, קיבוץ אותן לפי קטגוריה וירטואלית, מייצג מדינה</string>
+    <string name="with_lower_priority">בעדיפות נמוכה יותר</string>
+    <string name="vod_folder_tv_show">תוכניות טלוויזיה</string>
+    <string name="radio_stations">תחנות רדיו</string>
+    <string name="reversed_direction">כיוון הפוך</string>
+    <string name="remove_some_provider_categories">הסר כמה קטגוריות מנתוני הספק</string>
+    <string name="rename_provider_categories">שנה שם קטגוריות מנתוני ספק</string>
+    <string name="use_deep_search">חיפוש עמוק (לפי שחקנים, מדינות וכו')</string>
+    <string name="row_1_view">תצוגה בשורה אחת</string>
+    <string name="column_1_view">תצוגת עמודה בודדת</string>
+    <string name="background_color">צבע רקע</string>
+    <string name="opacity">שקיפות</string>
+    <string name="use_vertical_player_when_browsing">השתמש בנגן אנכי בעת גלישה בערוצים</string>
+    <string name="discover_new_content">גלה תוכן חדש</string>
+    <string name="highest_rated">בדירוג הטוב ביותר</string>
+    <string name="random_selection">בחירה אקראית</string>
+    <string name="activate_by_id_number">הפעל לפי מספר מזהה</string>
+    <string name="input_next_letter_of_the_search">הזן את האות הבאה של קו החיפוש</string>
+    <string name="cat_sort_mode">מיין קטגוריות לפי</string>
+    <string name="only_works_if_suppored_by_provider">עובד רק אם נתמך על ידי ספק</string>
+    <string name="show_preview_on_seek">הצג תצוגה מקדימה של תמונה תוך כדי צעד מחדש או מהיר קדימה</string>
+    <string name="auto_select_vtrack_by_resolution">בחירת רצועות וידאו אוטומטית מבססת על רזולוציה</string>
+    <string name="blacklist_afr_modes">תכלול מצבי מסך אלה ממתג אוטומטי</string>
+    <string name="err_timeout">מקור הספק אינו מגיב</string>
+    <string name="device_type">סוג מכשיר</string>
+    <string name="select_tags">בחר תגיות</string>
+    <string name="watch_trailer">צפה בטריילר</string>
     </resources>
