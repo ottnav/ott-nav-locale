@@ -718,4 +718,7 @@
     <string name="device_type">Qurilma turi</string>
     <string name="select_tags">Teglarni tanlang</string>
     <string name="watch_trailer">Tomosha treyleri</string>
+    <string name="change_priority">Ustuvorlikni o\'zgartiring</string>
+    <string name="switch_to_another_series_episode">Boshqa bir seriya epizodiga o\'ting</string>
+    <string name="ensure_vpn_on_start">Ilova dasturni ishga tushirish bilan sozlangan VPN tizimi ulanganligini ta\'minlashi kerak</string>
     </resources>

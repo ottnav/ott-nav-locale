@@ -763,4 +763,7 @@
     <string name="device_type">Jenis peranti</string>
     <string name="select_tags">Pilih tag</string>
     <string name="watch_trailer">Tonton treler</string>
+    <string name="change_priority">Perubahan keutamaan</string>
+    <string name="switch_to_another_series_episode">Beralih ke episod siri lain</string>
+    <string name="ensure_vpn_on_start">App harus memastikan bahawa VPN yang dikonfigurasi sistem disambungkan pada aplikasi Start</string>
     </resources>

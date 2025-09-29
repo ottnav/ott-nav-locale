@@ -765,4 +765,7 @@
     <string name="device_type">ডিভাইসের ধরণ</string>
     <string name="select_tags">ট্যাগ নির্বাচন করুন</string>
     <string name="watch_trailer">ট্রেলার দেখুন</string>
+    <string name="change_priority">অগ্রাধিকার পরিবর্তন করুন</string>
+    <string name="switch_to_another_series_episode">অন্য সিরিজ পর্বে স্যুইচ করুন</string>
+    <string name="ensure_vpn_on_start">অ্যাপ্লিকেশনটি নিশ্চিত করা উচিত যে সিস্টেম-কনফিগার করা ভিপিএন অ্যাপ প্রারম্ভের সাথে সংযুক্ত রয়েছে</string>
     </resources>

@@ -718,4 +718,7 @@
     <string name="device_type">Enhetstyp</string>
     <string name="select_tags">Välj taggar</string>
     <string name="watch_trailer">Titta på trailern</string>
+    <string name="change_priority">Ändra prioritet</string>
+    <string name="switch_to_another_series_episode">Byt till en annan serieavsnitt</string>
+    <string name="ensure_vpn_on_start">App bör se till att systemkonfigurerad VPN är ansluten vid appstart</string>
     </resources>

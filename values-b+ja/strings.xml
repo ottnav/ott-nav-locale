@@ -718,4 +718,7 @@
     <string name="device_type">デバイスタイプ</string>
     <string name="select_tags">タグを選択します</string>
     <string name="watch_trailer">トレーラーを見る</string>
+    <string name="change_priority">優先順位を変更します</string>
+    <string name="switch_to_another_series_episode">別のシリーズエピソードに切り替えます</string>
+    <string name="ensure_vpn_on_start">アプリは、システムが構成されたVPNがアプリのスタートで接続されていることを確認する必要があります</string>
     </resources>

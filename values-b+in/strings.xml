@@ -718,4 +718,7 @@
     <string name="device_type">Jenis perangkat</string>
     <string name="select_tags">Pilih tag</string>
     <string name="watch_trailer">Tonton trailer</string>
+    <string name="change_priority">Ubah prioritas</string>
+    <string name="switch_to_another_series_episode">Beralih ke episode seri lain</string>
+    <string name="ensure_vpn_on_start">Aplikasi harus memastikan bahwa VPN yang dikonfigurasi sistem terhubung pada start aplikasi</string>
     </resources>

@@ -718,4 +718,7 @@
     <string name="device_type">Cihaz türü</string>
     <string name="select_tags">Etiketleri seçin</string>
     <string name="watch_trailer">İzle fragmanı</string>
+    <string name="change_priority">Önceliği Değiştir</string>
+    <string name="switch_to_another_series_episode">Başka bir dizi bölümüne geç</string>
+    <string name="ensure_vpn_on_start">Uygulama, Sistem tarafından yapılandırılmış VPN\'nin uygulama başlatmasına bağlı olduğundan emin olmalıdır</string>
     </resources>

@@ -717,4 +717,7 @@
     <string name="device_type">Vrsta uređaja</string>
     <string name="select_tags">Odaberite oznake</string>
     <string name="watch_trailer">Prikolica za gledanje</string>
+    <string name="change_priority">Promijenite prioritet</string>
+    <string name="switch_to_another_series_episode">Prebacite se na drugu epizodu serije</string>
+    <string name="ensure_vpn_on_start">Aplikacija bi trebala osigurati da je VPN konfigurirani sustav povezan na start aplikacije</string>
     </resources>

@@ -108,7 +108,7 @@
     <string name="hud_short_bright">בהירות</string>
     <string name="settings_provider">ספק</string>
     <string name="settings_media_library">ספריית מדיה</string>
-    <string name="settings_media_library_dnla">סריקת מקורות UPnP / DLNA ברשת המקומית</string>
+    <string name="settings_media_library_dnla">סריקת מקורות UPnP/DLNA ברשת המקומית</string>
     <string name="settings_player">הגדרות נגן</string>
     <string name="settings_player_hide_ui">הסתר שכבת ממשק משתמש בהפעלה</string>
     <string name="settings_player_resize_mode">מצב סולם וידאו</string>
@@ -120,7 +120,7 @@
     <string name="settings_extended">הגדרות מורחבות</string>
     <string name="settings_extended_hide_adult">הסתר קטגוריות של מבוגרים</string>
     <string name="settings_extended_auto_start_last_channel">הפעל את ערוץ ההפעלה האחרון באופן אוטומטי</string>
-    <string name="settings_schedule_epg_reload">טען מחדש את מדריך התוכניות Epg …</string>
+    <string name="settings_schedule_epg_reload">טען מחדש את (EPG) מדריך התוכניות…</string>
     <string name="settings_visual">הגדרות תצוגה</string>
     <string name="settings_live_quick_channel_switch_delay">עיכוב לפני ערוצי מיתוג מהירים</string>
     <string name="settings_player_buffer_size">גודל שידור חיץ</string>
@@ -131,9 +131,9 @@
     <string name="settings_ui_language">שפה (אם לא הוגדרה, משתמש כברירת מחדל)</string>
     <string name="settings_codec">הגדרות Codec</string>
     <string name="settings_codec_hard">השתמש תמיד ב- Codec חומרה</string>
-    <string name="settings_codec_soft_vlc">Vlc codec</string>
+    <string name="settings_codec_soft_vlc">VLC codec</string>
     <string name="settings_codec_external">השתמש תמיד בנגן חיצוני</string>
-    <string name="settings_epg">מדריך התוכניות Epg</string>
+    <string name="settings_epg">מדריך התוכניות EPG</string>
     <string name="settings_external_player">נגן חיצוני (נסה הכל כברירת מחדל)</string>
     <string name="settings_premium">פּרֶמיָה</string>
     <string name="settings_premium_source_purchase">פרימיום רכשה</string>
@@ -304,7 +304,7 @@
     <string name="cfg_cat_recent">קטגוריית ערוצים אחרונים</string>
     <string name="enable">לאפשר</string>
     <string name="save_between_launch">לשמור בין השקות</string>
-    <string name="cfg_no_teleguide">ליצור שיא epg וירטואלי כאשר אין תוכנית טלוויזיה זמין</string>
+    <string name="cfg_no_teleguide">ליצור שיא EPG וירטואלי כאשר אין תוכנית טלוויזיה זמין</string>
     <string name="menu_qs_provider_multiple">סמן ידנית</string>
     <string name="category_recently_added">נוספו לאחרונה</string>
     <string name="ask_finish_update">האם להפעיל מחדש את האפליקציה כדי לעדכן לגרסה חדשה יותר?</string>
@@ -541,10 +541,10 @@
     <string name="use_local_ch_numbers">השתמש במיקום הערוץ בקטגוריה כמספר ערוץ</string>
     <string name="check_faq">עיין בשאלות נפוצות לגבי הפתרונות האפשריים לבעיה שלך.</string>
     <string name="arch_ask_leave_cfg">שאל כאשר אתה עוזב את השמעת הסרטון בארכיון</string>
-    <string name="arch_ask_leave_ask">?האם ברצונך להפסיק את הפעלת סרטון הארכיון כרגע</string>
+    <string name="arch_ask_leave_ask">האם ברצונך להפסיק את הפעלת סרטון הארכיון כרגע</string>
     <string name="compact_list">רשימה קומפקטית</string>
     <string name="lock_settings">הגבל גישה להגדרות האפליקציה</string>
-    <string name="mass_hide_offer">?האם אתה רוצה לשנות את הנראות של אלמנטים אחרים גם כן</string>
+    <string name="mass_hide_offer">האם אתה רוצה לשנות את הנראות של אלמנטים אחרים גם כן</string>
     <string name="mass_hide_header">ישויות גלויות</string>
     <string name="xt_compact_card">קלפים צרים במיוחד</string>
     <string name="clear_downloaded_data">נקה נתונים שהורדו</string>
@@ -579,8 +579,8 @@
     <string name="show_on_main_screen">אפשר להציג זאת במסך הראשי</string>
     <string name="add_temp_stream_link">הוסף קישור זמני לזרם לספריה</string>
     <string name="auto_start_this_ch_on_start">הפעל הפעלה אוטומטית של ערוץ זה בהתחלת האפליקציה</string>
-    <string name="hint_themes">?ת שיש לאפליקציה המון נושאים חזותיים ואתה יכול לבחור את המתאים לך ביותר</string>
-    <string name="hint_customizing">?אם ידעת שכמעט כל היבט באפליקציה - תפריטים, רשימות, צבעים ניתנים להגדרה</string>
+    <string name="hint_themes">ת שיש לאפליקציה המון נושאים חזותיים ואתה יכול לבחור את המתאים לך ביותר</string>
+    <string name="hint_customizing">אם ידעת שכמעט כל היבט באפליקציה - תפריטים, רשימות, צבעים ניתנים להגדרה</string>
     <string name="hint_setup_keys">באפשרותך להגדיר את לחצני השלט הרחוק שלך לכל פעולה עדיפה</string>
     <string name="hint_setup_touch">אתה יכול להגדיר ברזים כפולים והחלפות באזורי מסך שונים לכל פעולה עדיפה</string>
     <string name="delay_before_acting">עיכוב לפני המשחק</string>
@@ -635,14 +635,14 @@
     <string name="acc_can_no_buy_premium">החשבון שלך לא יכול לרכוש פרימיום. עליך ליצור קשר עם האדם שנתן לך חשבון זה.</string>
     <string name="select_preset">בחר הגדרה מראש</string>
     <string name="use_cyclic_category_navigation">אפשר ניווט מחזורי בין קטגוריות</string>
-    <string name="ask_add_pwd_to_protect_data">?האם ברצונך להוסיף סיסמה כדי להגן על הנתונים</string>
+    <string name="ask_add_pwd_to_protect_data">האם ברצונך להוסיף סיסמה כדי להגן על הנתונים</string>
     <string name="use2click_mode_in_preview">התחל תצוגה מקדימה של סרטון רק לאחר לחיצה. לחיצה שנייה תתחיל הפעלת ערוץ במסך מלא.</string>
     <string name="clear_modifications">נקה את כל השינויים ושחזר את המצב המקורי</string>
     <string name="save_load_to_user_url">השתמש בשרת שסופק על ידי המשתמש לאחסון נתונים</string>
     <string name="action_complete">הפעולה הושלמה</string>
     <string name="use_always_if_possible">צריך להשתמש תמיד אם אפשר</string>
     <string name="try_pin_activation">האם ברצונך להשתמש בהפעלת NIP</string>
-    <string name="finger_controller">ווידג'\ט של בקרת אצבע</string>
+    <string name="finger_controller">ווידג\'ט של בקרת אצבע</string>
     <string name="fine_tune_text_for_fields">כוונן את צבע הטקסט עבור שדות מדויקים</string>
     <string name="field_name_of_tv_channel">שם של ערוץ טלוויזיה</string>
     <string name="field_name_of_tv_show">שם השידור הנוכחי</string>
@@ -651,7 +651,7 @@
     <string name="btn_ignore">להתעלם</string>
     <string name="use_vertical_view_on_phone">השתמש בתצוגה אנכית בטלפון</string>
     <string name="lock_immediately">נעל מיד</string>
-    <string name="genre">זָ'אנר</string>
+    <string name="genre">זָ\'אנר</string>
     <string name="cast">שחקנים</string>
     <string name="producer">ַיצָרן</string>
     <string name="retry">נסה שוב</string>
@@ -673,7 +673,7 @@
     <string name="copy_settings_to_this_profile">העתק את ההגדרות לפרופיל הנוכחי</string>
     <string name="via_qr_code">באמצעות קוד QR בטלפון שלך</string>
     <string name="can_not_be_edited">עריכת רכיב זה אסורה</string>
-    <string name="action_can_not_undo_continue">?לא ניתן לבטל את הפעולה הזו, האם ברצונך להמשיך</string>
+    <string name="action_can_not_undo_continue">לא ניתן לבטל את הפעולה הזו, האם ברצונך להמשיך</string>
     <string name="use_same_as_in_live">השתמש באותו ערך כמו עבור השידורים החיים</string>
     <string name="refresh_periodically">רענן מעת לעת</string>
     <string name="user_guide">מדריך למשתמש</string>
@@ -699,7 +699,7 @@
     <string name="reversed_direction">כיוון הפוך</string>
     <string name="remove_some_provider_categories">הסר כמה קטגוריות מנתוני הספק</string>
     <string name="rename_provider_categories">שנה שם קטגוריות מנתוני ספק</string>
-    <string name="use_deep_search">חיפוש עמוק (לפי שחקנים, מדינות וכו')</string>
+    <string name="use_deep_search">חיפוש עמוק (לפי שחקנים, מדינות וכו\')</string>
     <string name="row_1_view">תצוגה בשורה אחת</string>
     <string name="column_1_view">תצוגת עמודה בודדת</string>
     <string name="background_color">צבע רקע</string>
@@ -719,4 +719,7 @@
     <string name="device_type">סוג מכשיר</string>
     <string name="select_tags">בחר תגיות</string>
     <string name="watch_trailer">צפה בטריילר</string>
+<string name="change_priority">תופידע תונשל</string>
+    <string name="switch_to_another_series_episode">הרדס לש רחא קרפל רובע</string>
+    <string name="ensure_vpn_on_start">היצקילפאה תלחתהב רבוחמ תכרעמה ידי לע רדגומה VPN -ש חיטבהל הרומא היצקילפאה</string>
     </resources>

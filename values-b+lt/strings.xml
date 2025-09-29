@@ -768,4 +768,7 @@
     <string name="device_type">Įrenginio tipas</string>
     <string name="select_tags">Pasirinkite Žymos</string>
     <string name="watch_trailer">Žiūrėkite priekabą</string>
+    <string name="change_priority">Pakeisti prioritetą</string>
+    <string name="switch_to_another_series_episode">Perjunkite į kitą serijos epizodą</string>
+    <string name="ensure_vpn_on_start">Programa turėtų užtikrinti, kad sistemos sukonfigūruotas VPN būtų prijungtas programos pradžioje</string>
     </resources>

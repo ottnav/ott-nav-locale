@@ -717,4 +717,7 @@
     <string name="device_type">Typ zařízení</string>
     <string name="select_tags">Vyberte značky</string>
     <string name="watch_trailer">Sledujte přívěs</string>
+    <string name="change_priority">Změnit prioritu</string>
+    <string name="switch_to_another_series_episode">Přepněte do jiné epizody série</string>
+    <string name="ensure_vpn_on_start">Aplikace by měla zajistit, aby byl systém konfigurovaný systémem připojen na startu aplikace</string>
     </resources>

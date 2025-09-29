@@ -719,4 +719,7 @@
     <string name="device_type">Device type</string>
     <string name="select_tags">Select tags</string>
     <string name="watch_trailer">Watch trailer</string>
+    <string name="change_priority">Change priority</string>
+    <string name="switch_to_another_series_episode">Switch to another series episode</string>
+    <string name="ensure_vpn_on_start">App should ensure that system-configured VPN is connected on app start</string>
 </resources>

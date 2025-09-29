@@ -757,11 +757,14 @@
     <string name="input_next_letter_of_the_search">ﺚﺤﺒﻟﺍ ﻂﺧ ﻦﻣ ﻲﻟﺎﺘﻟﺍ ﻑﺮﺤﻟﺍ ﻝﺎﺧﺩﺇ</string>
     <string name="cat_sort_mode">ﺔﻄﺳﺍﻮﺑ ﺕﺎﺌﻔﻟﺍ ﺯﺮﻓ</string>
     <string name="only_works_if_suppored_by_provider">ﺩﻭﺰﻤﻟﺍ ﻞﺒﻗ ﻦﻣ ﺎﻣًﻮﻋﺪﻣ ﻥﺎﻛ ﺍﺫﺇ ﻂﻘﻓ ﻞﻤﻌﻳ</string>
-    <string name="show_preview_on_seek">ﻡﺎﻣﻷ﻿ﺍ ﻰﻟﺇ ﺔﻋﺮﺴﺑ ﻭﺃ ﻊﻴﺟﺮﺘﻟﺍ ءﺎﻨﺛﺃ ﺓﺭﻮﺼﻟﺍ ﺔﻨﻳﺎﻌﻣ ﺭﺎﻬﻇﺇ</string>
+    <string name="show_preview_on_seek">ﻡﺎﻣﻷﺍ ﻰﻟﺇ ﺔﻋﺮﺴﺑ ﻭﺃ ﻊﻴﺟﺮﺘﻟﺍ ءﺎﻨﺛﺃ ﺓﺭﻮﺼﻟﺍ ﺔﻨﻳﺎﻌﻣ ﺭﺎﻬﻇﺇ</string>
     <string name="auto_select_vtrack_by_resolution">ﺭﺍﺮﻘﻟﺍ ﻲﻓ ﻲﺋﺎﻘﻠﺘﻟﺍ ﻮﻳﺪﻴﻔﻟﺍ ﺭﺎﺴﻣ ﺭﺎﻴﺘﺧﺍ</string>
     <string name="blacklist_afr_modes">ﻲﺋﺎﻘﻠﺘﻟﺍ ﻞﻳﺪﺒﺘﻟﺍ ﻦﻣ ﻩﺬﻫ ﺔﺷﺎﺸﻟﺍ ﻉﺎﺿﻭﺃ ﺩﺎﻌﺒﺘﺳﺍ</string>
-    <string name="err_timeout">ﺐﻴﺠﺘﺴﻳ ﻻ﻿ ﺩﻭﺰﻤﻟﺍ ﺭﺪﺼﻣ</string>
+    <string name="err_timeout">ﺐﻴﺠﺘﺴﻳ ﻻ ﺩﻭﺰﻤﻟﺍ ﺭﺪﺼﻣ</string>
     <string name="device_type">ﺯﺎﻬﺠﻟﺍ ﻉﻮﻧ</string>
-    <string name="select_tags">ﺕﺎﻣﻼ﻿ﻌﻟﺍ ﺩﺪﺣ</string>
+    <string name="select_tags">ﺕﺎﻣﻼﻌﻟﺍ ﺩﺪﺣ</string>
     <string name="watch_trailer">ﺓﺭﻮﻄﻘﻤﻟﺍ ﺓﺪﻫﺎﺸﻣ</string>
+    <string name="change_priority">ﺔﻳﻮﻟﻭﻷﺍ ﺮﻴﻴﻐﺗ</string>
+    <string name="switch_to_another_series_episode">ﻯﺮﺧﺃ ﺔﻠﺴﻠﺳ ﺔﻘﻠﺣ ﻰﻟﺇ ﻞﻘﺘﻧﺍ</string>
+    <string name="ensure_vpn_on_start">ﻖﻴﺒﻄﺘﻟﺍ ءﺪﺑ ﺪﻨﻋ ﻡﺎﻈﻨﻟﺍ ﻦﻣ ﻥﻮﻜﻤﻟﺍ VPN ﻞﻴﺻﻮﺗ ﻦﻣ ﻖﻴﺒﻄﺘﻟﺍ ﺪﻛﺄﺘﻳ ﻥﺃ ﺐﺠﻳ</string>
     </resources>

@@ -718,4 +718,7 @@
     <string name="device_type">Gerätetyp</string>
     <string name="select_tags">Wählen Sie Tags aus</string>
     <string name="watch_trailer">Beobachten Sie Trailer</string>
+    <string name="change_priority">Priorität ändern</string>
+    <string name="switch_to_another_series_episode">Wechseln Sie zu einer anderen Serie -Episode</string>
+    <string name="ensure_vpn_on_start">Die App sollte sicherstellen, dass das systemkonfigurierte VPN beim App-Start angeschlossen ist</string>
     </resources>

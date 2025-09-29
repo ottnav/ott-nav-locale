@@ -757,4 +757,7 @@
     <string name="device_type">Тип уређаја</string>
     <string name="select_tags">Изаберите ознаке</string>
     <string name="watch_trailer">Приколица за гледање</string>
+    <string name="change_priority">Промените приоритет</string>
+    <string name="switch_to_another_series_episode">Пређите на епизоду друге серије</string>
+    <string name="ensure_vpn_on_start">Апликација треба да осигура да је систем конфигурисаног ВПН-а повезан на почетак апликације</string>
     </resources>

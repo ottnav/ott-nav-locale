@@ -756,4 +756,7 @@
     <string name="device_type">Loại thiết bị</string>
     <string name="select_tags">Chọn thẻ</string>
     <string name="watch_trailer">Xem trailer</string>
+    <string name="change_priority">Thay đổi mức độ ưu tiên</string>
+    <string name="switch_to_another_series_episode">Chuyển sang tập phim khác</string>
+    <string name="ensure_vpn_on_start">Ứng dụng phải đảm bảo rằng VPN được cấu hình hệ thống được kết nối khi bắt đầu ứng dụng</string>
     </resources>

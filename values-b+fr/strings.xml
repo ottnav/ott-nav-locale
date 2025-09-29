@@ -763,4 +763,7 @@
     <string name="device_type">Type d\'appareil</string>
     <string name="select_tags">Sélectionner les balises</string>
     <string name="watch_trailer">Remorque</string>
+    <string name="change_priority">Changer la priorité</string>
+    <string name="switch_to_another_series_episode">Passez à un autre épisode de la série</string>
+    <string name="ensure_vpn_on_start">L\'application doit s\'assurer que le VPN configuré par le système est connecté au démarrage de l\'application</string>
     </resources>

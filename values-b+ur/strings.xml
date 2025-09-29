@@ -265,7 +265,6 @@
     <string name="provider_field_pass">پاس ورڈ</string>
     <string name="provider_field_token">رسائی ٹوکن</string>
     <string name="provider_field_server">سرور</string>
-    <string name="provider_field_active">فعال</string>
     <string name="cfg_prov_categories_merge">مختلف فراہم کنندگان کے زمرے</string>
     <string name="cfg_prov_categories_merge_prepend">زمرے کے نام کے ساتھ فراہم کنندہ کا نام شامل کریں</string>
     <string name="cfg_prov_categories_merge_mix">اگر نام ملتے ہوں تو زمرے ضم کریں</string>
@@ -712,4 +711,15 @@
     <string name="activate_by_id_number">شناختی نمبر کے ذریعے فعال کریں</string>
     <string name="input_next_letter_of_the_search">تلاش کی لائن کا اگلا حرف درج کریں</string>
     <string name="cat_sort_mode">زمرہ جات کو ترتیب دیں</string>
-</resources>
+<string name="only_works_if_suppored_by_provider">ﮯﺋﺎﺟ ﯽﮐ ﺪﯿﺋﺎﺗ ﮧﻌﯾﺭﺫ ﮯﮐ ﮦﺪﻨﻨﮐ ﻢﮨﺍﺮﻓ ﺮﮔﺍ ﮯﮨ ﺎﺗﺮﮐ ﻡﺎﮐ ﮟﯿﻣ ﺕﺭﻮﺻ ﺱﺍ ﻑﺮﺻ</string>
+    <string name="show_preview_on_seek">ﮟﯿﺋﺎﮭﮐﺩ ﮦﺭﺎﻈﻧ ﺶﯿﭘ ﯼﺮﯾﻮﺼﺗ ﺖﻗﻭ ﮯﺗﺮﮐ ﮈﺭﻭﺭﺎﻓ ﭧﺳﺎﻓ ﺎﯾ ﮉﻨﺋﺍﻮﯾﺭ</string>
+    <string name="auto_select_vtrack_by_resolution">ﺏﺎﺨﺘﻧﺍ ﺎﮐ ﮏﯾﺮﭨ ﻮﯾﮉﯾﻭ ﮯﺳ ﮯﻘﯾﺮﻃ ﺭﺎﮐ ﺩﻮﺧ ﺮﭘ ﻦﺷﻮﻟﻭﺰﯾﺭ</string>
+    <string name="blacklist_afr_modes">ﮟﯾﺮﮐ ﺝﺭﺎﺧ ﮯﺳ ﭻﺋﻮﺳ ﻮﭨﺁ ﻮﮐ ﮞﻮﻘﯾﺮﻃ ﻦﯾﺮﮑﺳﺍ ﻥﺍ</string>
+    <string name="err_timeout">ﮯﮨ ﺎﺘﯾﺩ ﮟﯿﮩﻧ ﺏﺍﻮﺟ ﮧﻌﯾﺭﺫ ﺎﮐ ﮦﺪﻨﻨﮐ ﻢﮨﺍﺮﻓ</string>
+    <string name="device_type">ﻢﺴﻗ ﯽﮐ ﺲﺋﺍﻮﯾﮈ</string>
+    <string name="select_tags">ﮟﯾﺮﮐ ﺐﺨﺘﻨﻣ ﺰﮕﯿﭨ</string>
+    <string name="watch_trailer">ﮟﯿﮭﮑﯾﺩ ﺮﻠﯾﺮﭨ</string>
+    <string name="change_priority">ﮟﯾﺮﮐ ﻞﯾﺪﺒﺗ ﻮﮐ ﺢﯿﺟﺮﺗ</string>
+    <string name="switch_to_another_series_episode">ﮟﯾﺮﮐ ﭻﺋﻮﺳ ﺮﭘ ﮧﻌﻗﺍﻭ ﺭﻭﺍ ﮏﯾﺍ ﮯﮐ ﺰﯾﺮﯿﺳ</string>
+    <string name="ensure_vpn_on_start">ﮯﮨ ﮏﻠﺴﻨﻣ ﺮﭘ ﭦﺭﺎﭩﺳﺍ ﭗﯾﺍ ﻦﯾﺍ ﯽﭘ ﯼﻭ ﮏﻠﺴﻨﻣ ﮯﺳ ﻢﭩﺴﺳ ﮧﮐ ﮯﺌﮨﺎﭼ ﺎﻧﺎﻨﺑ ﯽﻨﯿﻘﯾ ﻮﮐ ﺕﺎﺑ ﺱﺍ ﻮﮐ ﯽﭘ ﯽﭘ ﮮﺍ</string>
+    </resources>

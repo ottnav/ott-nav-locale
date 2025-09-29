@@ -762,4 +762,7 @@
     <string name="device_type">Seadme tüüp</string>
     <string name="select_tags">Valige sildid</string>
     <string name="watch_trailer">Vaata treiler</string>
+    <string name="change_priority">Muutmise prioriteet</string>
+    <string name="switch_to_another_series_episode">Lülitage veel ühe sarja episoodi</string>
+    <string name="ensure_vpn_on_start">APP peaks tagama, et süsteemkonfigureeritud VPN on rakenduse käivitamisel ühendatud</string>
     </resources>

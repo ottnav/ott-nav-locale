@@ -718,4 +718,7 @@
     <string name="device_type">Type apparaat</string>
     <string name="select_tags">Selecteer tags</string>
     <string name="watch_trailer">Bekijk trailer</string>
+    <string name="change_priority">Verander prioriteit</string>
+    <string name="switch_to_another_series_episode">Schakel over naar een andere serie -aflevering</string>
+    <string name="ensure_vpn_on_start">APP moet ervoor zorgen dat System-geconfigureerde VPN is aangesloten op de app-start</string>
     </resources>

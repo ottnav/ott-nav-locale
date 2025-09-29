@@ -762,4 +762,7 @@
     <string name="device_type">ਜੰਤਰ ਕਿਸਮ</string>
     <string name="select_tags">ਟੈਗਸ ਚੁਣੋ</string>
     <string name="watch_trailer">ਟ੍ਰੇਲਰ ਵੇਖੋ</string>
+    <string name="change_priority">ਤਰਜੀਹ ਬਦਲੋ</string>
+    <string name="switch_to_another_series_episode">ਕਿਸੇ ਹੋਰ ਲੜੀ ਦੇ ਐਪੀਸੋਡ ਤੇ ਜਾਓ</string>
+    <string name="ensure_vpn_on_start">ਐਪ ਨੂੰ ਇਹ ਸੁਨਿਸ਼ਚਿਤ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਸਿਸਟਮ ਦੁਆਰਾ ਕਨਫਿਗਰ ਕੀਤੀ ਗਈ VPN ਐਪ ਦੀ ਸ਼ੁਰੂਆਤ ਤੇ ਜੁੜਿਆ ਹੈ</string>
     </resources>

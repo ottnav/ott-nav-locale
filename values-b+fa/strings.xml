@@ -764,4 +764,7 @@
     <string name="device_type">ﻩﺎﮕﺘﺳﺩ ﻉﻮﻧ</string>
     <string name="select_tags">ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺍﺭ ﺎﻫ ﺐﺴﭼﺮﺑ</string>
     <string name="watch_trailer">ﺪﯿﻨﮐ ﺎﺷﺎﻤﺗ ﺍﺭ ﺮﻠﯾﺮﺗ</string>
+    <string name="change_priority">ﺪﯿﻫﺩ ﺮﯿﯿﻐﺗ ﺍﺭ ﺖﯾﻮﻟﻭﺍ</string>
+    <string name="switch_to_another_series_episode">ﺪﯾﻭﺮﺑ ﯼﺮﮕﯾﺩ ﻝﺎﯾﺮﺳ ﺖﻤﺴﻗ ﻪﺑ</string>
+    <string name="ensure_vpn_on_start">ﺖﺳﺍ ﻩﺪﺷ ﻞﺼﺘﻣ ﻪﻣﺎﻧﺮﺑ ﻉﻭﺮﺷ ﺭﺩ ﻢﺘﺴﯿﺳ ﻢﯿﻈﻨﺗ ﺎﺑ VPN ﻪﮐ ﺪﻨﮐ ﻞﺻﺎﺣ ﻥﺎﻨﯿﻤﻃﺍ ﺪﯾﺎﺑ ﻪﻣﺎﻧﺮﺑ</string>
     </resources>

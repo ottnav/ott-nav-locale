@@ -718,4 +718,7 @@
     <string name="device_type">Vrsta naprave</string>
     <string name="select_tags">Izberite oznake</string>
     <string name="watch_trailer">Oglejte si napovednik</string>
+    <string name="change_priority">Spremeni prioriteto</string>
+    <string name="switch_to_another_series_episode">Preklopite na drugo epizodo serije</string>
+    <string name="ensure_vpn_on_start">Aplikacija bi morala zagotoviti, da je VPN, konfiguriran s sistemom, povezan na zagonu aplikacije</string>
     </resources>

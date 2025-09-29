@@ -718,4 +718,7 @@
     <string name="device_type">ประเภทอุปกรณ์</string>
     <string name="select_tags">เลือกแท็ก</string>
     <string name="watch_trailer">ดูรถเทรลเลอร์</string>
+    <string name="change_priority">เปลี่ยนลำดับความสำคัญ</string>
+    <string name="switch_to_another_series_episode">เปลี่ยนเป็นตอนอื่นซีรี่ส์</string>
+    <string name="ensure_vpn_on_start">แอพควรตรวจสอบให้แน่ใจว่า VPN ที่กำหนดค่าระบบนั้นเชื่อมต่อกันเมื่อเริ่มต้นแอป</string>
     </resources>

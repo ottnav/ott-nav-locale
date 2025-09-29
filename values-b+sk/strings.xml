@@ -718,4 +718,7 @@
     <string name="device_type">Typ zariadenia</string>
     <string name="select_tags">Vyberte značky</string>
     <string name="watch_trailer">Príves</string>
+    <string name="change_priority">Zmena priority</string>
+    <string name="switch_to_another_series_episode">Prepnite na ďalšiu epizódu série</string>
+    <string name="ensure_vpn_on_start">APP by mala zabezpečiť, aby bol systém VPN konfigurovaný systémom pripojený na spustení aplikácie</string>
     </resources>

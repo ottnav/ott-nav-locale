@@ -717,4 +717,7 @@
     <string name="device_type">Tip de dispozitiv</string>
     <string name="select_tags">Selectați etichete</string>
     <string name="watch_trailer">Urmăriți remorca</string>
+    <string name="change_priority">Schimbați prioritatea</string>
+    <string name="switch_to_another_series_episode">Treceți la un alt episod de serie</string>
+    <string name="ensure_vpn_on_start">Aplicația ar trebui să se asigure că VPN-ul configurat de sistem este conectat la pornirea aplicației</string>
     </resources>

@@ -763,4 +763,7 @@
     <string name="device_type">Tipo de dispositivo</string>
     <string name="select_tags">Selecione tags</string>
     <string name="watch_trailer">Assista ao trailer</string>
+    <string name="change_priority">Mudar prioridade</string>
+    <string name="switch_to_another_series_episode">Mude para outro episódio da série</string>
+    <string name="ensure_vpn_on_start">O aplicativo deve garantir que a VPN configurada pelo sistema esteja conectada no aplicativo Iniciar</string>
     </resources>

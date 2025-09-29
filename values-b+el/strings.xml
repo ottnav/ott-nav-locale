@@ -718,4 +718,7 @@
     <string name="device_type">Τύπος συσκευής</string>
     <string name="select_tags">Επιλέξτε ετικέτες</string>
     <string name="watch_trailer">Παρακολούθηση του ρυμουλκούμενου</string>
+    <string name="change_priority">Μεταβολή προτεραιότητας</string>
+    <string name="switch_to_another_series_episode">Μεταβείτε σε άλλο επεισόδιο σειράς</string>
+    <string name="ensure_vpn_on_start">Η εφαρμογή θα πρέπει να διασφαλίζει ότι το VPN που έχει ρυθμιστεί από το σύστημα είναι συνδεδεμένο στην App Start</string>
     </resources>

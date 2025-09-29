@@ -718,4 +718,7 @@
     <string name="device_type">Lloji i pajisjes</string>
     <string name="select_tags">Zgjidhni Etiketat</string>
     <string name="watch_trailer">Shikoni rimorkio</string>
+    <string name="change_priority">Ndryshoni përparësinë</string>
+    <string name="switch_to_another_series_episode">Kaloni në një episod tjetër të serisë</string>
+    <string name="ensure_vpn_on_start">APP duhet të sigurojë që VPN e konfiguruar nga sistemi të jetë e lidhur në fillimin e aplikacionit</string>
     </resources>

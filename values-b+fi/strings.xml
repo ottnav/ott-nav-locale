@@ -718,4 +718,7 @@
     <string name="device_type">Laitetyyppi</string>
     <string name="select_tags">Valitse tunnisteet</string>
     <string name="watch_trailer">Katso perävaunu</string>
+    <string name="change_priority">Muutosprioriteetti</string>
+    <string name="switch_to_another_series_episode">Vaihda toiseen sarjan jaksoon</string>
+    <string name="ensure_vpn_on_start">APP: n tulisi varmistaa, että järjestelmän määrittämä VPN on kytketty APP-käynnistyksen yhteydessä</string>
     </resources>

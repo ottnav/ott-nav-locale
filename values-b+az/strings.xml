@@ -718,4 +718,7 @@
     <string name="device_type">Cihaz növü</string>
     <string name="select_tags">Etiketləri seçin</string>
     <string name="watch_trailer">Trailerə baxın</string>
+    <string name="change_priority">Prioriteti dəyişdirmək</string>
+    <string name="switch_to_another_series_episode">Başqa bir seriya epizoduna keçin</string>
+    <string name="ensure_vpn_on_start">Tətbiq sistemin konfiqurasiyasının tətbiq başlanğıcında qoşulmasını təmin etməlidir</string>
     </resources>

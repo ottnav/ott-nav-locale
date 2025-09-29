@@ -717,4 +717,7 @@
     <string name="device_type">Eszköztípus</string>
     <string name="select_tags">Válassza ki a címkéket</string>
     <string name="watch_trailer">Órás pótkocsi</string>
+    <string name="change_priority">Változtassa meg a prioritást</string>
+    <string name="switch_to_another_series_episode">Váltás egy másik sorozat epizódjára</string>
+    <string name="ensure_vpn_on_start">Az alkalmazásnak gondoskodnia kell arról, hogy a rendszerrel konfigurált VPN csatlakozik az alkalmazás indításán</string>
     </resources>

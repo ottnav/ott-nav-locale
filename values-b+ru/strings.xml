@@ -756,4 +756,7 @@
     <string name="device_type">Тип устройства</string>
     <string name="select_tags">Выберите теги</string>
     <string name="watch_trailer">Смотреть трейлер</string>
+    <string name="change_priority">Изменить приоритет</string>
+    <string name="switch_to_another_series_episode">Переключиться на другой эпизод серии</string>
+    <string name="ensure_vpn_on_start">Приложение должно убедиться, что настроенный в системе VPN подключен при запуске приложения</string>
     </resources>

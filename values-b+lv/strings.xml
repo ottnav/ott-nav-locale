@@ -761,4 +761,7 @@
     <string name="device_type">Ierīces tips</string>
     <string name="select_tags">Atlasiet tagus</string>
     <string name="watch_trailer">Pulksteņa treileris</string>
+    <string name="change_priority">Mainīt prioritāti</string>
+    <string name="switch_to_another_series_episode">Pārslēdzieties uz citu sērijas epizodi</string>
+    <string name="ensure_vpn_on_start">Lietotnei jānodrošina, ka sistēmas konfigurēts VPN ir pievienots lietotnes startam</string>
     </resources>

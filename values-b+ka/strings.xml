@@ -718,4 +718,7 @@
     <string name="device_type">მოწყობილობის ტიპი</string>
     <string name="select_tags">აირჩიეთ ტეგები</string>
     <string name="watch_trailer">უყურეთ ტრეილერს</string>
+    <string name="change_priority">პრიორიტეტის შეცვლა</string>
+    <string name="switch_to_another_series_episode">გადადით სხვა სერიის ეპიზოდზე</string>
+    <string name="ensure_vpn_on_start">აპლიკაციამ უნდა უზრუნველყოს, რომ სისტემის კონფიგურირებული VPN უკავშირდება აპლიკაციის დაწყებას</string>
     </resources>

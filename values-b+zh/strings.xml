@@ -756,4 +756,7 @@
     <string name="device_type">设备类型</string>
     <string name="select_tags">选择标签</string>
     <string name="watch_trailer">观看预告片</string>
+    <string name="change_priority">更改优先级</string>
+    <string name="switch_to_another_series_episode">切换到另一个系列剧集</string>
+    <string name="ensure_vpn_on_start">应用程序应确保在应用程序开始时连接系统配置的VPN</string>
     </resources>

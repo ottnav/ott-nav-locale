@@ -764,4 +764,7 @@
     <string name="device_type">युक्ति प्रकार</string>
     <string name="select_tags">टैग का चयन करें</string>
     <string name="watch_trailer">ट्रेलर देखें</string>
+    <string name="change_priority">प्राथमिकता परिवर्तन</string>
+    <string name="switch_to_another_series_episode">एक अन्य श्रृंखला एपिसोड पर स्विच करें</string>
+    <string name="ensure_vpn_on_start">ऐप को यह सुनिश्चित करना चाहिए कि सिस्टम-कॉन्फ़िगर किया गया वीपीएन ऐप स्टार्ट पर जुड़ा हुआ है</string>
     </resources>
