@@ -692,7 +692,7 @@
     <string name="auto_delete_backup_after_restore">מחק נתוני גיבוי מיד לאחר השחזור (אפשר שחזור פעם אחת בלבד)</string>
     <string name="applies_to_category_of_item">חל רק על הקטגוריה של הפריט</string>
     <string name="applies_to_every_category">חל על כל קטגוריה, כל הרכיבים הצטרפו</string>
-    <string name="group_categories_by_country">אפשר קטגוריות מתקפלות, קיבוץ אותן לפי קטגוריה וירטואלית, יצוג מדינה</string>
+    <string name="group_categories_by_country">אפשר קטגוריות מתקפלות, איחוד קטגוריות לפי שם מדינה</string>
     <string name="with_lower_priority">בעדיפות נמוכה יותר</string>
     <string name="vod_folder_tv_show">תוכניות טלוויזיה</string>
     <string name="radio_stations">תחנות רדיו</string>
