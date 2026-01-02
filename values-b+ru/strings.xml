@@ -759,4 +759,13 @@
     <string name="change_priority">Изменить приоритет</string>
     <string name="switch_to_another_series_episode">Переключиться на другой эпизод серии</string>
     <string name="ensure_vpn_on_start">Приложение должно убедиться, что настроенный в системе VPN подключен при запуске приложения</string>
+    <string name="app_internal_storage">Внутреннее хранилище приложения</string>
+    <string name="load_from_downloads_folder">Загрузить из папки Загрузки</string>
+    <string name="browse_dirs_on_device">Просмотр каталогов на устройстве</string>
+    <string name="files_were_imported">Файлы были импортированы</string>
+    <string name="select_what_should_be_imported">Выберите, что следует импортировать</string>
+    <string name="show_country_flags">Показывать флаги стран</string>
+    <string name="no_network_connection">Нет подключения к сети</string>
+    <string name="cfg_set_content_restricted_code">Код доступа к контенту для взрослых (4 цифры)</string>
+    <string name="cfg_external_services">Интеграция внешних сервисов</string>
     </resources>

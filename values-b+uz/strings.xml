@@ -721,4 +721,13 @@
     <string name="change_priority">Ustuvorlikni o\'zgartiring</string>
     <string name="switch_to_another_series_episode">Boshqa bir seriya epizodiga o\'ting</string>
     <string name="ensure_vpn_on_start">Ilova dasturni ishga tushirish bilan sozlangan VPN tizimi ulanganligini ta\'minlashi kerak</string>
+    <string name="app_internal_storage">Ilova ichki saqlash</string>
+    <string name="load_from_downloads_folder">Yuklab olish papkasidan yuklash</string>
+    <string name="browse_dirs_on_device">Qurilmadagi kataloglarni ko\'rib chiqish</string>
+    <string name="files_were_imported">Fayllar import qilindi</string>
+    <string name="select_what_should_be_imported">Import qilinishi kerak bo\'lgan narsalarni tanlang</string>
+    <string name="show_country_flags">Mamlakat bayroqlarini ko\'rsatish</string>
+    <string name="no_network_connection">Tarmoqqa ulanish yo‘q</string>
+    <string name="cfg_set_content_restricted_code">Kattalar uchun kontentga kirish kodi (4 ta raqam)</string>
+    <string name="cfg_external_services">Tashqi xizmatlar integratsiyasi</string>
     </resources>

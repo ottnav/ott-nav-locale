@@ -769,4 +769,13 @@
     <string name="change_priority">우선 순위를 변경하십시오</string>
     <string name="switch_to_another_series_episode">다른 시리즈 에피소드로 전환하십시오</string>
     <string name="ensure_vpn_on_start">앱은 앱 시작시 시스템 구성 VPN이 연결되어 있는지 확인해야합니다.</string>
+    <string name="app_internal_storage">앱 내부 저장소</string>
+    <string name="load_from_downloads_folder">다운로드 폴더에서 로드</string>
+    <string name="browse_dirs_on_device">장치에서 디렉터리 찾아보기</string>
+    <string name="files_were_imported">파일을 가져왔습니다.</string>
+    <string name="select_what_should_be_imported">가져올 항목을 선택하세요.</string>
+    <string name="show_country_flags">국가 국기 표시</string>
+    <string name="no_network_connection">네트워크 연결 없음</string>
+    <string name="cfg_set_content_restricted_code">성인 콘텐츠 접속 코드(4자리)</string>
+    <string name="cfg_external_services">외부 서비스 통합</string>
     </resources>

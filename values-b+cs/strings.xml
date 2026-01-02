@@ -720,4 +720,13 @@
     <string name="change_priority">Změnit prioritu</string>
     <string name="switch_to_another_series_episode">Přepněte do jiné epizody série</string>
     <string name="ensure_vpn_on_start">Aplikace by měla zajistit, aby byl systém konfigurovaný systémem připojen na startu aplikace</string>
+    <string name="app_internal_storage">Interní úložiště aplikace</string>
+    <string name="load_from_downloads_folder">Načíst z složky Stahování</string>
+    <string name="browse_dirs_on_device">Procházet adresáře na zařízení</string>
+    <string name="files_were_imported">Soubory byly importovány</string>
+    <string name="select_what_should_be_imported">Vyberte, co by mělo být importováno</string>
+    <string name="show_country_flags">Zobrazit vlajky zemí</string>
+    <string name="no_network_connection">Žádné síťové připojení</string>
+    <string name="cfg_set_content_restricted_code">Přístupový kód pro obsah pro dospělé (4 číslice)</string>
+    <string name="cfg_external_services">Integrace externích služeb</string>
     </resources>

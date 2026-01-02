@@ -766,4 +766,13 @@
     <string name="change_priority">Perubahan keutamaan</string>
     <string name="switch_to_another_series_episode">Beralih ke episod siri lain</string>
     <string name="ensure_vpn_on_start">App harus memastikan bahawa VPN yang dikonfigurasi sistem disambungkan pada aplikasi Start</string>
+    <string name="app_internal_storage">Penyimpanan dalaman aplikasi</string>
+    <string name="load_from_downloads_folder">Muatkan dari folder muat turun</string>
+    <string name="browse_dirs_on_device">Layari direktori pada peranti</string>
+    <string name="files_were_imported">Fail telah diimport</string>
+    <string name="select_what_should_be_imported">Pilih Apa yang Harus Diimport</string>
+    <string name="show_country_flags">Tunjukkan bendera negara</string>
+    <string name="no_network_connection">Tiada sambungan rangkaian</string>
+    <string name="cfg_set_content_restricted_code">Kod akses untuk kandungan dewasa (4 angka)</string>
+    <string name="cfg_external_services">Penyepaduan perkhidmatan luar</string>
     </resources>

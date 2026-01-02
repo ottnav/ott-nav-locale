@@ -721,4 +721,13 @@
     <string name="change_priority">Zmena priority</string>
     <string name="switch_to_another_series_episode">Prepnite na ďalšiu epizódu série</string>
     <string name="ensure_vpn_on_start">APP by mala zabezpečiť, aby bol systém VPN konfigurovaný systémom pripojený na spustení aplikácie</string>
+    <string name="app_internal_storage">Interné úložisko aplikácie</string>
+    <string name="load_from_downloads_folder">Načítať z priečinka Stiahnuté súbory</string>
+    <string name="browse_dirs_on_device">Prehliadajte adresáre v zariadení</string>
+    <string name="files_were_imported">Súbory boli importované</string>
+    <string name="select_what_should_be_imported">Vyberte, čo sa má importovať</string>
+    <string name="show_country_flags">Zobraziť vlajky krajín</string>
+    <string name="no_network_connection">Žiadne sieťové pripojenie</string>
+    <string name="cfg_set_content_restricted_code">Prístupový kód pre obsah pre dospelých (4 číslice)</string>
+    <string name="cfg_external_services">Integrácia externých služieb</string>
     </resources>

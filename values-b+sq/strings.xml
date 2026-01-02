@@ -721,4 +721,13 @@
     <string name="change_priority">Ndryshoni përparësinë</string>
     <string name="switch_to_another_series_episode">Kaloni në një episod tjetër të serisë</string>
     <string name="ensure_vpn_on_start">APP duhet të sigurojë që VPN e konfiguruar nga sistemi të jetë e lidhur në fillimin e aplikacionit</string>
+    <string name="app_internal_storage">Hapësira e brendshme e aplikacionit</string>
+    <string name="load_from_downloads_folder">Ngarko nga dosja Shkarkime</string>
+    <string name="browse_dirs_on_device">Shfletoni drejtoritë në pajisje</string>
+    <string name="files_were_imported">Skedarët u importuan</string>
+    <string name="select_what_should_be_imported">Zgjidhni atë që duhet të importohet</string>
+    <string name="show_country_flags">Trego flamujt e vendit</string>
+    <string name="no_network_connection">Nuk ka lidhje rrjeti</string>
+    <string name="cfg_set_content_restricted_code">Kodi i qasjes për përmbajtjen për të rritur (4 shifra)</string>
+    <string name="cfg_external_services">Integrimi i shërbimeve të jashtme</string>
     </resources>

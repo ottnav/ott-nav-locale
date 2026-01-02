@@ -721,4 +721,13 @@
     <string name="change_priority">Cambiare priorità</string>
     <string name="switch_to_another_series_episode">Passa a un altro episodio della serie</string>
     <string name="ensure_vpn_on_start">L\'app dovrebbe garantire che la VPN configurata dal sistema sia connessa all\'inizio dell\'app</string>
+    <string name="app_internal_storage">Memoria interna dell\'app</string>
+    <string name="load_from_downloads_folder">Carica dalla cartella Download</string>
+    <string name="browse_dirs_on_device">Sfoglia le directory sul dispositivo</string>
+    <string name="files_were_imported">I file sono stati importati</string>
+    <string name="select_what_should_be_imported">Seleziona cosa dovrebbe essere importato</string>
+    <string name="show_country_flags">Mostra le bandiere dei paesi</string>
+    <string name="no_network_connection">Nessuna connessione di rete</string>
+    <string name="cfg_set_content_restricted_code">Codice di accesso ai contenuti per adulti (4 cifre)</string>
+    <string name="cfg_external_services">Integrazione di servizi esterni</string>
     </resources>

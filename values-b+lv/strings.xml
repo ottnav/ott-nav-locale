@@ -764,4 +764,13 @@
     <string name="change_priority">Mainīt prioritāti</string>
     <string name="switch_to_another_series_episode">Pārslēdzieties uz citu sērijas epizodi</string>
     <string name="ensure_vpn_on_start">Lietotnei jānodrošina, ka sistēmas konfigurēts VPN ir pievienots lietotnes startam</string>
+    <string name="app_internal_storage">Lietotnes iekšējā atmiņa</string>
+    <string name="load_from_downloads_folder">Ielādēt no mapes Lejupielādes</string>
+    <string name="browse_dirs_on_device">Pārlūkojiet ierīces katalogus</string>
+    <string name="files_were_imported">Faili tika importēti</string>
+    <string name="select_what_should_be_imported">Atlasiet, kas jāimportē</string>
+    <string name="show_country_flags">Rādīt valstu karogus</string>
+    <string name="no_network_connection">Nav tīkla savienojuma</string>
+    <string name="cfg_set_content_restricted_code">Piekļuves kods pieaugušajiem paredzētajam saturam (4 cipari)</string>
+    <string name="cfg_external_services">Ārējo pakalpojumu integrācija</string>
     </resources>

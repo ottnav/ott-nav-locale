@@ -721,4 +721,13 @@
     <string name="change_priority">Ubah prioritas</string>
     <string name="switch_to_another_series_episode">Beralih ke episode seri lain</string>
     <string name="ensure_vpn_on_start">Aplikasi harus memastikan bahwa VPN yang dikonfigurasi sistem terhubung pada start aplikasi</string>
+    <string name="app_internal_storage">Penyimpanan internal aplikasi</string>
+    <string name="load_from_downloads_folder">Muat dari folder Unduhan</string>
+    <string name="browse_dirs_on_device">Jelajahi direktori di perangkat</string>
+    <string name="files_were_imported">File telah diimpor</string>
+    <string name="select_what_should_be_imported">Pilih apa yang harus diimpor</string>
+    <string name="show_country_flags">Tunjukkan bendera negara</string>
+    <string name="no_network_connection">Tidak ada koneksi jaringan</string>
+    <string name="cfg_set_content_restricted_code">Kode akses konten dewasa (4 digit)</string>
+    <string name="cfg_external_services">Integrasi layanan eksternal</string>
     </resources>

@@ -771,4 +771,13 @@
     <string name="change_priority">Pakeisti prioritetą</string>
     <string name="switch_to_another_series_episode">Perjunkite į kitą serijos epizodą</string>
     <string name="ensure_vpn_on_start">Programa turėtų užtikrinti, kad sistemos sukonfigūruotas VPN būtų prijungtas programos pradžioje</string>
+    <string name="app_internal_storage">Programos vidinė atmintis</string>
+    <string name="load_from_downloads_folder">Įkelti iš atsisiuntimų aplanko</string>
+    <string name="browse_dirs_on_device">Naršykite įrenginio katalogus</string>
+    <string name="files_were_imported">Failai buvo importuoti</string>
+    <string name="select_what_should_be_imported">Pasirinkite, ką reikia importuoti</string>
+    <string name="show_country_flags">Rodyti šalies vėliavas</string>
+    <string name="no_network_connection">Nėra tinklo ryšio</string>
+    <string name="cfg_set_content_restricted_code">Suaugusiesiems skirto turinio prieigos kodas (4 skaitmenys)</string>
+    <string name="cfg_external_services">Išorinių paslaugų integravimas</string>
     </resources>

@@ -760,4 +760,13 @@
     <string name="change_priority">Промените приоритет</string>
     <string name="switch_to_another_series_episode">Пређите на епизоду друге серије</string>
     <string name="ensure_vpn_on_start">Апликација треба да осигура да је систем конфигурисаног ВПН-а повезан на почетак апликације</string>
+    <string name="app_internal_storage">Интерна меморија апликације</string>
+    <string name="load_from_downloads_folder">Учитајте из фолдера Преузимања</string>
+    <string name="browse_dirs_on_device">Прегледајте директоријуме на уређају</string>
+    <string name="files_were_imported">Датотеке су увезене</string>
+    <string name="select_what_should_be_imported">Изаберите шта треба да се увезе</string>
+    <string name="show_country_flags">Покажите заставе земаља</string>
+    <string name="no_network_connection">Нема мрежне везе</string>
+    <string name="cfg_set_content_restricted_code">Приступни код за садржај за одрасле (4 цифре)</string>
+    <string name="cfg_external_services">Интеграција екстерних услуга</string>
     </resources>

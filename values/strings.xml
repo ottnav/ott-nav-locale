@@ -722,4 +722,13 @@
     <string name="change_priority">Change priority</string>
     <string name="switch_to_another_series_episode">Switch to another series episode</string>
     <string name="ensure_vpn_on_start">App should ensure that system-configured VPN is connected on app start</string>
+    <string name="app_internal_storage">App internal storage</string>
+    <string name="load_from_downloads_folder">Load from Downloads folder</string>
+    <string name="browse_dirs_on_device">Browse directories on device</string>
+    <string name="files_were_imported">Files were imported</string>
+    <string name="select_what_should_be_imported">Select what should be imported</string>
+    <string name="show_country_flags">Show country flags</string>
+    <string name="no_network_connection">No network connection</string>
+    <string name="cfg_set_content_restricted_code">Access code for adult content (4 digits)</string>
+    <string name="cfg_external_services">External services integration</string>
 </resources>

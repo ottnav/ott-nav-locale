@@ -721,4 +721,13 @@
     <string name="change_priority">Prioriteti dəyişdirmək</string>
     <string name="switch_to_another_series_episode">Başqa bir seriya epizoduna keçin</string>
     <string name="ensure_vpn_on_start">Tətbiq sistemin konfiqurasiyasının tətbiq başlanğıcında qoşulmasını təmin etməlidir</string>
+    <string name="app_internal_storage">Tətbiq daxili saxlama</string>
+    <string name="load_from_downloads_folder">Yükləmə qovluğundan yükləyin</string>
+    <string name="browse_dirs_on_device">Cihazdakı qovluqlara baxın</string>
+    <string name="files_were_imported">Fayllar idxal edildi</string>
+    <string name="select_what_should_be_imported">İdxal edilməli olanı seçin</string>
+    <string name="show_country_flags">Ölkə bayraqlarını göstərin</string>
+    <string name="no_network_connection">Şəbəkə bağlantısı yoxdur</string>
+    <string name="cfg_set_content_restricted_code">Yetkinlər üçün məzmun üçün giriş kodu (4 rəqəmli)</string>
+    <string name="cfg_external_services">Xarici xidmətlərin inteqrasiyası</string>
     </resources>

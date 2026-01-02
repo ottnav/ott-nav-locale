@@ -765,4 +765,13 @@
     <string name="change_priority">Muutmise prioriteet</string>
     <string name="switch_to_another_series_episode">Lülitage veel ühe sarja episoodi</string>
     <string name="ensure_vpn_on_start">APP peaks tagama, et süsteemkonfigureeritud VPN on rakenduse käivitamisel ühendatud</string>
+    <string name="app_internal_storage">Rakenduse sisemälu</string>
+    <string name="load_from_downloads_folder">Laadige allalaadimiste kaustast</string>
+    <string name="browse_dirs_on_device">Sirvige seadmes olevaid katalooge</string>
+    <string name="files_were_imported">Failid imporditi</string>
+    <string name="select_what_should_be_imported">Valige, mida tuleks importida</string>
+    <string name="show_country_flags">Näita riigilippe</string>
+    <string name="no_network_connection">Võrguühendus puudub</string>
+    <string name="cfg_set_content_restricted_code">Täiskasvanutele mõeldud sisu juurdepääsukood (4 numbrit)</string>
+    <string name="cfg_external_services">Väliste teenuste integreerimine</string>
     </resources>

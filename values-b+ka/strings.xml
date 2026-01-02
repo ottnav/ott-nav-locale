@@ -721,4 +721,13 @@
     <string name="change_priority">პრიორიტეტის შეცვლა</string>
     <string name="switch_to_another_series_episode">გადადით სხვა სერიის ეპიზოდზე</string>
     <string name="ensure_vpn_on_start">აპლიკაციამ უნდა უზრუნველყოს, რომ სისტემის კონფიგურირებული VPN უკავშირდება აპლიკაციის დაწყებას</string>
+    <string name="app_internal_storage">აპის შიდა მეხსიერება</string>
+    <string name="load_from_downloads_folder">ჩატვირთეთ ჩამოტვირთვების საქაღალდიდან</string>
+    <string name="browse_dirs_on_device">დაათვალიერეთ დირექტორიები მოწყობილობაზე</string>
+    <string name="files_were_imported">მოხდა ფაილების იმპორტი</string>
+    <string name="select_what_should_be_imported">აირჩიეთ რა უნდა იყოს იმპორტირებული</string>
+    <string name="show_country_flags">ქვეყნის დროშების ჩვენება</string>
+    <string name="no_network_connection">ქსელის კავშირი არ არის</string>
+    <string name="cfg_set_content_restricted_code">წვდომის კოდი ზრდასრულთა შინაარსისთვის (4 ციფრი)</string>
+    <string name="cfg_external_services">გარე სერვისების ინტეგრაცია</string>
     </resources>

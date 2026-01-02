@@ -759,4 +759,13 @@
     <string name="change_priority">Змінити пріоритет</string>
     <string name="switch_to_another_series_episode">Перейдіть на інший епізод серії</string>
     <string name="ensure_vpn_on_start">Додаток повинен забезпечити підключення VPN-конфігурації системи на запуску додатка</string>
+    <string name="app_internal_storage">Внутрішнє сховище додатка</string>
+    <string name="load_from_downloads_folder">Завантажити з папки Завантаження</string>
+    <string name="browse_dirs_on_device">Перегляд каталогів на пристрої</string>
+    <string name="files_were_imported">Файли були імпортовані</string>
+    <string name="select_what_should_be_imported">Виберіть що потрібно імпортувати</string>
+    <string name="show_country_flags">Покажіть прапори країни</string>
+    <string name="no_network_connection">Немає підключення до мережі</string>
+    <string name="cfg_set_content_restricted_code">Код доступу до контенту для дорослих (4 цифри)</string>
+    <string name="cfg_external_services">Інтеграція зовнішніх сервісів</string>
     </resources>

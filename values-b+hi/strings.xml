@@ -767,4 +767,13 @@
     <string name="change_priority">प्राथमिकता परिवर्तन</string>
     <string name="switch_to_another_series_episode">एक अन्य श्रृंखला एपिसोड पर स्विच करें</string>
     <string name="ensure_vpn_on_start">ऐप को यह सुनिश्चित करना चाहिए कि सिस्टम-कॉन्फ़िगर किया गया वीपीएन ऐप स्टार्ट पर जुड़ा हुआ है</string>
+    <string name="app_internal_storage">ऐप आंतरिक भंडारण</string>
+    <string name="load_from_downloads_folder">डाउनलोड फ़ोल्डर से लोड करें</string>
+    <string name="browse_dirs_on_device">डिवाइस पर निर्देशिका ब्राउज़ करें</string>
+    <string name="files_were_imported">फ़ाइलें आयात की गईं</string>
+    <string name="select_what_should_be_imported">चुनें कि क्या आयात किया जाना चाहिए</string>
+    <string name="show_country_flags">देश के झंडे दिखाओ</string>
+    <string name="no_network_connection">कोई नेटवर्क कनेक्शन नहीं है</string>
+    <string name="cfg_set_content_restricted_code">वयस्क सामग्री के लिए एक्सेस कोड (4 अंक)</string>
+    <string name="cfg_external_services">बाह्य सेवा एकीकरण</string>
     </resources>

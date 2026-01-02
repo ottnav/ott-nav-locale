@@ -765,4 +765,13 @@
     <string name="change_priority">ਤਰਜੀਹ ਬਦਲੋ</string>
     <string name="switch_to_another_series_episode">ਕਿਸੇ ਹੋਰ ਲੜੀ ਦੇ ਐਪੀਸੋਡ ਤੇ ਜਾਓ</string>
     <string name="ensure_vpn_on_start">ਐਪ ਨੂੰ ਇਹ ਸੁਨਿਸ਼ਚਿਤ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਸਿਸਟਮ ਦੁਆਰਾ ਕਨਫਿਗਰ ਕੀਤੀ ਗਈ VPN ਐਪ ਦੀ ਸ਼ੁਰੂਆਤ ਤੇ ਜੁੜਿਆ ਹੈ</string>
+    <string name="app_internal_storage">ਐਪ ਅੰਦਰੂਨੀ ਸਟੋਰੇਜ</string>
+    <string name="load_from_downloads_folder">ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਤੋਂ ਲੋਡ ਕਰੋ</string>
+    <string name="browse_dirs_on_device">ਡਿਵਾਈਸ \'ਤੇ ਡਾਇਰੈਕਟਰੀਆਂ ਬ੍ਰਾਊਜ਼ ਕਰੋ</string>
+    <string name="files_were_imported">ਫਾਈਲਾਂ ਆਯਾਤ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ</string>
+    <string name="select_what_should_be_imported">ਚੁਣੋ ਕਿ ਕੀ ਆਯਾਤ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ</string>
+    <string name="show_country_flags">ਦੇਸ਼ ਦੇ ਝੰਡੇ ਦਿਖਾਓ</string>
+    <string name="no_network_connection">ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ</string>
+    <string name="cfg_set_content_restricted_code">ਬਾਲਗ ਸਮੱਗਰੀ ਲਈ ਪਹੁੰਚ ਕੋਡ (4 ਅੰਕ)</string>
+    <string name="cfg_external_services">ਬਾਹਰੀ ਸੇਵਾਵਾਂ ਦਾ ਏਕੀਕਰਣ</string>
     </resources>

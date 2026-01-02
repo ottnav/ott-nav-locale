@@ -720,4 +720,13 @@
     <string name="change_priority">Változtassa meg a prioritást</string>
     <string name="switch_to_another_series_episode">Váltás egy másik sorozat epizódjára</string>
     <string name="ensure_vpn_on_start">Az alkalmazásnak gondoskodnia kell arról, hogy a rendszerrel konfigurált VPN csatlakozik az alkalmazás indításán</string>
+    <string name="app_internal_storage">Alkalmazás belső tárhelye</string>
+    <string name="load_from_downloads_folder">Betöltés a Letöltések mappából</string>
+    <string name="browse_dirs_on_device">Tallózás az eszközön lévő könyvtárak között</string>
+    <string name="files_were_imported">A fájlok importálva lettek</string>
+    <string name="select_what_should_be_imported">Válassza ki, hogy mit szeretne importálni</string>
+    <string name="show_country_flags">Országzászló megjelenítése</string>
+    <string name="no_network_connection">Nincs hálózati kapcsolat</string>
+    <string name="cfg_set_content_restricted_code">Hozzáférési kód felnőtt tartalomhoz (4 számjegy)</string>
+    <string name="cfg_external_services">Külső szolgáltatások integrációja</string>
     </resources>

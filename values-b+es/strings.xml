@@ -722,4 +722,13 @@
     <string name="change_priority">Prioridad de cambio</string>
     <string name="switch_to_another_series_episode">Cambiar a otro episodio de la serie</string>
     <string name="ensure_vpn_on_start">La aplicación debe asegurarse de que la VPN configurada por el sistema esté conectada en la aplicación inicial</string>
+    <string name="app_internal_storage">Almacenamiento interno de la aplicación</string>
+    <string name="load_from_downloads_folder">Cargar desde la carpeta de Descargas</string>
+    <string name="browse_dirs_on_device">Explorar directorios en el dispositivo</string>
+    <string name="files_were_imported">Los archivos fueron importados</string>
+    <string name="select_what_should_be_imported">Seleccionar qué debe importarse</string>
+    <string name="show_country_flags">Mostrar banderas de países</string>
+    <string name="no_network_connection">Sin conexión de red</string>
+    <string name="cfg_set_content_restricted_code">Código de acceso a contenido para adultos (4 dígitos)</string>
+    <string name="cfg_external_services">Integración de servicios externos</string>
     </resources>

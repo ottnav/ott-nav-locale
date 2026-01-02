@@ -721,4 +721,13 @@
     <string name="change_priority">Μεταβολή προτεραιότητας</string>
     <string name="switch_to_another_series_episode">Μεταβείτε σε άλλο επεισόδιο σειράς</string>
     <string name="ensure_vpn_on_start">Η εφαρμογή θα πρέπει να διασφαλίζει ότι το VPN που έχει ρυθμιστεί από το σύστημα είναι συνδεδεμένο στην App Start</string>
+    <string name="app_internal_storage">Εσωτερικός χώρος αποθήκευσης εφαρμογής</string>
+    <string name="load_from_downloads_folder">Φόρτωση από το φάκελο "Λήψεις".</string>
+    <string name="browse_dirs_on_device">Περιήγηση καταλόγων στη συσκευή</string>
+    <string name="files_were_imported">Τα αρχεία εισήχθησαν</string>
+    <string name="select_what_should_be_imported">Επιλέξτε τι πρέπει να εισαχθεί</string>
+    <string name="show_country_flags">Εμφάνιση σημαιών χωρών</string>
+    <string name="no_network_connection">Δεν υπάρχει σύνδεση δικτύου</string>
+    <string name="cfg_set_content_restricted_code">Κωδικός πρόσβασης για περιεχόμενο για ενηλίκους (4 ψηφία)</string>
+    <string name="cfg_external_services">Ενοποίηση εξωτερικών υπηρεσιών</string>
     </resources>

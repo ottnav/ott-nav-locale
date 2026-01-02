@@ -721,4 +721,13 @@
     <string name="change_priority">Verander prioriteit</string>
     <string name="switch_to_another_series_episode">Schakel over naar een andere serie -aflevering</string>
     <string name="ensure_vpn_on_start">APP moet ervoor zorgen dat System-geconfigureerde VPN is aangesloten op de app-start</string>
+    <string name="app_internal_storage">Interne opslag van app</string>
+    <string name="load_from_downloads_folder">Laden vanuit de map Downloads</string>
+    <string name="browse_dirs_on_device">Blader door mappen op het apparaat</string>
+    <string name="files_were_imported">Bestanden zijn geïmporteerd</string>
+    <string name="select_what_should_be_imported">Selecteer wat er geïmporteerd moet worden</string>
+    <string name="show_country_flags">Toon vlaggen van landen</string>
+    <string name="no_network_connection">Geen netwerkverbinding</string>
+    <string name="cfg_set_content_restricted_code">Toegangscode voor inhoud voor volwassenen (4 cijfers)</string>
+    <string name="cfg_external_services">Integratie van externe diensten</string>
     </resources>

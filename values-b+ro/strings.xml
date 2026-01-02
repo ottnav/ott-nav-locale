@@ -720,4 +720,13 @@
     <string name="change_priority">Schimbați prioritatea</string>
     <string name="switch_to_another_series_episode">Treceți la un alt episod de serie</string>
     <string name="ensure_vpn_on_start">Aplicația ar trebui să se asigure că VPN-ul configurat de sistem este conectat la pornirea aplicației</string>
+    <string name="app_internal_storage">Stocare internă a aplicației</string>
+    <string name="load_from_downloads_folder">Încărcați din folderul Descărcări</string>
+    <string name="browse_dirs_on_device">Răsfoiți directoarele de pe dispozitiv</string>
+    <string name="files_were_imported">Fișierele au fost importate</string>
+    <string name="select_what_should_be_imported">Selectați ceea ce ar trebui importat</string>
+    <string name="show_country_flags">Afișați steaguri de țară</string>
+    <string name="no_network_connection">Fără conexiune la rețea</string>
+    <string name="cfg_set_content_restricted_code">Cod de acces pentru conținut pentru adulți (4 cifre)</string>
+    <string name="cfg_external_services">Integrarea serviciilor externe</string>
     </resources>

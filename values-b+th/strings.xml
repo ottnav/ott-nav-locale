@@ -721,4 +721,13 @@
     <string name="change_priority">เปลี่ยนลำดับความสำคัญ</string>
     <string name="switch_to_another_series_episode">เปลี่ยนเป็นตอนอื่นซีรี่ส์</string>
     <string name="ensure_vpn_on_start">แอพควรตรวจสอบให้แน่ใจว่า VPN ที่กำหนดค่าระบบนั้นเชื่อมต่อกันเมื่อเริ่มต้นแอป</string>
+    <string name="app_internal_storage">ที่เก็บข้อมูลภายในของแอป</string>
+    <string name="load_from_downloads_folder">โหลดจากโฟลเดอร์ดาวน์โหลด</string>
+    <string name="browse_dirs_on_device">เรียกดูไดเรกทอรีบนอุปกรณ์</string>
+    <string name="files_were_imported">ไฟล์ถูกนำเข้า</string>
+    <string name="select_what_should_be_imported">เลือกสิ่งที่ควรนำเข้า</string>
+    <string name="show_country_flags">แสดงธงชาติของประเทศ</string>
+    <string name="no_network_connection">ไม่มีการเชื่อมต่อเครือข่าย</string>
+    <string name="cfg_set_content_restricted_code">รหัสการเข้าถึงเนื้อหาสำหรับผู้ใหญ่ (4 หลัก)</string>
+    <string name="cfg_external_services">การรวมบริการภายนอก</string>
     </resources>

@@ -767,4 +767,13 @@
     <string name="change_priority">ﺪﯿﻫﺩ ﺮﯿﯿﻐﺗ ﺍﺭ ﺖﯾﻮﻟﻭﺍ</string>
     <string name="switch_to_another_series_episode">ﺪﯾﻭﺮﺑ ﯼﺮﮕﯾﺩ ﻝﺎﯾﺮﺳ ﺖﻤﺴﻗ ﻪﺑ</string>
     <string name="ensure_vpn_on_start">ﺖﺳﺍ ﻩﺪﺷ ﻞﺼﺘﻣ ﻪﻣﺎﻧﺮﺑ ﻉﻭﺮﺷ ﺭﺩ ﻢﺘﺴﯿﺳ ﻢﯿﻈﻨﺗ ﺎﺑ VPN ﻪﮐ ﺪﻨﮐ ﻞﺻﺎﺣ ﻥﺎﻨﯿﻤﻃﺍ ﺪﯾﺎﺑ ﻪﻣﺎﻧﺮﺑ</string>
+    <string name="app_internal_storage">ﻪﻣﺎﻧﺮﺑ ﯽﻠﺧﺍﺩ ﻪﻈﻓﺎﺣ</string>
+    <string name="load_from_downloads_folder">ﺪﯿﻨﮐ ﯼﺮﯿﮔﺭﺎﺑ Downloads ﻪﺷﻮﭘ ﺯﺍ</string>
+    <string name="browse_dirs_on_device">ﺪﯿﻨﮐ ﺭﻭﺮﻣ ﻩﺎﮕﺘﺳﺩ ﺭﺩ ﺍﺭ ﺎﻫ ﺖﺳﺮﻬﻓ</string>
+    <string name="files_were_imported">ﺪﻧﺪﺷ ﺩﺭﺍﻭ ﺎﻫ ﻞﯾﺎﻓ</string>
+    <string name="select_what_should_be_imported">ﺪﯿﻨﮐ ﺏﺎﺨﺘﻧﺍ ﺍﺭ ﺩﻮﺷ ﺩﺭﺍﻭ ﺪﯾﺎﺑ ﻪﭽﻧﺁ</string>
+    <string name="show_country_flags">ﺭﻮﺸﮐ ﯼﺎﻫ ﻢﭼﺮﭘ ﺶﯾﺎﻤﻧ</string>
+    <string name="no_network_connection">ﻪﮑﺒﺷ ﻪﺑ ﻝﺎﺼﺗﺍ ﻥﻭﺪﺑ</string>
+    <string name="cfg_set_content_restricted_code">(ﯽﻤﻗﺭ 4) ﻥﻻ﻿ﺎﺴﮔﺭﺰﺑ ﯼﺍﻮﺘﺤﻣ ﯼﺍﺮﺑ ﯽﺳﺮﺘﺳﺩ ﺪﮐ</string>
+    <string name="cfg_external_services">ﯽﺟﺭﺎﺧ ﺕﺎﻣﺪﺧ ﯼﺯﺎﺳ ﻪﭼﺭﺎﭙﮑﯾ</string>
     </resources>

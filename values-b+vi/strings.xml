@@ -759,4 +759,13 @@
     <string name="change_priority">Thay đổi mức độ ưu tiên</string>
     <string name="switch_to_another_series_episode">Chuyển sang tập phim khác</string>
     <string name="ensure_vpn_on_start">Ứng dụng phải đảm bảo rằng VPN được cấu hình hệ thống được kết nối khi bắt đầu ứng dụng</string>
+    <string name="app_internal_storage">Bộ nhớ trong của ứng dụng</string>
+    <string name="load_from_downloads_folder">Tải từ thư mục Tải xuống</string>
+    <string name="browse_dirs_on_device">Duyệt thư mục trên thiết bị</string>
+    <string name="files_were_imported">Các tập tin đã được nhập</string>
+    <string name="select_what_should_be_imported">Chọn những gì sẽ được nhập</string>
+    <string name="show_country_flags">Hiển thị cờ quốc gia</string>
+    <string name="no_network_connection">Không có kết nối mạng</string>
+    <string name="cfg_set_content_restricted_code">Mã truy cập nội dung người lớn (4 chữ số)</string>
+    <string name="cfg_external_services">Tích hợp dịch vụ bên ngoài</string>
     </resources>

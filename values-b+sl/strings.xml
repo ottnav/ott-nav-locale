@@ -721,4 +721,13 @@
     <string name="change_priority">Spremeni prioriteto</string>
     <string name="switch_to_another_series_episode">Preklopite na drugo epizodo serije</string>
     <string name="ensure_vpn_on_start">Aplikacija bi morala zagotoviti, da je VPN, konfiguriran s sistemom, povezan na zagonu aplikacije</string>
+    <string name="app_internal_storage">Notranji pomnilnik aplikacije</string>
+    <string name="load_from_downloads_folder">Naloži iz mape Prenosi</string>
+    <string name="browse_dirs_on_device">Brskajte po imenikih v napravi</string>
+    <string name="files_were_imported">Datoteke so bile uvožene</string>
+    <string name="select_what_should_be_imported">Izberite, kaj želite uvoziti</string>
+    <string name="show_country_flags">Pokaži zastave držav</string>
+    <string name="no_network_connection">Ni omrežne povezave</string>
+    <string name="cfg_set_content_restricted_code">Koda za dostop do vsebin za odrasle (4 številke)</string>
+    <string name="cfg_external_services">Integracija zunanjih storitev</string>
     </resources>

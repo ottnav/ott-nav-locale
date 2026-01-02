@@ -721,4 +721,13 @@
     <string name="change_priority">優先順位を変更します</string>
     <string name="switch_to_another_series_episode">別のシリーズエピソードに切り替えます</string>
     <string name="ensure_vpn_on_start">アプリは、システムが構成されたVPNがアプリのスタートで接続されていることを確認する必要があります</string>
+    <string name="app_internal_storage">アプリの内部ストレージ</string>
+    <string name="load_from_downloads_folder">ダウンロードフォルダーからロード</string>
+    <string name="browse_dirs_on_device">デバイス上のディレクトリを参照する</string>
+    <string name="files_were_imported">ファイルがインポートされました</string>
+    <string name="select_what_should_be_imported">インポートするものを選択してください</string>
+    <string name="show_country_flags">国旗を表示する</string>
+    <string name="no_network_connection">ネットワーク接続がありません</string>
+    <string name="cfg_set_content_restricted_code">アダルトコンテンツのアクセスコード（4桁）</string>
+    <string name="cfg_external_services">外部サービスの統合</string>
     </resources>

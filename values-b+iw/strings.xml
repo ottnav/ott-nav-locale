@@ -65,7 +65,6 @@
     <string name="player_menu_pip_on_details">צא ממצב תמונה בתמונה</string>
     <string name="player_menu_pip_swap_details">להחליף ערוץ הראשי ו- PiP אחד</string>
     <string name="player_menu_last_channel">ערוץ אחרון</string>
-
     <string name="settings_player_pip_codec">בחירת תמונה של רכיבי Codec בתוך תמונה</string>
     <string name="settings_player_pip_position_tl">שמאלי עליון</string>
     <string name="settings_player_pip_position_tr">למעלה מימין</string>
@@ -719,7 +718,16 @@
     <string name="device_type">סוג מכשיר</string>
     <string name="select_tags">בחר תגיות</string>
     <string name="watch_trailer">צפה בטריילר</string>
-<string name="change_priority">לשנות עדיפות</string>
+    <string name="change_priority">לשנות עדיפות</string>
     <string name="switch_to_another_series_episode">עבור לפרק אחר של הסדרה</string>
     <string name="ensure_vpn_on_start">האפליקציה אמורה להבטיח שה- VPN המוגדר על ידי המערכת מחובר בהתחלת האפליקציה</string>
+    <string name="app_internal_storage">היצקילפאה לש ימינפ ןוסחא</string>
+    <string name="load_from_downloads_folder">תודרוהה תייקיתמ ןעט</string>
+    <string name="browse_dirs_on_device">רישכמב תוירפסב ןייע</string>
+    <string name="files_were_imported">ואבוי םיצבק</string>
+    <string name="select_what_should_be_imported">אבייל שי המ רחב</string>
+    <string name="show_country_flags">הנידמ ילגד גצה</string>
+    <string name="no_network_connection">תשרל רוביח ןיא</string>
+    <string name="cfg_set_content_restricted_code">(תורפס 4) םירגובמל ןכותל השיג דוק</string>
+    <string name="cfg_external_services">םיינוציח םיתוריש בוליש</string>
     </resources>

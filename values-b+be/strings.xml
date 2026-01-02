@@ -760,4 +760,13 @@
     <string name="change_priority">Змяніць прыярытэт</string>
     <string name="switch_to_another_series_episode">Пераключыцеся на іншы эпізод серыі</string>
     <string name="ensure_vpn_on_start">Дадатак павінен пераканацца, што ў сістэме, наладжанага VPN, падключана да запуску прыкладання</string>
+    <string name="app_internal_storage">Унутраная памяць праграмы</string>
+    <string name="load_from_downloads_folder">Загрузіць з папкі "Спампоўкі".</string>
+    <string name="browse_dirs_on_device">Прагляд каталогаў на прыладзе</string>
+    <string name="files_were_imported">Файлы былі імпартаваныя</string>
+    <string name="select_what_should_be_imported">Выберыце, што трэба імпартаваць</string>
+    <string name="show_country_flags">Паказаць сцягі краіны</string>
+    <string name="no_network_connection">Няма падключэння да сеткі</string>
+    <string name="cfg_set_content_restricted_code">Код доступу да кантэнту для дарослых (4 лічбы)</string>
+    <string name="cfg_external_services">Інтэграцыя знешніх службаў</string>
     </resources>

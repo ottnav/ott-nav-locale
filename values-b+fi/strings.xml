@@ -721,4 +721,13 @@
     <string name="change_priority">Muutosprioriteetti</string>
     <string name="switch_to_another_series_episode">Vaihda toiseen sarjan jaksoon</string>
     <string name="ensure_vpn_on_start">APP: n tulisi varmistaa, että järjestelmän määrittämä VPN on kytketty APP-käynnistyksen yhteydessä</string>
+    <string name="app_internal_storage">Sovelluksen sisäinen tallennustila</string>
+    <string name="load_from_downloads_folder">Lataa Lataukset-kansiosta</string>
+    <string name="browse_dirs_on_device">Selaa laitteen hakemistoja</string>
+    <string name="files_were_imported">Tiedostot tuotiin</string>
+    <string name="select_what_should_be_imported">Valitse, mitä tuodaan</string>
+    <string name="show_country_flags">Näytä maiden liput</string>
+    <string name="no_network_connection">Ei verkkoyhteyttä</string>
+    <string name="cfg_set_content_restricted_code">Pääsykoodi aikuisille tarkoitetulle sisällölle (4 numeroa)</string>
+    <string name="cfg_external_services">Ulkoisten palvelujen integrointi</string>
     </resources>

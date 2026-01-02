@@ -721,4 +721,13 @@
     <string name="change_priority">Ändra prioritet</string>
     <string name="switch_to_another_series_episode">Byt till en annan serieavsnitt</string>
     <string name="ensure_vpn_on_start">App bör se till att systemkonfigurerad VPN är ansluten vid appstart</string>
+    <string name="app_internal_storage">Appens internminne</string>
+    <string name="load_from_downloads_folder">Ladda från mappen Nedladdningar</string>
+    <string name="browse_dirs_on_device">Bläddra i kataloger på enheten</string>
+    <string name="files_were_imported">Filer importerades</string>
+    <string name="select_what_should_be_imported">Välj vad som ska importeras</string>
+    <string name="show_country_flags">Visa landsflaggor</string>
+    <string name="no_network_connection">Ingen nätverksanslutning</string>
+    <string name="cfg_set_content_restricted_code">Åtkomstkod för vuxet innehåll (4 siffror)</string>
+    <string name="cfg_external_services">Integration av externa tjänster</string>
     </resources>

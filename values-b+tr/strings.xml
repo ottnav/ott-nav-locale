@@ -721,4 +721,13 @@
     <string name="change_priority">Önceliği Değiştir</string>
     <string name="switch_to_another_series_episode">Başka bir dizi bölümüne geç</string>
     <string name="ensure_vpn_on_start">Uygulama, Sistem tarafından yapılandırılmış VPN\'nin uygulama başlatmasına bağlı olduğundan emin olmalıdır</string>
+    <string name="app_internal_storage">Uygulama dahili depolama alanı</string>
+    <string name="load_from_downloads_folder">İndirilenler klasöründen yükle</string>
+    <string name="browse_dirs_on_device">Cihazdaki dizinlere göz atın</string>
+    <string name="files_were_imported">Dosyalar içe aktarıldı</string>
+    <string name="select_what_should_be_imported">Nelerin içe aktarılması gerektiğini seçin</string>
+    <string name="show_country_flags">Ülke bayraklarını göster</string>
+    <string name="no_network_connection">Ağ bağlantısı yok</string>
+    <string name="cfg_set_content_restricted_code">Yetişkinlere yönelik içerik için erişim kodu (4 haneli)</string>
+    <string name="cfg_external_services">Dış hizmetler entegrasyonu</string>
     </resources>

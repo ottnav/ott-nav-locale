@@ -721,4 +721,13 @@
     <string name="change_priority">Ændre prioritet</string>
     <string name="switch_to_another_series_episode">Skift til en anden serie -episode</string>
     <string name="ensure_vpn_on_start">App skal sikre, at systemkonfigureret VPN er tilsluttet app-start</string>
+    <string name="app_internal_storage">App internt lager</string>
+    <string name="load_from_downloads_folder">Indlæs fra mappen Downloads</string>
+    <string name="browse_dirs_on_device">Gennemse mapper på enheden</string>
+    <string name="files_were_imported">Filer blev importeret</string>
+    <string name="select_what_should_be_imported">Vælg, hvad der skal importeres</string>
+    <string name="show_country_flags">Vis landeflag</string>
+    <string name="no_network_connection">Ingen netværksforbindelse</string>
+    <string name="cfg_set_content_restricted_code">Adgangskode til voksenindhold (4 cifre)</string>
+    <string name="cfg_external_services">Integration af eksterne tjenester</string>
     </resources>

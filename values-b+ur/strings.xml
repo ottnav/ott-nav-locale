@@ -722,4 +722,13 @@
     <string name="change_priority">ﮟﯾﺮﮐ ﻞﯾﺪﺒﺗ ﻮﮐ ﺢﯿﺟﺮﺗ</string>
     <string name="switch_to_another_series_episode">ﮟﯾﺮﮐ ﭻﺋﻮﺳ ﺮﭘ ﮧﻌﻗﺍﻭ ﺭﻭﺍ ﮏﯾﺍ ﮯﮐ ﺰﯾﺮﯿﺳ</string>
     <string name="ensure_vpn_on_start">ﮯﮨ ﮏﻠﺴﻨﻣ ﺮﭘ ﭦﺭﺎﭩﺳﺍ ﭗﯾﺍ ﻦﯾﺍ ﯽﭘ ﯼﻭ ﮏﻠﺴﻨﻣ ﮯﺳ ﻢﭩﺴﺳ ﮧﮐ ﮯﺌﮨﺎﭼ ﺎﻧﺎﻨﺑ ﯽﻨﯿﻘﯾ ﻮﮐ ﺕﺎﺑ ﺱﺍ ﻮﮐ ﯽﭘ ﯽﭘ ﮮﺍ</string>
+    <string name="app_internal_storage">ﺞﯾﺭﻮﭩﺳﺍ ﯽﻧﻭﺭﺪﻧﺍ ﭗﯾﺍ</string>
+    <string name="load_from_downloads_folder">ﮟﯾﺮﮐ ﮈﻮﻟ ﮯﺳ ﺭﮉﻟﻮﻓ ﮈﻮﻟ ﻥﺅﺍﮈ</string>
+    <string name="browse_dirs_on_device">ﮟﯾﺮﮐ ﺯﺅﺍﺮﺑ ﻮﮐ ﮞﻮﯾﺮﭩﮑﯾﺮﺋﺍﮈ ﺮﭘ ﺲﺋﺍﻮﯾﮈ</string>
+    <string name="files_were_imported">ﮟﯿﺌﮔ ﯽﮐ ﺪﻣﺁﺭﺩ ﮟﯿﻠﺋﺎﻓ</string>
+    <string name="select_what_should_be_imported">ﮯﺌﮨﺎﭼ ﺎﻧﻮﮨ ﺎﯿﮐ ﺪﻣﺁﺭﺩ ﮧﮐ ﮟﯾﺮﮐ ﺐﺨﺘﻨﻣ</string>
+    <string name="show_country_flags">ﮟﯿﺋﺎﮭﮐﺩ ﮮﮉﻨﮭﺟ ﮯﮐ ﮏﻠﻣ</string>
+    <string name="no_network_connection">ﮯﮨ ﮟﯿﮩﻧ ﻦﺸﮑﻨﮐ ﮎﺭﻭ ﭧﯿﻧ</string>
+    <string name="cfg_set_content_restricted_code">ﮟﯾﺮﮐ ﻞﺻﺎﺣ ﯽﺋﺎﺳﺭ ﮏﺗ ﮈﻮﮐ ﮯﺌﻟ ﮯﮐ (ﮯﺳﺪﻨﮨ 4) ﺩﺍﻮﻣ ﻎﻟﺎﺑ</string>
+    <string name="cfg_external_services">ﻡﺎﻤﻀﻧﺍ ﺎﮐ ﺕﺎﻣﺪﺧ ﯽﻧﻭﺮﯿﺑ</string>
     </resources>

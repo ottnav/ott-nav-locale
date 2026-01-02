@@ -721,4 +721,13 @@
     <string name="change_priority">Endre prioritet</string>
     <string name="switch_to_another_series_episode">Bytt til en annen serie -episode</string>
     <string name="ensure_vpn_on_start">APP skal sikre at systemkonfigurert VPN er koblet til på appstart</string>
+    <string name="app_internal_storage">Intern lagring i appen</string>
+    <string name="load_from_downloads_folder">Last fra nedlastingsmappen</string>
+    <string name="browse_dirs_on_device">Bla gjennom kataloger på enheten</string>
+    <string name="files_were_imported">Filer ble importert</string>
+    <string name="select_what_should_be_imported">Velg hva som skal importeres</string>
+    <string name="show_country_flags">Vis landflagg</string>
+    <string name="no_network_connection">Ingen nettverkstilkobling</string>
+    <string name="cfg_set_content_restricted_code">Tilgangskode for voksent innhold (4 sifre)</string>
+    <string name="cfg_external_services">Integrasjon av eksterne tjenester</string>
     </resources>

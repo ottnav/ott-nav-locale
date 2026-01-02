@@ -767,4 +767,13 @@
     <string name="change_priority">ﺔﻳﻮﻟﻭﻷﺍ ﺮﻴﻴﻐﺗ</string>
     <string name="switch_to_another_series_episode">ﻯﺮﺧﺃ ﺔﻠﺴﻠﺳ ﺔﻘﻠﺣ ﻰﻟﺇ ﻞﻘﺘﻧﺍ</string>
     <string name="ensure_vpn_on_start">ﻖﻴﺒﻄﺘﻟﺍ ءﺪﺑ ﺪﻨﻋ ﻡﺎﻈﻨﻟﺍ ﻦﻣ ﻥﻮﻜﻤﻟﺍ VPN ﻞﻴﺻﻮﺗ ﻦﻣ ﻖﻴﺒﻄﺘﻟﺍ ﺪﻛﺄﺘﻳ ﻥﺃ ﺐﺠﻳ</string>
+    <string name="app_internal_storage">ﺔﻴﻠﺧﺍﺪﻟﺍ ﻖﻴﺒﻄﺘﻟﺍ ﻦﻳﺰﺨﺗ</string>
+    <string name="load_from_downloads_folder">ﻞﻴﻤﺤﺘﻟﺍ ﺪﻠﺠﻣ ﻦﻣ ﻞﻴﻤﺤﺘﻟﺍ</string>
+    <string name="browse_dirs_on_device">ﺯﺎﻬﺠﻟﺍ ﻰﻠﻋ ﺕﺎﻔﻠﻤﻟﺍ ﺽﺮﻋ</string>
+    <string name="files_were_imported">ﺕﺎﻔﻠﻤﻟﺍ ﺩﺍﺮﻴﺘﺳﺍ ﻢﺗ</string>
+    <string name="select_what_should_be_imported">ﻩﺩﺍﺮﻴﺘﺳﺍ ﺐﺠﻳ ﺎﻣ ﺩﺪﺣ</string>
+    <string name="show_country_flags">ﻝﻭﺪﻟﺍ ﻡﻼ﻿ﻋﺃ ﺽﺮﻋ</string>
+    <string name="no_network_connection">ﺔﻜﺒﺸﻟﺎﺑ ﻝﺎﺼﺗﺍ ﺪﺟﻮﻳ ﻻ﻿</string>
+    <string name="cfg_set_content_restricted_code">(ﻡﺎﻗﺭﺃ 4) ﻦﻴﻐﻟﺎﺒﻟﺍ ﻯﻮﺘﺤﻤﻟ ﻝﻮﺻﻮﻟﺍ ﺰﻣﺭ</string>
+    <string name="cfg_external_services">ﺔﻴﺟﺭﺎﺨﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻞﻣﺎﻜﺗ</string>
     </resources>
